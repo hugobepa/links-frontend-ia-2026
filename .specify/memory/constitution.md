@@ -1,50 +1,48 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+# Links Frontend IA 2026 Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### I. Phase Order Is Mandatory
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+All work follows the declared sequence and hierarchy in `preproyecto/2.creacion_proyecto.md`. No skipping, no reordering, no parallel execution of future phases.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### II. Local-First Delivery
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+Development is strictly local until phase 9. No remote pushes, no GitHub Pages setup, and no cloud deployment before local validation gates are met.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### III. Data and Naming Integrity
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+Category structures, JSON/TS contracts, and naming conventions must remain consistent across folders and files, maximizing descriptiveness while preventing path-length issues in Git and GitHub.
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
+### IV. Quality Gates Per Subphase
 
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
+Each subphase requires runnable local verification (`bun run dev` or `preview`) and functional checks for navigation, search, tags, responsive behavior, and critical UI flows.
 
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+### V. Living Documentation and Traceability
+
+After each relevant change, project tracking artifacts must be updated (`preproyecto/proyecto_estructura.md` and later `resumen_datos.md`/`resumen_proyecto.md`) with concise, technical, bilingual records.
+
+## Technical and Product Constraints
+
+- Primary stack: Astro + TypeScript + Tailwind + shadcn/ui, mobile-first and responsive.
+- UX scope: category/subcategory navigation, searchable resources, tag filtering, web table vs mobile list views.
+- SEO scope: technical SEO plus AI-oriented discoverability using tags, categories, subcategories, and terms.
+- Design scope: non-generic UI aligned with project design guides under `preproyecto/pre-config-general/diseño`.
+- Build checks (`bun run build`) are reserved for critical phases and explicit checkpoints.
+
+## Workflow and Quality Gates
+
+- Speckit command flow is normative: `/speckit.constitution` -> `/speckit.specify` -> `/speckit.clarify` (optional) -> `/speckit.plan` -> `/speckit.tasks` -> `/speckit.analyze` (optional) -> `/speckit.implement`.
+- Feature scope must be confirmed before each major step.
+- One branch per phase in local git workflow, with deterministic commit naming convention.
+- No destructive git operations without explicit user approval.
+- All generated outputs must preserve maintainability, low technical debt, and clear structure.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+- This constitution overrides ad hoc decisions for this repository.
+- Any amendment requires explicit user approval and a changelog entry.
+- All reviews and planning artifacts must validate compliance with these principles.
+- If a conflict appears between speed and quality, quality and traceability take precedence.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.0.0 | **Ratified**: 2026-05-09 | **Last Amended**: 2026-05-09
