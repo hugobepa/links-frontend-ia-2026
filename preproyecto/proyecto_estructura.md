@@ -25,6 +25,7 @@ Uso: base para trabajo IA
 | 2026-05-09 | Fase 1 | Research creado          | specs/001-links-frontend-ia-phase-1 |
 | 2026-05-09 | Fase 1 | Data model creado        | specs/001-links-frontend-ia-phase-1 |
 | 2026-05-09 | Fase 1 | Quickstart creado        | specs/001-links-frontend-ia-phase-1 |
+| 2026-05-09 | Fase 1 | Tasks creado             | specs/001-links-frontend-ia-phase-1 |
 
 ## Arbol ASCII (repo)
 
