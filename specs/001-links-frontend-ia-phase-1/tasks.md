@@ -19,11 +19,11 @@
 
 ### Setup Tasks (Shared Foundation)
 
-- [ ] T001 Collect and verify repository structure from repo root
-- [ ] T002 Extract technology versions and metadata from package.json
-- [ ] T003 Review Speckit configuration in .specify/memory/constitution.md
-- [ ] T004 Inventory Copilot skills from .agents/skills/ directory
-- [ ] T005 Review GitHub support surface in .github/ and .git/
+- [X] T001 Collect and verify repository structure from repo root
+- [X] T002 Extract technology versions and metadata from package.json
+- [X] T003 Review Speckit configuration in .specify/memory/constitution.md
+- [X] T004 Inventory Copilot skills from .agents/skills/ directory
+- [X] T005 Review GitHub support surface in .github/ and .git/
 
 ---
 
@@ -35,13 +35,13 @@
 
 ### Implementation for User Story 1
 
-- [ ] T006 [US1] Create resumen_proyecto.md in repository root
-- [ ] T007 [US1] Write Spanish section covering repository overview
-- [ ] T008 [US1] Write English section covering repository overview
-- [ ] T009 [US1] Generate ASCII tree of repository structure in resumen_proyecto.md
-- [ ] T010 [P] [US1] Create technology table with name, version, category in resumen_proyecto.md
-- [ ] T011 [US1] Review and validate Astro config canonical choice (astro.config.ts)
-- [ ] T012 [US1] Document Speckit state and support surfaces in resumen_proyecto.md
+- [X] T006 [US1] Create resumen_proyecto.md in repository root
+- [X] T007 [US1] Write Spanish section covering repository overview
+- [X] T008 [US1] Write English section covering repository overview
+- [X] T009 [US1] Generate ASCII tree of repository structure in resumen_proyecto.md
+- [X] T010 [P] [US1] Create technology table with name, version, category in resumen_proyecto.md
+- [X] T011 [US1] Review and validate Astro config canonical choice (astro.config.ts)
+- [X] T012 [US1] Document Speckit state and support surfaces in resumen_proyecto.md
 
 **Checkpoint**: User Story 1 complete - repository baseline summary is reviewable and bilingual
 
@@ -55,11 +55,11 @@
 
 ### Implementation for User Story 2
 
-- [ ] T013 [P] [US2] Collect Copilot skill names from .agents/skills/ in resumen_proyecto.md
-- [ ] T014 [P] [US2] Create AGENTS table with skill name, short description (<=40 chars), category
-- [ ] T015 [US2] Review agent descriptions for clarity and completeness
-- [ ] T016 [US2] Document Speckit workflow support in resumen_proyecto.md
-- [ ] T017 [US2] Note GitHub Actions and workflow automation surfaces
+- [X] T013 [P] [US2] Collect Copilot skill names from .agents/skills/ in resumen_proyecto.md
+- [X] T014 [P] [US2] Create AGENTS table with skill name, short description (<=40 chars), category
+- [X] T015 [US2] Review agent descriptions for clarity and completeness
+- [X] T016 [US2] Document Speckit workflow support in resumen_proyecto.md
+- [X] T017 [US2] Note GitHub Actions and workflow automation surfaces
 
 **Checkpoint**: User Story 2 complete - tooling inventory is documented and usable by later phases
 
@@ -73,12 +73,12 @@
 
 ### Implementation for User Story 3
 
-- [ ] T018 [US3] Create VERSIONS table structure in resumen_proyecto.md
-- [ ] T019 [US3] Record phase 1 entry with current version number
-- [ ] T020 [US3] Add Spanish change summary (max 40 chars) for phase 1
-- [ ] T021 [US3] Add English change summary (max 40 chars) for phase 1
-- [ ] T022 [US3] Record completion timestamp in Madrid local time (HH:MM - DD/MM/YYYY)
-- [ ] T023 [US3] Verify version table is append-only and extensible
+- [X] T018 [US3] Create VERSIONS table structure in resumen_proyecto.md
+- [X] T019 [US3] Record phase 1 entry with current version number
+- [X] T020 [US3] Add Spanish change summary (max 40 chars) for phase 1
+- [X] T021 [US3] Add English change summary (max 40 chars) for phase 1
+- [X] T022 [US3] Record completion timestamp in Madrid local time (HH:MM - DD/MM/YYYY)
+- [X] T023 [US3] Verify version table is append-only and extensible
 
 **Checkpoint**: All user stories complete - phase 1 deliverables are ready for review and traceability
 
@@ -88,15 +88,15 @@
 
 **Purpose**: Ensure all phase 1 outputs meet quality gates and are ready for handoff to phase 2.
 
-- [ ] T024 Review resumen_proyecto.md for completeness against all user stories
-- [ ] T025 Validate bilingual sections (Spanish and English) are equivalent in content
-- [ ] T026 Verify ASCII tree matches actual repository structure
-- [ ] T027 Confirm technology table includes all major dependencies
-- [ ] T028 Validate agent catalog descriptions are concise and category labels are consistent
-- [ ] T029 Check version table can be extended without modification to existing entries
-- [ ] T030 Update preproyecto/proyecto_estructura.md with completion entry
-- [ ] T031 Verify no implementation code has been added (documentation only)
-- [ ] T032 Final review: summary is technical, concise, and suitable for future phase planning
+- [X] T024 Review resumen_proyecto.md for completeness against all user stories
+- [X] T025 Validate bilingual sections (Spanish and English) are equivalent in content
+- [X] T026 Verify ASCII tree matches actual repository structure
+- [X] T027 Confirm technology table includes all major dependencies
+- [X] T028 Validate agent catalog descriptions are concise and category labels are consistent
+- [X] T029 Check version table can be extended without modification to existing entries
+- [X] T030 Update preproyecto/proyecto_estructura.md with completion entry
+- [X] T031 Verify no implementation code has been added (documentation only)
+- [X] T032 Final review: summary is technical, concise, and suitable for future phase planning
 
 ---
 
