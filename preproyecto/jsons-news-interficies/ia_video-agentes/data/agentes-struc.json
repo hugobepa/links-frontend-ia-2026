@@ -1,0 +1,2536 @@
+{
+  "tags": {
+    "3d": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta 3d"
+    },
+    "adobe": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta adobe"
+    },
+    "agent": {
+      "count": 7,
+      "color": "#65a30d",
+      "description": "Etiqueta agent"
+    },
+    "agents": {
+      "count": 10,
+      "color": "#dc2626",
+      "description": "Etiqueta agents"
+    },
+    "ai": {
+      "count": 117,
+      "color": "#dc2626",
+      "description": "Etiqueta ai"
+    },
+    "analysis": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta analysis"
+    },
+    "andrew-ng": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta andrew-ng"
+    },
+    "animation": {
+      "count": 4,
+      "color": "#2563eb",
+      "description": "Etiqueta animation"
+    },
+    "anthropic": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta anthropic"
+    },
+    "api": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta api"
+    },
+    "app-development": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta app-development"
+    },
+    "apps": {
+      "count": 5,
+      "color": "#4f46e5",
+      "description": "Etiqueta apps"
+    },
+    "assistant": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta assistant"
+    },
+    "audio": {
+      "count": 4,
+      "color": "#2563eb",
+      "description": "Etiqueta audio"
+    },
+    "autoinstall": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta autoinstall"
+    },
+    "automation": {
+      "count": 9,
+      "color": "#ea580c",
+      "description": "Etiqueta automation"
+    },
+    "autonomous": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta autonomous"
+    },
+    "avatars": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta avatars"
+    },
+    "backend": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta backend"
+    },
+    "background": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta background"
+    },
+    "bank": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta bank"
+    },
+    "beginners": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta beginners"
+    },
+    "benchmark": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta benchmark"
+    },
+    "books": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta books"
+    },
+    "branding": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta branding"
+    },
+    "browser": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta browser"
+    },
+    "build": {
+      "count": 3,
+      "color": "#db2777",
+      "description": "Etiqueta build"
+    },
+    "builder": {
+      "count": 8,
+      "color": "#d97706",
+      "description": "Etiqueta builder"
+    },
+    "business": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta business"
+    },
+    "catalog": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta catalog"
+    },
+    "chatbot": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta chatbot"
+    },
+    "check": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta check"
+    },
+    "children": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta children"
+    },
+    "claude": {
+      "count": 5,
+      "color": "#dc2626",
+      "description": "Etiqueta claude"
+    },
+    "cloning": {
+      "count": 3,
+      "color": "#4f46e5",
+      "description": "Etiqueta cloning"
+    },
+    "code": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta code"
+    },
+    "collaboration": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta collaboration"
+    },
+    "collection": {
+      "count": 6,
+      "color": "#db2777",
+      "description": "Etiqueta collection"
+    },
+    "complete": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta complete"
+    },
+    "components": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta components"
+    },
+    "conference": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta conference"
+    },
+    "content": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta content"
+    },
+    "conversational": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta conversational"
+    },
+    "course": {
+      "count": 6,
+      "color": "#65a30d",
+      "description": "Etiqueta course"
+    },
+    "crawler": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta crawler"
+    },
+    "creation": {
+      "count": 4,
+      "color": "#d97706",
+      "description": "Etiqueta creation"
+    },
+    "creator": {
+      "count": 3,
+      "color": "#dc2626",
+      "description": "Etiqueta creator"
+    },
+    "custom": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta custom"
+    },
+    "dall-e": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta dall-e"
+    },
+    "dashboard": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta dashboard"
+    },
+    "data": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta data"
+    },
+    "deepmind": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta deepmind"
+    },
+    "design": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta design"
+    },
+    "design-system": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta design-system"
+    },
+    "desktop": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta desktop"
+    },
+    "developers": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta developers"
+    },
+    "development": {
+      "count": 4,
+      "color": "#65a30d",
+      "description": "Etiqueta development"
+    },
+    "devops": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta devops"
+    },
+    "digital": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta digital"
+    },
+    "documentation": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta documentation"
+    },
+    "documents": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta documents"
+    },
+    "ecosystem": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta ecosystem"
+    },
+    "editing": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta editing"
+    },
+    "editor": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta editor"
+    },
+    "education": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta education"
+    },
+    "enterprise": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta enterprise"
+    },
+    "event": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta event"
+    },
+    "experimental": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta experimental"
+    },
+    "experiments": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta experiments"
+    },
+    "extraction": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta extraction"
+    },
+    "fast": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta fast"
+    },
+    "figma": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta figma"
+    },
+    "framework": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta framework"
+    },
+    "free": {
+      "count": 5,
+      "color": "#db2777",
+      "description": "Etiqueta free"
+    },
+    "fullstack": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta fullstack"
+    },
+    "games": {
+      "count": 3,
+      "color": "#0891b2",
+      "description": "Etiqueta games"
+    },
+    "gemini": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta gemini"
+    },
+    "generation": {
+      "count": 5,
+      "color": "#db2777",
+      "description": "Etiqueta generation"
+    },
+    "generative": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta generative"
+    },
+    "generator": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta generator"
+    },
+    "github": {
+      "count": 3,
+      "color": "#d97706",
+      "description": "Etiqueta github"
+    },
+    "google": {
+      "count": 12,
+      "color": "#65a30d",
+      "description": "Etiqueta google"
+    },
+    "graphs": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta graphs"
+    },
+    "ide": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta ide"
+    },
+    "image": {
+      "count": 7,
+      "color": "#0891b2",
+      "description": "Etiqueta image"
+    },
+    "integration": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta integration"
+    },
+    "interface": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta interface"
+    },
+    "labs": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta labs"
+    },
+    "learning": {
+      "count": 3,
+      "color": "#db2777",
+      "description": "Etiqueta learning"
+    },
+    "leonardo": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta leonardo"
+    },
+    "llm": {
+      "count": 7,
+      "color": "#0891b2",
+      "description": "Etiqueta llm"
+    },
+    "local": {
+      "count": 5,
+      "color": "#d97706",
+      "description": "Etiqueta local"
+    },
+    "management": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta management"
+    },
+    "mcp": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta mcp"
+    },
+    "memory": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta memory"
+    },
+    "microsoft": {
+      "count": 4,
+      "color": "#dc2626",
+      "description": "Etiqueta microsoft"
+    },
+    "midjourney": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta midjourney"
+    },
+    "mobile": {
+      "count": 6,
+      "color": "#dc2626",
+      "description": "Etiqueta mobile"
+    },
+    "model": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta model"
+    },
+    "models": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta models"
+    },
+    "motion": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta motion"
+    },
+    "multi-agent": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta multi-agent"
+    },
+    "multipurpose": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta multipurpose"
+    },
+    "music": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta music"
+    },
+    "nlp": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta nlp"
+    },
+    "no-code": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta no-code"
+    },
+    "one-click": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta one-click"
+    },
+    "online": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta online"
+    },
+    "open-source": {
+      "count": 25,
+      "color": "#4f46e5",
+      "description": "Etiqueta open-source"
+    },
+    "openai": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta openai"
+    },
+    "pdf": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta pdf"
+    },
+    "personal": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta personal"
+    },
+    "planning": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta planning"
+    },
+    "platform": {
+      "count": 6,
+      "color": "#ea580c",
+      "description": "Etiqueta platform"
+    },
+    "plugin": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta plugin"
+    },
+    "prediction": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta prediction"
+    },
+    "productivity": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta productivity"
+    },
+    "programming": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta programming"
+    },
+    "project": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta project"
+    },
+    "prompts": {
+      "count": 11,
+      "color": "#ea580c",
+      "description": "Etiqueta prompts"
+    },
+    "prototyping": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta prototyping"
+    },
+    "qwen": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta qwen"
+    },
+    "rankings": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta rankings"
+    },
+    "removal": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta removal"
+    },
+    "resources": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta resources"
+    },
+    "responsive": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta responsive"
+    },
+    "rust": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta rust"
+    },
+    "self-hosted": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta self-hosted"
+    },
+    "services": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta services"
+    },
+    "shadcn": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta shadcn"
+    },
+    "skills": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta skills"
+    },
+    "social": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta social"
+    },
+    "software": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta software"
+    },
+    "spanish": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta spanish"
+    },
+    "specification": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta specification"
+    },
+    "steps": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta steps"
+    },
+    "summary": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta summary"
+    },
+    "support": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta support"
+    },
+    "swarm": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta swarm"
+    },
+    "tasks": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta tasks"
+    },
+    "templates": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta templates"
+    },
+    "testing": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta testing"
+    },
+    "text": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta text"
+    },
+    "thumbnail": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta thumbnail"
+    },
+    "tokens": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta tokens"
+    },
+    "tool": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta tool"
+    },
+    "tools": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta tools"
+    },
+    "tts": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta tts"
+    },
+    "typography": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta typography"
+    },
+    "ui": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta ui"
+    },
+    "ui-ux": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta ui-ux"
+    },
+    "vercel": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta vercel"
+    },
+    "video": {
+      "count": 15,
+      "color": "#0891b2",
+      "description": "Etiqueta video"
+    },
+    "visual": {
+      "count": 3,
+      "color": "#2563eb",
+      "description": "Etiqueta visual"
+    },
+    "voice": {
+      "count": 3,
+      "color": "#7c3aed",
+      "description": "Etiqueta voice"
+    },
+    "web": {
+      "count": 8,
+      "color": "#db2777",
+      "description": "Etiqueta web"
+    },
+    "web-app": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta web-app"
+    },
+    "web-builder": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta web-builder"
+    },
+    "workflow": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta workflow"
+    },
+    "workspace": {
+      "count": 3,
+      "color": "#0891b2",
+      "description": "Etiqueta workspace"
+    },
+    "youtube": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta youtube"
+    }
+  },
+  "searchIndex": {
+    "fields": [
+      {
+        "name": "name",
+        "weight": 3,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "description",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "tags",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "category",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "subcategory",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      }
+    ],
+    "entries": [
+      {
+        "id": "abacus",
+        "slug": "abacus",
+        "terms": [
+          "Abacus",
+          "abacus",
+          "IA workspace dev app/web deep agent",
+          "ai",
+          "specialized-tools",
+          "workspace",
+          "development",
+          "agent"
+        ]
+      },
+      {
+        "id": "agent-skills-anthropic",
+        "slug": "agent-skills-anthropic",
+        "terms": [
+          "Agent Skills Anthropic",
+          "agent-skills-anthropic",
+          "Curso agentes IA con Anthropic",
+          "ai",
+          "courses-learning",
+          "agents",
+          "anthropic",
+          "course"
+        ]
+      },
+      {
+        "id": "ai-agents-beginners",
+        "slug": "ai-agents-for-beginners",
+        "terms": [
+          "AI Agents for Beginners",
+          "ai-agents-for-beginners",
+          "Microsoft curso agentes IA principiantes",
+          "ai",
+          "courses-learning",
+          "agents",
+          "microsoft",
+          "beginners",
+          "open-source"
+        ]
+      },
+      {
+        "id": "ai-resources-tools",
+        "slug": "ai-resources-tools",
+        "terms": [
+          "AI Resources & Tools",
+          "ai-resources-tools",
+          "Colección recursos IA",
+          "ai",
+          "courses-learning",
+          "resources",
+          "tools",
+          "collection",
+          "open-source"
+        ]
+      },
+      {
+        "id": "ai-tmpl",
+        "slug": "ai-tmpl",
+        "terms": [
+          "AI TMPL",
+          "ai-tmpl",
+          "+1000 plantillas Claude",
+          "ai",
+          "courses-learning",
+          "claude",
+          "templates"
+        ]
+      },
+      {
+        "id": "anthropic-academy",
+        "slug": "anthropic-academy",
+        "terms": [
+          "Anthropic Academy",
+          "anthropic-academy",
+          "Curso gratis IA Anthropic",
+          "ai",
+          "courses-learning",
+          "anthropic",
+          "course",
+          "free"
+        ]
+      },
+      {
+        "id": "anycrawl",
+        "slug": "anycrawl",
+        "terms": [
+          "AnyCrawl",
+          "anycrawl",
+          "Crawler agéntico extracción datos",
+          "ai",
+          "agents-automation",
+          "crawler",
+          "data",
+          "extraction",
+          "agent"
+        ]
+      },
+      {
+        "id": "apidog",
+        "slug": "apidog",
+        "terms": [
+          "Apidog",
+          "apidog",
+          "Creador/test IA de backends",
+          "ai",
+          "specialized-tools",
+          "backend",
+          "testing",
+          "api"
+        ]
+      },
+      {
+        "id": "appypie",
+        "slug": "appypie",
+        "terms": [
+          "AppyPie",
+          "appypie",
+          "Builder IA App móviles sin código",
+          "ai",
+          "specialized-tools",
+          "builder",
+          "mobile",
+          "no-code"
+        ]
+      },
+      {
+        "id": "autoskills",
+        "slug": "autoskills",
+        "terms": [
+          "AutoSkills",
+          "autoskills",
+          "Autoinstall skill Vercel por stack",
+          "ai",
+          "specialized-tools",
+          "skills",
+          "vercel",
+          "autoinstall"
+        ]
+      },
+      {
+        "id": "awesomegptprompts",
+        "slug": "awesomegptprompts",
+        "terms": [
+          "AwesomeGPTPrompts",
+          "awesomegptprompts",
+          "MILES de prompts imagen/video",
+          "ai",
+          "prompts-collections",
+          "prompts",
+          "image",
+          "video"
+        ]
+      },
+      {
+        "id": "bardeen",
+        "slug": "bardeen",
+        "terms": [
+          "Bardeen",
+          "bardeen",
+          "Automatización de tareas web",
+          "ai",
+          "agents-automation",
+          "automation",
+          "web",
+          "tasks"
+        ]
+      },
+      {
+        "id": "blink-new",
+        "slug": "blink-new",
+        "terms": [
+          "Blink.new",
+          "blink-new",
+          "Build IA full-stack, mobile, web",
+          "ai",
+          "agents-automation",
+          "build",
+          "fullstack",
+          "mobile",
+          "web"
+        ]
+      },
+      {
+        "id": "bolt-new",
+        "slug": "bolt-new",
+        "terms": [
+          "Bolt.new",
+          "bolt-new",
+          "Generador sistema diseño con un solo clic",
+          "ai",
+          "ui",
+          "design-system",
+          "generator",
+          "one-click"
+        ]
+      },
+      {
+        "id": "book-building-agents",
+        "slug": "book-building-agents",
+        "terms": [
+          "Book Building Agents",
+          "book-building-agents",
+          "Libros construir agentes IA",
+          "ai",
+          "courses-learning",
+          "agents",
+          "books",
+          "learning"
+        ]
+      },
+      {
+        "id": "canirun",
+        "slug": "canirun",
+        "terms": [
+          "CanIRun",
+          "canirun",
+          "Chequeo LLM model local en computer",
+          "ai",
+          "courses-learning",
+          "llm",
+          "local",
+          "check"
+        ]
+      },
+      {
+        "id": "caveman",
+        "slug": "caveman",
+        "terms": [
+          "Caveman",
+          "caveman",
+          "Plugin ahorrar tokens Claude/Codex",
+          "ai",
+          "specialized-tools",
+          "plugin",
+          "tokens",
+          "claude",
+          "open-source"
+        ]
+      },
+      {
+        "id": "chatsimple",
+        "slug": "chatsimple",
+        "terms": [
+          "Chatsimple",
+          "chatsimple",
+          "Chatbot de IA para empresas",
+          "ai",
+          "agents-automation",
+          "chatbot",
+          "business",
+          "enterprise"
+        ]
+      },
+      {
+        "id": "claude-agents",
+        "slug": "claude-agents",
+        "terms": [
+          "Claude Agents",
+          "claude-agents",
+          "Colección agentes Claude",
+          "ai",
+          "courses-learning",
+          "claude",
+          "agents",
+          "collection"
+        ]
+      },
+      {
+        "id": "claude-code-game-studios",
+        "slug": "claude-code-game-studios",
+        "terms": [
+          "Claude Code Game Studios",
+          "claude-code-game-studios",
+          "Colección agentes IA games",
+          "ai",
+          "courses-learning",
+          "claude",
+          "games",
+          "collection",
+          "open-source"
+        ]
+      },
+      {
+        "id": "claurst",
+        "slug": "claurst",
+        "terms": [
+          "Claurst",
+          "claurst",
+          "Copia CLAUDE en RUST",
+          "ai",
+          "specialized-tools",
+          "claude",
+          "rust",
+          "open-source"
+        ]
+      },
+      {
+        "id": "composio",
+        "slug": "composio",
+        "terms": [
+          "Composio",
+          "composio",
+          "Integra 200+ herramientas para agentes IA",
+          "ai",
+          "agents-automation",
+          "agents",
+          "integration",
+          "tools"
+        ]
+      },
+      {
+        "id": "core-ai",
+        "slug": "core-ai",
+        "terms": [
+          "Core AI",
+          "core-ai",
+          "Plataforma de IA conversacional",
+          "ai",
+          "specialized-tools",
+          "conversational",
+          "platform"
+        ]
+      },
+      {
+        "id": "creao",
+        "slug": "creao",
+        "terms": [
+          "Creao",
+          "creao",
+          "Build IA create agent personalizado",
+          "ai",
+          "agents-automation",
+          "build",
+          "agent",
+          "custom"
+        ]
+      },
+      {
+        "id": "deeplearning-ai-build",
+        "slug": "deeplearning-ai-build-with-andrew",
+        "terms": [
+          "DeepLearning.AI Build with Andrew",
+          "deeplearning-ai-build-with-andrew",
+          "Crear app con IA paso a paso",
+          "ai",
+          "courses-learning",
+          "course",
+          "andrew-ng",
+          "app-development"
+        ]
+      },
+      {
+        "id": "delphi",
+        "slug": "delphi",
+        "terms": [
+          "Delphi",
+          "delphi",
+          "Clonación digital con IA",
+          "ai",
+          "specialized-tools",
+          "cloning",
+          "digital"
+        ]
+      },
+      {
+        "id": "descript",
+        "slug": "descript",
+        "terms": [
+          "Descript",
+          "descript",
+          "Edición de audio y video con IA",
+          "ai",
+          "video-audio",
+          "audio",
+          "video",
+          "editing"
+        ]
+      },
+      {
+        "id": "easemate",
+        "slug": "easemate",
+        "terms": [
+          "Easemate",
+          "easemate",
+          "IA crear imágenes animadas",
+          "ai",
+          "video-audio",
+          "image",
+          "animation",
+          "creation"
+        ]
+      },
+      {
+        "id": "ecosistema-ia",
+        "slug": "ecosistema-ia",
+        "terms": [
+          "Ecosistema IA",
+          "ecosistema-ia",
+          "Ecosistema IA programar GitHub",
+          "ai",
+          "courses-learning",
+          "ecosystem",
+          "programming",
+          "github",
+          "open-source"
+        ]
+      },
+      {
+        "id": "educaxd",
+        "slug": "educaxd",
+        "terms": [
+          "Educaxd",
+          "educaxd",
+          "Plataforma educativa IA para niños",
+          "ai",
+          "specialized-tools",
+          "education",
+          "children",
+          "platform"
+        ]
+      },
+      {
+        "id": "elevenlabs",
+        "slug": "elevenlabs",
+        "terms": [
+          "ElevenLabs",
+          "elevenlabs",
+          "Clonación y síntesis de voz realista",
+          "ai",
+          "video-audio",
+          "voice",
+          "audio",
+          "cloning",
+          "tts"
+        ]
+      },
+      {
+        "id": "emergent",
+        "slug": "emergent",
+        "terms": [
+          "Emergent",
+          "emergent",
+          "Builder IA web & mobile con agentes",
+          "ai",
+          "ui",
+          "builder",
+          "web",
+          "mobile",
+          "agents"
+        ]
+      },
+      {
+        "id": "emergent-wingman",
+        "slug": "emergent-wingman",
+        "terms": [
+          "Emergent Wingman",
+          "emergent-wingman",
+          "Agente IA autómata & webBuilder",
+          "ai",
+          "agents-automation",
+          "agent",
+          "automation",
+          "web-builder"
+        ]
+      },
+      {
+        "id": "firefly",
+        "slug": "firefly",
+        "terms": [
+          "Firefly",
+          "firefly",
+          "IA imágenes 2D/3D animadas y videos",
+          "ai",
+          "video-audio",
+          "image",
+          "video",
+          "adobe",
+          "animation"
+        ]
+      },
+      {
+        "id": "flova-ai",
+        "slug": "flova-ai",
+        "terms": [
+          "Flova AI",
+          "flova-ai",
+          "IDE build image, video",
+          "ai",
+          "courses-learning",
+          "ide",
+          "image",
+          "video"
+        ]
+      },
+      {
+        "id": "flowith",
+        "slug": "flowith",
+        "terms": [
+          "Flowith",
+          "flowith",
+          "IA agente/navegador builder",
+          "ai",
+          "agents-automation",
+          "agent",
+          "browser",
+          "builder"
+        ]
+      },
+      {
+        "id": "free-llm-api-resources",
+        "slug": "free-llm-api-resources",
+        "terms": [
+          "Free LLM API Resources",
+          "free-llm-api-resources",
+          "Colección LLM API recursos gratis",
+          "ai",
+          "courses-learning",
+          "llm",
+          "api",
+          "free",
+          "open-source"
+        ]
+      },
+      {
+        "id": "gemma-4",
+        "slug": "gemma-4",
+        "terms": [
+          "Gemma-4",
+          "gemma-4",
+          "Modelo Google open source",
+          "ai",
+          "specialized-tools",
+          "google",
+          "model",
+          "open-source"
+        ]
+      },
+      {
+        "id": "genallai",
+        "slug": "genallai",
+        "terms": [
+          "GenAllAI",
+          "genallai",
+          "Colección prompts IA",
+          "ai",
+          "courses-learning",
+          "prompts",
+          "collection"
+        ]
+      },
+      {
+        "id": "generative-ai-beginners",
+        "slug": "generative-ai-for-beginners",
+        "terms": [
+          "Generative AI for Beginners",
+          "generative-ai-for-beginners",
+          "Curso IA generativa Microsoft",
+          "ai",
+          "courses-learning",
+          "generative",
+          "microsoft",
+          "beginners",
+          "open-source"
+        ]
+      },
+      {
+        "id": "genspark",
+        "slug": "genspark",
+        "terms": [
+          "Genspark",
+          "genspark",
+          "Workspace IA multi-agente",
+          "ai",
+          "specialized-tools",
+          "workspace",
+          "multi-agent"
+        ]
+      },
+      {
+        "id": "github-mcp",
+        "slug": "github-mcp",
+        "terms": [
+          "GitHub MCP",
+          "github-mcp",
+          "Colección oficial MCP repositorio",
+          "ai",
+          "courses-learning",
+          "github",
+          "mcp",
+          "collection",
+          "open-source"
+        ]
+      },
+      {
+        "id": "goodbarber",
+        "slug": "goodbarber",
+        "terms": [
+          "GoodBarber",
+          "goodbarber",
+          "App builder IA apps móviles",
+          "ai",
+          "specialized-tools",
+          "builder",
+          "mobile",
+          "apps"
+        ]
+      },
+      {
+        "id": "google-ai-studio",
+        "slug": "google-ai-studio",
+        "terms": [
+          "Google AI Studio",
+          "google-ai-studio",
+          "Plataforma convertir prototipos en apps",
+          "ai",
+          "courses-learning",
+          "google",
+          "platform",
+          "prototyping",
+          "apps"
+        ]
+      },
+      {
+        "id": "google-automa",
+        "slug": "google-automa",
+        "terms": [
+          "Google AutoMa",
+          "google-automa",
+          "Google automatización workspace",
+          "ai",
+          "courses-learning",
+          "google",
+          "automation",
+          "workspace"
+        ]
+      },
+      {
+        "id": "google-gemini-canvas",
+        "slug": "google-gemini-canvas",
+        "terms": [
+          "Google Gemini Canvas",
+          "google-gemini-canvas",
+          "Convierte bocetos en apps y juegos",
+          "ai",
+          "courses-learning",
+          "google",
+          "gemini",
+          "apps",
+          "games"
+        ]
+      },
+      {
+        "id": "google-grow",
+        "slug": "google-grow",
+        "terms": [
+          "Google Grow",
+          "google-grow",
+          "Curso de aprendizaje y mejora Google",
+          "ai",
+          "courses-learning",
+          "google",
+          "course",
+          "learning"
+        ]
+      },
+      {
+        "id": "google-io-2026",
+        "slug": "google-io-2026",
+        "terms": [
+          "Google IO 2026",
+          "google-io-2026",
+          "Evento Google IO 2026",
+          "ai",
+          "courses-learning",
+          "google",
+          "event",
+          "conference"
+        ]
+      },
+      {
+        "id": "google-labs",
+        "slug": "google-labs",
+        "terms": [
+          "Google Labs",
+          "google-labs",
+          "Experimentos e IA de Google",
+          "ai",
+          "courses-learning",
+          "google",
+          "experiments",
+          "labs"
+        ]
+      },
+      {
+        "id": "google-notebooklm",
+        "slug": "google-notebooklm",
+        "terms": [
+          "Google NotebookLM",
+          "google-notebooklm",
+          "Analiza PDFs y documentos con IA",
+          "ai",
+          "courses-learning",
+          "google",
+          "pdf",
+          "documents",
+          "analysis"
+        ]
+      },
+      {
+        "id": "google-opal",
+        "slug": "google-opal",
+        "terms": [
+          "Google Opal",
+          "google-opal",
+          "Herramienta crear automatizaciones IA",
+          "ai",
+          "courses-learning",
+          "google",
+          "automation",
+          "tool"
+        ]
+      },
+      {
+        "id": "google-pomelli",
+        "slug": "google-pomelli",
+        "terms": [
+          "Google Pomelli",
+          "google-pomelli",
+          "Generador identidad visual marcas",
+          "ai",
+          "courses-learning",
+          "google",
+          "branding",
+          "visual"
+        ]
+      },
+      {
+        "id": "google-stitch",
+        "slug": "google-stitch",
+        "terms": [
+          "Google Stitch",
+          "google-stitch",
+          "Prototipado experimental IA Google",
+          "ai",
+          "courses-learning",
+          "google",
+          "prototyping",
+          "experimental"
+        ]
+      },
+      {
+        "id": "google-stitch-design-md",
+        "slug": "google-stitch-design-md",
+        "terms": [
+          "Google Stitch DESIGN.md",
+          "google-stitch-design-md",
+          "Especificación oficial DESIGN.md para agentes IA",
+          "ai",
+          "ui",
+          "design",
+          "specification",
+          "documentation"
+        ]
+      },
+      {
+        "id": "hercules",
+        "slug": "hercules",
+        "terms": [
+          "Hercules",
+          "hercules",
+          "Creador IA webs con componentes",
+          "ai",
+          "ui",
+          "web",
+          "creator",
+          "components"
+        ]
+      },
+      {
+        "id": "heygen",
+        "slug": "heygen",
+        "terms": [
+          "HeyGen",
+          "heygen",
+          "Generación de video con avatares",
+          "ai",
+          "video-audio",
+          "video",
+          "avatars",
+          "generation"
+        ]
+      },
+      {
+        "id": "higgsfield",
+        "slug": "higgsfield",
+        "terms": [
+          "Higgsfield",
+          "higgsfield",
+          "Creación de video para redes sociales",
+          "ai",
+          "video-audio",
+          "video",
+          "social",
+          "creation"
+        ]
+      },
+      {
+        "id": "huggingface-agents-course",
+        "slug": "hugging-face-agents-course",
+        "terms": [
+          "Hugging Face Agents Course",
+          "hugging-face-agents-course",
+          "Curso agentes IA en español",
+          "ai",
+          "courses-learning",
+          "agents",
+          "course",
+          "free",
+          "spanish"
+        ]
+      },
+      {
+        "id": "huggingface-llm-course",
+        "slug": "hugging-face-llm-course",
+        "terms": [
+          "Hugging Face LLM Course",
+          "hugging-face-llm-course",
+          "Curso gratuito de LLMs en español",
+          "ai",
+          "courses-learning",
+          "llm",
+          "course",
+          "free",
+          "spanish"
+        ]
+      },
+      {
+        "id": "imaginebuddy",
+        "slug": "imaginebuddy",
+        "terms": [
+          "ImagineBuddy",
+          "imaginebuddy",
+          "MILES de prompts Midjourney, DALL-E, Leonardo",
+          "ai",
+          "prompts-collections",
+          "prompts",
+          "midjourney",
+          "dall-e",
+          "leonardo"
+        ]
+      },
+      {
+        "id": "infinite-monitor",
+        "slug": "infinite-monitor",
+        "terms": [
+          "Infinite Monitor",
+          "infinite-monitor",
+          "IA builder dashboard",
+          "ai",
+          "specialized-tools",
+          "builder",
+          "dashboard"
+        ]
+      },
+      {
+        "id": "langchain",
+        "slug": "langchain",
+        "terms": [
+          "LangChain",
+          "langchain",
+          "Desarrollo de apps basadas en LLM",
+          "ai",
+          "agents-automation",
+          "llm",
+          "framework",
+          "development",
+          "open-source"
+        ]
+      },
+      {
+        "id": "lessie-ai",
+        "slug": "lessie-ai",
+        "terms": [
+          "Lessie AI",
+          "lessie-ai",
+          "Asistente IA personal",
+          "ai",
+          "agents-automation",
+          "assistant",
+          "personal"
+        ]
+      },
+      {
+        "id": "levity",
+        "slug": "levity",
+        "terms": [
+          "Levity",
+          "levity",
+          "Automatización de tareas de texto",
+          "ai",
+          "agents-automation",
+          "automation",
+          "text",
+          "tasks"
+        ]
+      },
+      {
+        "id": "llmfit",
+        "slug": "llmfit",
+        "terms": [
+          "LLMFit",
+          "llmfit",
+          "Modelo LLM local mejor GitHub",
+          "ai",
+          "courses-learning",
+          "llm",
+          "local",
+          "github",
+          "open-source"
+        ]
+      },
+      {
+        "id": "lovable",
+        "slug": "lovable",
+        "terms": [
+          "Lovable",
+          "lovable",
+          "Plataforma desarrollo IA para construir apps web rápido",
+          "ai",
+          "ui",
+          "development",
+          "web-app",
+          "fast"
+        ]
+      },
+      {
+        "id": "luma-labs",
+        "slug": "luma-labs",
+        "terms": [
+          "Luma Labs",
+          "luma-labs",
+          "Generación video y 3D con IA",
+          "ai",
+          "specialized-tools",
+          "video",
+          "3d",
+          "generation"
+        ]
+      },
+      {
+        "id": "magicloops",
+        "slug": "magicloops",
+        "terms": [
+          "MagicLoops",
+          "magicloops",
+          "IA builder web/móvil rápido",
+          "ai",
+          "ui",
+          "builder",
+          "web",
+          "mobile",
+          "fast"
+        ]
+      },
+      {
+        "id": "make",
+        "slug": "make",
+        "terms": [
+          "Make",
+          "make",
+          "Automatización de flujos de trabajo visual",
+          "ai",
+          "agents-automation",
+          "automation",
+          "workflow",
+          "visual"
+        ]
+      },
+      {
+        "id": "mammouth-ai",
+        "slug": "mammouth-ai",
+        "terms": [
+          "Mammouth AI",
+          "mammouth-ai",
+          "Agente IA autónomo completo",
+          "ai",
+          "agents-automation",
+          "agent",
+          "autonomous",
+          "complete"
+        ]
+      },
+      {
+        "id": "mempalace",
+        "slug": "mempalace",
+        "terms": [
+          "MemPalace",
+          "mempalace",
+          "Gestor memoria para IA",
+          "ai",
+          "agents-automation",
+          "memory",
+          "management",
+          "open-source"
+        ]
+      },
+      {
+        "id": "merleau",
+        "slug": "merleau",
+        "terms": [
+          "Merleau",
+          "merleau",
+          "Resumir videos YouTube",
+          "ai",
+          "specialized-tools",
+          "youtube",
+          "summary",
+          "video"
+        ]
+      },
+      {
+        "id": "microsoft-build",
+        "slug": "microsoft-build",
+        "terms": [
+          "Microsoft Build",
+          "microsoft-build",
+          "Recursos devs Microsoft",
+          "ai",
+          "courses-learning",
+          "microsoft",
+          "developers",
+          "resources"
+        ]
+      },
+      {
+        "id": "microsoft-mcp",
+        "slug": "microsoft-mcp",
+        "terms": [
+          "Microsoft MCP",
+          "microsoft-mcp",
+          "MCP learning Microsoft",
+          "ai",
+          "courses-learning",
+          "microsoft",
+          "mcp",
+          "learning",
+          "open-source"
+        ]
+      },
+      {
+        "id": "mirofish",
+        "slug": "mirofish",
+        "terms": [
+          "MiroFish",
+          "mirofish",
+          "Motor IA predicción con enjambre",
+          "ai",
+          "specialized-tools",
+          "prediction",
+          "swarm"
+        ]
+      },
+      {
+        "id": "murf",
+        "slug": "murph",
+        "terms": [
+          "Murph",
+          "murph",
+          "Generador de voces con IA",
+          "ai",
+          "video-audio",
+          "voice",
+          "audio",
+          "generation"
+        ]
+      },
+      {
+        "id": "n8n",
+        "slug": "n8n",
+        "terms": [
+          "n8n",
+          "Automatización de código abierto self-hosted",
+          "ai",
+          "agents-automation",
+          "automation",
+          "open-source",
+          "self-hosted"
+        ]
+      },
+      {
+        "id": "namiru-ai",
+        "slug": "namiru-ai",
+        "terms": [
+          "Namiru AI",
+          "namiru-ai",
+          "Plataforma agentes IA",
+          "ai",
+          "agents-automation",
+          "agents",
+          "platform"
+        ]
+      },
+      {
+        "id": "nano-banana",
+        "slug": "nano-banana",
+        "terms": [
+          "Nano Banana",
+          "nano-banana",
+          "Generador de contenido con IA",
+          "ai",
+          "specialized-tools",
+          "content",
+          "generator"
+        ]
+      },
+      {
+        "id": "notion",
+        "slug": "notion",
+        "terms": [
+          "Notion",
+          "notion",
+          "Crear planificación proyecto IA",
+          "ai",
+          "specialized-tools",
+          "planning",
+          "project",
+          "productivity"
+        ]
+      },
+      {
+        "id": "okara-ai",
+        "slug": "okara-ai",
+        "terms": [
+          "Okara AI",
+          "okara-ai",
+          "Plataforma IA conversacional",
+          "ai",
+          "agents-automation",
+          "conversational",
+          "platform"
+        ]
+      },
+      {
+        "id": "omma",
+        "slug": "omma",
+        "terms": [
+          "Omma",
+          "omma",
+          "IA Builder 3D scenes, web, games, apps",
+          "ai",
+          "ui",
+          "builder",
+          "3d",
+          "web",
+          "games",
+          "apps"
+        ]
+      },
+      {
+        "id": "open-webui",
+        "slug": "open-webui",
+        "terms": [
+          "Open WebUI",
+          "open-webui",
+          "Interfaz web para LLMs locales",
+          "ai",
+          "agents-automation",
+          "llm",
+          "local",
+          "interface",
+          "open-source"
+        ]
+      },
+      {
+        "id": "openrouter-rankings",
+        "slug": "openrouter-rankings",
+        "terms": [
+          "OpenRouter Rankings",
+          "openrouter-rankings",
+          "Rankings LLM open source",
+          "ai",
+          "courses-learning",
+          "llm",
+          "rankings",
+          "open-source"
+        ]
+      },
+      {
+        "id": "pdfelement",
+        "slug": "pdfelement",
+        "terms": [
+          "PDFElement",
+          "pdfelement",
+          "Editor PDF IA",
+          "ai",
+          "specialized-tools",
+          "pdf",
+          "editor"
+        ]
+      },
+      {
+        "id": "pollo-ai",
+        "slug": "pollo-ai",
+        "terms": [
+          "Pollo AI",
+          "pollo-ai",
+          "Animación de video con IA Mimic Motion",
+          "ai",
+          "video-audio",
+          "video",
+          "animation",
+          "motion"
+        ]
+      },
+      {
+        "id": "prometheus-euniai",
+        "slug": "prometheus-euniai",
+        "terms": [
+          "Prometheus EuniAI",
+          "prometheus-euniai",
+          "Framework agentes IA con grafos",
+          "ai",
+          "agents-automation",
+          "agents",
+          "framework",
+          "graphs",
+          "open-source"
+        ]
+      },
+      {
+        "id": "prompt-packs",
+        "slug": "prompt-packs",
+        "terms": [
+          "Prompt Packs",
+          "prompt-packs",
+          "Plataforma prompts OpenAI",
+          "ai",
+          "prompts-collections",
+          "prompts",
+          "openai",
+          "platform"
+        ]
+      },
+      {
+        "id": "promptcowboys",
+        "slug": "promptcowboys",
+        "terms": [
+          "PromptCowboys",
+          "promptcowboys",
+          "Generador de prompts",
+          "ai",
+          "prompts-collections",
+          "prompts",
+          "generator"
+        ]
+      },
+      {
+        "id": "promptden",
+        "slug": "promptden",
+        "terms": [
+          "PromptDen",
+          "promptden",
+          "MILES de prompts para desarrollo software",
+          "ai",
+          "prompts-collections",
+          "prompts",
+          "development",
+          "software"
+        ]
+      },
+      {
+        "id": "prompthero",
+        "slug": "prompthero",
+        "terms": [
+          "PromptHero",
+          "prompthero",
+          "MILES de prompts visuales imagen/video",
+          "ai",
+          "prompts-collections",
+          "prompts",
+          "visual",
+          "image",
+          "video"
+        ]
+      },
+      {
+        "id": "prompts-chat",
+        "slug": "prompts-chat",
+        "terms": [
+          "Prompts Chat",
+          "prompts-chat",
+          "Gratis Open Source",
+          "ai",
+          "prompts-collections",
+          "prompts",
+          "free",
+          "open-source"
+        ]
+      },
+      {
+        "id": "promptsy",
+        "slug": "promptsy",
+        "terms": [
+          "PromptsY",
+          "promptsy",
+          "Banco de prompts IA",
+          "ai",
+          "prompts-collections",
+          "prompts",
+          "bank"
+        ]
+      },
+      {
+        "id": "qwen-code",
+        "slug": "qwen-code",
+        "terms": [
+          "Qwen Code",
+          "qwen-code",
+          "Qwen code desktop",
+          "ai",
+          "specialized-tools",
+          "qwen",
+          "code",
+          "desktop",
+          "open-source"
+        ]
+      },
+      {
+        "id": "readdy",
+        "slug": "readdy",
+        "terms": [
+          "Readdy",
+          "readdy",
+          "IA builder web/móvil con templates",
+          "ai",
+          "ui",
+          "builder",
+          "web",
+          "mobile",
+          "templates"
+        ]
+      },
+      {
+        "id": "rely-app",
+        "slug": "rely-app",
+        "terms": [
+          "Rely.app",
+          "rely-app",
+          "Catálogo de servicios de software",
+          "ai",
+          "specialized-tools",
+          "catalog",
+          "software",
+          "services"
+        ]
+      },
+      {
+        "id": "remove-bg",
+        "slug": "remove-bg",
+        "terms": [
+          "Remove.bg",
+          "remove-bg",
+          "IA eliminar fondos de foto",
+          "ai",
+          "video-audio",
+          "image",
+          "background",
+          "removal"
+        ]
+      },
+      {
+        "id": "rocket",
+        "slug": "rocket",
+        "terms": [
+          "Rocket",
+          "rocket",
+          "IA imágenes, videos y FIGMA",
+          "ai",
+          "agents-automation",
+          "image",
+          "video",
+          "figma"
+        ]
+      },
+      {
+        "id": "skillsmp",
+        "slug": "skillsmp",
+        "terms": [
+          "SkillsMP",
+          "skillsmp",
+          "Colección skills IA",
+          "ai",
+          "courses-learning",
+          "skills",
+          "collection"
+        ]
+      },
+      {
+        "id": "skysnail",
+        "slug": "skysnail",
+        "terms": [
+          "Skysnail",
+          "skysnail",
+          "Creador thumbnail IA",
+          "ai",
+          "specialized-tools",
+          "thumbnail",
+          "creator"
+        ]
+      },
+      {
+        "id": "skywork",
+        "slug": "skywork",
+        "terms": [
+          "Skywork",
+          "skywork",
+          "Build IA multipropósito varios pasos",
+          "ai",
+          "agents-automation",
+          "build",
+          "multipurpose",
+          "steps"
+        ]
+      },
+      {
+        "id": "snack-prompt",
+        "slug": "snack-prompt",
+        "terms": [
+          "Snack Prompt",
+          "snack-prompt",
+          "MILES de prompts DevOps, UI/UX, TechSupport",
+          "ai",
+          "prompts-collections",
+          "prompts",
+          "devops",
+          "ui-ux",
+          "support"
+        ]
+      },
+      {
+        "id": "stagehand",
+        "slug": "stagehand",
+        "terms": [
+          "Stagehand",
+          "stagehand",
+          "Automatiza navegador con IA lenguaje natural",
+          "ai",
+          "agents-automation",
+          "browser",
+          "automation",
+          "nlp",
+          "open-source"
+        ]
+      },
+      {
+        "id": "suno",
+        "slug": "suno",
+        "terms": [
+          "Suno",
+          "suno",
+          "Generación de música con IA",
+          "ai",
+          "video-audio",
+          "music",
+          "audio",
+          "generation"
+        ]
+      },
+      {
+        "id": "superpowers",
+        "slug": "superpowers",
+        "terms": [
+          "Superpowers",
+          "superpowers",
+          "Agente IA colaboración programación",
+          "ai",
+          "agents-automation",
+          "agent",
+          "programming",
+          "collaboration",
+          "open-source"
+        ]
+      },
+      {
+        "id": "synthesia",
+        "slug": "synthesia",
+        "terms": [
+          "Synthesia",
+          "synthesia",
+          "Creación de videos con IA avatar",
+          "ai",
+          "video-audio",
+          "video",
+          "avatars",
+          "creation"
+        ]
+      },
+      {
+        "id": "typeless",
+        "slug": "typeless",
+        "terms": [
+          "Typeless",
+          "typeless",
+          "Herramientas tipografía IA",
+          "ai",
+          "specialized-tools",
+          "typography",
+          "tools"
+        ]
+      },
+      {
+        "id": "v0-vercel",
+        "slug": "v0-by-vercel",
+        "terms": [
+          "v0 by Vercel",
+          "v0-by-vercel",
+          "Genera interfaces responsivas desde prompts con Shadcn",
+          "ai",
+          "ui",
+          "vercel",
+          "shadcn",
+          "responsive"
+        ]
+      },
+      {
+        "id": "veo",
+        "slug": "veo",
+        "terms": [
+          "Veo",
+          "veo",
+          "Generación de video de Google DeepMind",
+          "ai",
+          "video-audio",
+          "video",
+          "google",
+          "deepmind",
+          "generation"
+        ]
+      },
+      {
+        "id": "verdant-ai",
+        "slug": "verdant-ai",
+        "terms": [
+          "Verdant AI",
+          "verdant-ai",
+          "IDE IA diferentes agents",
+          "ai",
+          "courses-learning",
+          "ide",
+          "agents"
+        ]
+      },
+      {
+        "id": "vidstudio",
+        "slug": "vidstudio",
+        "terms": [
+          "VidStudio",
+          "vidstudio",
+          "Editor video online con IA",
+          "ai",
+          "video-audio",
+          "video",
+          "editor",
+          "online"
+        ]
+      },
+      {
+        "id": "vidu",
+        "slug": "vidu",
+        "terms": [
+          "Vidu",
+          "vidu",
+          "IA crear imágenes animadas video",
+          "ai",
+          "video-audio",
+          "video",
+          "animation",
+          "creation"
+        ]
+      },
+      {
+        "id": "voicebox",
+        "slug": "voicebox",
+        "terms": [
+          "Voicebox",
+          "voicebox",
+          "Clonador voces modo local",
+          "ai",
+          "video-audio",
+          "voice",
+          "cloning",
+          "local",
+          "open-source"
+        ]
+      },
+      {
+        "id": "vox-cpm",
+        "slug": "vox-cpm",
+        "terms": [
+          "Vox CPM",
+          "vox-cpm",
+          "Prompts ordenes token",
+          "ai",
+          "specialized-tools",
+          "prompts",
+          "tokens",
+          "open-source"
+        ]
+      },
+      {
+        "id": "whatcanirun",
+        "slug": "whatcanirun",
+        "terms": [
+          "WhatCanIRun",
+          "whatcanirun",
+          "Encuentra modelos IA ejecutables localmente",
+          "ai",
+          "courses-learning",
+          "local",
+          "models",
+          "benchmark",
+          "open-source"
+        ]
+      },
+      {
+        "id": "zapier",
+        "slug": "zapier",
+        "terms": [
+          "Zapier",
+          "zapier",
+          "Conexión y automatización de apps",
+          "ai",
+          "agents-automation",
+          "automation",
+          "integration",
+          "apps"
+        ]
+      },
+      {
+        "id": "zoer",
+        "slug": "zoer",
+        "terms": [
+          "Zoer",
+          "zoer",
+          "Creador IA webs completo",
+          "ai",
+          "ui",
+          "web",
+          "creator",
+          "complete"
+        ]
+      }
+    ]
+  },
+  "filters": {
+    "categories": [
+      "ai"
+    ],
+    "subcategories": [
+      "agents-automation",
+      "courses-learning",
+      "prompts-collections",
+      "specialized-tools",
+      "ui",
+      "video-audio"
+    ],
+    "pricing": [
+      "free",
+      "freemium"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "status": [
+      "active"
+    ],
+    "verified": [
+      true
+    ],
+    "noCreditCard": [
+      false
+    ]
+  },
+  "ui": {
+    "dataset": "ia_video-audio_agentes-automatizacion_ui_colecciones-prompts_cursos-aprendizaje_herramientas-especializadas_2",
+    "title": "🤖 Inteligencia Artificial",
+    "description": "Dataset ia_video-audio_agentes-automatizacion_ui_colecciones-prompts_cursos-aprendizaje_herramientas-especializadas_2",
+    "resourceCount": 117
+  }
+}

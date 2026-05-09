@@ -1,0 +1,1268 @@
+{
+  "tags": {
+    "4m": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta 4m"
+    },
+    "ai": {
+      "count": 4,
+      "color": "#dc2626",
+      "description": "Etiqueta ai"
+    },
+    "api": {
+      "count": 3,
+      "color": "#7c3aed",
+      "description": "Etiqueta api"
+    },
+    "attribution": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta attribution"
+    },
+    "avatars": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta avatars"
+    },
+    "bio": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta bio"
+    },
+    "business": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta business"
+    },
+    "calendar": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta calendar"
+    },
+    "cc0": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta cc0"
+    },
+    "classic": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta classic"
+    },
+    "collaboration": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta collaboration"
+    },
+    "complete": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta complete"
+    },
+    "contextual": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta contextual"
+    },
+    "countries": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta countries"
+    },
+    "creative": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta creative"
+    },
+    "csv": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta csv"
+    },
+    "custom": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta custom"
+    },
+    "database": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta database"
+    },
+    "dictation": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta dictation"
+    },
+    "dni": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta dni"
+    },
+    "dummy": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta dummy"
+    },
+    "dynamic": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta dynamic"
+    },
+    "ecommerce": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta ecommerce"
+    },
+    "editing": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta editing"
+    },
+    "email": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta email"
+    },
+    "fake-data": {
+      "count": 15,
+      "color": "#dc2626",
+      "description": "Etiqueta fake-data"
+    },
+    "fast": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta fast"
+    },
+    "flexible": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta flexible"
+    },
+    "food": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta food"
+    },
+    "forms": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta forms"
+    },
+    "free": {
+      "count": 14,
+      "color": "#db2777",
+      "description": "Etiqueta free"
+    },
+    "free-tier": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta free-tier"
+    },
+    "fun": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta fun"
+    },
+    "generator": {
+      "count": 9,
+      "color": "#65a30d",
+      "description": "Etiqueta generator"
+    },
+    "google": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta google"
+    },
+    "grammar": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta grammar"
+    },
+    "hd": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta hd"
+    },
+    "high-resolution": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta high-resolution"
+    },
+    "images": {
+      "count": 11,
+      "color": "#2563eb",
+      "description": "Etiqueta images"
+    },
+    "interactive": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta interactive"
+    },
+    "javascript": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta javascript"
+    },
+    "json": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta json"
+    },
+    "knowledge-graph": {
+      "count": 3,
+      "color": "#0891b2",
+      "description": "Etiqueta knowledge-graph"
+    },
+    "landing-page": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta landing-page"
+    },
+    "library": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta library"
+    },
+    "license": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta license"
+    },
+    "lightweight": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta lightweight"
+    },
+    "links": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta links"
+    },
+    "lorem-ipsum": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta lorem-ipsum"
+    },
+    "markdown": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta markdown"
+    },
+    "meetings": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta meetings"
+    },
+    "mock": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta mock"
+    },
+    "multi-language": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta multi-language"
+    },
+    "multiple-formats": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta multiple-formats"
+    },
+    "niche": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta niche"
+    },
+    "nie": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta nie"
+    },
+    "no-registration": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta no-registration"
+    },
+    "notion-alternative": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta notion-alternative"
+    },
+    "npm": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta npm"
+    },
+    "one-page": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta one-page"
+    },
+    "open-source": {
+      "count": 4,
+      "color": "#4f46e5",
+      "description": "Etiqueta open-source"
+    },
+    "packages": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta packages"
+    },
+    "photos": {
+      "count": 4,
+      "color": "#ea580c",
+      "description": "Etiqueta photos"
+    },
+    "placeholder": {
+      "count": 6,
+      "color": "#0891b2",
+      "description": "Etiqueta placeholder"
+    },
+    "presentations": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta presentations"
+    },
+    "privacy": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta privacy"
+    },
+    "productivity": {
+      "count": 17,
+      "color": "#7c3aed",
+      "description": "Etiqueta productivity"
+    },
+    "profiles": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta profiles"
+    },
+    "psd": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta psd"
+    },
+    "public-domain": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta public-domain"
+    },
+    "python": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta python"
+    },
+    "random": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta random"
+    },
+    "research": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta research"
+    },
+    "scheduling": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta scheduling"
+    },
+    "search": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta search"
+    },
+    "self-hosted": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta self-hosted"
+    },
+    "shopify": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta shopify"
+    },
+    "simple": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta simple"
+    },
+    "slides": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta slides"
+    },
+    "social-media": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta social-media"
+    },
+    "spain": {
+      "count": 3,
+      "color": "#ea580c",
+      "description": "Etiqueta spain"
+    },
+    "spanish": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta spanish"
+    },
+    "spreadsheet": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta spreadsheet"
+    },
+    "sql": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta sql"
+    },
+    "stock": {
+      "count": 4,
+      "color": "#db2777",
+      "description": "Etiqueta stock"
+    },
+    "surveys": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta surveys"
+    },
+    "svg": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta svg"
+    },
+    "text": {
+      "count": 3,
+      "color": "#d97706",
+      "description": "Etiqueta text"
+    },
+    "tv-shows": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta tv-shows"
+    },
+    "unique": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta unique"
+    },
+    "unlimited": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta unlimited"
+    },
+    "users": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta users"
+    },
+    "validation": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta validation"
+    },
+    "validator": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta validator"
+    },
+    "vectors": {
+      "count": 3,
+      "color": "#7c3aed",
+      "description": "Etiqueta vectors"
+    },
+    "videos": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta videos"
+    },
+    "vintage": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta vintage"
+    },
+    "voice": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta voice"
+    },
+    "web": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta web"
+    },
+    "website": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta website"
+    },
+    "workspace": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta workspace"
+    },
+    "writing": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta writing"
+    }
+  },
+  "searchIndex": {
+    "fields": [
+      {
+        "name": "name",
+        "weight": 3,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "description",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "tags",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "category",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "subcategory",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      }
+    ],
+    "entries": [
+      {
+        "id": "airtable",
+        "slug": "airtable",
+        "terms": [
+          "Airtable",
+          "airtable",
+          "Bases de datos visuales con 1k records gratis",
+          "utilities",
+          "productivity",
+          "database",
+          "spreadsheet",
+          "collaboration"
+        ]
+      },
+      {
+        "id": "appflowy",
+        "slug": "appflowy",
+        "terms": [
+          "AppFlowy",
+          "appflowy",
+          "Alternativa Notion open source",
+          "utilities",
+          "productivity",
+          "open-source",
+          "notion-alternative",
+          "self-hosted"
+        ]
+      },
+      {
+        "id": "blind-text-generator",
+        "slug": "blind-text-generator",
+        "terms": [
+          "Blind Text Generator",
+          "blind-text-generator",
+          "Texto dummy en múltiples idiomas",
+          "utilities",
+          "fake-data",
+          "multi-language",
+          "text",
+          "dummy",
+          "placeholder"
+        ]
+      },
+      {
+        "id": "burst-shopify",
+        "slug": "burst-shopify",
+        "terms": [
+          "Burst (Shopify)",
+          "burst-shopify",
+          "Fotos para e-commerce libres derechos",
+          "utilities",
+          "images-placeholders",
+          "images",
+          "ecommerce",
+          "free",
+          "business",
+          "shopify"
+        ]
+      },
+      {
+        "id": "calendly",
+        "slug": "calendly",
+        "terms": [
+          "Calendly",
+          "calendly",
+          "Agenda reuniones con 1 tipo de evento gratis",
+          "utilities",
+          "productivity",
+          "scheduling",
+          "meetings",
+          "calendar"
+        ]
+      },
+      {
+        "id": "carrd",
+        "slug": "carrd",
+        "terms": [
+          "Carrd",
+          "carrd",
+          "Websites de una página con 3 sitios gratis",
+          "utilities",
+          "productivity",
+          "website",
+          "landing-page",
+          "one-page"
+        ]
+      },
+      {
+        "id": "chance-js",
+        "slug": "chance-js",
+        "terms": [
+          "Chance.js",
+          "chance-js",
+          "Generador ligero de datos aleatorios JS",
+          "utilities",
+          "fake-data",
+          "javascript",
+          "lightweight",
+          "random",
+          "generator"
+        ]
+      },
+      {
+        "id": "dicebear",
+        "slug": "dicebear",
+        "terms": [
+          "DiceBear",
+          "dicebear",
+          "Generador de avatares SVG únicos",
+          "utilities",
+          "images-placeholders",
+          "avatars",
+          "svg",
+          "generator",
+          "unique",
+          "free"
+        ]
+      },
+      {
+        "id": "fake-name-gen-es",
+        "slug": "fake-name-gen-es",
+        "terms": [
+          "Fake Name Gen ES",
+          "fake-name-gen-es",
+          "Perfiles completos DNI, dirección, teléfono ES",
+          "utilities",
+          "fake-data",
+          "spain",
+          "profiles",
+          "complete",
+          "spanish"
+        ]
+      },
+      {
+        "id": "faker-js",
+        "slug": "faker-js",
+        "terms": [
+          "Faker.js",
+          "faker-js",
+          "Librería JS generar datos falsos masivos",
+          "utilities",
+          "fake-data",
+          "javascript",
+          "library",
+          "generator",
+          "npm"
+        ]
+      },
+      {
+        "id": "fillerama",
+        "slug": "fillerama",
+        "terms": [
+          "Fillerama",
+          "fillerama",
+          "Placeholder con estilo de series TV",
+          "utilities",
+          "fake-data",
+          "tv-shows",
+          "fun",
+          "placeholder",
+          "creative"
+        ]
+      },
+      {
+        "id": "foodiesfeed",
+        "slug": "foodiesfeed",
+        "terms": [
+          "FoodiesFeed",
+          "foodiesfeed",
+          "Fotos de comida HD para proyectos food",
+          "utilities",
+          "images-placeholders",
+          "images",
+          "food",
+          "hd",
+          "free",
+          "niche"
+        ]
+      },
+      {
+        "id": "freeography",
+        "slug": "freeography",
+        "terms": [
+          "FREEography",
+          "freeography",
+          "Imágenes divertidas y únicas, uso libre",
+          "utilities",
+          "images-placeholders",
+          "images",
+          "unique",
+          "fun",
+          "free",
+          "creative"
+        ]
+      },
+      {
+        "id": "freepik",
+        "slug": "freepik",
+        "terms": [
+          "Freepik",
+          "freepik",
+          "Vectores, PSD y fotos atribución free",
+          "utilities",
+          "images-placeholders",
+          "vectors",
+          "psd",
+          "photos",
+          "free",
+          "attribution"
+        ]
+      },
+      {
+        "id": "gamma",
+        "slug": "gamma",
+        "terms": [
+          "Gamma",
+          "gamma",
+          "Creación de presentaciones con IA",
+          "utilities",
+          "productivity",
+          "presentations",
+          "ai",
+          "slides"
+        ]
+      },
+      {
+        "id": "generador-dni-api",
+        "slug": "generadordni-api",
+        "terms": [
+          "GeneradorDNI API",
+          "generadordni-api",
+          "API para generar y validar DNI españoles",
+          "utilities",
+          "fake-data",
+          "api",
+          "spain",
+          "dni",
+          "validation"
+        ]
+      },
+      {
+        "id": "gentools-io",
+        "slug": "gentools-io",
+        "terms": [
+          "GenTools.io",
+          "gentools-io",
+          "Genera DNI/NIE españoles válidos",
+          "utilities",
+          "fake-data",
+          "spain",
+          "dni",
+          "nie",
+          "validator"
+        ]
+      },
+      {
+        "id": "google-forms",
+        "slug": "google-forms",
+        "terms": [
+          "Google Forms",
+          "google-forms",
+          "Formularios gratuitos ilimitados",
+          "utilities",
+          "productivity",
+          "forms",
+          "google",
+          "free",
+          "unlimited"
+        ]
+      },
+      {
+        "id": "grammarly",
+        "slug": "grammarly",
+        "terms": [
+          "Grammarly",
+          "grammarly",
+          "Asistente de escritura y gramática",
+          "utilities",
+          "productivity",
+          "writing",
+          "grammar",
+          "editing"
+        ]
+      },
+      {
+        "id": "granola",
+        "slug": "granola",
+        "terms": [
+          "Granola",
+          "granola",
+          "Notas de reuniones automáticas con IA",
+          "utilities",
+          "productivity",
+          "meetings",
+          "ai"
+        ]
+      },
+      {
+        "id": "linktree",
+        "slug": "linktree",
+        "terms": [
+          "Linktree",
+          "linktree",
+          "Página de enlaces gratis básico",
+          "utilities",
+          "productivity",
+          "links",
+          "social-media",
+          "bio"
+        ]
+      },
+      {
+        "id": "logseq",
+        "slug": "logseq",
+        "terms": [
+          "Logseq",
+          "logseq",
+          "Notas y conocimiento open source con grafos",
+          "utilities",
+          "productivity",
+          "open-source",
+          "knowledge-graph",
+          "privacy"
+        ]
+      },
+      {
+        "id": "lorem-ipsum-gen",
+        "slug": "lorem-ipsum-gen",
+        "terms": [
+          "Lorem Ipsum Gen",
+          "lorem-ipsum-gen",
+          "Generador clásico de texto placeholder",
+          "utilities",
+          "fake-data",
+          "lorem-ipsum",
+          "text",
+          "placeholder",
+          "classic"
+        ]
+      },
+      {
+        "id": "loremgenius",
+        "slug": "loremgenius",
+        "terms": [
+          "LoremGenius",
+          "loremgenius",
+          "Generador creativo con formatos flexibles",
+          "utilities",
+          "fake-data",
+          "creative",
+          "flexible",
+          "text",
+          "generator"
+        ]
+      },
+      {
+        "id": "mimesis",
+        "slug": "mimesis",
+        "terms": [
+          "Mimesis",
+          "mimesis",
+          "Generador de datos fake en Python",
+          "utilities",
+          "fake-data",
+          "python",
+          "generator",
+          "multi-language",
+          "open-source"
+        ]
+      },
+      {
+        "id": "mockaroo",
+        "slug": "mockaroo",
+        "terms": [
+          "Mockaroo",
+          "mockaroo",
+          "Genera CSV, JSON, SQL con datos por país",
+          "utilities",
+          "fake-data",
+          "generator",
+          "csv",
+          "json",
+          "sql",
+          "countries"
+        ]
+      },
+      {
+        "id": "new-old-stock",
+        "slug": "new-old-stock",
+        "terms": [
+          "New Old Stock",
+          "new-old-stock",
+          "Fotos vintage de dominio público",
+          "utilities",
+          "images-placeholders",
+          "images",
+          "vintage",
+          "public-domain",
+          "free"
+        ]
+      },
+      {
+        "id": "notion",
+        "slug": "notion",
+        "terms": [
+          "Notion",
+          "notion",
+          "Workspace todo-en-uno gratis personal",
+          "utilities",
+          "productivity",
+          "workspace",
+          "collaboration",
+          "free-tier"
+        ]
+      },
+      {
+        "id": "obsidian",
+        "slug": "obsidian",
+        "terms": [
+          "Obsidian",
+          "obsidian",
+          "Notas en markdown con grafos de conocimiento",
+          "utilities",
+          "productivity",
+          "markdown",
+          "knowledge-graph",
+          "open-source"
+        ]
+      },
+      {
+        "id": "pexels",
+        "slug": "pexels",
+        "terms": [
+          "Pexels",
+          "pexels",
+          "Fotos y videos de stock gratuitos",
+          "utilities",
+          "images-placeholders",
+          "images",
+          "videos",
+          "free",
+          "stock",
+          "photos"
+        ]
+      },
+      {
+        "id": "picsum-photos",
+        "slug": "picsum-photos",
+        "terms": [
+          "Picsum.photos",
+          "picsum-photos",
+          "Generador de imágenes de relleno",
+          "utilities",
+          "images-placeholders",
+          "images",
+          "placeholder",
+          "generator",
+          "lorem-ipsum"
+        ]
+      },
+      {
+        "id": "pixabay",
+        "slug": "pixabay",
+        "terms": [
+          "Pixabay",
+          "pixabay",
+          "+4M imágenes, vectores y vídeos libres",
+          "utilities",
+          "images-placeholders",
+          "images",
+          "vectors",
+          "videos",
+          "free",
+          "4m"
+        ]
+      },
+      {
+        "id": "placehold-co",
+        "slug": "placehold-co",
+        "terms": [
+          "Placehold.co",
+          "placehold-co",
+          "Crea imágenes placeholder personalizadas",
+          "utilities",
+          "images-placeholders",
+          "images",
+          "placeholder",
+          "custom",
+          "generator"
+        ]
+      },
+      {
+        "id": "placeholdertext",
+        "slug": "placeholdertext",
+        "terms": [
+          "Placeholdertext",
+          "placeholdertext",
+          "Placeholder simple y rápido para web",
+          "utilities",
+          "fake-data",
+          "simple",
+          "fast",
+          "web",
+          "placeholder"
+        ]
+      },
+      {
+        "id": "public-domain-pictures",
+        "slug": "public-domain-pictures",
+        "terms": [
+          "Public Domain Pictures",
+          "public-domain-pictures",
+          "Banco imágenes dominio público",
+          "utilities",
+          "images-placeholders",
+          "images",
+          "public-domain",
+          "free",
+          "stock",
+          "vintage"
+        ]
+      },
+      {
+        "id": "quickmocker",
+        "slug": "quickmocker",
+        "terms": [
+          "QuickMocker",
+          "quickmocker",
+          "Mock API contextual respuestas dinámicas",
+          "utilities",
+          "fake-data",
+          "mock",
+          "api",
+          "dynamic",
+          "contextual"
+        ]
+      },
+      {
+        "id": "random-user-gen",
+        "slug": "random-user-gen",
+        "terms": [
+          "Random User Gen",
+          "random-user-gen",
+          "API libre para usuarios aleatorios",
+          "utilities",
+          "fake-data",
+          "api",
+          "users",
+          "random",
+          "free"
+        ]
+      },
+      {
+        "id": "rndgen",
+        "slug": "rndgen",
+        "terms": [
+          "RNDGen",
+          "rndgen",
+          "Generador de datos aleatorios múltiples formatos",
+          "utilities",
+          "fake-data",
+          "generator",
+          "random",
+          "multiple-formats"
+        ]
+      },
+      {
+        "id": "roam-research",
+        "slug": "roam-research",
+        "terms": [
+          "Roam Research",
+          "roam-research",
+          "Notas interconectadas con 2 grafos gratis",
+          "utilities",
+          "productivity",
+          "knowledge-graph",
+          "research"
+        ]
+      },
+      {
+        "id": "stocksnap-io",
+        "slug": "stocksnap-io",
+        "terms": [
+          "StockSnap.io",
+          "stocksnap-io",
+          "Fotos CC0 sin registro descarga directa",
+          "utilities",
+          "images-placeholders",
+          "images",
+          "cc0",
+          "free",
+          "no-registration",
+          "stock"
+        ]
+      },
+      {
+        "id": "superhuman",
+        "slug": "superhuman",
+        "terms": [
+          "Superhuman",
+          "superhuman",
+          "Cliente de correo rápido con IA",
+          "utilities",
+          "productivity",
+          "email",
+          "ai",
+          "fast"
+        ]
+      },
+      {
+        "id": "typeform",
+        "slug": "typeform",
+        "terms": [
+          "Typeform",
+          "typeform",
+          "Formularios interactivos con 10/mes gratis",
+          "utilities",
+          "productivity",
+          "forms",
+          "surveys",
+          "interactive"
+        ]
+      },
+      {
+        "id": "unsplash",
+        "slug": "unsplash",
+        "terms": [
+          "Unsplash",
+          "unsplash",
+          "Banco de imágenes alta resolución gratis",
+          "utilities",
+          "images-placeholders",
+          "images",
+          "photos",
+          "free",
+          "high-resolution",
+          "stock"
+        ]
+      },
+      {
+        "id": "vecteezy",
+        "slug": "vecteezy",
+        "terms": [
+          "Vecteezy",
+          "vecteezy",
+          "Vectores y fotos con licencia flexible",
+          "utilities",
+          "images-placeholders",
+          "vectors",
+          "photos",
+          "flexible",
+          "license",
+          "free"
+        ]
+      },
+      {
+        "id": "wispr-flow",
+        "slug": "wispr-flow",
+        "terms": [
+          "Wispr Flow",
+          "wispr-flow",
+          "Dictado por voz con IA",
+          "utilities",
+          "productivity",
+          "voice",
+          "dictation",
+          "ai"
+        ]
+      },
+      {
+        "id": "npm-alternatives",
+        "slug": "npm-alternatives",
+        "terms": [
+          "NPM Alternatives",
+          "npm-alternatives",
+          "npms.io, npmsearch.com",
+          "utilities",
+          "productivity",
+          "npm",
+          "search",
+          "packages"
+        ]
+      }
+    ]
+  },
+  "filters": {
+    "categories": [
+      "utilities"
+    ],
+    "subcategories": [
+      "fake-data",
+      "images-placeholders",
+      "productivity"
+    ],
+    "pricing": [
+      "free",
+      "freemium",
+      "premium"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "status": [
+      "active"
+    ],
+    "verified": [
+      true
+    ],
+    "noCreditCard": [
+      false,
+      true
+    ]
+  },
+  "ui": {
+    "dataset": "utilidades_1",
+    "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
+    "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
+    "resourceCount": 46
+  }
+}

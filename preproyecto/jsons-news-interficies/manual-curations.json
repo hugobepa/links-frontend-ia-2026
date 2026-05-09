@@ -1,0 +1,1584 @@
+[
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://ipwho.org",
+    "Description": "API geo IP: 2k requests/dia gratis",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "geo",
+      "geolocation"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "IP Geolocation ipwho.org"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://ipgeolocation.io",
+    "Description": "API geo IP: 1k requests/dia forever free",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "geo",
+      "geolocation"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "IP Geolocation API"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://ip-api.com",
+    "Description": "API geo IP gratis no-comercial sin key",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "geo",
+      "geolocation"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "ip-api"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://www.ip2location.io",
+    "Description": "API geo IP freemium: 50k creditos/mes",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "geo",
+      "geolocation"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "freemium",
+    "Name": "IP2Location.io"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://ipbase.com",
+    "Description": "API geo IP: 150 requests/mes forever free",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "geo",
+      "geolocation"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "ipbase.com"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://iptrace.io",
+    "Description": "API geolocalizacion IP simple y fiable",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "geolocation",
+      "lookup"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "IPTrace"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://whatismyip.com",
+    "Description": "API check IPv4/IPv6 y datos request",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "ipv4",
+      "ipv6"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "What Is My IP"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://jsonip.com",
+    "Description": "API retorna tu IP publica sin registro",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "public-ip",
+      "json"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "JSON IP"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://ipaddress.sh",
+    "Description": "Servicio simple obtener IP publica",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "public-ip",
+      "simple"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "ipaddress.sh"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://ipapi.is",
+    "Description": "API IP con deteccion hosting avanzada",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "hosting",
+      "detection"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "ipapi.is"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://iplocate.io",
+    "Description": "API geo IP + deteccion proxy/VPN gratis",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "proxy",
+      "vpn"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "IPLocate"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://proxysentry.io",
+    "Description": "API detecta proxies residenciales y VPNs",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "proxy",
+      "vpn",
+      "security"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "ProxySentry"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://sikkerapi.com",
+    "Description": "API reputacion IP y threat intelligence",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "security",
+      "reputation"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "SikkerAPI"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://multiexit.com",
+    "Description": "Herramienta check IP salida multiples nodos",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "ip",
+      "checker",
+      "network",
+      "tool"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "Multi-Exit IP Checker"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://db-ip.com",
+    "Description": "Geolocalizacion IP: API + DB gratis",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "database",
+      "geolocation"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "DB-IP"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://geolocated.io",
+    "Description": "API geo IP con servidores multi-continente",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "geolocation",
+      "global"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "Geolocated.io"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://ip.city",
+    "Description": "API geo IP: 100 requests/dia gratis",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "geo",
+      "city"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "IP.City"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://ip2geo.dev",
+    "Description": "API geo IP: ciudad, pais, ASN, moneda",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "asn",
+      "currency"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "ip2geo.dev"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://theipapi.com",
+    "Description": "API geolocalizacion IP: 1k requests/dia",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "geolocation",
+      "lookup"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "The IP API"
+  },
+  {
+    "Subcategory": "ip-geolocation",
+    "Url": "https://freeipapi.com",
+    "Description": "API geolocalizacion IP JSON gratis",
+    "SubcategoryName": "IP Geolocation",
+    "Tags": [
+      "api",
+      "ip",
+      "geolocation",
+      "json"
+    ],
+    "Category": "apis",
+    "Dataset": "apis-data_databases_managed-db-tools-datasets",
+    "CategoryName": "Apis",
+    "Pricing": "free",
+    "Name": "FreeIPAPI"
+  },
+  {
+    "Subcategory": "components",
+    "Url": "https://www.creative-tim.com/twcomponents/component/simple-navbar-3",
+    "Description": "Ejemplo de navbar Tailwind",
+    "SubcategoryName": "Components",
+    "Tags": [
+      "ui",
+      "tailwind",
+      "navbar",
+      "component"
+    ],
+    "Category": "design",
+    "Dataset": "diseno-ui-ux_desarrollo_ide",
+    "CategoryName": "Design",
+    "Pricing": "free",
+    "Name": "Simple Navbar"
+  },
+  {
+    "Subcategory": "components",
+    "Url": "https://www.creative-tim.com/twcomponents/component/grid-blog-page",
+    "Description": "Plantilla de blog en grid",
+    "SubcategoryName": "Components",
+    "Tags": [
+      "ui",
+      "tailwind",
+      "blog",
+      "grid"
+    ],
+    "Category": "design",
+    "Dataset": "diseno-ui-ux_desarrollo_ide",
+    "CategoryName": "Design",
+    "Pricing": "free",
+    "Name": "Grid Blog Page"
+  },
+  {
+    "Subcategory": "components",
+    "Url": "https://gist.github.com/Klerith/e754477e54c7393820c066f95f91f9ef",
+    "Description": "Ejemplo de pagina de autor",
+    "SubcategoryName": "Components",
+    "Tags": [
+      "ui",
+      "gist",
+      "author",
+      "page"
+    ],
+    "Category": "design",
+    "Dataset": "diseno-ui-ux_desarrollo_ide",
+    "CategoryName": "Design",
+    "Pricing": "free",
+    "Name": "Pagina Author Gist"
+  },
+  {
+    "Subcategory": "components",
+    "Url": "https://www.creative-tim.com/twcomponents/component/creating-a-simple-profile-card-with-tailwind-css",
+    "Description": "Tarjeta de perfil con Tailwind",
+    "SubcategoryName": "Components",
+    "Tags": [
+      "ui",
+      "tailwind",
+      "profile-card",
+      "component"
+    ],
+    "Category": "design",
+    "Dataset": "diseno-ui-ux_desarrollo_ide",
+    "CategoryName": "Design",
+    "Pricing": "free",
+    "Name": "Profile Card Template"
+  },
+  {
+    "Subcategory": "components",
+    "Url": "https://www.creative-tim.com/twcomponents/component/login-form-ui-by-tailwindcss",
+    "Description": "Formulario de login Tailwind",
+    "SubcategoryName": "Components",
+    "Tags": [
+      "ui",
+      "tailwind",
+      "login",
+      "form"
+    ],
+    "Category": "design",
+    "Dataset": "diseno-ui-ux_desarrollo_ide",
+    "CategoryName": "Design",
+    "Pricing": "free",
+    "Name": "Login Form UI"
+  },
+  {
+    "Subcategory": "components",
+    "Url": "https://www.creative-tim.com/twcomponents/component/navbar-component",
+    "Description": "Otro ejemplo de navbar",
+    "SubcategoryName": "Components",
+    "Tags": [
+      "ui",
+      "tailwind",
+      "navbar",
+      "component"
+    ],
+    "Category": "design",
+    "Dataset": "diseno-ui-ux_desarrollo_ide",
+    "CategoryName": "Design",
+    "Pricing": "free",
+    "Name": "Navbar Component"
+  },
+  {
+    "Subcategory": "components",
+    "Url": "https://www.creative-tim.com/twcomponents/component/profile-card-13",
+    "Description": "Ejemplo tarjeta o credit card UI",
+    "SubcategoryName": "Components",
+    "Tags": [
+      "ui",
+      "tailwind",
+      "card",
+      "component"
+    ],
+    "Category": "design",
+    "Dataset": "diseno-ui-ux_desarrollo_ide",
+    "CategoryName": "Design",
+    "Pricing": "free",
+    "Name": "Profile Card 13"
+  },
+  {
+    "Subcategory": "components",
+    "Url": "https://gist.github.com/Klerith/f86dc9e046afb6ade1c4626ef73bcda4",
+    "Description": "Ejemplo de avatar para Astro",
+    "SubcategoryName": "Components",
+    "Tags": [
+      "ui",
+      "astro",
+      "avatar",
+      "gist"
+    ],
+    "Category": "design",
+    "Dataset": "diseno-ui-ux_desarrollo_ide",
+    "CategoryName": "Design",
+    "Pricing": "free",
+    "Name": "Avatar Astro Gist"
+  },
+  {
+    "Subcategory": "performance-monitoring",
+    "Url": "https://www.datadoghq.com",
+    "Description": "Monitoring y analytics 14 dias trial",
+    "SubcategoryName": "Performance Monitoring",
+    "Tags": [
+      "monitoring",
+      "analytics",
+      "observability",
+      "performance"
+    ],
+    "Category": "analytics",
+    "Dataset": "analytics-monitoring_email-comunicacion",
+    "CategoryName": "Analytics",
+    "Pricing": "freemium",
+    "Name": "Datadog"
+  },
+  {
+    "Subcategory": "performance-monitoring",
+    "Url": "https://www.pingdom.com",
+    "Description": "Monitoreo rendimiento web",
+    "SubcategoryName": "Performance Monitoring",
+    "Tags": [
+      "monitoring",
+      "uptime",
+      "performance",
+      "web"
+    ],
+    "Category": "analytics",
+    "Dataset": "analytics-monitoring_email-comunicacion",
+    "CategoryName": "Analytics",
+    "Pricing": "freemium",
+    "Name": "Pingdom"
+  },
+  {
+    "Subcategory": "monitoring-uptime",
+    "Url": "https://www.statuscake.com",
+    "Description": "Monitoreo uptime y paginas status",
+    "SubcategoryName": "Monitoring Uptime",
+    "Tags": [
+      "monitoring",
+      "uptime",
+      "status-page",
+      "alerts"
+    ],
+    "Category": "analytics",
+    "Dataset": "analytics-monitoring_email-comunicacion",
+    "CategoryName": "Analytics",
+    "Pricing": "freemium",
+    "Name": "StatusCake"
+  },
+  {
+    "Subcategory": "seo-tools",
+    "Url": "https://rankmath.com/offer/?ref=javier+iniguez+gutierrez",
+    "Description": "Herramienta SEO para WordPress",
+    "SubcategoryName": "Seo Tools",
+    "Tags": [
+      "seo",
+      "wordpress",
+      "analytics",
+      "marketing"
+    ],
+    "Category": "analytics",
+    "Dataset": "analytics-monitoring_email-comunicacion",
+    "CategoryName": "Analytics",
+    "Pricing": "freemium",
+    "Name": "Rank Math"
+  },
+  {
+    "Subcategory": "notifications-messaging",
+    "Url": "https://onesignal.com/unlock-growth-ga-lp",
+    "Description": "Notificaciones push 10k usuarios",
+    "SubcategoryName": "Notifications Messaging",
+    "Tags": [
+      "push",
+      "notifications",
+      "messaging",
+      "email"
+    ],
+    "Category": "email",
+    "Dataset": "analytics-monitoring_email-comunicacion",
+    "CategoryName": "Email",
+    "Pricing": "freemium",
+    "Name": "OneSignal"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/watch?v=ubyZXK3a28I",
+    "Description": "Video rapido SQL",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "sql",
+      "youtube",
+      "video",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "SQL en 8min (YT)"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://youtu.be/gmuTjeQUbTM",
+    "Description": "Video rapido HTML",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "html",
+      "youtube",
+      "video",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "HTML en 5min (YT)"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://youtu.be/AXUZXHIHYCM",
+    "Description": "Video introductorio IA",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "ai",
+      "youtube",
+      "video",
+      "intro"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "IA en 15min (YT)"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://librosgratis.dev/",
+    "Description": "Libros tech gratuitos",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "books",
+      "tech",
+      "free",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "LibrosGratis.dev"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://github.com/getify/You-Dont-Know-JS",
+    "Description": "Libros profundos sobre JS",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "javascript",
+      "books",
+      "github",
+      "deep-dive"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "You Don't Know JS"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://github.com/basarat/typescript-book",
+    "Description": "Libro gratuito de TypeScript",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "typescript",
+      "book",
+      "github",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "TypeScript Book"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "Description": "Guia de codigo limpio en JS",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "javascript",
+      "clean-code",
+      "github",
+      "style"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Clean Code JavaScript"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://github.com/zedr/clean-code-python",
+    "Description": "Codigo limpio para Python",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "python",
+      "clean-code",
+      "github",
+      "style"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Clean Code Python"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://github.com/goldbergyoni/nodebestpractices",
+    "Description": "Mejores practicas para Node.js",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "node",
+      "best-practices",
+      "github",
+      "backend"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Node Best Practices"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://github.com/leonardomso/33-js-concepts",
+    "Description": "Conceptos clave de JavaScript",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "javascript",
+      "concepts",
+      "github",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "33 JS Concepts"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://github.com/kamranahmedse/design-patterns-for-humans",
+    "Description": "Explicacion patrones simple",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "design-patterns",
+      "architecture",
+      "github",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Design Patterns for Humans"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://refactoring.guru/es/design-patterns",
+    "Description": "Todos los patrones explicados",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "design-patterns",
+      "refactoring",
+      "architecture",
+      "reference"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Refactoring Guru"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://grokipedia.com/page/kickoff_(book)",
+    "Description": "Resumen del libro Kickoff",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "book",
+      "summary",
+      "product",
+      "reading"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Grokipedia"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+    "Description": "Estudio asistencia IA en codigo",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "ai",
+      "research",
+      "coding",
+      "study"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Anthropic AI Coding"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://devdocs.io/",
+    "Description": "Documentacion APIs offline",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "docs",
+      "reference",
+      "api",
+      "offline"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "DevDocs"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.markdownguide.org/basic-syntax/",
+    "Description": "Guia markdown",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "markdown",
+      "guide",
+      "docs",
+      "writing"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Markdown Guide"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://josema966.gitlab.io/chuleta-markdown.html",
+    "Description": "Chuleta markdown",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "markdown",
+      "cheatsheet",
+      "reference",
+      "writing"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Markdown Cheat Sheet"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.webfx.com/tools/emoji-cheat-sheet/",
+    "Description": "Codigos emojis markdown",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "emoji",
+      "markdown",
+      "reference",
+      "writing"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Emoji Cheat Sheet"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://lenguajehtml.com",
+    "Description": "Guia completa HTML",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "html",
+      "guide",
+      "spanish",
+      "reference"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Lenguaje HTML"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://lenguajecss.com",
+    "Description": "Guia completa CSS",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "css",
+      "guide",
+      "spanish",
+      "reference"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Lenguaje CSS"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://github.com/marcotcr/sql-style-guide",
+    "Description": "Guia estilo SQL",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "sql",
+      "style-guide",
+      "github",
+      "reference"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "SQL Style Guide"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://github.com/postgresql-tutorial/postgresql-tutorial",
+    "Description": "Tutorial completo Postgres",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "postgresql",
+      "tutorial",
+      "github",
+      "database"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "PostgreSQL Tutorial"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@cdbrw",
+    "Description": "Canal con tutoriales varios",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "channel",
+      "tutorials",
+      "cloudflare"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "cdbrw (CloudflareONO)"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@Kulkarniankita",
+    "Description": "Next + TanStack y mas",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "nextjs",
+      "tanstack",
+      "channel"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Kulkarniankita"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@DipeshMalvia",
+    "Description": "Contenido Next.js y React",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "nextjs",
+      "react",
+      "channel"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "DipeshMalvia"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@PedroTechnologies",
+    "Description": "Next, React, Firebase, Motion",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "react",
+      "firebase",
+      "nextjs"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "PedroTechnologies"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@CodewithChaza",
+    "Description": "Mongo + Next tutorials",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "mongodb",
+      "nextjs",
+      "tutorials"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "CodewithChaza"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@janmarshalcoding",
+    "Description": "Varios tutoriales SPA",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "spa",
+      "tutorials",
+      "frontend"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "JanMarshalCoding"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.syntaxpath.com/free-tutorials",
+    "Description": "Recursos y cursos gratuitos",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "courses",
+      "resources",
+      "learning",
+      "free"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "SyntaxPath"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@CloudflareDevelopers",
+    "Description": "Canal oficial Cloudflare",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "cloudflare",
+      "official",
+      "channel"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Cloudflare Developers"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@andrey.fadeev",
+    "Description": "Hono, Astro, HTMX, Cloudflare",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "hono",
+      "astro",
+      "htmx"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Andrey Fadeev"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@nick_olson_codes",
+    "Description": "Hono, BetterAuth, Cloudflare",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "hono",
+      "betterauth",
+      "cloudflare"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Nick Olson Codes"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@codewithbeto",
+    "Description": "Contenido Expo",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "expo",
+      "mobile",
+      "react-native"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Expo (codewithbeto)"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@StartPracticing",
+    "Description": "Notepad++ y SQL",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "sql",
+      "notepad",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "StartPracticing"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@AaronSaundersCI",
+    "Description": "Expo y Payload CMS",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "expo",
+      "payload",
+      "cms"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "AaronSaunders"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@backpine",
+    "Description": "Cloudflare, varios, TanStack",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "cloudflare",
+      "tanstack",
+      "dev"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Backpine"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@returngis",
+    "Description": "Copilot, Docker, IA, DevSecOps",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "copilot",
+      "docker",
+      "devsecops"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "ReturnGIS"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@AdrianSaenz",
+    "Description": "Marketing, finanzas",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "marketing",
+      "finance",
+      "business"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "AdrianSaenz"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@neondatabase",
+    "Description": "Neon postgres",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "neon",
+      "postgresql",
+      "database"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Neon Database"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@FaztCode",
+    "Description": "IA y desarrollo",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "ai",
+      "development",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "FaztCode"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@CandDev",
+    "Description": "Varios, auth, pdf",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "auth",
+      "pdf",
+      "development"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "CandDev"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@SQLUniversity",
+    "Description": "SQL, Postgres y SQL server",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "sql",
+      "postgresql",
+      "sql-server"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "SQL University"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@sqliseasy",
+    "Description": "SQL y postgres",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "sql",
+      "postgresql",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Sql Is Easy"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@Marko-js",
+    "Description": "Videos ejemplos Marko",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "marko",
+      "examples",
+      "frontend"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Marko Oficial"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@lidr",
+    "Description": "IA y desarrollo",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "ai",
+      "development",
+      "channel"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Lidr"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@cosdensolutions",
+    "Description": "Next, React, TanStack",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "nextjs",
+      "react",
+      "tanstack"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "CosdenSolutions"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@gentlemanprogramming",
+    "Description": "Varios recursos dev",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "development",
+      "resources",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Gentleman Programming"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.instagram.com/soyenriquerocha",
+    "Description": "Instagram Claude",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "instagram",
+      "claude",
+      "ai",
+      "content"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Enrique Rocha"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@NetNinja",
+    "Description": "Varios tutoriales interesantes",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "tutorials",
+      "web",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "NetNinja"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.youtube.com/@code",
+    "Description": "Varios VS Code",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "youtube",
+      "vscode",
+      "editor",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "VS Code"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://free4talk.com/",
+    "Description": "Habla con personas reales",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "english",
+      "speaking",
+      "conversation",
+      "practice"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Free4Talk"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://app.sesame.com/",
+    "Description": "Habla con IA",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "english",
+      "ai",
+      "speaking",
+      "practice"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Sesame"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.engvid.com/",
+    "Description": "Lecciones de vocabulario",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "english",
+      "vocabulary",
+      "lessons",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "EngVid"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.curso-ingles.com/",
+    "Description": "Ingles desde cero",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "english",
+      "beginners",
+      "learning",
+      "spanish"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Curso-Ingles.com"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://playphrase.me/",
+    "Description": "Aprende con peliculas",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "english",
+      "movies",
+      "phrases",
+      "practice"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "PlayPhrase.me"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.bbc.co.uk/learningenglish",
+    "Description": "Listening y pronunciacion",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "english",
+      "listening",
+      "pronunciation",
+      "bbc"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "BBC Learning English"
+  },
+  {
+    "Subcategory": "programming-courses",
+    "Url": "https://www.cambridgeenglish.org/",
+    "Description": "Preparacion oficial de examenes",
+    "SubcategoryName": "Programming Courses",
+    "Tags": [
+      "english",
+      "exams",
+      "official",
+      "learning"
+    ],
+    "Category": "education-learning",
+    "Dataset": "dns_seguridad_educacion",
+    "CategoryName": "Education Learning",
+    "Pricing": "free",
+    "Name": "Cambridge English"
+  },
+  {
+    "Subcategory": "productivity",
+    "Url": "https://npmsearch.com/",
+    "Description": "npms.io, npmsearch.com",
+    "SubcategoryName": "Productivity",
+    "Tags": [
+      "npm",
+      "search",
+      "packages",
+      "productivity"
+    ],
+    "Category": "utilities",
+    "Dataset": "utilidades_1",
+    "CategoryName": "Utilities",
+    "Pricing": "free",
+    "Name": "NPM Alternatives"
+  },
+  {
+    "Subcategory": "containers",
+    "Url": "https://kubernetes.io/",
+    "Description": "Orquestacion de contenedores",
+    "SubcategoryName": "Containers",
+    "Tags": [
+      "kubernetes",
+      "containers",
+      "orchestration",
+      "devops"
+    ],
+    "Category": "devops",
+    "Dataset": "dev-ops_testing_translation",
+    "CategoryName": "Devops",
+    "Pricing": "free",
+    "Name": "Kubernetes"
+  },
+  {
+    "Subcategory": "jobs",
+    "Url": "https://medium.com/@muhibuddin12/17-weekend-buildable-micro-saas-mvp-ideas-with-pricing-distribution-hypotheses-47733c9cf8e4",
+    "Description": "Ideas apps micro-SaaS MVP",
+    "SubcategoryName": "Jobs",
+    "Tags": [
+      "micro-saas",
+      "mvp",
+      "ideas",
+      "monetization"
+    ],
+    "Category": "payments",
+    "Dataset": "pagos_game-dev_mobile",
+    "CategoryName": "Payments",
+    "Pricing": "free",
+    "Name": "Ideas Apps",
+    "UrlStartsWith": "https://medium.com/@muhibuddin12/17-weekend-buildable-micro-saas-mvp-ideas"
+  }
+]

@@ -1,0 +1,4192 @@
+{
+  "categories": {
+    "id": "ai",
+    "name": "Ai",
+    "slug": "ai",
+    "resourceCount": 117,
+    "status": "active"
+  },
+  "subcategories": [
+    {
+      "id": "agents-automation",
+      "name": "Agents Automation",
+      "slug": "agents-automation",
+      "category": "ai",
+      "resourceCount": 24,
+      "status": "active"
+    },
+    {
+      "id": "courses-learning",
+      "name": "Courses Learning",
+      "slug": "courses-learning",
+      "category": "ai",
+      "resourceCount": 35,
+      "status": "active"
+    },
+    {
+      "id": "prompts-collections",
+      "name": "Prompts Collections",
+      "slug": "prompts-collections",
+      "category": "ai",
+      "resourceCount": 9,
+      "status": "active"
+    },
+    {
+      "id": "specialized-tools",
+      "name": "Specialized Tools",
+      "slug": "specialized-tools",
+      "category": "ai",
+      "resourceCount": 24,
+      "status": "active"
+    },
+    {
+      "id": "ui",
+      "name": "Ui",
+      "slug": "ui",
+      "category": "ai",
+      "resourceCount": 10,
+      "status": "active"
+    },
+    {
+      "id": "video-audio",
+      "name": "Video Audio",
+      "slug": "video-audio",
+      "category": "ai",
+      "resourceCount": 15,
+      "status": "active"
+    }
+  ],
+  "resources": [
+    {
+      "id": "abacus",
+      "name": "Abacus",
+      "slug": "abacus",
+      "description": "IA workspace dev app/web deep agent",
+      "url": "https://chatllm.abacus.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "workspace",
+        "development",
+        "agent"
+      ],
+      "searchIndex": [
+        "Abacus",
+        "abacus",
+        "IA workspace dev app/web deep agent",
+        "ai",
+        "specialized-tools",
+        "workspace",
+        "development",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "agent-skills-anthropic",
+      "name": "Agent Skills Anthropic",
+      "slug": "agent-skills-anthropic",
+      "description": "Curso agentes IA con Anthropic",
+      "url": "https://www.deeplearning.ai/courses/agent-skills-with-anthropic/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agents",
+        "anthropic",
+        "course"
+      ],
+      "searchIndex": [
+        "Agent Skills Anthropic",
+        "agent-skills-anthropic",
+        "Curso agentes IA con Anthropic",
+        "ai",
+        "courses-learning",
+        "agents",
+        "anthropic",
+        "course"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ai-agents-beginners",
+      "name": "AI Agents for Beginners",
+      "slug": "ai-agents-for-beginners",
+      "description": "Microsoft curso agentes IA principiantes",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agents",
+        "microsoft",
+        "beginners",
+        "open-source"
+      ],
+      "searchIndex": [
+        "AI Agents for Beginners",
+        "ai-agents-for-beginners",
+        "Microsoft curso agentes IA principiantes",
+        "ai",
+        "courses-learning",
+        "agents",
+        "microsoft",
+        "beginners",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ai-resources-tools",
+      "name": "AI Resources & Tools",
+      "slug": "ai-resources-tools",
+      "description": "Colección recursos IA",
+      "url": "https://github.com/zazk/AI-Resources-and-Tools",
+      "status": "active",
+      "tags": [
+        "ai",
+        "resources",
+        "tools",
+        "collection",
+        "open-source"
+      ],
+      "searchIndex": [
+        "AI Resources & Tools",
+        "ai-resources-tools",
+        "Colección recursos IA",
+        "ai",
+        "courses-learning",
+        "resources",
+        "tools",
+        "collection",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ai-tmpl",
+      "name": "AI TMPL",
+      "slug": "ai-tmpl",
+      "description": "+1000 plantillas Claude",
+      "url": "https://www.aitmpl.com/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "claude",
+        "templates"
+      ],
+      "searchIndex": [
+        "AI TMPL",
+        "ai-tmpl",
+        "+1000 plantillas Claude",
+        "ai",
+        "courses-learning",
+        "claude",
+        "templates"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "anthropic-academy",
+      "name": "Anthropic Academy",
+      "slug": "anthropic-academy",
+      "description": "Curso gratis IA Anthropic",
+      "url": "https://anthropic.skilljar.com/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "anthropic",
+        "course",
+        "free"
+      ],
+      "searchIndex": [
+        "Anthropic Academy",
+        "anthropic-academy",
+        "Curso gratis IA Anthropic",
+        "ai",
+        "courses-learning",
+        "anthropic",
+        "course",
+        "free"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "anycrawl",
+      "name": "AnyCrawl",
+      "slug": "anycrawl",
+      "description": "Crawler agéntico extracción datos",
+      "url": "https://anycrawl.dev/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "crawler",
+        "data",
+        "extraction",
+        "agent"
+      ],
+      "searchIndex": [
+        "AnyCrawl",
+        "anycrawl",
+        "Crawler agéntico extracción datos",
+        "ai",
+        "agents-automation",
+        "crawler",
+        "data",
+        "extraction",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "apidog",
+      "name": "Apidog",
+      "slug": "apidog",
+      "description": "Creador/test IA de backends",
+      "url": "https://apidog.com/es/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "backend",
+        "testing",
+        "api"
+      ],
+      "searchIndex": [
+        "Apidog",
+        "apidog",
+        "Creador/test IA de backends",
+        "ai",
+        "specialized-tools",
+        "backend",
+        "testing",
+        "api"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "appypie",
+      "name": "AppyPie",
+      "slug": "appypie",
+      "description": "Builder IA App móviles sin código",
+      "url": "https://www.appypie.com/es/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "builder",
+        "mobile",
+        "no-code"
+      ],
+      "searchIndex": [
+        "AppyPie",
+        "appypie",
+        "Builder IA App móviles sin código",
+        "ai",
+        "specialized-tools",
+        "builder",
+        "mobile",
+        "no-code"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "autoskills",
+      "name": "AutoSkills",
+      "slug": "autoskills",
+      "description": "Autoinstall skill Vercel por stack",
+      "url": "https://www.autoskills.sh/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "skills",
+        "vercel",
+        "autoinstall"
+      ],
+      "searchIndex": [
+        "AutoSkills",
+        "autoskills",
+        "Autoinstall skill Vercel por stack",
+        "ai",
+        "specialized-tools",
+        "skills",
+        "vercel",
+        "autoinstall"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesomegptprompts",
+      "name": "AwesomeGPTPrompts",
+      "slug": "awesomegptprompts",
+      "description": "MILES de prompts imagen/video",
+      "url": "https://www.awesomegptprompts.com/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "prompts",
+        "image",
+        "video"
+      ],
+      "searchIndex": [
+        "AwesomeGPTPrompts",
+        "awesomegptprompts",
+        "MILES de prompts imagen/video",
+        "ai",
+        "prompts-collections",
+        "prompts",
+        "image",
+        "video"
+      ],
+      "category": "ai",
+      "subcategory": "prompts-collections",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "bardeen",
+      "name": "Bardeen",
+      "slug": "bardeen",
+      "description": "Automatización de tareas web",
+      "url": "https://bardeen.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "automation",
+        "web",
+        "tasks"
+      ],
+      "searchIndex": [
+        "Bardeen",
+        "bardeen",
+        "Automatización de tareas web",
+        "ai",
+        "agents-automation",
+        "automation",
+        "web",
+        "tasks"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "blink-new",
+      "name": "Blink.new",
+      "slug": "blink-new",
+      "description": "Build IA full-stack, mobile, web",
+      "url": "https://blink.new/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "build",
+        "fullstack",
+        "mobile",
+        "web"
+      ],
+      "searchIndex": [
+        "Blink.new",
+        "blink-new",
+        "Build IA full-stack, mobile, web",
+        "ai",
+        "agents-automation",
+        "build",
+        "fullstack",
+        "mobile",
+        "web"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "bolt-new",
+      "name": "Bolt.new",
+      "slug": "bolt-new",
+      "description": "Generador sistema diseño con un solo clic",
+      "url": "https://bolt.new/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "design-system",
+        "generator",
+        "one-click"
+      ],
+      "searchIndex": [
+        "Bolt.new",
+        "bolt-new",
+        "Generador sistema diseño con un solo clic",
+        "ai",
+        "ui",
+        "design-system",
+        "generator",
+        "one-click"
+      ],
+      "category": "ai",
+      "subcategory": "ui",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "book-building-agents",
+      "name": "Book Building Agents",
+      "slug": "book-building-agents",
+      "description": "Libros construir agentes IA",
+      "url": "https://mastra.ai/books/principles-of-building-ai-agents",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agents",
+        "books",
+        "learning"
+      ],
+      "searchIndex": [
+        "Book Building Agents",
+        "book-building-agents",
+        "Libros construir agentes IA",
+        "ai",
+        "courses-learning",
+        "agents",
+        "books",
+        "learning"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "canirun",
+      "name": "CanIRun",
+      "slug": "canirun",
+      "description": "Chequeo LLM model local en computer",
+      "url": "https://www.canirun.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "llm",
+        "local",
+        "check"
+      ],
+      "searchIndex": [
+        "CanIRun",
+        "canirun",
+        "Chequeo LLM model local en computer",
+        "ai",
+        "courses-learning",
+        "llm",
+        "local",
+        "check"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "caveman",
+      "name": "Caveman",
+      "slug": "caveman",
+      "description": "Plugin ahorrar tokens Claude/Codex",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "status": "active",
+      "tags": [
+        "ai",
+        "plugin",
+        "tokens",
+        "claude",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Caveman",
+        "caveman",
+        "Plugin ahorrar tokens Claude/Codex",
+        "ai",
+        "specialized-tools",
+        "plugin",
+        "tokens",
+        "claude",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "chatsimple",
+      "name": "Chatsimple",
+      "slug": "chatsimple",
+      "description": "Chatbot de IA para empresas",
+      "url": "https://chatsimple.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "chatbot",
+        "business",
+        "enterprise"
+      ],
+      "searchIndex": [
+        "Chatsimple",
+        "chatsimple",
+        "Chatbot de IA para empresas",
+        "ai",
+        "agents-automation",
+        "chatbot",
+        "business",
+        "enterprise"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "claude-agents",
+      "name": "Claude Agents",
+      "slug": "claude-agents",
+      "description": "Colección agentes Claude",
+      "url": "https://www.claudecodeagents.com/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "claude",
+        "agents",
+        "collection"
+      ],
+      "searchIndex": [
+        "Claude Agents",
+        "claude-agents",
+        "Colección agentes Claude",
+        "ai",
+        "courses-learning",
+        "claude",
+        "agents",
+        "collection"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "claude-code-game-studios",
+      "name": "Claude Code Game Studios",
+      "slug": "claude-code-game-studios",
+      "description": "Colección agentes IA games",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "status": "active",
+      "tags": [
+        "ai",
+        "claude",
+        "games",
+        "collection",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Claude Code Game Studios",
+        "claude-code-game-studios",
+        "Colección agentes IA games",
+        "ai",
+        "courses-learning",
+        "claude",
+        "games",
+        "collection",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "claurst",
+      "name": "Claurst",
+      "slug": "claurst",
+      "description": "Copia CLAUDE en RUST",
+      "url": "https://github.com/Kuberwastaken/claurst.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "claude",
+        "rust",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Claurst",
+        "claurst",
+        "Copia CLAUDE en RUST",
+        "ai",
+        "specialized-tools",
+        "claude",
+        "rust",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "composio",
+      "name": "Composio",
+      "slug": "composio",
+      "description": "Integra 200+ herramientas para agentes IA",
+      "url": "https://composio.dev",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agents",
+        "integration",
+        "tools"
+      ],
+      "searchIndex": [
+        "Composio",
+        "composio",
+        "Integra 200+ herramientas para agentes IA",
+        "ai",
+        "agents-automation",
+        "agents",
+        "integration",
+        "tools"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "core-ai",
+      "name": "Core AI",
+      "slug": "core-ai",
+      "description": "Plataforma de IA conversacional",
+      "url": "https://core.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "conversational",
+        "platform"
+      ],
+      "searchIndex": [
+        "Core AI",
+        "core-ai",
+        "Plataforma de IA conversacional",
+        "ai",
+        "specialized-tools",
+        "conversational",
+        "platform"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "creao",
+      "name": "Creao",
+      "slug": "creao",
+      "description": "Build IA create agent personalizado",
+      "url": "https://creao.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "build",
+        "agent",
+        "custom"
+      ],
+      "searchIndex": [
+        "Creao",
+        "creao",
+        "Build IA create agent personalizado",
+        "ai",
+        "agents-automation",
+        "build",
+        "agent",
+        "custom"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "deeplearning-ai-build",
+      "name": "DeepLearning.AI Build with Andrew",
+      "slug": "deeplearning-ai-build-with-andrew",
+      "description": "Crear app con IA paso a paso",
+      "url": "https://learn.deeplearning.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "course",
+        "andrew-ng",
+        "app-development"
+      ],
+      "searchIndex": [
+        "DeepLearning.AI Build with Andrew",
+        "deeplearning-ai-build-with-andrew",
+        "Crear app con IA paso a paso",
+        "ai",
+        "courses-learning",
+        "course",
+        "andrew-ng",
+        "app-development"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "delphi",
+      "name": "Delphi",
+      "slug": "delphi",
+      "description": "Clonación digital con IA",
+      "url": "https://delphi.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "cloning",
+        "digital"
+      ],
+      "searchIndex": [
+        "Delphi",
+        "delphi",
+        "Clonación digital con IA",
+        "ai",
+        "specialized-tools",
+        "cloning",
+        "digital"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "descript",
+      "name": "Descript",
+      "slug": "descript",
+      "description": "Edición de audio y video con IA",
+      "url": "https://descript.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "audio",
+        "video",
+        "editing"
+      ],
+      "searchIndex": [
+        "Descript",
+        "descript",
+        "Edición de audio y video con IA",
+        "ai",
+        "video-audio",
+        "audio",
+        "video",
+        "editing"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "easemate",
+      "name": "Easemate",
+      "slug": "easemate",
+      "description": "IA crear imágenes animadas",
+      "url": "https://www.easemate.ai/es/ai-image-animator",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image",
+        "animation",
+        "creation"
+      ],
+      "searchIndex": [
+        "Easemate",
+        "easemate",
+        "IA crear imágenes animadas",
+        "ai",
+        "video-audio",
+        "image",
+        "animation",
+        "creation"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ecosistema-ia",
+      "name": "Ecosistema IA",
+      "slug": "ecosistema-ia",
+      "description": "Ecosistema IA programar GitHub",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "ecosystem",
+        "programming",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Ecosistema IA",
+        "ecosistema-ia",
+        "Ecosistema IA programar GitHub",
+        "ai",
+        "courses-learning",
+        "ecosystem",
+        "programming",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "educaxd",
+      "name": "Educaxd",
+      "slug": "educaxd",
+      "description": "Plataforma educativa IA para niños",
+      "url": "https://educaxd.com/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "education",
+        "children",
+        "platform"
+      ],
+      "searchIndex": [
+        "Educaxd",
+        "educaxd",
+        "Plataforma educativa IA para niños",
+        "ai",
+        "specialized-tools",
+        "education",
+        "children",
+        "platform"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "slug": "elevenlabs",
+      "description": "Clonación y síntesis de voz realista",
+      "url": "https://elevenlabs.io",
+      "status": "active",
+      "tags": [
+        "ai",
+        "voice",
+        "audio",
+        "cloning",
+        "tts"
+      ],
+      "searchIndex": [
+        "ElevenLabs",
+        "elevenlabs",
+        "Clonación y síntesis de voz realista",
+        "ai",
+        "video-audio",
+        "voice",
+        "audio",
+        "cloning",
+        "tts"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "emergent",
+      "name": "Emergent",
+      "slug": "emergent",
+      "description": "Builder IA web & mobile con agentes",
+      "url": "https://app.emergent.sh/landing/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "builder",
+        "web",
+        "mobile",
+        "agents"
+      ],
+      "searchIndex": [
+        "Emergent",
+        "emergent",
+        "Builder IA web & mobile con agentes",
+        "ai",
+        "ui",
+        "builder",
+        "web",
+        "mobile",
+        "agents"
+      ],
+      "category": "ai",
+      "subcategory": "ui",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "emergent-wingman",
+      "name": "Emergent Wingman",
+      "slug": "emergent-wingman",
+      "description": "Agente IA autómata & webBuilder",
+      "url": "https://app.emergent.sh",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "automation",
+        "web-builder"
+      ],
+      "searchIndex": [
+        "Emergent Wingman",
+        "emergent-wingman",
+        "Agente IA autómata & webBuilder",
+        "ai",
+        "agents-automation",
+        "agent",
+        "automation",
+        "web-builder"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "firefly",
+      "name": "Firefly",
+      "slug": "firefly",
+      "description": "IA imágenes 2D/3D animadas y videos",
+      "url": "https://www.adobe.com/products/firefly/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image",
+        "video",
+        "adobe",
+        "animation"
+      ],
+      "searchIndex": [
+        "Firefly",
+        "firefly",
+        "IA imágenes 2D/3D animadas y videos",
+        "ai",
+        "video-audio",
+        "image",
+        "video",
+        "adobe",
+        "animation"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "flova-ai",
+      "name": "Flova AI",
+      "slug": "flova-ai",
+      "description": "IDE build image, video",
+      "url": "https://www.flova.ai/es-419/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "ide",
+        "image",
+        "video"
+      ],
+      "searchIndex": [
+        "Flova AI",
+        "flova-ai",
+        "IDE build image, video",
+        "ai",
+        "courses-learning",
+        "ide",
+        "image",
+        "video"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "flowith",
+      "name": "Flowith",
+      "slug": "flowith",
+      "description": "IA agente/navegador builder",
+      "url": "https://flowith.io/flowithos/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "browser",
+        "builder"
+      ],
+      "searchIndex": [
+        "Flowith",
+        "flowith",
+        "IA agente/navegador builder",
+        "ai",
+        "agents-automation",
+        "agent",
+        "browser",
+        "builder"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "free-llm-api-resources",
+      "name": "Free LLM API Resources",
+      "slug": "free-llm-api-resources",
+      "description": "Colección LLM API recursos gratis",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "status": "active",
+      "tags": [
+        "ai",
+        "llm",
+        "api",
+        "free",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Free LLM API Resources",
+        "free-llm-api-resources",
+        "Colección LLM API recursos gratis",
+        "ai",
+        "courses-learning",
+        "llm",
+        "api",
+        "free",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "gemma-4",
+      "name": "Gemma-4",
+      "slug": "gemma-4",
+      "description": "Modelo Google open source",
+      "url": "https://huggingface.co/collections/mlx-community/gemma-4",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "model",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Gemma-4",
+        "gemma-4",
+        "Modelo Google open source",
+        "ai",
+        "specialized-tools",
+        "google",
+        "model",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "genallai",
+      "name": "GenAllAI",
+      "slug": "genallai",
+      "description": "Colección prompts IA",
+      "url": "https://genallai.gumroad.com/l/AI",
+      "status": "active",
+      "tags": [
+        "ai",
+        "prompts",
+        "collection"
+      ],
+      "searchIndex": [
+        "GenAllAI",
+        "genallai",
+        "Colección prompts IA",
+        "ai",
+        "courses-learning",
+        "prompts",
+        "collection"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "generative-ai-beginners",
+      "name": "Generative AI for Beginners",
+      "slug": "generative-ai-for-beginners",
+      "description": "Curso IA generativa Microsoft",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "status": "active",
+      "tags": [
+        "ai",
+        "generative",
+        "microsoft",
+        "beginners",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Generative AI for Beginners",
+        "generative-ai-for-beginners",
+        "Curso IA generativa Microsoft",
+        "ai",
+        "courses-learning",
+        "generative",
+        "microsoft",
+        "beginners",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "genspark",
+      "name": "Genspark",
+      "slug": "genspark",
+      "description": "Workspace IA multi-agente",
+      "url": "https://www.genspark.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "workspace",
+        "multi-agent"
+      ],
+      "searchIndex": [
+        "Genspark",
+        "genspark",
+        "Workspace IA multi-agente",
+        "ai",
+        "specialized-tools",
+        "workspace",
+        "multi-agent"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "github-mcp",
+      "name": "GitHub MCP",
+      "slug": "github-mcp",
+      "description": "Colección oficial MCP repositorio",
+      "url": "https://github.com/mcp",
+      "status": "active",
+      "tags": [
+        "ai",
+        "github",
+        "mcp",
+        "collection",
+        "open-source"
+      ],
+      "searchIndex": [
+        "GitHub MCP",
+        "github-mcp",
+        "Colección oficial MCP repositorio",
+        "ai",
+        "courses-learning",
+        "github",
+        "mcp",
+        "collection",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "goodbarber",
+      "name": "GoodBarber",
+      "slug": "goodbarber",
+      "description": "App builder IA apps móviles",
+      "url": "https://www.goodbarber.com/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "builder",
+        "mobile",
+        "apps"
+      ],
+      "searchIndex": [
+        "GoodBarber",
+        "goodbarber",
+        "App builder IA apps móviles",
+        "ai",
+        "specialized-tools",
+        "builder",
+        "mobile",
+        "apps"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "google-ai-studio",
+      "name": "Google AI Studio",
+      "slug": "google-ai-studio",
+      "description": "Plataforma convertir prototipos en apps",
+      "url": "https://aistudio.google.com/welcome",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "platform",
+        "prototyping",
+        "apps"
+      ],
+      "searchIndex": [
+        "Google AI Studio",
+        "google-ai-studio",
+        "Plataforma convertir prototipos en apps",
+        "ai",
+        "courses-learning",
+        "google",
+        "platform",
+        "prototyping",
+        "apps"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "google-automa",
+      "name": "Google AutoMa",
+      "slug": "google-automa",
+      "description": "Google automatización workspace",
+      "url": "https://workspace.google.com/intl/es/studio/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "automation",
+        "workspace"
+      ],
+      "searchIndex": [
+        "Google AutoMa",
+        "google-automa",
+        "Google automatización workspace",
+        "ai",
+        "courses-learning",
+        "google",
+        "automation",
+        "workspace"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "google-gemini-canvas",
+      "name": "Google Gemini Canvas",
+      "slug": "google-gemini-canvas",
+      "description": "Convierte bocetos en apps y juegos",
+      "url": "https://gemini.google.com/overview/canvas/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "gemini",
+        "apps",
+        "games"
+      ],
+      "searchIndex": [
+        "Google Gemini Canvas",
+        "google-gemini-canvas",
+        "Convierte bocetos en apps y juegos",
+        "ai",
+        "courses-learning",
+        "google",
+        "gemini",
+        "apps",
+        "games"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "google-grow",
+      "name": "Google Grow",
+      "slug": "google-grow",
+      "description": "Curso de aprendizaje y mejora Google",
+      "url": "https://grow.google/intl/es/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "course",
+        "learning"
+      ],
+      "searchIndex": [
+        "Google Grow",
+        "google-grow",
+        "Curso de aprendizaje y mejora Google",
+        "ai",
+        "courses-learning",
+        "google",
+        "course",
+        "learning"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "google-io-2026",
+      "name": "Google IO 2026",
+      "slug": "google-io-2026",
+      "description": "Evento Google IO 2026",
+      "url": "https://io.google/2026",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "event",
+        "conference"
+      ],
+      "searchIndex": [
+        "Google IO 2026",
+        "google-io-2026",
+        "Evento Google IO 2026",
+        "ai",
+        "courses-learning",
+        "google",
+        "event",
+        "conference"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "google-labs",
+      "name": "Google Labs",
+      "slug": "google-labs",
+      "description": "Experimentos e IA de Google",
+      "url": "https://labs.google",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "experiments",
+        "labs"
+      ],
+      "searchIndex": [
+        "Google Labs",
+        "google-labs",
+        "Experimentos e IA de Google",
+        "ai",
+        "courses-learning",
+        "google",
+        "experiments",
+        "labs"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "google-notebooklm",
+      "name": "Google NotebookLM",
+      "slug": "google-notebooklm",
+      "description": "Analiza PDFs y documentos con IA",
+      "url": "https://notebooklm.google.com/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "pdf",
+        "documents",
+        "analysis"
+      ],
+      "searchIndex": [
+        "Google NotebookLM",
+        "google-notebooklm",
+        "Analiza PDFs y documentos con IA",
+        "ai",
+        "courses-learning",
+        "google",
+        "pdf",
+        "documents",
+        "analysis"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "google-opal",
+      "name": "Google Opal",
+      "slug": "google-opal",
+      "description": "Herramienta crear automatizaciones IA",
+      "url": "https://opal.google/landing/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "automation",
+        "tool"
+      ],
+      "searchIndex": [
+        "Google Opal",
+        "google-opal",
+        "Herramienta crear automatizaciones IA",
+        "ai",
+        "courses-learning",
+        "google",
+        "automation",
+        "tool"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "google-pomelli",
+      "name": "Google Pomelli",
+      "slug": "google-pomelli",
+      "description": "Generador identidad visual marcas",
+      "url": "https://labs.google.com/pomelli/about/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "branding",
+        "visual"
+      ],
+      "searchIndex": [
+        "Google Pomelli",
+        "google-pomelli",
+        "Generador identidad visual marcas",
+        "ai",
+        "courses-learning",
+        "google",
+        "branding",
+        "visual"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "google-stitch",
+      "name": "Google Stitch",
+      "slug": "google-stitch",
+      "description": "Prototipado experimental IA Google",
+      "url": "https://stitch.withgoogle.com/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "prototyping",
+        "experimental"
+      ],
+      "searchIndex": [
+        "Google Stitch",
+        "google-stitch",
+        "Prototipado experimental IA Google",
+        "ai",
+        "courses-learning",
+        "google",
+        "prototyping",
+        "experimental"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "google-stitch-design-md",
+      "name": "Google Stitch DESIGN.md",
+      "slug": "google-stitch-design-md",
+      "description": "Especificación oficial DESIGN.md para agentes IA",
+      "url": "https://stitch.withgoogle.com/docs/design-md/overview",
+      "status": "active",
+      "tags": [
+        "ai",
+        "design",
+        "specification",
+        "documentation"
+      ],
+      "searchIndex": [
+        "Google Stitch DESIGN.md",
+        "google-stitch-design-md",
+        "Especificación oficial DESIGN.md para agentes IA",
+        "ai",
+        "ui",
+        "design",
+        "specification",
+        "documentation"
+      ],
+      "category": "ai",
+      "subcategory": "ui",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "hercules",
+      "name": "Hercules",
+      "slug": "hercules",
+      "description": "Creador IA webs con componentes",
+      "url": "https://hercules.app",
+      "status": "active",
+      "tags": [
+        "ai",
+        "web",
+        "creator",
+        "components"
+      ],
+      "searchIndex": [
+        "Hercules",
+        "hercules",
+        "Creador IA webs con componentes",
+        "ai",
+        "ui",
+        "web",
+        "creator",
+        "components"
+      ],
+      "category": "ai",
+      "subcategory": "ui",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "heygen",
+      "name": "HeyGen",
+      "slug": "heygen",
+      "description": "Generación de video con avatares",
+      "url": "https://heygen.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "avatars",
+        "generation"
+      ],
+      "searchIndex": [
+        "HeyGen",
+        "heygen",
+        "Generación de video con avatares",
+        "ai",
+        "video-audio",
+        "video",
+        "avatars",
+        "generation"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "higgsfield",
+      "name": "Higgsfield",
+      "slug": "higgsfield",
+      "description": "Creación de video para redes sociales",
+      "url": "https://higgsfield.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "social",
+        "creation"
+      ],
+      "searchIndex": [
+        "Higgsfield",
+        "higgsfield",
+        "Creación de video para redes sociales",
+        "ai",
+        "video-audio",
+        "video",
+        "social",
+        "creation"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "huggingface-agents-course",
+      "name": "Hugging Face Agents Course",
+      "slug": "hugging-face-agents-course",
+      "description": "Curso agentes IA en español",
+      "url": "https://huggingface.co/learn/agents-course/es/unit0/introduction",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agents",
+        "course",
+        "free",
+        "spanish"
+      ],
+      "searchIndex": [
+        "Hugging Face Agents Course",
+        "hugging-face-agents-course",
+        "Curso agentes IA en español",
+        "ai",
+        "courses-learning",
+        "agents",
+        "course",
+        "free",
+        "spanish"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "huggingface-llm-course",
+      "name": "Hugging Face LLM Course",
+      "slug": "hugging-face-llm-course",
+      "description": "Curso gratuito de LLMs en español",
+      "url": "https://huggingface.co/learn/llm-course/es/chapter1/1",
+      "status": "active",
+      "tags": [
+        "ai",
+        "llm",
+        "course",
+        "free",
+        "spanish"
+      ],
+      "searchIndex": [
+        "Hugging Face LLM Course",
+        "hugging-face-llm-course",
+        "Curso gratuito de LLMs en español",
+        "ai",
+        "courses-learning",
+        "llm",
+        "course",
+        "free",
+        "spanish"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "imaginebuddy",
+      "name": "ImagineBuddy",
+      "slug": "imaginebuddy",
+      "description": "MILES de prompts Midjourney, DALL-E, Leonardo",
+      "url": "https://imaginebuddy.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "prompts",
+        "midjourney",
+        "dall-e",
+        "leonardo"
+      ],
+      "searchIndex": [
+        "ImagineBuddy",
+        "imaginebuddy",
+        "MILES de prompts Midjourney, DALL-E, Leonardo",
+        "ai",
+        "prompts-collections",
+        "prompts",
+        "midjourney",
+        "dall-e",
+        "leonardo"
+      ],
+      "category": "ai",
+      "subcategory": "prompts-collections",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "infinite-monitor",
+      "name": "Infinite Monitor",
+      "slug": "infinite-monitor",
+      "description": "IA builder dashboard",
+      "url": "https://infinitemonitor.com/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "builder",
+        "dashboard"
+      ],
+      "searchIndex": [
+        "Infinite Monitor",
+        "infinite-monitor",
+        "IA builder dashboard",
+        "ai",
+        "specialized-tools",
+        "builder",
+        "dashboard"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "langchain",
+      "name": "LangChain",
+      "slug": "langchain",
+      "description": "Desarrollo de apps basadas en LLM",
+      "url": "https://langchain.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "llm",
+        "framework",
+        "development",
+        "open-source"
+      ],
+      "searchIndex": [
+        "LangChain",
+        "langchain",
+        "Desarrollo de apps basadas en LLM",
+        "ai",
+        "agents-automation",
+        "llm",
+        "framework",
+        "development",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "lessie-ai",
+      "name": "Lessie AI",
+      "slug": "lessie-ai",
+      "description": "Asistente IA personal",
+      "url": "https://lessie.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistant",
+        "personal"
+      ],
+      "searchIndex": [
+        "Lessie AI",
+        "lessie-ai",
+        "Asistente IA personal",
+        "ai",
+        "agents-automation",
+        "assistant",
+        "personal"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "levity",
+      "name": "Levity",
+      "slug": "levity",
+      "description": "Automatización de tareas de texto",
+      "url": "https://levity.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "automation",
+        "text",
+        "tasks"
+      ],
+      "searchIndex": [
+        "Levity",
+        "levity",
+        "Automatización de tareas de texto",
+        "ai",
+        "agents-automation",
+        "automation",
+        "text",
+        "tasks"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "llmfit",
+      "name": "LLMFit",
+      "slug": "llmfit",
+      "description": "Modelo LLM local mejor GitHub",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "status": "active",
+      "tags": [
+        "ai",
+        "llm",
+        "local",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "LLMFit",
+        "llmfit",
+        "Modelo LLM local mejor GitHub",
+        "ai",
+        "courses-learning",
+        "llm",
+        "local",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "lovable",
+      "name": "Lovable",
+      "slug": "lovable",
+      "description": "Plataforma desarrollo IA para construir apps web rápido",
+      "url": "https://lovable.dev/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "web-app",
+        "fast"
+      ],
+      "searchIndex": [
+        "Lovable",
+        "lovable",
+        "Plataforma desarrollo IA para construir apps web rápido",
+        "ai",
+        "ui",
+        "development",
+        "web-app",
+        "fast"
+      ],
+      "category": "ai",
+      "subcategory": "ui",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "luma-labs",
+      "name": "Luma Labs",
+      "slug": "luma-labs",
+      "description": "Generación video y 3D con IA",
+      "url": "https://lumalabs.ai/app",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "3d",
+        "generation"
+      ],
+      "searchIndex": [
+        "Luma Labs",
+        "luma-labs",
+        "Generación video y 3D con IA",
+        "ai",
+        "specialized-tools",
+        "video",
+        "3d",
+        "generation"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "magicloops",
+      "name": "MagicLoops",
+      "slug": "magicloops",
+      "description": "IA builder web/móvil rápido",
+      "url": "https://magicloops.dev/es",
+      "status": "active",
+      "tags": [
+        "ai",
+        "builder",
+        "web",
+        "mobile",
+        "fast"
+      ],
+      "searchIndex": [
+        "MagicLoops",
+        "magicloops",
+        "IA builder web/móvil rápido",
+        "ai",
+        "ui",
+        "builder",
+        "web",
+        "mobile",
+        "fast"
+      ],
+      "category": "ai",
+      "subcategory": "ui",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "make",
+      "name": "Make",
+      "slug": "make",
+      "description": "Automatización de flujos de trabajo visual",
+      "url": "https://make.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "automation",
+        "workflow",
+        "visual"
+      ],
+      "searchIndex": [
+        "Make",
+        "make",
+        "Automatización de flujos de trabajo visual",
+        "ai",
+        "agents-automation",
+        "automation",
+        "workflow",
+        "visual"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "mammouth-ai",
+      "name": "Mammouth AI",
+      "slug": "mammouth-ai",
+      "description": "Agente IA autónomo completo",
+      "url": "https://mammouth.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "autonomous",
+        "complete"
+      ],
+      "searchIndex": [
+        "Mammouth AI",
+        "mammouth-ai",
+        "Agente IA autónomo completo",
+        "ai",
+        "agents-automation",
+        "agent",
+        "autonomous",
+        "complete"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "mempalace",
+      "name": "MemPalace",
+      "slug": "mempalace",
+      "description": "Gestor memoria para IA",
+      "url": "https://github.com/MemPalace/mempalace",
+      "status": "active",
+      "tags": [
+        "ai",
+        "memory",
+        "management",
+        "open-source"
+      ],
+      "searchIndex": [
+        "MemPalace",
+        "mempalace",
+        "Gestor memoria para IA",
+        "ai",
+        "agents-automation",
+        "memory",
+        "management",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "merleau",
+      "name": "Merleau",
+      "slug": "merleau",
+      "description": "Resumir videos YouTube",
+      "url": "https://merleau.cc/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "youtube",
+        "summary",
+        "video"
+      ],
+      "searchIndex": [
+        "Merleau",
+        "merleau",
+        "Resumir videos YouTube",
+        "ai",
+        "specialized-tools",
+        "youtube",
+        "summary",
+        "video"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "microsoft-build",
+      "name": "Microsoft Build",
+      "slug": "microsoft-build",
+      "description": "Recursos devs Microsoft",
+      "url": "https://build.microsoft.com/en-US/home",
+      "status": "active",
+      "tags": [
+        "ai",
+        "microsoft",
+        "developers",
+        "resources"
+      ],
+      "searchIndex": [
+        "Microsoft Build",
+        "microsoft-build",
+        "Recursos devs Microsoft",
+        "ai",
+        "courses-learning",
+        "microsoft",
+        "developers",
+        "resources"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "microsoft-mcp",
+      "name": "Microsoft MCP",
+      "slug": "microsoft-mcp",
+      "description": "MCP learning Microsoft",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "status": "active",
+      "tags": [
+        "ai",
+        "microsoft",
+        "mcp",
+        "learning",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Microsoft MCP",
+        "microsoft-mcp",
+        "MCP learning Microsoft",
+        "ai",
+        "courses-learning",
+        "microsoft",
+        "mcp",
+        "learning",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "mirofish",
+      "name": "MiroFish",
+      "slug": "mirofish",
+      "description": "Motor IA predicción con enjambre",
+      "url": "https://mirofish.us/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "prediction",
+        "swarm"
+      ],
+      "searchIndex": [
+        "MiroFish",
+        "mirofish",
+        "Motor IA predicción con enjambre",
+        "ai",
+        "specialized-tools",
+        "prediction",
+        "swarm"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "murf",
+      "name": "Murph",
+      "slug": "murph",
+      "description": "Generador de voces con IA",
+      "url": "https://murf.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "voice",
+        "audio",
+        "generation"
+      ],
+      "searchIndex": [
+        "Murph",
+        "murph",
+        "Generador de voces con IA",
+        "ai",
+        "video-audio",
+        "voice",
+        "audio",
+        "generation"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "n8n",
+      "name": "n8n",
+      "slug": "n8n",
+      "description": "Automatización de código abierto self-hosted",
+      "url": "https://n8n.io",
+      "status": "active",
+      "tags": [
+        "ai",
+        "automation",
+        "open-source",
+        "self-hosted"
+      ],
+      "searchIndex": [
+        "n8n",
+        "Automatización de código abierto self-hosted",
+        "ai",
+        "agents-automation",
+        "automation",
+        "open-source",
+        "self-hosted"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "namiru-ai",
+      "name": "Namiru AI",
+      "slug": "namiru-ai",
+      "description": "Plataforma agentes IA",
+      "url": "https://namiru.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agents",
+        "platform"
+      ],
+      "searchIndex": [
+        "Namiru AI",
+        "namiru-ai",
+        "Plataforma agentes IA",
+        "ai",
+        "agents-automation",
+        "agents",
+        "platform"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "nano-banana",
+      "name": "Nano Banana",
+      "slug": "nano-banana",
+      "description": "Generador de contenido con IA",
+      "url": "https://nanobanana.com/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "content",
+        "generator"
+      ],
+      "searchIndex": [
+        "Nano Banana",
+        "nano-banana",
+        "Generador de contenido con IA",
+        "ai",
+        "specialized-tools",
+        "content",
+        "generator"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "slug": "notion",
+      "description": "Crear planificación proyecto IA",
+      "url": "https://www.notion.so/es-es",
+      "status": "active",
+      "tags": [
+        "ai",
+        "planning",
+        "project",
+        "productivity"
+      ],
+      "searchIndex": [
+        "Notion",
+        "notion",
+        "Crear planificación proyecto IA",
+        "ai",
+        "specialized-tools",
+        "planning",
+        "project",
+        "productivity"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "okara-ai",
+      "name": "Okara AI",
+      "slug": "okara-ai",
+      "description": "Plataforma IA conversacional",
+      "url": "https://okara.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "conversational",
+        "platform"
+      ],
+      "searchIndex": [
+        "Okara AI",
+        "okara-ai",
+        "Plataforma IA conversacional",
+        "ai",
+        "agents-automation",
+        "conversational",
+        "platform"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "omma",
+      "name": "Omma",
+      "slug": "omma",
+      "description": "IA Builder 3D scenes, web, games, apps",
+      "url": "https://omma.build/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "builder",
+        "3d",
+        "web",
+        "games",
+        "apps"
+      ],
+      "searchIndex": [
+        "Omma",
+        "omma",
+        "IA Builder 3D scenes, web, games, apps",
+        "ai",
+        "ui",
+        "builder",
+        "3d",
+        "web",
+        "games",
+        "apps"
+      ],
+      "category": "ai",
+      "subcategory": "ui",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "open-webui",
+      "name": "Open WebUI",
+      "slug": "open-webui",
+      "description": "Interfaz web para LLMs locales",
+      "url": "https://github.com/open-webui/open-webui",
+      "status": "active",
+      "tags": [
+        "ai",
+        "llm",
+        "local",
+        "interface",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Open WebUI",
+        "open-webui",
+        "Interfaz web para LLMs locales",
+        "ai",
+        "agents-automation",
+        "llm",
+        "local",
+        "interface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "openrouter-rankings",
+      "name": "OpenRouter Rankings",
+      "slug": "openrouter-rankings",
+      "description": "Rankings LLM open source",
+      "url": "https://openrouter.ai/rankings",
+      "status": "active",
+      "tags": [
+        "ai",
+        "llm",
+        "rankings",
+        "open-source"
+      ],
+      "searchIndex": [
+        "OpenRouter Rankings",
+        "openrouter-rankings",
+        "Rankings LLM open source",
+        "ai",
+        "courses-learning",
+        "llm",
+        "rankings",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pdfelement",
+      "name": "PDFElement",
+      "slug": "pdfelement",
+      "description": "Editor PDF IA",
+      "url": "https://pdf.wondershare.net/es/ad/pdfelement-v90-pro.html",
+      "status": "active",
+      "tags": [
+        "ai",
+        "pdf",
+        "editor"
+      ],
+      "searchIndex": [
+        "PDFElement",
+        "pdfelement",
+        "Editor PDF IA",
+        "ai",
+        "specialized-tools",
+        "pdf",
+        "editor"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pollo-ai",
+      "name": "Pollo AI",
+      "slug": "pollo-ai",
+      "description": "Animación de video con IA Mimic Motion",
+      "url": "https://pollo.ai/es/mimic-motion",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "animation",
+        "motion"
+      ],
+      "searchIndex": [
+        "Pollo AI",
+        "pollo-ai",
+        "Animación de video con IA Mimic Motion",
+        "ai",
+        "video-audio",
+        "video",
+        "animation",
+        "motion"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "prometheus-euniai",
+      "name": "Prometheus EuniAI",
+      "slug": "prometheus-euniai",
+      "description": "Framework agentes IA con grafos",
+      "url": "https://github.com/EuniAI/Prometheus",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agents",
+        "framework",
+        "graphs",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Prometheus EuniAI",
+        "prometheus-euniai",
+        "Framework agentes IA con grafos",
+        "ai",
+        "agents-automation",
+        "agents",
+        "framework",
+        "graphs",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "prompt-packs",
+      "name": "Prompt Packs",
+      "slug": "prompt-packs",
+      "description": "Plataforma prompts OpenAI",
+      "url": "https://academy.openai.com/public/clubs/work-users-ynjqu/tags/prompt-packs-6849a0f98c613939acef841c",
+      "status": "active",
+      "tags": [
+        "ai",
+        "prompts",
+        "openai",
+        "platform"
+      ],
+      "searchIndex": [
+        "Prompt Packs",
+        "prompt-packs",
+        "Plataforma prompts OpenAI",
+        "ai",
+        "prompts-collections",
+        "prompts",
+        "openai",
+        "platform"
+      ],
+      "category": "ai",
+      "subcategory": "prompts-collections",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "promptcowboys",
+      "name": "PromptCowboys",
+      "slug": "promptcowboys",
+      "description": "Generador de prompts",
+      "url": "https://www.promptcowboys.com/es",
+      "status": "active",
+      "tags": [
+        "ai",
+        "prompts",
+        "generator"
+      ],
+      "searchIndex": [
+        "PromptCowboys",
+        "promptcowboys",
+        "Generador de prompts",
+        "ai",
+        "prompts-collections",
+        "prompts",
+        "generator"
+      ],
+      "category": "ai",
+      "subcategory": "prompts-collections",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "promptden",
+      "name": "PromptDen",
+      "slug": "promptden",
+      "description": "MILES de prompts para desarrollo software",
+      "url": "https://promptden.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "prompts",
+        "development",
+        "software"
+      ],
+      "searchIndex": [
+        "PromptDen",
+        "promptden",
+        "MILES de prompts para desarrollo software",
+        "ai",
+        "prompts-collections",
+        "prompts",
+        "development",
+        "software"
+      ],
+      "category": "ai",
+      "subcategory": "prompts-collections",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "prompthero",
+      "name": "PromptHero",
+      "slug": "prompthero",
+      "description": "MILES de prompts visuales imagen/video",
+      "url": "https://prompthero.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "prompts",
+        "visual",
+        "image",
+        "video"
+      ],
+      "searchIndex": [
+        "PromptHero",
+        "prompthero",
+        "MILES de prompts visuales imagen/video",
+        "ai",
+        "prompts-collections",
+        "prompts",
+        "visual",
+        "image",
+        "video"
+      ],
+      "category": "ai",
+      "subcategory": "prompts-collections",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "prompts-chat",
+      "name": "Prompts Chat",
+      "slug": "prompts-chat",
+      "description": "Gratis Open Source",
+      "url": "https://prompts.chat/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "prompts",
+        "free",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Prompts Chat",
+        "prompts-chat",
+        "Gratis Open Source",
+        "ai",
+        "prompts-collections",
+        "prompts",
+        "free",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "prompts-collections",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "promptsy",
+      "name": "PromptsY",
+      "slug": "promptsy",
+      "description": "Banco de prompts IA",
+      "url": "https://promptsy.dev/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "prompts",
+        "bank"
+      ],
+      "searchIndex": [
+        "PromptsY",
+        "promptsy",
+        "Banco de prompts IA",
+        "ai",
+        "prompts-collections",
+        "prompts",
+        "bank"
+      ],
+      "category": "ai",
+      "subcategory": "prompts-collections",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "qwen-code",
+      "name": "Qwen Code",
+      "slug": "qwen-code",
+      "description": "Qwen code desktop",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "status": "active",
+      "tags": [
+        "ai",
+        "qwen",
+        "code",
+        "desktop",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Qwen Code",
+        "qwen-code",
+        "Qwen code desktop",
+        "ai",
+        "specialized-tools",
+        "qwen",
+        "code",
+        "desktop",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "readdy",
+      "name": "Readdy",
+      "slug": "readdy",
+      "description": "IA builder web/móvil con templates",
+      "url": "https://readdy.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "builder",
+        "web",
+        "mobile",
+        "templates"
+      ],
+      "searchIndex": [
+        "Readdy",
+        "readdy",
+        "IA builder web/móvil con templates",
+        "ai",
+        "ui",
+        "builder",
+        "web",
+        "mobile",
+        "templates"
+      ],
+      "category": "ai",
+      "subcategory": "ui",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "rely-app",
+      "name": "Rely.app",
+      "slug": "rely-app",
+      "description": "Catálogo de servicios de software",
+      "url": "https://rely.app/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "catalog",
+        "software",
+        "services"
+      ],
+      "searchIndex": [
+        "Rely.app",
+        "rely-app",
+        "Catálogo de servicios de software",
+        "ai",
+        "specialized-tools",
+        "catalog",
+        "software",
+        "services"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "remove-bg",
+      "name": "Remove.bg",
+      "slug": "remove-bg",
+      "description": "IA eliminar fondos de foto",
+      "url": "https://www.remove.bg/es",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image",
+        "background",
+        "removal"
+      ],
+      "searchIndex": [
+        "Remove.bg",
+        "remove-bg",
+        "IA eliminar fondos de foto",
+        "ai",
+        "video-audio",
+        "image",
+        "background",
+        "removal"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "slug": "rocket",
+      "description": "IA imágenes, videos y FIGMA",
+      "url": "https://www.rocket.new/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image",
+        "video",
+        "figma"
+      ],
+      "searchIndex": [
+        "Rocket",
+        "rocket",
+        "IA imágenes, videos y FIGMA",
+        "ai",
+        "agents-automation",
+        "image",
+        "video",
+        "figma"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "skillsmp",
+      "name": "SkillsMP",
+      "slug": "skillsmp",
+      "description": "Colección skills IA",
+      "url": "https://skillsmp.com/es/search",
+      "status": "active",
+      "tags": [
+        "ai",
+        "skills",
+        "collection"
+      ],
+      "searchIndex": [
+        "SkillsMP",
+        "skillsmp",
+        "Colección skills IA",
+        "ai",
+        "courses-learning",
+        "skills",
+        "collection"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "skysnail",
+      "name": "Skysnail",
+      "slug": "skysnail",
+      "description": "Creador thumbnail IA",
+      "url": "https://skysnail.io/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "thumbnail",
+        "creator"
+      ],
+      "searchIndex": [
+        "Skysnail",
+        "skysnail",
+        "Creador thumbnail IA",
+        "ai",
+        "specialized-tools",
+        "thumbnail",
+        "creator"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "skywork",
+      "name": "Skywork",
+      "slug": "skywork",
+      "description": "Build IA multipropósito varios pasos",
+      "url": "https://skywork.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "build",
+        "multipurpose",
+        "steps"
+      ],
+      "searchIndex": [
+        "Skywork",
+        "skywork",
+        "Build IA multipropósito varios pasos",
+        "ai",
+        "agents-automation",
+        "build",
+        "multipurpose",
+        "steps"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "snack-prompt",
+      "name": "Snack Prompt",
+      "slug": "snack-prompt",
+      "description": "MILES de prompts DevOps, UI/UX, TechSupport",
+      "url": "https://snackprompt.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "prompts",
+        "devops",
+        "ui-ux",
+        "support"
+      ],
+      "searchIndex": [
+        "Snack Prompt",
+        "snack-prompt",
+        "MILES de prompts DevOps, UI/UX, TechSupport",
+        "ai",
+        "prompts-collections",
+        "prompts",
+        "devops",
+        "ui-ux",
+        "support"
+      ],
+      "category": "ai",
+      "subcategory": "prompts-collections",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "stagehand",
+      "name": "Stagehand",
+      "slug": "stagehand",
+      "description": "Automatiza navegador con IA lenguaje natural",
+      "url": "https://github.com/browserbase/stagehand",
+      "status": "active",
+      "tags": [
+        "ai",
+        "browser",
+        "automation",
+        "nlp",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Stagehand",
+        "stagehand",
+        "Automatiza navegador con IA lenguaje natural",
+        "ai",
+        "agents-automation",
+        "browser",
+        "automation",
+        "nlp",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "suno",
+      "name": "Suno",
+      "slug": "suno",
+      "description": "Generación de música con IA",
+      "url": "https://suno.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "music",
+        "audio",
+        "generation"
+      ],
+      "searchIndex": [
+        "Suno",
+        "suno",
+        "Generación de música con IA",
+        "ai",
+        "video-audio",
+        "music",
+        "audio",
+        "generation"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "superpowers",
+      "name": "Superpowers",
+      "slug": "superpowers",
+      "description": "Agente IA colaboración programación",
+      "url": "https://github.com/obra/superpowers",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "programming",
+        "collaboration",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Superpowers",
+        "superpowers",
+        "Agente IA colaboración programación",
+        "ai",
+        "agents-automation",
+        "agent",
+        "programming",
+        "collaboration",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "synthesia",
+      "name": "Synthesia",
+      "slug": "synthesia",
+      "description": "Creación de videos con IA avatar",
+      "url": "https://synthesia.io",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "avatars",
+        "creation"
+      ],
+      "searchIndex": [
+        "Synthesia",
+        "synthesia",
+        "Creación de videos con IA avatar",
+        "ai",
+        "video-audio",
+        "video",
+        "avatars",
+        "creation"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "typeless",
+      "name": "Typeless",
+      "slug": "typeless",
+      "description": "Herramientas tipografía IA",
+      "url": "https://www.typeless.com/?via=javi-nigu",
+      "status": "active",
+      "tags": [
+        "ai",
+        "typography",
+        "tools"
+      ],
+      "searchIndex": [
+        "Typeless",
+        "typeless",
+        "Herramientas tipografía IA",
+        "ai",
+        "specialized-tools",
+        "typography",
+        "tools"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "v0-vercel",
+      "name": "v0 by Vercel",
+      "slug": "v0-by-vercel",
+      "description": "Genera interfaces responsivas desde prompts con Shadcn",
+      "url": "https://v0.dev/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "ui",
+        "vercel",
+        "shadcn",
+        "responsive"
+      ],
+      "searchIndex": [
+        "v0 by Vercel",
+        "v0-by-vercel",
+        "Genera interfaces responsivas desde prompts con Shadcn",
+        "ai",
+        "ui",
+        "vercel",
+        "shadcn",
+        "responsive"
+      ],
+      "category": "ai",
+      "subcategory": "ui",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "veo",
+      "name": "Veo",
+      "slug": "veo",
+      "description": "Generación de video de Google DeepMind",
+      "url": "https://deepmind.google/technologies/veo",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "google",
+        "deepmind",
+        "generation"
+      ],
+      "searchIndex": [
+        "Veo",
+        "veo",
+        "Generación de video de Google DeepMind",
+        "ai",
+        "video-audio",
+        "video",
+        "google",
+        "deepmind",
+        "generation"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "verdant-ai",
+      "name": "Verdant AI",
+      "slug": "verdant-ai",
+      "description": "IDE IA diferentes agents",
+      "url": "https://www.verdent.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "ide",
+        "agents"
+      ],
+      "searchIndex": [
+        "Verdant AI",
+        "verdant-ai",
+        "IDE IA diferentes agents",
+        "ai",
+        "courses-learning",
+        "ide",
+        "agents"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "vidstudio",
+      "name": "VidStudio",
+      "slug": "vidstudio",
+      "description": "Editor video online con IA",
+      "url": "https://vidstudio.app/video-editor",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "editor",
+        "online"
+      ],
+      "searchIndex": [
+        "VidStudio",
+        "vidstudio",
+        "Editor video online con IA",
+        "ai",
+        "video-audio",
+        "video",
+        "editor",
+        "online"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "vidu",
+      "name": "Vidu",
+      "slug": "vidu",
+      "description": "IA crear imágenes animadas video",
+      "url": "https://www.vidu.com/es",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "animation",
+        "creation"
+      ],
+      "searchIndex": [
+        "Vidu",
+        "vidu",
+        "IA crear imágenes animadas video",
+        "ai",
+        "video-audio",
+        "video",
+        "animation",
+        "creation"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "voicebox",
+      "name": "Voicebox",
+      "slug": "voicebox",
+      "description": "Clonador voces modo local",
+      "url": "https://github.com/jamiepine/voicebox",
+      "status": "active",
+      "tags": [
+        "ai",
+        "voice",
+        "cloning",
+        "local",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Voicebox",
+        "voicebox",
+        "Clonador voces modo local",
+        "ai",
+        "video-audio",
+        "voice",
+        "cloning",
+        "local",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "video-audio",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "vox-cpm",
+      "name": "Vox CPM",
+      "slug": "vox-cpm",
+      "description": "Prompts ordenes token",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "status": "active",
+      "tags": [
+        "ai",
+        "prompts",
+        "tokens",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Vox CPM",
+        "vox-cpm",
+        "Prompts ordenes token",
+        "ai",
+        "specialized-tools",
+        "prompts",
+        "tokens",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "specialized-tools",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "whatcanirun",
+      "name": "WhatCanIRun",
+      "slug": "whatcanirun",
+      "description": "Encuentra modelos IA ejecutables localmente",
+      "url": "https://github.com/fiveoutofnine/whatcanirun",
+      "status": "active",
+      "tags": [
+        "ai",
+        "local",
+        "models",
+        "benchmark",
+        "open-source"
+      ],
+      "searchIndex": [
+        "WhatCanIRun",
+        "whatcanirun",
+        "Encuentra modelos IA ejecutables localmente",
+        "ai",
+        "courses-learning",
+        "local",
+        "models",
+        "benchmark",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "courses-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "zapier",
+      "name": "Zapier",
+      "slug": "zapier",
+      "description": "Conexión y automatización de apps",
+      "url": "https://zapier.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "automation",
+        "integration",
+        "apps"
+      ],
+      "searchIndex": [
+        "Zapier",
+        "zapier",
+        "Conexión y automatización de apps",
+        "ai",
+        "agents-automation",
+        "automation",
+        "integration",
+        "apps"
+      ],
+      "category": "ai",
+      "subcategory": "agents-automation",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "zoer",
+      "name": "Zoer",
+      "slug": "zoer",
+      "description": "Creador IA webs completo",
+      "url": "https://zoer.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "web",
+        "creator",
+        "complete"
+      ],
+      "searchIndex": [
+        "Zoer",
+        "zoer",
+        "Creador IA webs completo",
+        "ai",
+        "ui",
+        "web",
+        "creator",
+        "complete"
+      ],
+      "category": "ai",
+      "subcategory": "ui",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-12",
+      "verified": true,
+      "noCreditCard": false
+    }
+  ]
+}

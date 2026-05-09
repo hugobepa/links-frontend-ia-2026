@@ -1,0 +1,1071 @@
+{
+  "categories": [
+    {
+      "id": "file-storage",
+      "name": "File Storage",
+      "slug": "file-storage",
+      "resourceCount": 11,
+      "status": "active"
+    },
+    {
+      "id": "image-video",
+      "name": "Image Video",
+      "slug": "image-video",
+      "resourceCount": 10,
+      "status": "active"
+    },
+    {
+      "id": "messaging",
+      "name": "Messaging",
+      "slug": "messaging",
+      "resourceCount": 2,
+      "status": "active"
+    },
+    {
+      "id": "search",
+      "name": "Search",
+      "slug": "search",
+      "resourceCount": 5,
+      "status": "active"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "cdn",
+      "name": "Cdn",
+      "slug": "cdn",
+      "category": "image-video",
+      "resourceCount": 8,
+      "status": "active"
+    },
+    {
+      "id": "cloud-storage",
+      "name": "Cloud Storage",
+      "slug": "cloud-storage",
+      "category": "file-storage",
+      "resourceCount": 7,
+      "status": "active"
+    },
+    {
+      "id": "engines",
+      "name": "Engines",
+      "slug": "engines",
+      "category": "search",
+      "resourceCount": 5,
+      "status": "active"
+    },
+    {
+      "id": "file-transfer",
+      "name": "File Transfer",
+      "slug": "file-transfer",
+      "category": "file-storage",
+      "resourceCount": 4,
+      "status": "active"
+    },
+    {
+      "id": "realtime",
+      "name": "Realtime",
+      "slug": "realtime",
+      "category": "messaging",
+      "resourceCount": 1,
+      "status": "active"
+    },
+    {
+      "id": "services",
+      "name": "Services",
+      "slug": "services",
+      "category": "messaging",
+      "resourceCount": 1,
+      "status": "active"
+    },
+    {
+      "id": "video-hosting",
+      "name": "Video Hosting",
+      "slug": "video-hosting",
+      "category": "image-video",
+      "resourceCount": 2,
+      "status": "active"
+    }
+  ],
+  "resources": [
+    {
+      "id": "algolia",
+      "name": "Algolia",
+      "slug": "algolia",
+      "description": "Búsqueda instantánea 10k docs/mes gratis",
+      "url": "https://www.algolia.com",
+      "status": "active",
+      "tags": [
+        "search",
+        "instant",
+        "saas",
+        "freemium"
+      ],
+      "searchIndex": [
+        "Algolia",
+        "algolia",
+        "Búsqueda instantánea 10k docs/mes gratis",
+        "search",
+        "engines",
+        "instant",
+        "saas",
+        "freemium"
+      ],
+      "category": "search",
+      "subcategory": "engines",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "10k documentos/mes, 10k operaciones",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "backblaze-b2",
+      "name": "Backblaze B2",
+      "slug": "backblaze-b2",
+      "description": "Storage S3-compatible 10GB gratis",
+      "url": "https://www.backblaze.com/b2",
+      "status": "active",
+      "tags": [
+        "storage",
+        "s3",
+        "compatible",
+        "backup"
+      ],
+      "searchIndex": [
+        "Backblaze B2",
+        "backblaze-b2",
+        "Storage S3-compatible 10GB gratis",
+        "file-storage",
+        "cloud-storage",
+        "storage",
+        "s3",
+        "compatible",
+        "backup"
+      ],
+      "category": "file-storage",
+      "subcategory": "cloud-storage",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "10GB almacenamiento gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "centrifugo",
+      "name": "Centrifugo",
+      "slug": "centrifugo",
+      "description": "Server WebSocket open source",
+      "url": "https://centrifugal.dev",
+      "status": "active",
+      "tags": [
+        "messaging",
+        "websockets",
+        "open-source",
+        "realtime"
+      ],
+      "searchIndex": [
+        "Centrifugo",
+        "centrifugo",
+        "Server WebSocket open source",
+        "messaging",
+        "realtime",
+        "websockets",
+        "open-source"
+      ],
+      "category": "messaging",
+      "subcategory": "realtime",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Open source, self-hosted gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "cloudamqp",
+      "name": "CloudAMQP",
+      "slug": "cloudamqp",
+      "description": "RabbitMQ como servicio 1M msgs/mes",
+      "url": "https://www.cloudamqp.com",
+      "status": "active",
+      "tags": [
+        "messaging",
+        "rabbitmq",
+        "queue"
+      ],
+      "searchIndex": [
+        "CloudAMQP",
+        "cloudamqp",
+        "RabbitMQ como servicio 1M msgs/mes",
+        "messaging",
+        "services",
+        "rabbitmq",
+        "queue"
+      ],
+      "category": "messaging",
+      "subcategory": "services",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "1M mensajes/mes, 1M mensajes/mes",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "cloudimage",
+      "name": "Cloudimage",
+      "slug": "cloudimage",
+      "description": "Optimización y CDN de imágenes",
+      "url": "https://www.cloudimage.io",
+      "status": "active",
+      "tags": [
+        "image",
+        "cdn",
+        "optimization"
+      ],
+      "searchIndex": [
+        "Cloudimage",
+        "cloudimage",
+        "Optimización y CDN de imágenes",
+        "image-video",
+        "cdn",
+        "image",
+        "optimization"
+      ],
+      "category": "image-video",
+      "subcategory": "cdn",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "25GB CDN/mes, transformaciones ilimitadas",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "cloudinary",
+      "name": "Cloudinary",
+      "slug": "cloudinary",
+      "description": "CDN y optimización de imágenes",
+      "url": "https://cloudinary.com",
+      "status": "active",
+      "tags": [
+        "image",
+        "cdn",
+        "optimization",
+        "media"
+      ],
+      "searchIndex": [
+        "Cloudinary",
+        "cloudinary",
+        "CDN y optimización de imágenes",
+        "image-video",
+        "cdn",
+        "image",
+        "optimization",
+        "media"
+      ],
+      "category": "image-video",
+      "subcategory": "cdn",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "25GB almacenamiento, 25GB bandwidth/mes",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "elastic-cloud",
+      "name": "Elastic Cloud",
+      "slug": "elastic-cloud",
+      "description": "Elasticsearch gestionado 1GB gratis",
+      "url": "https://www.elastic.co/cloud",
+      "status": "active",
+      "tags": [
+        "search",
+        "elasticsearch",
+        "managed",
+        "elastic"
+      ],
+      "searchIndex": [
+        "Elastic Cloud",
+        "elastic-cloud",
+        "Elasticsearch gestionado 1GB gratis",
+        "search",
+        "engines",
+        "elasticsearch",
+        "managed",
+        "elastic"
+      ],
+      "category": "search",
+      "subcategory": "engines",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "1GB almacenamiento, 1GB RAM",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "file-io",
+      "name": "File.io",
+      "slug": "file-io",
+      "description": "Comparte archivos auto-destruibles",
+      "url": "https://www.file.io",
+      "status": "active",
+      "tags": [
+        "file",
+        "transfer",
+        "temporary",
+        "sharing"
+      ],
+      "searchIndex": [
+        "File.io",
+        "file-io",
+        "Comparte archivos auto-destruibles",
+        "file-storage",
+        "file-transfer",
+        "file",
+        "transfer",
+        "temporary",
+        "sharing"
+      ],
+      "category": "file-storage",
+      "subcategory": "file-transfer",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Archivos auto-destruibles después de 1 descarga",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "filestack",
+      "name": "Filestack",
+      "slug": "filestack",
+      "description": "Subida y transformación de archivos",
+      "url": "https://www.filestack.com",
+      "status": "active",
+      "tags": [
+        "file",
+        "upload",
+        "transformation",
+        "cdn"
+      ],
+      "searchIndex": [
+        "Filestack",
+        "filestack",
+        "Subida y transformación de archivos",
+        "image-video",
+        "cdn",
+        "file",
+        "upload",
+        "transformation"
+      ],
+      "category": "image-video",
+      "subcategory": "cdn",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "500 uploads/mes, 5GB bandwidth",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "icedrive",
+      "name": "Icedrive",
+      "slug": "icedrive",
+      "description": "Cloud storage con encriptación",
+      "url": "https://icedrive.net",
+      "status": "active",
+      "tags": [
+        "storage",
+        "cloud",
+        "encrypted"
+      ],
+      "searchIndex": [
+        "Icedrive",
+        "icedrive",
+        "Cloud storage con encriptación",
+        "file-storage",
+        "cloud-storage",
+        "storage",
+        "cloud",
+        "encrypted"
+      ],
+      "category": "file-storage",
+      "subcategory": "cloud-storage",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "10GB almacenamiento gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "imageengine",
+      "name": "ImageEngine",
+      "slug": "imageengine",
+      "description": "CDN de imágenes con optimización",
+      "url": "https://imageengine.io",
+      "status": "active",
+      "tags": [
+        "image",
+        "cdn",
+        "optimization",
+        "performance"
+      ],
+      "searchIndex": [
+        "ImageEngine",
+        "imageengine",
+        "CDN de imágenes con optimización",
+        "image-video",
+        "cdn",
+        "image",
+        "optimization",
+        "performance"
+      ],
+      "category": "image-video",
+      "subcategory": "cdn",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Trial 30 días, luego desde $10/mes",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "imagekit",
+      "name": "ImageKit",
+      "slug": "imagekit",
+      "description": "Optimización y CDN de imágenes",
+      "url": "https://imagekit.io",
+      "status": "active",
+      "tags": [
+        "image",
+        "cdn",
+        "optimization",
+        "transformation"
+      ],
+      "searchIndex": [
+        "ImageKit",
+        "imagekit",
+        "Optimización y CDN de imágenes",
+        "image-video",
+        "cdn",
+        "image",
+        "optimization",
+        "transformation"
+      ],
+      "category": "image-video",
+      "subcategory": "cdn",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "20GB bandwidth/mes, transformación ilimitada",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "imgix",
+      "name": "Imgix",
+      "slug": "imgix",
+      "description": "Transformación de imágenes CDN",
+      "url": "https://imgix.com",
+      "status": "active",
+      "tags": [
+        "image",
+        "cdn",
+        "transformation",
+        "optimization"
+      ],
+      "searchIndex": [
+        "Imgix",
+        "imgix",
+        "Transformación de imágenes CDN",
+        "image-video",
+        "cdn",
+        "image",
+        "transformation",
+        "optimization"
+      ],
+      "category": "image-video",
+      "subcategory": "cdn",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Trial 30 días, luego desde $20/mes",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "mega",
+      "name": "MEGA",
+      "slug": "mega",
+      "description": "Almacenamiento cloud 20GB gratis",
+      "url": "https://mega.io",
+      "status": "active",
+      "tags": [
+        "storage",
+        "cloud",
+        "encrypted"
+      ],
+      "searchIndex": [
+        "MEGA",
+        "mega",
+        "Almacenamiento cloud 20GB gratis",
+        "file-storage",
+        "cloud-storage",
+        "storage",
+        "cloud",
+        "encrypted"
+      ],
+      "category": "file-storage",
+      "subcategory": "cloud-storage",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "20GB almacenamiento gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "meilisearch",
+      "name": "Meilisearch",
+      "slug": "meilisearch",
+      "description": "Búsqueda instantánea open source",
+      "url": "https://www.meilisearch.com",
+      "status": "active",
+      "tags": [
+        "search",
+        "open-source",
+        "instant",
+        "rust"
+      ],
+      "searchIndex": [
+        "Meilisearch",
+        "meilisearch",
+        "Búsqueda instantánea open source",
+        "search",
+        "engines",
+        "open-source",
+        "instant",
+        "rust"
+      ],
+      "category": "search",
+      "subcategory": "engines",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Self-hosted gratis, cloud desde $25/mes",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "pcloud",
+      "name": "pCloud",
+      "slug": "pcloud",
+      "description": "Almacenamiento cloud seguro",
+      "url": "https://www.pcloud.com",
+      "status": "active",
+      "tags": [
+        "storage",
+        "cloud",
+        "secure"
+      ],
+      "searchIndex": [
+        "pCloud",
+        "pcloud",
+        "Almacenamiento cloud seguro",
+        "file-storage",
+        "cloud-storage",
+        "storage",
+        "cloud",
+        "secure"
+      ],
+      "category": "file-storage",
+      "subcategory": "cloud-storage",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Hasta 10GB gratis con referidos",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "pinata-ipfs",
+      "name": "Pinata IPFS",
+      "slug": "pinata-ipfs",
+      "description": "Almacenamiento IPFS 1GB gratis",
+      "url": "https://pinata.cloud",
+      "status": "active",
+      "tags": [
+        "ipfs",
+        "storage",
+        "decentralized"
+      ],
+      "searchIndex": [
+        "Pinata IPFS",
+        "pinata-ipfs",
+        "Almacenamiento IPFS 1GB gratis",
+        "image-video",
+        "video-hosting",
+        "ipfs",
+        "storage",
+        "decentralized"
+      ],
+      "category": "image-video",
+      "subcategory": "video-hosting",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "1GB almacenamiento gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "proton-drive",
+      "name": "Proton Drive",
+      "slug": "proton-drive",
+      "description": "Almacenamiento encriptado 5GB gratis",
+      "url": "https://proton.me/drive",
+      "status": "active",
+      "tags": [
+        "storage",
+        "cloud",
+        "encrypted",
+        "privacy"
+      ],
+      "searchIndex": [
+        "Proton Drive",
+        "proton-drive",
+        "Almacenamiento encriptado 5GB gratis",
+        "file-storage",
+        "cloud-storage",
+        "storage",
+        "cloud",
+        "encrypted",
+        "privacy"
+      ],
+      "category": "file-storage",
+      "subcategory": "cloud-storage",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "5GB almacenamiento gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "searchly",
+      "name": "Searchly",
+      "slug": "searchly",
+      "description": "Elasticsearch como servicio",
+      "url": "https://www.searchly.com",
+      "status": "active",
+      "tags": [
+        "search",
+        "elasticsearch",
+        "saas",
+        "hosted"
+      ],
+      "searchIndex": [
+        "Searchly",
+        "searchly",
+        "Elasticsearch como servicio",
+        "search",
+        "engines",
+        "elasticsearch",
+        "saas",
+        "hosted"
+      ],
+      "category": "search",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Plan gratuito con 20MB, 2 shards",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "sirv",
+      "name": "Sirv",
+      "slug": "sirv",
+      "description": "CDN multimedia con IA",
+      "url": "https://sirv.com",
+      "status": "active",
+      "tags": [
+        "image",
+        "cdn",
+        "ai",
+        "optimization"
+      ],
+      "searchIndex": [
+        "Sirv",
+        "sirv",
+        "CDN multimedia con IA",
+        "image-video",
+        "cdn",
+        "image",
+        "ai",
+        "optimization"
+      ],
+      "category": "image-video",
+      "subcategory": "cdn",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Trial 30 días, luego desde $9/mes",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "storj",
+      "name": "Storj",
+      "slug": "storj",
+      "description": "Storage descentralizado 25GB gratis",
+      "url": "https://storj.io",
+      "status": "active",
+      "tags": [
+        "storage",
+        "decentralized",
+        "encrypted",
+        "blockchain"
+      ],
+      "searchIndex": [
+        "Storj",
+        "storj",
+        "Storage descentralizado 25GB gratis",
+        "file-storage",
+        "cloud-storage",
+        "storage",
+        "decentralized",
+        "encrypted",
+        "blockchain"
+      ],
+      "category": "file-storage",
+      "subcategory": "cloud-storage",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "25GB almacenamiento, 25GB bandwidth/mes",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "transfer-sh",
+      "name": "Transfer.sh",
+      "slug": "transfer-sh",
+      "description": "Comparte archivos desde terminal",
+      "url": "https://transfer.sh",
+      "status": "active",
+      "tags": [
+        "file",
+        "transfer",
+        "terminal",
+        "cli"
+      ],
+      "searchIndex": [
+        "Transfer.sh",
+        "transfer-sh",
+        "Comparte archivos desde terminal",
+        "file-storage",
+        "file-transfer",
+        "file",
+        "transfer",
+        "terminal",
+        "cli"
+      ],
+      "category": "file-storage",
+      "subcategory": "file-transfer",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "10GB máximo, 14 días almacenamiento",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "typesense",
+      "name": "Typesense",
+      "slug": "typesense",
+      "description": "Motor búsqueda open source rápido",
+      "url": "https://typesense.org",
+      "status": "active",
+      "tags": [
+        "search",
+        "open-source",
+        "fast",
+        "self-hosted"
+      ],
+      "searchIndex": [
+        "Typesense",
+        "typesense",
+        "Motor búsqueda open source rápido",
+        "search",
+        "engines",
+        "open-source",
+        "fast",
+        "self-hosted"
+      ],
+      "category": "search",
+      "subcategory": "engines",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Self-hosted gratis, cloud desde $19/mes",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "uploadcare",
+      "name": "Uploadcare",
+      "slug": "uploadcare",
+      "description": "Subida y procesamiento de archivos",
+      "url": "https://uploadcare.com",
+      "status": "active",
+      "tags": [
+        "image",
+        "upload",
+        "processing",
+        "cdn"
+      ],
+      "searchIndex": [
+        "Uploadcare",
+        "uploadcare",
+        "Subida y procesamiento de archivos",
+        "image-video",
+        "cdn",
+        "image",
+        "upload",
+        "processing"
+      ],
+      "category": "image-video",
+      "subcategory": "cdn",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "3000 uploads/mes, 3GB almacenamiento",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "uppy",
+      "name": "Uppy",
+      "slug": "uppy",
+      "description": "Carga con reanudación y UI completa",
+      "url": "https://uppy.io",
+      "status": "active",
+      "tags": [
+        "file",
+        "upload",
+        "resumable",
+        "ui"
+      ],
+      "searchIndex": [
+        "Uppy",
+        "uppy",
+        "Carga con reanudación y UI completa",
+        "file-storage",
+        "file-transfer",
+        "file",
+        "upload",
+        "resumable",
+        "ui"
+      ],
+      "category": "file-storage",
+      "subcategory": "file-transfer",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Open source, self-hosted gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "vimeo",
+      "name": "Vimeo",
+      "slug": "vimeo",
+      "description": "Hosting video 500MB/semana gratis",
+      "url": "https://vimeo.com",
+      "status": "active",
+      "tags": [
+        "video",
+        "hosting",
+        "streaming",
+        "video-hosting"
+      ],
+      "searchIndex": [
+        "Vimeo",
+        "vimeo",
+        "Hosting video 500MB/semana gratis",
+        "image-video",
+        "video-hosting",
+        "video",
+        "hosting",
+        "streaming"
+      ],
+      "category": "image-video",
+      "subcategory": "video-hosting",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "500MB/semana, 5GB total",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "wasabi",
+      "name": "Wasabi",
+      "slug": "wasabi",
+      "description": "Hot cloud storage sin egress fees",
+      "url": "https://wasabi.com",
+      "status": "active",
+      "tags": [
+        "storage",
+        "s3",
+        "compatible",
+        "no-egress"
+      ],
+      "searchIndex": [
+        "Wasabi",
+        "wasabi",
+        "Hot cloud storage sin egress fees",
+        "file-storage",
+        "cloud-storage",
+        "storage",
+        "s3",
+        "compatible",
+        "no-egress"
+      ],
+      "category": "file-storage",
+      "subcategory": "cloud-storage",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Trial 30 días, luego $6.99/TB/mes",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "wormhole",
+      "name": "Wormhole",
+      "slug": "wormhole",
+      "description": "Transferencia archivos encriptada",
+      "url": "https://wormhole.app",
+      "status": "active",
+      "tags": [
+        "file",
+        "transfer",
+        "encrypted",
+        "p2p"
+      ],
+      "searchIndex": [
+        "Wormhole",
+        "wormhole",
+        "Transferencia archivos encriptada",
+        "file-storage",
+        "file-transfer",
+        "file",
+        "transfer",
+        "encrypted",
+        "p2p"
+      ],
+      "category": "file-storage",
+      "subcategory": "file-transfer",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "10GB máximo, encriptación end-to-end",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    }
+  ]
+}
