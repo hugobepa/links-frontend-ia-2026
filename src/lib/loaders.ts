@@ -216,12 +216,17 @@ function buildSubcategories(recData: any, strucData: any): Subcategory[] {
     }
 
     for (const [subcategoryId, links] of groupedResources.entries()) {
-      const metadata = metadataMap.get(subcategoryId) || {};
+      const metadata = (metadataMap.get(subcategoryId) || {}) as {
+        name?: string;
+        description?: string;
+        order?: number;
+        index?: number;
+      };
 
       subcategories.push({
         id: subcategoryId,
-        name: metadata.name || subcategoryId,
-        description: metadata.description,
+        name: metadata.name ?? subcategoryId,
+        description: metadata.description ?? "",
         links: links.map((item) => transformLink(item)),
         order: metadata.order ?? metadata.index,
       });
@@ -246,13 +251,19 @@ function buildSubcategories(recData: any, strucData: any): Subcategory[] {
   if (typeof recData === "object") {
     Object.entries(recData).forEach(([key, value]: [string, any]) => {
       if (Array.isArray(value)) {
-        const metadata =
-          strucData.subcategories?.[key] || metadataMap.get(key) || {};
+        const metadata = (strucData.subcategories?.[key] ||
+          metadataMap.get(key) ||
+          {}) as {
+          name?: string;
+          description?: string;
+          order?: number;
+          index?: number;
+        };
 
         subcategories.push({
           id: key,
-          name: metadata.name || key,
-          description: metadata.description,
+          name: metadata.name ?? key,
+          description: metadata.description ?? "",
           links: value.map((item) => transformLink(item)),
           order: metadata.order ?? metadata.index,
         });
@@ -283,8 +294,8 @@ function transformLink(rawLink: any): Link {
     languages: Array.isArray(rawLink.languages)
       ? rawLink.languages
       : [rawLink.languages || "en"],
-    tags,
-    searchIndex,
+    tags: tags as string[],
+    searchIndex: searchIndex as string[],
     limits: rawLink.limits,
     verified: rawLink.verified ?? false,
     noCreditCard: rawLink.noCreditCard ?? true,
