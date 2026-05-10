@@ -42,7 +42,7 @@ La etiqueta `xxxx` no representa una categoría funcional. Solo identifica el no
 
 - El árbol `src/data` y `src/interfaces` está organizado para soportar todas las categorías actuales del proyecto.
 - Esta estructura permite separar datos de trabajo, tipos TypeScript y vistas del sitio sin depender directamente de `preproyecto/`.
-- Los ajustes recientes de UX (por ejemplo, scroll interno del panel lateral de categorías en desktop) no modifican contratos JSON/TS ni la estructura de `src/data` o `src/interfaces`.
+- Los ajustes recientes de UX (por ejemplo, scroll interno del panel lateral en desktop, paginador del buscador con acción `Ir a web` y retiro del botón `De pago`) no modifican contratos JSON/TS ni la estructura de `src/data` o `src/interfaces`.
 
 ---
 
@@ -84,4 +84,4 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 
 - `src/data` and `src/interfaces` are organized to support all current project categories.
 - This layout separates working data, TypeScript types, and site views without relying directly on `preproyecto/`.
-- Recent UX changes (for example, desktop-only internal scroll in the category sidebar) do not change JSON/TS contracts or the `src/data` and `src/interfaces` structure.
+- Recent UX changes (for example, desktop-only internal scroll in the category sidebar, search pagination with `Visit web` action, and removal of the `Paid` filter button) do not change JSON/TS contracts or the `src/data` and `src/interfaces` structure.

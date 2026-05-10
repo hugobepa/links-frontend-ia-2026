@@ -1,6 +1,6 @@
 # Resumen del Proyecto / Project Summary
 
-**Versión**: 1.1.2  
+**Versión**: 1.1.4  
 **Creado**: 09/05/2026  
 **Actualizado**: 10/05/2026  
 **Rama activa**: 002-links-frontend-ia-phase-2  
@@ -220,15 +220,17 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 
 ## 📅 Tabla de Versiones y Cambios / Versions & Changes Table
 
-| Versión / Version | Fecha / Date | Fase / Phase | Cambio ES / Change ES                     | Cambio EN / Change EN                | Completado / Completed |
-| ----------------- | ------------ | ------------ | ----------------------------------------- | ------------------------------------ | ---------------------- |
-| 1.0.0             | 09/05/2026   | Fase 1       | Análisis struct. repo                     | Analyzed repo struct.                | ✅ 17:45               |
-| 1.0.0             | 09/05/2026   | Fase 1       | Documentado tech stack                    | Documented tech stack                | ✅ 17:45               |
-| 1.0.0             | 09/05/2026   | Fase 1       | Catalogued 14 skills                      | Catalogued 14 skills                 | ✅ 17:45               |
-| 1.0.0             | 09/05/2026   | Fase 1       | Created baseline summary                  | Created baseline summary             | ✅ 17:45               |
-| 1.1.0             | 10/05/2026   | Fase 2-3     | Actualización estado real repo + .specify | Updated real repo + .specify status  | ✅ 20:26               |
-| 1.1.1             | 10/05/2026   | Fase 2-3     | Revisión consistencia con spec fase 3     | Consistency review vs phase 3 spec   | ✅ 20:39               |
-| 1.1.2             | 10/05/2026   | Fase 2       | Scroll interno sidebar solo desktop       | Desktop-only sidebar internal scroll | ✅ 20:52               |
+| Versión / Version | Fecha / Date | Fase / Phase | Cambio ES / Change ES                      | Cambio EN / Change EN                      | Completado / Completed |
+| ----------------- | ------------ | ------------ | ------------------------------------------ | ------------------------------------------ | ---------------------- |
+| 1.0.0             | 09/05/2026   | Fase 1       | Análisis struct. repo                      | Analyzed repo struct.                      | ✅ 17:45               |
+| 1.0.0             | 09/05/2026   | Fase 1       | Documentado tech stack                     | Documented tech stack                      | ✅ 17:45               |
+| 1.0.0             | 09/05/2026   | Fase 1       | Catalogued 14 skills                       | Catalogued 14 skills                       | ✅ 17:45               |
+| 1.0.0             | 09/05/2026   | Fase 1       | Created baseline summary                   | Created baseline summary                   | ✅ 17:45               |
+| 1.1.0             | 10/05/2026   | Fase 2-3     | Actualización estado real repo + .specify  | Updated real repo + .specify status        | ✅ 20:26               |
+| 1.1.1             | 10/05/2026   | Fase 2-3     | Revisión consistencia con spec fase 3      | Consistency review vs phase 3 spec         | ✅ 20:39               |
+| 1.1.2             | 10/05/2026   | Fase 2       | Scroll interno sidebar solo desktop        | Desktop-only sidebar internal scroll       | ✅ 20:52               |
+| 1.1.3             | 10/05/2026   | Fase 2       | Paginador buscador + link externo por card | Search pagination + external link per card | ✅ 21:03               |
+| 1.1.4             | 10/05/2026   | Fase 2       | Eliminado filtro De pago del buscador      | Removed Paid filter from search            | ✅ 21:15               |
 
 ---
 
@@ -319,6 +321,7 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 4. **Bilingual Standard**: ES/EN mantenido en rutas y contenido de interfaz.
 5. **Local-First Until Phase 9**: Se mantiene el enfoque local-first según constitution.
 6. **Sidebar categorías (desktop)**: el panel lateral sticky usa scroll interno en web responsive (`max-h` + `overflow-y-auto`) para evitar desbordes de altura.
+7. **Buscador**: paginación de 50 resultados por página (ventana de 5) y acción `Ir a web` por card con comportamiento distinto en mobile/desktop.
 
 ---
 

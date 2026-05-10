@@ -1,5 +1,8 @@
 // GlobalSearch component for searching all resources
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
+
+const ITEMS_PER_PAGE = 50;
+const PAGE_WINDOW_SIZE = 5;
 
 interface Resource {
   id: string;
@@ -35,6 +38,7 @@ export function GlobalSearch({
 }: GlobalSearchProps) {
   const [query, setQuery] = useState("");
   const [pricingFilter, setPricingFilter] = useState<string>("all");
+  const [currentPage, setCurrentPage] = useState(1);
 
   const filteredResources = useMemo(() => {
     let result = resources;
@@ -66,6 +70,50 @@ export function GlobalSearch({
     { value: "freemium", label: translations.freemium },
     { value: "premium", label: translations.premium },
   ];
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [query, pricingFilter]);
+
+  const totalPages = Math.max(
+    1,
+    Math.ceil(filteredResources.length / ITEMS_PER_PAGE),
+  );
+
+  useEffect(() => {
+    if (currentPage > totalPages) {
+      setCurrentPage(totalPages);
+    }
+  }, [currentPage, totalPages]);
+
+  const pageStart = (currentPage - 1) * ITEMS_PER_PAGE;
+  const paginatedResources = filteredResources.slice(
+    pageStart,
+    pageStart + ITEMS_PER_PAGE,
+  );
+
+  const windowStart =
+    Math.floor((currentPage - 1) / PAGE_WINDOW_SIZE) * PAGE_WINDOW_SIZE + 1;
+  const windowEnd = Math.min(windowStart + PAGE_WINDOW_SIZE - 1, totalPages);
+  const visiblePages = Array.from(
+    { length: windowEnd - windowStart + 1 },
+    (_, i) => windowStart + i,
+  );
+
+  const openResourceUrl = (url: string) => {
+    if (!url) {
+      return;
+    }
+
+    const isDesktop = window.matchMedia("(min-width: 1024px)").matches;
+
+    if (isDesktop) {
+      window.open(url, "_blank", "noopener,noreferrer");
+      return;
+    }
+
+    window.location.href = url;
+  };
 
   const getPricingBadge = (pricing: string) => {
     const badges: Record<string, { bg: string; text: string }> = {
@@ -145,38 +193,98 @@ export function GlobalSearch({
           {translations.noResults}
         </p>
       ) : (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {filteredResources.map((resource) => (
-            <a
-              key={resource.id}
-              href={`/${lang === "en" ? "en/" : ""}categories/${resource.category}`}
-              className="block p-5 rounded-xl border border-gray-200 bg-white hover:border-blue-300 hover:shadow-lg transition-all"
-            >
-              <div className="flex items-start justify-between gap-2 mb-2">
-                <h3 className="font-bold text-gray-900 line-clamp-1">
-                  {resource.name}
-                </h3>
-                {getPricingBadge(resource.pricing)}
-              </div>
-              <p className="text-sm text-gray-600 line-clamp-2 mb-3">
-                {resource.description}
-              </p>
-              <div className="flex flex-wrap gap-1 mb-2">
-                {resource.tags.slice(0, 4).map((tag) => (
-                  <span
-                    key={tag}
-                    className="px-2 py-0.5 bg-gray-100 text-gray-600 rounded text-xs"
+        <>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {paginatedResources.map((resource, resourceIndex) => (
+              <div
+                key={`${resource.category}-${resource.subcategory}-${resource.id}-${resourceIndex}`}
+                className="block p-5 rounded-xl border border-gray-200 bg-white hover:border-blue-300 hover:shadow-lg transition-all"
+              >
+                <div className="flex items-start justify-between gap-2 mb-2">
+                  <a
+                    href={`/${lang === "en" ? "en/" : ""}categories/${resource.category}`}
+                    className="font-bold text-gray-900 line-clamp-1 hover:text-blue-700"
                   >
-                    {tag}
-                  </span>
-                ))}
+                    {resource.name}
+                  </a>
+                  {getPricingBadge(resource.pricing)}
+                </div>
+                <p className="text-sm text-gray-600 line-clamp-2 mb-3">
+                  {resource.description}
+                </p>
+                <div className="flex flex-wrap gap-1 mb-2">
+                  {resource.tags.slice(0, 4).map((tag, tagIndex) => (
+                    <span
+                      key={`${resource.id}-tag-${tag}-${tagIndex}`}
+                      className="px-2 py-0.5 bg-gray-100 text-gray-600 rounded text-xs"
+                    >
+                      {tag}
+                    </span>
+                  ))}
+                </div>
+                <p className="text-xs text-gray-400">
+                  {resource.category} › {resource.subcategory}
+                </p>
+                <div className="mt-3 flex items-center justify-between gap-2">
+                  <a
+                    href={`/${lang === "en" ? "en/" : ""}categories/${resource.category}`}
+                    className="text-xs text-gray-500 hover:text-blue-700"
+                  >
+                    {lang === "en" ? "View category" : "Ver categoria"}
+                  </a>
+                  {resource.url && (
+                    <button
+                      type="button"
+                      onClick={() => openResourceUrl(resource.url)}
+                      className="text-xs font-medium px-2 py-1 rounded-md bg-blue-100 text-blue-800 hover:bg-blue-200 transition-colors"
+                    >
+                      {lang === "en" ? "Visit web" : "Ir a web"}
+                    </button>
+                  )}
+                </div>
               </div>
-              <p className="text-xs text-gray-400">
-                {resource.category} › {resource.subcategory}
-              </p>
-            </a>
-          ))}
-        </div>
+            ))}
+          </div>
+
+          {totalPages > 1 && (
+            <div className="mt-8 flex items-center justify-center gap-2">
+              <button
+                type="button"
+                onClick={() => setCurrentPage((prev) => Math.max(1, prev - 1))}
+                disabled={currentPage === 1}
+                className="px-3 py-2 rounded-lg border border-gray-300 text-sm disabled:opacity-40 disabled:cursor-not-allowed hover:bg-gray-50"
+              >
+                ←
+              </button>
+
+              {visiblePages.map((page) => (
+                <button
+                  key={page}
+                  type="button"
+                  onClick={() => setCurrentPage(page)}
+                  className={`px-3 py-2 rounded-lg border text-sm min-w-10 ${
+                    currentPage === page
+                      ? "bg-blue-600 text-white border-blue-600"
+                      : "border-gray-300 text-gray-700 hover:bg-gray-50"
+                  }`}
+                >
+                  {page}
+                </button>
+              ))}
+
+              <button
+                type="button"
+                onClick={() =>
+                  setCurrentPage((prev) => Math.min(totalPages, prev + 1))
+                }
+                disabled={currentPage === totalPages}
+                className="px-3 py-2 rounded-lg border border-gray-300 text-sm disabled:opacity-40 disabled:cursor-not-allowed hover:bg-gray-50"
+              >
+                →
+              </button>
+            </div>
+          )}
+        </>
       )}
     </div>
   );
