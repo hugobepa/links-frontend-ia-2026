@@ -1,6 +1,6 @@
 # Resumen del Proyecto / Project Summary
 
-**Versión**: 1.1.7  
+**Versión**: 1.2.0  
 **Creado**: 09/05/2026  
 **Actualizado**: 10/05/2026  
 **Rama activa**: 002-links-frontend-ia-phase-2  
@@ -14,11 +14,11 @@
 
 ### Propósito Actual
 
-Documentar el estado actual del repositorio, tecnologías activas, configuración Speckit, disponibilidad de skills de Copilot y superficies de soporte (.specify, .github, .git) para mantener una línea base clara durante las fases 1-6.
+Documentar el estado actual del repositorio, tecnologías activas, configuración Speckit, disponibilidad de skills de Copilot y superficies de soporte (.specify, .github, .git) para mantener una línea base clara durante las fases 1-7.
 
-La puntera activa de Speckit se ha movido a la fase 6 de SEO local para alinear la orden del proyecto con el estado real del sitio y sus rutas ES/EN.
-La fase 6 ya dispone de spec, plan y tasks para arrancar el SEO local sin saltar fases cronologicas.
-El baseline SEO local ya genera canonical, alternate, robots, llms y sitemap desde rutas Astro propias.
+La puntera activa de Speckit se ha movido a la fase 7 de Preparación GitHub para crear el repo, configurar Pages y preparar el deployment.
+La fase 7 usa combinación de brainstorming + speckit para diseñar la estrategia de deployment.
+La fase 6 dispone de spec, plan y tasks para SEO local y ya genera canonical, alternate, robots, llms y sitemap.
 
 ### Stack Principal
 
@@ -36,11 +36,11 @@ El baseline SEO local ya genera canonical, alternate, robots, llms y sitemap des
 
 ### Current Purpose
 
-Document the repository's current state, active technologies, Speckit configuration, Copilot skill availability, and support surfaces (.specify, .github, .git) to keep a clear baseline across phases 1-6.
+Document the repository's current state, active technologies, Speckit configuration, Copilot skill availability, and support surfaces (.specify, .github, .git) to keep a clear baseline across phases 1-7.
 
-The active Speckit pointer now targets phase 6 local SEO so the project order matches the current site state and its ES/EN routes.
-Phase 6 now has spec, plan, and tasks ready to start local SEO without skipping chronological phases.
-The local SEO baseline now emits canonical, alternate, robots, llms, and sitemap outputs from Astro routes.
+The active Speckit pointer now targets phase 7 GitHub Prep to create the repo, configure Pages, and prepare deployment.
+Phase 7 uses a combination of brainstorming + speckit to design the deployment strategy.
+Phase 6 has spec, plan, and tasks for local SEO and already generates canonical, alternate, robots, llms, and sitemap.
 
 ### Primary Stack
 
@@ -229,7 +229,7 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 ## 📅 Tabla de Versiones y Cambios / Versions & Changes Table
 
 | Versión / Version | Fecha / Date | Fase / Phase | Cambio ES / Change ES                      | Cambio EN / Change EN                      | Completado / Completed |
-| ----------------- | ------------ | ------------ | ------------------------------------------ | ------------------------------------------ | ---------------------- |
+| ----------------- | ------------ | ------------ | ------------------------------------------ | ------------------------------------------ | ---------------------- | --- | ----- | ---------- | ------ | -------------------------------- | -------------------------------- | -------- |
 | 1.0.0             | 09/05/2026   | Fase 1       | Análisis struct. repo                      | Analyzed repo struct.                      | ✅ 17:45               |
 | 1.0.0             | 09/05/2026   | Fase 1       | Documentado tech stack                     | Documented tech stack                      | ✅ 17:45               |
 | 1.0.0             | 09/05/2026   | Fase 1       | Catalogued 14 skills                       | Catalogued 14 skills                       | ✅ 17:45               |
@@ -242,6 +242,8 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 | 1.1.5             | 10/05/2026   | Fase 6       | Puntero Speckit movido a SEO local         | Speckit pointer moved to local SEO         | ✅ 21:40               |
 | 1.1.6             | 10/05/2026   | Fase 6       | Plan y tareas SEO local creados            | Local SEO plan and tasks created           | ✅ 21:55               |
 | 1.1.7             | 10/05/2026   | Fase 6       | SEO local base validado en build           | Local SEO baseline validated in build      | ✅ 22:10               |
+| 1.1.8             | 10/05/2026   | Fase 7       | Feature actualizada a GitHub Prep          | Feature updated to GitHub Prep             | ✅ 22:30               |
+| 1.1.9             | 10/05/2026   | Fase 7       | Spec/plan/tareas GitHub Prep creados       | GitHub Prep spec/plan/tasks created        | ✅ 22:35               |     | 1.2.0 | 10/05/2026 | Fase 7 | Workflow CI/CD + LICENSE creados | CI/CD workflow + LICENSE created | ✅ 22:58 |
 
 ---
 
@@ -250,7 +252,7 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 ### Speckit (.specify/)
 
 - **memory/constitution.md**: Principios del proyecto (fases, local-first, integridad datos)
-- **feature.json**: Puntero a feature actual (`specs/004-links-frontend-ia-phase-6-seo-local`)
+- **feature.json**: Puntero a feature actual (`specs/005-links-frontend-ia-phase-7-github-prep`)
 - **extensions.yml**: Hooks de automatización Speckit (auto execute + git hooks before/after comandos)
 - **init-options.json**: Config Speckit (`integration: copilot`, `branch_numbering: sequential`, `script: ps`)
 - **integration.json**: Config de integración Copilot (`update-context.ps1`)

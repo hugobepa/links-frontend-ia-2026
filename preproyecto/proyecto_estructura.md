@@ -41,6 +41,8 @@ Uso: base para trabajo IA
 | 2026-05-10 | Fase 6 | Orden SEO local y feature actualizada | preproyecto/2.creacion_proyecto.md, .specify/feature.json |
 | 2026-05-10 | Fase 6 | Plan y tareas SEO local creados       | specs/004-links-frontend-ia-phase-6-seo-local             |
 | 2026-05-10 | Fase 6 | SEO baseline y rutas locales activos  | src/components/SEO.astro, src/pages/\*.js                 |
+| 2026-05-10 | Fase 7 | Feature actualizada a GitHub Prep     | .specify/feature.json                                     |
+| 2026-05-10 | Fase 7 | Spec, plan y tareas GitHub Prep       | specs/005-links-frontend-ia-phase-7-github-prep           |
 
 ## Arbol ASCII (repo)
 
@@ -111,11 +113,15 @@ links-frontend-ia-2026/                    [raiz repo]
 |-- package.json                           [scripts]
 |-- README.md                              [doc repo]
 |-- skills-lock.json                       [lock skills]
-|-- specs/                                 [phase 1,2,3,6]
+|-- specs/                                 [phase 1,2,3,6,7]
 |   |-- 004-links-frontend-ia-phase-6-seo-local/ [phase 6 seo]
 |   |   |-- spec.md                        [spec fase 6]
 |   |   |-- plan.md                        [plan fase 6]
 |   |   `-- tasks.md                       [tasks fase 6]
+|   |-- 005-links-frontend-ia-phase-7-github-prep/ [phase 7 github]
+|       |-- spec.md                        [spec fase 7]
+|       |-- plan.md                        [plan fase 7]
+|       `-- tasks.md                       [tasks fase 7]
 `-- tsconfig.json                          [cfg ts]
 ```
 
@@ -195,3 +201,5 @@ preproyecto/                                                   [workbench]
 - Fase 6 reordenada como SEO local con puntero Speckit actualizado
 - Fase 6 ya tiene plan y tareas base de SEO local
 - SEO baseline con canonical, alternates, robots, llms y sitemap validado
+- Fase 7 preparada con spec/plan/tasks para GitHub Pages
+- Fase 7 usa combinación de brainstorming + speckit para diseño
