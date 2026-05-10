@@ -19,3 +19,9 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# local config (not needed for deployment)
+.specify/
+.agents/
+.mcp/
+*.local.json
