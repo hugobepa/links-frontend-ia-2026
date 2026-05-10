@@ -76,6 +76,24 @@ export default function LinkCard({ link, lang = "es" }: LinkCardProps) {
         )}
         {link.noCreditCard && <span className="text-gray-600">No CC</span>}
       </div>
+
+      {link.tags && link.tags.length > 0 && (
+        <div className="flex flex-wrap gap-1 mt-2">
+          {link.tags.slice(0, 5).map((tag) => (
+            <span
+              key={tag}
+              className="text-xs px-2 py-0.5 bg-gray-100 text-gray-600 rounded"
+            >
+              {tag}
+            </span>
+          ))}
+          {link.tags.length > 5 && (
+            <span className="text-xs text-gray-500">
+              +{link.tags.length - 5}
+            </span>
+          )}
+        </div>
+      )}
     </div>
   );
 }

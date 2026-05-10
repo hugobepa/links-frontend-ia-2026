@@ -2,6 +2,7 @@
 import CategoryNavigation from '@/components/CategoryNavigation.astro';
 import Footer from '@/components/Footer.astro';
 import Header from '@/components/Header.astro';
+import SEO from '@/components/SEO.astro';
 import SubcategorySection from '@/components/SubcategorySection';
 import { getTranslations } from '@/i18n';
 import type { Category } from '@/interfaces/categories';
@@ -40,9 +41,6 @@ if (!category) {
   return Astro.redirect('/404');
 }
 
-// SEO
-const baseUrl = Astro.site ? Astro.site.toString() : 'https://links-frontend-ia.example.com';
-const currentUrl = `${baseUrl}${lang === 'en' ? 'en/' : ''}categories/${slug}`;
 ---
 
 <!DOCTYPE html>
@@ -50,17 +48,14 @@ const currentUrl = `${baseUrl}${lang === 'en' ? 'en/' : ''}categories/${slug}`;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{category.name} - Links Frontend IA</title>
-    <meta name="description" content={category.description} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    
-    <!-- SEO: hreflang -->
-    <link rel="alternate" hreflang="es" href={`${baseUrl}/categories/${slug}`} />
-    <link rel="alternate" hreflang="en" href={`${baseUrl}/en/categories/${slug}`} />
-    <link rel="alternate" hreflang="x-default" href={`${baseUrl}/categories/${slug}`} />
-    
-    <!-- Canonical -->
-    <link rel="canonical" href={currentUrl} />
+    <SEO
+      title={`${category.name} - Links Frontend IA`}
+      description={category.description}
+      canonicalPath={lang === 'en' ? `/en/categories/${slug}` : `/categories/${slug}`}
+      lang={lang}
+      alternatePaths={{ es: `/categories/${slug}`, en: `/en/categories/${slug}` }}
+    />
   </head>
   <body id="top">
     <Header lang={lang} />

@@ -1,0 +1,35 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  canonicalPath: string;
+  lang: 'es' | 'en';
+  alternatePaths: {
+    es: string;
+    en: string;
+  };
+  noIndex?: boolean;
+}
+
+const {
+  title,
+  description,
+  canonicalPath,
+  lang,
+  alternatePaths,
+  noIndex = false,
+} = Astro.props as Props;
+
+const baseUrl = Astro.site?.toString() ?? Astro.url.origin;
+
+const toAbsoluteUrl = (path: string) => `${baseUrl}${path.startsWith('/') ? path : `/${path}`}`;
+---
+
+<title>{title}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={toAbsoluteUrl(canonicalPath)} />
+<link rel="alternate" hreflang="es" href={toAbsoluteUrl(alternatePaths.es)} />
+<link rel="alternate" hreflang="en" href={toAbsoluteUrl(alternatePaths.en)} />
+<link rel="alternate" hreflang="x-default" href={toAbsoluteUrl(alternatePaths.es)} />
+<meta name="robots" content={noIndex ? 'noindex,follow' : 'index,follow'} />
+<meta name="language" content={lang} />

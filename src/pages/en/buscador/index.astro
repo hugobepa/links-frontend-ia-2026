@@ -3,6 +3,7 @@ import { BackToTop } from '@/components/BackToTop';
 import Footer from '@/components/Footer.astro';
 import GlobalSearch from '@/components/GlobalSearch';
 import Header from '@/components/Header.astro';
+import SEO from '@/components/SEO.astro';
 import { getTranslations } from '@/i18n';
 import { loadAllResources } from '@/lib/loaders';
 import '@/styles/global.css';
@@ -18,8 +19,14 @@ const t = getTranslations(lang);
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{t.nav.search} - Links Frontend IA</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title={`${t.nav.search} - Links Frontend IA`}
+      description={t.categories.subtitle}
+      canonicalPath="/en/buscador"
+      lang={lang}
+      alternatePaths={{ es: '/buscador', en: '/en/buscador' }}
+    />
   </head>
   <body>
     <Header lang={lang} />

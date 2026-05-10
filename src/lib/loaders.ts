@@ -115,10 +115,18 @@ export interface GlobalResource {
   description: string;
   url: string;
   tags: string[];
+  searchIndex: string[];
   category: string;
   subcategory: string;
   pricing: "free" | "freemium" | "premium" | "paid";
   languages: string[];
+}
+
+export interface SeoDiscoveryIndex {
+  categories: string[];
+  categorySlugs: string[];
+  tags: string[];
+  searchIndex: string[];
 }
 
 export async function loadAllResources(): Promise<GlobalResource[]> {
@@ -149,6 +157,9 @@ export async function loadAllResources(): Promise<GlobalResource[]> {
               description: resource.description || "",
               url: resource.url || "",
               tags: resource.tags || [],
+              searchIndex: Array.isArray(resource.searchIndex)
+                ? resource.searchIndex
+                : [],
               category: dir,
               subcategory: resource.subcategory || "all",
               pricing: resource.pricing || "free",
@@ -163,6 +174,20 @@ export async function loadAllResources(): Promise<GlobalResource[]> {
   }
 
   return allResources;
+}
+
+export async function loadSeoDiscoveryIndex(): Promise<SeoDiscoveryIndex> {
+  const categories = await loadAllCategories();
+  const resources = await loadAllResources();
+
+  return {
+    categories: uniqueStrings(categories.map((category) => category.name)),
+    categorySlugs: uniqueStrings(categories.map((category) => category.slug)),
+    tags: uniqueStrings(resources.flatMap((resource) => resource.tags)),
+    searchIndex: uniqueStrings(
+      resources.flatMap((resource) => resource.searchIndex),
+    ),
+  };
 }
 
 // Helper: Transform raw JSON into subcategories
@@ -281,4 +306,12 @@ export function validatePathLengths(categoryId: string): {
   }
 
   return { valid: true };
+}
+
+function uniqueStrings(values: Array<string | undefined | null>): string[] {
+  return [
+    ...new Set(
+      values.filter(Boolean).map((value) => value!.trim().toLowerCase()),
+    ),
+  ];
 }

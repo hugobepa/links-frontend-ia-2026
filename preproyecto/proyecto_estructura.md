@@ -14,30 +14,33 @@ Uso: base para trabajo IA
 
 ### Control de cambios
 
-| Fecha      | Fase   | Cambio                               | Archivos                                                 |
-| ---------- | ------ | ------------------------------------ | -------------------------------------------------------- |
-| 2026-05-09 | Setup  | Crear arbol y analisis               | proyecto_estructura.md                                   |
-| 2026-05-09 | Fase 1 | Inicio Speckit ordenado              | 2.creacion_proyecto.md                                   |
-| 2026-05-09 | Fase 1 | Constitution rellenado               | .specify/memory/constitution.md                          |
-| 2026-05-09 | Fase 1 | Spec y checklist creados             | specs/001-links-frontend-ia-phase-1                      |
-| 2026-05-09 | Fase 1 | Canon Astro definido                 | specs/001-links-frontend-ia-phase-1                      |
-| 2026-05-09 | Fase 1 | Plan creado                          | specs/001-links-frontend-ia-phase-1                      |
-| 2026-05-09 | Fase 1 | Research creado                      | specs/001-links-frontend-ia-phase-1                      |
-| 2026-05-09 | Fase 1 | Data model creado                    | specs/001-links-frontend-ia-phase-1                      |
-| 2026-05-09 | Fase 1 | Quickstart creado                    | specs/001-links-frontend-ia-phase-1                      |
-| 2026-05-09 | Fase 1 | Tasks creado                         | specs/001-links-frontend-ia-phase-1                      |
-| 2026-05-09 | Fase 1 | Analysis completado                  | specs/001-links-frontend-ia-phase-1                      |
-| 2026-05-09 | Fase 1 | Implement completado                 | resumen_proyecto.md                                      |
-| 2026-05-09 | Fase 1 | Fase 1 COMPLETADA                    | All specs + resumen_proyecto.md                          |
-| 2026-05-10 | Fase 2 | Header mobile hamburger              | src/components/Header.astro                              |
-| 2026-05-10 | Fase 2 | Toggle idioma retirado               | src/components/Header.astro                              |
-| 2026-05-10 | Fase 2 | Sync estructura + .specify           | resumen_proyecto.md, proyecto_estructura.md              |
-| 2026-05-10 | Fase 3 | Review consistencia spec/plan/tasks  | resumen_proyecto.md, proyecto_estructura.md              |
-| 2026-05-10 | Fase 2 | Scroll desktop en sidebar categorias | src/components/CategoryNavigation.astro                  |
-| 2026-05-10 | Fase 2 | Registro mision en .specify/memory   | .specify/memory/mision-fase2-sidebar-scroll.md           |
-| 2026-05-10 | Fase 2 | Paginador buscador (50/5) + link web | src/components/GlobalSearch.tsx                          |
-| 2026-05-10 | Fase 2 | Registro mision buscador en .specify | .specify/memory/mision-buscador-paginacion-y-link-web.md |
-| 2026-05-10 | Fase 2 | Eliminar boton De pago en buscador   | src/components/GlobalSearch.tsx                          |
+| Fecha      | Fase   | Cambio                                | Archivos                                                  |
+| ---------- | ------ | ------------------------------------- | --------------------------------------------------------- |
+| 2026-05-09 | Setup  | Crear arbol y analisis                | proyecto_estructura.md                                    |
+| 2026-05-09 | Fase 1 | Inicio Speckit ordenado               | 2.creacion_proyecto.md                                    |
+| 2026-05-09 | Fase 1 | Constitution rellenado                | .specify/memory/constitution.md                           |
+| 2026-05-09 | Fase 1 | Spec y checklist creados              | specs/001-links-frontend-ia-phase-1                       |
+| 2026-05-09 | Fase 1 | Canon Astro definido                  | specs/001-links-frontend-ia-phase-1                       |
+| 2026-05-09 | Fase 1 | Plan creado                           | specs/001-links-frontend-ia-phase-1                       |
+| 2026-05-09 | Fase 1 | Research creado                       | specs/001-links-frontend-ia-phase-1                       |
+| 2026-05-09 | Fase 1 | Data model creado                     | specs/001-links-frontend-ia-phase-1                       |
+| 2026-05-09 | Fase 1 | Quickstart creado                     | specs/001-links-frontend-ia-phase-1                       |
+| 2026-05-09 | Fase 1 | Tasks creado                          | specs/001-links-frontend-ia-phase-1                       |
+| 2026-05-09 | Fase 1 | Analysis completado                   | specs/001-links-frontend-ia-phase-1                       |
+| 2026-05-09 | Fase 1 | Implement completado                  | resumen_proyecto.md                                       |
+| 2026-05-09 | Fase 1 | Fase 1 COMPLETADA                     | All specs + resumen_proyecto.md                           |
+| 2026-05-10 | Fase 2 | Header mobile hamburger               | src/components/Header.astro                               |
+| 2026-05-10 | Fase 2 | Toggle idioma retirado                | src/components/Header.astro                               |
+| 2026-05-10 | Fase 2 | Sync estructura + .specify            | resumen_proyecto.md, proyecto_estructura.md               |
+| 2026-05-10 | Fase 3 | Review consistencia spec/plan/tasks   | resumen_proyecto.md, proyecto_estructura.md               |
+| 2026-05-10 | Fase 2 | Scroll desktop en sidebar categorias  | src/components/CategoryNavigation.astro                   |
+| 2026-05-10 | Fase 2 | Registro mision en .specify/memory    | .specify/memory/mision-fase2-sidebar-scroll.md            |
+| 2026-05-10 | Fase 2 | Paginador buscador (50/5) + link web  | src/components/GlobalSearch.tsx                           |
+| 2026-05-10 | Fase 2 | Registro mision buscador en .specify  | .specify/memory/mision-buscador-paginacion-y-link-web.md  |
+| 2026-05-10 | Fase 2 | Eliminar boton De pago en buscador    | src/components/GlobalSearch.tsx                           |
+| 2026-05-10 | Fase 6 | Orden SEO local y feature actualizada | preproyecto/2.creacion_proyecto.md, .specify/feature.json |
+| 2026-05-10 | Fase 6 | Plan y tareas SEO local creados       | specs/004-links-frontend-ia-phase-6-seo-local             |
+| 2026-05-10 | Fase 6 | SEO baseline y rutas locales activos  | src/components/SEO.astro, src/pages/\*.js                 |
 
 ## Arbol ASCII (repo)
 
@@ -108,7 +111,11 @@ links-frontend-ia-2026/                    [raiz repo]
 |-- package.json                           [scripts]
 |-- README.md                              [doc repo]
 |-- skills-lock.json                       [lock skills]
-|-- specs/                                 [phase 1,2,3]
+|-- specs/                                 [phase 1,2,3,6]
+|   |-- 004-links-frontend-ia-phase-6-seo-local/ [phase 6 seo]
+|   |   |-- spec.md                        [spec fase 6]
+|   |   |-- plan.md                        [plan fase 6]
+|   |   `-- tasks.md                       [tasks fase 6]
 `-- tsconfig.json                          [cfg ts]
 ```
 
@@ -185,3 +192,6 @@ preproyecto/                                                   [workbench]
 - Sidebar de categorias con scroll interno solo desktop
 - Buscador con paginador 50/5 y accion Ir a web por card
 - Buscador sin filtro De pago en botones de pricing
+- Fase 6 reordenada como SEO local con puntero Speckit actualizado
+- Fase 6 ya tiene plan y tareas base de SEO local
+- SEO baseline con canonical, alternates, robots, llms y sitemap validado

@@ -1,6 +1,6 @@
 # Resumen del Proyecto / Project Summary
 
-**Versión**: 1.1.4  
+**Versión**: 1.1.7  
 **Creado**: 09/05/2026  
 **Actualizado**: 10/05/2026  
 **Rama activa**: 002-links-frontend-ia-phase-2  
@@ -14,7 +14,11 @@
 
 ### Propósito Actual
 
-Documentar el estado actual del repositorio, tecnologías activas, configuración Speckit, disponibilidad de skills de Copilot y superficies de soporte (.specify, .github, .git) para mantener una línea base clara durante las fases 1-3.
+Documentar el estado actual del repositorio, tecnologías activas, configuración Speckit, disponibilidad de skills de Copilot y superficies de soporte (.specify, .github, .git) para mantener una línea base clara durante las fases 1-6.
+
+La puntera activa de Speckit se ha movido a la fase 6 de SEO local para alinear la orden del proyecto con el estado real del sitio y sus rutas ES/EN.
+La fase 6 ya dispone de spec, plan y tasks para arrancar el SEO local sin saltar fases cronologicas.
+El baseline SEO local ya genera canonical, alternate, robots, llms y sitemap desde rutas Astro propias.
 
 ### Stack Principal
 
@@ -32,7 +36,11 @@ Documentar el estado actual del repositorio, tecnologías activas, configuració
 
 ### Current Purpose
 
-Document the repository's current state, active technologies, Speckit configuration, Copilot skill availability, and support surfaces (.specify, .github, .git) to keep a clear baseline across phases 1-3.
+Document the repository's current state, active technologies, Speckit configuration, Copilot skill availability, and support surfaces (.specify, .github, .git) to keep a clear baseline across phases 1-6.
+
+The active Speckit pointer now targets phase 6 local SEO so the project order matches the current site state and its ES/EN routes.
+Phase 6 now has spec, plan, and tasks ready to start local SEO without skipping chronological phases.
+The local SEO baseline now emits canonical, alternate, robots, llms, and sitemap outputs from Astro routes.
 
 ### Primary Stack
 
@@ -231,6 +239,9 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 | 1.1.2             | 10/05/2026   | Fase 2       | Scroll interno sidebar solo desktop        | Desktop-only sidebar internal scroll       | ✅ 20:52               |
 | 1.1.3             | 10/05/2026   | Fase 2       | Paginador buscador + link externo por card | Search pagination + external link per card | ✅ 21:03               |
 | 1.1.4             | 10/05/2026   | Fase 2       | Eliminado filtro De pago del buscador      | Removed Paid filter from search            | ✅ 21:15               |
+| 1.1.5             | 10/05/2026   | Fase 6       | Puntero Speckit movido a SEO local         | Speckit pointer moved to local SEO         | ✅ 21:40               |
+| 1.1.6             | 10/05/2026   | Fase 6       | Plan y tareas SEO local creados            | Local SEO plan and tasks created           | ✅ 21:55               |
+| 1.1.7             | 10/05/2026   | Fase 6       | SEO local base validado en build           | Local SEO baseline validated in build      | ✅ 22:10               |
 
 ---
 
@@ -239,7 +250,7 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 ### Speckit (.specify/)
 
 - **memory/constitution.md**: Principios del proyecto (fases, local-first, integridad datos)
-- **feature.json**: Puntero a feature actual (`specs/003-links-frontend-ia-phase-3`)
+- **feature.json**: Puntero a feature actual (`specs/004-links-frontend-ia-phase-6-seo-local`)
 - **extensions.yml**: Hooks de automatización Speckit (auto execute + git hooks before/after comandos)
 - **init-options.json**: Config Speckit (`integration: copilot`, `branch_numbering: sequential`, `script: ps`)
 - **integration.json**: Config de integración Copilot (`update-context.ps1`)
