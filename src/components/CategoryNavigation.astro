@@ -22,7 +22,7 @@ const t = getTranslations(lang);
     <div class="space-y-3">
       {categories.map((item) => {
         const isCurrent = item.slug === currentSlug;
-        const prefix = lang === 'en' ? '/en' : '';
+        const prefix = `${import.meta.env.BASE_URL}${lang === 'en' ? '/en' : ''}`;
 
         return (
           <details open={isCurrent} class="group rounded-xl border border-gray-200 p-3">
