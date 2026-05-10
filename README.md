@@ -1,6 +1,11 @@
-# Starlight Starter Kit: Basics
+# Links Frontend IA 2026
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+[![Deploy to GitHub Pages](https://github.com/hugobepa/links-frontend-ia-2026/actions/workflows/deploy.yml/badge.svg)](https://github.com/hugobepa/links-frontend-ia-2026/actions)
+
+**Live Site**: https://hugobepa.github.io/links-frontend-ia-2026/
+
+Directorio de recursos y herramientas para desarrollo web, IA, y más.
 
 ```
 bun create astro@latest -- --template starlight
