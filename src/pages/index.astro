@@ -1,13 +1,226 @@
 ---
-// src/pages/index.astro
-import { Button } from '@/components/ui/button';
+// filepath: src/pages/index.astro
+import { BackToTop } from '@/components/BackToTop';
+import Footer from '@/components/Footer.astro';
+import Header from '@/components/Header.astro';
+import { getTranslations } from '@/i18n';
+import { loadAllCategories } from '@/lib/loaders';
 import '@/styles/global.css';
+
+const categories = await loadAllCategories();
+
+// Get language from URL or default to Spanish
+const urlPath = Astro.url.pathname;
+const isEnglish = urlPath.startsWith('/en') || urlPath.includes('/en/');
+const lang = isEnglish ? 'en' : 'es';
+
+const t = getTranslations(lang);
+
+// SEO: Alternate languages
+const baseUrl = Astro.site ? Astro.site.toString() : 'https://links-frontend-ia.example.com';
 ---
 
-<html>
-  <head><title>Prueba</title></head>
-  <body class="p-8">
-    <h1 class="font-bold text-red-600 text-3xl">✅ Funciona con Bun</h1>
-    <Button className="mt-4">Clic aqui</Button>
+<!DOCTYPE html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{t.seo.homeTitle}</title>
+    <meta name="description" content={t.seo.homeDescription} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    
+    <!-- SEO: hreflang -->
+    <link rel="alternate" hreflang="es" href={baseUrl} />
+    <link rel="alternate" hreflang="en" href={`${baseUrl}/en`} />
+    <link rel="alternate" hreflang="x-default" href={baseUrl} />
+    
+    <!-- Canonical -->
+    <link rel="canonical" href={isEnglish ? `${baseUrl}/en` : baseUrl} />
+  </head>
+  <body>
+    <Header lang={lang} />
+
+    <main class="main">
+      <section class="hero">
+        <div class="hero__container">
+          <h1 class="hero__title">Links Frontend IA</h1>
+          <p class="hero__subtitle">
+            {t.categories.subtitle}
+          </p>
+        </div>
+      </section>
+
+      <section class="categories">
+        <div class="categories__container">
+          <h2 class="categories__title">{t.categories.title}</h2>
+
+          {categories.length === 0 ? (
+            <div class="categories__empty">
+              <p>{t.search.noResults}</p>
+            </div>
+          ) : (
+            <div class="categories__grid">
+              {categories.map((category) => {
+                const linkCount = category.subcategories.reduce(
+                  (sum, subcategory) => sum + subcategory.links.length,
+                  0,
+                );
+
+                return (
+                  <a
+                    href={`/${lang === 'en' ? 'en/' : ''}categories/${category.slug}`}
+                    class="category-card"
+                  >
+                    <h3 class="category-card__title">{category.name}</h3>
+                    <p class="category-card__description">{category.description}</p>
+                    <div class="category-card__meta">
+                      <span class="category-card__count">
+                        {linkCount} {t.categories.resources}
+                      </span>
+                      <span class="category-card__arrow">→</span>
+                    </div>
+                  </a>
+                );
+              })}
+            </div>
+          )}
+        </div>
+      </section>
+    </main>
+
+    <Footer lang={lang} />
+    <BackToTop client:load lang={lang} />
   </body>
 </html>
+
+<style>
+  html {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--color-bg, #f8f5f0);
+    color: var(--color-text, #111);
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .main {
+    flex: 1;
+  }
+
+  .hero {
+    background: var(--color-bg, #f8f5f0);
+    padding: 4rem 1.5rem;
+    text-align: center;
+  }
+
+  .hero__container {
+    max-width: 72rem;
+    margin: 0 auto;
+  }
+
+  .hero__title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--color-text, #111);
+    margin: 0 0 1rem;
+  }
+
+  .hero__subtitle {
+    font-size: 1.125rem;
+    color: var(--color-text-muted, #6b7280);
+    margin: 0;
+    max-width: 40ch;
+    margin: 0 auto;
+  }
+
+  .categories {
+    padding: 3rem 1.5rem;
+  }
+
+  .categories__container {
+    max-width: 72rem;
+    margin: 0 auto;
+  }
+
+  .categories__title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--color-text, #111);
+    margin: 0 0 2rem;
+  }
+
+  .categories__empty {
+    text-align: center;
+    padding: 3rem;
+    color: var(--color-text-muted, #6b7280);
+  }
+
+  .categories__grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 1.5rem;
+  }
+
+  @media (min-width: 768px) {
+    .categories__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .categories__grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  .category-card {
+    display: block;
+    padding: 1.5rem;
+    border: 1px solid var(--color-border, #e5e7eb);
+    border-radius: 0.5rem;
+    background: var(--color-bg, #fff);
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+
+  .category-card:hover {
+    border-color: var(--color-primary, #B46D46);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+  }
+
+  .category-card__title {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-text, #111);
+    margin: 0 0 0.5rem;
+  }
+
+  .category-card__description {
+    font-size: 0.875rem;
+    color: var(--color-text-muted, #6b7280);
+    margin: 0 0 1rem;
+    line-height: 1.5;
+  }
+
+  .category-card__meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.75rem;
+  }
+
+  .category-card__count {
+    color: var(--color-text-muted, #6b7280);
+  }
+
+  .category-card__arrow {
+    color: var(--color-primary, #B46D46);
+    font-weight: 600;
+  }
+</style>

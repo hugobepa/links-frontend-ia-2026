@@ -1,0 +1,172 @@
+---
+import { getTranslations } from '../i18n';
+
+interface Props {
+  lang?: 'es' | 'en';
+}
+
+const { lang = 'es' } = Astro.props;
+const t = getTranslations(lang);
+---
+
+<header class="header">
+  <div class="header__container">
+    <a href={`/${lang === 'en' ? 'en/' : ''}`} class="header__logo">
+      <span class="header__logo-text">Links Frontend IA</span>
+    </a>
+    
+    <nav class="header__nav">
+      <a href={`/${lang === 'en' ? 'en/' : ''}`} class="header__nav-link">
+        {t.nav.home}
+      </a>
+      <a href={`/${lang === 'en' ? 'en/' : ''}categories`} class="header__nav-link">
+        {t.nav.categories}
+      </a>
+      <a href={`/${lang === 'en' ? 'en/' : ''}buscador`} class="header__nav-link">
+        {t.nav.search}
+      </a>
+    </nav>
+    
+    <div class="header__actions">
+      <details class="header__mobile-menu">
+        <summary class="header__mobile-trigger" aria-label="Abrir menu">
+          <span class="header__mobile-icon" aria-hidden="true">☰</span>
+        </summary>
+        <nav class="header__mobile-nav" aria-label="Mobile Navigation">
+          <a href={`/${lang === 'en' ? 'en/' : ''}`} class="header__mobile-link">
+            {t.nav.home}
+          </a>
+          <a href={`/${lang === 'en' ? 'en/' : ''}categories`} class="header__mobile-link">
+            {t.nav.categories}
+          </a>
+          <a href={`/${lang === 'en' ? 'en/' : ''}buscador`} class="header__mobile-link">
+            {t.nav.search}
+          </a>
+        </nav>
+      </details>
+    </div>
+  </div>
+</header>
+
+<style>
+  .header {
+    border-bottom: 1px solid var(--color-border, #e5e7eb);
+    background: var(--color-bg, #fff);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .header__container {
+    max-width: 72rem;
+    margin: 0 auto;
+    padding: 1rem 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .header__logo {
+    text-decoration: none;
+    color: var(--color-text, #111);
+  }
+
+  .header__logo-text {
+    font-size: 1.25rem;
+    font-weight: 700;
+  }
+
+  .header__nav {
+    display: none;
+    gap: 1.5rem;
+  }
+
+  .header__nav-link {
+    text-decoration: none;
+    color: var(--color-text-muted, #6b7280);
+    font-size: 0.875rem;
+    font-weight: 500;
+    transition: color 0.15s ease;
+  }
+
+  .header__nav-link:hover {
+    color: var(--color-primary, #B46D46);
+  }
+
+  .header__actions {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .header__mobile-menu {
+    display: block;
+    position: relative;
+  }
+
+  .header__mobile-trigger {
+    list-style: none;
+    cursor: pointer;
+    padding: 0.5rem 0.625rem;
+    display: flex;
+    align-items: center;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--color-text, #111);
+    border: 1px solid var(--color-border, #e5e7eb);
+    border-radius: 0.5rem;
+    background: var(--color-bg, #fff);
+  }
+
+  .header__mobile-trigger::-webkit-details-marker {
+    display: none;
+  }
+
+  .header__mobile-icon {
+    font-size: 1rem;
+    line-height: 1;
+  }
+
+  .header__mobile-nav {
+    position: absolute;
+    right: 0;
+    top: calc(100% + 0.5rem);
+    min-width: 12rem;
+    padding: 0.625rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    border: 1px solid var(--color-border, #e5e7eb);
+    border-radius: 0.75rem;
+    background: var(--color-bg, #fff);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    z-index: 120;
+  }
+
+  .header__mobile-link {
+    text-decoration: none;
+    color: var(--color-text-muted, #6b7280);
+    font-size: 0.875rem;
+    font-weight: 500;
+    border: 1px solid var(--color-border, #e5e7eb);
+    border-radius: 0.625rem;
+    padding: 0.625rem 0.75rem;
+    background: var(--color-bg, #fff);
+  }
+
+  .header__mobile-link:hover {
+    color: var(--color-primary, #B46D46);
+    border-color: var(--color-primary, #B46D46);
+  }
+
+  @media (min-width: 768px) {
+    .header__nav {
+      display: flex;
+    }
+
+    .header__mobile-menu {
+      display: none;
+    }
+  }
+</style>

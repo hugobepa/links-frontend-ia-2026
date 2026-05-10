@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "categories": "Categorías",
+    "search": "Buscar",
+    "allCategories": "Todas las categorías"
+  },
+  "search": {
+    "placeholder": "Buscar recursos...",
+    "noResults": "No se encontraron resultados",
+    "resultsCount": "{count} resultados encontrados",
+    "searching": "Buscando...",
+    "all": "Todos",
+    "free": "Gratis",
+    "freemium": "Freemium",
+    "premium": "Premium",
+    "paid": "De pago",
+    "results": "resultados"
+  },
+  "categories": {
+    "title": "Explora nuestras categorías",
+    "subtitle": "Encuentra las mejores herramientas y recursos para tu negocio",
+    "resources": "recursos",
+    "viewAll": "Ver todos"
+  },
+  "subcategory": {
+    "resources": "recursos",
+    "viewResource": "Ver recurso",
+    "visit": "Visitar"
+  },
+  "linkCard": {
+    "free": "Gratis",
+    "paid": "De pago",
+    "freemium": "Freemium",
+    "verified": "Verificado",
+    "languages": "Idiomas",
+    "pricing": "Precio",
+    "visitWebsite": "Visitar sitio web"
+  },
+  "footer": {
+    "copyright": "© 2026 Links Frontend IA. Todos los derechos reservados.",
+    "description": "Directorio de herramientas y recursos de IA para desarrolladores",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de uso",
+    "contact": "Contacto"
+  },
+  "language": {
+    "toggle": "Cambiar idioma",
+    "current": "Español",
+    "switchTo": "Cambiar a inglés"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "retry": "Reintentar",
+    "close": "Cerrar",
+    "back": "Volver"
+  },
+  "seo": {
+    "homeTitle": "Directorio de Herramientas de IA - Recursos para Desarrolladores",
+    "homeDescription": "Explora nuestro directorio de herramientas de inteligencia artificial, asistentes de desarrollo, y recursos tecnológicos actualizados para profesionales.",
+    "categoryTitle": "{category} - Herramientas y Recursos de IA",
+    "categoryDescription": "Descubre las mejores herramientas de {category} para tu negocio. Explora nuestra colección de recursos verificados y actualizados."
+  }
+}

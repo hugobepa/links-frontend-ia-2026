@@ -1,9 +1,10 @@
 # Resumen del Proyecto / Project Summary
 
-**Versión**: 1.0.0  
+**Versión**: 1.1.2  
 **Creado**: 09/05/2026  
-**Rama activa**: 001-links-frontend-ia-spec  
-**Tipo**: Documentación de Fase 1 / Phase 1 Documentation
+**Actualizado**: 10/05/2026  
+**Rama activa**: 002-links-frontend-ia-phase-2  
+**Tipo**: Documentación de estado actual (Fases 1-3) / Current state documentation (Phases 1-3)
 
 ---
 
@@ -11,9 +12,9 @@
 
 **Links Frontend IA 2026** es un repositorio de Astro diseñado para crear una página web responsive que centraliza y categoriza enlaces de programación enfocados en **frontend, aplicaciones web y desarrollo moderno**.
 
-### Propósito Fase 1
+### Propósito Actual
 
-Documentar el estado actual del repositorio, tecnologías activas, configuración Speckit, disponibilidad de skills de Copilot y superficies de soporte (GitHub, .git) para que todas las fases posteriores tengan una línea base clara.
+Documentar el estado actual del repositorio, tecnologías activas, configuración Speckit, disponibilidad de skills de Copilot y superficies de soporte (.specify, .github, .git) para mantener una línea base clara durante las fases 1-3.
 
 ### Stack Principal
 
@@ -29,9 +30,9 @@ Documentar el estado actual del repositorio, tecnologías activas, configuració
 
 **Links Frontend IA 2026** is an Astro repository designed to create a responsive web page that centralizes and categorizes programming links focused on **frontend, web applications, and modern development**.
 
-### Phase 1 Purpose
+### Current Purpose
 
-Document the current repository state, active technologies, Speckit configuration, Copilot skill availability, and support surfaces (GitHub, .git) so all later phases have a clear baseline.
+Document the repository's current state, active technologies, Speckit configuration, Copilot skill availability, and support surfaces (.specify, .github, .git) to keep a clear baseline across phases 1-3.
 
 ### Primary Stack
 
@@ -73,15 +74,21 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 │   └── ...
 │
 ├── .specify/                              [configuración Speckit]
+│   ├── extensions/                        [extensiones Speckit]
+│   ├── integrations/                      [integración Copilot]
+│   ├── scripts/                           [scripts internos]
 │   ├── memory/
 │   │   └── constitution.md                [principios del proyecto / project principles]
 │   ├── templates/
-│   ├── extensions.yml
-│   ├── feature.json
-│   └── init-options.json
+│   ├── extensions.yml                     [hooks Speckit]
+│   ├── feature.json                       [feature activa]
+│   ├── init-options.json                  [opciones iniciales]
+│   └── integration.json                   [config de integración]
 │
 ├── .vscode/                               [configuración editor / editor config]
+├── dist/                                  [build salida / build output]
 ├── node_modules/                          [dependencias / dependencies]
+├── package-lock.json                      [lock npm]
 ├── preproyecto/                           [datos base proyecto / base project data]
 │   ├── 2.creacion_proyecto.md             [requisitos fase 1-9 / phase 1-9 requirements]
 │   ├── proyecto_estructura.md             [bitácora cambios / change log]
@@ -102,19 +109,58 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 │       ├── analysis.md                    [reporte de análisis / analysis report]
 │       └── checklists/
 │           └── requirements.md
+│   ├── 002-links-frontend-ia-phase-2/     [specs fase 2]
+│   │   ├── spec.md
+│   │   ├── plan.md
+│   │   ├── research.md
+│   │   ├── data-model.md
+│   │   ├── quickstart.md
+│   │   ├── tasks.md
+│   │   ├── analysis.md
+│   │   └── checklists/
+│   └── 003-links-frontend-ia-phase-3/     [specs fase 3 en progreso]
+│       ├── spec.md
+│       ├── plan.md
+│       ├── tasks.md
+│       └── checklists/
 │
 ├── src/                                   [código fuente / source code]
+│   ├── data/                              [datos de trabajo / working data]
+│   │   ├── dates/                         [JSON de recursos / resource JSON]
+│   │   └── search/                        [JSON de estructura / structure JSON]
 │   ├── assets/                            [media / media]
 │   ├── components/
+│   │   ├── BackToTop.tsx                  [volver arriba]
+│   │   ├── Header.astro                   [header con menu mobile]
+│   │   ├── Footer.astro                   [pie de página]
+│   │   ├── CategoryNavigation.astro       [navegación categorías]
+│   │   ├── CategorySearch.tsx             [buscador categorías]
+│   │   ├── GlobalSearch.tsx               [buscador global]
+│   │   └── ...
 │   │   └── ui/                            [componentes reutilizables / reusable components]
+│   ├── interfaces/                        [interfaces TS de datos / data TS interfaces]
+│   │   ├── dates/                         [interfaces de recursos / resource interfaces]
+│   │   └── search/                        [interfaces de búsqueda / search interfaces]
 │   ├── content/
 │   │   ├── docs/                          [documentación local / local documentation]
 │   │   ├── guides/
 │   │   └── reference/
+│   ├── i18n/                              [traducciones ES/EN]
 │   ├── lib/
+│   │   ├── loaders.ts                     [carga principal de datos]
 │   │   └── utils.ts                       [utilidades helpers / helper utilities]
 │   ├── pages/
-│   │   └── index.astro                    [página principal / main page]
+│   │   ├── index.astro                    [página principal / main page]
+│   │   ├── buscador/index.astro           [búsqueda ES]
+│   │   ├── categories/
+│   │   │   ├── index.astro                [listado categorías ES]
+│   │   │   └── [slug].astro               [detalle categoría ES]
+│   │   └── en/
+│   │       ├── index.astro                [home EN]
+│   │       ├── buscador/index.astro       [search EN]
+│   │       └── categories/
+│   │           ├── index.astro            [categories EN]
+│   │           └── [slug].astro           [category detail EN]
 │   ├── styles/
 │   │   └── global.css                     [estilos base / base styles]
 │   └── content.config.ts
@@ -174,24 +220,30 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 
 ## 📅 Tabla de Versiones y Cambios / Versions & Changes Table
 
-| Versión / Version | Fecha / Date | Fase / Phase | Cambio ES / Change ES    | Cambio EN / Change EN    | Completado / Completed |
-| ----------------- | ------------ | ------------ | ------------------------ | ------------------------ | ---------------------- |
-| 1.0.0             | 09/05/2026   | Fase 1       | Análisis struct. repo    | Analyzed repo struct.    | ✅ 17:45               |
-| 1.0.0             | 09/05/2026   | Fase 1       | Documentado tech stack   | Documented tech stack    | ✅ 17:45               |
-| 1.0.0             | 09/05/2026   | Fase 1       | Catalogued 14 skills     | Catalogued 14 skills     | ✅ 17:45               |
-| 1.0.0             | 09/05/2026   | Fase 1       | Created baseline summary | Created baseline summary | ✅ 17:45               |
+| Versión / Version | Fecha / Date | Fase / Phase | Cambio ES / Change ES                     | Cambio EN / Change EN                | Completado / Completed |
+| ----------------- | ------------ | ------------ | ----------------------------------------- | ------------------------------------ | ---------------------- |
+| 1.0.0             | 09/05/2026   | Fase 1       | Análisis struct. repo                     | Analyzed repo struct.                | ✅ 17:45               |
+| 1.0.0             | 09/05/2026   | Fase 1       | Documentado tech stack                    | Documented tech stack                | ✅ 17:45               |
+| 1.0.0             | 09/05/2026   | Fase 1       | Catalogued 14 skills                      | Catalogued 14 skills                 | ✅ 17:45               |
+| 1.0.0             | 09/05/2026   | Fase 1       | Created baseline summary                  | Created baseline summary             | ✅ 17:45               |
+| 1.1.0             | 10/05/2026   | Fase 2-3     | Actualización estado real repo + .specify | Updated real repo + .specify status  | ✅ 20:26               |
+| 1.1.1             | 10/05/2026   | Fase 2-3     | Revisión consistencia con spec fase 3     | Consistency review vs phase 3 spec   | ✅ 20:39               |
+| 1.1.2             | 10/05/2026   | Fase 2       | Scroll interno sidebar solo desktop       | Desktop-only sidebar internal scroll | ✅ 20:52               |
 
 ---
 
 ## 🔌 Superficies de Soporte / Support Surfaces
 
-### Especkit (.specify/)
+### Speckit (.specify/)
 
-- **constitution.md**: Principios del proyecto (fases, local-first, integridad datos)
-- **feature.json**: Puntero a feature actual (001-links-frontend-ia-phase-1)
-- **extensions.yml**: Hooks de automatización Speckit (git commit, feature branch)
-- **init-options.json**: Config Speckit (sequential numbering, Copilot integration)
-- **templates/**: Plantillas de spec, plan, tasks
+- **memory/constitution.md**: Principios del proyecto (fases, local-first, integridad datos)
+- **feature.json**: Puntero a feature actual (`specs/003-links-frontend-ia-phase-3`)
+- **extensions.yml**: Hooks de automatización Speckit (auto execute + git hooks before/after comandos)
+- **init-options.json**: Config Speckit (`integration: copilot`, `branch_numbering: sequential`, `script: ps`)
+- **integration.json**: Config de integración Copilot (`update-context.ps1`)
+- **integrations/**: Integración activa de Copilot + manifests
+- **extensions/**: Registro de extensiones Speckit (incluye `git/`)
+- **templates/**: Plantillas de spec, plan, tasks, checklist, constitution
 
 ### GitHub Support (.github/)
 
@@ -201,8 +253,9 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 ### Git (.git/)
 
 - **Rama principal**: master
-- **Rama Fase 1**: 001-links-frontend-ia-spec
-- **Commits**: 3 commits Speckit + analysis base
+- **Rama activa**: 002-links-frontend-ia-phase-2
+- **Ramas de trabajo**: fases 001, 002 y 003 presentes en `specs/`
+- **Commits**: historial de setup Speckit + iteraciones de contenido/UI
 - **Histórico**: Commits convencionales (`chore(speckit): ...`)
 
 ### Especificación Local (preproyecto/)
@@ -212,9 +265,25 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 - **jsons-news-interficies/**: Dataset categorizado (14 categorías de links)
 - **pre-config-general/**: Guías de diseño, legal, SEO, plantillas
 
+### Nueva Estructura de Datos (src/)
+
+- **resumen_datos.md**: resumen técnico actual de la estructura de datos de trabajo
+- **src/data/dates/**: JSON de recursos por categoría (`xxxx-rec.json`)
+- **src/data/search/**: JSON de estructura/búsqueda por categoría (`xxxx-struc.json`, `nombre-links.json`)
+- **src/interfaces/dates/**: interfaces TypeScript de recursos (`xxxx-rec.ts`, `xxxx-data.ts`)
+- **src/interfaces/search/**: interfaces TypeScript de búsqueda (`xxxx-busq.ts`, `xxxx-data.ts`)
+- **src/lib/loaders.ts**: lectura principal desde `src/data` para Astro y React
+
 ---
 
 ## ✅ Validación Contra Especificación / Specification Validation
+
+### Estado de Consistencia con Fase 3 / Phase 3 Consistency Status
+
+- ✅ `feature.json` apunta a `specs/003-links-frontend-ia-phase-3`.
+- ✅ Existen `spec.md`, `plan.md` y `tasks.md` en fase 3.
+- ⚠️ Desviación funcional actual: el header ya no muestra `LanguageToggle`; usa menú hamburguesa en móvil.
+- ⚠️ Desviación de proceso: la rama activa real es `002-links-frontend-ia-phase-2` mientras la feature activa de Speckit es fase 3.
 
 ### User Stories Cumplidas / User Stories Met
 
@@ -244,19 +313,20 @@ links-frontend-ia-2026/                    [raíz repo / repo root]
 
 ## 📝 Notas Fase 1 / Phase 1 Notes
 
-1. **Configuración Astro**: `astro.config.ts` es activa; `astro.config.mjs` es legado (decisión fase clarify)
-2. **Riesgos de nombres**: Las categorías en `preproyecto/jsons-news-interficies/` tienen nombres largos; validar en GitHub
-3. **Speckit Ready**: Constitution, spec, plan, tasks, analysis completos; listo para implement
-4. **Bilingual Standard**: ES/EN a mantener en todas las fases posteriores
-5. **Local-First Until Phase 9**: No remoto, no GitHub Pages hasta fase 9 (per constitution)
+1. **Configuración Astro**: `astro.config.ts` es activa; `astro.config.mjs` se mantiene como legado.
+2. **Speckit activo**: `feature.json` apunta a fase 3 y hay specs completas de fase 1 y fase 2.
+3. **Navegación UI**: toggle de idioma retirado del header; menú hamburguesa usado para mobile.
+4. **Bilingual Standard**: ES/EN mantenido en rutas y contenido de interfaz.
+5. **Local-First Until Phase 9**: Se mantiene el enfoque local-first según constitution.
+6. **Sidebar categorías (desktop)**: el panel lateral sticky usa scroll interno en web responsive (`max-h` + `overflow-y-auto`) para evitar desbordes de altura.
 
 ---
 
-**Fin Fase 1** ✅  
-**Próxima**: Fase 2 (especificar categorías y subcategorías del sitio)
+**Estado actual**: Fase 2 operativa + Fase 3 documentada (en ajuste de implementación) ✅  
+**Próxima**: Alinear implementación real con criterios FR/SC de fase 3 o actualizar spec fase 3 para reflejar decisiones UX actuales.
 
 ---
 
 _Documento generado por Speckit Phase 1 Implementation | Generated by Speckit Phase 1 Implementation_  
-_Rama / Branch: 001-links-frontend-ia-spec_  
+_Rama / Branch: 002-links-frontend-ia-phase-2_  
 _Commit: (ver git log para historial)_

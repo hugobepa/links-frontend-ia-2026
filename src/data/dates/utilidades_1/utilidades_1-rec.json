@@ -1,0 +1,1712 @@
+{
+  "categories": {
+    "id": "utilities",
+    "name": "Utilities",
+    "slug": "utilities",
+    "resourceCount": 46,
+    "status": "active"
+  },
+  "subcategories": [
+    {
+      "id": "fake-data",
+      "name": "Fake Data",
+      "slug": "fake-data",
+      "category": "utilities",
+      "resourceCount": 0,
+      "status": "active"
+    },
+    {
+      "id": "images-placeholders",
+      "name": "Images Placeholders",
+      "slug": "images-placeholders",
+      "category": "utilities",
+      "resourceCount": 0,
+      "status": "active"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity",
+      "slug": "productivity",
+      "category": "utilities",
+      "resourceCount": 0,
+      "status": "active"
+    }
+  ],
+  "resources": [
+    {
+      "id": "airtable",
+      "name": "Airtable",
+      "slug": "airtable",
+      "description": "Bases de datos visuales con 1k records gratis",
+      "url": "https://airtable.com",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "database",
+        "spreadsheet",
+        "collaboration"
+      ],
+      "searchIndex": [
+        "Airtable",
+        "airtable",
+        "Bases de datos visuales con 1k records gratis",
+        "utilities",
+        "productivity",
+        "database",
+        "spreadsheet",
+        "collaboration"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "1,000 records por base, 1GB attachments",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "appflowy",
+      "name": "AppFlowy",
+      "slug": "appflowy",
+      "description": "Alternativa Notion open source",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "open-source",
+        "notion-alternative",
+        "self-hosted"
+      ],
+      "searchIndex": [
+        "AppFlowy",
+        "appflowy",
+        "Alternativa Notion open source",
+        "utilities",
+        "productivity",
+        "open-source",
+        "notion-alternative",
+        "self-hosted"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, self-hosted",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "blind-text-generator",
+      "name": "Blind Text Generator",
+      "slug": "blind-text-generator",
+      "description": "Texto dummy en múltiples idiomas",
+      "url": "https://www.blindtextgenerator.com",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "multi-language",
+        "text",
+        "dummy",
+        "placeholder"
+      ],
+      "searchIndex": [
+        "Blind Text Generator",
+        "blind-text-generator",
+        "Texto dummy en múltiples idiomas",
+        "utilities",
+        "fake-data",
+        "multi-language",
+        "text",
+        "dummy",
+        "placeholder"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin límites",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "burst-shopify",
+      "name": "Burst (Shopify)",
+      "slug": "burst-shopify",
+      "description": "Fotos para e-commerce libres derechos",
+      "url": "https://burst.shopify.com",
+      "status": "active",
+      "tags": [
+        "images",
+        "ecommerce",
+        "free",
+        "business",
+        "shopify"
+      ],
+      "searchIndex": [
+        "Burst (Shopify)",
+        "burst-shopify",
+        "Fotos para e-commerce libres derechos",
+        "utilities",
+        "images-placeholders",
+        "images",
+        "ecommerce",
+        "free",
+        "business",
+        "shopify"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin atribución",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "calendly",
+      "name": "Calendly",
+      "slug": "calendly",
+      "description": "Agenda reuniones con 1 tipo de evento gratis",
+      "url": "https://calendly.com",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "scheduling",
+        "meetings",
+        "calendar"
+      ],
+      "searchIndex": [
+        "Calendly",
+        "calendly",
+        "Agenda reuniones con 1 tipo de evento gratis",
+        "utilities",
+        "productivity",
+        "scheduling",
+        "meetings",
+        "calendar"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "1 tipo de evento, reuniones ilimitadas",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "carrd",
+      "name": "Carrd",
+      "slug": "carrd",
+      "description": "Websites de una página con 3 sitios gratis",
+      "url": "https://carrd.co",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "website",
+        "landing-page",
+        "one-page"
+      ],
+      "searchIndex": [
+        "Carrd",
+        "carrd",
+        "Websites de una página con 3 sitios gratis",
+        "utilities",
+        "productivity",
+        "website",
+        "landing-page",
+        "one-page"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "3 sitios gratis, features básicas",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "chance-js",
+      "name": "Chance.js",
+      "slug": "chance-js",
+      "description": "Generador ligero de datos aleatorios JS",
+      "url": "https://chancejs.com",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "javascript",
+        "lightweight",
+        "random",
+        "generator"
+      ],
+      "searchIndex": [
+        "Chance.js",
+        "chance-js",
+        "Generador ligero de datos aleatorios JS",
+        "utilities",
+        "fake-data",
+        "javascript",
+        "lightweight",
+        "random",
+        "generator"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Open source, completamente gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "dicebear",
+      "name": "DiceBear",
+      "slug": "dicebear",
+      "description": "Generador de avatares SVG únicos",
+      "url": "https://www.dicebear.com",
+      "status": "active",
+      "tags": [
+        "avatars",
+        "svg",
+        "generator",
+        "unique",
+        "free"
+      ],
+      "searchIndex": [
+        "DiceBear",
+        "dicebear",
+        "Generador de avatares SVG únicos",
+        "utilities",
+        "images-placeholders",
+        "avatars",
+        "svg",
+        "generator",
+        "unique",
+        "free"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, open source",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "fake-name-gen-es",
+      "name": "Fake Name Gen ES",
+      "slug": "fake-name-gen-es",
+      "description": "Perfiles completos DNI, dirección, teléfono ES",
+      "url": "https://www.fakenamegenerator.com/gen-random-sp-sp.php",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "spain",
+        "profiles",
+        "complete",
+        "spanish"
+      ],
+      "searchIndex": [
+        "Fake Name Gen ES",
+        "fake-name-gen-es",
+        "Perfiles completos DNI, dirección, teléfono ES",
+        "utilities",
+        "fake-data",
+        "spain",
+        "profiles",
+        "complete",
+        "spanish"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin límites",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "faker-js",
+      "name": "Faker.js",
+      "slug": "faker-js",
+      "description": "Librería JS generar datos falsos masivos",
+      "url": "https://fakerjs.dev",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "javascript",
+        "library",
+        "generator",
+        "npm"
+      ],
+      "searchIndex": [
+        "Faker.js",
+        "faker-js",
+        "Librería JS generar datos falsos masivos",
+        "utilities",
+        "fake-data",
+        "javascript",
+        "library",
+        "generator",
+        "npm"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Open source, completamente gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "fillerama",
+      "name": "Fillerama",
+      "slug": "fillerama",
+      "description": "Placeholder con estilo de series TV",
+      "url": "https://fillerama.io",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "tv-shows",
+        "fun",
+        "placeholder",
+        "creative"
+      ],
+      "searchIndex": [
+        "Fillerama",
+        "fillerama",
+        "Placeholder con estilo de series TV",
+        "utilities",
+        "fake-data",
+        "tv-shows",
+        "fun",
+        "placeholder",
+        "creative"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin límites",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "foodiesfeed",
+      "name": "FoodiesFeed",
+      "slug": "foodiesfeed",
+      "description": "Fotos de comida HD para proyectos food",
+      "url": "https://www.foodiesfeed.com",
+      "status": "active",
+      "tags": [
+        "images",
+        "food",
+        "hd",
+        "free",
+        "niche"
+      ],
+      "searchIndex": [
+        "FoodiesFeed",
+        "foodiesfeed",
+        "Fotos de comida HD para proyectos food",
+        "utilities",
+        "images-placeholders",
+        "images",
+        "food",
+        "hd",
+        "free",
+        "niche"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin atribución",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "freeography",
+      "name": "FREEography",
+      "slug": "freeography",
+      "description": "Imágenes divertidas y únicas, uso libre",
+      "url": "https://FREEography.com",
+      "status": "active",
+      "tags": [
+        "images",
+        "unique",
+        "fun",
+        "free",
+        "creative"
+      ],
+      "searchIndex": [
+        "FREEography",
+        "freeography",
+        "Imágenes divertidas y únicas, uso libre",
+        "utilities",
+        "images-placeholders",
+        "images",
+        "unique",
+        "fun",
+        "free",
+        "creative"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, uso libre",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "freepik",
+      "name": "Freepik",
+      "slug": "freepik",
+      "description": "Vectores, PSD y fotos atribución free",
+      "url": "https://www.freepik.com",
+      "status": "active",
+      "tags": [
+        "vectors",
+        "psd",
+        "photos",
+        "free",
+        "attribution"
+      ],
+      "searchIndex": [
+        "Freepik",
+        "freepik",
+        "Vectores, PSD y fotos atribución free",
+        "utilities",
+        "images-placeholders",
+        "vectors",
+        "psd",
+        "photos",
+        "free",
+        "attribution"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "10 descargas/día, atribución requerida",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "gamma",
+      "name": "Gamma",
+      "slug": "gamma",
+      "description": "Creación de presentaciones con IA",
+      "url": "https://gamma.app",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "presentations",
+        "ai",
+        "slides"
+      ],
+      "searchIndex": [
+        "Gamma",
+        "gamma",
+        "Creación de presentaciones con IA",
+        "utilities",
+        "productivity",
+        "presentations",
+        "ai",
+        "slides"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "400 créditos iniciales, luego limitado",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "generador-dni-api",
+      "name": "GeneradorDNI API",
+      "slug": "generadordni-api",
+      "description": "API para generar y validar DNI españoles",
+      "url": "https://publicapi.dev/generador-dni-api",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "api",
+        "spain",
+        "dni",
+        "validation"
+      ],
+      "searchIndex": [
+        "GeneradorDNI API",
+        "generadordni-api",
+        "API para generar y validar DNI españoles",
+        "utilities",
+        "fake-data",
+        "api",
+        "spain",
+        "dni",
+        "validation"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "API pública gratuita",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "gentools-io",
+      "name": "GenTools.io",
+      "slug": "gentools-io",
+      "description": "Genera DNI/NIE españoles válidos",
+      "url": "https://gentools.io",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "spain",
+        "dni",
+        "nie",
+        "validator"
+      ],
+      "searchIndex": [
+        "GenTools.io",
+        "gentools-io",
+        "Genera DNI/NIE españoles válidos",
+        "utilities",
+        "fake-data",
+        "spain",
+        "dni",
+        "nie",
+        "validator"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin límites",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "google-forms",
+      "name": "Google Forms",
+      "slug": "google-forms",
+      "description": "Formularios gratuitos ilimitados",
+      "url": "https://forms.google.com",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "forms",
+        "google",
+        "free",
+        "unlimited"
+      ],
+      "searchIndex": [
+        "Google Forms",
+        "google-forms",
+        "Formularios gratuitos ilimitados",
+        "utilities",
+        "productivity",
+        "forms",
+        "google",
+        "free",
+        "unlimited"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis con cuenta Google",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "grammarly",
+      "name": "Grammarly",
+      "slug": "grammarly",
+      "description": "Asistente de escritura y gramática",
+      "url": "https://grammarly.com",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "writing",
+        "grammar",
+        "editing"
+      ],
+      "searchIndex": [
+        "Grammarly",
+        "grammarly",
+        "Asistente de escritura y gramática",
+        "utilities",
+        "productivity",
+        "writing",
+        "grammar",
+        "editing"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis con features básicas, premium de pago",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "granola",
+      "name": "Granola",
+      "slug": "granola",
+      "description": "Notas de reuniones automáticas con IA",
+      "url": "https://granola.so",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "meetings",
+        "ai"
+      ],
+      "searchIndex": [
+        "Granola",
+        "granola",
+        "Notas de reuniones automáticas con IA",
+        "utilities",
+        "productivity",
+        "meetings",
+        "ai"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Limitado en plan gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "linktree",
+      "name": "Linktree",
+      "slug": "linktree",
+      "description": "Página de enlaces gratis básico",
+      "url": "https://linktr.ee",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "links",
+        "social-media",
+        "bio"
+      ],
+      "searchIndex": [
+        "Linktree",
+        "linktree",
+        "Página de enlaces gratis básico",
+        "utilities",
+        "productivity",
+        "links",
+        "social-media",
+        "bio"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Links ilimitados, analytics básico",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "logseq",
+      "name": "Logseq",
+      "slug": "logseq",
+      "description": "Notas y conocimiento open source con grafos",
+      "url": "https://logseq.com",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "open-source",
+        "knowledge-graph",
+        "privacy"
+      ],
+      "searchIndex": [
+        "Logseq",
+        "logseq",
+        "Notas y conocimiento open source con grafos",
+        "utilities",
+        "productivity",
+        "open-source",
+        "knowledge-graph",
+        "privacy"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, open source",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "lorem-ipsum-gen",
+      "name": "Lorem Ipsum Gen",
+      "slug": "lorem-ipsum-gen",
+      "description": "Generador clásico de texto placeholder",
+      "url": "https://www.loremipsum.io",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "lorem-ipsum",
+        "text",
+        "placeholder",
+        "classic"
+      ],
+      "searchIndex": [
+        "Lorem Ipsum Gen",
+        "lorem-ipsum-gen",
+        "Generador clásico de texto placeholder",
+        "utilities",
+        "fake-data",
+        "lorem-ipsum",
+        "text",
+        "placeholder",
+        "classic"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin límites",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "loremgenius",
+      "name": "LoremGenius",
+      "slug": "loremgenius",
+      "description": "Generador creativo con formatos flexibles",
+      "url": "https://www.loremgenius.com",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "creative",
+        "flexible",
+        "text",
+        "generator"
+      ],
+      "searchIndex": [
+        "LoremGenius",
+        "loremgenius",
+        "Generador creativo con formatos flexibles",
+        "utilities",
+        "fake-data",
+        "creative",
+        "flexible",
+        "text",
+        "generator"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin límites",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "mimesis",
+      "name": "Mimesis",
+      "slug": "mimesis",
+      "description": "Generador de datos fake en Python",
+      "url": "https://mimesis.name",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "python",
+        "generator",
+        "multi-language",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Mimesis",
+        "mimesis",
+        "Generador de datos fake en Python",
+        "utilities",
+        "fake-data",
+        "python",
+        "generator",
+        "multi-language",
+        "open-source"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Open source, completamente gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "mockaroo",
+      "name": "Mockaroo",
+      "slug": "mockaroo",
+      "description": "Genera CSV, JSON, SQL con datos por país",
+      "url": "https://www.mockaroo.com",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "generator",
+        "csv",
+        "json",
+        "sql",
+        "countries"
+      ],
+      "searchIndex": [
+        "Mockaroo",
+        "mockaroo",
+        "Genera CSV, JSON, SQL con datos por país",
+        "utilities",
+        "fake-data",
+        "generator",
+        "csv",
+        "json",
+        "sql",
+        "countries"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "200 filas/generación, 1000/día gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "new-old-stock",
+      "name": "New Old Stock",
+      "slug": "new-old-stock",
+      "description": "Fotos vintage de dominio público",
+      "url": "https://nos.twnsnd.co",
+      "status": "active",
+      "tags": [
+        "images",
+        "vintage",
+        "public-domain",
+        "free"
+      ],
+      "searchIndex": [
+        "New Old Stock",
+        "new-old-stock",
+        "Fotos vintage de dominio público",
+        "utilities",
+        "images-placeholders",
+        "images",
+        "vintage",
+        "public-domain",
+        "free"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Dominio público, completamente gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "slug": "notion",
+      "description": "Workspace todo-en-uno gratis personal",
+      "url": "https://www.notion.so",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "workspace",
+        "collaboration",
+        "free-tier"
+      ],
+      "searchIndex": [
+        "Notion",
+        "notion",
+        "Workspace todo-en-uno gratis personal",
+        "utilities",
+        "productivity",
+        "workspace",
+        "collaboration",
+        "free-tier"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis para uso personal, bloques ilimitados",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "obsidian",
+      "name": "Obsidian",
+      "slug": "obsidian",
+      "description": "Notas en markdown con grafos de conocimiento",
+      "url": "https://obsidian.md",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "markdown",
+        "knowledge-graph",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Obsidian",
+        "obsidian",
+        "Notas en markdown con grafos de conocimiento",
+        "utilities",
+        "productivity",
+        "markdown",
+        "knowledge-graph",
+        "open-source"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis para uso personal, sync de pago",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "pexels",
+      "name": "Pexels",
+      "slug": "pexels",
+      "description": "Fotos y videos de stock gratuitos",
+      "url": "https://www.pexels.com",
+      "status": "active",
+      "tags": [
+        "images",
+        "videos",
+        "free",
+        "stock",
+        "photos"
+      ],
+      "searchIndex": [
+        "Pexels",
+        "pexels",
+        "Fotos y videos de stock gratuitos",
+        "utilities",
+        "images-placeholders",
+        "images",
+        "videos",
+        "free",
+        "stock",
+        "photos"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin atribución",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "picsum-photos",
+      "name": "Picsum.photos",
+      "slug": "picsum-photos",
+      "description": "Generador de imágenes de relleno",
+      "url": "https://picsum.photos",
+      "status": "active",
+      "tags": [
+        "images",
+        "placeholder",
+        "generator",
+        "lorem-ipsum"
+      ],
+      "searchIndex": [
+        "Picsum.photos",
+        "picsum-photos",
+        "Generador de imágenes de relleno",
+        "utilities",
+        "images-placeholders",
+        "images",
+        "placeholder",
+        "generator",
+        "lorem-ipsum"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin límites",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "pixabay",
+      "name": "Pixabay",
+      "slug": "pixabay",
+      "description": "+4M imágenes, vectores y vídeos libres",
+      "url": "https://pixabay.com",
+      "status": "active",
+      "tags": [
+        "images",
+        "vectors",
+        "videos",
+        "free",
+        "4m"
+      ],
+      "searchIndex": [
+        "Pixabay",
+        "pixabay",
+        "+4M imágenes, vectores y vídeos libres",
+        "utilities",
+        "images-placeholders",
+        "images",
+        "vectors",
+        "videos",
+        "free",
+        "4m"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin atribución",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "placehold-co",
+      "name": "Placehold.co",
+      "slug": "placehold-co",
+      "description": "Crea imágenes placeholder personalizadas",
+      "url": "https://placehold.co",
+      "status": "active",
+      "tags": [
+        "images",
+        "placeholder",
+        "custom",
+        "generator"
+      ],
+      "searchIndex": [
+        "Placehold.co",
+        "placehold-co",
+        "Crea imágenes placeholder personalizadas",
+        "utilities",
+        "images-placeholders",
+        "images",
+        "placeholder",
+        "custom",
+        "generator"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin límites",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "placeholdertext",
+      "name": "Placeholdertext",
+      "slug": "placeholdertext",
+      "description": "Placeholder simple y rápido para web",
+      "url": "https://placeholdertext.org",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "simple",
+        "fast",
+        "web",
+        "placeholder"
+      ],
+      "searchIndex": [
+        "Placeholdertext",
+        "placeholdertext",
+        "Placeholder simple y rápido para web",
+        "utilities",
+        "fake-data",
+        "simple",
+        "fast",
+        "web",
+        "placeholder"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin límites",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "public-domain-pictures",
+      "name": "Public Domain Pictures",
+      "slug": "public-domain-pictures",
+      "description": "Banco imágenes dominio público",
+      "url": "https://www.publicdomainpictures.net",
+      "status": "active",
+      "tags": [
+        "images",
+        "public-domain",
+        "free",
+        "stock",
+        "vintage"
+      ],
+      "searchIndex": [
+        "Public Domain Pictures",
+        "public-domain-pictures",
+        "Banco imágenes dominio público",
+        "utilities",
+        "images-placeholders",
+        "images",
+        "public-domain",
+        "free",
+        "stock",
+        "vintage"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Dominio público, completamente gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "quickmocker",
+      "name": "QuickMocker",
+      "slug": "quickmocker",
+      "description": "Mock API contextual respuestas dinámicas",
+      "url": "https://quickmocker.com",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "mock",
+        "api",
+        "dynamic",
+        "contextual"
+      ],
+      "searchIndex": [
+        "QuickMocker",
+        "quickmocker",
+        "Mock API contextual respuestas dinámicas",
+        "utilities",
+        "fake-data",
+        "mock",
+        "api",
+        "dynamic",
+        "contextual"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Limitado en plan gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "random-user-gen",
+      "name": "Random User Gen",
+      "slug": "random-user-gen",
+      "description": "API libre para usuarios aleatorios",
+      "url": "https://randomuser.me",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "api",
+        "users",
+        "random",
+        "free"
+      ],
+      "searchIndex": [
+        "Random User Gen",
+        "random-user-gen",
+        "API libre para usuarios aleatorios",
+        "utilities",
+        "fake-data",
+        "api",
+        "users",
+        "random",
+        "free"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin límites estrictos",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "rndgen",
+      "name": "RNDGen",
+      "slug": "rndgen",
+      "description": "Generador de datos aleatorios múltiples formatos",
+      "url": "https://www.rndgen.com",
+      "status": "active",
+      "tags": [
+        "fake-data",
+        "generator",
+        "random",
+        "multiple-formats"
+      ],
+      "searchIndex": [
+        "RNDGen",
+        "rndgen",
+        "Generador de datos aleatorios múltiples formatos",
+        "utilities",
+        "fake-data",
+        "generator",
+        "random",
+        "multiple-formats"
+      ],
+      "category": "utilities",
+      "subcategory": "fake-data",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Limitado en plan gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "roam-research",
+      "name": "Roam Research",
+      "slug": "roam-research",
+      "description": "Notas interconectadas con 2 grafos gratis",
+      "url": "https://roamresearch.com",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "knowledge-graph",
+        "research"
+      ],
+      "searchIndex": [
+        "Roam Research",
+        "roam-research",
+        "Notas interconectadas con 2 grafos gratis",
+        "utilities",
+        "productivity",
+        "knowledge-graph",
+        "research"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "2 grafos gratis, ilimitados de pago",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "stocksnap-io",
+      "name": "StockSnap.io",
+      "slug": "stocksnap-io",
+      "description": "Fotos CC0 sin registro descarga directa",
+      "url": "https://stocksnap.io",
+      "status": "active",
+      "tags": [
+        "images",
+        "cc0",
+        "free",
+        "no-registration",
+        "stock"
+      ],
+      "searchIndex": [
+        "StockSnap.io",
+        "stocksnap-io",
+        "Fotos CC0 sin registro descarga directa",
+        "utilities",
+        "images-placeholders",
+        "images",
+        "cc0",
+        "free",
+        "no-registration",
+        "stock"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, CC0 license",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "superhuman",
+      "name": "Superhuman",
+      "slug": "superhuman",
+      "description": "Cliente de correo rápido con IA",
+      "url": "https://superhuman.com",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "email",
+        "ai",
+        "fast"
+      ],
+      "searchIndex": [
+        "Superhuman",
+        "superhuman",
+        "Cliente de correo rápido con IA",
+        "utilities",
+        "productivity",
+        "email",
+        "ai",
+        "fast"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "30 días trial, luego $30/mes",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "typeform",
+      "name": "Typeform",
+      "slug": "typeform",
+      "description": "Formularios interactivos con 10/mes gratis",
+      "url": "https://www.typeform.com",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "forms",
+        "surveys",
+        "interactive"
+      ],
+      "searchIndex": [
+        "Typeform",
+        "typeform",
+        "Formularios interactivos con 10/mes gratis",
+        "utilities",
+        "productivity",
+        "forms",
+        "surveys",
+        "interactive"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "10 respuestas/mes, 1 usuario",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "unsplash",
+      "name": "Unsplash",
+      "slug": "unsplash",
+      "description": "Banco de imágenes alta resolución gratis",
+      "url": "https://unsplash.com",
+      "status": "active",
+      "tags": [
+        "images",
+        "photos",
+        "free",
+        "high-resolution",
+        "stock"
+      ],
+      "searchIndex": [
+        "Unsplash",
+        "unsplash",
+        "Banco de imágenes alta resolución gratis",
+        "utilities",
+        "images-placeholders",
+        "images",
+        "photos",
+        "free",
+        "high-resolution",
+        "stock"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, sin atribución requerida",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "vecteezy",
+      "name": "Vecteezy",
+      "slug": "vecteezy",
+      "description": "Vectores y fotos con licencia flexible",
+      "url": "https://www.vecteezy.com",
+      "status": "active",
+      "tags": [
+        "vectors",
+        "photos",
+        "flexible",
+        "license",
+        "free"
+      ],
+      "searchIndex": [
+        "Vecteezy",
+        "vecteezy",
+        "Vectores y fotos con licencia flexible",
+        "utilities",
+        "images-placeholders",
+        "vectors",
+        "photos",
+        "flexible",
+        "license",
+        "free"
+      ],
+      "category": "utilities",
+      "subcategory": "images-placeholders",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Limitado en plan gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "wispr-flow",
+      "name": "Wispr Flow",
+      "slug": "wispr-flow",
+      "description": "Dictado por voz con IA",
+      "url": "https://flow.wispr.ai",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "voice",
+        "dictation",
+        "ai"
+      ],
+      "searchIndex": [
+        "Wispr Flow",
+        "wispr-flow",
+        "Dictado por voz con IA",
+        "utilities",
+        "productivity",
+        "voice",
+        "dictation",
+        "ai"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Limitado en plan gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "npm-alternatives",
+      "name": "NPM Alternatives",
+      "slug": "npm-alternatives",
+      "description": "npms.io, npmsearch.com",
+      "url": "https://npmsearch.com/",
+      "status": "active",
+      "tags": [
+        "npm",
+        "search",
+        "packages",
+        "productivity"
+      ],
+      "searchIndex": [
+        "NPM Alternatives",
+        "npm-alternatives",
+        "npms.io, npmsearch.com",
+        "utilities",
+        "productivity",
+        "npm",
+        "search",
+        "packages",
+        "productivity"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    }
+  ]
+}

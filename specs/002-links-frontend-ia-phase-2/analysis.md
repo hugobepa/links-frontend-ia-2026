@@ -15,42 +15,42 @@ Cross-artifact consistency check across `spec.md`, `plan.md`, `research.md`, `da
 
 ## Findings Table
 
-| ID | Category | Severity | Location(s) | Summary | Recommendation |
-|----|----------|----------|-------------|---------|----------------|
-| A1 | Coverage | INFO | spec.md (US1-US3) → tasks.md | All 3 user stories mapped to task phases | No action needed; coverage complete |
-| A2 | Requirements | INFO | spec.md (FR-001 to FR-010) → tasks.md | All 10 functional requirements have task coverage | No action needed; requirements fully traced |
-| A3 | Success Criteria | INFO | spec.md (SC-001 to SC-006) → tasks.md | All 6 success criteria have validation tasks | No action needed; validation gates present |
-| A4 | Data Model | INFO | data-model.md → plan.md | 5 entities documented; relationships map to tasks | No action needed; entities are implementable |
-| A5 | Dependencies | INFO | plan.md, tasks.md | US1 → US2 → US3 dependency chain is clear | No action needed; execution order is sound |
-| A6 | Terminology | INFO | all docs | Consistent use of "category", "subcategory", "link", "search" | No action needed |
-| A7 | Technical Decisions | INFO | research.md | 6 decisions documented with rationale; no contradictions | No action needed |
-| A8 | Constraints | INFO | spec.md, plan.md | Path-length validation, mobile-first, non-AI design all addressed | No action needed |
+| ID  | Category            | Severity | Location(s)                           | Summary                                                           | Recommendation                               |
+| --- | ------------------- | -------- | ------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------- |
+| A1  | Coverage            | INFO     | spec.md (US1-US3) → tasks.md          | All 3 user stories mapped to task phases                          | No action needed; coverage complete          |
+| A2  | Requirements        | INFO     | spec.md (FR-001 to FR-010) → tasks.md | All 10 functional requirements have task coverage                 | No action needed; requirements fully traced  |
+| A3  | Success Criteria    | INFO     | spec.md (SC-001 to SC-006) → tasks.md | All 6 success criteria have validation tasks                      | No action needed; validation gates present   |
+| A4  | Data Model          | INFO     | data-model.md → plan.md               | 5 entities documented; relationships map to tasks                 | No action needed; entities are implementable |
+| A5  | Dependencies        | INFO     | plan.md, tasks.md                     | US1 → US2 → US3 dependency chain is clear                         | No action needed; execution order is sound   |
+| A6  | Terminology         | INFO     | all docs                              | Consistent use of "category", "subcategory", "link", "search"     | No action needed                             |
+| A7  | Technical Decisions | INFO     | research.md                           | 6 decisions documented with rationale; no contradictions          | No action needed                             |
+| A8  | Constraints         | INFO     | spec.md, plan.md                      | Path-length validation, mobile-first, non-AI design all addressed | No action needed                             |
 
 ---
 
 ## Coverage Summary Table
 
-| Requirement Key | Requirement | Has Task? | Task IDs | Notes |
-|-----------------|-------------|-----------|----------|-------|
-| US1 | Category Navigation | ✅ YES | T006–T013, T031–T055 | Dynamic routing, category menu, 404 handling |
-| US2 | Responsive Layout | ✅ YES | T014–T022, T031–T055 | Cards (desktop), lists (mobile), smooth transitions |
-| US3 | Search Functionality | ✅ YES | T023–T030, T031–T055 | 3-char minimum, real-time filtering |
-| FR-001 | Generate category pages dynamically | ✅ YES | T006, T007, T008 | Astro [...slug].astro routing |
-| FR-002 | Display subcategories as sections | ✅ YES | T009 | SubcategorySection component |
-| FR-003 | Links as cards/lists responsive | ✅ YES | T014, T014b, T015 | LinkCard, LinkListItem, wrapper |
-| FR-004 | Link fields structure | ✅ YES | T002, T003 | TypeScript types, data loader |
-| FR-005 | Search with 3-char minimum | ✅ YES | T023, T024, T027 | SearchBar, filter logic, input validation |
-| FR-006 | Link cards (desktop) display | ✅ YES | T014, T021, T022 | All fields, icons, new tab behavior |
-| FR-007 | Link lists (mobile) display | ✅ YES | T014b, T022 | Simplified fields, same tab behavior |
-| FR-008 | Path-length validation | ✅ YES | T004, T031 | Validation script, pre-commit check |
-| FR-009 | Category folder name matching | ✅ YES | T001 | Sample JSON inspection task |
-| FR-010 | JSON/TS naming pattern | ✅ YES | T001, T002, T003 | Type definitions, loaders |
-| SC-001 | All 14 categories render | ✅ YES | T047 | Explicit validation task |
-| SC-002 | Load in <2s | ✅ YES | T048 | Performance testing task |
-| SC-003 | Search real-time | ✅ YES | T049 | Search validation task |
-| SC-004 | Responsive (mobile/desktop) | ✅ YES | T050 | Responsive testing task |
-| SC-005 | Path validation passes | ✅ YES | T051 | Validation task |
-| SC-006 | Design matches non-AI guide | ✅ YES | T052 | Design compliance task |
+| Requirement Key | Requirement                         | Has Task? | Task IDs             | Notes                                               |
+| --------------- | ----------------------------------- | --------- | -------------------- | --------------------------------------------------- |
+| US1             | Category Navigation                 | ✅ YES    | T006–T013, T031–T055 | Dynamic routing, category menu, 404 handling        |
+| US2             | Responsive Layout                   | ✅ YES    | T014–T022, T031–T055 | Cards (desktop), lists (mobile), smooth transitions |
+| US3             | Search Functionality                | ✅ YES    | T023–T030, T031–T055 | 3-char minimum, real-time filtering                 |
+| FR-001          | Generate category pages dynamically | ✅ YES    | T006, T007, T008     | Astro [...slug].astro routing                       |
+| FR-002          | Display subcategories as sections   | ✅ YES    | T009                 | SubcategorySection component                        |
+| FR-003          | Links as cards/lists responsive     | ✅ YES    | T014, T014b, T015    | LinkCard, LinkListItem, wrapper                     |
+| FR-004          | Link fields structure               | ✅ YES    | T002, T003           | TypeScript types, data loader                       |
+| FR-005          | Search with 3-char minimum          | ✅ YES    | T023, T024, T027     | SearchBar, filter logic, input validation           |
+| FR-006          | Link cards (desktop) display        | ✅ YES    | T014, T021, T022     | All fields, icons, new tab behavior                 |
+| FR-007          | Link lists (mobile) display         | ✅ YES    | T014b, T022          | Simplified fields, same tab behavior                |
+| FR-008          | Path-length validation              | ✅ YES    | T004, T031           | Validation script, pre-commit check                 |
+| FR-009          | Category folder name matching       | ✅ YES    | T001                 | Sample JSON inspection task                         |
+| FR-010          | JSON/TS naming pattern              | ✅ YES    | T001, T002, T003     | Type definitions, loaders                           |
+| SC-001          | All 14 categories render            | ✅ YES    | T047                 | Explicit validation task                            |
+| SC-002          | Load in <2s                         | ✅ YES    | T048                 | Performance testing task                            |
+| SC-003          | Search real-time                    | ✅ YES    | T049                 | Search validation task                              |
+| SC-004          | Responsive (mobile/desktop)         | ✅ YES    | T050                 | Responsive testing task                             |
+| SC-005          | Path validation passes              | ✅ YES    | T051                 | Validation task                                     |
+| SC-006          | Design matches non-AI guide         | ✅ YES    | T052                 | Design compliance task                              |
 
 ---
 
@@ -58,37 +58,38 @@ Cross-artifact consistency check across `spec.md`, `plan.md`, `research.md`, `da
 
 ✅ **PASS**: All phases (I–V) and constraints respected.
 
-| Principle | Status | Evidence |
-|-----------|--------|----------|
-| I. Phase Order Is Mandatory | ✅ PASS | Phase 2 follows Phase 1; no jumping ahead |
-| II. Local-First Delivery | ✅ PASS | All tasks are local dev; no remote/GitHub Pages |
+| Principle                      | Status  | Evidence                                                        |
+| ------------------------------ | ------- | --------------------------------------------------------------- |
+| I. Phase Order Is Mandatory    | ✅ PASS | Phase 2 follows Phase 1; no jumping ahead                       |
+| II. Local-First Delivery       | ✅ PASS | All tasks are local dev; no remote/GitHub Pages                 |
 | III. Data and Naming Integrity | ✅ PASS | Path-length validation task present; naming consistency checked |
-| IV. Quality Gates Per Subphase | ✅ PASS | Phase 8 (T047–T055) validates all subphase outputs |
-| V. Living Documentation | ✅ PASS | T054 updates proyecto_estructura.md on completion |
+| IV. Quality Gates Per Subphase | ✅ PASS | Phase 8 (T047–T055) validates all subphase outputs              |
+| V. Living Documentation        | ✅ PASS | T054 updates proyecto_estructura.md on completion               |
 
 ---
 
 ## Metrics
 
-| Metric | Count | Status |
-|--------|-------|--------|
-| **Total User Stories** | 3 | All P1, P1, P2 defined |
-| **Total Functional Requirements** | 10 | All FR-001 to FR-010 |
-| **Success Criteria** | 6 | All SC-001 to SC-006 |
-| **Total Tasks** | 55 | Complete task checklist |
-| **Tasks with Story Tag** | 55 | 100% traceability |
-| **Ambiguous Requirements** | 0 | No NEEDS CLARIFICATION markers |
-| **Coverage %** | 100% | All requirements mapped to tasks |
-| **Critical Issues** | 0 | No constitution violations |
-| **High Issues** | 0 | No duplications or conflicts |
-| **Medium Issues** | 0 | No underspecified items |
-| **Low Issues** | 0 | No style/wording concerns |
+| Metric                            | Count | Status                           |
+| --------------------------------- | ----- | -------------------------------- |
+| **Total User Stories**            | 3     | All P1, P1, P2 defined           |
+| **Total Functional Requirements** | 10    | All FR-001 to FR-010             |
+| **Success Criteria**              | 6     | All SC-001 to SC-006             |
+| **Total Tasks**                   | 55    | Complete task checklist          |
+| **Tasks with Story Tag**          | 55    | 100% traceability                |
+| **Ambiguous Requirements**        | 0     | No NEEDS CLARIFICATION markers   |
+| **Coverage %**                    | 100%  | All requirements mapped to tasks |
+| **Critical Issues**               | 0     | No constitution violations       |
+| **High Issues**                   | 0     | No duplications or conflicts     |
+| **Medium Issues**                 | 0     | No underspecified items          |
+| **Low Issues**                    | 0     | No style/wording concerns        |
 
 ---
 
 ## Key Findings
 
 ### Strengths
+
 1. **Complete Traceability**: Every requirement maps to at least one task.
 2. **Clear Prioritization**: User stories follow P1→P1→P2 with design rationale.
 3. **Independent Stories**: Each story is independently testable and completable.
@@ -98,6 +99,7 @@ Cross-artifact consistency check across `spec.md`, `plan.md`, `research.md`, `da
 7. **Constitutional Compliance**: All five principles of project constitution are respected.
 
 ### Observations
+
 1. **Scope is substantial**: 55 tasks vs Phase 1's 32 reflects increased UI/integration complexity.
 2. **Parallel opportunities**: Setup completion unblocks 4 parallel component tasks (T009, T010, T014, T014b).
 3. **US3 (Search) depends on US1+US2**: Proper dependency ordering prevents blocked work.
@@ -143,16 +145,19 @@ Final Validation (T047–T055)
 ## Technical Alignment
 
 ### Plan vs Spec Alignment
+
 - Plan describes implementation via Astro `[...slug].astro` routing.
 - Spec requires dynamic category pages; plan delivers via dynamic routing.
 - ✅ **ALIGNED**: Spec requirements met by plan strategy.
 
 ### Data Model vs Implementation
+
 - data-model.md defines 5 entities (Category, Subcategory, Link, SearchResult, DataSource).
 - tasks.md includes type definition (T002) and loader implementation (T003).
 - ✅ **ALIGNED**: Entities are implementable with Astro + React.
 
 ### Research Decisions vs Execution
+
 - research.md documents 6 decisions with rationale.
 - All decisions are supported by plan and task assignments.
 - ✅ **ALIGNED**: No contradictions between decisions and tasks.

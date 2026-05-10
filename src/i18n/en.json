@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Home",
+    "categories": "Categories",
+    "search": "Search",
+    "allCategories": "All categories"
+  },
+  "search": {
+    "placeholder": "Search resources...",
+    "noResults": "No results found",
+    "resultsCount": "{count} results found",
+    "searching": "Searching...",
+    "all": "All",
+    "free": "Free",
+    "freemium": "Freemium",
+    "premium": "Premium",
+    "paid": "Paid",
+    "results": "results"
+  },
+  "categories": {
+    "title": "Explore our categories",
+    "subtitle": "Find the best tools and resources for your business",
+    "resources": "resources",
+    "viewAll": "View all"
+  },
+  "subcategory": {
+    "resources": "resources",
+    "viewResource": "View resource",
+    "visit": "Visit"
+  },
+  "linkCard": {
+    "free": "Free",
+    "paid": "Paid",
+    "freemium": "Freemium",
+    "verified": "Verified",
+    "languages": "Languages",
+    "pricing": "Pricing",
+    "visitWebsite": "Visit website"
+  },
+  "footer": {
+    "copyright": "© 2026 Links Frontend IA. All rights reserved.",
+    "description": "Directory of AI tools and resources for developers",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "contact": "Contact"
+  },
+  "language": {
+    "toggle": "Change language",
+    "current": "English",
+    "switchTo": "Switch to Spanish"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "close": "Close",
+    "back": "Back"
+  },
+  "seo": {
+    "homeTitle": "AI Tools Directory - Resources for Developers",
+    "homeDescription": "Explore our directory of artificial intelligence tools, development assistants, and updated tech resources for professionals.",
+    "categoryTitle": "{category} - AI Tools and Resources",
+    "categoryDescription": "Discover the best {category} tools for your business. Explore our collection of verified and updated resources."
+  }
+}

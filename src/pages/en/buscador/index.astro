@@ -1,0 +1,51 @@
+---
+import { BackToTop } from '@/components/BackToTop';
+import Footer from '@/components/Footer.astro';
+import GlobalSearch from '@/components/GlobalSearch';
+import Header from '@/components/Header.astro';
+import { getTranslations } from '@/i18n';
+import { loadAllResources } from '@/lib/loaders';
+import '@/styles/global.css';
+
+const resources = await loadAllResources();
+
+const lang = 'en';
+const t = getTranslations(lang);
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{t.nav.search} - Links Frontend IA</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <Header lang={lang} />
+    
+    <main class="max-w-6xl mx-auto px-4 py-12">
+      <h1 class="text-3xl font-bold mb-4">{t.nav.search}</h1>
+      <p class="text-gray-600 mb-8">{t.categories.subtitle}</p>
+      
+      <GlobalSearch 
+        client:load 
+        resources={resources} 
+        lang={lang}
+        translations={{
+          placeholder: t.search.placeholder,
+          noResults: t.search.noResults,
+          all: t.search.all,
+          free: t.search.free,
+          freemium: t.search.freemium,
+          premium: t.search.premium,
+          paid: t.search.paid,
+          results: t.search.results
+        }}
+      />
+    </main>
+    
+    <Footer lang={lang} />
+    <BackToTop client:load lang={lang} />
+  </body>
+</html>

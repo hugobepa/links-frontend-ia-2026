@@ -1,0 +1,1501 @@
+{
+  "categories": [
+    {
+      "id": "game-dev",
+      "name": "Game Dev",
+      "slug": "game-dev",
+      "resourceCount": 8,
+      "status": "active"
+    },
+    {
+      "id": "mobile",
+      "name": "Mobile",
+      "slug": "mobile",
+      "resourceCount": 7,
+      "status": "active"
+    },
+    {
+      "id": "payments",
+      "name": "Payments",
+      "slug": "payments",
+      "resourceCount": 24,
+      "status": "active"
+    },
+    {
+      "id": "",
+      "name": null,
+      "slug": "",
+      "resourceCount": 1,
+      "status": "active"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "engines",
+      "name": "Engines",
+      "slug": "engines",
+      "category": "game-dev",
+      "resourceCount": 8,
+      "status": "active"
+    },
+    {
+      "id": "frameworks",
+      "name": "Frameworks",
+      "slug": "frameworks",
+      "category": "mobile",
+      "resourceCount": 7,
+      "status": "active"
+    },
+    {
+      "id": "jobs",
+      "name": "Jobs",
+      "slug": "jobs",
+      "category": "payments",
+      "resourceCount": 22,
+      "status": "active"
+    },
+    {
+      "id": "processors",
+      "name": "Processors",
+      "slug": "processors",
+      "category": "payments",
+      "resourceCount": 2,
+      "status": "active"
+    },
+    {
+      "id": "",
+      "name": null,
+      "slug": "",
+      "category": "payments",
+      "resourceCount": 1,
+      "status": "active"
+    }
+  ],
+  "resources": [
+    {
+      "id": "adalo",
+      "name": "Adalo",
+      "slug": "adalo",
+      "description": "Apps sin código 1 app gratis",
+      "url": "https://www.adalo.com",
+      "status": "active",
+      "tags": [
+        "mobile",
+        "adalo",
+        "no-code",
+        "apps",
+        "visual"
+      ],
+      "searchIndex": [
+        "Adalo",
+        "adalo",
+        "Apps sin código 1 app gratis",
+        "mobile",
+        "frameworks",
+        "no-code",
+        "apps",
+        "visual"
+      ],
+      "category": "mobile",
+      "subcategory": "frameworks",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "1 app gratis, límites de publicaciones",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "arc-dev",
+      "name": "Arc.dev",
+      "slug": "arc-dev",
+      "description": "Remoto para devs senior validados",
+      "url": "https://arc.dev",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "remote",
+        "senior",
+        "validated"
+      ],
+      "searchIndex": [
+        "Arc.dev",
+        "arc-dev",
+        "Remoto para devs senior validados",
+        "payments",
+        "jobs",
+        "remote",
+        "senior",
+        "validated"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis para desarrolladores",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "autumn",
+      "name": "Autumn",
+      "slug": "autumn",
+      "description": "Abstracción simplificada de Stripe",
+      "url": "https://useautumn.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "stripe",
+        "abstraction",
+        "simplified"
+      ],
+      "searchIndex": [
+        "Autumn",
+        "autumn",
+        "Abstracción simplificada de Stripe",
+        "payments",
+        "processors",
+        "stripe",
+        "abstraction",
+        "simplified"
+      ],
+      "category": "payments",
+      "subcategory": "processors",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Según plan seleccionado",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "babylon-js",
+      "name": "Babylon.js",
+      "slug": "babylon-js",
+      "description": "Framework 3D web open source",
+      "url": "https://www.babylonjs.com",
+      "status": "active",
+      "tags": [
+        "game-engine",
+        "babylon",
+        "3d",
+        "web",
+        "webgl"
+      ],
+      "searchIndex": [
+        "Babylon.js",
+        "babylon-js",
+        "Framework 3D web open source",
+        "game-dev",
+        "engines",
+        "game-engine",
+        "babylon",
+        "3d",
+        "web",
+        "webgl"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, open source",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "bairesdev",
+      "name": "BairesDev",
+      "slug": "bairesdev",
+      "description": "Talento LATAM externalización guiada",
+      "url": "https://bairesdev.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "latam",
+        "outsourcing",
+        "guided"
+      ],
+      "searchIndex": [
+        "BairesDev",
+        "bairesdev",
+        "Talento LATAM externalización guiada",
+        "payments",
+        "jobs",
+        "latam",
+        "outsourcing",
+        "guided"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis para desarrolladores",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "bubble",
+      "name": "Bubble",
+      "slug": "bubble",
+      "description": "Apps web sin código 1 app gratis",
+      "url": "https://bubble.io",
+      "status": "active",
+      "tags": [
+        "mobile",
+        "bubble",
+        "no-code",
+        "web-apps",
+        "visual"
+      ],
+      "searchIndex": [
+        "Bubble",
+        "bubble",
+        "Apps web sin código 1 app gratis",
+        "mobile",
+        "frameworks",
+        "no-code",
+        "web-apps",
+        "visual"
+      ],
+      "category": "mobile",
+      "subcategory": "frameworks",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "1 app gratis, límites de capacidad",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "capacitor",
+      "name": "Capacitor",
+      "slug": "capacitor",
+      "description": "Apps nativas con web technologies",
+      "url": "https://capacitorjs.com",
+      "status": "active",
+      "tags": [
+        "mobile",
+        "capacitor",
+        "native",
+        "web",
+        "hybrid"
+      ],
+      "searchIndex": [
+        "Capacitor",
+        "capacitor",
+        "Apps nativas con web technologies",
+        "mobile",
+        "frameworks",
+        "native",
+        "web",
+        "hybrid"
+      ],
+      "category": "mobile",
+      "subcategory": "frameworks",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, open source",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "career-ops",
+      "name": "Career-Ops",
+      "slug": "career-ops",
+      "description": "Agente IA búsqueda empleo",
+      "url": "https://github.com/santifer/career-ops",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "ai",
+        "agent",
+        "search"
+      ],
+      "searchIndex": [
+        "Career-Ops",
+        "career-ops",
+        "Agente IA búsqueda empleo",
+        "payments",
+        "jobs",
+        "ai",
+        "agent",
+        "search"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Open source gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "construct-3",
+      "name": "Construct 3",
+      "slug": "construct-3",
+      "description": "Motor 2D sin código 1 proyecto gratis",
+      "url": "https://www.construct.net",
+      "status": "active",
+      "tags": [
+        "game-engine",
+        "construct",
+        "2d",
+        "no-code"
+      ],
+      "searchIndex": [
+        "Construct 3",
+        "construct-3",
+        "Motor 2D sin código 1 proyecto gratis",
+        "game-dev",
+        "engines",
+        "game-engine",
+        "construct",
+        "2d",
+        "no-code"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "1 proyecto gratis, límites de eventos",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "dynamite-jobs",
+      "name": "Dynamite Jobs",
+      "slug": "dynamite-jobs",
+      "description": "Ofertas en empresas remote-first",
+      "url": "https://dynamitejobs.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "remote",
+        "remote-first",
+        "startups"
+      ],
+      "searchIndex": [
+        "Dynamite Jobs",
+        "dynamite-jobs",
+        "Ofertas en empresas remote-first",
+        "payments",
+        "jobs",
+        "remote",
+        "remote-first",
+        "startups"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "expo",
+      "name": "Expo",
+      "slug": "expo",
+      "description": "Framework React Native con tools",
+      "url": "https://expo.dev",
+      "status": "active",
+      "tags": [
+        "mobile",
+        "expo",
+        "react-native",
+        "tools",
+        "ios",
+        "android"
+      ],
+      "searchIndex": [
+        "Expo",
+        "expo",
+        "Framework React Native con tools",
+        "mobile",
+        "frameworks",
+        "react-native",
+        "tools",
+        "ios",
+        "android"
+      ],
+      "category": "mobile",
+      "subcategory": "frameworks",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis con límites de builds",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "flexjobs",
+      "name": "FlexJobs",
+      "slug": "flexjobs",
+      "description": "Ofertas verificadas con suscripción",
+      "url": "https://flexjobs.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "verified",
+        "subscription",
+        "flexible"
+      ],
+      "searchIndex": [
+        "FlexJobs",
+        "flexjobs",
+        "Ofertas verificadas con suscripción",
+        "payments",
+        "jobs",
+        "verified",
+        "subscription",
+        "flexible"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Suscripción mensual requerida",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "flutterflow",
+      "name": "FlutterFlow",
+      "slug": "flutterflow",
+      "description": "Builder visual Flutter 3 proyectos",
+      "url": "https://flutterflow.io",
+      "status": "active",
+      "tags": [
+        "mobile",
+        "flutter",
+        "visual",
+        "builder",
+        "no-code"
+      ],
+      "searchIndex": [
+        "FlutterFlow",
+        "flutterflow",
+        "Builder visual Flutter 3 proyectos",
+        "mobile",
+        "frameworks",
+        "flutter",
+        "visual",
+        "builder",
+        "no-code"
+      ],
+      "category": "mobile",
+      "subcategory": "frameworks",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "3 proyectos gratis, límites de export",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "frontend-interview-handbook",
+      "name": "Frontend Interview Handbook",
+      "slug": "frontend-interview-handbook",
+      "description": "Preparación entrevista frontend",
+      "url": "https://www.frontendinterviewhandbook.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "interview",
+        "frontend",
+        "preparation"
+      ],
+      "searchIndex": [
+        "Frontend Interview Handbook",
+        "frontend-interview-handbook",
+        "Preparación entrevista frontend",
+        "payments",
+        "jobs",
+        "interview",
+        "frontend",
+        "preparation"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "gdevelop",
+      "name": "GDevelop",
+      "slug": "gdevelop",
+      "description": "Motor de juegos open source",
+      "url": "https://gdevelop.io",
+      "status": "active",
+      "tags": [
+        "game-engine",
+        "gdevelop",
+        "open-source",
+        "2d"
+      ],
+      "searchIndex": [
+        "GDevelop",
+        "gdevelop",
+        "Motor de juegos open source",
+        "game-dev",
+        "engines",
+        "game-engine",
+        "open-source",
+        "2d"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, open source",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "glide",
+      "name": "Glide",
+      "slug": "glide",
+      "description": "Apps desde Google Sheets gratis",
+      "url": "https://www.glideapps.com",
+      "status": "active",
+      "tags": [
+        "mobile",
+        "glide",
+        "google-sheets",
+        "no-code",
+        "apps"
+      ],
+      "searchIndex": [
+        "Glide",
+        "glide",
+        "Apps desde Google Sheets gratis",
+        "mobile",
+        "frameworks",
+        "google-sheets",
+        "no-code",
+        "apps"
+      ],
+      "category": "mobile",
+      "subcategory": "frameworks",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "1 app gratis, límites de usuarios",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "godot",
+      "name": "Godot",
+      "slug": "godot",
+      "description": "Motor de juegos open source completo",
+      "url": "https://godotengine.org",
+      "status": "active",
+      "tags": [
+        "game-engine",
+        "godot",
+        "open-source",
+        "2d",
+        "3d"
+      ],
+      "searchIndex": [
+        "Godot",
+        "godot",
+        "Motor de juegos open source completo",
+        "game-dev",
+        "engines",
+        "game-engine",
+        "open-source",
+        "2d",
+        "3d"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, open source",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "guia-entrevistas-dev",
+      "name": "Guía Entrevistas Dev",
+      "slug": "guia-entrevistas-dev",
+      "description": "Preparación entrevistas ES",
+      "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "interview",
+        "spanish",
+        "preparation"
+      ],
+      "searchIndex": [
+        "Guía Entrevistas Dev",
+        "guia-entrevistas-dev",
+        "Preparación entrevistas ES",
+        "payments",
+        "jobs",
+        "interview",
+        "spanish",
+        "preparation"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "gun-io",
+      "name": "Gun.io",
+      "slug": "gun-io",
+      "description": "Red boutique de ingenieros élite",
+      "url": "https://gun.io",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "elite",
+        "boutique",
+        "network"
+      ],
+      "searchIndex": [
+        "Gun.io",
+        "gun-io",
+        "Red boutique de ingenieros élite",
+        "payments",
+        "jobs",
+        "elite",
+        "boutique",
+        "network"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis para desarrolladores",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "hired",
+      "name": "Hired",
+      "slug": "hired",
+      "description": "IA empareja talento tech con empresas",
+      "url": "https://hired.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "ai",
+        "matching",
+        "tech"
+      ],
+      "searchIndex": [
+        "Hired",
+        "hired",
+        "IA empareja talento tech con empresas",
+        "payments",
+        "jobs",
+        "ai",
+        "matching",
+        "tech"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis para desarrolladores",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "jobbers-io",
+      "name": "Jobbers.io",
+      "slug": "jobbers-io",
+      "description": "Modelo 0% comisión autogestión",
+      "url": "https://jobbers.io",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "freelance",
+        "zero-commission",
+        "self-management"
+      ],
+      "searchIndex": [
+        "Jobbers.io",
+        "jobbers-io",
+        "Modelo 0% comisión autogestión",
+        "payments",
+        "jobs",
+        "freelance",
+        "zero-commission",
+        "self-management"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "0% comisión",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "leetcode-interview",
+      "name": "LeetCode Interview",
+      "slug": "leetcode-interview",
+      "description": "Preparación entrevista técnicas",
+      "url": "https://leetcode.com/interview",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "interview",
+        "preparation",
+        "technical"
+      ],
+      "searchIndex": [
+        "LeetCode Interview",
+        "leetcode-interview",
+        "Preparación entrevista técnicas",
+        "payments",
+        "jobs",
+        "interview",
+        "preparation",
+        "technical"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis con límites, premium disponible",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "playcanvas",
+      "name": "PlayCanvas",
+      "slug": "playcanvas",
+      "description": "Motor de juegos 3D web",
+      "url": "https://playcanvas.com",
+      "status": "active",
+      "tags": [
+        "game-engine",
+        "playcanvas",
+        "3d",
+        "web",
+        "webgl"
+      ],
+      "searchIndex": [
+        "PlayCanvas",
+        "playcanvas",
+        "Motor de juegos 3D web",
+        "game-dev",
+        "engines",
+        "game-engine",
+        "3d",
+        "web",
+        "webgl"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis con límites de proyectos",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "polar",
+      "name": "Polar",
+      "slug": "polar",
+      "description": "Procesamiento de pagos global",
+      "url": "https://polar.sh",
+      "status": "active",
+      "tags": [
+        "payments",
+        "global",
+        "api",
+        "subscriptions"
+      ],
+      "searchIndex": [
+        "Polar",
+        "polar",
+        "Procesamiento de pagos global",
+        "payments",
+        "processors",
+        "global",
+        "api",
+        "subscriptions"
+      ],
+      "category": "payments",
+      "subcategory": "processors",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Sin cuota mensual, comisión por transacción",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "problem-hunts",
+      "name": "Problem Hunts",
+      "slug": "problem-hunts",
+      "description": "Resolver problemas dev pagados",
+      "url": "https://problemhunt.pro",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "problems",
+        "paid",
+        "challenges"
+      ],
+      "searchIndex": [
+        "Problem Hunts",
+        "problem-hunts",
+        "Resolver problemas dev pagados",
+        "payments",
+        "jobs",
+        "problems",
+        "paid",
+        "challenges"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Pago por problema resuelto",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-jobs",
+      "name": "React Jobs",
+      "slug": "react-jobs",
+      "description": "Agregador de ofertas React/TS",
+      "url": "https://reactjobs.io",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "react",
+        "typescript",
+        "aggregator"
+      ],
+      "searchIndex": [
+        "React Jobs",
+        "react-jobs",
+        "Agregador de ofertas React/TS",
+        "payments",
+        "jobs",
+        "react",
+        "typescript",
+        "aggregator"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "remote-ok",
+      "name": "Remote OK",
+      "slug": "remote-ok",
+      "description": "Bolsa global de empleo remoto tech",
+      "url": "https://remoteok.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "remote",
+        "tech",
+        "global"
+      ],
+      "searchIndex": [
+        "Remote OK",
+        "remote-ok",
+        "Bolsa global de empleo remoto tech",
+        "payments",
+        "jobs",
+        "remote",
+        "tech",
+        "global"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "south",
+      "name": "South",
+      "slug": "south",
+      "description": "Talento élite LATAM con filtro riguroso",
+      "url": "https://south.work",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "latam",
+        "elite",
+        "rigorous"
+      ],
+      "searchIndex": [
+        "South",
+        "south",
+        "Talento élite LATAM con filtro riguroso",
+        "payments",
+        "jobs",
+        "latam",
+        "elite",
+        "rigorous"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis para desarrolladores",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "soyfreelancer",
+      "name": "SoyFreelancer",
+      "slug": "soyfreelancer",
+      "description": "Freelance en español pago por proyecto",
+      "url": "https://soyfreelancer.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "freelance",
+        "spanish",
+        "project-based"
+      ],
+      "searchIndex": [
+        "SoyFreelancer",
+        "soyfreelancer",
+        "Freelance en español pago por proyecto",
+        "payments",
+        "jobs",
+        "freelance",
+        "spanish",
+        "project-based"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis con comisión por proyecto",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "three-js",
+      "name": "Three.js",
+      "slug": "three-js",
+      "description": "Librería 3D para JavaScript",
+      "url": "https://threejs.org",
+      "status": "active",
+      "tags": [
+        "library",
+        "threejs",
+        "3d",
+        "javascript",
+        "webgl"
+      ],
+      "searchIndex": [
+        "Three.js",
+        "three-js",
+        "Librería 3D para JavaScript",
+        "game-dev",
+        "engines",
+        "library",
+        "threejs",
+        "3d",
+        "javascript",
+        "webgl"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis, open source",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "thunkable",
+      "name": "Thunkable",
+      "slug": "thunkable",
+      "description": "Apps móviles drag-and-drop",
+      "url": "https://thunkable.com",
+      "status": "active",
+      "tags": [
+        "mobile",
+        "thunkable",
+        "drag-drop",
+        "apps",
+        "visual"
+      ],
+      "searchIndex": [
+        "Thunkable",
+        "thunkable",
+        "Apps móviles drag-and-drop",
+        "mobile",
+        "frameworks",
+        "drag-drop",
+        "apps",
+        "visual"
+      ],
+      "category": "mobile",
+      "subcategory": "frameworks",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Proyectos públicos gratis, límites de privados",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "turing",
+      "name": "Turing",
+      "slug": "turing",
+      "description": "Talento global pre-evaluado full-stack",
+      "url": "https://turing.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "remote",
+        "fullstack",
+        "evaluated"
+      ],
+      "searchIndex": [
+        "Turing",
+        "turing",
+        "Talento global pre-evaluado full-stack",
+        "payments",
+        "jobs",
+        "remote",
+        "fullstack",
+        "evaluated"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis para desarrolladores",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "unity",
+      "name": "Unity",
+      "slug": "unity",
+      "description": "Motor de juegos gratis hasta $100k ingresos",
+      "url": "https://unity.com",
+      "status": "active",
+      "tags": [
+        "game-engine",
+        "unity",
+        "3d",
+        "2d",
+        "free-tier"
+      ],
+      "searchIndex": [
+        "Unity",
+        "unity",
+        "Motor de juegos gratis hasta $100k ingresos",
+        "game-dev",
+        "engines",
+        "game-engine",
+        "3d",
+        "2d",
+        "free-tier"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis hasta $100k ingresos anuales",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "unreal-engine",
+      "name": "Unreal Engine",
+      "slug": "unreal-engine",
+      "description": "Motor de juegos AAA gratuito",
+      "url": "https://www.unrealengine.com",
+      "status": "active",
+      "tags": [
+        "game-engine",
+        "unreal",
+        "aaa",
+        "3d"
+      ],
+      "searchIndex": [
+        "Unreal Engine",
+        "unreal-engine",
+        "Motor de juegos AAA gratuito",
+        "game-dev",
+        "engines",
+        "game-engine",
+        "unreal",
+        "aaa",
+        "3d"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis, 5% royalties después de $1M",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "upwork",
+      "name": "Upwork",
+      "slug": "upwork",
+      "description": "El mayor mercado freelance global",
+      "url": "https://upwork.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "freelance",
+        "global",
+        "marketplace"
+      ],
+      "searchIndex": [
+        "Upwork",
+        "upwork",
+        "El mayor mercado freelance global",
+        "payments",
+        "jobs",
+        "freelance",
+        "global",
+        "marketplace"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis con comisión por proyecto",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "we-work-remotely",
+      "name": "We Work Remotely",
+      "slug": "we-work-remotely",
+      "description": "Comunidad de ofertas 100% remotas",
+      "url": "https://weworkremotely.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "remote",
+        "community",
+        "100-percent"
+      ],
+      "searchIndex": [
+        "We Work Remotely",
+        "we-work-remotely",
+        "Comunidad de ofertas 100% remotas",
+        "payments",
+        "jobs",
+        "remote",
+        "community",
+        "100-percent"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Completamente gratis",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "wellfound",
+      "name": "Wellfound",
+      "slug": "wellfound",
+      "description": "Conecta con startups tech directamente",
+      "url": "https://wellfound.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "startups",
+        "tech",
+        "direct"
+      ],
+      "searchIndex": [
+        "Wellfound",
+        "wellfound",
+        "Conecta con startups tech directamente",
+        "payments",
+        "jobs",
+        "startups",
+        "tech",
+        "direct"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis para desarrolladores",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "workana",
+      "name": "Workana",
+      "slug": "workana",
+      "description": "Líder freelance en LATAM español",
+      "url": "https://workana.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "freelance",
+        "latam",
+        "spanish"
+      ],
+      "searchIndex": [
+        "Workana",
+        "workana",
+        "Líder freelance en LATAM español",
+        "payments",
+        "jobs",
+        "freelance",
+        "latam",
+        "spanish"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis con comisión por proyecto",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youteam",
+      "name": "YouTeam",
+      "slug": "youteam",
+      "description": "Escala equipos con talento validado",
+      "url": "https://youteam.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "teams",
+        "validated",
+        "scale"
+      ],
+      "searchIndex": [
+        "YouTeam",
+        "youteam",
+        "Escala equipos con talento validado",
+        "payments",
+        "jobs",
+        "teams",
+        "validated",
+        "scale"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Gratis para desarrolladores",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "ideas-apps",
+      "name": "Ideas Apps",
+      "slug": "ideas-apps",
+      "description": "Ideas apps micro-SaaS MVP",
+      "url": "https://medium.com/@muhibuddin12/17-weekend-buildable-micro-saas-mvp-ideas-with-pricing-distribution-hypotheses-47733c9cf8e4",
+      "status": "active",
+      "tags": [
+        "micro-saas",
+        "mvp",
+        "ideas",
+        "monetization"
+      ],
+      "searchIndex": [
+        "Ideas Apps",
+        "ideas-apps",
+        "Ideas apps micro-SaaS MVP",
+        "payments",
+        "jobs",
+        "micro-saas",
+        "mvp",
+        "ideas",
+        "monetization"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    }
+  ]
+}

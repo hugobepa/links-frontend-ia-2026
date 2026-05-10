@@ -7,6 +7,7 @@
 Represents a top-level grouping of links (e.g., Frontend, APIs, Databases).
 
 **Fields**
+
 - `id`: Unique identifier (URL slug, e.g., `diseno-ui-ux`)
 - `name`: Display name in Spanish
 - `description`: Short description of the category
@@ -14,6 +15,7 @@ Represents a top-level grouping of links (e.g., Frontend, APIs, Databases).
 - `subcategories`: Array of Subcategory objects
 
 **Relationships**
+
 - Contains multiple Subcategories.
 - Referenced by Category Navigation menu.
 - Data sourced from `{category-id}-struc.json` in `preproyecto/jsons-news-interficies/`.
@@ -23,6 +25,7 @@ Represents a top-level grouping of links (e.g., Frontend, APIs, Databases).
 Represents a section within a category (e.g., "React" within Frontend).
 
 **Fields**
+
 - `id`: Unique identifier within category
 - `name`: Display name
 - `description`: Optional description
@@ -30,6 +33,7 @@ Represents a section within a category (e.g., "React" within Frontend).
 - `order`: Sort order within category
 
 **Relationships**
+
 - Belongs to a Category.
 - Contains multiple Links.
 
@@ -38,6 +42,7 @@ Represents a section within a category (e.g., "React" within Frontend).
 Represents an individual resource entry.
 
 **Fields**
+
 - `name`: Resource name (bold in UI)
 - `description`: Short description
 - `url`: Full URL (opens new tab on desktop, same tab on mobile)
@@ -49,6 +54,7 @@ Represents an individual resource entry.
 - `noCreditCard`: Requires credit card or not (icon)
 
 **Relationships**
+
 - Belongs to a Subcategory.
 - Data sourced from `{category-id}-rec.json` in `preproyecto/jsons-news-interficies/`.
 
@@ -57,6 +63,7 @@ Represents an individual resource entry.
 Represents a link matching user's search query.
 
 **Fields**
+
 - `linkId`: Reference to matching Link
 - `categoryId`: Parent category ID
 - `subcategoryId`: Parent subcategory ID
@@ -64,6 +71,7 @@ Represents a link matching user's search query.
 - `snippet`: Excerpt of matched text
 
 **Relationships**
+
 - References a Link.
 - Temporary entity created during search operation (not persisted).
 
@@ -72,12 +80,14 @@ Represents a link matching user's search query.
 Represents the JSON file containing category data.
 
 **Fields**
+
 - `categoryId`: Category identifier
 - `recordsFile`: Path to `{category-id}-rec.json`
 - `structureFile`: Path to `{category-id}-struc.json`
 - `lastUpdated`: Timestamp of last data refresh
 
 **Relationships**
+
 - Provides data for a Category.
 - Loaded at build time by Astro.
 

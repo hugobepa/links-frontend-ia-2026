@@ -1,0 +1,5780 @@
+{
+  "categories": [
+    {
+      "id": "design",
+      "name": "Design",
+      "slug": "design",
+      "resourceCount": 91,
+      "status": "active"
+    },
+    {
+      "id": "development",
+      "name": "Development",
+      "slug": "development",
+      "resourceCount": 68,
+      "status": "active"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "color",
+      "name": "Color",
+      "slug": "color",
+      "category": "design",
+      "resourceCount": 10,
+      "status": "active"
+    },
+    {
+      "id": "components",
+      "name": "Components",
+      "slug": "components",
+      "category": "design",
+      "resourceCount": 8,
+      "status": "active"
+    },
+    {
+      "id": "extensions",
+      "name": "Extensions",
+      "slug": "extensions",
+      "category": "development",
+      "resourceCount": 6,
+      "status": "active"
+    },
+    {
+      "id": "fonts",
+      "name": "Fonts",
+      "slug": "fonts",
+      "category": "design",
+      "resourceCount": 7,
+      "status": "active"
+    },
+    {
+      "id": "frameworks",
+      "name": "Frameworks",
+      "slug": "frameworks",
+      "category": "development",
+      "resourceCount": 11,
+      "status": "active"
+    },
+    {
+      "id": "icons",
+      "name": "Icons",
+      "slug": "icons",
+      "category": "design",
+      "resourceCount": 19,
+      "status": "active"
+    },
+    {
+      "id": "ide",
+      "name": "Ide",
+      "slug": "ide",
+      "category": "development",
+      "resourceCount": 8,
+      "status": "active"
+    },
+    {
+      "id": "inspiration",
+      "name": "Inspiration",
+      "slug": "inspiration",
+      "category": "design",
+      "resourceCount": 11,
+      "status": "active"
+    },
+    {
+      "id": "react-stack",
+      "name": "React Stack",
+      "slug": "react-stack",
+      "category": "development",
+      "resourceCount": 27,
+      "status": "active"
+    },
+    {
+      "id": "templates",
+      "name": "Templates",
+      "slug": "templates",
+      "category": "design",
+      "resourceCount": 14,
+      "status": "active"
+    },
+    {
+      "id": "tools",
+      "name": "Tools",
+      "slug": "tools",
+      "category": "development",
+      "resourceCount": 16,
+      "status": "active"
+    },
+    {
+      "id": "ui-libraries",
+      "name": "Ui Libraries",
+      "slug": "ui-libraries",
+      "category": "design",
+      "resourceCount": 22,
+      "status": "active"
+    }
+  ],
+  "resources": [
+    {
+      "id": "clerk",
+      "name": "@clerk/clerk-react",
+      "slug": "clerk-clerk-react",
+      "description": "Auth + gestión de usuarios, DX excelente",
+      "url": "https://clerk.com",
+      "status": "active",
+      "tags": [
+        "auth",
+        "users",
+        "dx",
+        "react"
+      ],
+      "searchIndex": [
+        "@clerk/clerk-react",
+        "clerk-clerk-react",
+        "Auth + gestión de usuarios, DX excelente",
+        "development",
+        "react-stack",
+        "auth",
+        "users",
+        "dx",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "lemonsqueezy-react",
+      "name": "@lemonsqueezy/lemonsqueezy.js",
+      "slug": "lemonsqueezy-lemonsqueezy-js",
+      "description": "Checkout + licencias + suscripciones",
+      "url": "https://lemonsqueezy.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "licenses",
+        "subscriptions",
+        "checkout"
+      ],
+      "searchIndex": [
+        "@lemonsqueezy/lemonsqueezy.js",
+        "lemonsqueezy-lemonsqueezy-js",
+        "Checkout + licencias + suscripciones",
+        "development",
+        "react-stack",
+        "payments",
+        "licenses",
+        "subscriptions",
+        "checkout"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "mui-data-grid",
+      "name": "@mui/x-data-grid",
+      "slug": "mui-x-data-grid",
+      "description": "DataGrid optimizado, integrado con MUI",
+      "url": "https://mui.com/x/react-data-grid/",
+      "status": "active",
+      "tags": [
+        "tables",
+        "mui",
+        "datagrid",
+        "optimized"
+      ],
+      "searchIndex": [
+        "@mui/x-data-grid",
+        "mui-x-data-grid",
+        "DataGrid optimizado, integrado con MUI",
+        "development",
+        "react-stack",
+        "tables",
+        "mui",
+        "datagrid",
+        "optimized"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "paypal-react",
+      "name": "@paypal/react-paypal-js",
+      "slug": "paypal-react-paypal-js",
+      "description": "Checkout PayPal/Venmo, SDK oficial",
+      "url": "https://www.paypal.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "paypal",
+        "checkout",
+        "react"
+      ],
+      "searchIndex": [
+        "@paypal/react-paypal-js",
+        "paypal-react-paypal-js",
+        "Checkout PayPal/Venmo, SDK oficial",
+        "development",
+        "react-stack",
+        "payments",
+        "paypal",
+        "checkout",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-pdf-renderer",
+      "name": "@react-pdf/renderer",
+      "slug": "react-pdf-renderer",
+      "description": "Genera PDFs usando componentes JSX/CSS-like",
+      "url": "https://react-pdf.org",
+      "status": "active",
+      "tags": [
+        "pdf",
+        "react",
+        "jsx",
+        "generator"
+      ],
+      "searchIndex": [
+        "@react-pdf/renderer",
+        "react-pdf-renderer",
+        "Genera PDFs usando componentes JSX/CSS-like",
+        "development",
+        "react-stack",
+        "pdf",
+        "react",
+        "jsx",
+        "generator"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "redux-toolkit",
+      "name": "@reduxjs/toolkit",
+      "slug": "reduxjs-toolkit",
+      "description": "Solución oficial de Redux, inmutabilidad + DevTools",
+      "url": "https://redux-toolkit.js.org",
+      "status": "active",
+      "tags": [
+        "state",
+        "redux",
+        "official",
+        "devtools"
+      ],
+      "searchIndex": [
+        "@reduxjs/toolkit",
+        "reduxjs-toolkit",
+        "Solución oficial de Redux, inmutabilidad + DevTools",
+        "development",
+        "react-stack",
+        "state",
+        "redux",
+        "official",
+        "devtools"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "stripe-react",
+      "name": "@stripe/react-stripe-js",
+      "slug": "stripe-react-stripe-js",
+      "description": "Elementos de pago seguros, SCA/3DS",
+      "url": "https://stripe.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "stripe",
+        "secure",
+        "react"
+      ],
+      "searchIndex": [
+        "@stripe/react-stripe-js",
+        "stripe-react-stripe-js",
+        "Elementos de pago seguros, SCA/3DS",
+        "development",
+        "react-stack",
+        "payments",
+        "stripe",
+        "secure",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tanstack-table",
+      "name": "@tanstack/react-table",
+      "slug": "tanstack-react-table",
+      "description": "Headless, máximo control sobre UI y lógica",
+      "url": "https://tanstack.com/table",
+      "status": "active",
+      "tags": [
+        "tables",
+        "headless",
+        "control",
+        "react"
+      ],
+      "searchIndex": [
+        "@tanstack/react-table",
+        "tanstack-react-table",
+        "Headless, máximo control sobre UI y lógica",
+        "development",
+        "react-stack",
+        "tables",
+        "headless",
+        "control",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tanstack-virtual",
+      "name": "@tanstack/react-virtual",
+      "slug": "tanstack-react-virtual",
+      "description": "Virtualización de listas/tablas para grandes datasets",
+      "url": "https://tanstack.com/virtual",
+      "status": "active",
+      "tags": [
+        "virtualization",
+        "lists",
+        "tables",
+        "performance"
+      ],
+      "searchIndex": [
+        "@tanstack/react-virtual",
+        "tanstack-react-virtual",
+        "Virtualización de listas/tablas para grandes datasets",
+        "development",
+        "react-stack",
+        "virtualization",
+        "lists",
+        "tables",
+        "performance"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "aceternity-ui",
+      "name": "Aceternity UI",
+      "slug": "aceternity-ui",
+      "description": "Efectos visuales modernos con Framer Motion",
+      "url": "https://ui.aceternity.com",
+      "status": "active",
+      "tags": [
+        "ui",
+        "effects",
+        "motion",
+        "modern"
+      ],
+      "searchIndex": [
+        "Aceternity UI",
+        "aceternity-ui",
+        "Efectos visuales modernos con Framer Motion",
+        "design",
+        "ui-libraries",
+        "ui",
+        "effects",
+        "motion",
+        "modern"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "adobe-fonts",
+      "name": "Adobe Fonts",
+      "slug": "adobe-fonts",
+      "description": "Fuentes premium en planes gratis Adobe",
+      "url": "https://fonts.adobe.com",
+      "status": "active",
+      "tags": [
+        "fonts",
+        "premium",
+        "adobe",
+        "plans"
+      ],
+      "searchIndex": [
+        "Adobe Fonts",
+        "adobe-fonts",
+        "Fuentes premium en planes gratis Adobe",
+        "design",
+        "fonts",
+        "premium",
+        "adobe",
+        "plans"
+      ],
+      "category": "design",
+      "subcategory": "fonts",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ag-grid-react",
+      "name": "ag-grid-react",
+      "slug": "ag-grid-react",
+      "description": "Funcionalidades enterprise, virtualización",
+      "url": "https://www.ag-grid.com",
+      "status": "active",
+      "tags": [
+        "tables",
+        "enterprise",
+        "virtualization",
+        "react"
+      ],
+      "searchIndex": [
+        "ag-grid-react",
+        "Funcionalidades enterprise, virtualización",
+        "development",
+        "react-stack",
+        "tables",
+        "enterprise",
+        "virtualization",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "alg0",
+      "name": "Alg0",
+      "slug": "alg0",
+      "description": "Explicación algoritmos castellano",
+      "url": "https://www.alg0.dev",
+      "status": "active",
+      "tags": [
+        "algorithms",
+        "spanish",
+        "explanation",
+        "learning"
+      ],
+      "searchIndex": [
+        "Alg0",
+        "alg0",
+        "Explicación algoritmos castellano",
+        "development",
+        "tools",
+        "algorithms",
+        "spanish",
+        "explanation",
+        "learning"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "algorithm-visualizer",
+      "name": "Algorithm Visualizer",
+      "slug": "algorithm-visualizer",
+      "description": "Visualizador de algoritmos",
+      "url": "https://algorithm-visualizer.org",
+      "status": "active",
+      "tags": [
+        "algorithms",
+        "visualizer",
+        "learning",
+        "education"
+      ],
+      "searchIndex": [
+        "Algorithm Visualizer",
+        "algorithm-visualizer",
+        "Visualizador de algoritmos",
+        "development",
+        "tools",
+        "algorithms",
+        "visualizer",
+        "learning",
+        "education"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "angular",
+      "name": "Angular",
+      "slug": "angular",
+      "description": "Framework de desarrollo web enterprise",
+      "url": "https://angular.dev",
+      "status": "active",
+      "tags": [
+        "framework",
+        "enterprise",
+        "typescript",
+        "google"
+      ],
+      "searchIndex": [
+        "Angular",
+        "angular",
+        "Framework de desarrollo web enterprise",
+        "development",
+        "frameworks",
+        "framework",
+        "enterprise",
+        "typescript",
+        "google"
+      ],
+      "category": "development",
+      "subcategory": "frameworks",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "apollo-client",
+      "name": "Apollo Client",
+      "slug": "apollo-client",
+      "description": "Cliente oficial para GraphQL",
+      "url": "https://www.apollographql.com",
+      "status": "active",
+      "tags": [
+        "graphql",
+        "client",
+        "official",
+        "apollo"
+      ],
+      "searchIndex": [
+        "Apollo Client",
+        "apollo-client",
+        "Cliente oficial para GraphQL",
+        "development",
+        "react-stack",
+        "graphql",
+        "client",
+        "official",
+        "apollo"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ark-ui",
+      "name": "Ark UI",
+      "slug": "ark-ui",
+      "description": "Componentes headless multi-framework",
+      "url": "https://ark-ui.com",
+      "status": "active",
+      "tags": [
+        "ui",
+        "headless",
+        "multi-framework",
+        "components"
+      ],
+      "searchIndex": [
+        "Ark UI",
+        "ark-ui",
+        "Componentes headless multi-framework",
+        "design",
+        "ui-libraries",
+        "ui",
+        "headless",
+        "multi-framework",
+        "components"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "astro",
+      "name": "Astro",
+      "slug": "astro",
+      "description": "Framework web centrado en contenido",
+      "url": "https://astro.build",
+      "status": "active",
+      "tags": [
+        "framework",
+        "content",
+        "static",
+        "modern"
+      ],
+      "searchIndex": [
+        "Astro",
+        "astro",
+        "Framework web centrado en contenido",
+        "development",
+        "frameworks",
+        "framework",
+        "content",
+        "static",
+        "modern"
+      ],
+      "category": "development",
+      "subcategory": "frameworks",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "astro-themes",
+      "name": "Astro Themes",
+      "slug": "astro-themes",
+      "description": "Themes Astro gratuitos y premium",
+      "url": "https://getastrothemes.com/free-astro-themes-templates/",
+      "status": "active",
+      "tags": [
+        "astro",
+        "themes",
+        "free",
+        "premium"
+      ],
+      "searchIndex": [
+        "Astro Themes",
+        "astro-themes",
+        "Themes Astro gratuitos y premium",
+        "design",
+        "templates",
+        "astro",
+        "themes",
+        "free",
+        "premium"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "astroicon",
+      "name": "AstroIcon",
+      "slug": "astroicon",
+      "description": "Colección de iconos para Astro",
+      "url": "https://www.astroicon.dev",
+      "status": "active",
+      "tags": [
+        "icons",
+        "astro",
+        "collection",
+        "specialized"
+      ],
+      "searchIndex": [
+        "AstroIcon",
+        "astroicon",
+        "Colección de iconos para Astro",
+        "design",
+        "icons",
+        "astro",
+        "collection",
+        "specialized"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "astroship",
+      "name": "Astroship",
+      "slug": "astroship",
+      "description": "Plantilla inicio Astro Tailwind gratis",
+      "url": "https://astroship.web3templates.com",
+      "status": "active",
+      "tags": [
+        "astro",
+        "tailwind",
+        "starter",
+        "free"
+      ],
+      "searchIndex": [
+        "Astroship",
+        "astroship",
+        "Plantilla inicio Astro Tailwind gratis",
+        "design",
+        "templates",
+        "astro",
+        "tailwind",
+        "starter",
+        "free"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "authjs",
+      "name": "Auth.js (NextAuth)",
+      "slug": "auth-js-nextauth",
+      "description": "Open-source, multi-provider, adaptable",
+      "url": "https://authjs.dev",
+      "status": "active",
+      "tags": [
+        "auth",
+        "open-source",
+        "multi-provider",
+        "nextjs"
+      ],
+      "searchIndex": [
+        "Auth.js (NextAuth)",
+        "auth-js-nextauth",
+        "Open-source, multi-provider, adaptable",
+        "development",
+        "react-stack",
+        "auth",
+        "open-source",
+        "multi-provider",
+        "nextjs"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "avatar-astro-gist",
+      "name": "Avatar Astro Gist",
+      "slug": "avatar-astro-gist",
+      "description": "Ejemplo de avatar para Astro",
+      "url": "https://gist.github.com/Klerith/f86dc9e046afb6ade1c4626ef73bcda4",
+      "status": "active",
+      "tags": [
+        "ui",
+        "astro",
+        "avatar",
+        "gist"
+      ],
+      "searchIndex": [
+        "Avatar Astro Gist",
+        "avatar-astro-gist",
+        "Ejemplo de avatar para Astro",
+        "design",
+        "components",
+        "ui",
+        "astro",
+        "avatar",
+        "gist"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awwwards",
+      "name": "Awwwards",
+      "slug": "awwwards",
+      "description": "Galería de sitios web premiados, vanguardistas",
+      "url": "https://www.awwwards.com",
+      "status": "active",
+      "tags": [
+        "inspiration",
+        "awards",
+        "premium",
+        "cutting-edge"
+      ],
+      "searchIndex": [
+        "Awwwards",
+        "awwwards",
+        "Galería de sitios web premiados, vanguardistas",
+        "design",
+        "inspiration",
+        "awards",
+        "premium",
+        "cutting-edge"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "behance",
+      "name": "Behance",
+      "slug": "behance",
+      "description": "Red social Adobe para casos de estudio completos",
+      "url": "https://www.behance.net",
+      "status": "active",
+      "tags": [
+        "inspiration",
+        "adobe",
+        "case-studies",
+        "social"
+      ],
+      "searchIndex": [
+        "Behance",
+        "behance",
+        "Red social Adobe para casos de estudio completos",
+        "design",
+        "inspiration",
+        "adobe",
+        "case-studies",
+        "social"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "calltoinspiration",
+      "name": "CallToInspiration",
+      "slug": "calltoinspiration",
+      "description": "Galería CTAs para diseño web",
+      "url": "https://calltoinspiration.com",
+      "status": "active",
+      "tags": [
+        "cta",
+        "gallery",
+        "web-design",
+        "inspiration"
+      ],
+      "searchIndex": [
+        "CallToInspiration",
+        "calltoinspiration",
+        "Galería CTAs para diseño web",
+        "design",
+        "templates",
+        "cta",
+        "gallery",
+        "web-design",
+        "inspiration"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "caninclude",
+      "name": "CanInclude",
+      "slug": "caninclude",
+      "description": "Usar bien HTML",
+      "url": "https://caninclude.onrender.com",
+      "status": "active",
+      "tags": [
+        "html",
+        "validation",
+        "html5",
+        "tool"
+      ],
+      "searchIndex": [
+        "CanInclude",
+        "caninclude",
+        "Usar bien HTML",
+        "development",
+        "tools",
+        "html",
+        "validation",
+        "html5",
+        "tool"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "canva-color-wheel",
+      "name": "Canva Color Wheel",
+      "slug": "canva-color-wheel",
+      "description": "Herramienta teoría del color y combinaciones",
+      "url": "https://www.canva.com/colors/color-wheel/",
+      "status": "active",
+      "tags": [
+        "color",
+        "theory",
+        "wheel",
+        "combinations"
+      ],
+      "searchIndex": [
+        "Canva Color Wheel",
+        "canva-color-wheel",
+        "Herramienta teoría del color y combinaciones",
+        "design",
+        "color",
+        "theory",
+        "wheel",
+        "combinations"
+      ],
+      "category": "design",
+      "subcategory": "color",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "codepen",
+      "name": "CodePen",
+      "slug": "codepen",
+      "description": "Ejemplos interactivos de código frontend",
+      "url": "https://codepen.io",
+      "status": "active",
+      "tags": [
+        "ide",
+        "frontend",
+        "interactive",
+        "examples"
+      ],
+      "searchIndex": [
+        "CodePen",
+        "codepen",
+        "Ejemplos interactivos de código frontend",
+        "development",
+        "ide",
+        "frontend",
+        "interactive",
+        "examples"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "codexbar",
+      "name": "CodexBar",
+      "slug": "codexbar",
+      "description": "Barra de herramientas para Codex",
+      "url": "https://github.com/steipete/CodexBar",
+      "status": "active",
+      "tags": [
+        "toolbar",
+        "codex",
+        "extension",
+        "tools"
+      ],
+      "searchIndex": [
+        "CodexBar",
+        "codexbar",
+        "Barra de herramientas para Codex",
+        "development",
+        "extensions",
+        "toolbar",
+        "codex",
+        "extension",
+        "tools"
+      ],
+      "category": "development",
+      "subcategory": "extensions",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "collect-ui",
+      "name": "Collect UI",
+      "slug": "collect-ui",
+      "description": "Inspiración diaria organizada por patrones",
+      "url": "https://collectui.com",
+      "status": "active",
+      "tags": [
+        "inspiration",
+        "daily",
+        "patterns",
+        "organized"
+      ],
+      "searchIndex": [
+        "Collect UI",
+        "collect-ui",
+        "Inspiración diaria organizada por patrones",
+        "design",
+        "inspiration",
+        "daily",
+        "patterns",
+        "organized"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "color-hunt",
+      "name": "Color Hunt",
+      "slug": "color-hunt",
+      "description": "Paletas de colores creadas y seleccionadas por comunidad",
+      "url": "https://colorhunt.co",
+      "status": "active",
+      "tags": [
+        "color",
+        "palettes",
+        "community",
+        "curated"
+      ],
+      "searchIndex": [
+        "Color Hunt",
+        "color-hunt",
+        "Paletas de colores creadas y seleccionadas por comunidad",
+        "design",
+        "color",
+        "palettes",
+        "community",
+        "curated"
+      ],
+      "category": "design",
+      "subcategory": "color",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "coolors",
+      "name": "Coolors",
+      "slug": "coolors",
+      "description": "Generador de paletas de colores rápido e intuitivo",
+      "url": "https://coolors.co",
+      "status": "active",
+      "tags": [
+        "color",
+        "palettes",
+        "generator",
+        "fast"
+      ],
+      "searchIndex": [
+        "Coolors",
+        "coolors",
+        "Generador de paletas de colores rápido e intuitivo",
+        "design",
+        "color",
+        "palettes",
+        "generator",
+        "fast"
+      ],
+      "category": "design",
+      "subcategory": "color",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "creative-tim",
+      "name": "Creative Tim",
+      "slug": "creative-tim",
+      "description": "Componentes y plantillas Tailwind",
+      "url": "https://www.creative-tim.com",
+      "status": "active",
+      "tags": [
+        "ui",
+        "templates",
+        "tailwind",
+        "components"
+      ],
+      "searchIndex": [
+        "Creative Tim",
+        "creative-tim",
+        "Componentes y plantillas Tailwind",
+        "design",
+        "ui-libraries",
+        "ui",
+        "templates",
+        "tailwind",
+        "components"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "css-gradient",
+      "name": "CSS Gradient",
+      "slug": "css-gradient",
+      "description": "Generador visual de gradientes de color en CSS",
+      "url": "https://cssgradient.io",
+      "status": "active",
+      "tags": [
+        "color",
+        "gradients",
+        "css",
+        "visual"
+      ],
+      "searchIndex": [
+        "CSS Gradient",
+        "css-gradient",
+        "Generador visual de gradientes de color en CSS",
+        "design",
+        "color",
+        "gradients",
+        "css",
+        "visual"
+      ],
+      "category": "design",
+      "subcategory": "color",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "css-separator-gen",
+      "name": "CSS Separator Gen",
+      "slug": "css-separator-gen",
+      "description": "Generador de separadores de sección en CSS",
+      "url": "https://wweb.dev/resources/css-separator-generator",
+      "status": "active",
+      "tags": [
+        "css",
+        "separators",
+        "sections",
+        "generator"
+      ],
+      "searchIndex": [
+        "CSS Separator Gen",
+        "css-separator-gen",
+        "Generador de separadores de sección en CSS",
+        "design",
+        "color",
+        "css",
+        "separators",
+        "sections",
+        "generator"
+      ],
+      "category": "design",
+      "subcategory": "color",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "slug": "cursor",
+      "description": "Editor de código con IA integrado nativo",
+      "url": "https://cursor.com",
+      "status": "active",
+      "tags": [
+        "ide",
+        "ai",
+        "native",
+        "integrated"
+      ],
+      "searchIndex": [
+        "Cursor",
+        "cursor",
+        "Editor de código con IA integrado nativo",
+        "development",
+        "ide",
+        "ai",
+        "native",
+        "integrated"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "daisyui",
+      "name": "DaisyUI",
+      "slug": "daisyui",
+      "description": "Plugin CSS clases componentes Tailwind",
+      "url": "https://daisyui.com",
+      "status": "active",
+      "tags": [
+        "ui",
+        "tailwind",
+        "css",
+        "plugin"
+      ],
+      "searchIndex": [
+        "DaisyUI",
+        "daisyui",
+        "Plugin CSS clases componentes Tailwind",
+        "design",
+        "ui-libraries",
+        "ui",
+        "tailwind",
+        "css",
+        "plugin"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "datalore",
+      "name": "Datalore",
+      "slug": "datalore",
+      "description": "Notebooks Python colaborativos JetBrains",
+      "url": "https://datalore.jetbrains.com",
+      "status": "active",
+      "tags": [
+        "notebooks",
+        "python",
+        "collaborative",
+        "jetbrains"
+      ],
+      "searchIndex": [
+        "Datalore",
+        "datalore",
+        "Notebooks Python colaborativos JetBrains",
+        "development",
+        "ide",
+        "notebooks",
+        "python",
+        "collaborative",
+        "jetbrains"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "date-fns-dayjs",
+      "name": "date-fns / dayjs",
+      "slug": "date-fns-dayjs",
+      "description": "Manipulación de fechas, timezone, formatting",
+      "url": "https://date-fns.org",
+      "status": "active",
+      "tags": [
+        "dates",
+        "timezone",
+        "formatting",
+        "utility"
+      ],
+      "searchIndex": [
+        "date-fns / dayjs",
+        "date-fns-dayjs",
+        "Manipulación de fechas, timezone, formatting",
+        "development",
+        "react-stack",
+        "dates",
+        "timezone",
+        "formatting",
+        "utility"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "dribbble",
+      "name": "Dribbble",
+      "slug": "dribbble",
+      "description": "Red social líder para componentes UI, shots",
+      "url": "https://dribbble.com",
+      "status": "active",
+      "tags": [
+        "inspiration",
+        "ui",
+        "shots",
+        "community"
+      ],
+      "searchIndex": [
+        "Dribbble",
+        "dribbble",
+        "Red social líder para componentes UI, shots",
+        "design",
+        "inspiration",
+        "ui",
+        "shots",
+        "community"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "edrawmax",
+      "name": "EdrawMax",
+      "slug": "edrawmax",
+      "description": "creación de graficos y mapas conceptuales",
+      "url": "https://www.edrawmax.com",
+      "status": "active",
+      "tags": [
+        "diagrams",
+        "maps",
+        "conceptual",
+        "graphics"
+      ],
+      "searchIndex": [
+        "EdrawMax",
+        "edrawmax",
+        "creación de graficos y mapas conceptuales",
+        "development",
+        "tools",
+        "diagrams",
+        "maps",
+        "conceptual",
+        "graphics"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "excalidraw",
+      "name": "Excalidraw",
+      "slug": "excalidraw",
+      "description": "creacion de graficos y mapas conceptuales",
+      "url": "https://excalidraw.com",
+      "status": "active",
+      "tags": [
+        "diagrams",
+        "whiteboard",
+        "collaborative",
+        "drawing"
+      ],
+      "searchIndex": [
+        "Excalidraw",
+        "excalidraw",
+        "creacion de graficos y mapas conceptuales",
+        "development",
+        "tools",
+        "diagrams",
+        "whiteboard",
+        "collaborative",
+        "drawing"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "feather-icons",
+      "name": "Feather Icons",
+      "slug": "feather-icons",
+      "description": "Diseño minimalista, carga muy ligera",
+      "url": "https://feathericons.com",
+      "status": "active",
+      "tags": [
+        "icons",
+        "minimalist",
+        "lightweight",
+        "clean"
+      ],
+      "searchIndex": [
+        "Feather Icons",
+        "feather-icons",
+        "Diseño minimalista, carga muy ligera",
+        "design",
+        "icons",
+        "minimalist",
+        "lightweight",
+        "clean"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "flaticon",
+      "name": "Flaticon",
+      "slug": "flaticon",
+      "description": "Mayor base de datos de iconos gratuitos",
+      "url": "https://www.flaticon.com",
+      "status": "active",
+      "tags": [
+        "icons",
+        "largest-database",
+        "free",
+        "variety"
+      ],
+      "searchIndex": [
+        "Flaticon",
+        "flaticon",
+        "Mayor base de datos de iconos gratuitos",
+        "design",
+        "icons",
+        "largest-database",
+        "free",
+        "variety"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "flowbite",
+      "name": "Flowbite",
+      "slug": "flowbite",
+      "description": "Biblioteca componentes open source sólida",
+      "url": "https://flowbite.com",
+      "status": "active",
+      "tags": [
+        "ui",
+        "open-source",
+        "tailwind",
+        "components"
+      ],
+      "searchIndex": [
+        "Flowbite",
+        "flowbite",
+        "Biblioteca componentes open source sólida",
+        "design",
+        "ui-libraries",
+        "ui",
+        "open-source",
+        "tailwind",
+        "components"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "flowbite-react",
+      "name": "Flowbite React",
+      "slug": "flowbite-react",
+      "description": "Biblioteca componentes Tailwind React",
+      "url": "https://flowbite.com/react",
+      "status": "active",
+      "tags": [
+        "ui",
+        "react",
+        "tailwind",
+        "components"
+      ],
+      "searchIndex": [
+        "Flowbite React",
+        "flowbite-react",
+        "Biblioteca componentes Tailwind React",
+        "design",
+        "ui-libraries",
+        "ui",
+        "react",
+        "tailwind",
+        "components"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "font-awesome",
+      "name": "Font Awesome",
+      "slug": "font-awesome",
+      "description": "Colección más grande históricamente establecida",
+      "url": "https://fontawesome.com",
+      "status": "active",
+      "tags": [
+        "icons",
+        "largest",
+        "established",
+        "classic"
+      ],
+      "searchIndex": [
+        "Font Awesome",
+        "font-awesome",
+        "Colección más grande históricamente establecida",
+        "design",
+        "icons",
+        "largest",
+        "established",
+        "classic"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "font-squirrel",
+      "name": "Font Squirrel",
+      "slug": "font-squirrel",
+      "description": "Fuentes libres uso comercial directo",
+      "url": "https://www.fontsquirrel.com",
+      "status": "active",
+      "tags": [
+        "fonts",
+        "commercial",
+        "free",
+        "direct"
+      ],
+      "searchIndex": [
+        "Font Squirrel",
+        "font-squirrel",
+        "Fuentes libres uso comercial directo",
+        "design",
+        "fonts",
+        "commercial",
+        "free",
+        "direct"
+      ],
+      "category": "design",
+      "subcategory": "fonts",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "fontpair",
+      "name": "FontPair",
+      "slug": "fontpair",
+      "description": "Herramienta para elegir fuentes combinadas",
+      "url": "https://fontpair.co",
+      "status": "active",
+      "tags": [
+        "fonts",
+        "pairing",
+        "tool",
+        "combinations"
+      ],
+      "searchIndex": [
+        "FontPair",
+        "fontpair",
+        "Herramienta para elegir fuentes combinadas",
+        "design",
+        "fonts",
+        "pairing",
+        "tool",
+        "combinations"
+      ],
+      "category": "design",
+      "subcategory": "fonts",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "fontshare",
+      "name": "Fontshare",
+      "slug": "fontshare",
+      "description": "Colección premium gratuita de ITF",
+      "url": "https://www.fontshare.com",
+      "status": "active",
+      "tags": [
+        "fonts",
+        "premium",
+        "free",
+        "itf"
+      ],
+      "searchIndex": [
+        "Fontshare",
+        "fontshare",
+        "Colección premium gratuita de ITF",
+        "design",
+        "fonts",
+        "premium",
+        "free",
+        "itf"
+      ],
+      "category": "design",
+      "subcategory": "fonts",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "fontsource",
+      "name": "Fontsource",
+      "slug": "fontsource",
+      "description": "Librería extensa optimizada para proyectos",
+      "url": "https://fontsource.org",
+      "status": "active",
+      "tags": [
+        "fonts",
+        "optimized",
+        "projects",
+        "npm"
+      ],
+      "searchIndex": [
+        "Fontsource",
+        "fontsource",
+        "Librería extensa optimizada para proyectos",
+        "design",
+        "fonts",
+        "optimized",
+        "projects",
+        "npm"
+      ],
+      "category": "design",
+      "subcategory": "fonts",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "fontspring",
+      "name": "Fontspring",
+      "slug": "fontspring",
+      "description": "Librería extensa de licencias claras",
+      "url": "https://www.fontspring.com/free-fonts",
+      "status": "active",
+      "tags": [
+        "fonts",
+        "licenses",
+        "clear",
+        "extensive"
+      ],
+      "searchIndex": [
+        "Fontspring",
+        "fontspring",
+        "Librería extensa de licencias claras",
+        "design",
+        "fonts",
+        "licenses",
+        "clear",
+        "extensive"
+      ],
+      "category": "design",
+      "subcategory": "fonts",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "get-waves",
+      "name": "Get Waves",
+      "slug": "get-waves",
+      "description": "Generador ondas SVG para separadores y fondos",
+      "url": "https://getwaves.io",
+      "status": "active",
+      "tags": [
+        "waves",
+        "svg",
+        "separators",
+        "backgrounds"
+      ],
+      "searchIndex": [
+        "Get Waves",
+        "get-waves",
+        "Generador ondas SVG para separadores y fondos",
+        "design",
+        "color",
+        "waves",
+        "svg",
+        "separators",
+        "backgrounds"
+      ],
+      "category": "design",
+      "subcategory": "color",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "github-404-css",
+      "name": "GitHub 404 CSS",
+      "slug": "github-404-css",
+      "description": "repos github templates 404_css",
+      "url": "https://github.com/topics/404-pages?l=css",
+      "status": "active",
+      "tags": [
+        "github",
+        "404",
+        "templates",
+        "css"
+      ],
+      "searchIndex": [
+        "GitHub 404 CSS",
+        "github-404-css",
+        "repos github templates 404_css",
+        "design",
+        "templates",
+        "github",
+        "404",
+        "css"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "github-404-error",
+      "name": "GitHub 404 Error",
+      "slug": "github-404-error",
+      "description": "repos github 404 error",
+      "url": "https://github.com/topics/404-error-page?o=asc",
+      "status": "active",
+      "tags": [
+        "github",
+        "404",
+        "error",
+        "templates"
+      ],
+      "searchIndex": [
+        "GitHub 404 Error",
+        "github-404-error",
+        "repos github 404 error",
+        "design",
+        "templates",
+        "github",
+        "404",
+        "error"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "github-404-html",
+      "name": "GitHub 404 HTML",
+      "slug": "github-404-html",
+      "description": "repos github Plantillas de 404",
+      "url": "https://github.com/topics/404-template?l=html&o=desc&s=stars",
+      "status": "active",
+      "tags": [
+        "github",
+        "404",
+        "templates",
+        "html"
+      ],
+      "searchIndex": [
+        "GitHub 404 HTML",
+        "github-404-html",
+        "repos github Plantillas de 404",
+        "design",
+        "templates",
+        "github",
+        "404",
+        "html"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "github-cli",
+      "name": "GitHub CLI",
+      "slug": "github-cli",
+      "description": "Terminal para gestionar GitHub sin browser",
+      "url": "https://cli.github.com",
+      "status": "active",
+      "tags": [
+        "cli",
+        "github",
+        "terminal",
+        "management"
+      ],
+      "searchIndex": [
+        "GitHub CLI",
+        "github-cli",
+        "Terminal para gestionar GitHub sin browser",
+        "development",
+        "extensions",
+        "cli",
+        "github",
+        "terminal",
+        "management"
+      ],
+      "category": "development",
+      "subcategory": "extensions",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "github-page-custom-404",
+      "name": "GitHub Page Custom 404",
+      "slug": "github-page-custom-404",
+      "description": "github page config custom 404",
+      "url": "https://docs.github.com/es/enterprise-cloud@latest/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site",
+      "status": "active",
+      "tags": [
+        "github",
+        "pages",
+        "404",
+        "custom"
+      ],
+      "searchIndex": [
+        "GitHub Page Custom 404",
+        "github-page-custom-404",
+        "github page config custom 404",
+        "design",
+        "templates",
+        "github",
+        "pages",
+        "404",
+        "custom"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "godly",
+      "name": "Godly",
+      "slug": "godly",
+      "description": "Galería diseño web moderno, minimalista, startups",
+      "url": "https://godly.website",
+      "status": "active",
+      "tags": [
+        "inspiration",
+        "modern",
+        "minimalist",
+        "startups"
+      ],
+      "searchIndex": [
+        "Godly",
+        "godly",
+        "Galería diseño web moderno, minimalista, startups",
+        "design",
+        "inspiration",
+        "modern",
+        "minimalist",
+        "startups"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "google-fonts",
+      "name": "Google Fonts",
+      "slug": "google-fonts",
+      "description": "+1800 fuentes gratuitas con CDN global",
+      "url": "https://fonts.google.com",
+      "status": "active",
+      "tags": [
+        "fonts",
+        "free",
+        "1800",
+        "cdn"
+      ],
+      "searchIndex": [
+        "Google Fonts",
+        "google-fonts",
+        "+1800 fuentes gratuitas con CDN global",
+        "design",
+        "fonts",
+        "free",
+        "1800",
+        "cdn"
+      ],
+      "category": "design",
+      "subcategory": "fonts",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "grid-blog-page",
+      "name": "Grid Blog Page",
+      "slug": "grid-blog-page",
+      "description": "Plantilla de blog en grid",
+      "url": "https://www.creative-tim.com/twcomponents/component/grid-blog-page",
+      "status": "active",
+      "tags": [
+        "ui",
+        "tailwind",
+        "blog",
+        "grid"
+      ],
+      "searchIndex": [
+        "Grid Blog Page",
+        "grid-blog-page",
+        "Plantilla de blog en grid",
+        "design",
+        "components",
+        "ui",
+        "tailwind",
+        "blog",
+        "grid"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "gsap",
+      "name": "GSAP",
+      "slug": "gsap",
+      "description": "animaciones web JS",
+      "url": "https://gsap.com",
+      "status": "active",
+      "tags": [
+        "animation",
+        "javascript",
+        "web",
+        "gsap"
+      ],
+      "searchIndex": [
+        "GSAP",
+        "gsap",
+        "animaciones web JS",
+        "development",
+        "tools",
+        "animation",
+        "javascript",
+        "web"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "gsap-skills",
+      "name": "GSAP Skills",
+      "slug": "gsap-skills",
+      "description": "agente IA crear web animadas",
+      "url": "https://github.com/greensock/gsap-skills",
+      "status": "active",
+      "tags": [
+        "gsap",
+        "ai",
+        "agent",
+        "animations"
+      ],
+      "searchIndex": [
+        "GSAP Skills",
+        "gsap-skills",
+        "agente IA crear web animadas",
+        "development",
+        "tools",
+        "gsap",
+        "ai",
+        "agent",
+        "animations"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "haikei",
+      "name": "Haikei",
+      "slug": "haikei",
+      "description": "Generador formas, fondos y patrones SVG únicos",
+      "url": "https://haikei.app",
+      "status": "active",
+      "tags": [
+        "shapes",
+        "backgrounds",
+        "svg",
+        "patterns"
+      ],
+      "searchIndex": [
+        "Haikei",
+        "haikei",
+        "Generador formas, fondos y patrones SVG únicos",
+        "design",
+        "color",
+        "shapes",
+        "backgrounds",
+        "svg",
+        "patterns"
+      ],
+      "category": "design",
+      "subcategory": "color",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "headless-ui",
+      "name": "Headless UI",
+      "slug": "headless-ui",
+      "description": "Componentes oficiales Tailwind sin estilo",
+      "url": "https://headlessui.com",
+      "status": "active",
+      "tags": [
+        "ui",
+        "tailwind",
+        "headless",
+        "official"
+      ],
+      "searchIndex": [
+        "Headless UI",
+        "headless-ui",
+        "Componentes oficiales Tailwind sin estilo",
+        "design",
+        "ui-libraries",
+        "ui",
+        "tailwind",
+        "headless",
+        "official"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "hero-patterns",
+      "name": "Hero Patterns",
+      "slug": "hero-patterns",
+      "description": "Colección patrones fondo SVG repetibles",
+      "url": "https://heropatterns.com",
+      "status": "active",
+      "tags": [
+        "patterns",
+        "svg",
+        "backgrounds",
+        "repeatable"
+      ],
+      "searchIndex": [
+        "Hero Patterns",
+        "hero-patterns",
+        "Colección patrones fondo SVG repetibles",
+        "design",
+        "color",
+        "patterns",
+        "svg",
+        "backgrounds",
+        "repeatable"
+      ],
+      "category": "design",
+      "subcategory": "color",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "heroicons",
+      "name": "Heroicons",
+      "slug": "heroicons",
+      "description": "Integración nativa con Tailwind Labs oficial",
+      "url": "https://heroicons.com",
+      "status": "active",
+      "tags": [
+        "icons",
+        "tailwind",
+        "official",
+        "native"
+      ],
+      "searchIndex": [
+        "Heroicons",
+        "heroicons",
+        "Integración nativa con Tailwind Labs oficial",
+        "design",
+        "icons",
+        "tailwind",
+        "official",
+        "native"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "hono",
+      "name": "Hono",
+      "slug": "hono",
+      "description": "Framework web ultraligero para edge",
+      "url": "https://hono.dev",
+      "status": "active",
+      "tags": [
+        "framework",
+        "lightweight",
+        "edge",
+        "fast"
+      ],
+      "searchIndex": [
+        "Hono",
+        "hono",
+        "Framework web ultraligero para edge",
+        "development",
+        "frameworks",
+        "framework",
+        "lightweight",
+        "edge",
+        "fast"
+      ],
+      "category": "development",
+      "subcategory": "frameworks",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "html-templates",
+      "name": "HTML Templates",
+      "slug": "html-templates",
+      "description": "Plantillas HTML listas para usar",
+      "url": "https://htmltemplates.co",
+      "status": "active",
+      "tags": [
+        "html",
+        "templates",
+        "ready",
+        "ready-to-use"
+      ],
+      "searchIndex": [
+        "HTML Templates",
+        "html-templates",
+        "Plantillas HTML listas para usar",
+        "design",
+        "templates",
+        "html",
+        "ready",
+        "ready-to-use"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "htmlrev",
+      "name": "HTMLRev",
+      "slug": "htmlrev",
+      "description": "Recursos UI gratuitos y plantillas",
+      "url": "https://htmlrev.com",
+      "status": "active",
+      "tags": [
+        "ui",
+        "free",
+        "templates",
+        "resources"
+      ],
+      "searchIndex": [
+        "HTMLRev",
+        "htmlrev",
+        "Recursos UI gratuitos y plantillas",
+        "design",
+        "templates",
+        "ui",
+        "free",
+        "resources"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "hyperui",
+      "name": "HyperUI",
+      "slug": "hyperui",
+      "description": "Secciones marketing ecommerce gratis",
+      "url": "https://www.hyperui.dev",
+      "status": "active",
+      "tags": [
+        "ui",
+        "marketing",
+        "ecommerce",
+        "free"
+      ],
+      "searchIndex": [
+        "HyperUI",
+        "hyperui",
+        "Secciones marketing ecommerce gratis",
+        "design",
+        "ui-libraries",
+        "ui",
+        "marketing",
+        "ecommerce",
+        "free"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "icones",
+      "name": "Icones",
+      "slug": "icones",
+      "description": "Buscador iconos en todas las colecciones",
+      "url": "https://icones.js.org",
+      "status": "active",
+      "tags": [
+        "icons",
+        "search",
+        "all-collections",
+        "unified"
+      ],
+      "searchIndex": [
+        "Icones",
+        "icones",
+        "Buscador iconos en todas las colecciones",
+        "design",
+        "icons",
+        "search",
+        "all-collections",
+        "unified"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "iconfinder",
+      "name": "Iconfinder",
+      "slug": "iconfinder",
+      "description": "Buscador de iconos con variedad de estilos",
+      "url": "https://www.iconfinder.com",
+      "status": "active",
+      "tags": [
+        "icons",
+        "search",
+        "variety",
+        "styles"
+      ],
+      "searchIndex": [
+        "Iconfinder",
+        "iconfinder",
+        "Buscador de iconos con variedad de estilos",
+        "design",
+        "icons",
+        "search",
+        "variety",
+        "styles"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "iconify",
+      "name": "Iconify",
+      "slug": "iconify",
+      "description": "Acceso a 275K+ íconos desde fuentes múltiples",
+      "url": "https://iconify.design",
+      "status": "active",
+      "tags": [
+        "icons",
+        "275k",
+        "multi-source",
+        "unified"
+      ],
+      "searchIndex": [
+        "Iconify",
+        "iconify",
+        "Acceso a 275K+ íconos desde fuentes múltiples",
+        "design",
+        "icons",
+        "275k",
+        "multi-source",
+        "unified"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "icons0",
+      "name": "Icons0",
+      "slug": "icons0",
+      "description": "Buscador de iconos",
+      "url": "https://icons0.dev",
+      "status": "active",
+      "tags": [
+        "icons",
+        "search",
+        "finder",
+        "tool"
+      ],
+      "searchIndex": [
+        "Icons0",
+        "icons0",
+        "Buscador de iconos",
+        "development",
+        "tools",
+        "icons",
+        "search",
+        "finder",
+        "tool"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "immer",
+      "name": "immer",
+      "slug": "immer",
+      "description": "Inmutabilidad simplificada (currying/proxy)",
+      "url": "https://immerjs.github.io/immer/",
+      "status": "active",
+      "tags": [
+        "immutability",
+        "proxy",
+        "state",
+        "utility"
+      ],
+      "searchIndex": [
+        "immer",
+        "Inmutabilidad simplificada (currying/proxy)",
+        "development",
+        "react-stack",
+        "immutability",
+        "proxy",
+        "state",
+        "utility"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ionicons",
+      "name": "Ionicons",
+      "slug": "ionicons",
+      "description": "Iconos open source para web, iOS, Android",
+      "url": "https://ionic.io/ionicons",
+      "status": "active",
+      "tags": [
+        "icons",
+        "open-source",
+        "multi-platform",
+        "ionic"
+      ],
+      "searchIndex": [
+        "Ionicons",
+        "ionicons",
+        "Iconos open source para web, iOS, Android",
+        "design",
+        "icons",
+        "open-source",
+        "multi-platform",
+        "ionic"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "it-tools",
+      "name": "IT Tools",
+      "slug": "it-tools",
+      "description": "Colección herramientas de programación",
+      "url": "https://it-tools.tech",
+      "status": "active",
+      "tags": [
+        "tools",
+        "collection",
+        "programming",
+        "utility"
+      ],
+      "searchIndex": [
+        "IT Tools",
+        "it-tools",
+        "Colección herramientas de programación",
+        "development",
+        "tools",
+        "collection",
+        "programming",
+        "utility"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "jotai-valtio",
+      "name": "Jotai / Valtio",
+      "slug": "jotai-valtio",
+      "description": "Estado atómico o basado en proxy, muy minimalista",
+      "url": "https://jotai.org",
+      "status": "active",
+      "tags": [
+        "state",
+        "atomic",
+        "proxy",
+        "minimalist"
+      ],
+      "searchIndex": [
+        "Jotai / Valtio",
+        "jotai-valtio",
+        "Estado atómico o basado en proxy, muy minimalista",
+        "development",
+        "react-stack",
+        "state",
+        "atomic",
+        "proxy",
+        "minimalist"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "kokonut-ui",
+      "name": "KokonutUI",
+      "slug": "kokonutui",
+      "description": "Componentes Tailwind / Shadcn / Motion",
+      "url": "https://github.com/kokonut-labs/kokonutui",
+      "status": "active",
+      "tags": [
+        "ui",
+        "tailwind",
+        "shadcn",
+        "motion"
+      ],
+      "searchIndex": [
+        "KokonutUI",
+        "kokonutui",
+        "Componentes Tailwind / Shadcn / Motion",
+        "design",
+        "ui-libraries",
+        "ui",
+        "tailwind",
+        "shadcn",
+        "motion"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "login-form-ui",
+      "name": "Login Form UI",
+      "slug": "login-form-ui",
+      "description": "Formulario de login Tailwind",
+      "url": "https://www.creative-tim.com/twcomponents/component/login-form-ui-by-tailwindcss",
+      "status": "active",
+      "tags": [
+        "ui",
+        "tailwind",
+        "login",
+        "form"
+      ],
+      "searchIndex": [
+        "Login Form UI",
+        "login-form-ui",
+        "Formulario de login Tailwind",
+        "design",
+        "components",
+        "ui",
+        "tailwind",
+        "login",
+        "form"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "lucide-react",
+      "name": "Lucide React",
+      "slug": "lucide-react",
+      "description": "Default de shadcn/ui, moderno y accesible",
+      "url": "https://lucide.dev",
+      "status": "active",
+      "tags": [
+        "icons",
+        "react",
+        "modern",
+        "accessible"
+      ],
+      "searchIndex": [
+        "Lucide React",
+        "lucide-react",
+        "Default de shadcn/ui, moderno y accesible",
+        "design",
+        "icons",
+        "react",
+        "modern",
+        "accessible"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "magic-ui",
+      "name": "Magic UI",
+      "slug": "magic-ui",
+      "description": "Componentes landing marketing animados",
+      "url": "https://magicui.design",
+      "status": "active",
+      "tags": [
+        "ui",
+        "landing",
+        "marketing",
+        "animated"
+      ],
+      "searchIndex": [
+        "Magic UI",
+        "magic-ui",
+        "Componentes landing marketing animados",
+        "design",
+        "ui-libraries",
+        "ui",
+        "landing",
+        "marketing",
+        "animated"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "mapcn",
+      "name": "MapCN",
+      "slug": "mapcn",
+      "description": "biblioteca coleccion mapas bonitos",
+      "url": "https://github.com/AnmolSaini16/mapcn",
+      "status": "active",
+      "tags": [
+        "maps",
+        "collection",
+        "beautiful",
+        "library"
+      ],
+      "searchIndex": [
+        "MapCN",
+        "mapcn",
+        "biblioteca coleccion mapas bonitos",
+        "development",
+        "tools",
+        "maps",
+        "collection",
+        "beautiful",
+        "library"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "material-icons",
+      "name": "Material Icons",
+      "slug": "material-icons",
+      "description": "Colección de iconos de Google Material Design",
+      "url": "https://fonts.google.com/icons",
+      "status": "active",
+      "tags": [
+        "icons",
+        "google",
+        "material",
+        "official"
+      ],
+      "searchIndex": [
+        "Material Icons",
+        "material-icons",
+        "Colección de iconos de Google Material Design",
+        "design",
+        "icons",
+        "google",
+        "material",
+        "official"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "material-ui-icons",
+      "name": "Material UI Icons",
+      "slug": "material-ui-icons",
+      "description": "Íconos oficiales de Google Material Design",
+      "url": "https://mui.com/material-ui/icons/",
+      "status": "active",
+      "tags": [
+        "icons",
+        "material",
+        "google",
+        "official"
+      ],
+      "searchIndex": [
+        "Material UI Icons",
+        "material-ui-icons",
+        "Íconos oficiales de Google Material Design",
+        "design",
+        "icons",
+        "material",
+        "google",
+        "official"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "mobbin",
+      "name": "Mobbin",
+      "slug": "mobbin",
+      "description": "Biblioteca masiva flujos apps reales iOS/Android",
+      "url": "https://mobbin.com",
+      "status": "active",
+      "tags": [
+        "inspiration",
+        "mobile",
+        "flows",
+        "real-apps"
+      ],
+      "searchIndex": [
+        "Mobbin",
+        "mobbin",
+        "Biblioteca masiva flujos apps reales iOS/Android",
+        "design",
+        "inspiration",
+        "mobile",
+        "flows",
+        "real-apps"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "motion",
+      "name": "Motion",
+      "slug": "motion",
+      "description": "Biblioteca animación React moderna",
+      "url": "https://motion.dev",
+      "status": "active",
+      "tags": [
+        "animation",
+        "react",
+        "motion",
+        "modern"
+      ],
+      "searchIndex": [
+        "Motion",
+        "motion",
+        "Biblioteca animación React moderna",
+        "design",
+        "ui-libraries",
+        "animation",
+        "react",
+        "modern"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "navbar-component",
+      "name": "Navbar Component",
+      "slug": "navbar-component",
+      "description": "Otro ejemplo de navbar",
+      "url": "https://www.creative-tim.com/twcomponents/component/navbar-component",
+      "status": "active",
+      "tags": [
+        "ui",
+        "tailwind",
+        "navbar",
+        "component"
+      ],
+      "searchIndex": [
+        "Navbar Component",
+        "navbar-component",
+        "Otro ejemplo de navbar",
+        "design",
+        "components",
+        "ui",
+        "tailwind",
+        "navbar",
+        "component"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "neumorphism-io",
+      "name": "Neumorphism.io",
+      "slug": "neumorphism-io",
+      "description": "Generador CSS estilo Neumorfismo (Soft UI)",
+      "url": "https://neumorphism.io",
+      "status": "active",
+      "tags": [
+        "neumorphism",
+        "soft-ui",
+        "css",
+        "generator"
+      ],
+      "searchIndex": [
+        "Neumorphism.io",
+        "neumorphism-io",
+        "Generador CSS estilo Neumorfismo (Soft UI)",
+        "design",
+        "color",
+        "neumorphism",
+        "soft-ui",
+        "css",
+        "generator"
+      ],
+      "category": "design",
+      "subcategory": "color",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "nextjs",
+      "name": "Next.js",
+      "slug": "next-js",
+      "description": "Renderizado híbrido y edge functions",
+      "url": "https://nextjs.org",
+      "status": "active",
+      "tags": [
+        "framework",
+        "react",
+        "ssr",
+        "edge"
+      ],
+      "searchIndex": [
+        "Next.js",
+        "next-js",
+        "Renderizado híbrido y edge functions",
+        "development",
+        "frameworks",
+        "framework",
+        "react",
+        "ssr",
+        "edge"
+      ],
+      "category": "development",
+      "subcategory": "frameworks",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "nextui",
+      "name": "NextUI",
+      "slug": "nextui",
+      "description": "Componentes React bonitos y accesibles",
+      "url": "https://nextui.org",
+      "status": "active",
+      "tags": [
+        "ui",
+        "react",
+        "beautiful",
+        "accessible"
+      ],
+      "searchIndex": [
+        "NextUI",
+        "nextui",
+        "Componentes React bonitos y accesibles",
+        "design",
+        "ui-libraries",
+        "ui",
+        "react",
+        "beautiful",
+        "accessible"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "notistack",
+      "name": "notistack",
+      "slug": "notistack",
+      "description": "Snackbars avanzados, integrado con MUI",
+      "url": "https://notistack.com",
+      "status": "active",
+      "tags": [
+        "snackbars",
+        "notifications",
+        "mui",
+        "advanced"
+      ],
+      "searchIndex": [
+        "notistack",
+        "Snackbars avanzados, integrado con MUI",
+        "development",
+        "react-stack",
+        "snackbars",
+        "notifications",
+        "mui",
+        "advanced"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "npkill",
+      "name": "NPKill",
+      "slug": "npkill",
+      "description": "Eliminar node_modules antiguos de proyectos",
+      "url": "https://www.npmjs.com/package/npkill",
+      "status": "active",
+      "tags": [
+        "cleanup",
+        "node-modules",
+        "disk-space",
+        "utility"
+      ],
+      "searchIndex": [
+        "NPKill",
+        "npkill",
+        "Eliminar node_modules antiguos de proyectos",
+        "development",
+        "extensions",
+        "cleanup",
+        "node-modules",
+        "disk-space",
+        "utility"
+      ],
+      "category": "development",
+      "subcategory": "extensions",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "npm-check-updates",
+      "name": "NPM Check Updates",
+      "slug": "npm-check-updates",
+      "description": "Herramienta para actualizar deps",
+      "url": "https://www.npmjs.com/package/npm-check-updates",
+      "status": "active",
+      "tags": [
+        "npm",
+        "updates",
+        "dependencies",
+        "tool"
+      ],
+      "searchIndex": [
+        "NPM Check Updates",
+        "npm-check-updates",
+        "Herramienta para actualizar deps",
+        "development",
+        "extensions",
+        "npm",
+        "updates",
+        "dependencies",
+        "tool"
+      ],
+      "category": "development",
+      "subcategory": "extensions",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "npmx",
+      "name": "NPMX",
+      "slug": "npmx",
+      "description": "Buscador de paquetes npm alternativo",
+      "url": "https://npmx.dev",
+      "status": "active",
+      "tags": [
+        "npm",
+        "search",
+        "packages",
+        "alternative"
+      ],
+      "searchIndex": [
+        "NPMX",
+        "npmx",
+        "Buscador de paquetes npm alternativo",
+        "development",
+        "extensions",
+        "npm",
+        "search",
+        "packages",
+        "alternative"
+      ],
+      "category": "development",
+      "subcategory": "extensions",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "nuxt",
+      "name": "Nuxt",
+      "slug": "nuxt",
+      "description": "Framework Vue para producción",
+      "url": "https://nuxt.com",
+      "status": "active",
+      "tags": [
+        "framework",
+        "vue",
+        "production",
+        "ssr"
+      ],
+      "searchIndex": [
+        "Nuxt",
+        "nuxt",
+        "Framework Vue para producción",
+        "development",
+        "frameworks",
+        "framework",
+        "vue",
+        "production",
+        "ssr"
+      ],
+      "category": "development",
+      "subcategory": "frameworks",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pagina-author-gist",
+      "name": "Pagina Author Gist",
+      "slug": "pagina-author-gist",
+      "description": "Ejemplo de pagina de autor",
+      "url": "https://gist.github.com/Klerith/e754477e54c7393820c066f95f91f9ef",
+      "status": "active",
+      "tags": [
+        "ui",
+        "gist",
+        "author",
+        "page"
+      ],
+      "searchIndex": [
+        "Pagina Author Gist",
+        "pagina-author-gist",
+        "Ejemplo de pagina de autor",
+        "design",
+        "components",
+        "ui",
+        "gist",
+        "author",
+        "page"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "phosphor-icons",
+      "name": "Phosphor Icons",
+      "slug": "phosphor-icons",
+      "description": "9000+ íconos estilo flexible para dashboards",
+      "url": "https://phosphoricons.com",
+      "status": "active",
+      "tags": [
+        "icons",
+        "flexible",
+        "dashboard",
+        "9000"
+      ],
+      "searchIndex": [
+        "Phosphor Icons",
+        "phosphor-icons",
+        "9000+ íconos estilo flexible para dashboards",
+        "design",
+        "icons",
+        "flexible",
+        "dashboard",
+        "9000"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pixel-agents",
+      "name": "Pixel Agents",
+      "slug": "pixel-agents",
+      "description": "Agentes IA pixel art en VS Code",
+      "url": "https://marketplace.visualstudio.com/items?itemName=pablodelucca.pixel-agents",
+      "status": "active",
+      "tags": [
+        "ai",
+        "pixel-art",
+        "vscode",
+        "extension"
+      ],
+      "searchIndex": [
+        "Pixel Agents",
+        "pixel-agents",
+        "Agentes IA pixel art en VS Code",
+        "development",
+        "extensions",
+        "ai",
+        "pixel-art",
+        "vscode",
+        "extension"
+      ],
+      "category": "development",
+      "subcategory": "extensions",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "port-kill",
+      "name": "Port Kill",
+      "slug": "port-kill",
+      "description": "Matar puertos ocupados",
+      "url": "https://portkill.com",
+      "status": "active",
+      "tags": [
+        "ports",
+        "kill",
+        "utility",
+        "terminal"
+      ],
+      "searchIndex": [
+        "Port Kill",
+        "port-kill",
+        "Matar puertos ocupados",
+        "development",
+        "tools",
+        "ports",
+        "kill",
+        "utility",
+        "terminal"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pragmatic-drag-drop",
+      "name": "Pragmatic Drag and Drop",
+      "slug": "pragmatic-drag-and-drop",
+      "description": "biblioteca drag and drop",
+      "url": "https://github.com/atlassian/pragmatic-drag-and-drop",
+      "status": "active",
+      "tags": [
+        "drag-drop",
+        "library",
+        "atlassian",
+        "interaction"
+      ],
+      "searchIndex": [
+        "Pragmatic Drag and Drop",
+        "pragmatic-drag-and-drop",
+        "biblioteca drag and drop",
+        "development",
+        "tools",
+        "drag-drop",
+        "library",
+        "atlassian",
+        "interaction"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "preline-ui",
+      "name": "Preline UI",
+      "slug": "preline-ui",
+      "description": "Componentes UI Tailwind responsivos",
+      "url": "https://preline.co",
+      "status": "active",
+      "tags": [
+        "ui",
+        "tailwind",
+        "responsive",
+        "components"
+      ],
+      "searchIndex": [
+        "Preline UI",
+        "preline-ui",
+        "Componentes UI Tailwind responsivos",
+        "design",
+        "ui-libraries",
+        "ui",
+        "tailwind",
+        "responsive",
+        "components"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "profile-card-13",
+      "name": "Profile Card 13",
+      "slug": "profile-card-13",
+      "description": "Ejemplo tarjeta o credit card UI",
+      "url": "https://www.creative-tim.com/twcomponents/component/profile-card-13",
+      "status": "active",
+      "tags": [
+        "ui",
+        "tailwind",
+        "card",
+        "component"
+      ],
+      "searchIndex": [
+        "Profile Card 13",
+        "profile-card-13",
+        "Ejemplo tarjeta o credit card UI",
+        "design",
+        "components",
+        "ui",
+        "tailwind",
+        "card",
+        "component"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "profile-card-template",
+      "name": "Profile Card Template",
+      "slug": "profile-card-template",
+      "description": "Tarjeta de perfil con Tailwind",
+      "url": "https://www.creative-tim.com/twcomponents/component/creating-a-simple-profile-card-with-tailwind-css",
+      "status": "active",
+      "tags": [
+        "ui",
+        "tailwind",
+        "profile-card",
+        "component"
+      ],
+      "searchIndex": [
+        "Profile Card Template",
+        "profile-card-template",
+        "Tarjeta de perfil con Tailwind",
+        "design",
+        "components",
+        "ui",
+        "tailwind",
+        "profile-card",
+        "component"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pttrns",
+      "name": "Pttrns",
+      "slug": "pttrns",
+      "description": "Biblioteca patrones diseño móvil por flujo",
+      "url": "https://pttrns.com",
+      "status": "active",
+      "tags": [
+        "inspiration",
+        "mobile",
+        "patterns",
+        "flows"
+      ],
+      "searchIndex": [
+        "Pttrns",
+        "pttrns",
+        "Biblioteca patrones diseño móvil por flujo",
+        "design",
+        "inspiration",
+        "mobile",
+        "patterns",
+        "flows"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "radix-ui",
+      "name": "Radix UI",
+      "slug": "radix-ui",
+      "description": "Primitivos accesibles sin estilos base",
+      "url": "https://www.radix-ui.com",
+      "status": "active",
+      "tags": [
+        "ui",
+        "accessible",
+        "primitives",
+        "headless"
+      ],
+      "searchIndex": [
+        "Radix UI",
+        "radix-ui",
+        "Primitivos accesibles sin estilos base",
+        "design",
+        "ui-libraries",
+        "ui",
+        "accessible",
+        "primitives",
+        "headless"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "slug": "react",
+      "description": "Biblioteca UI basada en componentes",
+      "url": "https://react.dev",
+      "status": "active",
+      "tags": [
+        "library",
+        "ui",
+        "components",
+        "frontend"
+      ],
+      "searchIndex": [
+        "React",
+        "react",
+        "Biblioteca UI basada en componentes",
+        "development",
+        "frameworks",
+        "library",
+        "ui",
+        "components",
+        "frontend"
+      ],
+      "category": "development",
+      "subcategory": "frameworks",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-aria",
+      "name": "React Aria",
+      "slug": "react-aria",
+      "description": "Hooks accesibilidad Adobe sin estilos",
+      "url": "https://react-spectrum.adobe.com/react-aria",
+      "status": "active",
+      "tags": [
+        "ui",
+        "accessibility",
+        "hooks",
+        "adobe"
+      ],
+      "searchIndex": [
+        "React Aria",
+        "react-aria",
+        "Hooks accesibilidad Adobe sin estilos",
+        "design",
+        "ui-libraries",
+        "ui",
+        "accessibility",
+        "hooks",
+        "adobe"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-doctor",
+      "name": "React Doctor",
+      "slug": "react-doctor",
+      "description": "Optimiza código React",
+      "url": "https://www.react.doctor",
+      "status": "active",
+      "tags": [
+        "react",
+        "optimization",
+        "code",
+        "tool"
+      ],
+      "searchIndex": [
+        "React Doctor",
+        "react-doctor",
+        "Optimiza código React",
+        "development",
+        "tools",
+        "react",
+        "optimization",
+        "code",
+        "tool"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-hook-form",
+      "name": "React Hook Form",
+      "slug": "react-hook-form",
+      "description": "Rendimiento alto, controlado por refs",
+      "url": "https://react-hook-form.com",
+      "status": "active",
+      "tags": [
+        "forms",
+        "react",
+        "performance",
+        "refs"
+      ],
+      "searchIndex": [
+        "React Hook Form",
+        "react-hook-form",
+        "Rendimiento alto, controlado por refs",
+        "development",
+        "react-stack",
+        "forms",
+        "react",
+        "performance",
+        "refs"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-icons",
+      "name": "React Icons",
+      "slug": "react-icons",
+      "description": "Múltiples librerías en una sola API unificada",
+      "url": "https://react-icons.github.io/react-icons/",
+      "status": "active",
+      "tags": [
+        "icons",
+        "react",
+        "library",
+        "unified"
+      ],
+      "searchIndex": [
+        "React Icons",
+        "react-icons",
+        "Múltiples librerías en una sola API unificada",
+        "design",
+        "icons",
+        "react",
+        "library",
+        "unified"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-chartjs-2",
+      "name": "react-chartjs-2",
+      "slug": "react-chartjs-2",
+      "description": "Wrapper oficial de Chart.js",
+      "url": "https://react-chartjs-2.js.org",
+      "status": "active",
+      "tags": [
+        "charts",
+        "chartjs",
+        "wrapper",
+        "official"
+      ],
+      "searchIndex": [
+        "react-chartjs-2",
+        "Wrapper oficial de Chart.js",
+        "development",
+        "react-stack",
+        "charts",
+        "chartjs",
+        "wrapper",
+        "official"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-hot-toast",
+      "name": "react-hot-toast",
+      "slug": "react-hot-toast",
+      "description": "Ligero, API simple, muy estable",
+      "url": "https://react-hot-toast.com",
+      "status": "active",
+      "tags": [
+        "toasts",
+        "notifications",
+        "lightweight",
+        "stable"
+      ],
+      "searchIndex": [
+        "react-hot-toast",
+        "Ligero, API simple, muy estable",
+        "development",
+        "react-stack",
+        "toasts",
+        "notifications",
+        "lightweight",
+        "stable"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-pdf-viewer",
+      "name": "react-pdf",
+      "slug": "react-pdf",
+      "description": "Visualizador de PDFs en navegador con React",
+      "url": "https://github.com/wojtekmaj/react-pdf",
+      "status": "active",
+      "tags": [
+        "pdf",
+        "viewer",
+        "react",
+        "browser"
+      ],
+      "searchIndex": [
+        "react-pdf",
+        "Visualizador de PDFs en navegador con React",
+        "development",
+        "react-stack",
+        "pdf",
+        "viewer",
+        "react",
+        "browser"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "recharts",
+      "name": "Recharts",
+      "slug": "recharts",
+      "description": "Basado en D3, declarativo, ligero y reactivo",
+      "url": "https://recharts.org",
+      "status": "active",
+      "tags": [
+        "charts",
+        "d3",
+        "declarative",
+        "reactive"
+      ],
+      "searchIndex": [
+        "Recharts",
+        "recharts",
+        "Basado en D3, declarativo, ligero y reactivo",
+        "development",
+        "react-stack",
+        "charts",
+        "d3",
+        "declarative",
+        "reactive"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "refero",
+      "name": "Refero",
+      "slug": "refero",
+      "description": "Plataforma inspiración y biblioteca referencias UX/UI",
+      "url": "https://refero.design",
+      "status": "active",
+      "tags": [
+        "inspiration",
+        "library",
+        "references",
+        "ux-ui"
+      ],
+      "searchIndex": [
+        "Refero",
+        "refero",
+        "Plataforma inspiración y biblioteca referencias UX/UI",
+        "design",
+        "inspiration",
+        "library",
+        "references",
+        "ux-ui"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "remix",
+      "name": "Remix",
+      "slug": "remix",
+      "description": "Framework React full-stack moderno",
+      "url": "https://remix.run",
+      "status": "active",
+      "tags": [
+        "framework",
+        "react",
+        "fullstack",
+        "modern"
+      ],
+      "searchIndex": [
+        "Remix",
+        "remix",
+        "Framework React full-stack moderno",
+        "development",
+        "frameworks",
+        "framework",
+        "react",
+        "fullstack",
+        "modern"
+      ],
+      "category": "development",
+      "subcategory": "frameworks",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "remix-icons",
+      "name": "Remix Icons",
+      "slug": "remix-icons",
+      "description": "Estética moderna optimizada para desarrolladores",
+      "url": "https://remixicon.com",
+      "status": "active",
+      "tags": [
+        "icons",
+        "modern",
+        "developer",
+        "optimized"
+      ],
+      "searchIndex": [
+        "Remix Icons",
+        "remix-icons",
+        "Estética moderna optimizada para desarrolladores",
+        "design",
+        "icons",
+        "modern",
+        "developer",
+        "optimized"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "replit",
+      "name": "Replit",
+      "slug": "replit",
+      "description": "IDE cloud multi-lenguaje gratis colaborativo",
+      "url": "https://replit.com",
+      "status": "active",
+      "tags": [
+        "ide",
+        "cloud",
+        "multi-language",
+        "collaborative"
+      ],
+      "searchIndex": [
+        "Replit",
+        "replit",
+        "IDE cloud multi-lenguaje gratis colaborativo",
+        "development",
+        "ide",
+        "cloud",
+        "multi-language",
+        "collaborative"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "rising-stars-js-2025",
+      "name": "Rising Stars JS 2025",
+      "slug": "rising-stars-js-2025",
+      "description": "Ranking de frameworks JS",
+      "url": "https://risingstars.js.org/2025/es",
+      "status": "active",
+      "tags": [
+        "javascript",
+        "frameworks",
+        "ranking",
+        "2025"
+      ],
+      "searchIndex": [
+        "Rising Stars JS 2025",
+        "rising-stars-js-2025",
+        "Ranking de frameworks JS",
+        "development",
+        "tools",
+        "javascript",
+        "frameworks",
+        "ranking",
+        "2025"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "screenlane",
+      "name": "Screenlane",
+      "slug": "screenlane",
+      "description": "Capturas interfaces móviles recientes filtradas",
+      "url": "https://screenlane.com",
+      "status": "active",
+      "tags": [
+        "inspiration",
+        "mobile",
+        "screenshots",
+        "filtered"
+      ],
+      "searchIndex": [
+        "Screenlane",
+        "screenlane",
+        "Capturas interfaces móviles recientes filtradas",
+        "design",
+        "inspiration",
+        "mobile",
+        "screenshots",
+        "filtered"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "scrollxui",
+      "name": "ScrollXUI",
+      "slug": "scrollxui",
+      "description": "Biblioteca motion scroll con Tailwind",
+      "url": "https://scrollxui.dev",
+      "status": "active",
+      "tags": [
+        "ui",
+        "scroll",
+        "motion",
+        "tailwind"
+      ],
+      "searchIndex": [
+        "ScrollXUI",
+        "scrollxui",
+        "Biblioteca motion scroll con Tailwind",
+        "design",
+        "ui-libraries",
+        "ui",
+        "scroll",
+        "motion",
+        "tailwind"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "shadcn-ui",
+      "name": "Shadcn/UI",
+      "slug": "shadcn-ui",
+      "description": "Componentes accesibles copy-paste con CLI",
+      "url": "https://ui.shadcn.com",
+      "status": "active",
+      "tags": [
+        "ui",
+        "components",
+        "tailwind",
+        "accessible",
+        "cli"
+      ],
+      "searchIndex": [
+        "Shadcn/UI",
+        "shadcn-ui",
+        "Componentes accesibles copy-paste con CLI",
+        "design",
+        "ui-libraries",
+        "ui",
+        "components",
+        "tailwind",
+        "accessible",
+        "cli"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "shipfree",
+      "name": "ShipFree",
+      "slug": "shipfree",
+      "description": "Plantilla ecommerce shop Next.js full repo",
+      "url": "https://shipfree.revoks.dev",
+      "status": "active",
+      "tags": [
+        "ecommerce",
+        "nextjs",
+        "shop",
+        "full-repo"
+      ],
+      "searchIndex": [
+        "ShipFree",
+        "shipfree",
+        "Plantilla ecommerce shop Next.js full repo",
+        "design",
+        "templates",
+        "ecommerce",
+        "nextjs",
+        "shop",
+        "full-repo"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "shipfree-repo",
+      "name": "ShipFree Repo",
+      "slug": "shipfree-repo",
+      "description": "plantilla ecommerce shop next full repo",
+      "url": "https://github.com/revokslab/shipfree",
+      "status": "active",
+      "tags": [
+        "ecommerce",
+        "nextjs",
+        "github",
+        "repository"
+      ],
+      "searchIndex": [
+        "ShipFree Repo",
+        "shipfree-repo",
+        "plantilla ecommerce shop next full repo",
+        "design",
+        "templates",
+        "ecommerce",
+        "nextjs",
+        "github",
+        "repository"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "sileo-toast",
+      "name": "Sileo Toast",
+      "slug": "sileo-toast",
+      "description": "Notificaciones React bonitas",
+      "url": "https://sileo.aaryan.design",
+      "status": "active",
+      "tags": [
+        "react",
+        "notifications",
+        "toast",
+        "ui"
+      ],
+      "searchIndex": [
+        "Sileo Toast",
+        "sileo-toast",
+        "Notificaciones React bonitas",
+        "development",
+        "tools",
+        "react",
+        "notifications",
+        "toast",
+        "ui"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "simple-icons",
+      "name": "Simple Icons",
+      "slug": "simple-icons",
+      "description": "Miles de iconos SVG para marcas populares",
+      "url": "https://simpleicons.org",
+      "status": "active",
+      "tags": [
+        "icons",
+        "brands",
+        "svg",
+        "popular"
+      ],
+      "searchIndex": [
+        "Simple Icons",
+        "simple-icons",
+        "Miles de iconos SVG para marcas populares",
+        "design",
+        "icons",
+        "brands",
+        "svg",
+        "popular"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "simple-navbar",
+      "name": "Simple Navbar",
+      "slug": "simple-navbar",
+      "description": "Ejemplo de navbar Tailwind",
+      "url": "https://www.creative-tim.com/twcomponents/component/simple-navbar-3",
+      "status": "active",
+      "tags": [
+        "ui",
+        "tailwind",
+        "navbar",
+        "component"
+      ],
+      "searchIndex": [
+        "Simple Navbar",
+        "simple-navbar",
+        "Ejemplo de navbar Tailwind",
+        "design",
+        "components",
+        "ui",
+        "tailwind",
+        "navbar",
+        "component"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "siteinspire",
+      "name": "SiteInspire",
+      "slug": "siteinspire",
+      "description": "Galería curada diseño web limpio y funcional",
+      "url": "https://www.siteinspire.com",
+      "status": "active",
+      "tags": [
+        "inspiration",
+        "curated",
+        "clean",
+        "functional"
+      ],
+      "searchIndex": [
+        "SiteInspire",
+        "siteinspire",
+        "Galería curada diseño web limpio y funcional",
+        "design",
+        "inspiration",
+        "curated",
+        "clean",
+        "functional"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "solidjs",
+      "name": "SolidJS",
+      "slug": "solidjs",
+      "description": "Framework UI reactividad compilada",
+      "url": "https://www.solidjs.com",
+      "status": "active",
+      "tags": [
+        "framework",
+        "reactivity",
+        "compiled",
+        "performance"
+      ],
+      "searchIndex": [
+        "SolidJS",
+        "solidjs",
+        "Framework UI reactividad compilada",
+        "development",
+        "frameworks",
+        "framework",
+        "reactivity",
+        "compiled",
+        "performance"
+      ],
+      "category": "development",
+      "subcategory": "frameworks",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "sonner",
+      "name": "Sonner",
+      "slug": "sonner",
+      "description": "Toasts modernos, accesibles, animaciones suaves",
+      "url": "https://sonner.emilkowalski.ski",
+      "status": "active",
+      "tags": [
+        "toasts",
+        "notifications",
+        "modern",
+        "accessible"
+      ],
+      "searchIndex": [
+        "Sonner",
+        "sonner",
+        "Toasts modernos, accesibles, animaciones suaves",
+        "development",
+        "react-stack",
+        "toasts",
+        "notifications",
+        "modern",
+        "accessible"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "stackblitz",
+      "name": "StackBlitz",
+      "slug": "stackblitz",
+      "description": "IDE web para full-stack JS/TS en navegador",
+      "url": "https://stackblitz.com",
+      "status": "active",
+      "tags": [
+        "ide",
+        "web",
+        "fullstack",
+        "browser"
+      ],
+      "searchIndex": [
+        "StackBlitz",
+        "stackblitz",
+        "IDE web para full-stack JS/TS en navegador",
+        "development",
+        "ide",
+        "web",
+        "fullstack",
+        "browser"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "starterindex",
+      "name": "StarterIndex",
+      "slug": "starterindex",
+      "description": "Plantillas webs organizadas por categoría",
+      "url": "https://starterindex.com",
+      "status": "active",
+      "tags": [
+        "templates",
+        "organized",
+        "categories",
+        "web"
+      ],
+      "searchIndex": [
+        "StarterIndex",
+        "starterindex",
+        "Plantillas webs organizadas por categoría",
+        "design",
+        "templates",
+        "organized",
+        "categories",
+        "web"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "starwind",
+      "name": "Starwind",
+      "slug": "starwind",
+      "description": "Componentes y recursos UI para Astro",
+      "url": "https://starwind.dev",
+      "status": "active",
+      "tags": [
+        "ui",
+        "astro",
+        "components",
+        "resources"
+      ],
+      "searchIndex": [
+        "Starwind",
+        "starwind",
+        "Componentes y recursos UI para Astro",
+        "design",
+        "ui-libraries",
+        "ui",
+        "astro",
+        "components",
+        "resources"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "svelte",
+      "name": "Svelte",
+      "slug": "svelte",
+      "description": "Compilador que elimina virtual DOM",
+      "url": "https://svelte.dev",
+      "status": "active",
+      "tags": [
+        "framework",
+        "compiler",
+        "no-vdom",
+        "lightweight"
+      ],
+      "searchIndex": [
+        "Svelte",
+        "svelte",
+        "Compilador que elimina virtual DOM",
+        "development",
+        "frameworks",
+        "framework",
+        "compiler",
+        "no-vdom",
+        "lightweight"
+      ],
+      "category": "development",
+      "subcategory": "frameworks",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "svg-backgrounds",
+      "name": "SVG Backgrounds",
+      "slug": "svg-backgrounds",
+      "description": "Colección fondos y patrones SVG gratuitos",
+      "url": "https://www.svgbackgrounds.com",
+      "status": "active",
+      "tags": [
+        "svg",
+        "backgrounds",
+        "patterns",
+        "free"
+      ],
+      "searchIndex": [
+        "SVG Backgrounds",
+        "svg-backgrounds",
+        "Colección fondos y patrones SVG gratuitos",
+        "design",
+        "color",
+        "svg",
+        "backgrounds",
+        "patterns",
+        "free"
+      ],
+      "category": "design",
+      "subcategory": "color",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "svg-repo",
+      "name": "SVG Repo",
+      "slug": "svg-repo",
+      "description": "Colección vectores e iconos SVG gratuitos",
+      "url": "https://www.svgrepo.com",
+      "status": "active",
+      "tags": [
+        "icons",
+        "svg",
+        "vectors",
+        "free"
+      ],
+      "searchIndex": [
+        "SVG Repo",
+        "svg-repo",
+        "Colección vectores e iconos SVG gratuitos",
+        "design",
+        "icons",
+        "svg",
+        "vectors",
+        "free"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "svgl",
+      "name": "SVGL",
+      "slug": "svgl",
+      "description": "Colección SVG",
+      "url": "https://svgl.app",
+      "status": "active",
+      "tags": [
+        "svg",
+        "collection",
+        "library",
+        "resources"
+      ],
+      "searchIndex": [
+        "SVGL",
+        "svgl",
+        "Colección SVG",
+        "development",
+        "tools",
+        "svg",
+        "collection",
+        "library",
+        "resources"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "swr",
+      "name": "SWR",
+      "slug": "swr",
+      "description": "Fetching ligero de Vercel, ideal para Next.js",
+      "url": "https://swr.vercel.app",
+      "status": "active",
+      "tags": [
+        "data-fetching",
+        "vercel",
+        "lightweight",
+        "nextjs"
+      ],
+      "searchIndex": [
+        "SWR",
+        "swr",
+        "Fetching ligero de Vercel, ideal para Next.js",
+        "development",
+        "react-stack",
+        "data-fetching",
+        "vercel",
+        "lightweight",
+        "nextjs"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tabler-icons",
+      "name": "Tabler Icons",
+      "slug": "tabler-icons",
+      "description": "Open source consistente y limpio, 4950+ íconos",
+      "url": "https://tabler.io/icons",
+      "status": "active",
+      "tags": [
+        "icons",
+        "open-source",
+        "clean",
+        "4950"
+      ],
+      "searchIndex": [
+        "Tabler Icons",
+        "tabler-icons",
+        "Open source consistente y limpio, 4950+ íconos",
+        "design",
+        "icons",
+        "open-source",
+        "clean",
+        "4950"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tailkits",
+      "name": "Tailkits",
+      "slug": "tailkits",
+      "description": "Biblioteca React, Tailwind CSS, Motion",
+      "url": "https://tailkits.com",
+      "status": "active",
+      "tags": [
+        "ui",
+        "react",
+        "tailwind",
+        "motion"
+      ],
+      "searchIndex": [
+        "Tailkits",
+        "tailkits",
+        "Biblioteca React, Tailwind CSS, Motion",
+        "design",
+        "ui-libraries",
+        "ui",
+        "react",
+        "tailwind",
+        "motion"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tailwind-animate",
+      "name": "Tailwind Animate",
+      "slug": "tailwind-animate",
+      "description": "Animaciones predefinidas para Tailwind CSS",
+      "url": "https://www.npmjs.com/package/tailwind-animate",
+      "status": "active",
+      "tags": [
+        "animation",
+        "tailwind",
+        "css",
+        "predefined"
+      ],
+      "searchIndex": [
+        "Tailwind Animate",
+        "tailwind-animate",
+        "Animaciones predefinidas para Tailwind CSS",
+        "design",
+        "ui-libraries",
+        "animation",
+        "tailwind",
+        "css",
+        "predefined"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tailwind-css",
+      "name": "Tailwind CSS",
+      "slug": "tailwind-css",
+      "description": "Utility-first CSS rápido y personalizable",
+      "url": "https://tailwindcss.com",
+      "status": "active",
+      "tags": [
+        "css",
+        "utility-first",
+        "customizable",
+        "fast"
+      ],
+      "searchIndex": [
+        "Tailwind CSS",
+        "tailwind-css",
+        "Utility-first CSS rápido y personalizable",
+        "development",
+        "frameworks",
+        "css",
+        "utility-first",
+        "customizable",
+        "fast"
+      ],
+      "category": "development",
+      "subcategory": "frameworks",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tanstack-form",
+      "name": "TanStack Form",
+      "slug": "tanstack-form",
+      "description": "Formularios avanzados y tipados",
+      "url": "https://tanstack.com/form",
+      "status": "active",
+      "tags": [
+        "forms",
+        "typescript",
+        "advanced",
+        "typed"
+      ],
+      "searchIndex": [
+        "TanStack Form",
+        "tanstack-form",
+        "Formularios avanzados y tipados",
+        "development",
+        "react-stack",
+        "forms",
+        "typescript",
+        "advanced",
+        "typed"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tanstack-query",
+      "name": "TanStack Query",
+      "slug": "tanstack-query",
+      "description": "Caché, sincronización, reintentos, paginación",
+      "url": "https://tanstack.com/query",
+      "status": "active",
+      "tags": [
+        "data-fetching",
+        "cache",
+        "sync",
+        "pagination"
+      ],
+      "searchIndex": [
+        "TanStack Query",
+        "tanstack-query",
+        "Caché, sincronización, reintentos, paginación",
+        "development",
+        "react-stack",
+        "data-fetching",
+        "cache",
+        "sync",
+        "pagination"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "templates-404",
+      "name": "Templates 404",
+      "slug": "templates-404",
+      "description": "Plantillas de páginas 404 personalizadas",
+      "url": "https://dev.to/stackfindover/35-html-404-page-templates-5bge",
+      "status": "active",
+      "tags": [
+        "templates",
+        "404",
+        "custom",
+        "html"
+      ],
+      "searchIndex": [
+        "Templates 404",
+        "templates-404",
+        "Plantillas de páginas 404 personalizadas",
+        "design",
+        "templates",
+        "404",
+        "custom",
+        "html"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tremor",
+      "name": "Tremor",
+      "slug": "tremor",
+      "description": "Componentes dashboards métricas React",
+      "url": "https://www.tremor.so",
+      "status": "active",
+      "tags": [
+        "ui",
+        "dashboard",
+        "metrics",
+        "react"
+      ],
+      "searchIndex": [
+        "Tremor",
+        "tremor",
+        "Componentes dashboards métricas React",
+        "design",
+        "ui-libraries",
+        "ui",
+        "dashboard",
+        "metrics",
+        "react"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ui-sources",
+      "name": "UI Sources",
+      "slug": "ui-sources",
+      "description": "Enfoque en interacción, micro-interacciones UX",
+      "url": "https://www.uisources.com",
+      "status": "active",
+      "tags": [
+        "inspiration",
+        "interaction",
+        "micro-interactions",
+        "ux"
+      ],
+      "searchIndex": [
+        "UI Sources",
+        "ui-sources",
+        "Enfoque en interacción, micro-interacciones UX",
+        "design",
+        "inspiration",
+        "interaction",
+        "micro-interactions",
+        "ux"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "uideck",
+      "name": "UIdeck",
+      "slug": "uideck",
+      "description": "Plantillas UI y componentes web",
+      "url": "https://uideck.com",
+      "status": "active",
+      "tags": [
+        "ui",
+        "templates",
+        "components",
+        "web"
+      ],
+      "searchIndex": [
+        "UIdeck",
+        "uideck",
+        "Plantillas UI y componentes web",
+        "design",
+        "templates",
+        "ui",
+        "components",
+        "web"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "vector-logo-zone",
+      "name": "Vector Logo Zone",
+      "slug": "vector-logo-zone",
+      "description": "Logotipos de marcas populares en SVG",
+      "url": "https://www.vectorlogo.zone",
+      "status": "active",
+      "tags": [
+        "logos",
+        "brands",
+        "svg",
+        "popular"
+      ],
+      "searchIndex": [
+        "Vector Logo Zone",
+        "vector-logo-zone",
+        "Logotipos de marcas populares en SVG",
+        "design",
+        "icons",
+        "logos",
+        "brands",
+        "svg",
+        "popular"
+      ],
+      "category": "design",
+      "subcategory": "icons",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "vscode",
+      "name": "VS Code",
+      "slug": "vs-code",
+      "description": "Editor de código gratuito Microsoft",
+      "url": "https://code.visualstudio.com",
+      "status": "active",
+      "tags": [
+        "ide",
+        "editor",
+        "microsoft",
+        "free"
+      ],
+      "searchIndex": [
+        "VS Code",
+        "vs-code",
+        "Editor de código gratuito Microsoft",
+        "development",
+        "ide",
+        "editor",
+        "microsoft",
+        "free"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "vue",
+      "name": "Vue",
+      "slug": "vue",
+      "description": "Framework progresivo de JavaScript",
+      "url": "https://vuejs.org",
+      "status": "active",
+      "tags": [
+        "framework",
+        "progressive",
+        "javascript",
+        "frontend"
+      ],
+      "searchIndex": [
+        "Vue",
+        "vue",
+        "Framework progresivo de JavaScript",
+        "development",
+        "frameworks",
+        "framework",
+        "progressive",
+        "javascript",
+        "frontend"
+      ],
+      "category": "development",
+      "subcategory": "frameworks",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "webstorm",
+      "name": "WebStorm",
+      "slug": "webstorm",
+      "description": "IDE JetBrains para JS/TS con features avanzadas",
+      "url": "https://www.jetbrains.com/webstorm/",
+      "status": "active",
+      "tags": [
+        "ide",
+        "jetbrains",
+        "javascript",
+        "typescript"
+      ],
+      "searchIndex": [
+        "WebStorm",
+        "webstorm",
+        "IDE JetBrains para JS/TS con features avanzadas",
+        "development",
+        "ide",
+        "jetbrains",
+        "javascript",
+        "typescript"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "windmill-dashboard",
+      "name": "Windmill Dashboard",
+      "slug": "windmill-dashboard",
+      "description": "Dashboard React Tailwind completo",
+      "url": "https://windmilldashboard.com",
+      "status": "active",
+      "tags": [
+        "dashboard",
+        "react",
+        "tailwind",
+        "complete"
+      ],
+      "searchIndex": [
+        "Windmill Dashboard",
+        "windmill-dashboard",
+        "Dashboard React Tailwind completo",
+        "design",
+        "ui-libraries",
+        "dashboard",
+        "react",
+        "tailwind",
+        "complete"
+      ],
+      "category": "design",
+      "subcategory": "ui-libraries",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "windsurf",
+      "name": "Windsurf",
+      "slug": "windsurf",
+      "description": "IDE para programación con IA Codeium",
+      "url": "https://codeium.com/windsurf",
+      "status": "active",
+      "tags": [
+        "ide",
+        "ai",
+        "codeium",
+        "programming"
+      ],
+      "searchIndex": [
+        "Windsurf",
+        "windsurf",
+        "IDE para programación con IA Codeium",
+        "development",
+        "ide",
+        "ai",
+        "codeium",
+        "programming"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "zod",
+      "name": "Zod",
+      "slug": "zod",
+      "description": "Validación de esquemas TypeScript-first",
+      "url": "https://zod.dev",
+      "status": "active",
+      "tags": [
+        "validation",
+        "typescript",
+        "schema",
+        "typesafe"
+      ],
+      "searchIndex": [
+        "Zod",
+        "zod",
+        "Validación de esquemas TypeScript-first",
+        "development",
+        "react-stack",
+        "validation",
+        "typescript",
+        "schema",
+        "typesafe"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "zustand",
+      "name": "Zustand",
+      "slug": "zustand",
+      "description": "Gestor de estado ligero, basado en hooks",
+      "url": "https://github.com/pmndrs/zustand",
+      "status": "active",
+      "tags": [
+        "state",
+        "react",
+        "hooks",
+        "lightweight"
+      ],
+      "searchIndex": [
+        "Zustand",
+        "zustand",
+        "Gestor de estado ligero, basado en hooks",
+        "development",
+        "react-stack",
+        "state",
+        "react",
+        "hooks",
+        "lightweight"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    }
+  ]
+}

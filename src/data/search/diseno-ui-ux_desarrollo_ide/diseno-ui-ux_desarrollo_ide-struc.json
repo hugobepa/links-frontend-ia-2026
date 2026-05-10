@@ -1,0 +1,3841 @@
+{
+  "tags": {
+    "1800": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta 1800"
+    },
+    "2025": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta 2025"
+    },
+    "275k": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta 275k"
+    },
+    "404": {
+      "count": 5,
+      "color": "#dc2626",
+      "description": "Etiqueta 404"
+    },
+    "4950": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta 4950"
+    },
+    "9000": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta 9000"
+    },
+    "accessibility": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta accessibility"
+    },
+    "accessible": {
+      "count": 5,
+      "color": "#db2777",
+      "description": "Etiqueta accessible"
+    },
+    "adobe": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta adobe"
+    },
+    "advanced": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta advanced"
+    },
+    "agent": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta agent"
+    },
+    "ai": {
+      "count": 4,
+      "color": "#dc2626",
+      "description": "Etiqueta ai"
+    },
+    "algorithms": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta algorithms"
+    },
+    "all-collections": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta all-collections"
+    },
+    "alternative": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta alternative"
+    },
+    "animated": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta animated"
+    },
+    "animation": {
+      "count": 3,
+      "color": "#2563eb",
+      "description": "Etiqueta animation"
+    },
+    "animations": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta animations"
+    },
+    "apollo": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta apollo"
+    },
+    "astro": {
+      "count": 5,
+      "color": "#d97706",
+      "description": "Etiqueta astro"
+    },
+    "atlassian": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta atlassian"
+    },
+    "atomic": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta atomic"
+    },
+    "auth": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta auth"
+    },
+    "author": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta author"
+    },
+    "avatar": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta avatar"
+    },
+    "awards": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta awards"
+    },
+    "backgrounds": {
+      "count": 4,
+      "color": "#059669",
+      "description": "Etiqueta backgrounds"
+    },
+    "beautiful": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta beautiful"
+    },
+    "blog": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta blog"
+    },
+    "brands": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta brands"
+    },
+    "browser": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta browser"
+    },
+    "cache": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta cache"
+    },
+    "card": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta card"
+    },
+    "case-studies": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta case-studies"
+    },
+    "categories": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta categories"
+    },
+    "cdn": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta cdn"
+    },
+    "chartjs": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta chartjs"
+    },
+    "charts": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta charts"
+    },
+    "checkout": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta checkout"
+    },
+    "classic": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta classic"
+    },
+    "clean": {
+      "count": 3,
+      "color": "#0891b2",
+      "description": "Etiqueta clean"
+    },
+    "cleanup": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta cleanup"
+    },
+    "clear": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta clear"
+    },
+    "cli": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta cli"
+    },
+    "client": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta client"
+    },
+    "cloud": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta cloud"
+    },
+    "code": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta code"
+    },
+    "codeium": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta codeium"
+    },
+    "codex": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta codex"
+    },
+    "collaborative": {
+      "count": 3,
+      "color": "#d97706",
+      "description": "Etiqueta collaborative"
+    },
+    "collection": {
+      "count": 4,
+      "color": "#db2777",
+      "description": "Etiqueta collection"
+    },
+    "color": {
+      "count": 4,
+      "color": "#d97706",
+      "description": "Etiqueta color"
+    },
+    "combinations": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta combinations"
+    },
+    "commercial": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta commercial"
+    },
+    "community": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta community"
+    },
+    "compiled": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta compiled"
+    },
+    "compiler": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta compiler"
+    },
+    "complete": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta complete"
+    },
+    "component": {
+      "count": 4,
+      "color": "#ea580c",
+      "description": "Etiqueta component"
+    },
+    "components": {
+      "count": 9,
+      "color": "#7c3aed",
+      "description": "Etiqueta components"
+    },
+    "conceptual": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta conceptual"
+    },
+    "content": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta content"
+    },
+    "control": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta control"
+    },
+    "css": {
+      "count": 7,
+      "color": "#ea580c",
+      "description": "Etiqueta css"
+    },
+    "cta": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta cta"
+    },
+    "curated": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta curated"
+    },
+    "custom": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta custom"
+    },
+    "customizable": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta customizable"
+    },
+    "cutting-edge": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta cutting-edge"
+    },
+    "d3": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta d3"
+    },
+    "daily": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta daily"
+    },
+    "dashboard": {
+      "count": 3,
+      "color": "#4f46e5",
+      "description": "Etiqueta dashboard"
+    },
+    "data-fetching": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta data-fetching"
+    },
+    "datagrid": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta datagrid"
+    },
+    "dates": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta dates"
+    },
+    "declarative": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta declarative"
+    },
+    "dependencies": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta dependencies"
+    },
+    "developer": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta developer"
+    },
+    "devtools": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta devtools"
+    },
+    "diagrams": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta diagrams"
+    },
+    "direct": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta direct"
+    },
+    "disk-space": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta disk-space"
+    },
+    "drag-drop": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta drag-drop"
+    },
+    "drawing": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta drawing"
+    },
+    "dx": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta dx"
+    },
+    "ecommerce": {
+      "count": 3,
+      "color": "#7c3aed",
+      "description": "Etiqueta ecommerce"
+    },
+    "edge": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta edge"
+    },
+    "editor": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta editor"
+    },
+    "education": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta education"
+    },
+    "effects": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta effects"
+    },
+    "enterprise": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta enterprise"
+    },
+    "error": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta error"
+    },
+    "established": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta established"
+    },
+    "examples": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta examples"
+    },
+    "explanation": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta explanation"
+    },
+    "extension": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta extension"
+    },
+    "extensive": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta extensive"
+    },
+    "fast": {
+      "count": 3,
+      "color": "#2563eb",
+      "description": "Etiqueta fast"
+    },
+    "filtered": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta filtered"
+    },
+    "finder": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta finder"
+    },
+    "flexible": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta flexible"
+    },
+    "flows": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta flows"
+    },
+    "fonts": {
+      "count": 7,
+      "color": "#7c3aed",
+      "description": "Etiqueta fonts"
+    },
+    "form": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta form"
+    },
+    "formatting": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta formatting"
+    },
+    "forms": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta forms"
+    },
+    "framework": {
+      "count": 9,
+      "color": "#7c3aed",
+      "description": "Etiqueta framework"
+    },
+    "frameworks": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta frameworks"
+    },
+    "free": {
+      "count": 11,
+      "color": "#db2777",
+      "description": "Etiqueta free"
+    },
+    "frontend": {
+      "count": 3,
+      "color": "#7c3aed",
+      "description": "Etiqueta frontend"
+    },
+    "full-repo": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta full-repo"
+    },
+    "fullstack": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta fullstack"
+    },
+    "functional": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta functional"
+    },
+    "gallery": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta gallery"
+    },
+    "generator": {
+      "count": 4,
+      "color": "#65a30d",
+      "description": "Etiqueta generator"
+    },
+    "gist": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta gist"
+    },
+    "github": {
+      "count": 6,
+      "color": "#d97706",
+      "description": "Etiqueta github"
+    },
+    "google": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta google"
+    },
+    "gradients": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta gradients"
+    },
+    "graphics": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta graphics"
+    },
+    "graphql": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta graphql"
+    },
+    "grid": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta grid"
+    },
+    "gsap": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta gsap"
+    },
+    "headless": {
+      "count": 4,
+      "color": "#059669",
+      "description": "Etiqueta headless"
+    },
+    "hooks": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta hooks"
+    },
+    "html": {
+      "count": 4,
+      "color": "#65a30d",
+      "description": "Etiqueta html"
+    },
+    "html5": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta html5"
+    },
+    "icons": {
+      "count": 19,
+      "color": "#2563eb",
+      "description": "Etiqueta icons"
+    },
+    "ide": {
+      "count": 7,
+      "color": "#4f46e5",
+      "description": "Etiqueta ide"
+    },
+    "immutability": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta immutability"
+    },
+    "inspiration": {
+      "count": 12,
+      "color": "#2563eb",
+      "description": "Etiqueta inspiration"
+    },
+    "integrated": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta integrated"
+    },
+    "interaction": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta interaction"
+    },
+    "interactive": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta interactive"
+    },
+    "ionic": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta ionic"
+    },
+    "itf": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta itf"
+    },
+    "javascript": {
+      "count": 4,
+      "color": "#ea580c",
+      "description": "Etiqueta javascript"
+    },
+    "jetbrains": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta jetbrains"
+    },
+    "jsx": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta jsx"
+    },
+    "kill": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta kill"
+    },
+    "landing": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta landing"
+    },
+    "largest": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta largest"
+    },
+    "largest-database": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta largest-database"
+    },
+    "learning": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta learning"
+    },
+    "library": {
+      "count": 6,
+      "color": "#65a30d",
+      "description": "Etiqueta library"
+    },
+    "licenses": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta licenses"
+    },
+    "lightweight": {
+      "count": 6,
+      "color": "#7c3aed",
+      "description": "Etiqueta lightweight"
+    },
+    "lists": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta lists"
+    },
+    "login": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta login"
+    },
+    "logos": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta logos"
+    },
+    "management": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta management"
+    },
+    "maps": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta maps"
+    },
+    "marketing": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta marketing"
+    },
+    "material": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta material"
+    },
+    "metrics": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta metrics"
+    },
+    "micro-interactions": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta micro-interactions"
+    },
+    "microsoft": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta microsoft"
+    },
+    "minimalist": {
+      "count": 3,
+      "color": "#ea580c",
+      "description": "Etiqueta minimalist"
+    },
+    "mobile": {
+      "count": 3,
+      "color": "#dc2626",
+      "description": "Etiqueta mobile"
+    },
+    "modern": {
+      "count": 8,
+      "color": "#0891b2",
+      "description": "Etiqueta modern"
+    },
+    "motion": {
+      "count": 5,
+      "color": "#dc2626",
+      "description": "Etiqueta motion"
+    },
+    "mui": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta mui"
+    },
+    "multi-framework": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta multi-framework"
+    },
+    "multi-language": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta multi-language"
+    },
+    "multi-platform": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta multi-platform"
+    },
+    "multi-provider": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta multi-provider"
+    },
+    "multi-source": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta multi-source"
+    },
+    "native": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta native"
+    },
+    "navbar": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta navbar"
+    },
+    "neumorphism": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta neumorphism"
+    },
+    "nextjs": {
+      "count": 4,
+      "color": "#db2777",
+      "description": "Etiqueta nextjs"
+    },
+    "no-vdom": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta no-vdom"
+    },
+    "node-modules": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta node-modules"
+    },
+    "notebooks": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta notebooks"
+    },
+    "notifications": {
+      "count": 4,
+      "color": "#dc2626",
+      "description": "Etiqueta notifications"
+    },
+    "npm": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta npm"
+    },
+    "official": {
+      "count": 7,
+      "color": "#ea580c",
+      "description": "Etiqueta official"
+    },
+    "open-source": {
+      "count": 4,
+      "color": "#4f46e5",
+      "description": "Etiqueta open-source"
+    },
+    "optimization": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta optimization"
+    },
+    "optimized": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta optimized"
+    },
+    "organized": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta organized"
+    },
+    "packages": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta packages"
+    },
+    "page": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta page"
+    },
+    "pages": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta pages"
+    },
+    "pagination": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta pagination"
+    },
+    "pairing": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta pairing"
+    },
+    "palettes": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta palettes"
+    },
+    "patterns": {
+      "count": 5,
+      "color": "#059669",
+      "description": "Etiqueta patterns"
+    },
+    "payments": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta payments"
+    },
+    "paypal": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta paypal"
+    },
+    "pdf": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta pdf"
+    },
+    "performance": {
+      "count": 3,
+      "color": "#2563eb",
+      "description": "Etiqueta performance"
+    },
+    "pixel-art": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta pixel-art"
+    },
+    "plans": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta plans"
+    },
+    "plugin": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta plugin"
+    },
+    "popular": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta popular"
+    },
+    "ports": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta ports"
+    },
+    "predefined": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta predefined"
+    },
+    "premium": {
+      "count": 4,
+      "color": "#65a30d",
+      "description": "Etiqueta premium"
+    },
+    "primitives": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta primitives"
+    },
+    "production": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta production"
+    },
+    "profile-card": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta profile-card"
+    },
+    "programming": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta programming"
+    },
+    "progressive": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta progressive"
+    },
+    "projects": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta projects"
+    },
+    "proxy": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta proxy"
+    },
+    "python": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta python"
+    },
+    "ranking": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta ranking"
+    },
+    "react": {
+      "count": 21,
+      "color": "#65a30d",
+      "description": "Etiqueta react"
+    },
+    "reactive": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta reactive"
+    },
+    "reactivity": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta reactivity"
+    },
+    "ready": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta ready"
+    },
+    "ready-to-use": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta ready-to-use"
+    },
+    "real-apps": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta real-apps"
+    },
+    "redux": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta redux"
+    },
+    "references": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta references"
+    },
+    "refs": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta refs"
+    },
+    "repeatable": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta repeatable"
+    },
+    "repository": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta repository"
+    },
+    "resources": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta resources"
+    },
+    "responsive": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta responsive"
+    },
+    "schema": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta schema"
+    },
+    "screenshots": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta screenshots"
+    },
+    "scroll": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta scroll"
+    },
+    "search": {
+      "count": 4,
+      "color": "#2563eb",
+      "description": "Etiqueta search"
+    },
+    "sections": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta sections"
+    },
+    "secure": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta secure"
+    },
+    "separators": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta separators"
+    },
+    "shadcn": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta shadcn"
+    },
+    "shapes": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta shapes"
+    },
+    "shop": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta shop"
+    },
+    "shots": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta shots"
+    },
+    "snackbars": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta snackbars"
+    },
+    "social": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta social"
+    },
+    "soft-ui": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta soft-ui"
+    },
+    "spanish": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta spanish"
+    },
+    "specialized": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta specialized"
+    },
+    "ssr": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta ssr"
+    },
+    "stable": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta stable"
+    },
+    "starter": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta starter"
+    },
+    "startups": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta startups"
+    },
+    "state": {
+      "count": 4,
+      "color": "#0891b2",
+      "description": "Etiqueta state"
+    },
+    "static": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta static"
+    },
+    "stripe": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta stripe"
+    },
+    "styles": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta styles"
+    },
+    "subscriptions": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta subscriptions"
+    },
+    "svg": {
+      "count": 8,
+      "color": "#4f46e5",
+      "description": "Etiqueta svg"
+    },
+    "sync": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta sync"
+    },
+    "tables": {
+      "count": 4,
+      "color": "#0891b2",
+      "description": "Etiqueta tables"
+    },
+    "tailwind": {
+      "count": 20,
+      "color": "#2563eb",
+      "description": "Etiqueta tailwind"
+    },
+    "templates": {
+      "count": 9,
+      "color": "#0891b2",
+      "description": "Etiqueta templates"
+    },
+    "terminal": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta terminal"
+    },
+    "themes": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta themes"
+    },
+    "theory": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta theory"
+    },
+    "timezone": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta timezone"
+    },
+    "toast": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta toast"
+    },
+    "toasts": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta toasts"
+    },
+    "tool": {
+      "count": 5,
+      "color": "#4f46e5",
+      "description": "Etiqueta tool"
+    },
+    "toolbar": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta toolbar"
+    },
+    "tools": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta tools"
+    },
+    "typed": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta typed"
+    },
+    "typesafe": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta typesafe"
+    },
+    "typescript": {
+      "count": 4,
+      "color": "#059669",
+      "description": "Etiqueta typescript"
+    },
+    "ui": {
+      "count": 32,
+      "color": "#dc2626",
+      "description": "Etiqueta ui"
+    },
+    "unified": {
+      "count": 3,
+      "color": "#2563eb",
+      "description": "Etiqueta unified"
+    },
+    "updates": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta updates"
+    },
+    "users": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta users"
+    },
+    "utility": {
+      "count": 5,
+      "color": "#db2777",
+      "description": "Etiqueta utility"
+    },
+    "utility-first": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta utility-first"
+    },
+    "ux": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta ux"
+    },
+    "ux-ui": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta ux-ui"
+    },
+    "validation": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta validation"
+    },
+    "variety": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta variety"
+    },
+    "vectors": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta vectors"
+    },
+    "vercel": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta vercel"
+    },
+    "viewer": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta viewer"
+    },
+    "virtualization": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta virtualization"
+    },
+    "visual": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta visual"
+    },
+    "visualizer": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta visualizer"
+    },
+    "vscode": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta vscode"
+    },
+    "vue": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta vue"
+    },
+    "waves": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta waves"
+    },
+    "web": {
+      "count": 4,
+      "color": "#db2777",
+      "description": "Etiqueta web"
+    },
+    "web-design": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta web-design"
+    },
+    "wheel": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta wheel"
+    },
+    "whiteboard": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta whiteboard"
+    },
+    "wrapper": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta wrapper"
+    }
+  },
+  "searchIndex": {
+    "fields": [
+      {
+        "name": "name",
+        "weight": 3,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "description",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "tags",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "category",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "subcategory",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      }
+    ],
+    "entries": [
+      {
+        "id": "clerk",
+        "slug": "clerk-clerk-react",
+        "terms": [
+          "@clerk/clerk-react",
+          "clerk-clerk-react",
+          "Auth + gestión de usuarios, DX excelente",
+          "development",
+          "react-stack",
+          "auth",
+          "users",
+          "dx",
+          "react"
+        ]
+      },
+      {
+        "id": "lemonsqueezy-react",
+        "slug": "lemonsqueezy-lemonsqueezy-js",
+        "terms": [
+          "@lemonsqueezy/lemonsqueezy.js",
+          "lemonsqueezy-lemonsqueezy-js",
+          "Checkout + licencias + suscripciones",
+          "development",
+          "react-stack",
+          "payments",
+          "licenses",
+          "subscriptions",
+          "checkout"
+        ]
+      },
+      {
+        "id": "mui-data-grid",
+        "slug": "mui-x-data-grid",
+        "terms": [
+          "@mui/x-data-grid",
+          "mui-x-data-grid",
+          "DataGrid optimizado, integrado con MUI",
+          "development",
+          "react-stack",
+          "tables",
+          "mui",
+          "datagrid",
+          "optimized"
+        ]
+      },
+      {
+        "id": "paypal-react",
+        "slug": "paypal-react-paypal-js",
+        "terms": [
+          "@paypal/react-paypal-js",
+          "paypal-react-paypal-js",
+          "Checkout PayPal/Venmo, SDK oficial",
+          "development",
+          "react-stack",
+          "payments",
+          "paypal",
+          "checkout",
+          "react"
+        ]
+      },
+      {
+        "id": "react-pdf-renderer",
+        "slug": "react-pdf-renderer",
+        "terms": [
+          "@react-pdf/renderer",
+          "react-pdf-renderer",
+          "Genera PDFs usando componentes JSX/CSS-like",
+          "development",
+          "react-stack",
+          "pdf",
+          "react",
+          "jsx",
+          "generator"
+        ]
+      },
+      {
+        "id": "redux-toolkit",
+        "slug": "reduxjs-toolkit",
+        "terms": [
+          "@reduxjs/toolkit",
+          "reduxjs-toolkit",
+          "Solución oficial de Redux, inmutabilidad + DevTools",
+          "development",
+          "react-stack",
+          "state",
+          "redux",
+          "official",
+          "devtools"
+        ]
+      },
+      {
+        "id": "stripe-react",
+        "slug": "stripe-react-stripe-js",
+        "terms": [
+          "@stripe/react-stripe-js",
+          "stripe-react-stripe-js",
+          "Elementos de pago seguros, SCA/3DS",
+          "development",
+          "react-stack",
+          "payments",
+          "stripe",
+          "secure",
+          "react"
+        ]
+      },
+      {
+        "id": "tanstack-table",
+        "slug": "tanstack-react-table",
+        "terms": [
+          "@tanstack/react-table",
+          "tanstack-react-table",
+          "Headless, máximo control sobre UI y lógica",
+          "development",
+          "react-stack",
+          "tables",
+          "headless",
+          "control",
+          "react"
+        ]
+      },
+      {
+        "id": "tanstack-virtual",
+        "slug": "tanstack-react-virtual",
+        "terms": [
+          "@tanstack/react-virtual",
+          "tanstack-react-virtual",
+          "Virtualización de listas/tablas para grandes datasets",
+          "development",
+          "react-stack",
+          "virtualization",
+          "lists",
+          "tables",
+          "performance"
+        ]
+      },
+      {
+        "id": "aceternity-ui",
+        "slug": "aceternity-ui",
+        "terms": [
+          "Aceternity UI",
+          "aceternity-ui",
+          "Efectos visuales modernos con Framer Motion",
+          "design",
+          "ui-libraries",
+          "ui",
+          "effects",
+          "motion",
+          "modern"
+        ]
+      },
+      {
+        "id": "adobe-fonts",
+        "slug": "adobe-fonts",
+        "terms": [
+          "Adobe Fonts",
+          "adobe-fonts",
+          "Fuentes premium en planes gratis Adobe",
+          "design",
+          "fonts",
+          "premium",
+          "adobe",
+          "plans"
+        ]
+      },
+      {
+        "id": "ag-grid-react",
+        "slug": "ag-grid-react",
+        "terms": [
+          "ag-grid-react",
+          "Funcionalidades enterprise, virtualización",
+          "development",
+          "react-stack",
+          "tables",
+          "enterprise",
+          "virtualization",
+          "react"
+        ]
+      },
+      {
+        "id": "alg0",
+        "slug": "alg0",
+        "terms": [
+          "Alg0",
+          "alg0",
+          "Explicación algoritmos castellano",
+          "development",
+          "tools",
+          "algorithms",
+          "spanish",
+          "explanation",
+          "learning"
+        ]
+      },
+      {
+        "id": "algorithm-visualizer",
+        "slug": "algorithm-visualizer",
+        "terms": [
+          "Algorithm Visualizer",
+          "algorithm-visualizer",
+          "Visualizador de algoritmos",
+          "development",
+          "tools",
+          "algorithms",
+          "visualizer",
+          "learning",
+          "education"
+        ]
+      },
+      {
+        "id": "angular",
+        "slug": "angular",
+        "terms": [
+          "Angular",
+          "angular",
+          "Framework de desarrollo web enterprise",
+          "development",
+          "frameworks",
+          "framework",
+          "enterprise",
+          "typescript",
+          "google"
+        ]
+      },
+      {
+        "id": "apollo-client",
+        "slug": "apollo-client",
+        "terms": [
+          "Apollo Client",
+          "apollo-client",
+          "Cliente oficial para GraphQL",
+          "development",
+          "react-stack",
+          "graphql",
+          "client",
+          "official",
+          "apollo"
+        ]
+      },
+      {
+        "id": "ark-ui",
+        "slug": "ark-ui",
+        "terms": [
+          "Ark UI",
+          "ark-ui",
+          "Componentes headless multi-framework",
+          "design",
+          "ui-libraries",
+          "ui",
+          "headless",
+          "multi-framework",
+          "components"
+        ]
+      },
+      {
+        "id": "astro",
+        "slug": "astro",
+        "terms": [
+          "Astro",
+          "astro",
+          "Framework web centrado en contenido",
+          "development",
+          "frameworks",
+          "framework",
+          "content",
+          "static",
+          "modern"
+        ]
+      },
+      {
+        "id": "astro-themes",
+        "slug": "astro-themes",
+        "terms": [
+          "Astro Themes",
+          "astro-themes",
+          "Themes Astro gratuitos y premium",
+          "design",
+          "templates",
+          "astro",
+          "themes",
+          "free",
+          "premium"
+        ]
+      },
+      {
+        "id": "astroicon",
+        "slug": "astroicon",
+        "terms": [
+          "AstroIcon",
+          "astroicon",
+          "Colección de iconos para Astro",
+          "design",
+          "icons",
+          "astro",
+          "collection",
+          "specialized"
+        ]
+      },
+      {
+        "id": "astroship",
+        "slug": "astroship",
+        "terms": [
+          "Astroship",
+          "astroship",
+          "Plantilla inicio Astro Tailwind gratis",
+          "design",
+          "templates",
+          "astro",
+          "tailwind",
+          "starter",
+          "free"
+        ]
+      },
+      {
+        "id": "authjs",
+        "slug": "auth-js-nextauth",
+        "terms": [
+          "Auth.js (NextAuth)",
+          "auth-js-nextauth",
+          "Open-source, multi-provider, adaptable",
+          "development",
+          "react-stack",
+          "auth",
+          "open-source",
+          "multi-provider",
+          "nextjs"
+        ]
+      },
+      {
+        "id": "avatar-astro-gist",
+        "slug": "avatar-astro-gist",
+        "terms": [
+          "Avatar Astro Gist",
+          "avatar-astro-gist",
+          "Ejemplo de avatar para Astro",
+          "design",
+          "components",
+          "ui",
+          "astro",
+          "avatar",
+          "gist"
+        ]
+      },
+      {
+        "id": "awwwards",
+        "slug": "awwwards",
+        "terms": [
+          "Awwwards",
+          "awwwards",
+          "Galería de sitios web premiados, vanguardistas",
+          "design",
+          "inspiration",
+          "awards",
+          "premium",
+          "cutting-edge"
+        ]
+      },
+      {
+        "id": "behance",
+        "slug": "behance",
+        "terms": [
+          "Behance",
+          "behance",
+          "Red social Adobe para casos de estudio completos",
+          "design",
+          "inspiration",
+          "adobe",
+          "case-studies",
+          "social"
+        ]
+      },
+      {
+        "id": "calltoinspiration",
+        "slug": "calltoinspiration",
+        "terms": [
+          "CallToInspiration",
+          "calltoinspiration",
+          "Galería CTAs para diseño web",
+          "design",
+          "templates",
+          "cta",
+          "gallery",
+          "web-design",
+          "inspiration"
+        ]
+      },
+      {
+        "id": "caninclude",
+        "slug": "caninclude",
+        "terms": [
+          "CanInclude",
+          "caninclude",
+          "Usar bien HTML",
+          "development",
+          "tools",
+          "html",
+          "validation",
+          "html5",
+          "tool"
+        ]
+      },
+      {
+        "id": "canva-color-wheel",
+        "slug": "canva-color-wheel",
+        "terms": [
+          "Canva Color Wheel",
+          "canva-color-wheel",
+          "Herramienta teoría del color y combinaciones",
+          "design",
+          "color",
+          "theory",
+          "wheel",
+          "combinations"
+        ]
+      },
+      {
+        "id": "codepen",
+        "slug": "codepen",
+        "terms": [
+          "CodePen",
+          "codepen",
+          "Ejemplos interactivos de código frontend",
+          "development",
+          "ide",
+          "frontend",
+          "interactive",
+          "examples"
+        ]
+      },
+      {
+        "id": "codexbar",
+        "slug": "codexbar",
+        "terms": [
+          "CodexBar",
+          "codexbar",
+          "Barra de herramientas para Codex",
+          "development",
+          "extensions",
+          "toolbar",
+          "codex",
+          "extension",
+          "tools"
+        ]
+      },
+      {
+        "id": "collect-ui",
+        "slug": "collect-ui",
+        "terms": [
+          "Collect UI",
+          "collect-ui",
+          "Inspiración diaria organizada por patrones",
+          "design",
+          "inspiration",
+          "daily",
+          "patterns",
+          "organized"
+        ]
+      },
+      {
+        "id": "color-hunt",
+        "slug": "color-hunt",
+        "terms": [
+          "Color Hunt",
+          "color-hunt",
+          "Paletas de colores creadas y seleccionadas por comunidad",
+          "design",
+          "color",
+          "palettes",
+          "community",
+          "curated"
+        ]
+      },
+      {
+        "id": "coolors",
+        "slug": "coolors",
+        "terms": [
+          "Coolors",
+          "coolors",
+          "Generador de paletas de colores rápido e intuitivo",
+          "design",
+          "color",
+          "palettes",
+          "generator",
+          "fast"
+        ]
+      },
+      {
+        "id": "creative-tim",
+        "slug": "creative-tim",
+        "terms": [
+          "Creative Tim",
+          "creative-tim",
+          "Componentes y plantillas Tailwind",
+          "design",
+          "ui-libraries",
+          "ui",
+          "templates",
+          "tailwind",
+          "components"
+        ]
+      },
+      {
+        "id": "css-gradient",
+        "slug": "css-gradient",
+        "terms": [
+          "CSS Gradient",
+          "css-gradient",
+          "Generador visual de gradientes de color en CSS",
+          "design",
+          "color",
+          "gradients",
+          "css",
+          "visual"
+        ]
+      },
+      {
+        "id": "css-separator-gen",
+        "slug": "css-separator-gen",
+        "terms": [
+          "CSS Separator Gen",
+          "css-separator-gen",
+          "Generador de separadores de sección en CSS",
+          "design",
+          "color",
+          "css",
+          "separators",
+          "sections",
+          "generator"
+        ]
+      },
+      {
+        "id": "cursor",
+        "slug": "cursor",
+        "terms": [
+          "Cursor",
+          "cursor",
+          "Editor de código con IA integrado nativo",
+          "development",
+          "ide",
+          "ai",
+          "native",
+          "integrated"
+        ]
+      },
+      {
+        "id": "daisyui",
+        "slug": "daisyui",
+        "terms": [
+          "DaisyUI",
+          "daisyui",
+          "Plugin CSS clases componentes Tailwind",
+          "design",
+          "ui-libraries",
+          "ui",
+          "tailwind",
+          "css",
+          "plugin"
+        ]
+      },
+      {
+        "id": "datalore",
+        "slug": "datalore",
+        "terms": [
+          "Datalore",
+          "datalore",
+          "Notebooks Python colaborativos JetBrains",
+          "development",
+          "ide",
+          "notebooks",
+          "python",
+          "collaborative",
+          "jetbrains"
+        ]
+      },
+      {
+        "id": "date-fns-dayjs",
+        "slug": "date-fns-dayjs",
+        "terms": [
+          "date-fns / dayjs",
+          "date-fns-dayjs",
+          "Manipulación de fechas, timezone, formatting",
+          "development",
+          "react-stack",
+          "dates",
+          "timezone",
+          "formatting",
+          "utility"
+        ]
+      },
+      {
+        "id": "dribbble",
+        "slug": "dribbble",
+        "terms": [
+          "Dribbble",
+          "dribbble",
+          "Red social líder para componentes UI, shots",
+          "design",
+          "inspiration",
+          "ui",
+          "shots",
+          "community"
+        ]
+      },
+      {
+        "id": "edrawmax",
+        "slug": "edrawmax",
+        "terms": [
+          "EdrawMax",
+          "edrawmax",
+          "creación de graficos y mapas conceptuales",
+          "development",
+          "tools",
+          "diagrams",
+          "maps",
+          "conceptual",
+          "graphics"
+        ]
+      },
+      {
+        "id": "excalidraw",
+        "slug": "excalidraw",
+        "terms": [
+          "Excalidraw",
+          "excalidraw",
+          "creacion de graficos y mapas conceptuales",
+          "development",
+          "tools",
+          "diagrams",
+          "whiteboard",
+          "collaborative",
+          "drawing"
+        ]
+      },
+      {
+        "id": "feather-icons",
+        "slug": "feather-icons",
+        "terms": [
+          "Feather Icons",
+          "feather-icons",
+          "Diseño minimalista, carga muy ligera",
+          "design",
+          "icons",
+          "minimalist",
+          "lightweight",
+          "clean"
+        ]
+      },
+      {
+        "id": "flaticon",
+        "slug": "flaticon",
+        "terms": [
+          "Flaticon",
+          "flaticon",
+          "Mayor base de datos de iconos gratuitos",
+          "design",
+          "icons",
+          "largest-database",
+          "free",
+          "variety"
+        ]
+      },
+      {
+        "id": "flowbite",
+        "slug": "flowbite",
+        "terms": [
+          "Flowbite",
+          "flowbite",
+          "Biblioteca componentes open source sólida",
+          "design",
+          "ui-libraries",
+          "ui",
+          "open-source",
+          "tailwind",
+          "components"
+        ]
+      },
+      {
+        "id": "flowbite-react",
+        "slug": "flowbite-react",
+        "terms": [
+          "Flowbite React",
+          "flowbite-react",
+          "Biblioteca componentes Tailwind React",
+          "design",
+          "ui-libraries",
+          "ui",
+          "react",
+          "tailwind",
+          "components"
+        ]
+      },
+      {
+        "id": "font-awesome",
+        "slug": "font-awesome",
+        "terms": [
+          "Font Awesome",
+          "font-awesome",
+          "Colección más grande históricamente establecida",
+          "design",
+          "icons",
+          "largest",
+          "established",
+          "classic"
+        ]
+      },
+      {
+        "id": "font-squirrel",
+        "slug": "font-squirrel",
+        "terms": [
+          "Font Squirrel",
+          "font-squirrel",
+          "Fuentes libres uso comercial directo",
+          "design",
+          "fonts",
+          "commercial",
+          "free",
+          "direct"
+        ]
+      },
+      {
+        "id": "fontpair",
+        "slug": "fontpair",
+        "terms": [
+          "FontPair",
+          "fontpair",
+          "Herramienta para elegir fuentes combinadas",
+          "design",
+          "fonts",
+          "pairing",
+          "tool",
+          "combinations"
+        ]
+      },
+      {
+        "id": "fontshare",
+        "slug": "fontshare",
+        "terms": [
+          "Fontshare",
+          "fontshare",
+          "Colección premium gratuita de ITF",
+          "design",
+          "fonts",
+          "premium",
+          "free",
+          "itf"
+        ]
+      },
+      {
+        "id": "fontsource",
+        "slug": "fontsource",
+        "terms": [
+          "Fontsource",
+          "fontsource",
+          "Librería extensa optimizada para proyectos",
+          "design",
+          "fonts",
+          "optimized",
+          "projects",
+          "npm"
+        ]
+      },
+      {
+        "id": "fontspring",
+        "slug": "fontspring",
+        "terms": [
+          "Fontspring",
+          "fontspring",
+          "Librería extensa de licencias claras",
+          "design",
+          "fonts",
+          "licenses",
+          "clear",
+          "extensive"
+        ]
+      },
+      {
+        "id": "get-waves",
+        "slug": "get-waves",
+        "terms": [
+          "Get Waves",
+          "get-waves",
+          "Generador ondas SVG para separadores y fondos",
+          "design",
+          "color",
+          "waves",
+          "svg",
+          "separators",
+          "backgrounds"
+        ]
+      },
+      {
+        "id": "github-404-css",
+        "slug": "github-404-css",
+        "terms": [
+          "GitHub 404 CSS",
+          "github-404-css",
+          "repos github templates 404_css",
+          "design",
+          "templates",
+          "github",
+          "404",
+          "css"
+        ]
+      },
+      {
+        "id": "github-404-error",
+        "slug": "github-404-error",
+        "terms": [
+          "GitHub 404 Error",
+          "github-404-error",
+          "repos github 404 error",
+          "design",
+          "templates",
+          "github",
+          "404",
+          "error"
+        ]
+      },
+      {
+        "id": "github-404-html",
+        "slug": "github-404-html",
+        "terms": [
+          "GitHub 404 HTML",
+          "github-404-html",
+          "repos github Plantillas de 404",
+          "design",
+          "templates",
+          "github",
+          "404",
+          "html"
+        ]
+      },
+      {
+        "id": "github-cli",
+        "slug": "github-cli",
+        "terms": [
+          "GitHub CLI",
+          "github-cli",
+          "Terminal para gestionar GitHub sin browser",
+          "development",
+          "extensions",
+          "cli",
+          "github",
+          "terminal",
+          "management"
+        ]
+      },
+      {
+        "id": "github-page-custom-404",
+        "slug": "github-page-custom-404",
+        "terms": [
+          "GitHub Page Custom 404",
+          "github-page-custom-404",
+          "github page config custom 404",
+          "design",
+          "templates",
+          "github",
+          "pages",
+          "404",
+          "custom"
+        ]
+      },
+      {
+        "id": "godly",
+        "slug": "godly",
+        "terms": [
+          "Godly",
+          "godly",
+          "Galería diseño web moderno, minimalista, startups",
+          "design",
+          "inspiration",
+          "modern",
+          "minimalist",
+          "startups"
+        ]
+      },
+      {
+        "id": "google-fonts",
+        "slug": "google-fonts",
+        "terms": [
+          "Google Fonts",
+          "google-fonts",
+          "+1800 fuentes gratuitas con CDN global",
+          "design",
+          "fonts",
+          "free",
+          "1800",
+          "cdn"
+        ]
+      },
+      {
+        "id": "grid-blog-page",
+        "slug": "grid-blog-page",
+        "terms": [
+          "Grid Blog Page",
+          "grid-blog-page",
+          "Plantilla de blog en grid",
+          "design",
+          "components",
+          "ui",
+          "tailwind",
+          "blog",
+          "grid"
+        ]
+      },
+      {
+        "id": "gsap",
+        "slug": "gsap",
+        "terms": [
+          "GSAP",
+          "gsap",
+          "animaciones web JS",
+          "development",
+          "tools",
+          "animation",
+          "javascript",
+          "web"
+        ]
+      },
+      {
+        "id": "gsap-skills",
+        "slug": "gsap-skills",
+        "terms": [
+          "GSAP Skills",
+          "gsap-skills",
+          "agente IA crear web animadas",
+          "development",
+          "tools",
+          "gsap",
+          "ai",
+          "agent",
+          "animations"
+        ]
+      },
+      {
+        "id": "haikei",
+        "slug": "haikei",
+        "terms": [
+          "Haikei",
+          "haikei",
+          "Generador formas, fondos y patrones SVG únicos",
+          "design",
+          "color",
+          "shapes",
+          "backgrounds",
+          "svg",
+          "patterns"
+        ]
+      },
+      {
+        "id": "headless-ui",
+        "slug": "headless-ui",
+        "terms": [
+          "Headless UI",
+          "headless-ui",
+          "Componentes oficiales Tailwind sin estilo",
+          "design",
+          "ui-libraries",
+          "ui",
+          "tailwind",
+          "headless",
+          "official"
+        ]
+      },
+      {
+        "id": "hero-patterns",
+        "slug": "hero-patterns",
+        "terms": [
+          "Hero Patterns",
+          "hero-patterns",
+          "Colección patrones fondo SVG repetibles",
+          "design",
+          "color",
+          "patterns",
+          "svg",
+          "backgrounds",
+          "repeatable"
+        ]
+      },
+      {
+        "id": "heroicons",
+        "slug": "heroicons",
+        "terms": [
+          "Heroicons",
+          "heroicons",
+          "Integración nativa con Tailwind Labs oficial",
+          "design",
+          "icons",
+          "tailwind",
+          "official",
+          "native"
+        ]
+      },
+      {
+        "id": "hono",
+        "slug": "hono",
+        "terms": [
+          "Hono",
+          "hono",
+          "Framework web ultraligero para edge",
+          "development",
+          "frameworks",
+          "framework",
+          "lightweight",
+          "edge",
+          "fast"
+        ]
+      },
+      {
+        "id": "html-templates",
+        "slug": "html-templates",
+        "terms": [
+          "HTML Templates",
+          "html-templates",
+          "Plantillas HTML listas para usar",
+          "design",
+          "templates",
+          "html",
+          "ready",
+          "ready-to-use"
+        ]
+      },
+      {
+        "id": "htmlrev",
+        "slug": "htmlrev",
+        "terms": [
+          "HTMLRev",
+          "htmlrev",
+          "Recursos UI gratuitos y plantillas",
+          "design",
+          "templates",
+          "ui",
+          "free",
+          "resources"
+        ]
+      },
+      {
+        "id": "hyperui",
+        "slug": "hyperui",
+        "terms": [
+          "HyperUI",
+          "hyperui",
+          "Secciones marketing ecommerce gratis",
+          "design",
+          "ui-libraries",
+          "ui",
+          "marketing",
+          "ecommerce",
+          "free"
+        ]
+      },
+      {
+        "id": "icones",
+        "slug": "icones",
+        "terms": [
+          "Icones",
+          "icones",
+          "Buscador iconos en todas las colecciones",
+          "design",
+          "icons",
+          "search",
+          "all-collections",
+          "unified"
+        ]
+      },
+      {
+        "id": "iconfinder",
+        "slug": "iconfinder",
+        "terms": [
+          "Iconfinder",
+          "iconfinder",
+          "Buscador de iconos con variedad de estilos",
+          "design",
+          "icons",
+          "search",
+          "variety",
+          "styles"
+        ]
+      },
+      {
+        "id": "iconify",
+        "slug": "iconify",
+        "terms": [
+          "Iconify",
+          "iconify",
+          "Acceso a 275K+ íconos desde fuentes múltiples",
+          "design",
+          "icons",
+          "275k",
+          "multi-source",
+          "unified"
+        ]
+      },
+      {
+        "id": "icons0",
+        "slug": "icons0",
+        "terms": [
+          "Icons0",
+          "icons0",
+          "Buscador de iconos",
+          "development",
+          "tools",
+          "icons",
+          "search",
+          "finder",
+          "tool"
+        ]
+      },
+      {
+        "id": "immer",
+        "slug": "immer",
+        "terms": [
+          "immer",
+          "Inmutabilidad simplificada (currying/proxy)",
+          "development",
+          "react-stack",
+          "immutability",
+          "proxy",
+          "state",
+          "utility"
+        ]
+      },
+      {
+        "id": "ionicons",
+        "slug": "ionicons",
+        "terms": [
+          "Ionicons",
+          "ionicons",
+          "Iconos open source para web, iOS, Android",
+          "design",
+          "icons",
+          "open-source",
+          "multi-platform",
+          "ionic"
+        ]
+      },
+      {
+        "id": "it-tools",
+        "slug": "it-tools",
+        "terms": [
+          "IT Tools",
+          "it-tools",
+          "Colección herramientas de programación",
+          "development",
+          "tools",
+          "collection",
+          "programming",
+          "utility"
+        ]
+      },
+      {
+        "id": "jotai-valtio",
+        "slug": "jotai-valtio",
+        "terms": [
+          "Jotai / Valtio",
+          "jotai-valtio",
+          "Estado atómico o basado en proxy, muy minimalista",
+          "development",
+          "react-stack",
+          "state",
+          "atomic",
+          "proxy",
+          "minimalist"
+        ]
+      },
+      {
+        "id": "kokonut-ui",
+        "slug": "kokonutui",
+        "terms": [
+          "KokonutUI",
+          "kokonutui",
+          "Componentes Tailwind / Shadcn / Motion",
+          "design",
+          "ui-libraries",
+          "ui",
+          "tailwind",
+          "shadcn",
+          "motion"
+        ]
+      },
+      {
+        "id": "login-form-ui",
+        "slug": "login-form-ui",
+        "terms": [
+          "Login Form UI",
+          "login-form-ui",
+          "Formulario de login Tailwind",
+          "design",
+          "components",
+          "ui",
+          "tailwind",
+          "login",
+          "form"
+        ]
+      },
+      {
+        "id": "lucide-react",
+        "slug": "lucide-react",
+        "terms": [
+          "Lucide React",
+          "lucide-react",
+          "Default de shadcn/ui, moderno y accesible",
+          "design",
+          "icons",
+          "react",
+          "modern",
+          "accessible"
+        ]
+      },
+      {
+        "id": "magic-ui",
+        "slug": "magic-ui",
+        "terms": [
+          "Magic UI",
+          "magic-ui",
+          "Componentes landing marketing animados",
+          "design",
+          "ui-libraries",
+          "ui",
+          "landing",
+          "marketing",
+          "animated"
+        ]
+      },
+      {
+        "id": "mapcn",
+        "slug": "mapcn",
+        "terms": [
+          "MapCN",
+          "mapcn",
+          "biblioteca coleccion mapas bonitos",
+          "development",
+          "tools",
+          "maps",
+          "collection",
+          "beautiful",
+          "library"
+        ]
+      },
+      {
+        "id": "material-icons",
+        "slug": "material-icons",
+        "terms": [
+          "Material Icons",
+          "material-icons",
+          "Colección de iconos de Google Material Design",
+          "design",
+          "icons",
+          "google",
+          "material",
+          "official"
+        ]
+      },
+      {
+        "id": "material-ui-icons",
+        "slug": "material-ui-icons",
+        "terms": [
+          "Material UI Icons",
+          "material-ui-icons",
+          "Íconos oficiales de Google Material Design",
+          "design",
+          "icons",
+          "material",
+          "google",
+          "official"
+        ]
+      },
+      {
+        "id": "mobbin",
+        "slug": "mobbin",
+        "terms": [
+          "Mobbin",
+          "mobbin",
+          "Biblioteca masiva flujos apps reales iOS/Android",
+          "design",
+          "inspiration",
+          "mobile",
+          "flows",
+          "real-apps"
+        ]
+      },
+      {
+        "id": "motion",
+        "slug": "motion",
+        "terms": [
+          "Motion",
+          "motion",
+          "Biblioteca animación React moderna",
+          "design",
+          "ui-libraries",
+          "animation",
+          "react",
+          "modern"
+        ]
+      },
+      {
+        "id": "navbar-component",
+        "slug": "navbar-component",
+        "terms": [
+          "Navbar Component",
+          "navbar-component",
+          "Otro ejemplo de navbar",
+          "design",
+          "components",
+          "ui",
+          "tailwind",
+          "navbar",
+          "component"
+        ]
+      },
+      {
+        "id": "neumorphism-io",
+        "slug": "neumorphism-io",
+        "terms": [
+          "Neumorphism.io",
+          "neumorphism-io",
+          "Generador CSS estilo Neumorfismo (Soft UI)",
+          "design",
+          "color",
+          "neumorphism",
+          "soft-ui",
+          "css",
+          "generator"
+        ]
+      },
+      {
+        "id": "nextjs",
+        "slug": "next-js",
+        "terms": [
+          "Next.js",
+          "next-js",
+          "Renderizado híbrido y edge functions",
+          "development",
+          "frameworks",
+          "framework",
+          "react",
+          "ssr",
+          "edge"
+        ]
+      },
+      {
+        "id": "nextui",
+        "slug": "nextui",
+        "terms": [
+          "NextUI",
+          "nextui",
+          "Componentes React bonitos y accesibles",
+          "design",
+          "ui-libraries",
+          "ui",
+          "react",
+          "beautiful",
+          "accessible"
+        ]
+      },
+      {
+        "id": "notistack",
+        "slug": "notistack",
+        "terms": [
+          "notistack",
+          "Snackbars avanzados, integrado con MUI",
+          "development",
+          "react-stack",
+          "snackbars",
+          "notifications",
+          "mui",
+          "advanced"
+        ]
+      },
+      {
+        "id": "npkill",
+        "slug": "npkill",
+        "terms": [
+          "NPKill",
+          "npkill",
+          "Eliminar node_modules antiguos de proyectos",
+          "development",
+          "extensions",
+          "cleanup",
+          "node-modules",
+          "disk-space",
+          "utility"
+        ]
+      },
+      {
+        "id": "npm-check-updates",
+        "slug": "npm-check-updates",
+        "terms": [
+          "NPM Check Updates",
+          "npm-check-updates",
+          "Herramienta para actualizar deps",
+          "development",
+          "extensions",
+          "npm",
+          "updates",
+          "dependencies",
+          "tool"
+        ]
+      },
+      {
+        "id": "npmx",
+        "slug": "npmx",
+        "terms": [
+          "NPMX",
+          "npmx",
+          "Buscador de paquetes npm alternativo",
+          "development",
+          "extensions",
+          "npm",
+          "search",
+          "packages",
+          "alternative"
+        ]
+      },
+      {
+        "id": "nuxt",
+        "slug": "nuxt",
+        "terms": [
+          "Nuxt",
+          "nuxt",
+          "Framework Vue para producción",
+          "development",
+          "frameworks",
+          "framework",
+          "vue",
+          "production",
+          "ssr"
+        ]
+      },
+      {
+        "id": "pagina-author-gist",
+        "slug": "pagina-author-gist",
+        "terms": [
+          "Pagina Author Gist",
+          "pagina-author-gist",
+          "Ejemplo de pagina de autor",
+          "design",
+          "components",
+          "ui",
+          "gist",
+          "author",
+          "page"
+        ]
+      },
+      {
+        "id": "phosphor-icons",
+        "slug": "phosphor-icons",
+        "terms": [
+          "Phosphor Icons",
+          "phosphor-icons",
+          "9000+ íconos estilo flexible para dashboards",
+          "design",
+          "icons",
+          "flexible",
+          "dashboard",
+          "9000"
+        ]
+      },
+      {
+        "id": "pixel-agents",
+        "slug": "pixel-agents",
+        "terms": [
+          "Pixel Agents",
+          "pixel-agents",
+          "Agentes IA pixel art en VS Code",
+          "development",
+          "extensions",
+          "ai",
+          "pixel-art",
+          "vscode",
+          "extension"
+        ]
+      },
+      {
+        "id": "port-kill",
+        "slug": "port-kill",
+        "terms": [
+          "Port Kill",
+          "port-kill",
+          "Matar puertos ocupados",
+          "development",
+          "tools",
+          "ports",
+          "kill",
+          "utility",
+          "terminal"
+        ]
+      },
+      {
+        "id": "pragmatic-drag-drop",
+        "slug": "pragmatic-drag-and-drop",
+        "terms": [
+          "Pragmatic Drag and Drop",
+          "pragmatic-drag-and-drop",
+          "biblioteca drag and drop",
+          "development",
+          "tools",
+          "drag-drop",
+          "library",
+          "atlassian",
+          "interaction"
+        ]
+      },
+      {
+        "id": "preline-ui",
+        "slug": "preline-ui",
+        "terms": [
+          "Preline UI",
+          "preline-ui",
+          "Componentes UI Tailwind responsivos",
+          "design",
+          "ui-libraries",
+          "ui",
+          "tailwind",
+          "responsive",
+          "components"
+        ]
+      },
+      {
+        "id": "profile-card-13",
+        "slug": "profile-card-13",
+        "terms": [
+          "Profile Card 13",
+          "profile-card-13",
+          "Ejemplo tarjeta o credit card UI",
+          "design",
+          "components",
+          "ui",
+          "tailwind",
+          "card",
+          "component"
+        ]
+      },
+      {
+        "id": "profile-card-template",
+        "slug": "profile-card-template",
+        "terms": [
+          "Profile Card Template",
+          "profile-card-template",
+          "Tarjeta de perfil con Tailwind",
+          "design",
+          "components",
+          "ui",
+          "tailwind",
+          "profile-card",
+          "component"
+        ]
+      },
+      {
+        "id": "pttrns",
+        "slug": "pttrns",
+        "terms": [
+          "Pttrns",
+          "pttrns",
+          "Biblioteca patrones diseño móvil por flujo",
+          "design",
+          "inspiration",
+          "mobile",
+          "patterns",
+          "flows"
+        ]
+      },
+      {
+        "id": "radix-ui",
+        "slug": "radix-ui",
+        "terms": [
+          "Radix UI",
+          "radix-ui",
+          "Primitivos accesibles sin estilos base",
+          "design",
+          "ui-libraries",
+          "ui",
+          "accessible",
+          "primitives",
+          "headless"
+        ]
+      },
+      {
+        "id": "react",
+        "slug": "react",
+        "terms": [
+          "React",
+          "react",
+          "Biblioteca UI basada en componentes",
+          "development",
+          "frameworks",
+          "library",
+          "ui",
+          "components",
+          "frontend"
+        ]
+      },
+      {
+        "id": "react-aria",
+        "slug": "react-aria",
+        "terms": [
+          "React Aria",
+          "react-aria",
+          "Hooks accesibilidad Adobe sin estilos",
+          "design",
+          "ui-libraries",
+          "ui",
+          "accessibility",
+          "hooks",
+          "adobe"
+        ]
+      },
+      {
+        "id": "react-doctor",
+        "slug": "react-doctor",
+        "terms": [
+          "React Doctor",
+          "react-doctor",
+          "Optimiza código React",
+          "development",
+          "tools",
+          "react",
+          "optimization",
+          "code",
+          "tool"
+        ]
+      },
+      {
+        "id": "react-hook-form",
+        "slug": "react-hook-form",
+        "terms": [
+          "React Hook Form",
+          "react-hook-form",
+          "Rendimiento alto, controlado por refs",
+          "development",
+          "react-stack",
+          "forms",
+          "react",
+          "performance",
+          "refs"
+        ]
+      },
+      {
+        "id": "react-icons",
+        "slug": "react-icons",
+        "terms": [
+          "React Icons",
+          "react-icons",
+          "Múltiples librerías en una sola API unificada",
+          "design",
+          "icons",
+          "react",
+          "library",
+          "unified"
+        ]
+      },
+      {
+        "id": "react-chartjs-2",
+        "slug": "react-chartjs-2",
+        "terms": [
+          "react-chartjs-2",
+          "Wrapper oficial de Chart.js",
+          "development",
+          "react-stack",
+          "charts",
+          "chartjs",
+          "wrapper",
+          "official"
+        ]
+      },
+      {
+        "id": "react-hot-toast",
+        "slug": "react-hot-toast",
+        "terms": [
+          "react-hot-toast",
+          "Ligero, API simple, muy estable",
+          "development",
+          "react-stack",
+          "toasts",
+          "notifications",
+          "lightweight",
+          "stable"
+        ]
+      },
+      {
+        "id": "react-pdf-viewer",
+        "slug": "react-pdf",
+        "terms": [
+          "react-pdf",
+          "Visualizador de PDFs en navegador con React",
+          "development",
+          "react-stack",
+          "pdf",
+          "viewer",
+          "react",
+          "browser"
+        ]
+      },
+      {
+        "id": "recharts",
+        "slug": "recharts",
+        "terms": [
+          "Recharts",
+          "recharts",
+          "Basado en D3, declarativo, ligero y reactivo",
+          "development",
+          "react-stack",
+          "charts",
+          "d3",
+          "declarative",
+          "reactive"
+        ]
+      },
+      {
+        "id": "refero",
+        "slug": "refero",
+        "terms": [
+          "Refero",
+          "refero",
+          "Plataforma inspiración y biblioteca referencias UX/UI",
+          "design",
+          "inspiration",
+          "library",
+          "references",
+          "ux-ui"
+        ]
+      },
+      {
+        "id": "remix",
+        "slug": "remix",
+        "terms": [
+          "Remix",
+          "remix",
+          "Framework React full-stack moderno",
+          "development",
+          "frameworks",
+          "framework",
+          "react",
+          "fullstack",
+          "modern"
+        ]
+      },
+      {
+        "id": "remix-icons",
+        "slug": "remix-icons",
+        "terms": [
+          "Remix Icons",
+          "remix-icons",
+          "Estética moderna optimizada para desarrolladores",
+          "design",
+          "icons",
+          "modern",
+          "developer",
+          "optimized"
+        ]
+      },
+      {
+        "id": "replit",
+        "slug": "replit",
+        "terms": [
+          "Replit",
+          "replit",
+          "IDE cloud multi-lenguaje gratis colaborativo",
+          "development",
+          "ide",
+          "cloud",
+          "multi-language",
+          "collaborative"
+        ]
+      },
+      {
+        "id": "rising-stars-js-2025",
+        "slug": "rising-stars-js-2025",
+        "terms": [
+          "Rising Stars JS 2025",
+          "rising-stars-js-2025",
+          "Ranking de frameworks JS",
+          "development",
+          "tools",
+          "javascript",
+          "frameworks",
+          "ranking",
+          "2025"
+        ]
+      },
+      {
+        "id": "screenlane",
+        "slug": "screenlane",
+        "terms": [
+          "Screenlane",
+          "screenlane",
+          "Capturas interfaces móviles recientes filtradas",
+          "design",
+          "inspiration",
+          "mobile",
+          "screenshots",
+          "filtered"
+        ]
+      },
+      {
+        "id": "scrollxui",
+        "slug": "scrollxui",
+        "terms": [
+          "ScrollXUI",
+          "scrollxui",
+          "Biblioteca motion scroll con Tailwind",
+          "design",
+          "ui-libraries",
+          "ui",
+          "scroll",
+          "motion",
+          "tailwind"
+        ]
+      },
+      {
+        "id": "shadcn-ui",
+        "slug": "shadcn-ui",
+        "terms": [
+          "Shadcn/UI",
+          "shadcn-ui",
+          "Componentes accesibles copy-paste con CLI",
+          "design",
+          "ui-libraries",
+          "ui",
+          "components",
+          "tailwind",
+          "accessible",
+          "cli"
+        ]
+      },
+      {
+        "id": "shipfree",
+        "slug": "shipfree",
+        "terms": [
+          "ShipFree",
+          "shipfree",
+          "Plantilla ecommerce shop Next.js full repo",
+          "design",
+          "templates",
+          "ecommerce",
+          "nextjs",
+          "shop",
+          "full-repo"
+        ]
+      },
+      {
+        "id": "shipfree-repo",
+        "slug": "shipfree-repo",
+        "terms": [
+          "ShipFree Repo",
+          "shipfree-repo",
+          "plantilla ecommerce shop next full repo",
+          "design",
+          "templates",
+          "ecommerce",
+          "nextjs",
+          "github",
+          "repository"
+        ]
+      },
+      {
+        "id": "sileo-toast",
+        "slug": "sileo-toast",
+        "terms": [
+          "Sileo Toast",
+          "sileo-toast",
+          "Notificaciones React bonitas",
+          "development",
+          "tools",
+          "react",
+          "notifications",
+          "toast",
+          "ui"
+        ]
+      },
+      {
+        "id": "simple-icons",
+        "slug": "simple-icons",
+        "terms": [
+          "Simple Icons",
+          "simple-icons",
+          "Miles de iconos SVG para marcas populares",
+          "design",
+          "icons",
+          "brands",
+          "svg",
+          "popular"
+        ]
+      },
+      {
+        "id": "simple-navbar",
+        "slug": "simple-navbar",
+        "terms": [
+          "Simple Navbar",
+          "simple-navbar",
+          "Ejemplo de navbar Tailwind",
+          "design",
+          "components",
+          "ui",
+          "tailwind",
+          "navbar",
+          "component"
+        ]
+      },
+      {
+        "id": "siteinspire",
+        "slug": "siteinspire",
+        "terms": [
+          "SiteInspire",
+          "siteinspire",
+          "Galería curada diseño web limpio y funcional",
+          "design",
+          "inspiration",
+          "curated",
+          "clean",
+          "functional"
+        ]
+      },
+      {
+        "id": "solidjs",
+        "slug": "solidjs",
+        "terms": [
+          "SolidJS",
+          "solidjs",
+          "Framework UI reactividad compilada",
+          "development",
+          "frameworks",
+          "framework",
+          "reactivity",
+          "compiled",
+          "performance"
+        ]
+      },
+      {
+        "id": "sonner",
+        "slug": "sonner",
+        "terms": [
+          "Sonner",
+          "sonner",
+          "Toasts modernos, accesibles, animaciones suaves",
+          "development",
+          "react-stack",
+          "toasts",
+          "notifications",
+          "modern",
+          "accessible"
+        ]
+      },
+      {
+        "id": "stackblitz",
+        "slug": "stackblitz",
+        "terms": [
+          "StackBlitz",
+          "stackblitz",
+          "IDE web para full-stack JS/TS en navegador",
+          "development",
+          "ide",
+          "web",
+          "fullstack",
+          "browser"
+        ]
+      },
+      {
+        "id": "starterindex",
+        "slug": "starterindex",
+        "terms": [
+          "StarterIndex",
+          "starterindex",
+          "Plantillas webs organizadas por categoría",
+          "design",
+          "templates",
+          "organized",
+          "categories",
+          "web"
+        ]
+      },
+      {
+        "id": "starwind",
+        "slug": "starwind",
+        "terms": [
+          "Starwind",
+          "starwind",
+          "Componentes y recursos UI para Astro",
+          "design",
+          "ui-libraries",
+          "ui",
+          "astro",
+          "components",
+          "resources"
+        ]
+      },
+      {
+        "id": "svelte",
+        "slug": "svelte",
+        "terms": [
+          "Svelte",
+          "svelte",
+          "Compilador que elimina virtual DOM",
+          "development",
+          "frameworks",
+          "framework",
+          "compiler",
+          "no-vdom",
+          "lightweight"
+        ]
+      },
+      {
+        "id": "svg-backgrounds",
+        "slug": "svg-backgrounds",
+        "terms": [
+          "SVG Backgrounds",
+          "svg-backgrounds",
+          "Colección fondos y patrones SVG gratuitos",
+          "design",
+          "color",
+          "svg",
+          "backgrounds",
+          "patterns",
+          "free"
+        ]
+      },
+      {
+        "id": "svg-repo",
+        "slug": "svg-repo",
+        "terms": [
+          "SVG Repo",
+          "svg-repo",
+          "Colección vectores e iconos SVG gratuitos",
+          "design",
+          "icons",
+          "svg",
+          "vectors",
+          "free"
+        ]
+      },
+      {
+        "id": "svgl",
+        "slug": "svgl",
+        "terms": [
+          "SVGL",
+          "svgl",
+          "Colección SVG",
+          "development",
+          "tools",
+          "svg",
+          "collection",
+          "library",
+          "resources"
+        ]
+      },
+      {
+        "id": "swr",
+        "slug": "swr",
+        "terms": [
+          "SWR",
+          "swr",
+          "Fetching ligero de Vercel, ideal para Next.js",
+          "development",
+          "react-stack",
+          "data-fetching",
+          "vercel",
+          "lightweight",
+          "nextjs"
+        ]
+      },
+      {
+        "id": "tabler-icons",
+        "slug": "tabler-icons",
+        "terms": [
+          "Tabler Icons",
+          "tabler-icons",
+          "Open source consistente y limpio, 4950+ íconos",
+          "design",
+          "icons",
+          "open-source",
+          "clean",
+          "4950"
+        ]
+      },
+      {
+        "id": "tailkits",
+        "slug": "tailkits",
+        "terms": [
+          "Tailkits",
+          "tailkits",
+          "Biblioteca React, Tailwind CSS, Motion",
+          "design",
+          "ui-libraries",
+          "ui",
+          "react",
+          "tailwind",
+          "motion"
+        ]
+      },
+      {
+        "id": "tailwind-animate",
+        "slug": "tailwind-animate",
+        "terms": [
+          "Tailwind Animate",
+          "tailwind-animate",
+          "Animaciones predefinidas para Tailwind CSS",
+          "design",
+          "ui-libraries",
+          "animation",
+          "tailwind",
+          "css",
+          "predefined"
+        ]
+      },
+      {
+        "id": "tailwind-css",
+        "slug": "tailwind-css",
+        "terms": [
+          "Tailwind CSS",
+          "tailwind-css",
+          "Utility-first CSS rápido y personalizable",
+          "development",
+          "frameworks",
+          "css",
+          "utility-first",
+          "customizable",
+          "fast"
+        ]
+      },
+      {
+        "id": "tanstack-form",
+        "slug": "tanstack-form",
+        "terms": [
+          "TanStack Form",
+          "tanstack-form",
+          "Formularios avanzados y tipados",
+          "development",
+          "react-stack",
+          "forms",
+          "typescript",
+          "advanced",
+          "typed"
+        ]
+      },
+      {
+        "id": "tanstack-query",
+        "slug": "tanstack-query",
+        "terms": [
+          "TanStack Query",
+          "tanstack-query",
+          "Caché, sincronización, reintentos, paginación",
+          "development",
+          "react-stack",
+          "data-fetching",
+          "cache",
+          "sync",
+          "pagination"
+        ]
+      },
+      {
+        "id": "templates-404",
+        "slug": "templates-404",
+        "terms": [
+          "Templates 404",
+          "templates-404",
+          "Plantillas de páginas 404 personalizadas",
+          "design",
+          "templates",
+          "404",
+          "custom",
+          "html"
+        ]
+      },
+      {
+        "id": "tremor",
+        "slug": "tremor",
+        "terms": [
+          "Tremor",
+          "tremor",
+          "Componentes dashboards métricas React",
+          "design",
+          "ui-libraries",
+          "ui",
+          "dashboard",
+          "metrics",
+          "react"
+        ]
+      },
+      {
+        "id": "ui-sources",
+        "slug": "ui-sources",
+        "terms": [
+          "UI Sources",
+          "ui-sources",
+          "Enfoque en interacción, micro-interacciones UX",
+          "design",
+          "inspiration",
+          "interaction",
+          "micro-interactions",
+          "ux"
+        ]
+      },
+      {
+        "id": "uideck",
+        "slug": "uideck",
+        "terms": [
+          "UIdeck",
+          "uideck",
+          "Plantillas UI y componentes web",
+          "design",
+          "templates",
+          "ui",
+          "components",
+          "web"
+        ]
+      },
+      {
+        "id": "vector-logo-zone",
+        "slug": "vector-logo-zone",
+        "terms": [
+          "Vector Logo Zone",
+          "vector-logo-zone",
+          "Logotipos de marcas populares en SVG",
+          "design",
+          "icons",
+          "logos",
+          "brands",
+          "svg",
+          "popular"
+        ]
+      },
+      {
+        "id": "vscode",
+        "slug": "vs-code",
+        "terms": [
+          "VS Code",
+          "vs-code",
+          "Editor de código gratuito Microsoft",
+          "development",
+          "ide",
+          "editor",
+          "microsoft",
+          "free"
+        ]
+      },
+      {
+        "id": "vue",
+        "slug": "vue",
+        "terms": [
+          "Vue",
+          "vue",
+          "Framework progresivo de JavaScript",
+          "development",
+          "frameworks",
+          "framework",
+          "progressive",
+          "javascript",
+          "frontend"
+        ]
+      },
+      {
+        "id": "webstorm",
+        "slug": "webstorm",
+        "terms": [
+          "WebStorm",
+          "webstorm",
+          "IDE JetBrains para JS/TS con features avanzadas",
+          "development",
+          "ide",
+          "jetbrains",
+          "javascript",
+          "typescript"
+        ]
+      },
+      {
+        "id": "windmill-dashboard",
+        "slug": "windmill-dashboard",
+        "terms": [
+          "Windmill Dashboard",
+          "windmill-dashboard",
+          "Dashboard React Tailwind completo",
+          "design",
+          "ui-libraries",
+          "dashboard",
+          "react",
+          "tailwind",
+          "complete"
+        ]
+      },
+      {
+        "id": "windsurf",
+        "slug": "windsurf",
+        "terms": [
+          "Windsurf",
+          "windsurf",
+          "IDE para programación con IA Codeium",
+          "development",
+          "ide",
+          "ai",
+          "codeium",
+          "programming"
+        ]
+      },
+      {
+        "id": "zod",
+        "slug": "zod",
+        "terms": [
+          "Zod",
+          "zod",
+          "Validación de esquemas TypeScript-first",
+          "development",
+          "react-stack",
+          "validation",
+          "typescript",
+          "schema",
+          "typesafe"
+        ]
+      },
+      {
+        "id": "zustand",
+        "slug": "zustand",
+        "terms": [
+          "Zustand",
+          "zustand",
+          "Gestor de estado ligero, basado en hooks",
+          "development",
+          "react-stack",
+          "state",
+          "react",
+          "hooks",
+          "lightweight"
+        ]
+      }
+    ]
+  },
+  "filters": {
+    "categories": [
+      "design",
+      "development"
+    ],
+    "subcategories": [
+      "color",
+      "components",
+      "extensions",
+      "fonts",
+      "frameworks",
+      "icons",
+      "ide",
+      "inspiration",
+      "react-stack",
+      "templates",
+      "tools",
+      "ui-libraries"
+    ],
+    "pricing": [
+      "free",
+      "freemium",
+      "premium"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "status": [
+      "active"
+    ],
+    "verified": [
+      true
+    ],
+    "noCreditCard": [
+      false
+    ]
+  },
+  "ui": {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "title": "diseno-ui-ux_desarrollo_ide",
+    "description": "Dataset diseno-ui-ux_desarrollo_ide",
+    "resourceCount": 159
+  }
+}

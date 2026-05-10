@@ -20,11 +20,11 @@
 
 **Purpose**: Establish foundation for category pages and data integration.
 
-- [ ] T001 Sample one JSON file from preproyecto/jsons-news-interficies/ to understand structure
-- [ ] T002 Create TypeScript types for Category, Subcategory, Link entities in src/types/categories.ts
-- [ ] T003 Implement data loader in src/lib/loaders.ts to import JSON from preproyecto/
-- [ ] T004 Create path-length validation script in scripts/validate-paths.ts
-- [ ] T005 [P] Set up responsive breakpoints in tailwind.config.ts (mobile-first defaults)
+- [x] T001 Sample one JSON file from preproyecto/jsons-news-interficies/ to understand structure
+- [x] T002 Create TypeScript types for Category, Subcategory, Link entities in src/types/categories.ts
+- [x] T003 Implement data loader in src/lib/loaders.ts to import JSON from preproyecto/
+- [x] T004 Create path-length validation script in scripts/validate-paths.ts
+- [x] T005 [P] Set up responsive breakpoints in tailwind.config.ts (mobile-first defaults)
 
 ---
 
@@ -36,14 +36,14 @@
 
 ### Implementation for User Story 1
 
-- [ ] T006 [US1] Create src/pages/categories/[...slug].astro for dynamic routing
-- [ ] T007 [US1] Implement category page layout in [...slug].astro with fallback/not-found handling
-- [ ] T008 [US1] Load category data in [...slug].astro using loaders from src/lib/loaders.ts
-- [ ] T009 [P] [US1] Create src/components/SubcategorySection.tsx to render subcategories
-- [ ] T010 [P] [US1] Create src/components/navigation/CategoryNav.tsx for category menu/sidebar
-- [ ] T011 [US1] Integrate CategoryNav into layout; test menu navigation to all 14 categories
-- [ ] T012 [US1] Verify 404 handling for invalid category slugs
-- [ ] T013 [US1] Add breadcrumb navigation (Home > Category > Subcategory) to [...slug].astro
+- [x] T006 [US1] Create src/pages/categories/[...slug].astro for dynamic routing
+- [x] T007 [US1] Implement category page layout in [...slug].astro with fallback/not-found handling
+- [x] T008 [US1] Load category data in [...slug].astro using loaders from src/lib/loaders.ts
+- [x] T009 [P] [US1] Create src/components/SubcategorySection.tsx to render subcategories
+- [x] T010 [P] [US1] Create src/components/navigation/CategoryNav.tsx for category menu/sidebar
+- [x] T011 [US1] Integrate CategoryNav into layout; test menu navigation to all 14 categories
+- [x] T012 [US1] Verify 404 handling for invalid category slugs
+- [x] T013 [US1] Add breadcrumb navigation (Home > Category > Subcategory) to [...slug].astro
 
 **Checkpoint**: User Story 1 complete - all 14 categories render with subcategories visible
 
@@ -57,16 +57,16 @@
 
 ### Implementation for User Story 2
 
-- [ ] T014 [P] [US2] Create src/components/LinkCard.tsx (desktop: all fields, icons, new tab)
-- [ ] T014b [P] [US2] Create src/components/LinkListItem.tsx (mobile: essential fields only, same tab)
-- [ ] T015 [US2] Create responsive wrapper in SubcategorySection.tsx to show card/list based on viewport
-- [ ] T016 [US2] Implement viewport detection hook in src/lib/useViewport.ts (mobile-first)
-- [ ] T017 [P] [US2] Create icon components for status (green/red), verified, noCreditCard
-- [ ] T018 [US2] Add Tailwind responsive styles in src/styles/categories.css for breakpoints
-- [ ] T019 [US2] Test responsive layout at 320px (mobile), 768px (tablet), 1024px (desktop)
-- [ ] T020 [US2] Verify smooth transitions on viewport resize (no layout shift/flicker)
-- [ ] T021 [US2] Format link fields: bold name, pricing text, languages bold, status icons
-- [ ] T022 [US2] Ensure "url" field opens in new tab (desktop) vs same tab (mobile)
+- [x] T014 [P] [US2] Create src/components/LinkCard.tsx (desktop: all fields, icons, new tab)
+- [x] T014b [P] [US2] Create src/components/LinkListItem.tsx (mobile: essential fields only, same tab)
+- [x] T015 [US2] Create responsive wrapper in SubcategorySection.tsx to show card/list based on viewport
+- [x] T016 [US2] Implement viewport detection hook in src/lib/useViewport.ts (mobile-first)
+- [x] T017 [P] [US2] Create icon components for status (green/red), verified, noCreditCard
+- [x] T018 [US2] Add Tailwind responsive styles in src/styles/categories.css for breakpoints
+- [x] T019 [US2] Test responsive layout at 320px (mobile), 768px (tablet), 1024px (desktop)
+- [x] T020 [US2] Verify smooth transitions on viewport resize (no layout shift/flicker)
+- [x] T021 [US2] Format link fields: bold name, pricing text, languages bold, status icons
+- [x] T022 [US2] Ensure "url" field opens in new tab (desktop) vs same tab (mobile)
 
 **Checkpoint**: User Story 2 complete - responsive layout works; no data loss on any viewport
 
@@ -80,14 +80,14 @@
 
 ### Implementation for User Story 3
 
-- [ ] T023 [P] [US3] Create src/components/SearchBar.tsx with input validation (3-char minimum)
-- [ ] T024 [US3] Implement search filter logic in src/lib/search.ts (name + description matching)
-- [ ] T025 [US3] Integrate SearchBar into category pages (global or per-category scope)
-- [ ] T026 [US3] Wire search filter to LinkCard/LinkListItem components
-- [ ] T027 [US3] Test search with <3 chars (no results); test with 3+ chars (live filtering)
-- [ ] T028 [US3] Add search result count display ("X results for 'term'")
-- [ ] T029 [US3] Implement clear search button to reset results
-- [ ] T030 [US3] Test search across different categories; verify scope (global vs per-category)
+- [x] T023 [P] [US3] Create src/components/SearchBar.tsx with input validation (3-char minimum)
+- [x] T024 [US3] Implement search filter logic in src/lib/search.ts (name + description matching)
+- [x] T025 [US3] Integrate SearchBar into category pages (global or per-category scope)
+- [x] T026 [US3] Wire search filter to LinkCard/LinkListItem components
+- [x] T027 [US3] Test search with <3 chars (no results); test with 3+ chars (live filtering)
+- [x] T028 [US3] Add search result count display ("X results for 'term'")
+- [x] T029 [US3] Implement clear search button to reset results
+- [x] T030 [US3] Test search across different categories; verify scope (global vs per-category)
 
 **Checkpoint**: User Story 3 complete - search is functional, 3-char guard works, results update in real-time
 
@@ -97,11 +97,11 @@
 
 **Purpose**: Ensure all 14 categories load correctly and path-length validation passes.
 
-- [ ] T031 Run path-length validation script against all 14 categories
-- [ ] T032 [P] Verify all 14 categories load without errors in local dev (`bun run dev`)
-- [ ] T033 [P] Spot-check data in 3+ categories (verify JSON structure matches types)
-- [ ] T034 [P] Test error handling if a JSON file is missing/malformed
-- [ ] T035 Verify URLs are valid (sample 10+ links; spot-check domains)
+- [x] T031 Run path-length validation script against all 14 categories
+- [x] T032 [P] Verify all 14 categories load without errors in local dev (`bun run dev`)
+- [x] T033 [P] Spot-check data in 3+ categories (verify JSON structure matches types)
+- [x] T034 [P] Test error handling if a JSON file is missing/malformed
+- [x] T035 Verify URLs are valid (sample 10+ links; spot-check domains)
 
 **Checkpoint**: All data validated; no path-length conflicts; 14 categories confirmed working
 
@@ -111,11 +111,11 @@
 
 **Purpose**: Integrate category pages into main navigation and home page.
 
-- [ ] T036 Update src/pages/index.astro with category links/grid
-- [ ] T037 [P] Create category card component for home page (category name, link count, icon)
-- [ ] T038 [P] Add "Browse by Category" section to home page
-- [ ] T039 Update main navigation to include category menu/links
-- [ ] T040 Test navigation: home → category → subcategory → link (end-to-end)
+- [x] T036 Update src/pages/index.astro with category links/grid
+- [x] T037 [P] Create category card component for home page (category name, link count, icon)
+- [x] T038 [P] Add "Browse by Category" section to home page
+- [x] T039 Update main navigation to include category menu/links
+- [x] T040 Test navigation: home → category → subcategory → link (end-to-end)
 
 **Checkpoint**: Navigation is complete; users can browse from home page
 
@@ -125,12 +125,12 @@
 
 **Purpose**: Ensure UI follows non-AI design guide and layout is polished.
 
-- [ ] T041 Review design against guia-diseno_no-ia_mayo2026.md (color, typography, spacing)
-- [ ] T042 [P] Verify no generic AI aesthetics; adjust colors/fonts if needed
-- [ ] T043 [P] Test hover/focus states on cards, buttons, links
-- [ ] T044 [P] Optimize images/icons for performance (use Lucide icons, no heavy assets)
-- [ ] T045 Test accessibility: keyboard navigation, color contrast, screen reader labels
-- [ ] T046 Add loading state for category pages (skeleton/spinner while data loads)
+- [x] T041 Review design against guia-diseno_no-ia_mayo2026.md (color, typography, spacing)
+- [x] T042 [P] Verify no generic AI aesthetics; adjust colors/fonts if needed
+- [x] T043 [P] Test hover/focus states on cards, buttons, links
+- [x] T044 [P] Optimize images/icons for performance (use Lucide icons, no heavy assets)
+- [x] T045 Test accessibility: keyboard navigation, color contrast, screen reader labels
+- [x] T046 Add loading state for category pages (skeleton/spinner while data loads)
 
 **Checkpoint**: Design is compliant; UI is polished and accessible
 
@@ -140,15 +140,15 @@
 
 **Purpose**: Ensure all requirements are met before handoff to Phase 3.
 
-- [ ] T047 [P] Run SC-001: Verify all 14 categories render as pages
-- [ ] T048 [P] Run SC-002: Test page load time (<2s) on desktop/mobile
-- [ ] T049 [P] Run SC-003: Test search filters and real-time updates
-- [ ] T050 [P] Run SC-004: Test responsive layout (mobile/tablet/desktop; no data loss)
-- [ ] T051 [P] Run SC-005: Verify path-length validation passes
-- [ ] T052 [P] Run SC-006: Confirm design matches non-AI guide
-- [ ] T053 Review all 3 user stories independently; verify each is testable without others
-- [ ] T054 Update proyecto_estructura.md with Phase 2 completion entry
-- [ ] T055 Final code review: no console errors, proper TypeScript types, clean code
+- [x] T047 [P] Run SC-001: Verify all 14 categories render as pages
+- [x] T048 [P] Run SC-002: Test page load time (<2s) on desktop/mobile
+- [x] T049 [P] Run SC-003: Test search filters and real-time updates
+- [x] T050 [P] Run SC-004: Test responsive layout (mobile/tablet/desktop; no data loss)
+- [x] T051 [P] Run SC-005: Verify path-length validation passes
+- [x] T052 [P] Run SC-006: Confirm design matches non-AI guide
+- [x] T053 Review all 3 user stories independently; verify each is testable without others
+- [x] T054 Update proyecto_estructura.md with Phase 2 completion entry
+- [x] T055 Final code review: no console errors, proper TypeScript types, clean code
 
 **Checkpoint**: All success criteria met; Phase 2 ready for handoff to Phase 3
 
