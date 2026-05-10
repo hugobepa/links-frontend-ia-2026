@@ -19,15 +19,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
 
       - name: Setup Bun
-        uses: oven-sh/setup-bun@v2
+        uses: oven-sh/setup-bun@v2.0.6
         with:
           bun-version: latest
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v4.2.0
         with:
           node-version: "22"
 
@@ -38,7 +38,6 @@ jobs:
         run: bun run build
         env:
           SITE_URL: https://hugobepa.github.io/links-frontend-ia-2026
-          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
