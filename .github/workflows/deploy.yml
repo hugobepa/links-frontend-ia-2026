@@ -21,6 +21,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Cache dependencies
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.bun/install/cache
+            node_modules
+          key: ${{ runner.os }}-bun-${{ hashFiles('package.json', 'bun.lockb') }}
+          restore-keys: |
+            ${{ runner.os }}-bun-
+
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
 
@@ -36,6 +47,12 @@ jobs:
         run: bun run build
         env:
           SITE_URL: https://hugobepa.github.io/links-frontend-ia-2026
+
+      # Verify build output
+      - name: Verify build output
+        run: |
+          echo "Build output contents:"
+          ls -la ./dist
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
