@@ -38,6 +38,7 @@ jobs:
         run: bun run build
         env:
           SITE_URL: https://hugobepa.github.io/links-frontend-ia-2026
+          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
