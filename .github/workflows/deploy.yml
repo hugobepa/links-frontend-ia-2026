@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main, 002-links-frontend-ia-phase-2]
+    branches: [master, 002-links-frontend-ia-phase-2]
   workflow_dispatch:
 
 permissions:
