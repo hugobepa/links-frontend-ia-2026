@@ -14,3 +14,4 @@ solo trabajar con esta pagina y estos requerimientos:
     - y si hay no hay menos de paginas de 5 paginas solo aparecen las que hay
   - en todos los element screnshoot de esta pagina añadir link para ir a web: - mobil en la misma pagina - web crer pesatña nueva
     -seguir manteniendo botton top bloanate como esta hora
+    a
