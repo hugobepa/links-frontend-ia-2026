@@ -33,13 +33,13 @@ const t = getTranslations(lang);
           <span class="header__mobile-icon" aria-hidden="true">☰</span>
         </summary>
         <nav class="header__mobile-nav" aria-label="Mobile Navigation">
-          <a href={`/${lang === 'en' ? 'en/' : ''}`} class="header__mobile-link">
+          <a href={`${import.meta.env.BASE_URL}/${lang === 'en' ? 'en/' : ''}`} class="header__mobile-link">
             {t.nav.home}
           </a>
-          <a href={`/${lang === 'en' ? 'en/' : ''}categories`} class="header__mobile-link">
+          <a href={`${import.meta.env.BASE_URL}/${lang === 'en' ? 'en/' : ''}categories`} class="header__mobile-link">
             {t.nav.categories}
           </a>
-          <a href={`/${lang === 'en' ? 'en/' : ''}buscador`} class="header__mobile-link">
+          <a href={`${import.meta.env.BASE_URL}/${lang === 'en' ? 'en/' : ''}buscador`} class="header__mobile-link">
             {t.nav.search}
           </a>
         </nav>

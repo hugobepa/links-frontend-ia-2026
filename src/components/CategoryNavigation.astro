@@ -63,7 +63,7 @@ const t = getTranslations(lang);
     </summary>
     <div class="mt-4 space-y-2">
       {categories.map((item) => {
-        const mobilePrefix = lang === 'en' ? '/en' : '';
+        const mobilePrefix = `${import.meta.env.BASE_URL}${lang === 'en' ? '/en' : ''}`;
         return (
           <a
             href={`${mobilePrefix}/categories/${item.slug}`}
