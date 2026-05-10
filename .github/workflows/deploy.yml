@@ -1,8 +1,10 @@
 name: Deploy to GitHub Pages
 
 on:
+  # Ejecutar en cambios a la rama principal
   push:
-    branches: [main, 002-links-frontend-ia-phase-2]
+    branches: [main]
+  # Permitir ejecutar manualmente desde la interfaz de GitHub
   workflow_dispatch:
 
 permissions:
