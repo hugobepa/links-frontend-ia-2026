@@ -81,7 +81,7 @@ const t = getTranslations(lang);
     </main>
 
     <Footer lang={lang} />
-    <BackToTop client:load lang={lang} />
+    <BackToTop client:only="react" lang={lang} />
   </body>
 </html>
 
