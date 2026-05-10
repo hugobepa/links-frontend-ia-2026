@@ -11,18 +11,18 @@ const t = getTranslations(lang);
 
 <header class="header">
   <div class="header__container">
-    <a href={`/${lang === 'en' ? 'en/' : ''}`} class="header__logo">
+    <a href={`${import.meta.env.BASE_URL}/${lang === 'en' ? 'en/' : ''}`} class="header__logo">
       <span class="header__logo-text">Links Frontend IA</span>
     </a>
     
     <nav class="header__nav">
-      <a href={`/${lang === 'en' ? 'en/' : ''}`} class="header__nav-link">
+      <a href={`${import.meta.env.BASE_URL}/${lang === 'en' ? 'en/' : ''}`} class="header__nav-link">
         {t.nav.home}
       </a>
-      <a href={`/${lang === 'en' ? 'en/' : ''}categories`} class="header__nav-link">
+      <a href={`${import.meta.env.BASE_URL}/${lang === 'en' ? 'en/' : ''}categories`} class="header__nav-link">
         {t.nav.categories}
       </a>
-      <a href={`/${lang === 'en' ? 'en/' : ''}buscador`} class="header__nav-link">
+      <a href={`${import.meta.env.BASE_URL}/${lang === 'en' ? 'en/' : ''}buscador`} class="header__nav-link">
         {t.nav.search}
       </a>
     </nav>

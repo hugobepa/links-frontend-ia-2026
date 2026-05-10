@@ -1,0 +1,38 @@
+---
+// src/pages/404.astro
+// Esta página se genera como /<base>/404.html en desarrollo
+// Pero GitHub Pages usará public/404.html en producción
+const base = import.meta.env.BASE_URL;
+---
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Página no encontrada</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: #0a0a0a;
+            color: white;
+            text-align: center;
+        }
+        .container { padding: 2rem; }
+        h1 { font-size: 6rem; margin: 0; }
+        a { color: #7c3aed; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>404</h1>
+        <p>Lo sentimos, la página que buscas no existe.</p>
+        <a href={base || '/'}>← Volver al inicio</a>
+    </div>
+</body>
+</html>

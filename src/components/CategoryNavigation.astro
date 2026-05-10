@@ -62,14 +62,17 @@ const t = getTranslations(lang);
       <span class="text-gray-400">⌄</span>
     </summary>
     <div class="mt-4 space-y-2">
-      {categories.map((item) => (
-        <a
-          href={`/categories/${item.slug}`}
-          class="block rounded-lg border border-gray-200 px-3 py-2 text-sm font-medium text-gray-900"
-        >
-          {item.name}
-        </a>
-      ))}
+      {categories.map((item) => {
+        const mobilePrefix = lang === 'en' ? '/en' : '';
+        return (
+          <a
+            href={`${mobilePrefix}/categories/${item.slug}`}
+            class="block rounded-lg border border-gray-200 px-3 py-2 text-sm font-medium text-gray-900"
+          >
+            {item.name}
+          </a>
+        );
+      })}
     </div>
   </details>
 </div>

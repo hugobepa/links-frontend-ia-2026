@@ -1,41 +1,13 @@
-// @ts-check
+import react from "@astrojs/react";
 import starlight from "@astrojs/starlight";
 import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "astro/config";
 
-// https://astro.build/config
 export default defineConfig({
-  site: process.env.SITE_URL || "http://localhost:4321",
-  integrations: [
-    starlight({
-      title: "My Docs",
-      social: [
-        {
-          icon: "github",
-          label: "GitHub",
-          href: "https://github.com/withastro/starlight",
-        },
-      ],
-      sidebar: [
-        {
-          label: "Guides",
-          items: [
-            // Each item here is one entry in the navigation menu.
-            { label: "Example Guide", slug: "guides/example" },
-          ],
-        },
-        {
-          label: "Reference",
-          autogenerate: { directory: "reference" },
-        },
-      ],
-      customCss: [
-        // Path to your Tailwind base styles:
-        "./src/styles/global.css",
-      ],
-    }),
-  ],
-  vite: {
-    plugins: [tailwindcss()],
-  },
+  site: "https://hugobepa.github.io",
+  base: "/links-frontend-ia-2026",
+  output: "static",
+  trailingSlash: "always",
+  integrations: [starlight({ title: "links-frontend-ia-2026" }), react()],
+  vite: { plugins: [tailwindcss()] },
 });

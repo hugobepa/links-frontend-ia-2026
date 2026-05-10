@@ -5,7 +5,10 @@ import { defineConfig } from "astro/config";
 import react from "@astrojs/react";
 
 export default defineConfig({
-  site: process.env.SITE_URL || "http://localhost:4321",
+  site: "https://hugobepa.github.io",
+  base: "/links-frontend-ia-2026",
+  output: "static",
+  trailingSlash: "always",
   integrations: [starlight({ title: "links-frontend-ia-2026" }), react()],
   vite: { plugins: [tailwindcss()] },
 });
