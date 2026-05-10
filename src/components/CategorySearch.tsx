@@ -13,6 +13,7 @@ interface Category {
 interface CategorySearchProps {
   categories: Category[];
   lang: "es" | "en";
+  baseUrl?: string;
   translations: {
     placeholder: string;
     noResults: string;
@@ -22,6 +23,7 @@ interface CategorySearchProps {
 export function CategorySearch({
   categories,
   lang,
+  baseUrl = "",
   translations,
 }: CategorySearchProps) {
   const [query, setQuery] = useState("");
@@ -86,7 +88,7 @@ export function CategorySearch({
             return (
               <a
                 key={category.slug}
-                href={`/${lang === "en" ? "en/" : ""}categories/${category.slug}`}
+                href={`${baseUrl}/${lang === "en" ? "en/" : ""}categories/${category.slug}`}
                 className="rounded-lg border border-gray-200 p-6 transition-all hover:border-gray-300 hover:shadow-lg"
               >
                 <h2 className="text-lg font-bold mb-2">{category.name}</h2>

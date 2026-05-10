@@ -10,6 +10,7 @@ interface Props {
 
 const { categories, currentSlug, lang = 'es' } = Astro.props;
 const t = getTranslations(lang);
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
 <aside class="hidden lg:block">
@@ -22,7 +23,7 @@ const t = getTranslations(lang);
     <div class="space-y-3">
       {categories.map((item) => {
         const isCurrent = item.slug === currentSlug;
-        const prefix = `${import.meta.env.BASE_URL}${lang === 'en' ? '/en' : ''}`;
+        const prefix = `${baseUrl}${lang === 'en' ? '/en' : ''}`;
 
         return (
           <details open={isCurrent} class="group rounded-xl border border-gray-200 p-3">
@@ -63,7 +64,7 @@ const t = getTranslations(lang);
     </summary>
     <div class="mt-4 space-y-2">
       {categories.map((item) => {
-        const mobilePrefix = `${import.meta.env.BASE_URL}${lang === 'en' ? '/en' : ''}`;
+        const mobilePrefix = `${baseUrl}${lang === 'en' ? '/en' : ''}`;
         return (
           <a
             href={`${mobilePrefix}/categories/${item.slug}`}
