@@ -1,2326 +1,2536 @@
 {
-  "categories": [
-    {
-      "id": "cloud",
-      "name": "Cloud",
-      "slug": "cloud",
-      "resourceCount": 12,
-      "status": "active"
-    },
-    {
-      "id": "hosting",
-      "name": "Hosting",
-      "slug": "hosting",
-      "resourceCount": 7,
-      "status": "active"
-    },
-    {
-      "id": "version-control",
-      "name": "Version Control",
-      "slug": "version-control",
-      "resourceCount": 42,
-      "status": "active"
-    }
-  ],
-  "subcategories": [
-    {
-      "id": "deploy",
-      "name": "Deploy",
-      "slug": "deploy",
-      "category": "hosting",
-      "resourceCount": 7,
-      "status": "active"
-    },
-    {
-      "id": "learning",
-      "name": "Learning",
-      "slug": "learning",
-      "category": "version-control",
-      "resourceCount": 5,
-      "status": "active"
-    },
-    {
-      "id": "management",
-      "name": "Management",
-      "slug": "management",
-      "category": "cloud",
-      "resourceCount": 5,
-      "status": "active"
-    },
-    {
-      "id": "platforms",
-      "name": "Platforms",
-      "slug": "platforms",
-      "category": "version-control",
-      "resourceCount": 10,
-      "status": "active"
-    },
-    {
-      "id": "providers",
-      "name": "Providers",
-      "slug": "providers",
-      "category": "cloud",
-      "resourceCount": 7,
-      "status": "active"
-    },
-    {
-      "id": "resources",
-      "name": "Resources",
-      "slug": "resources",
-      "category": "version-control",
-      "resourceCount": 27,
-      "status": "active"
-    }
-  ],
-  "resources": [
-    {
-      "id": "30-seconds-of-code",
-      "name": "30-seconds-of-code",
-      "slug": "30-seconds-of-code",
-      "description": "Snippets de código útiles",
-      "url": "https://github.com/30-seconds/30-seconds-of-code",
-      "status": "active",
-      "tags": [
-        "snippets",
-        "code",
-        "utilities",
-        "javascript"
-      ],
-      "searchIndex": [
-        "30-seconds-of-code",
-        "Snippets de código útiles",
-        "version-control",
-        "resources",
-        "snippets",
-        "code",
-        "utilities",
-        "javascript"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "awesome-astro",
-      "name": "Awesome Astro",
-      "slug": "awesome-astro",
-      "description": "Temas y herramientas para Astro",
-      "url": "https://github.com/one-aalam/awesome-astro",
-      "status": "active",
-      "tags": [
-        "astro",
-        "static-site",
-        "awesome",
-        "resources"
-      ],
-      "searchIndex": [
-        "Awesome Astro",
-        "awesome-astro",
-        "Temas y herramientas para Astro",
-        "version-control",
-        "resources",
-        "astro",
-        "static-site",
-        "awesome"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "awesome-copilot",
-      "name": "Awesome Copilot",
-      "slug": "awesome-copilot",
-      "description": "Colección de recursos y extensiones Copilot",
-      "url": "https://awesome-copilot.github.com/",
-      "status": "active",
-      "tags": [
-        "github",
-        "copilot",
-        "awesome",
-        "extensions"
-      ],
-      "searchIndex": [
-        "Awesome Copilot",
-        "awesome-copilot",
-        "Colección de recursos y extensiones Copilot",
-        "version-control",
-        "resources",
-        "github",
-        "copilot",
-        "awesome",
-        "extensions"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "awesome-design-md",
-      "name": "Awesome Design MD",
-      "slug": "awesome-design-md",
-      "description": "Diseño 55 web importantes de marca",
-      "url": "https://github.com/VoltAgent/awesome-design-md",
-      "status": "active",
-      "tags": [
-        "design",
-        "awesome",
-        "brands",
-        "ui"
-      ],
-      "searchIndex": [
-        "Awesome Design MD",
-        "awesome-design-md",
-        "Diseño 55 web importantes de marca",
-        "version-control",
-        "resources",
-        "design",
-        "awesome",
-        "brands",
-        "ui"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "awesome-fastapi",
-      "name": "Awesome FastAPI",
-      "slug": "awesome-fastapi",
-      "description": "Recursos FastAPI",
-      "url": "https://github.com/mjhea0/awesome-fastapi",
-      "status": "active",
-      "tags": [
-        "fastapi",
-        "python",
-        "awesome",
-        "resources"
-      ],
-      "searchIndex": [
-        "Awesome FastAPI",
-        "awesome-fastapi",
-        "Recursos FastAPI",
-        "version-control",
-        "resources",
-        "fastapi",
-        "python",
-        "awesome"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "awesome-nestjs",
-      "name": "Awesome NestJS",
-      "slug": "awesome-nestjs",
-      "description": "Recursos NestJS",
-      "url": "https://github.com/juliandavidmr/awesome-nestjs",
-      "status": "active",
-      "tags": [
-        "nestjs",
-        "nodejs",
-        "awesome",
-        "resources"
-      ],
-      "searchIndex": [
-        "Awesome NestJS",
-        "awesome-nestjs",
-        "Recursos NestJS",
-        "version-control",
-        "resources",
-        "nestjs",
-        "nodejs",
-        "awesome"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "awesome-nextjs",
-      "name": "Awesome Next.js",
-      "slug": "awesome-next-js",
-      "description": "Recursos y ejemplos Next.js",
-      "url": "https://github.com/unicodeveloper/awesome-nextjs",
-      "status": "active",
-      "tags": [
-        "nextjs",
-        "react",
-        "awesome",
-        "resources"
-      ],
-      "searchIndex": [
-        "Awesome Next.js",
-        "awesome-next-js",
-        "Recursos y ejemplos Next.js",
-        "version-control",
-        "resources",
-        "nextjs",
-        "react",
-        "awesome"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "awesome-postgresql",
-      "name": "Awesome PostgreSQL",
-      "slug": "awesome-postgresql",
-      "description": "Recursos PostgreSQL",
-      "url": "https://github.com/dhamaniasg/awesome-postgres",
-      "status": "active",
-      "tags": [
-        "postgresql",
-        "database",
-        "awesome",
-        "resources"
-      ],
-      "searchIndex": [
-        "Awesome PostgreSQL",
-        "awesome-postgresql",
-        "Recursos PostgreSQL",
-        "version-control",
-        "resources",
-        "postgresql",
-        "database",
-        "awesome"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "awesome-python",
-      "name": "Awesome Python",
-      "slug": "awesome-python",
-      "description": "Recursos curados para Python",
-      "url": "https://github.com/vinta/awesome-python",
-      "status": "active",
-      "tags": [
-        "python",
-        "awesome",
-        "curated",
-        "resources"
-      ],
-      "searchIndex": [
-        "Awesome Python",
-        "awesome-python",
-        "Recursos curados para Python",
-        "version-control",
-        "resources",
-        "python",
-        "awesome",
-        "curated"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "awesome-react",
-      "name": "Awesome React",
-      "slug": "awesome-react",
-      "description": "Componentes y tools React",
-      "url": "https://github.com/enaqx/awesome-react",
-      "status": "active",
-      "tags": [
-        "react",
-        "components",
-        "awesome",
-        "resources"
-      ],
-      "searchIndex": [
-        "Awesome React",
-        "awesome-react",
-        "Componentes y tools React",
-        "version-control",
-        "resources",
-        "react",
-        "components",
-        "awesome"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "awesome-typescript",
-      "name": "Awesome TypeScript",
-      "slug": "awesome-typescript",
-      "description": "Recursos seleccionados para TS",
-      "url": "https://github.com/brookshi/awesome-typescript",
-      "status": "active",
-      "tags": [
-        "typescript",
-        "awesome",
-        "resources",
-        "typed"
-      ],
-      "searchIndex": [
-        "Awesome TypeScript",
-        "awesome-typescript",
-        "Recursos seleccionados para TS",
-        "version-control",
-        "resources",
-        "typescript",
-        "awesome",
-        "typed"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "aws-free-tier",
-      "name": "AWS Free Tier",
-      "slug": "aws-free-tier",
-      "description": "Capa gratuita AWS durante 12 meses con límites mensuales",
-      "url": "https://aws.amazon.com/free/",
-      "status": "active",
-      "tags": [
-        "cloud",
-        "aws",
-        "amazon",
-        "free-tier",
-        "12-months",
-        "backend",
-        "trial"
-      ],
-      "searchIndex": [
-        "AWS Free Tier",
-        "aws-free-tier",
-        "Capa gratuita AWS durante 12 meses con límites mensuales",
-        "cloud",
-        "providers",
-        "aws",
-        "amazon",
-        "free-tier",
-        "12-months",
-        "backend",
-        "trial"
-      ],
-      "category": "cloud",
-      "subcategory": "providers",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "12 meses, límites mensuales por servicio",
-      "added": "2026-01-15",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "azure-free",
-      "name": "Azure Free",
-      "slug": "azure-free",
-      "description": "Servicios gratis Microsoft Azure con crédito inicial",
-      "url": "https://azure.microsoft.com/free/",
-      "status": "active",
-      "tags": [
-        "cloud",
-        "azure",
-        "microsoft",
-        "credit",
-        "backend",
-        "trial"
-      ],
-      "searchIndex": [
-        "Azure Free",
-        "azure-free",
-        "Servicios gratis Microsoft Azure con crédito inicial",
-        "cloud",
-        "providers",
-        "azure",
-        "microsoft",
-        "credit",
-        "backend",
-        "trial"
-      ],
-      "category": "cloud",
-      "subcategory": "providers",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Crédito inicial + servicios free siempre activos",
-      "added": "2026-01-15",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "bitbucket",
-      "name": "Bitbucket",
-      "slug": "bitbucket",
-      "description": "Repos privados + pipelines gratis hasta 5 usuarios",
-      "url": "https://bitbucket.org",
-      "status": "active",
-      "tags": [
-        "git",
-        "repos",
-        "pipelines",
-        "atlassian",
-        "team"
-      ],
-      "searchIndex": [
-        "Bitbucket",
-        "bitbucket",
-        "Repos privados + pipelines gratis hasta 5 usuarios",
-        "version-control",
-        "platforms",
-        "git",
-        "repos",
-        "pipelines",
-        "atlassian",
-        "team"
-      ],
-      "category": "version-control",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "5 usuarios, 50min CI/mes, repos privados ilimitados",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "brainboard",
-      "name": "Brainboard",
-      "slug": "brainboard",
-      "description": "Infraestructura cloud visual con drag-and-drop",
-      "url": "https://www.brainboard.co/",
-      "status": "active",
-      "tags": [
-        "cloud",
-        "iac",
-        "visual",
-        "terraform",
-        "collaboration"
-      ],
-      "searchIndex": [
-        "Brainboard",
-        "brainboard",
-        "Infraestructura cloud visual con drag-and-drop",
-        "cloud",
-        "management",
-        "iac",
-        "visual",
-        "terraform",
-        "collaboration"
-      ],
-      "category": "cloud",
-      "subcategory": "management",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "1 proyecto, 3 usuarios, features básicas",
-      "added": "2026-01-25",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "cloud-66",
-      "name": "Cloud 66",
-      "slug": "cloud-66",
-      "description": "Deploy apps en cualquier cloud gratis",
-      "url": "https://www.cloud66.com/",
-      "status": "active",
-      "tags": [
-        "deploy",
-        "multi-cloud",
-        "automation",
-        "paas"
-      ],
-      "searchIndex": [
-        "Cloud 66",
-        "cloud-66",
-        "Deploy apps en cualquier cloud gratis",
-        "cloud",
-        "management",
-        "deploy",
-        "multi-cloud",
-        "automation",
-        "paas"
-      ],
-      "category": "cloud",
-      "subcategory": "management",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Plan gratuito con límites básicos",
-      "added": "2026-01-25",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "cloudflare-free",
-      "name": "Cloudflare Free",
-      "slug": "cloudflare-free",
-      "description": "DNS, CDN, Workers y SSL gratis sin tarjeta de crédito",
-      "url": "https://www.cloudflare.com/",
-      "status": "active",
-      "tags": [
-        "cloud",
-        "cdn",
-        "dns",
-        "workers",
-        "ssl",
-        "security",
-        "no-cc"
-      ],
-      "searchIndex": [
-        "Cloudflare Free",
-        "cloudflare-free",
-        "DNS, CDN, Workers y SSL gratis sin tarjeta de crédito",
-        "cloud",
-        "providers",
-        "cdn",
-        "dns",
-        "workers",
-        "ssl",
-        "security",
-        "no-cc"
-      ],
-      "category": "cloud",
-      "subcategory": "providers",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "100k requests/día Workers, DNS ilimitado",
-      "added": "2026-01-15",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "cloudflare-pages",
-      "name": "Cloudflare Pages",
-      "slug": "cloudflare-pages",
-      "description": "Hosting estático global gratis con edge functions",
-      "url": "https://pages.cloudflare.com",
-      "status": "active",
-      "tags": [
-        "hosting",
-        "static",
-        "edge",
-        "functions",
-        "global",
-        "cdn"
-      ],
-      "searchIndex": [
-        "Cloudflare Pages",
-        "cloudflare-pages",
-        "Hosting estático global gratis con edge functions",
-        "hosting",
-        "deploy",
-        "static",
-        "edge",
-        "functions",
-        "global",
-        "cdn"
-      ],
-      "category": "hosting",
-      "subcategory": "deploy",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "500 builds/mes, bandwidth ilimitado, 100 proyectos",
-      "added": "2026-01-20",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "codeberg",
-      "name": "Codeberg",
-      "slug": "codeberg",
-      "description": "Git libre con CI integrado y comunidad FOSS",
-      "url": "https://codeberg.org",
-      "status": "active",
-      "tags": [
-        "git",
-        "foss",
-        "open-source",
-        "ci",
-        "community"
-      ],
-      "searchIndex": [
-        "Codeberg",
-        "codeberg",
-        "Git libre con CI integrado y comunidad FOSS",
-        "version-control",
-        "platforms",
-        "git",
-        "foss",
-        "open-source",
-        "ci",
-        "community"
-      ],
-      "category": "version-control",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Completamente gratis, sin límites estrictos",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "deepsource-good-first",
-      "name": "DeepSourceCorp Good First",
-      "slug": "deepsourcecorp-good-first",
-      "description": "Issues para principiantes",
-      "url": "https://github.com/DeepSourceCorp/good-first-issue",
-      "status": "active",
-      "tags": [
-        "github",
-        "issues",
-        "beginners",
-        "open-source"
-      ],
-      "searchIndex": [
-        "DeepSourceCorp Good First",
-        "deepsourcecorp-good-first",
-        "Issues para principiantes",
-        "version-control",
-        "resources",
-        "github",
-        "issues",
-        "beginners",
-        "open-source"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "deployment-io",
-      "name": "deployment.io",
-      "slug": "deployment-io",
-      "description": "Automatiza despliegues en AWS con políticas",
-      "url": "https://deployment.io/",
-      "status": "active",
-      "tags": [
-        "aws",
-        "deployment",
-        "automation",
-        "policies",
-        "devops"
-      ],
-      "searchIndex": [
-        "deployment.io",
-        "deployment-io",
-        "Automatiza despliegues en AWS con políticas",
-        "cloud",
-        "management",
-        "aws",
-        "deployment",
-        "automation",
-        "policies",
-        "devops"
-      ],
-      "category": "cloud",
-      "subcategory": "management",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Según plan seleccionado",
-      "added": "2026-01-25",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "developer-roadmap",
-      "name": "Developer Roadmap",
-      "slug": "developer-roadmap",
-      "description": "Guías de aprendizaje para devs",
-      "url": "https://github.com/kamranahmedse/developer-roadmap",
-      "status": "active",
-      "tags": [
-        "roadmap",
-        "learning",
-        "career",
-        "guides"
-      ],
-      "searchIndex": [
-        "Developer Roadmap",
-        "developer-roadmap",
-        "Guías de aprendizaje para devs",
-        "version-control",
-        "resources",
-        "roadmap",
-        "learning",
-        "career",
-        "guides"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "dokploy",
-      "name": "Dokploy",
-      "slug": "dokploy",
-      "description": "Servidor open source tipo Vercel self-hosted",
-      "url": "https://github.com/Dokploy/dokploy",
-      "status": "active",
-      "tags": [
-        "hosting",
-        "open-source",
-        "self-hosted",
-        "vercel-alternative",
-        "docker"
-      ],
-      "searchIndex": [
-        "Dokploy",
-        "dokploy",
-        "Servidor open source tipo Vercel self-hosted",
-        "hosting",
-        "deploy",
-        "open-source",
-        "self-hosted",
-        "vercel-alternative",
-        "docker"
-      ],
-      "category": "hosting",
-      "subcategory": "deploy",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Depende de tu infra, 100% gratis el software",
-      "added": "2026-02-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "first-contributions",
-      "name": "First Contributions",
-      "slug": "first-contributions",
-      "description": "Tu primera contribución GitHub",
-      "url": "https://github.com/firstcontributions/first-contributions",
-      "status": "active",
-      "tags": [
-        "github",
-        "contributions",
-        "beginners",
-        "tutorial"
-      ],
-      "searchIndex": [
-        "First Contributions",
-        "first-contributions",
-        "Tu primera contribución GitHub",
-        "version-control",
-        "resources",
-        "github",
-        "contributions",
-        "beginners",
-        "tutorial"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "framagit",
-      "name": "Framagit",
-      "slug": "framagit",
-      "description": "Forge GitLab con CI y páginas estáticas gratis",
-      "url": "https://framagit.org",
-      "status": "active",
-      "tags": [
-        "git",
-        "gitlab",
-        "ci",
-        "pages",
-        "foss"
-      ],
-      "searchIndex": [
-        "Framagit",
-        "framagit",
-        "Forge GitLab con CI y páginas estáticas gratis",
-        "version-control",
-        "platforms",
-        "git",
-        "gitlab",
-        "ci",
-        "pages",
-        "foss"
-      ],
-      "category": "version-control",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Servicio gratuito de Framasoft",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "free-for-dev",
-      "name": "Free For Dev",
-      "slug": "free-for-dev",
-      "description": "Recursos gratis para devs",
-      "url": "https://github.com/ripienaar/free-for-dev",
-      "status": "active",
-      "tags": [
-        "free",
-        "dev-tools",
-        "resources",
-        "list"
-      ],
-      "searchIndex": [
-        "Free For Dev",
-        "free-for-dev",
-        "Recursos gratis para devs",
-        "version-control",
-        "resources",
-        "free",
-        "dev-tools",
-        "list"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "free-programming-books",
-      "name": "Free Programming Books",
-      "slug": "free-programming-books",
-      "description": "Libros de programación gratis",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "status": "active",
-      "tags": [
-        "books",
-        "free",
-        "programming",
-        "learning"
-      ],
-      "searchIndex": [
-        "Free Programming Books",
-        "free-programming-books",
-        "Libros de programación gratis",
-        "version-control",
-        "resources",
-        "books",
-        "free",
-        "programming",
-        "learning"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "git-scm",
-      "name": "Git SCM",
-      "slug": "git-scm",
-      "description": "Sitio web oficial con documentación completa",
-      "url": "https://git-scm.com/",
-      "status": "active",
-      "tags": [
-        "git",
-        "documentation",
-        "official",
-        "reference"
-      ],
-      "searchIndex": [
-        "Git SCM",
-        "git-scm",
-        "Sitio web oficial con documentación completa",
-        "version-control",
-        "learning",
-        "git",
-        "documentation",
-        "official",
-        "reference"
-      ],
-      "category": "version-control",
-      "subcategory": "learning",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "gitgud",
-      "name": "GitGud",
-      "slug": "gitgud",
-      "description": "GitLab con CI/CD y registry sin límites estrictos",
-      "url": "https://gitgud.io",
-      "status": "active",
-      "tags": [
-        "git",
-        "gitlab",
-        "ci-cd",
-        "registry"
-      ],
-      "searchIndex": [
-        "GitGud",
-        "gitgud",
-        "GitLab con CI/CD y registry sin límites estrictos",
-        "version-control",
-        "platforms",
-        "git",
-        "gitlab",
-        "ci-cd",
-        "registry"
-      ],
-      "category": "version-control",
-      "subcategory": "platforms",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Sin límites estrictos conocidos",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "github",
-      "name": "GitHub",
-      "slug": "github",
-      "description": "Repos ilimitados + CI/CD + Copilot AI integrado",
-      "url": "https://github.com",
-      "status": "active",
-      "tags": [
-        "git",
-        "repos",
-        "ci-cd",
-        "copilot",
-        "ai",
-        "collaboration"
-      ],
-      "searchIndex": [
-        "GitHub",
-        "github",
-        "Repos ilimitados + CI/CD + Copilot AI integrado",
-        "version-control",
-        "platforms",
-        "git",
-        "repos",
-        "ci-cd",
-        "copilot",
-        "ai",
-        "collaboration"
-      ],
-      "category": "version-control",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Repos públicos/privados ilimitados, CI/CD gratis",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "github-awesome",
-      "name": "GitHub Awesome",
-      "slug": "github-awesome",
-      "description": "Repositorio más popular de recursos curados",
-      "url": "https://github.com/sindresorhus/awesome",
-      "status": "active",
-      "tags": [
-        "github",
-        "awesome",
-        "curated",
-        "resources"
-      ],
-      "searchIndex": [
-        "GitHub Awesome",
-        "github-awesome",
-        "Repositorio más popular de recursos curados",
-        "version-control",
-        "resources",
-        "github",
-        "awesome",
-        "curated"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "github-copilot-cli",
-      "name": "GitHub Copilot CLI",
-      "slug": "github-copilot-cli",
-      "description": "Curso CLI GitHub Copilot para principiantes",
-      "url": "https://github.com/github/copilot-cli-for-beginners",
-      "status": "active",
-      "tags": [
-        "github",
-        "copilot",
-        "cli",
-        "course",
-        "beginners"
-      ],
-      "searchIndex": [
-        "GitHub Copilot CLI",
-        "github-copilot-cli",
-        "Curso CLI GitHub Copilot para principiantes",
-        "version-control",
-        "resources",
-        "github",
-        "copilot",
-        "cli",
-        "course",
-        "beginners"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "github-education",
-      "name": "GitHub Education",
-      "slug": "github-education",
-      "description": "Recursos gratis para estudiantes verificados",
-      "url": "https://education.github.com/pack",
-      "status": "active",
-      "tags": [
-        "github",
-        "education",
-        "students",
-        "free-pack"
-      ],
-      "searchIndex": [
-        "GitHub Education",
-        "github-education",
-        "Recursos gratis para estudiantes verificados",
-        "version-control",
-        "resources",
-        "github",
-        "education",
-        "students",
-        "free-pack"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Estudiantes verificados con email educativo",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "github-skills",
-      "name": "GitHub Skills",
-      "slug": "github-skills",
-      "description": "Cursos interactivos oficiales GitHub con feedback",
-      "url": "https://learn.github.com/",
-      "status": "active",
-      "tags": [
-        "github",
-        "learning",
-        "courses",
-        "interactive"
-      ],
-      "searchIndex": [
-        "GitHub Skills",
-        "github-skills",
-        "Cursos interactivos oficiales GitHub con feedback",
-        "version-control",
-        "resources",
-        "github",
-        "learning",
-        "courses",
-        "interactive"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "github-skills-intro",
-      "name": "GitHub Skills Introduction",
-      "slug": "github-skills-introduction",
-      "description": "Cursos interactivos oficiales de GitHub con feedback automatizado",
-      "url": "https://github.com/skills/introduction-to-git",
-      "status": "active",
-      "tags": [
-        "github",
-        "skills",
-        "course",
-        "interactive"
-      ],
-      "searchIndex": [
-        "GitHub Skills Introduction",
-        "github-skills-introduction",
-        "Cursos interactivos oficiales de GitHub con feedback automatizado",
-        "version-control",
-        "learning",
-        "github",
-        "skills",
-        "course",
-        "interactive"
-      ],
-      "category": "version-control",
-      "subcategory": "learning",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "github-topics",
-      "name": "GitHub Topics",
-      "slug": "github-topics",
-      "description": "Explorar repos por temas y tecnologías",
-      "url": "https://github.com/topics",
-      "status": "active",
-      "tags": [
-        "github",
-        "topics",
-        "discovery",
-        "tags"
-      ],
-      "searchIndex": [
-        "GitHub Topics",
-        "github-topics",
-        "Explorar repos por temas y tecnologías",
-        "version-control",
-        "resources",
-        "github",
-        "topics",
-        "discovery",
-        "tags"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "github-trending",
-      "name": "GitHub Trending",
-      "slug": "github-trending",
-      "description": "Repositorios GitHub trending actualizados diariamente",
-      "url": "https://github.com/trending",
-      "status": "active",
-      "tags": [
-        "github",
-        "trending",
-        "discovery",
-        "repos"
-      ],
-      "searchIndex": [
-        "GitHub Trending",
-        "github-trending",
-        "Repositorios GitHub trending actualizados diariamente",
-        "version-control",
-        "resources",
-        "github",
-        "trending",
-        "discovery",
-        "repos"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "gitlab",
-      "name": "GitLab",
-      "slug": "gitlab",
-      "description": "Repos + CI/CD + registry container integrado",
-      "url": "https://gitlab.com",
-      "status": "active",
-      "tags": [
-        "git",
-        "repos",
-        "ci-cd",
-        "registry",
-        "devops",
-        "container"
-      ],
-      "searchIndex": [
-        "GitLab",
-        "gitlab",
-        "Repos + CI/CD + registry container integrado",
-        "version-control",
-        "platforms",
-        "git",
-        "repos",
-        "ci-cd",
-        "registry",
-        "devops",
-        "container"
-      ],
-      "category": "version-control",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "CI/CD minutes limitados, repos privados gratis",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "good-first-issues",
-      "name": "Good First Issues",
-      "slug": "good-first-issues",
-      "description": "Issues fáciles para principiantes en open source",
-      "url": "https://goodfirstissues.com/",
-      "status": "active",
-      "tags": [
-        "github",
-        "issues",
-        "beginners",
-        "open-source"
-      ],
-      "searchIndex": [
-        "Good First Issues",
-        "good-first-issues",
-        "Issues fáciles para principiantes en open source",
-        "version-control",
-        "resources",
-        "github",
-        "issues",
-        "beginners",
-        "open-source"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "google-cloud-free",
-      "name": "Google Cloud Free",
-      "slug": "google-cloud-free",
-      "description": "Capas gratuitas GCP siempre activas para servicios seleccionados",
-      "url": "https://cloud.google.com/free",
-      "status": "active",
-      "tags": [
-        "cloud",
-        "gcp",
-        "google",
-        "free-tier",
-        "backend",
-        "infra",
-        "always-free"
-      ],
-      "searchIndex": [
-        "Google Cloud Free",
-        "google-cloud-free",
-        "Capas gratuitas GCP siempre activas para servicios seleccionados",
-        "cloud",
-        "providers",
-        "gcp",
-        "google",
-        "free-tier",
-        "backend",
-        "infra",
-        "always-free"
-      ],
-      "category": "cloud",
-      "subcategory": "providers",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Capas gratuitas seleccionadas siempre activas",
-      "added": "2026-01-15",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "hello-git-mouredev",
-      "name": "Hello Git (MoureDev)",
-      "slug": "hello-git-mouredev",
-      "description": "Curso completo de Git y GitHub desde cero en español",
-      "url": "https://github.com/mouredev/hello-git",
-      "status": "active",
-      "tags": [
-        "git",
-        "course",
-        "spanish",
-        "beginners"
-      ],
-      "searchIndex": [
-        "Hello Git (MoureDev)",
-        "hello-git-mouredev",
-        "Curso completo de Git y GitHub desde cero en español",
-        "version-control",
-        "learning",
-        "git",
-        "course",
-        "spanish",
-        "beginners"
-      ],
-      "category": "version-control",
-      "subcategory": "learning",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "heptapod",
-      "name": "Heptapod",
-      "slug": "heptapod",
-      "description": "GitLab + Mercurial soporte dual",
-      "url": "https://heptapod.net",
-      "status": "active",
-      "tags": [
-        "git",
-        "mercurial",
-        "gitlab",
-        "dual-vcs"
-      ],
-      "searchIndex": [
-        "Heptapod",
-        "heptapod",
-        "GitLab + Mercurial soporte dual",
-        "version-control",
-        "platforms",
-        "git",
-        "mercurial",
-        "gitlab",
-        "dual-vcs"
-      ],
-      "category": "version-control",
-      "subcategory": "platforms",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Servicio gratuito con límites estándar",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "ibm-cloud-free",
-      "name": "IBM Cloud Free",
-      "slug": "ibm-cloud-free",
-      "description": "DB, API Connect y monitoreo gratis con límites",
-      "url": "https://www.ibm.com/cloud/free/",
-      "status": "active",
-      "tags": [
-        "cloud",
-        "ibm",
-        "database",
-        "api",
-        "monitoring",
-        "free-tier"
-      ],
-      "searchIndex": [
-        "IBM Cloud Free",
-        "ibm-cloud-free",
-        "DB, API Connect y monitoreo gratis con límites",
-        "cloud",
-        "providers",
-        "ibm",
-        "database",
-        "api",
-        "monitoring",
-        "free-tier"
-      ],
-      "category": "cloud",
-      "subcategory": "providers",
-      "pricing": "premium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Límites por servicio, 30 días trial premium",
-      "added": "2026-01-15",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "koyeb",
-      "name": "Koyeb",
-      "slug": "koyeb",
-      "description": "Postgres 1GB gratis + 5h ejecución",
-      "url": "https://koyeb.com",
-      "status": "active",
-      "tags": [
-        "hosting",
-        "postgres",
-        "database",
-        "serverless",
-        "edge"
-      ],
-      "searchIndex": [
-        "Koyeb",
-        "koyeb",
-        "Postgres 1GB gratis + 5h ejecución",
-        "hosting",
-        "deploy",
-        "postgres",
-        "database",
-        "serverless",
-        "edge"
-      ],
-      "category": "hosting",
-      "subcategory": "deploy",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "1GB Postgres, 5h ejecución/mes, 2 services",
-      "added": "2026-02-15",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "learn-git-branching",
-      "name": "Learn Git Branching",
-      "slug": "learn-git-branching",
-      "description": "Tutorial visual e interactivo para branching",
-      "url": "https://learngitbranching.js.org/",
-      "status": "active",
-      "tags": [
-        "git",
-        "branching",
-        "tutorial",
-        "interactive"
-      ],
-      "searchIndex": [
-        "Learn Git Branching",
-        "learn-git-branching",
-        "Tutorial visual e interactivo para branching",
-        "version-control",
-        "learning",
-        "git",
-        "branching",
-        "tutorial",
-        "interactive"
-      ],
-      "category": "version-control",
-      "subcategory": "learning",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "libros-programacion-gratis",
-      "name": "Libros Programación Gratis",
-      "slug": "libros-programacion-gratis",
-      "description": "Repositorio midudev libros",
-      "url": "https://github.com/midudev/libros-programacion-gratis",
-      "status": "active",
-      "tags": [
-        "books",
-        "free",
-        "spanish",
-        "midudev"
-      ],
-      "searchIndex": [
-        "Libros Programación Gratis",
-        "libros-programacion-gratis",
-        "Repositorio midudev libros",
-        "version-control",
-        "resources",
-        "books",
-        "free",
-        "spanish",
-        "midudev"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "netlify",
-      "name": "Netlify",
-      "slug": "netlify",
-      "description": "Hosting estático con forms y functions serverless",
-      "url": "https://netlify.com",
-      "status": "active",
-      "tags": [
-        "hosting",
-        "static",
-        "forms",
-        "serverless",
-        "functions",
-        "deploy"
-      ],
-      "searchIndex": [
-        "Netlify",
-        "netlify",
-        "Hosting estático con forms y functions serverless",
-        "hosting",
-        "deploy",
-        "static",
-        "forms",
-        "serverless",
-        "functions"
-      ],
-      "category": "hosting",
-      "subcategory": "deploy",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "100GB bandwidth, 300 build-min/mes, forms ilimitados",
-      "added": "2026-01-20",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "oracle-cloud-free",
-      "name": "Oracle Cloud Free",
-      "slug": "oracle-cloud-free",
-      "description": "VMs, storage y DB gratis Oracle siempre activos",
-      "url": "https://www.oracle.com/cloud/free/",
-      "status": "active",
-      "tags": [
-        "cloud",
-        "oracle",
-        "vm",
-        "storage",
-        "database",
-        "always-free"
-      ],
-      "searchIndex": [
-        "Oracle Cloud Free",
-        "oracle-cloud-free",
-        "VMs, storage y DB gratis Oracle siempre activos",
-        "cloud",
-        "providers",
-        "oracle",
-        "vm",
-        "storage",
-        "database",
-        "always-free"
-      ],
-      "category": "cloud",
-      "subcategory": "providers",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "2x AMD VM + 4x ARM cores, 200GB storage",
-      "added": "2026-01-15",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "pagure",
-      "name": "Pagure",
-      "slug": "pagure",
-      "description": "Plataforma colaboración código FOSS",
-      "url": "https://pagure.io",
-      "status": "active",
-      "tags": [
-        "git",
-        "foss",
-        "collaboration",
-        "fedora"
-      ],
-      "searchIndex": [
-        "Pagure",
-        "pagure",
-        "Plataforma colaboración código FOSS",
-        "version-control",
-        "platforms",
-        "git",
-        "foss",
-        "collaboration",
-        "fedora"
-      ],
-      "category": "version-control",
-      "subcategory": "platforms",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Servicio gratuito de Fedora Project",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "pijul",
-      "name": "Pijul",
-      "slug": "pijul",
-      "description": "VCS distribuido basado en teoría patches",
-      "url": "https://pijul.com",
-      "status": "active",
-      "tags": [
-        "vcs",
-        "distributed",
-        "patches",
-        "alternative"
-      ],
-      "searchIndex": [
-        "Pijul",
-        "pijul",
-        "VCS distribuido basado en teoría patches",
-        "version-control",
-        "platforms",
-        "vcs",
-        "distributed",
-        "patches",
-        "alternative"
-      ],
-      "category": "version-control",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Open source, sin límites",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "pro-git-book",
-      "name": "Pro Git Book",
-      "slug": "pro-git-book",
-      "description": "Libro oficial de Git, segunda edición gratuito",
-      "url": "https://github.com/progit/progit2",
-      "status": "active",
-      "tags": [
-        "git",
-        "book",
-        "learning",
-        "official"
-      ],
-      "searchIndex": [
-        "Pro Git Book",
-        "pro-git-book",
-        "Libro oficial de Git, segunda edición gratuito",
-        "version-control",
-        "learning",
-        "git",
-        "book",
-        "official"
-      ],
-      "category": "version-control",
-      "subcategory": "learning",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "public-apis",
-      "name": "Public APIs",
-      "slug": "public-apis",
-      "description": "Lista de APIs públicas gratis",
-      "url": "https://github.com/public-apis/public-apis",
-      "status": "active",
-      "tags": [
-        "apis",
-        "public",
-        "free",
-        "list"
-      ],
-      "searchIndex": [
-        "Public APIs",
-        "public-apis",
-        "Lista de APIs públicas gratis",
-        "version-control",
-        "resources",
-        "apis",
-        "public",
-        "free",
-        "list"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "pulumi",
-      "name": "Pulumi",
-      "slug": "pulumi",
-      "description": "Infraestructura como código con JS/TS/Python",
-      "url": "https://www.pulumi.com/",
-      "status": "active",
-      "tags": [
-        "iac",
-        "typescript",
-        "python",
-        "cloud",
-        "terraform-alternative"
-      ],
-      "searchIndex": [
-        "Pulumi",
-        "pulumi",
-        "Infraestructura como código con JS/TS/Python",
-        "cloud",
-        "management",
-        "iac",
-        "typescript",
-        "python",
-        "terraform-alternative"
-      ],
-      "category": "cloud",
-      "subcategory": "management",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "10 deployments/mes, 1 usuario, features básicas",
-      "added": "2026-01-25",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "railway",
-      "name": "Railway",
-      "slug": "railway",
-      "description": "Deploy apps con $5 crédito inicial mensual",
-      "url": "https://railway.app",
-      "status": "active",
-      "tags": [
-        "hosting",
-        "backend",
-        "credit",
-        "deploy",
-        "docker",
-        "database"
-      ],
-      "searchIndex": [
-        "Railway",
-        "railway",
-        "Deploy apps con $5 crédito inicial mensual",
-        "hosting",
-        "deploy",
-        "backend",
-        "credit",
-        "docker",
-        "database"
-      ],
-      "category": "hosting",
-      "subcategory": "deploy",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "$5 crédito/mes, 500h runtime, 5GB storage",
-      "added": "2026-01-20",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "realworld",
-      "name": "RealWorld",
-      "slug": "realworld",
-      "description": "Ejemplos fullstack reales",
-      "url": "https://github.com/gothinkster/realworld",
-      "status": "active",
-      "tags": [
-        "fullstack",
-        "examples",
-        "real-world",
-        "tutorials"
-      ],
-      "searchIndex": [
-        "RealWorld",
-        "realworld",
-        "Ejemplos fullstack reales",
-        "version-control",
-        "resources",
-        "fullstack",
-        "examples",
-        "real-world",
-        "tutorials"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "render",
-      "name": "Render",
-      "slug": "render",
-      "description": "Backend y static sites con free tier generoso",
-      "url": "https://render.com",
-      "status": "active",
-      "tags": [
-        "hosting",
-        "backend",
-        "static",
-        "postgres",
-        "redis",
-        "deploy"
-      ],
-      "searchIndex": [
-        "Render",
-        "render",
-        "Backend y static sites con free tier generoso",
-        "hosting",
-        "deploy",
-        "backend",
-        "static",
-        "postgres",
-        "redis"
-      ],
-      "category": "hosting",
-      "subcategory": "deploy",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "750h/mes, 512MB RAM, 1GB SSD, 100GB egress",
-      "added": "2026-01-20",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "rocketgit",
-      "name": "RocketGit",
-      "slug": "rocketgit",
-      "description": "Hosting repos Git ilimitados",
-      "url": "https://rocketgit.com",
-      "status": "active",
-      "tags": [
-        "git",
-        "hosting",
-        "repos",
-        "unlimited"
-      ],
-      "searchIndex": [
-        "RocketGit",
-        "rocketgit",
-        "Hosting repos Git ilimitados",
-        "version-control",
-        "platforms",
-        "git",
-        "hosting",
-        "repos",
-        "unlimited"
-      ],
-      "category": "version-control",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Repos ilimitados gratis",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "scalr",
-      "name": "Scalr",
-      "slug": "scalr",
-      "description": "Terraform Automation colaborativa enterprise",
-      "url": "https://www.scalr.com/",
-      "status": "active",
-      "tags": [
-        "terraform",
-        "automation",
-        "enterprise",
-        "iac",
-        "collaboration"
-      ],
-      "searchIndex": [
-        "Scalr",
-        "scalr",
-        "Terraform Automation colaborativa enterprise",
-        "cloud",
-        "management",
-        "terraform",
-        "automation",
-        "enterprise",
-        "iac",
-        "collaboration"
-      ],
-      "category": "cloud",
-      "subcategory": "management",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Plan enterprise con límites personalizados",
-      "added": "2026-01-25",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "system-design-primer",
-      "name": "System Design Primer",
-      "slug": "system-design-primer",
-      "description": "Aprende diseño de sistemas",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "status": "active",
-      "tags": [
-        "system-design",
-        "learning",
-        "architecture",
-        "interviews"
-      ],
-      "searchIndex": [
-        "System Design Primer",
-        "system-design-primer",
-        "Aprende diseño de sistemas",
-        "version-control",
-        "resources",
-        "system-design",
-        "learning",
-        "architecture",
-        "interviews"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "vercel",
-      "name": "Vercel",
-      "slug": "vercel",
-      "description": "Deploy frontend con SSL y CDN global automático",
-      "url": "https://vercel.com",
-      "status": "active",
-      "tags": [
-        "hosting",
-        "frontend",
-        "nextjs",
-        "ssl",
-        "cdn",
-        "deploy",
-        "serverless"
-      ],
-      "searchIndex": [
-        "Vercel",
-        "vercel",
-        "Deploy frontend con SSL y CDN global automático",
-        "hosting",
-        "deploy",
-        "frontend",
-        "nextjs",
-        "ssl",
-        "cdn",
-        "serverless"
-      ],
-      "category": "hosting",
-      "subcategory": "deploy",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "100GB bandwidth/mes, 100 proyectos, 1000 serverless funcs",
-      "added": "2026-01-20",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "zoho-free",
-      "name": "Zoho Free",
-      "slug": "zoho-free",
-      "description": "Suite productividad: email, docs, chat gratis",
-      "url": "https://www.zoho.com/",
-      "status": "active",
-      "tags": [
-        "productivity",
-        "email",
-        "docs",
-        "chat",
-        "suite",
-        "free"
-      ],
-      "searchIndex": [
-        "Zoho Free",
-        "zoho-free",
-        "Suite productividad: email, docs, chat gratis",
-        "cloud",
-        "providers",
-        "productivity",
-        "email",
-        "docs",
-        "chat",
-        "suite",
-        "free"
-      ],
-      "category": "cloud",
-      "subcategory": "providers",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "5 usuarios, 5GB/usuario, límites por app",
-      "added": "2026-01-15",
-      "verified": true,
-      "noCreditCard": true
-    }
-  ]
+    "categories":  [
+                       {
+                           "id":  "version-control",
+                           "name":  "Version Control",
+                           "slug":  "version-control",
+                           "resourceCount":  47,
+                           "status":  "active"
+                       },
+                       {
+                           "id":  "cloud",
+                           "name":  "Cloud",
+                           "slug":  "cloud",
+                           "resourceCount":  12,
+                           "status":  "active"
+                       },
+                       {
+                           "id":  "hosting",
+                           "name":  "Hosting",
+                           "slug":  "hosting",
+                           "resourceCount":  8,
+                           "status":  "active"
+                       }
+                   ],
+    "subcategories":  [
+                          {
+                              "id":  "resources",
+                              "name":  "Resources",
+                              "slug":  "resources",
+                              "category":  "version-control",
+                              "resourceCount":  32,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "providers",
+                              "name":  "Providers",
+                              "slug":  "providers",
+                              "category":  "cloud",
+                              "resourceCount":  7,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "platforms",
+                              "name":  "Platforms",
+                              "slug":  "platforms",
+                              "category":  "version-control",
+                              "resourceCount":  10,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "management",
+                              "name":  "Management",
+                              "slug":  "management",
+                              "category":  "cloud",
+                              "resourceCount":  5,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "deploy",
+                              "name":  "Deploy",
+                              "slug":  "deploy",
+                              "category":  "hosting",
+                              "resourceCount":  8,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "learning",
+                              "name":  "Learning",
+                              "slug":  "learning",
+                              "category":  "version-control",
+                              "resourceCount":  5,
+                              "status":  "active"
+                          }
+                      ],
+    "resources":  [
+                      {
+                          "id":  "30-seconds-of-code",
+                          "name":  "30-seconds-of-code",
+                          "slug":  "30-seconds-of-code",
+                          "description":  "Snippets de código útiles",
+                          "url":  "https://github.com/30-seconds/30-seconds-of-code",
+                          "status":  "active",
+                          "tags":  [
+                                       "snippets",
+                                       "code",
+                                       "utilities",
+                                       "javascript"
+                                   ],
+                          "searchIndex":  [
+                                              "30-seconds-of-code",
+                                              "Snippets de código útiles",
+                                              "version-control",
+                                              "resources",
+                                              "snippets",
+                                              "code",
+                                              "utilities",
+                                              "javascript"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "awesome-astro",
+                          "name":  "Awesome Astro",
+                          "slug":  "awesome-astro",
+                          "description":  "Temas y herramientas para Astro",
+                          "url":  "https://github.com/one-aalam/awesome-astro",
+                          "status":  "active",
+                          "tags":  [
+                                       "astro",
+                                       "static-site",
+                                       "awesome",
+                                       "resources"
+                                   ],
+                          "searchIndex":  [
+                                              "Awesome Astro",
+                                              "awesome-astro",
+                                              "Temas y herramientas para Astro",
+                                              "version-control",
+                                              "resources",
+                                              "astro",
+                                              "static-site",
+                                              "awesome"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "awesome-copilot",
+                          "name":  "Awesome Copilot",
+                          "slug":  "awesome-copilot",
+                          "description":  "Colección de recursos y extensiones Cop",
+                          "url":  "https://awesome-copilot.github.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "github",
+                                       "copilot",
+                                       "awesome",
+                                       "extensions"
+                                   ],
+                          "searchIndex":  [
+                                              "Awesome Copilot",
+                                              "awesome-copilot",
+                                              "Colección de recursos y extensiones Copilot",
+                                              "version-control",
+                                              "resources",
+                                              "github",
+                                              "copilot",
+                                              "awesome",
+                                              "extensions"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "awesome-design-md",
+                          "name":  "Awesome Design MD",
+                          "slug":  "awesome-design-md",
+                          "description":  "Diseño 55 web importantes de marca",
+                          "url":  "https://github.com/VoltAgent/awesome-design-md",
+                          "status":  "active",
+                          "tags":  [
+                                       "design",
+                                       "awesome",
+                                       "brands",
+                                       "ui"
+                                   ],
+                          "searchIndex":  [
+                                              "Awesome Design MD",
+                                              "awesome-design-md",
+                                              "Diseño 55 web importantes de marca",
+                                              "version-control",
+                                              "resources",
+                                              "design",
+                                              "awesome",
+                                              "brands",
+                                              "ui"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "awesome-fastapi",
+                          "name":  "Awesome FastAPI",
+                          "slug":  "awesome-fastapi",
+                          "description":  "Recursos FastAPI",
+                          "url":  "https://github.com/mjhea0/awesome-fastapi",
+                          "status":  "active",
+                          "tags":  [
+                                       "fastapi",
+                                       "python",
+                                       "awesome",
+                                       "resources"
+                                   ],
+                          "searchIndex":  [
+                                              "Awesome FastAPI",
+                                              "awesome-fastapi",
+                                              "Recursos FastAPI",
+                                              "version-control",
+                                              "resources",
+                                              "fastapi",
+                                              "python",
+                                              "awesome"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "awesome-nestjs",
+                          "name":  "Awesome NestJS",
+                          "slug":  "awesome-nestjs",
+                          "description":  "Recursos NestJS",
+                          "url":  "https://github.com/juliandavidmr/awesome-nestjs",
+                          "status":  "active",
+                          "tags":  [
+                                       "nestjs",
+                                       "nodejs",
+                                       "awesome",
+                                       "resources"
+                                   ],
+                          "searchIndex":  [
+                                              "Awesome NestJS",
+                                              "awesome-nestjs",
+                                              "Recursos NestJS",
+                                              "version-control",
+                                              "resources",
+                                              "nestjs",
+                                              "nodejs",
+                                              "awesome"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "awesome-nextjs",
+                          "name":  "Awesome Next.js",
+                          "slug":  "awesome-next-js",
+                          "description":  "Recursos y ejemplos Next.js",
+                          "url":  "https://github.com/unicodeveloper/awesome-nextjs",
+                          "status":  "active",
+                          "tags":  [
+                                       "nextjs",
+                                       "react",
+                                       "awesome",
+                                       "resources"
+                                   ],
+                          "searchIndex":  [
+                                              "Awesome Next.js",
+                                              "awesome-next-js",
+                                              "Recursos y ejemplos Next.js",
+                                              "version-control",
+                                              "resources",
+                                              "nextjs",
+                                              "react",
+                                              "awesome"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "awesome-open-source-ai",
+                          "name":  "Awesome Open Source AI",
+                          "slug":  "awesome-open-source-ai",
+                          "description":  "Lista curada proyectos IA open source",
+                          "url":  "https://github.com/alvinreal/awesome-opensource-ai",
+                          "status":  "active",
+                          "tags":  [
+                                       "version-control",
+                                       "resources",
+                                       "y-control-de-versiones-repositorios",
+                                       "recursos-github",
+                                       "awesome-open-source-ai"
+                                   ],
+                          "searchIndex":  [
+                                              "Awesome Open Source AI",
+                                              "awesome-open-source-ai",
+                                              "Lista curada proyectos IA open source",
+                                              "version-control",
+                                              "resources",
+                                              "y-control-de-versiones-repositorios",
+                                              "recursos-github"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "awesome-postgresql",
+                          "name":  "Awesome PostgreSQL",
+                          "slug":  "awesome-postgresql",
+                          "description":  "Recursos PostgreSQL",
+                          "url":  "https://github.com/dhamaniasg/awesome-postgres",
+                          "status":  "active",
+                          "tags":  [
+                                       "postgresql",
+                                       "database",
+                                       "awesome",
+                                       "resources"
+                                   ],
+                          "searchIndex":  [
+                                              "Awesome PostgreSQL",
+                                              "awesome-postgresql",
+                                              "Recursos PostgreSQL",
+                                              "version-control",
+                                              "resources",
+                                              "postgresql",
+                                              "database",
+                                              "awesome"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "awesome-python",
+                          "name":  "Awesome Python",
+                          "slug":  "awesome-python",
+                          "description":  "Recursos curados para Python",
+                          "url":  "https://github.com/vinta/awesome-python",
+                          "status":  "active",
+                          "tags":  [
+                                       "python",
+                                       "awesome",
+                                       "curated",
+                                       "resources"
+                                   ],
+                          "searchIndex":  [
+                                              "Awesome Python",
+                                              "awesome-python",
+                                              "Recursos curados para Python",
+                                              "version-control",
+                                              "resources",
+                                              "python",
+                                              "awesome",
+                                              "curated"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "awesome-react",
+                          "name":  "Awesome React",
+                          "slug":  "awesome-react",
+                          "description":  "Componentes y tools React",
+                          "url":  "https://github.com/enaqx/awesome-react",
+                          "status":  "active",
+                          "tags":  [
+                                       "react",
+                                       "components",
+                                       "awesome",
+                                       "resources"
+                                   ],
+                          "searchIndex":  [
+                                              "Awesome React",
+                                              "awesome-react",
+                                              "Componentes y tools React",
+                                              "version-control",
+                                              "resources",
+                                              "react",
+                                              "components",
+                                              "awesome"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "awesome-typescript",
+                          "name":  "Awesome TypeScript",
+                          "slug":  "awesome-typescript",
+                          "description":  "Recursos seleccionados para TS",
+                          "url":  "https://github.com/brookshi/awesome-typescript",
+                          "status":  "active",
+                          "tags":  [
+                                       "typescript",
+                                       "awesome",
+                                       "resources",
+                                       "typed"
+                                   ],
+                          "searchIndex":  [
+                                              "Awesome TypeScript",
+                                              "awesome-typescript",
+                                              "Recursos seleccionados para TS",
+                                              "version-control",
+                                              "resources",
+                                              "typescript",
+                                              "awesome",
+                                              "typed"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "aws-free-tier",
+                          "name":  "AWS Free Tier",
+                          "slug":  "aws-free-tier",
+                          "description":  "Capa gratuita AWS durante 12 meses con l",
+                          "url":  "https://aws.amazon.com/free/",
+                          "status":  "active",
+                          "tags":  [
+                                       "cloud",
+                                       "aws",
+                                       "amazon",
+                                       "free-tier",
+                                       "12-months",
+                                       "backend",
+                                       "trial"
+                                   ],
+                          "searchIndex":  [
+                                              "AWS Free Tier",
+                                              "aws-free-tier",
+                                              "Capa gratuita AWS durante 12 meses con límites mensuales",
+                                              "cloud",
+                                              "providers",
+                                              "aws",
+                                              "amazon",
+                                              "free-tier",
+                                              "12-months",
+                                              "backend",
+                                              "trial"
+                                          ],
+                          "category":  "cloud",
+                          "subcategory":  "providers",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "12 meses, límites mensuales por servicio",
+                          "added":  "2026-01-15",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "azure-free",
+                          "name":  "Azure Free",
+                          "slug":  "azure-free",
+                          "description":  "Servicios gratis Microsoft Azure con cr�",
+                          "url":  "https://azure.microsoft.com/free/",
+                          "status":  "active",
+                          "tags":  [
+                                       "cloud",
+                                       "azure",
+                                       "microsoft",
+                                       "credit",
+                                       "backend",
+                                       "trial"
+                                   ],
+                          "searchIndex":  [
+                                              "Azure Free",
+                                              "azure-free",
+                                              "Servicios gratis Microsoft Azure con crédito inicial",
+                                              "cloud",
+                                              "providers",
+                                              "azure",
+                                              "microsoft",
+                                              "credit",
+                                              "backend",
+                                              "trial"
+                                          ],
+                          "category":  "cloud",
+                          "subcategory":  "providers",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Crédito inicial + servicios free siempre activos",
+                          "added":  "2026-01-15",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "bitbucket",
+                          "name":  "Bitbucket",
+                          "slug":  "bitbucket",
+                          "description":  "Repos privados + pipelines gratis hasta",
+                          "url":  "https://bitbucket.org",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "repos",
+                                       "pipelines",
+                                       "atlassian",
+                                       "team"
+                                   ],
+                          "searchIndex":  [
+                                              "Bitbucket",
+                                              "bitbucket",
+                                              "Repos privados + pipelines gratis hasta 5 usuarios",
+                                              "version-control",
+                                              "platforms",
+                                              "git",
+                                              "repos",
+                                              "pipelines",
+                                              "atlassian",
+                                              "team"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "5 usuarios, 50min CI/mes, repos privados ilimitados",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "brainboard",
+                          "name":  "Brainboard",
+                          "slug":  "brainboard",
+                          "description":  "Infraestructura cloud visual con drag-an",
+                          "url":  "https://www.brainboard.co/",
+                          "status":  "active",
+                          "tags":  [
+                                       "cloud",
+                                       "iac",
+                                       "visual",
+                                       "terraform",
+                                       "collaboration"
+                                   ],
+                          "searchIndex":  [
+                                              "Brainboard",
+                                              "brainboard",
+                                              "Infraestructura cloud visual con drag-and-drop",
+                                              "cloud",
+                                              "management",
+                                              "iac",
+                                              "visual",
+                                              "terraform",
+                                              "collaboration"
+                                          ],
+                          "category":  "cloud",
+                          "subcategory":  "management",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "1 proyecto, 3 usuarios, features básicas",
+                          "added":  "2026-01-25",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "cloud-66",
+                          "name":  "Cloud 66",
+                          "slug":  "cloud-66",
+                          "description":  "Deploy apps en cualquier cloud gratis",
+                          "url":  "https://www.cloud66.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "deploy",
+                                       "multi-cloud",
+                                       "automation",
+                                       "paas"
+                                   ],
+                          "searchIndex":  [
+                                              "Cloud 66",
+                                              "cloud-66",
+                                              "Deploy apps en cualquier cloud gratis",
+                                              "cloud",
+                                              "management",
+                                              "deploy",
+                                              "multi-cloud",
+                                              "automation",
+                                              "paas"
+                                          ],
+                          "category":  "cloud",
+                          "subcategory":  "management",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Plan gratuito con límites básicos",
+                          "added":  "2026-01-25",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "cloudflare-free",
+                          "name":  "Cloudflare Free",
+                          "slug":  "cloudflare-free",
+                          "description":  "DNS, CDN, Workers y SSL gratis sin tarje",
+                          "url":  "https://www.cloudflare.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "cloud",
+                                       "cdn",
+                                       "dns",
+                                       "workers",
+                                       "ssl",
+                                       "security",
+                                       "no-cc"
+                                   ],
+                          "searchIndex":  [
+                                              "Cloudflare Free",
+                                              "cloudflare-free",
+                                              "DNS, CDN, Workers y SSL gratis sin tarjeta de crédito",
+                                              "cloud",
+                                              "providers",
+                                              "cdn",
+                                              "dns",
+                                              "workers",
+                                              "ssl",
+                                              "security",
+                                              "no-cc"
+                                          ],
+                          "category":  "cloud",
+                          "subcategory":  "providers",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "100k requests/día Workers, DNS ilimitado",
+                          "added":  "2026-01-15",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "cloudflare-pages",
+                          "name":  "Cloudflare Pages",
+                          "slug":  "cloudflare-pages",
+                          "description":  "Hosting estático global gratis con edge",
+                          "url":  "https://pages.cloudflare.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "hosting",
+                                       "static",
+                                       "edge",
+                                       "functions",
+                                       "global",
+                                       "cdn"
+                                   ],
+                          "searchIndex":  [
+                                              "Cloudflare Pages",
+                                              "cloudflare-pages",
+                                              "Hosting estático global gratis con edge functions",
+                                              "hosting",
+                                              "deploy",
+                                              "static",
+                                              "edge",
+                                              "functions",
+                                              "global",
+                                              "cdn"
+                                          ],
+                          "category":  "hosting",
+                          "subcategory":  "deploy",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "500 builds/mes, bandwidth ilimitado, 100 proyectos",
+                          "added":  "2026-01-20",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "codeberg",
+                          "name":  "Codeberg",
+                          "slug":  "codeberg",
+                          "description":  "Git libre con CI integrado y comunidad F",
+                          "url":  "https://codeberg.org",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "foss",
+                                       "open-source",
+                                       "ci",
+                                       "community"
+                                   ],
+                          "searchIndex":  [
+                                              "Codeberg",
+                                              "codeberg",
+                                              "Git libre con CI integrado y comunidad FOSS",
+                                              "version-control",
+                                              "platforms",
+                                              "git",
+                                              "foss",
+                                              "open-source",
+                                              "ci",
+                                              "community"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Completamente gratis, sin límites estrictos",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "deepsource-good-first",
+                          "name":  "DeepSourceCorp Good First",
+                          "slug":  "deepsourcecorp-good-first",
+                          "description":  "Issues para principiantes",
+                          "url":  "https://github.com/DeepSourceCorp/good-first-issue",
+                          "status":  "active",
+                          "tags":  [
+                                       "github",
+                                       "issues",
+                                       "beginners",
+                                       "open-source"
+                                   ],
+                          "searchIndex":  [
+                                              "DeepSourceCorp Good First",
+                                              "deepsourcecorp-good-first",
+                                              "Issues para principiantes",
+                                              "version-control",
+                                              "resources",
+                                              "github",
+                                              "issues",
+                                              "beginners",
+                                              "open-source"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "deployment-io",
+                          "name":  "deployment.io",
+                          "slug":  "deployment-io",
+                          "description":  "Automatiza despliegues en AWS con polít",
+                          "url":  "https://deployment.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "aws",
+                                       "deployment",
+                                       "automation",
+                                       "policies",
+                                       "devops"
+                                   ],
+                          "searchIndex":  [
+                                              "deployment.io",
+                                              "deployment-io",
+                                              "Automatiza despliegues en AWS con políticas",
+                                              "cloud",
+                                              "management",
+                                              "aws",
+                                              "deployment",
+                                              "automation",
+                                              "policies",
+                                              "devops"
+                                          ],
+                          "category":  "cloud",
+                          "subcategory":  "management",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Según plan seleccionado",
+                          "added":  "2026-01-25",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "developer-roadmap",
+                          "name":  "Developer Roadmap",
+                          "slug":  "developer-roadmap",
+                          "description":  "Guías de aprendizaje para devs",
+                          "url":  "https://github.com/kamranahmedse/developer-roadmap",
+                          "status":  "active",
+                          "tags":  [
+                                       "roadmap",
+                                       "learning",
+                                       "career",
+                                       "guides"
+                                   ],
+                          "searchIndex":  [
+                                              "Developer Roadmap",
+                                              "developer-roadmap",
+                                              "Guías de aprendizaje para devs",
+                                              "version-control",
+                                              "resources",
+                                              "roadmap",
+                                              "learning",
+                                              "career",
+                                              "guides"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "dokploy",
+                          "name":  "Dokploy",
+                          "slug":  "dokploy",
+                          "description":  "Servidor open source tipo Vercel self-ho",
+                          "url":  "https://github.com/Dokploy/dokploy",
+                          "status":  "active",
+                          "tags":  [
+                                       "hosting",
+                                       "open-source",
+                                       "self-hosted",
+                                       "vercel-alternative",
+                                       "docker"
+                                   ],
+                          "searchIndex":  [
+                                              "Dokploy",
+                                              "dokploy",
+                                              "Servidor open source tipo Vercel self-hosted",
+                                              "hosting",
+                                              "deploy",
+                                              "open-source",
+                                              "self-hosted",
+                                              "vercel-alternative",
+                                              "docker"
+                                          ],
+                          "category":  "hosting",
+                          "subcategory":  "deploy",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Depende de tu infra, 100% gratis el software",
+                          "added":  "2026-02-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "first-contributions",
+                          "name":  "First Contributions",
+                          "slug":  "first-contributions",
+                          "description":  "Tu primera contribución GitHub",
+                          "url":  "https://github.com/firstcontributions/first-contributions",
+                          "status":  "active",
+                          "tags":  [
+                                       "github",
+                                       "contributions",
+                                       "beginners",
+                                       "tutorial"
+                                   ],
+                          "searchIndex":  [
+                                              "First Contributions",
+                                              "first-contributions",
+                                              "Tu primera contribución GitHub",
+                                              "version-control",
+                                              "resources",
+                                              "github",
+                                              "contributions",
+                                              "beginners",
+                                              "tutorial"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "framagit",
+                          "name":  "Framagit",
+                          "slug":  "framagit",
+                          "description":  "Forge GitLab con CI y páginas estática",
+                          "url":  "https://framagit.org",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "gitlab",
+                                       "ci",
+                                       "pages",
+                                       "foss"
+                                   ],
+                          "searchIndex":  [
+                                              "Framagit",
+                                              "framagit",
+                                              "Forge GitLab con CI y páginas estáticas gratis",
+                                              "version-control",
+                                              "platforms",
+                                              "git",
+                                              "gitlab",
+                                              "ci",
+                                              "pages",
+                                              "foss"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Servicio gratuito de Framasoft",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "free-for-dev",
+                          "name":  "Free For Dev",
+                          "slug":  "free-for-dev",
+                          "description":  "Recursos gratis para devs",
+                          "url":  "https://github.com/ripienaar/free-for-dev",
+                          "status":  "active",
+                          "tags":  [
+                                       "free",
+                                       "dev-tools",
+                                       "resources",
+                                       "list"
+                                   ],
+                          "searchIndex":  [
+                                              "Free For Dev",
+                                              "free-for-dev",
+                                              "Recursos gratis para devs",
+                                              "version-control",
+                                              "resources",
+                                              "free",
+                                              "dev-tools",
+                                              "list"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "free-programming-books",
+                          "name":  "Free Programming Books",
+                          "slug":  "free-programming-books",
+                          "description":  "Libros de programación gratis",
+                          "url":  "https://github.com/EbookFoundation/free-programming-books",
+                          "status":  "active",
+                          "tags":  [
+                                       "books",
+                                       "free",
+                                       "programming",
+                                       "learning"
+                                   ],
+                          "searchIndex":  [
+                                              "Free Programming Books",
+                                              "free-programming-books",
+                                              "Libros de programación gratis",
+                                              "version-control",
+                                              "resources",
+                                              "books",
+                                              "free",
+                                              "programming",
+                                              "learning"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "gimp-mcp",
+                          "name":  "GIMP MCP",
+                          "slug":  "gimp-mcp",
+                          "description":  "Servidor MCP para control conversacional",
+                          "url":  "https://github.com/maorcc/gimp-mcp",
+                          "status":  "active",
+                          "tags":  [
+                                       "version-control",
+                                       "resources",
+                                       "y-control-de-versiones-repositorios",
+                                       "recursos-github",
+                                       "gimp-mcp"
+                                   ],
+                          "searchIndex":  [
+                                              "GIMP MCP",
+                                              "gimp-mcp",
+                                              "Servidor MCP para control conversacional",
+                                              "version-control",
+                                              "resources",
+                                              "y-control-de-versiones-repositorios",
+                                              "recursos-github"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "git-scm",
+                          "name":  "Git SCM",
+                          "slug":  "git-scm",
+                          "description":  "Sitio web oficial con documentación com",
+                          "url":  "https://git-scm.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "documentation",
+                                       "official",
+                                       "reference"
+                                   ],
+                          "searchIndex":  [
+                                              "Git SCM",
+                                              "git-scm",
+                                              "Sitio web oficial con documentación completa",
+                                              "version-control",
+                                              "learning",
+                                              "git",
+                                              "documentation",
+                                              "official",
+                                              "reference"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "learning",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "gitgud",
+                          "name":  "GitGud",
+                          "slug":  "gitgud",
+                          "description":  "GitLab con CI/CD y registry sin límites",
+                          "url":  "https://gitgud.io",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "gitlab",
+                                       "ci-cd",
+                                       "registry"
+                                   ],
+                          "searchIndex":  [
+                                              "GitGud",
+                                              "gitgud",
+                                              "GitLab con CI/CD y registry sin límites estrictos",
+                                              "version-control",
+                                              "platforms",
+                                              "git",
+                                              "gitlab",
+                                              "ci-cd",
+                                              "registry"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "platforms",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Sin límites estrictos conocidos",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "github",
+                          "name":  "GitHub",
+                          "slug":  "github",
+                          "description":  "Repos ilimitados + CI/CD + Copilot AI in",
+                          "url":  "https://github.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "repos",
+                                       "ci-cd",
+                                       "copilot",
+                                       "ai",
+                                       "collaboration"
+                                   ],
+                          "searchIndex":  [
+                                              "GitHub",
+                                              "github",
+                                              "Repos ilimitados + CI/CD + Copilot AI integrado",
+                                              "version-control",
+                                              "platforms",
+                                              "git",
+                                              "repos",
+                                              "ci-cd",
+                                              "copilot",
+                                              "ai",
+                                              "collaboration"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Repos públicos/privados ilimitados, CI/CD gratis",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "github-awesome",
+                          "name":  "GitHub Awesome",
+                          "slug":  "github-awesome",
+                          "description":  "Repositorio más popular de recursos cur",
+                          "url":  "https://github.com/sindresorhus/awesome",
+                          "status":  "active",
+                          "tags":  [
+                                       "github",
+                                       "awesome",
+                                       "curated",
+                                       "resources"
+                                   ],
+                          "searchIndex":  [
+                                              "GitHub Awesome",
+                                              "github-awesome",
+                                              "Repositorio más popular de recursos curados",
+                                              "version-control",
+                                              "resources",
+                                              "github",
+                                              "awesome",
+                                              "curated"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "github-copilot-cli",
+                          "name":  "GitHub Copilot CLI",
+                          "slug":  "github-copilot-cli",
+                          "description":  "Curso CLI GitHub Copilot para principian",
+                          "url":  "https://github.com/github/copilot-cli-for-beginners",
+                          "status":  "active",
+                          "tags":  [
+                                       "github",
+                                       "copilot",
+                                       "cli",
+                                       "course",
+                                       "beginners"
+                                   ],
+                          "searchIndex":  [
+                                              "GitHub Copilot CLI",
+                                              "github-copilot-cli",
+                                              "Curso CLI GitHub Copilot para principiantes",
+                                              "version-control",
+                                              "resources",
+                                              "github",
+                                              "copilot",
+                                              "cli",
+                                              "course",
+                                              "beginners"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "github-education",
+                          "name":  "GitHub Education",
+                          "slug":  "github-education",
+                          "description":  "Recursos gratis para estudiantes verific",
+                          "url":  "https://education.github.com/pack",
+                          "status":  "active",
+                          "tags":  [
+                                       "github",
+                                       "education",
+                                       "students",
+                                       "free-pack"
+                                   ],
+                          "searchIndex":  [
+                                              "GitHub Education",
+                                              "github-education",
+                                              "Recursos gratis para estudiantes verificados",
+                                              "version-control",
+                                              "resources",
+                                              "github",
+                                              "education",
+                                              "students",
+                                              "free-pack"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Estudiantes verificados con email educativo",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "github-skills",
+                          "name":  "GitHub Skills",
+                          "slug":  "github-skills",
+                          "description":  "Cursos interactivos oficiales GitHub con",
+                          "url":  "https://learn.github.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "github",
+                                       "learning",
+                                       "courses",
+                                       "interactive"
+                                   ],
+                          "searchIndex":  [
+                                              "GitHub Skills",
+                                              "github-skills",
+                                              "Cursos interactivos oficiales GitHub con feedback",
+                                              "version-control",
+                                              "resources",
+                                              "github",
+                                              "learning",
+                                              "courses",
+                                              "interactive"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "github-skills-intro",
+                          "name":  "GitHub Skills Introduction",
+                          "slug":  "github-skills-introduction",
+                          "description":  "Cursos interactivos oficiales de GitHub",
+                          "url":  "https://github.com/skills/introduction-to-git",
+                          "status":  "active",
+                          "tags":  [
+                                       "github",
+                                       "skills",
+                                       "course",
+                                       "interactive"
+                                   ],
+                          "searchIndex":  [
+                                              "GitHub Skills Introduction",
+                                              "github-skills-introduction",
+                                              "Cursos interactivos oficiales de GitHub con feedback automatizado",
+                                              "version-control",
+                                              "learning",
+                                              "github",
+                                              "skills",
+                                              "course",
+                                              "interactive"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "learning",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "github-topics",
+                          "name":  "GitHub Topics",
+                          "slug":  "github-topics",
+                          "description":  "Explorar repos por temas y tecnologías",
+                          "url":  "https://github.com/topics",
+                          "status":  "active",
+                          "tags":  [
+                                       "github",
+                                       "topics",
+                                       "discovery",
+                                       "tags"
+                                   ],
+                          "searchIndex":  [
+                                              "GitHub Topics",
+                                              "github-topics",
+                                              "Explorar repos por temas y tecnologías",
+                                              "version-control",
+                                              "resources",
+                                              "github",
+                                              "topics",
+                                              "discovery",
+                                              "tags"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "github-trending",
+                          "name":  "GitHub Trending",
+                          "slug":  "github-trending",
+                          "description":  "Repositorios GitHub trending actualizado",
+                          "url":  "https://github.com/trending",
+                          "status":  "active",
+                          "tags":  [
+                                       "github",
+                                       "trending",
+                                       "discovery",
+                                       "repos"
+                                   ],
+                          "searchIndex":  [
+                                              "GitHub Trending",
+                                              "github-trending",
+                                              "Repositorios GitHub trending actualizados diariamente",
+                                              "version-control",
+                                              "resources",
+                                              "github",
+                                              "trending",
+                                              "discovery",
+                                              "repos"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "gitlab",
+                          "name":  "GitLab",
+                          "slug":  "gitlab",
+                          "description":  "Repos + CI/CD + registry container integ",
+                          "url":  "https://gitlab.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "repos",
+                                       "ci-cd",
+                                       "registry",
+                                       "devops",
+                                       "container"
+                                   ],
+                          "searchIndex":  [
+                                              "GitLab",
+                                              "gitlab",
+                                              "Repos + CI/CD + registry container integrado",
+                                              "version-control",
+                                              "platforms",
+                                              "git",
+                                              "repos",
+                                              "ci-cd",
+                                              "registry",
+                                              "devops",
+                                              "container"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "CI/CD minutes limitados, repos privados gratis",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "good-first-issues",
+                          "name":  "Good First Issues",
+                          "slug":  "good-first-issues",
+                          "description":  "Issues fáciles para principiantes en op",
+                          "url":  "https://goodfirstissues.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "github",
+                                       "issues",
+                                       "beginners",
+                                       "open-source"
+                                   ],
+                          "searchIndex":  [
+                                              "Good First Issues",
+                                              "good-first-issues",
+                                              "Issues fáciles para principiantes en open source",
+                                              "version-control",
+                                              "resources",
+                                              "github",
+                                              "issues",
+                                              "beginners",
+                                              "open-source"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "google-cloud-free",
+                          "name":  "Google Cloud Free",
+                          "slug":  "google-cloud-free",
+                          "description":  "Capas gratuitas GCP siempre activas para",
+                          "url":  "https://cloud.google.com/free",
+                          "status":  "active",
+                          "tags":  [
+                                       "cloud",
+                                       "gcp",
+                                       "google",
+                                       "free-tier",
+                                       "backend",
+                                       "infra",
+                                       "always-free"
+                                   ],
+                          "searchIndex":  [
+                                              "Google Cloud Free",
+                                              "google-cloud-free",
+                                              "Capas gratuitas GCP siempre activas para servicios seleccionados",
+                                              "cloud",
+                                              "providers",
+                                              "gcp",
+                                              "google",
+                                              "free-tier",
+                                              "backend",
+                                              "infra",
+                                              "always-free"
+                                          ],
+                          "category":  "cloud",
+                          "subcategory":  "providers",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Capas gratuitas seleccionadas siempre activas",
+                          "added":  "2026-01-15",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "ground-station",
+                          "name":  "Ground Station",
+                          "slug":  "ground-station",
+                          "description":  "Suite monitoreo satélites open source",
+                          "url":  "https://github.com/sgoudelis/ground-station",
+                          "status":  "active",
+                          "tags":  [
+                                       "version-control",
+                                       "resources",
+                                       "y-control-de-versiones-repositorios",
+                                       "recursos-github",
+                                       "ground-station"
+                                   ],
+                          "searchIndex":  [
+                                              "Ground Station",
+                                              "ground-station",
+                                              "Suite monitoreo satélites open source",
+                                              "version-control",
+                                              "resources",
+                                              "y-control-de-versiones-repositorios",
+                                              "recursos-github"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "hello-git-mouredev",
+                          "name":  "Hello Git (MoureDev)",
+                          "slug":  "hello-git-mouredev",
+                          "description":  "Curso completo de Git y GitHub desde cer",
+                          "url":  "https://github.com/mouredev/hello-git",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "course",
+                                       "spanish",
+                                       "beginners"
+                                   ],
+                          "searchIndex":  [
+                                              "Hello Git (MoureDev)",
+                                              "hello-git-mouredev",
+                                              "Curso completo de Git y GitHub desde cero en español",
+                                              "version-control",
+                                              "learning",
+                                              "git",
+                                              "course",
+                                              "spanish",
+                                              "beginners"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "learning",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "heptapod",
+                          "name":  "Heptapod",
+                          "slug":  "heptapod",
+                          "description":  "GitLab + Mercurial soporte dual",
+                          "url":  "https://heptapod.net",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "mercurial",
+                                       "gitlab",
+                                       "dual-vcs"
+                                   ],
+                          "searchIndex":  [
+                                              "Heptapod",
+                                              "heptapod",
+                                              "GitLab + Mercurial soporte dual",
+                                              "version-control",
+                                              "platforms",
+                                              "git",
+                                              "mercurial",
+                                              "gitlab",
+                                              "dual-vcs"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "platforms",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Servicio gratuito con límites estándar",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "ibm-cloud-free",
+                          "name":  "IBM Cloud Free",
+                          "slug":  "ibm-cloud-free",
+                          "description":  "DB, API Connect y monitoreo gratis con l",
+                          "url":  "https://www.ibm.com/cloud/free/",
+                          "status":  "active",
+                          "tags":  [
+                                       "cloud",
+                                       "ibm",
+                                       "database",
+                                       "api",
+                                       "monitoring",
+                                       "free-tier"
+                                   ],
+                          "searchIndex":  [
+                                              "IBM Cloud Free",
+                                              "ibm-cloud-free",
+                                              "DB, API Connect y monitoreo gratis con límites",
+                                              "cloud",
+                                              "providers",
+                                              "ibm",
+                                              "database",
+                                              "api",
+                                              "monitoring",
+                                              "free-tier"
+                                          ],
+                          "category":  "cloud",
+                          "subcategory":  "providers",
+                          "pricing":  "premium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Límites por servicio, 30 días trial premium",
+                          "added":  "2026-01-15",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "koyeb",
+                          "name":  "Koyeb",
+                          "slug":  "koyeb",
+                          "description":  "Postgres 1GB gratis + 5h ejecución",
+                          "url":  "https://koyeb.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "hosting",
+                                       "postgres",
+                                       "database",
+                                       "serverless",
+                                       "edge"
+                                   ],
+                          "searchIndex":  [
+                                              "Koyeb",
+                                              "koyeb",
+                                              "Postgres 1GB gratis + 5h ejecución",
+                                              "hosting",
+                                              "deploy",
+                                              "postgres",
+                                              "database",
+                                              "serverless",
+                                              "edge"
+                                          ],
+                          "category":  "hosting",
+                          "subcategory":  "deploy",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "1GB Postgres, 5h ejecución/mes, 2 services",
+                          "added":  "2026-02-15",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "lazygit",
+                          "name":  "Lazygit",
+                          "slug":  "lazygit",
+                          "description":  "Terminal UI para Git con atajos intuitiv",
+                          "url":  "https://github.com/jesseduffield/lazygit",
+                          "status":  "active",
+                          "tags":  [
+                                       "version-control",
+                                       "resources",
+                                       "y-control-de-versiones-repositorios",
+                                       "recursos-github",
+                                       "lazygit"
+                                   ],
+                          "searchIndex":  [
+                                              "Lazygit",
+                                              "lazygit",
+                                              "Terminal UI para Git con atajos intuitiv",
+                                              "version-control",
+                                              "resources",
+                                              "y-control-de-versiones-repositorios",
+                                              "recursos-github"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "learn-git-branching",
+                          "name":  "Learn Git Branching",
+                          "slug":  "learn-git-branching",
+                          "description":  "Tutorial visual e interactivo para branc",
+                          "url":  "https://learngitbranching.js.org/",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "branching",
+                                       "tutorial",
+                                       "interactive"
+                                   ],
+                          "searchIndex":  [
+                                              "Learn Git Branching",
+                                              "learn-git-branching",
+                                              "Tutorial visual e interactivo para branching",
+                                              "version-control",
+                                              "learning",
+                                              "git",
+                                              "branching",
+                                              "tutorial",
+                                              "interactive"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "learning",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "libros-programacion-gratis",
+                          "name":  "Libros Programación Gratis",
+                          "slug":  "libros-programacion-gratis",
+                          "description":  "Repositorio midudev libros",
+                          "url":  "https://github.com/midudev/libros-programacion-gratis",
+                          "status":  "active",
+                          "tags":  [
+                                       "books",
+                                       "free",
+                                       "spanish",
+                                       "midudev"
+                                   ],
+                          "searchIndex":  [
+                                              "Libros Programación Gratis",
+                                              "libros-programacion-gratis",
+                                              "Repositorio midudev libros",
+                                              "version-control",
+                                              "resources",
+                                              "books",
+                                              "free",
+                                              "spanish",
+                                              "midudev"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "netlify",
+                          "name":  "Netlify",
+                          "slug":  "netlify",
+                          "description":  "Hosting estático con forms y functions",
+                          "url":  "https://netlify.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "hosting",
+                                       "static",
+                                       "forms",
+                                       "serverless",
+                                       "functions",
+                                       "deploy"
+                                   ],
+                          "searchIndex":  [
+                                              "Netlify",
+                                              "netlify",
+                                              "Hosting estático con forms y functions serverless",
+                                              "hosting",
+                                              "deploy",
+                                              "static",
+                                              "forms",
+                                              "serverless",
+                                              "functions"
+                                          ],
+                          "category":  "hosting",
+                          "subcategory":  "deploy",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "100GB bandwidth, 300 build-min/mes, forms ilimitados",
+                          "added":  "2026-01-20",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "oracle-cloud-free",
+                          "name":  "Oracle Cloud Free",
+                          "slug":  "oracle-cloud-free",
+                          "description":  "VMs, storage y DB gratis Oracle siempre",
+                          "url":  "https://www.oracle.com/cloud/free/",
+                          "status":  "active",
+                          "tags":  [
+                                       "cloud",
+                                       "oracle",
+                                       "vm",
+                                       "storage",
+                                       "database",
+                                       "always-free"
+                                   ],
+                          "searchIndex":  [
+                                              "Oracle Cloud Free",
+                                              "oracle-cloud-free",
+                                              "VMs, storage y DB gratis Oracle siempre activos",
+                                              "cloud",
+                                              "providers",
+                                              "oracle",
+                                              "vm",
+                                              "storage",
+                                              "database",
+                                              "always-free"
+                                          ],
+                          "category":  "cloud",
+                          "subcategory":  "providers",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "2x AMD VM + 4x ARM cores, 200GB storage",
+                          "added":  "2026-01-15",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "pagure",
+                          "name":  "Pagure",
+                          "slug":  "pagure",
+                          "description":  "Plataforma colaboración código FOSS",
+                          "url":  "https://pagure.io",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "foss",
+                                       "collaboration",
+                                       "fedora"
+                                   ],
+                          "searchIndex":  [
+                                              "Pagure",
+                                              "pagure",
+                                              "Plataforma colaboración código FOSS",
+                                              "version-control",
+                                              "platforms",
+                                              "git",
+                                              "foss",
+                                              "collaboration",
+                                              "fedora"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "platforms",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Servicio gratuito de Fedora Project",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "pijul",
+                          "name":  "Pijul",
+                          "slug":  "pijul",
+                          "description":  "VCS distribuido basado en teoría patche",
+                          "url":  "https://pijul.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "vcs",
+                                       "distributed",
+                                       "patches",
+                                       "alternative"
+                                   ],
+                          "searchIndex":  [
+                                              "Pijul",
+                                              "pijul",
+                                              "VCS distribuido basado en teoría patches",
+                                              "version-control",
+                                              "platforms",
+                                              "vcs",
+                                              "distributed",
+                                              "patches",
+                                              "alternative"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Open source, sin límites",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "portless",
+                          "name":  "Portless",
+                          "slug":  "portless",
+                          "description":  "Deploy sin puertos expuestos Vercel Labs",
+                          "url":  "https://github.com/vercel-labs/portless",
+                          "status":  "active",
+                          "tags":  [
+                                       "hosting",
+                                       "deploy",
+                                       "a-i-cloud-hosting",
+                                       "hosting-deploy",
+                                       "portless"
+                                   ],
+                          "searchIndex":  [
+                                              "Portless",
+                                              "portless",
+                                              "Deploy sin puertos expuestos Vercel Labs",
+                                              "hosting",
+                                              "deploy",
+                                              "a-i-cloud-hosting",
+                                              "hosting-deploy"
+                                          ],
+                          "category":  "hosting",
+                          "subcategory":  "deploy",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "pro-git-book",
+                          "name":  "Pro Git Book",
+                          "slug":  "pro-git-book",
+                          "description":  "Libro oficial de Git, segunda edición g",
+                          "url":  "https://github.com/progit/progit2",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "book",
+                                       "learning",
+                                       "official"
+                                   ],
+                          "searchIndex":  [
+                                              "Pro Git Book",
+                                              "pro-git-book",
+                                              "Libro oficial de Git, segunda edición gratuito",
+                                              "version-control",
+                                              "learning",
+                                              "git",
+                                              "book",
+                                              "official"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "learning",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "public-apis",
+                          "name":  "Public APIs",
+                          "slug":  "public-apis",
+                          "description":  "Lista de APIs públicas gratis",
+                          "url":  "https://github.com/public-apis/public-apis",
+                          "status":  "active",
+                          "tags":  [
+                                       "apis",
+                                       "public",
+                                       "free",
+                                       "list"
+                                   ],
+                          "searchIndex":  [
+                                              "Public APIs",
+                                              "public-apis",
+                                              "Lista de APIs públicas gratis",
+                                              "version-control",
+                                              "resources",
+                                              "apis",
+                                              "public",
+                                              "free",
+                                              "list"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "pulumi",
+                          "name":  "Pulumi",
+                          "slug":  "pulumi",
+                          "description":  "Infraestructura como código con JS/TS/P",
+                          "url":  "https://www.pulumi.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "iac",
+                                       "typescript",
+                                       "python",
+                                       "cloud",
+                                       "terraform-alternative"
+                                   ],
+                          "searchIndex":  [
+                                              "Pulumi",
+                                              "pulumi",
+                                              "Infraestructura como código con JS/TS/Python",
+                                              "cloud",
+                                              "management",
+                                              "iac",
+                                              "typescript",
+                                              "python",
+                                              "terraform-alternative"
+                                          ],
+                          "category":  "cloud",
+                          "subcategory":  "management",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "10 deployments/mes, 1 usuario, features básicas",
+                          "added":  "2026-01-25",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "railway",
+                          "name":  "Railway",
+                          "slug":  "railway",
+                          "description":  "Deploy apps con $5 crédito inicial mens",
+                          "url":  "https://railway.app",
+                          "status":  "active",
+                          "tags":  [
+                                       "hosting",
+                                       "backend",
+                                       "credit",
+                                       "deploy",
+                                       "docker",
+                                       "database"
+                                   ],
+                          "searchIndex":  [
+                                              "Railway",
+                                              "railway",
+                                              "Deploy apps con $5 crédito inicial mensual",
+                                              "hosting",
+                                              "deploy",
+                                              "backend",
+                                              "credit",
+                                              "docker",
+                                              "database"
+                                          ],
+                          "category":  "hosting",
+                          "subcategory":  "deploy",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "$5 crédito/mes, 500h runtime, 5GB storage",
+                          "added":  "2026-01-20",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "realworld",
+                          "name":  "RealWorld",
+                          "slug":  "realworld",
+                          "description":  "Ejemplos fullstack reales",
+                          "url":  "https://github.com/gothinkster/realworld",
+                          "status":  "active",
+                          "tags":  [
+                                       "fullstack",
+                                       "examples",
+                                       "real-world",
+                                       "tutorials"
+                                   ],
+                          "searchIndex":  [
+                                              "RealWorld",
+                                              "realworld",
+                                              "Ejemplos fullstack reales",
+                                              "version-control",
+                                              "resources",
+                                              "fullstack",
+                                              "examples",
+                                              "real-world",
+                                              "tutorials"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "render",
+                          "name":  "Render",
+                          "slug":  "render",
+                          "description":  "Backend y static sites con free tier gen",
+                          "url":  "https://render.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "hosting",
+                                       "backend",
+                                       "static",
+                                       "postgres",
+                                       "redis",
+                                       "deploy"
+                                   ],
+                          "searchIndex":  [
+                                              "Render",
+                                              "render",
+                                              "Backend y static sites con free tier generoso",
+                                              "hosting",
+                                              "deploy",
+                                              "backend",
+                                              "static",
+                                              "postgres",
+                                              "redis"
+                                          ],
+                          "category":  "hosting",
+                          "subcategory":  "deploy",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "750h/mes, 512MB RAM, 1GB SSD, 100GB egress",
+                          "added":  "2026-01-20",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "rocketgit",
+                          "name":  "RocketGit",
+                          "slug":  "rocketgit",
+                          "description":  "Hosting repos Git ilimitados",
+                          "url":  "https://rocketgit.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "git",
+                                       "hosting",
+                                       "repos",
+                                       "unlimited"
+                                   ],
+                          "searchIndex":  [
+                                              "RocketGit",
+                                              "rocketgit",
+                                              "Hosting repos Git ilimitados",
+                                              "version-control",
+                                              "platforms",
+                                              "git",
+                                              "hosting",
+                                              "repos",
+                                              "unlimited"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Repos ilimitados gratis",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "scalr",
+                          "name":  "Scalr",
+                          "slug":  "scalr",
+                          "description":  "Terraform Automation colaborativa enterp",
+                          "url":  "https://www.scalr.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "terraform",
+                                       "automation",
+                                       "enterprise",
+                                       "iac",
+                                       "collaboration"
+                                   ],
+                          "searchIndex":  [
+                                              "Scalr",
+                                              "scalr",
+                                              "Terraform Automation colaborativa enterprise",
+                                              "cloud",
+                                              "management",
+                                              "terraform",
+                                              "automation",
+                                              "enterprise",
+                                              "iac",
+                                              "collaboration"
+                                          ],
+                          "category":  "cloud",
+                          "subcategory":  "management",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Plan enterprise con límites personalizados",
+                          "added":  "2026-01-25",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "system-design-primer",
+                          "name":  "System Design Primer",
+                          "slug":  "system-design-primer",
+                          "description":  "Aprende diseño de sistemas",
+                          "url":  "https://github.com/donnemartin/system-design-primer",
+                          "status":  "active",
+                          "tags":  [
+                                       "system-design",
+                                       "learning",
+                                       "architecture",
+                                       "interviews"
+                                   ],
+                          "searchIndex":  [
+                                              "System Design Primer",
+                                              "system-design-primer",
+                                              "Aprende diseño de sistemas",
+                                              "version-control",
+                                              "resources",
+                                              "system-design",
+                                              "learning",
+                                              "architecture",
+                                              "interviews"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "vercel",
+                          "name":  "Vercel",
+                          "slug":  "vercel",
+                          "description":  "Deploy frontend con SSL y CDN global aut",
+                          "url":  "https://vercel.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "hosting",
+                                       "frontend",
+                                       "nextjs",
+                                       "ssl",
+                                       "cdn",
+                                       "deploy",
+                                       "serverless"
+                                   ],
+                          "searchIndex":  [
+                                              "Vercel",
+                                              "vercel",
+                                              "Deploy frontend con SSL y CDN global automático",
+                                              "hosting",
+                                              "deploy",
+                                              "frontend",
+                                              "nextjs",
+                                              "ssl",
+                                              "cdn",
+                                              "serverless"
+                                          ],
+                          "category":  "hosting",
+                          "subcategory":  "deploy",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "100GB bandwidth/mes, 100 proyectos, 1000 serverless funcs",
+                          "added":  "2026-01-20",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "vercel-labs-skills",
+                          "name":  "Vercel Labs Skills",
+                          "slug":  "vercel-labs-skills",
+                          "description":  "Colección de skills y templates oficial",
+                          "url":  "https://github.com/vercel-labs/skills",
+                          "status":  "active",
+                          "tags":  [
+                                       "version-control",
+                                       "resources",
+                                       "y-control-de-versiones-repositorios",
+                                       "recursos-github",
+                                       "vercel-labs-skills"
+                                   ],
+                          "searchIndex":  [
+                                              "Vercel Labs Skills",
+                                              "vercel-labs-skills",
+                                              "Colección de skills y templates oficial",
+                                              "version-control",
+                                              "resources",
+                                              "y-control-de-versiones-repositorios",
+                                              "recursos-github"
+                                          ],
+                          "category":  "version-control",
+                          "subcategory":  "resources",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "zoho-free",
+                          "name":  "Zoho Free",
+                          "slug":  "zoho-free",
+                          "description":  "Suite productividad: email, docs, chat g",
+                          "url":  "https://www.zoho.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "productivity",
+                                       "email",
+                                       "docs",
+                                       "chat",
+                                       "suite",
+                                       "free"
+                                   ],
+                          "searchIndex":  [
+                                              "Zoho Free",
+                                              "zoho-free",
+                                              "Suite productividad: email, docs, chat gratis",
+                                              "cloud",
+                                              "providers",
+                                              "productivity",
+                                              "email",
+                                              "docs",
+                                              "chat",
+                                              "suite",
+                                              "free"
+                                          ],
+                          "category":  "cloud",
+                          "subcategory":  "providers",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "5 usuarios, 5GB/usuario, límites por app",
+                          "added":  "2026-01-15",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      }
+                  ]
 }

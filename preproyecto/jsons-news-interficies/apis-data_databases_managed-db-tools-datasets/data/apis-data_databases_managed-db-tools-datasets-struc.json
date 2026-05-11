@@ -1,2313 +1,2416 @@
 {
-  "tags": {
-    "ai": {
-      "count": 3,
-      "color": "#dc2626",
-      "description": "Etiqueta ai"
-    },
-    "alternative": {
-      "count": 2,
-      "color": "#d97706",
-      "description": "Etiqueta alternative"
-    },
-    "analytics": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta analytics"
-    },
-    "anime": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta anime"
-    },
-    "answers": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta answers"
-    },
-    "api": {
-      "count": 47,
-      "color": "#7c3aed",
-      "description": "Etiqueta api"
-    },
-    "apis": {
-      "count": 4,
-      "color": "#ea580c",
-      "description": "Etiqueta apis"
-    },
-    "asn": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta asn"
-    },
-    "auth": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta auth"
-    },
-    "awesome": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta awesome"
-    },
-    "backend": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta backend"
-    },
-    "books": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta books"
-    },
-    "branching": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta branching"
-    },
-    "browser": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta browser"
-    },
-    "calendar": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta calendar"
-    },
-    "cats": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta cats"
-    },
-    "characters": {
-      "count": 3,
-      "color": "#4f46e5",
-      "description": "Etiqueta characters"
-    },
-    "checker": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta checker"
-    },
-    "city": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta city"
-    },
-    "cli": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta cli"
-    },
-    "cloud": {
-      "count": 2,
-      "color": "#0891b2",
-      "description": "Etiqueta cloud"
-    },
-    "collaboration": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta collaboration"
-    },
-    "collection": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta collection"
-    },
-    "collections": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta collections"
-    },
-    "company": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta company"
-    },
-    "comparison": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta comparison"
-    },
-    "countries": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta countries"
-    },
-    "curated": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta curated"
-    },
-    "currency": {
-      "count": 2,
-      "color": "#0891b2",
-      "description": "Etiqueta currency"
-    },
-    "data": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta data"
-    },
-    "database": {
-      "count": 27,
-      "color": "#059669",
-      "description": "Etiqueta database"
-    },
-    "dataset": {
-      "count": 5,
-      "color": "#dc2626",
-      "description": "Etiqueta dataset"
-    },
-    "debug": {
-      "count": 3,
-      "color": "#ea580c",
-      "description": "Etiqueta debug"
-    },
-    "design": {
-      "count": 5,
-      "color": "#7c3aed",
-      "description": "Etiqueta design"
-    },
-    "detection": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta detection"
-    },
-    "diagram": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta diagram"
-    },
-    "directory": {
-      "count": 2,
-      "color": "#059669",
-      "description": "Etiqueta directory"
-    },
-    "distributed": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta distributed"
-    },
-    "docs": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta docs"
-    },
-    "documentation": {
-      "count": 3,
-      "color": "#dc2626",
-      "description": "Etiqueta documentation"
-    },
-    "dogs": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta dogs"
-    },
-    "dragon-ball": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta dragon-ball"
-    },
-    "ecommerce": {
-      "count": 2,
-      "color": "#7c3aed",
-      "description": "Etiqueta ecommerce"
-    },
-    "edge": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta edge"
-    },
-    "email": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta email"
-    },
-    "embedded": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta embedded"
-    },
-    "erd": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta erd"
-    },
-    "executor": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta executor"
-    },
-    "filters": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta filters"
-    },
-    "firebase": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta firebase"
-    },
-    "forecast": {
-      "count": 2,
-      "color": "#0891b2",
-      "description": "Etiqueta forecast"
-    },
-    "free": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta free"
-    },
-    "freemium": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta freemium"
-    },
-    "fun": {
-      "count": 4,
-      "color": "#ea580c",
-      "description": "Etiqueta fun"
-    },
-    "gaming": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta gaming"
-    },
-    "generator": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta generator"
-    },
-    "geo": {
-      "count": 9,
-      "color": "#0891b2",
-      "description": "Etiqueta geo"
-    },
-    "geolocation": {
-      "count": 10,
-      "color": "#dc2626",
-      "description": "Etiqueta geolocation"
-    },
-    "github": {
-      "count": 3,
-      "color": "#d97706",
-      "description": "Etiqueta github"
-    },
-    "global": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta global"
-    },
-    "google": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta google"
-    },
-    "graphql": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta graphql"
-    },
-    "grpc": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta grpc"
-    },
-    "gui": {
-      "count": 2,
-      "color": "#0891b2",
-      "description": "Etiqueta gui"
-    },
-    "historical": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta historical"
-    },
-    "holidays": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta holidays"
-    },
-    "hosting": {
-      "count": 3,
-      "color": "#7c3aed",
-      "description": "Etiqueta hosting"
-    },
-    "http": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta http"
-    },
-    "ide": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta ide"
-    },
-    "images": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta images"
-    },
-    "inspect": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta inspect"
-    },
-    "interactive": {
-      "count": 2,
-      "color": "#dc2626",
-      "description": "Etiqueta interactive"
-    },
-    "intercept": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta intercept"
-    },
-    "ip": {
-      "count": 22,
-      "color": "#65a30d",
-      "description": "Etiqueta ip"
-    },
-    "ipv4": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta ipv4"
-    },
-    "ipv6": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta ipv6"
-    },
-    "json": {
-      "count": 3,
-      "color": "#dc2626",
-      "description": "Etiqueta json"
-    },
-    "kaggle": {
-      "count": 2,
-      "color": "#ea580c",
-      "description": "Etiqueta kaggle"
-    },
-    "learning": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta learning"
-    },
-    "libsql": {
-      "count": 2,
-      "color": "#65a30d",
-      "description": "Etiqueta libsql"
-    },
-    "lightweight": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta lightweight"
-    },
-    "local": {
-      "count": 3,
-      "color": "#d97706",
-      "description": "Etiqueta local"
-    },
-    "lookup": {
-      "count": 2,
-      "color": "#4f46e5",
-      "description": "Etiqueta lookup"
-    },
-    "lotr": {
-      "count": 3,
-      "color": "#ea580c",
-      "description": "Etiqueta lotr"
-    },
-    "managed": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta managed"
-    },
-    "mariadb": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta mariadb"
-    },
-    "marketplace": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta marketplace"
-    },
-    "media": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta media"
-    },
-    "metadata": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta metadata"
-    },
-    "mock": {
-      "count": 7,
-      "color": "#4f46e5",
-      "description": "Etiqueta mock"
-    },
-    "modify": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta modify"
-    },
-    "mongodb": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta mongodb"
-    },
-    "movies": {
-      "count": 4,
-      "color": "#ea580c",
-      "description": "Etiqueta movies"
-    },
-    "multi-engine": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta multi-engine"
-    },
-    "multimodel": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta multimodel"
-    },
-    "multiplayer": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta multiplayer"
-    },
-    "mysql": {
-      "count": 2,
-      "color": "#4f46e5",
-      "description": "Etiqueta mysql"
-    },
-    "network": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta network"
-    },
-    "news": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta news"
-    },
-    "no-code": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta no-code"
-    },
-    "no-key": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta no-key"
-    },
-    "nosql": {
-      "count": 3,
-      "color": "#65a30d",
-      "description": "Etiqueta nosql"
-    },
-    "observability": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta observability"
-    },
-    "olap": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta olap"
-    },
-    "online": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta online"
-    },
-    "open-data": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta open-data"
-    },
-    "open-source": {
-      "count": 3,
-      "color": "#4f46e5",
-      "description": "Etiqueta open-source"
-    },
-    "openapi": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta openapi"
-    },
-    "organized": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta organized"
-    },
-    "phone": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta phone"
-    },
-    "pokemon": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta pokemon"
-    },
-    "postgres": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta postgres"
-    },
-    "postgresql": {
-      "count": 3,
-      "color": "#db2777",
-      "description": "Etiqueta postgresql"
-    },
-    "postman": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta postman"
-    },
-    "practice": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta practice"
-    },
-    "precise": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta precise"
-    },
-    "products": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta products"
-    },
-    "projects": {
-      "count": 2,
-      "color": "#7c3aed",
-      "description": "Etiqueta projects"
-    },
-    "prototyping": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta prototyping"
-    },
-    "proxy": {
-      "count": 3,
-      "color": "#db2777",
-      "description": "Etiqueta proxy"
-    },
-    "public": {
-      "count": 3,
-      "color": "#ea580c",
-      "description": "Etiqueta public"
-    },
-    "public-ip": {
-      "count": 2,
-      "color": "#059669",
-      "description": "Etiqueta public-ip"
-    },
-    "ranking": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta ranking"
-    },
-    "reactive": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta reactive"
-    },
-    "real-time": {
-      "count": 2,
-      "color": "#4f46e5",
-      "description": "Etiqueta real-time"
-    },
-    "realtime": {
-      "count": 2,
-      "color": "#059669",
-      "description": "Etiqueta realtime"
-    },
-    "reputation": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta reputation"
-    },
-    "rest": {
-      "count": 6,
-      "color": "#4f46e5",
-      "description": "Etiqueta rest"
-    },
-    "rick-morty": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta rick-morty"
-    },
-    "scalable": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta scalable"
-    },
-    "scraping": {
-      "count": 2,
-      "color": "#0891b2",
-      "description": "Etiqueta scraping"
-    },
-    "screenshots": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta screenshots"
-    },
-    "sdk": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta sdk"
-    },
-    "search": {
-      "count": 3,
-      "color": "#2563eb",
-      "description": "Etiqueta search"
-    },
-    "security": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta security"
-    },
-    "serverless": {
-      "count": 2,
-      "color": "#dc2626",
-      "description": "Etiqueta serverless"
-    },
-    "simple": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta simple"
-    },
-    "simpsons": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta simpsons"
-    },
-    "soccer": {
-      "count": 2,
-      "color": "#ea580c",
-      "description": "Etiqueta soccer"
-    },
-    "sql": {
-      "count": 10,
-      "color": "#4f46e5",
-      "description": "Etiqueta sql"
-    },
-    "sqlite": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta sqlite"
-    },
-    "sync": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta sync"
-    },
-    "temporary": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta temporary"
-    },
-    "terminal": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta terminal"
-    },
-    "testing": {
-      "count": 5,
-      "color": "#4f46e5",
-      "description": "Etiqueta testing"
-    },
-    "tool": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta tool"
-    },
-    "tunnel": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta tunnel"
-    },
-    "tv": {
-      "count": 2,
-      "color": "#7c3aed",
-      "description": "Etiqueta tv"
-    },
-    "typescript": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta typescript"
-    },
-    "ui": {
-      "count": 2,
-      "color": "#dc2626",
-      "description": "Etiqueta ui"
-    },
-    "users": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta users"
-    },
-    "validation": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta validation"
-    },
-    "visual": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta visual"
-    },
-    "vpn": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta vpn"
-    },
-    "weather": {
-      "count": 4,
-      "color": "#dc2626",
-      "description": "Etiqueta weather"
-    },
-    "web": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta web"
-    }
-  },
-  "searchIndex": {
-    "fields": [
-      {
-        "name": "name",
-        "weight": 3,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "description",
-        "weight": 2,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "tags",
-        "weight": 2,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "category",
-        "weight": 1,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "subcategory",
-        "weight": 1,
-        "encode": "forward",
-        "tokenize": "forward"
-      }
-    ],
-    "entries": [
-      {
-        "id": "abstract-api",
-        "slug": "abstract-api",
-        "terms": [
-          "Abstract API",
-          "abstract-api",
-          "Suite APIs: IP, email, phone, geolocalización",
-          "apis",
-          "specialized",
-          "api",
-          "ip",
-          "email",
-          "phone",
-          "geo"
-        ]
-      },
-      {
-        "id": "apilist-fun",
-        "slug": "apilist-fun",
-        "terms": [
-          "APIList.fun",
-          "apilist-fun",
-          "Lista divertida de APIs públicas para proyectos",
-          "apis",
-          "public",
-          "fun",
-          "projects"
-        ]
-      },
-      {
-        "id": "awesome-public-datasets",
-        "slug": "awesome-public-datasets",
-        "terms": [
-          "Awesome Public Datasets",
-          "awesome-public-datasets",
-          "Lista GitHub datasets públicos curados",
-          "databases",
-          "datasets",
-          "dataset",
-          "github",
-          "awesome",
-          "curated"
-        ]
-      },
-      {
-        "id": "beeceptor",
-        "slug": "beeceptor",
-        "terms": [
-          "Beeceptor",
-          "beeceptor",
-          "Mockea y debuggea APIs con endpoints temporales",
-          "apis",
-          "tools",
-          "api",
-          "mock",
-          "debug",
-          "temporary"
-        ]
-      },
-      {
-        "id": "bigdatacloud",
-        "slug": "bigdatacloud",
-        "terms": [
-          "BigDataCloud",
-          "bigdatacloud",
-          "APIs geo IP, validación email/teléfono",
-          "apis",
-          "specialized",
-          "api",
-          "geo",
-          "validation",
-          "ip"
-        ]
-      },
-      {
-        "id": "calendarific",
-        "slug": "calendarific",
-        "terms": [
-          "Calendarific",
-          "calendarific",
-          "API festivos 200+ países con años múltiples",
-          "apis",
-          "specialized",
-          "api",
-          "holidays",
-          "countries",
-          "calendar"
-        ]
-      },
-      {
-        "id": "cockroachdb",
-        "slug": "cockroachdb",
-        "terms": [
-          "CockroachDB",
-          "cockroachdb",
-          "DB distribuida 10GB gratis",
-          "databases",
-          "managed",
-          "database",
-          "distributed",
-          "sql",
-          "scalable"
-        ]
-      },
-      {
-        "id": "convex",
-        "slug": "convex",
-        "terms": [
-          "Convex",
-          "convex",
-          "DB reactiva con sync en tiempo real",
-          "databases",
-          "managed",
-          "database",
-          "reactive",
-          "realtime",
-          "sync"
-        ]
-      },
-      {
-        "id": "curlhub",
-        "slug": "curlhub",
-        "terms": [
-          "CurlHub",
-          "curlhub",
-          "Proxy para inspeccionar y debuggear APIs",
-          "apis",
-          "tools",
-          "api",
-          "proxy",
-          "inspect",
-          "debug"
-        ]
-      },
-      {
-        "id": "currencyscoop",
-        "slug": "currencyscoop",
-        "terms": [
-          "CurrencyScoop",
-          "currencyscoop",
-          "API divisas tiempo real con histórico",
-          "apis",
-          "specialized",
-          "api",
-          "currency",
-          "real-time",
-          "historical"
-        ]
-      },
-      {
-        "id": "database-build",
-        "slug": "database-build",
-        "terms": [
-          "Database.build",
-          "database-build",
-          "Builder SQL con IA para diseño visual",
-          "databases",
-          "tools",
-          "database",
-          "sql",
-          "ai",
-          "design"
-        ]
-      },
-      {
-        "id": "datacamp-sql",
-        "slug": "datacamp-sql-projects",
-        "terms": [
-          "DataCamp SQL Projects",
-          "datacamp-sql-projects",
-          "Proyectos SQL guiados por nivel de dificultad",
-          "databases",
-          "datasets",
-          "dataset",
-          "sql",
-          "projects",
-          "learning"
-        ]
-      },
-      {
-        "id": "dbdesigner",
-        "slug": "db-designer",
-        "terms": [
-          "DB Designer",
-          "db-designer",
-          "Diseña esquemas DB en la nube colaborativo",
-          "databases",
-          "tools",
-          "database",
-          "design",
-          "cloud",
-          "collaboration"
-        ]
-      },
-      {
-        "id": "db-engines",
-        "slug": "db-engines",
-        "terms": [
-          "DB-Engines",
-          "db-engines",
-          "Ranking popularidad bases de datos mensual",
-          "databases",
-          "tools",
-          "database",
-          "ranking",
-          "comparison"
-        ]
-      },
-      {
-        "id": "db-ip",
-        "slug": "db-ip",
-        "terms": [
-          "DB-IP",
-          "db-ip",
-          "Geolocalización IP: API + DB gratis",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "database",
-          "geolocation"
-        ]
-      },
-      {
-        "id": "dogceo-api",
-        "slug": "dog-ceo-api",
-        "terms": [
-          "Dog CEO API",
-          "dog-ceo-api",
-          "API de imágenes de perros aleatorias",
-          "apis",
-          "public",
-          "dogs",
-          "images",
-          "fun"
-        ]
-      },
-      {
-        "id": "dragonball-api",
-        "slug": "dragon-ball-api",
-        "terms": [
-          "Dragon Ball API",
-          "dragon-ball-api",
-          "API del universo Dragon Ball",
-          "apis",
-          "public",
-          "dragon-ball",
-          "anime",
-          "characters"
-        ]
-      },
-      {
-        "id": "drawdb",
-        "slug": "drawdb",
-        "terms": [
-          "DrawDB",
-          "drawdb",
-          "Editor visual de esquemas DB online",
-          "databases",
-          "tools",
-          "database",
-          "design",
-          "visual",
-          "erd"
-        ]
-      },
-      {
-        "id": "duckdb",
-        "slug": "duckdb",
-        "terms": [
-          "DuckDB",
-          "duckdb",
-          "OLAP embebida para análisis local rápido",
-          "databases",
-          "tools",
-          "database",
-          "olap",
-          "embedded",
-          "analytics"
-        ]
-      },
-      {
-        "id": "dummyjson",
-        "slug": "dummyjson",
-        "terms": [
-          "DummyJSON",
-          "dummyjson",
-          "API mock con usuarios, productos, posts fake",
-          "apis",
-          "public",
-          "mock",
-          "users",
-          "products"
-        ]
-      },
-      {
-        "id": "european-soccer-db-2",
-        "slug": "european-soccer-data-2",
-        "terms": [
-          "European Soccer Data 2",
-          "european-soccer-data-2",
-          "Dataset fútbol alternativo",
-          "databases",
-          "datasets",
-          "dataset",
-          "soccer",
-          "sql",
-          "alternative"
-        ]
-      },
-      {
-        "id": "european-soccer-db",
-        "slug": "european-soccer-db",
-        "terms": [
-          "European Soccer DB",
-          "european-soccer-db",
-          "Dataset fútbol europeo con esquema relacional",
-          "databases",
-          "datasets",
-          "dataset",
-          "soccer",
-          "sql",
-          "kaggle"
-        ]
-      },
-      {
-        "id": "extendsclass",
-        "slug": "extendsclass",
-        "terms": [
-          "ExtendsClass",
-          "extendsclass",
-          "Cliente HTTP web para testear APIs",
-          "apis",
-          "tools",
-          "api",
-          "http",
-          "web",
-          "testing"
-        ]
-      },
-      {
-        "id": "fakestoreapi",
-        "slug": "fake-store-api",
-        "terms": [
-          "Fake Store API",
-          "fake-store-api",
-          "API de ejemplo para e-commerce y testing",
-          "apis",
-          "public",
-          "ecommerce",
-          "testing",
-          "mock"
-        ]
-      },
-      {
-        "id": "fakestore-github",
-        "slug": "fake-store-github",
-        "terms": [
-          "Fake Store GitHub",
-          "fake-store-github",
-          "Código del Fake Store API",
-          "apis",
-          "public",
-          "ecommerce",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "filess",
-        "slug": "filess",
-        "terms": [
-          "Filess",
-          "filess",
-          "MariaDB 10MB gratis",
-          "databases",
-          "managed",
-          "database",
-          "mariadb",
-          "free",
-          "hosting"
-        ]
-      },
-      {
-        "id": "firebase",
-        "slug": "firebase",
-        "terms": [
-          "Firebase",
-          "firebase",
-          "Backend móvil/web con DB y auth",
-          "databases",
-          "managed",
-          "database",
-          "nosql",
-          "backend"
-        ]
-      },
-      {
-        "id": "freedb",
-        "slug": "freedb-tech",
-        "terms": [
-          "FreeDB Tech",
-          "freedb-tech",
-          "MySQL 25MB gratis + 200 conexiones",
-          "databases",
-          "managed",
-          "database",
-          "mysql",
-          "free",
-          "hosting"
-        ]
-      },
-      {
-        "id": "freeipapi",
-        "slug": "freeipapi",
-        "terms": [
-          "FreeIPAPI",
-          "freeipapi",
-          "API geolocalización IP JSON gratis",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "geolocation",
-          "json"
-        ]
-      },
-      {
-        "id": "geolocated-io",
-        "slug": "geolocated-io",
-        "terms": [
-          "Geolocated.io",
-          "geolocated-io",
-          "API geo IP con servidores multi-continente",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "geolocation",
-          "global"
-        ]
-      },
-      {
-        "id": "hoppscotch",
-        "slug": "hoppscotch",
-        "terms": [
-          "Hoppscotch",
-          "hoppscotch",
-          "Cliente API ligero open source en navegador",
-          "apis",
-          "tools",
-          "api",
-          "open-source",
-          "browser",
-          "lightweight"
-        ]
-      },
-      {
-        "id": "httpie",
-        "slug": "httpie",
-        "terms": [
-          "HTTPie",
-          "httpie",
-          "Cliente API desde terminal con sintaxis simple",
-          "apis",
-          "tools",
-          "api",
-          "cli",
-          "terminal",
-          "simple"
-        ]
-      },
-      {
-        "id": "insomnia",
-        "slug": "insomnia",
-        "terms": [
-          "Insomnia",
-          "insomnia",
-          "Cliente REST, GraphQL y gRPC con sync",
-          "apis",
-          "tools",
-          "api",
-          "rest",
-          "graphql",
-          "grpc"
-        ]
-      },
-      {
-        "id": "ip-geolocation-api",
-        "slug": "ip-geolocation-api",
-        "terms": [
-          "IP Geolocation API",
-          "ip-geolocation-api",
-          "API geo IP: 1k requests/día forever free",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "geo",
-          "geolocation"
-        ]
-      },
-      {
-        "id": "ip-geolocation-ipwho-org",
-        "slug": "ip-geolocation-ipwho-org",
-        "terms": [
-          "IP Geolocation ipwho.org",
-          "ip-geolocation-ipwho-org",
-          "API geo IP: 2k requests/día gratis",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "geo",
-          "geolocation"
-        ]
-      },
-      {
-        "id": "ip-api",
-        "slug": "ip-api",
-        "terms": [
-          "ip-api",
-          "API geo IP gratis no-comercial sin key",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "geo",
-          "geolocation"
-        ]
-      },
-      {
-        "id": "ip-city",
-        "slug": "ip-city",
-        "terms": [
-          "IP.City",
-          "ip-city",
-          "API geo IP: 100 requests/día gratis",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "geo",
-          "city"
-        ]
-      },
-      {
-        "id": "ip2geo-dev",
-        "slug": "ip2geo-dev",
-        "terms": [
-          "ip2geo.dev",
-          "ip2geo-dev",
-          "API geo IP: ciudad, país, ASN, moneda",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "asn",
-          "currency"
-        ]
-      },
-      {
-        "id": "ip2location-io",
-        "slug": "ip2location-io",
-        "terms": [
-          "IP2Location.io",
-          "ip2location-io",
-          "API geo IP freemium: 50k créditos/mes",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "geo",
-          "geolocation"
-        ]
-      },
-      {
-        "id": "ipaddress-sh",
-        "slug": "ipaddress-sh",
-        "terms": [
-          "ipaddress.sh",
-          "ipaddress-sh",
-          "Servicio simple obtener IP pública",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "public-ip",
-          "simple"
-        ]
-      },
-      {
-        "id": "ipapi-is",
-        "slug": "ipapi-is",
-        "terms": [
-          "ipapi.is",
-          "ipapi-is",
-          "API IP con detección hosting avanzada",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "hosting",
-          "detection"
-        ]
-      },
-      {
-        "id": "ipbase-com",
-        "slug": "ipbase-com",
-        "terms": [
-          "ipbase.com",
-          "ipbase-com",
-          "API geo IP: 150 requests/mes forever free",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "geo",
-          "geolocation"
-        ]
-      },
-      {
-        "id": "ipinfo",
-        "slug": "ipinfo",
-        "terms": [
-          "IPinfo",
-          "ipinfo",
-          "API datos IP: geo, empresa, carrier, ASN",
-          "apis",
-          "specialized",
-          "api",
-          "ip",
-          "geo",
-          "company"
-        ]
-      },
-      {
-        "id": "iplocate",
-        "slug": "iplocate",
-        "terms": [
-          "IPLocate",
-          "iplocate",
-          "API geo IP + detección proxy/VPN gratis",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "proxy",
-          "vpn"
-        ]
-      },
-      {
-        "id": "iptrace",
-        "slug": "iptrace",
-        "terms": [
-          "IPTrace",
-          "iptrace",
-          "API geolocalización IP simple y fiable",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "geolocation",
-          "lookup"
-        ]
-      },
-      {
-        "id": "json-ip",
-        "slug": "json-ip",
-        "terms": [
-          "JSON IP",
-          "json-ip",
-          "API retorna tu IP pública sin registro",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "public-ip",
-          "json"
-        ]
-      },
-      {
-        "id": "json-server",
-        "slug": "json-server",
-        "terms": [
-          "JSON Server",
-          "json-server",
-          "Convierte JSON en REST API en segundos",
-          "apis",
-          "tools",
-          "api",
-          "json",
-          "rest",
-          "mock"
-        ]
-      },
-      {
-        "id": "jsonplaceholder",
-        "slug": "jsonplaceholder",
-        "terms": [
-          "JSONPlaceholder",
-          "jsonplaceholder",
-          "API REST falsa gratuita ideal para prototipado",
-          "apis",
-          "public",
-          "mock",
-          "rest",
-          "prototyping"
-        ]
-      },
-      {
-        "id": "kaggle-datasets",
-        "slug": "kaggle-datasets",
-        "terms": [
-          "Kaggle Datasets",
-          "kaggle-datasets",
-          "Listado principal de datasets públicos",
-          "databases",
-          "datasets",
-          "dataset",
-          "kaggle",
-          "public",
-          "directory"
-        ]
-      },
-      {
-        "id": "kreya",
-        "slug": "kreya",
-        "terms": [
-          "Kreya",
-          "kreya",
-          "Cliente gRPC GUI open source para testing",
-          "apis",
-          "tools",
-          "api",
-          "grpc",
-          "gui",
-          "testing"
-        ]
-      },
-      {
-        "id": "libsql-studio",
-        "slug": "libsql-studio",
-        "terms": [
-          "LibSQL Studio",
-          "libsql-studio",
-          "UI local para bases Turso/LibSQL",
-          "databases",
-          "tools",
-          "database",
-          "libsql",
-          "ui",
-          "local"
-        ]
-      },
-      {
-        "id": "lotr-api-1",
-        "slug": "lord-of-rings-api-1",
-        "terms": [
-          "Lord of Rings API 1",
-          "lord-of-rings-api-1",
-          "API señor de los anillos",
-          "apis",
-          "public",
-          "lotr",
-          "movies",
-          "books"
-        ]
-      },
-      {
-        "id": "lotr-api-2",
-        "slug": "lord-of-rings-api-2",
-        "terms": [
-          "Lord of Rings API 2",
-          "lord-of-rings-api-2",
-          "API señor de los anillos alternativa",
-          "apis",
-          "public",
-          "lotr",
-          "alternative",
-          "movies"
-        ]
-      },
-      {
-        "id": "lotr-postman",
-        "slug": "lord-of-rings-postman",
-        "terms": [
-          "Lord of Rings Postman",
-          "lord-of-rings-postman",
-          "API señor de los anillos postman",
-          "apis",
-          "public",
-          "lotr",
-          "postman",
-          "collection"
-        ]
-      },
-      {
-        "id": "microlink",
-        "slug": "microlink-io",
-        "terms": [
-          "microlink.io",
-          "microlink-io",
-          "API extrae metadatos, screenshots, scraping",
-          "apis",
-          "specialized",
-          "api",
-          "metadata",
-          "screenshots",
-          "scraping"
-        ]
-      },
-      {
-        "id": "mockoon",
-        "slug": "mockoon",
-        "terms": [
-          "Mockoon",
-          "mockoon",
-          "Crea APIs mock sin código localmente",
-          "apis",
-          "tools",
-          "api",
-          "mock",
-          "no-code",
-          "local"
-        ]
-      },
-      {
-        "id": "mongodb-atlas",
-        "slug": "mongodb-atlas",
-        "terms": [
-          "MongoDB Atlas",
-          "mongodb-atlas",
-          "MongoDB gestionado gratuito",
-          "databases",
-          "managed",
-          "database",
-          "mongodb",
-          "nosql"
-        ]
-      },
-      {
-        "id": "multi-exit-ip-checker",
-        "slug": "multi-exit-ip-checker",
-        "terms": [
-          "Multi-Exit IP Checker",
-          "multi-exit-ip-checker",
-          "Herramienta check IP salida múltiples nodos",
-          "apis",
-          "ip-geolocation",
-          "ip",
-          "checker",
-          "network",
-          "tool"
-        ]
-      },
-      {
-        "id": "neon",
-        "slug": "neon",
-        "terms": [
-          "Neon",
-          "neon",
-          "PostgreSQL serverless con branching",
-          "databases",
-          "managed",
-          "database",
-          "postgresql",
-          "serverless",
-          "branching"
-        ]
-      },
-      {
-        "id": "newsapi",
-        "slug": "news-api",
-        "terms": [
-          "News API",
-          "news-api",
-          "Busca noticias web con API en tiempo real",
-          "apis",
-          "specialized",
-          "api",
-          "news",
-          "real-time",
-          "search"
-        ]
-      },
-      {
-        "id": "ngrok",
-        "slug": "ngrok",
-        "terms": [
-          "ngrok",
-          "URLs públicas para entorno local con tunnels",
-          "apis",
-          "tools",
-          "api",
-          "tunnel",
-          "local",
-          "public"
-        ]
-      },
-      {
-        "id": "open-meteo",
-        "slug": "open-meteo",
-        "terms": [
-          "Open-Meteo",
-          "open-meteo",
-          "Datos meteorológicos open-source sin API key",
-          "apis",
-          "public",
-          "weather",
-          "open-source",
-          "no-key"
-        ]
-      },
-      {
-        "id": "open-meteo-github",
-        "slug": "open-meteo-github",
-        "terms": [
-          "Open-Meteo GitHub",
-          "open-meteo-github",
-          "Datos open en GitHub",
-          "apis",
-          "public",
-          "weather",
-          "github",
-          "open-data"
-        ]
-      },
-      {
-        "id": "openapi-generator",
-        "slug": "openapi-generator",
-        "terms": [
-          "OpenAPI Generator",
-          "openapi-generator",
-          "Genera SDKs desde especificación",
-          "apis",
-          "tools",
-          "api",
-          "sdk",
-          "generator",
-          "openapi"
-        ]
-      },
-      {
-        "id": "outerbase",
-        "slug": "outerbase-studio",
-        "terms": [
-          "Outerbase Studio",
-          "outerbase-studio",
-          "GUI ligera para múltiples motores SQL",
-          "databases",
-          "tools",
-          "database",
-          "gui",
-          "sql",
-          "multi-engine"
-        ]
-      },
-      {
-        "id": "outerbase-cloud",
-        "slug": "outerbase-studio-cloud",
-        "terms": [
-          "Outerbase Studio Cloud",
-          "outerbase-studio-cloud",
-          "UI para Postgres en cloud",
-          "databases",
-          "tools",
-          "database",
-          "postgres",
-          "cloud",
-          "ui"
-        ]
-      },
-      {
-        "id": "planetscale",
-        "slug": "planetscale",
-        "terms": [
-          "PlanetScale",
-          "planetscale",
-          "MySQL serverless con branching ilimitado",
-          "databases",
-          "managed",
-          "database",
-          "mysql",
-          "serverless",
-          "branching"
-        ]
-      },
-      {
-        "id": "pokeapi",
-        "slug": "pokeapi",
-        "terms": [
-          "PokéAPI",
-          "pokeapi",
-          "API REST completa del universo Pokémon",
-          "apis",
-          "public",
-          "pokemon",
-          "rest",
-          "fun"
-        ]
-      },
-      {
-        "id": "postgrest",
-        "slug": "postgrest",
-        "terms": [
-          "PostgREST",
-          "postgrest",
-          "API REST automática desde PostgreSQL",
-          "databases",
-          "tools",
-          "database",
-          "postgresql",
-          "api",
-          "rest"
-        ]
-      },
-      {
-        "id": "postman",
-        "slug": "postman",
-        "terms": [
-          "Postman",
-          "postman",
-          "Diseña, prueba y documenta APIs colaborativamente",
-          "apis",
-          "tools",
-          "api",
-          "testing",
-          "documentation",
-          "freemium"
-        ]
-      },
-      {
-        "id": "proxysentry",
-        "slug": "proxysentry",
-        "terms": [
-          "ProxySentry",
-          "proxysentry",
-          "API detecta proxies residenciales y VPNs",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "proxy",
-          "vpn",
-          "security"
-        ]
-      },
-      {
-        "id": "public-apis-web",
-        "slug": "public-apis-web",
-        "terms": [
-          "Public APIs Web",
-          "public-apis-web",
-          "Listado de APIs públicas web",
-          "apis",
-          "public",
-          "web",
-          "directory"
-        ]
-      },
-      {
-        "id": "rapidapi",
-        "slug": "rapidapi",
-        "terms": [
-          "RapidAPI",
-          "rapidapi",
-          "Colección de APIs con plan gratuito limitado",
-          "apis",
-          "public",
-          "marketplace",
-          "freemium"
-        ]
-      },
-      {
-        "id": "rapidapi-collections",
-        "slug": "rapidapi-collections",
-        "terms": [
-          "RapidAPI Collections",
-          "rapidapi-collections",
-          "Colecciones de APIs organizadas",
-          "apis",
-          "public",
-          "collections",
-          "organized"
-        ]
-      },
-      {
-        "id": "reqres",
-        "slug": "reqres",
-        "terms": [
-          "Reqres",
-          "reqres",
-          "API REST que responde con datos de ejemplo",
-          "apis",
-          "public",
-          "mock",
-          "rest",
-          "testing"
-        ]
-      },
-      {
-        "id": "requestly",
-        "slug": "requestly",
-        "terms": [
-          "Requestly",
-          "requestly",
-          "Intercepta y modifica peticiones HTTP en browser",
-          "apis",
-          "tools",
-          "api",
-          "http",
-          "intercept",
-          "modify"
-        ]
-      },
-      {
-        "id": "rickandmortyapi",
-        "slug": "rick-and-morty-api",
-        "terms": [
-          "Rick and Morty API",
-          "rick-and-morty-api",
-          "API de la serie Rick & Morty con personajes",
-          "apis",
-          "public",
-          "rick-morty",
-          "characters",
-          "fun"
-        ]
-      },
-      {
-        "id": "runsql",
-        "slug": "runsql",
-        "terms": [
-          "RunSQL",
-          "runsql",
-          "Ejecuta SQL online",
-          "databases",
-          "tools",
-          "database",
-          "sql",
-          "online",
-          "executor"
-        ]
-      },
-      {
-        "id": "serpapi",
-        "slug": "serpapi",
-        "terms": [
-          "SerpApi",
-          "serpapi",
-          "API scraping motores búsqueda: Google, Bing",
-          "apis",
-          "specialized",
-          "api",
-          "scraping",
-          "search",
-          "google"
-        ]
-      },
-      {
-        "id": "sikkerapi",
-        "slug": "sikkerapi",
-        "terms": [
-          "SikkerAPI",
-          "sikkerapi",
-          "API reputación IP y threat intelligence",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "security",
-          "reputation"
-        ]
-      },
-      {
-        "id": "spacetimedb",
-        "slug": "spacetimedb",
-        "terms": [
-          "SpacetimeDB",
-          "spacetimedb",
-          "DB multijugador con lógica embebida",
-          "databases",
-          "managed",
-          "database",
-          "multiplayer",
-          "embedded",
-          "gaming"
-        ]
-      },
-      {
-        "id": "sql-practice",
-        "slug": "sql-practice",
-        "terms": [
-          "SQL Practice",
-          "sql-practice",
-          "IDE SQL online para aprender practicando",
-          "databases",
-          "tools",
-          "database",
-          "sql",
-          "practice",
-          "ide"
-        ]
-      },
-      {
-        "id": "sqlbolt",
-        "slug": "sqlbolt",
-        "terms": [
-          "SQLBolt",
-          "sqlbolt",
-          "18 lecciones interactivas SQL gratuitas",
-          "databases",
-          "tools",
-          "database",
-          "sql",
-          "learning",
-          "interactive"
-        ]
-      },
-      {
-        "id": "supabase",
-        "slug": "supabase",
-        "terms": [
-          "Supabase",
-          "supabase",
-          "PostgreSQL con auth, realtime y storage",
-          "databases",
-          "managed",
-          "database",
-          "postgresql",
-          "auth",
-          "realtime"
-        ]
-      },
-      {
-        "id": "surrealdb",
-        "slug": "surrealdb",
-        "terms": [
-          "SurrealDB",
-          "surrealdb",
-          "DB multimodelo SQL+NoSQL+grafo",
-          "databases",
-          "managed",
-          "database",
-          "multimodel",
-          "sql",
-          "nosql"
-        ]
-      },
-      {
-        "id": "swagger-ui",
-        "slug": "swagger-ui",
-        "terms": [
-          "Swagger UI",
-          "swagger-ui",
-          "Documentación interactiva de APIs auto-generada",
-          "apis",
-          "tools",
-          "api",
-          "documentation",
-          "interactive",
-          "openapi"
-        ]
-      },
-      {
-        "id": "tavily",
-        "slug": "tavily-ai",
-        "terms": [
-          "Tavily AI",
-          "tavily-ai",
-          "API búsqueda online con IA y respuestas",
-          "apis",
-          "specialized",
-          "api",
-          "search",
-          "ai",
-          "answers"
-        ]
-      },
-      {
-        "id": "thecatapi",
-        "slug": "the-cat-api",
-        "terms": [
-          "The Cat API",
-          "the-cat-api",
-          "Imágenes y datos de gatos con filtros",
-          "apis",
-          "public",
-          "cats",
-          "images",
-          "filters"
-        ]
-      },
-      {
-        "id": "the-ip-api",
-        "slug": "the-ip-api",
-        "terms": [
-          "The IP API",
-          "the-ip-api",
-          "API geolocalización IP: 1k requests/día",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "geolocation",
-          "lookup"
-        ]
-      },
-      {
-        "id": "themoviedb",
-        "slug": "the-movie-db",
-        "terms": [
-          "The Movie DB",
-          "the-movie-db",
-          "Base de datos y API para películas y series",
-          "apis",
-          "public",
-          "movies",
-          "tv",
-          "media"
-        ]
-      },
-      {
-        "id": "simpsons-api",
-        "slug": "the-simpsons-api",
-        "terms": [
-          "The Simpsons API",
-          "the-simpsons-api",
-          "API de datos de Los Simpson",
-          "apis",
-          "public",
-          "simpsons",
-          "tv",
-          "characters"
-        ]
-      },
-      {
-        "id": "tmdb-docs",
-        "slug": "tmdb-docs",
-        "terms": [
-          "TMDB Docs",
-          "tmdb-docs",
-          "Documentación de la API TMDB",
-          "apis",
-          "public",
-          "movies",
-          "documentation",
-          "api"
-        ]
-      },
-      {
-        "id": "tomorrow-weather",
-        "slug": "tomorrow-io-weather",
-        "terms": [
-          "Tomorrow.io Weather",
-          "tomorrow-io-weather",
-          "API clima global con forecasting preciso",
-          "apis",
-          "specialized",
-          "api",
-          "weather",
-          "forecast",
-          "precise"
-        ]
-      },
-      {
-        "id": "treblle",
-        "slug": "treblle",
-        "terms": [
-          "Treblle",
-          "treblle",
-          "Observabilidad, docs y debugging para APIs",
-          "apis",
-          "tools",
-          "api",
-          "observability",
-          "docs",
-          "debug"
-        ]
-      },
-      {
-        "id": "tsdiagram",
-        "slug": "tsdiagram",
-        "terms": [
-          "TSDiagram",
-          "tsdiagram",
-          "Diagramas basados en TypeScript",
-          "databases",
-          "tools",
-          "database",
-          "typescript",
-          "diagram",
-          "design"
-        ]
-      },
-      {
-        "id": "turso",
-        "slug": "turso",
-        "terms": [
-          "Turso",
-          "turso",
-          "SQLite edge con 5GB gratis",
-          "databases",
-          "managed",
-          "database",
-          "sqlite",
-          "edge",
-          "libsql"
-        ]
-      },
-      {
-        "id": "visual-data-factory",
-        "slug": "visual-data-factory",
-        "terms": [
-          "Visual Data Factory",
-          "visual-data-factory",
-          "Diseño visual datos",
-          "databases",
-          "tools",
-          "database",
-          "visual",
-          "design",
-          "data"
-        ]
-      },
-      {
-        "id": "weatherxu",
-        "slug": "weatherxu",
-        "terms": [
-          "WeatherXu",
-          "weatherxu",
-          "API clima global con forecasting IA/ML",
-          "apis",
-          "specialized",
-          "api",
-          "weather",
-          "forecast",
-          "ai"
-        ]
-      },
-      {
-        "id": "what-is-my-ip",
-        "slug": "what-is-my-ip",
-        "terms": [
-          "What Is My IP",
-          "what-is-my-ip",
-          "API check IPv4/IPv6 y datos request",
-          "apis",
-          "ip-geolocation",
-          "api",
-          "ip",
-          "ipv4",
-          "ipv6"
-        ]
-      }
-    ]
-  },
-  "filters": {
-    "categories": [
-      "apis",
-      "databases"
-    ],
-    "subcategories": [
-      "datasets",
-      "ip-geolocation",
-      "managed",
-      "public",
-      "specialized",
-      "tools"
-    ],
-    "pricing": [
-      "free",
-      "freemium"
-    ],
-    "languages": [
-      "en",
-      "es"
-    ],
-    "status": [
-      "active",
-      "warning"
-    ],
-    "verified": [
-      true
-    ],
-    "noCreditCard": [
-      false
-    ]
-  },
-  "ui": {
-    "dataset": "apis-data_databases_managed-db-tools-datasets",
-    "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
-    "description": "Knowledge base completa con recursos de APIs y bases de datos",
-    "resourceCount": 99
-  }
+    "tags":  {
+                 "api":  {
+                             "count":  47,
+                             "color":  "#7c3aed",
+                             "description":  "Etiqueta api"
+                         },
+                 "ip":  {
+                            "count":  22,
+                            "color":  "#65a30d",
+                            "description":  "Etiqueta ip"
+                        },
+                 "email":  {
+                               "count":  1,
+                               "color":  "#2563eb",
+                               "description":  "Etiqueta email"
+                           },
+                 "phone":  {
+                               "count":  1,
+                               "color":  "#db2777",
+                               "description":  "Etiqueta phone"
+                           },
+                 "geo":  {
+                             "count":  9,
+                             "color":  "#0891b2",
+                             "description":  "Etiqueta geo"
+                         },
+                 "apis":  {
+                              "count":  8,
+                              "color":  "#ea580c",
+                              "description":  "Etiqueta apis"
+                          },
+                 "tools":  {
+                               "count":  4,
+                               "color":  "#059669",
+                               "description":  "Etiqueta tools"
+                           },
+                 "y-apis-datos":  {
+                                      "count":  2,
+                                      "color":  "#ea580c",
+                                      "description":  "Etiqueta y-apis-datos"
+                                  },
+                 "herramientas-api":  {
+                                          "count":  1,
+                                          "color":  "#dc2626",
+                                          "description":  "Etiqueta herramientas-api"
+                                      },
+                 "accessibility-design-system":  {
+                                                     "count":  1,
+                                                     "color":  "#0891b2",
+                                                     "description":  "Etiqueta accessibility-design-system"
+                                                 },
+                 "apis-pa-blicas":  {
+                                        "count":  1,
+                                        "color":  "#2563eb",
+                                        "description":  "Etiqueta apis-pa-blicas"
+                                    },
+                 "api-mega-list":  {
+                                       "count":  1,
+                                       "color":  "#db2777",
+                                       "description":  "Etiqueta api-mega-list"
+                                   },
+                 "fun":  {
+                             "count":  4,
+                             "color":  "#ea580c",
+                             "description":  "Etiqueta fun"
+                         },
+                 "projects":  {
+                                  "count":  2,
+                                  "color":  "#7c3aed",
+                                  "description":  "Etiqueta projects"
+                              },
+                 "dataset":  {
+                                 "count":  5,
+                                 "color":  "#dc2626",
+                                 "description":  "Etiqueta dataset"
+                             },
+                 "github":  {
+                                "count":  3,
+                                "color":  "#d97706",
+                                "description":  "Etiqueta github"
+                            },
+                 "awesome":  {
+                                 "count":  1,
+                                 "color":  "#d97706",
+                                 "description":  "Etiqueta awesome"
+                             },
+                 "curated":  {
+                                 "count":  1,
+                                 "color":  "#7c3aed",
+                                 "description":  "Etiqueta curated"
+                             },
+                 "mock":  {
+                              "count":  7,
+                              "color":  "#4f46e5",
+                              "description":  "Etiqueta mock"
+                          },
+                 "debug":  {
+                               "count":  3,
+                               "color":  "#ea580c",
+                               "description":  "Etiqueta debug"
+                           },
+                 "temporary":  {
+                                   "count":  1,
+                                   "color":  "#0891b2",
+                                   "description":  "Etiqueta temporary"
+                               },
+                 "validation":  {
+                                    "count":  1,
+                                    "color":  "#65a30d",
+                                    "description":  "Etiqueta validation"
+                                },
+                 "holidays":  {
+                                  "count":  1,
+                                  "color":  "#059669",
+                                  "description":  "Etiqueta holidays"
+                              },
+                 "countries":  {
+                                   "count":  1,
+                                   "color":  "#db2777",
+                                   "description":  "Etiqueta countries"
+                               },
+                 "calendar":  {
+                                  "count":  1,
+                                  "color":  "#4f46e5",
+                                  "description":  "Etiqueta calendar"
+                              },
+                 "database":  {
+                                  "count":  27,
+                                  "color":  "#059669",
+                                  "description":  "Etiqueta database"
+                              },
+                 "distributed":  {
+                                     "count":  1,
+                                     "color":  "#65a30d",
+                                     "description":  "Etiqueta distributed"
+                                 },
+                 "sql":  {
+                             "count":  10,
+                             "color":  "#4f46e5",
+                             "description":  "Etiqueta sql"
+                         },
+                 "scalable":  {
+                                  "count":  1,
+                                  "color":  "#d97706",
+                                  "description":  "Etiqueta scalable"
+                              },
+                 "reactive":  {
+                                  "count":  1,
+                                  "color":  "#059669",
+                                  "description":  "Etiqueta reactive"
+                              },
+                 "realtime":  {
+                                  "count":  2,
+                                  "color":  "#059669",
+                                  "description":  "Etiqueta realtime"
+                              },
+                 "sync":  {
+                              "count":  1,
+                              "color":  "#0891b2",
+                              "description":  "Etiqueta sync"
+                          },
+                 "proxy":  {
+                               "count":  3,
+                               "color":  "#db2777",
+                               "description":  "Etiqueta proxy"
+                           },
+                 "inspect":  {
+                                 "count":  1,
+                                 "color":  "#db2777",
+                                 "description":  "Etiqueta inspect"
+                             },
+                 "currency":  {
+                                  "count":  2,
+                                  "color":  "#0891b2",
+                                  "description":  "Etiqueta currency"
+                              },
+                 "real-time":  {
+                                   "count":  2,
+                                   "color":  "#4f46e5",
+                                   "description":  "Etiqueta real-time"
+                               },
+                 "historical":  {
+                                    "count":  1,
+                                    "color":  "#7c3aed",
+                                    "description":  "Etiqueta historical"
+                                },
+                 "ai":  {
+                            "count":  3,
+                            "color":  "#dc2626",
+                            "description":  "Etiqueta ai"
+                        },
+                 "design":  {
+                                "count":  5,
+                                "color":  "#7c3aed",
+                                "description":  "Etiqueta design"
+                            },
+                 "learning":  {
+                                  "count":  2,
+                                  "color":  "#db2777",
+                                  "description":  "Etiqueta learning"
+                              },
+                 "cloud":  {
+                               "count":  2,
+                               "color":  "#0891b2",
+                               "description":  "Etiqueta cloud"
+                           },
+                 "collaboration":  {
+                                       "count":  1,
+                                       "color":  "#0891b2",
+                                       "description":  "Etiqueta collaboration"
+                                   },
+                 "ranking":  {
+                                 "count":  1,
+                                 "color":  "#4f46e5",
+                                 "description":  "Etiqueta ranking"
+                             },
+                 "comparison":  {
+                                    "count":  1,
+                                    "color":  "#d97706",
+                                    "description":  "Etiqueta comparison"
+                                },
+                 "geolocation":  {
+                                     "count":  10,
+                                     "color":  "#dc2626",
+                                     "description":  "Etiqueta geolocation"
+                                 },
+                 "dogs":  {
+                              "count":  1,
+                              "color":  "#ea580c",
+                              "description":  "Etiqueta dogs"
+                          },
+                 "images":  {
+                                "count":  2,
+                                "color":  "#2563eb",
+                                "description":  "Etiqueta images"
+                            },
+                 "dragon-ball":  {
+                                     "count":  1,
+                                     "color":  "#059669",
+                                     "description":  "Etiqueta dragon-ball"
+                                 },
+                 "anime":  {
+                               "count":  1,
+                               "color":  "#dc2626",
+                               "description":  "Etiqueta anime"
+                           },
+                 "characters":  {
+                                    "count":  3,
+                                    "color":  "#4f46e5",
+                                    "description":  "Etiqueta characters"
+                                },
+                 "visual":  {
+                                "count":  2,
+                                "color":  "#2563eb",
+                                "description":  "Etiqueta visual"
+                            },
+                 "erd":  {
+                             "count":  1,
+                             "color":  "#0891b2",
+                             "description":  "Etiqueta erd"
+                         },
+                 "olap":  {
+                              "count":  1,
+                              "color":  "#db2777",
+                              "description":  "Etiqueta olap"
+                          },
+                 "embedded":  {
+                                  "count":  2,
+                                  "color":  "#2563eb",
+                                  "description":  "Etiqueta embedded"
+                              },
+                 "analytics":  {
+                                   "count":  1,
+                                   "color":  "#db2777",
+                                   "description":  "Etiqueta analytics"
+                               },
+                 "users":  {
+                               "count":  1,
+                               "color":  "#dc2626",
+                               "description":  "Etiqueta users"
+                           },
+                 "products":  {
+                                  "count":  1,
+                                  "color":  "#7c3aed",
+                                  "description":  "Etiqueta products"
+                              },
+                 "y-i-bases-de-datos":  {
+                                            "count":  2,
+                                            "color":  "#dc2626",
+                                            "description":  "Etiqueta y-i-bases-de-datos"
+                                        },
+                 "herramientas-database":  {
+                                               "count":  2,
+                                               "color":  "#ea580c",
+                                               "description":  "Etiqueta herramientas-database"
+                                           },
+                 "enterprisedb":  {
+                                      "count":  1,
+                                      "color":  "#65a30d",
+                                      "description":  "Etiqueta enterprisedb"
+                                  },
+                 "soccer":  {
+                                "count":  2,
+                                "color":  "#ea580c",
+                                "description":  "Etiqueta soccer"
+                            },
+                 "alternative":  {
+                                     "count":  2,
+                                     "color":  "#d97706",
+                                     "description":  "Etiqueta alternative"
+                                 },
+                 "kaggle":  {
+                                "count":  2,
+                                "color":  "#ea580c",
+                                "description":  "Etiqueta kaggle"
+                            },
+                 "http":  {
+                              "count":  2,
+                              "color":  "#db2777",
+                              "description":  "Etiqueta http"
+                          },
+                 "web":  {
+                             "count":  2,
+                             "color":  "#db2777",
+                             "description":  "Etiqueta web"
+                         },
+                 "testing":  {
+                                 "count":  5,
+                                 "color":  "#4f46e5",
+                                 "description":  "Etiqueta testing"
+                             },
+                 "ecommerce":  {
+                                   "count":  2,
+                                   "color":  "#7c3aed",
+                                   "description":  "Etiqueta ecommerce"
+                               },
+                 "open-source":  {
+                                     "count":  3,
+                                     "color":  "#4f46e5",
+                                     "description":  "Etiqueta open-source"
+                                 },
+                 "mariadb":  {
+                                 "count":  1,
+                                 "color":  "#2563eb",
+                                 "description":  "Etiqueta mariadb"
+                             },
+                 "free":  {
+                              "count":  2,
+                              "color":  "#db2777",
+                              "description":  "Etiqueta free"
+                          },
+                 "hosting":  {
+                                 "count":  3,
+                                 "color":  "#7c3aed",
+                                 "description":  "Etiqueta hosting"
+                             },
+                 "firebase":  {
+                                  "count":  1,
+                                  "color":  "#d97706",
+                                  "description":  "Etiqueta firebase"
+                              },
+                 "nosql":  {
+                               "count":  3,
+                               "color":  "#65a30d",
+                               "description":  "Etiqueta nosql"
+                           },
+                 "backend":  {
+                                 "count":  1,
+                                 "color":  "#dc2626",
+                                 "description":  "Etiqueta backend"
+                             },
+                 "mysql":  {
+                               "count":  2,
+                               "color":  "#4f46e5",
+                               "description":  "Etiqueta mysql"
+                           },
+                 "json":  {
+                              "count":  3,
+                              "color":  "#dc2626",
+                              "description":  "Etiqueta json"
+                          },
+                 "global":  {
+                                "count":  1,
+                                "color":  "#0891b2",
+                                "description":  "Etiqueta global"
+                            },
+                 "browser":  {
+                                 "count":  1,
+                                 "color":  "#dc2626",
+                                 "description":  "Etiqueta browser"
+                             },
+                 "lightweight":  {
+                                     "count":  1,
+                                     "color":  "#7c3aed",
+                                     "description":  "Etiqueta lightweight"
+                                 },
+                 "cli":  {
+                             "count":  1,
+                             "color":  "#dc2626",
+                             "description":  "Etiqueta cli"
+                         },
+                 "terminal":  {
+                                  "count":  1,
+                                  "color":  "#2563eb",
+                                  "description":  "Etiqueta terminal"
+                              },
+                 "simple":  {
+                                "count":  2,
+                                "color":  "#2563eb",
+                                "description":  "Etiqueta simple"
+                            },
+                 "rest":  {
+                              "count":  6,
+                              "color":  "#4f46e5",
+                              "description":  "Etiqueta rest"
+                          },
+                 "graphql":  {
+                                 "count":  1,
+                                 "color":  "#059669",
+                                 "description":  "Etiqueta graphql"
+                             },
+                 "grpc":  {
+                              "count":  2,
+                              "color":  "#db2777",
+                              "description":  "Etiqueta grpc"
+                          },
+                 "city":  {
+                              "count":  1,
+                              "color":  "#059669",
+                              "description":  "Etiqueta city"
+                          },
+                 "asn":  {
+                             "count":  1,
+                             "color":  "#dc2626",
+                             "description":  "Etiqueta asn"
+                         },
+                 "public-ip":  {
+                                   "count":  2,
+                                   "color":  "#059669",
+                                   "description":  "Etiqueta public-ip"
+                               },
+                 "detection":  {
+                                   "count":  1,
+                                   "color":  "#ea580c",
+                                   "description":  "Etiqueta detection"
+                               },
+                 "company":  {
+                                 "count":  1,
+                                 "color":  "#ea580c",
+                                 "description":  "Etiqueta company"
+                             },
+                 "vpn":  {
+                             "count":  2,
+                             "color":  "#2563eb",
+                             "description":  "Etiqueta vpn"
+                         },
+                 "lookup":  {
+                                "count":  2,
+                                "color":  "#4f46e5",
+                                "description":  "Etiqueta lookup"
+                            },
+                 "prototyping":  {
+                                     "count":  1,
+                                     "color":  "#059669",
+                                     "description":  "Etiqueta prototyping"
+                                 },
+                 "public":  {
+                                "count":  3,
+                                "color":  "#ea580c",
+                                "description":  "Etiqueta public"
+                            },
+                 "directory":  {
+                                   "count":  2,
+                                   "color":  "#059669",
+                                   "description":  "Etiqueta directory"
+                               },
+                 "gui":  {
+                             "count":  2,
+                             "color":  "#0891b2",
+                             "description":  "Etiqueta gui"
+                         },
+                 "libsql":  {
+                                "count":  2,
+                                "color":  "#65a30d",
+                                "description":  "Etiqueta libsql"
+                            },
+                 "ui":  {
+                            "count":  2,
+                            "color":  "#dc2626",
+                            "description":  "Etiqueta ui"
+                        },
+                 "local":  {
+                               "count":  3,
+                               "color":  "#d97706",
+                               "description":  "Etiqueta local"
+                           },
+                 "lotr":  {
+                              "count":  3,
+                              "color":  "#ea580c",
+                              "description":  "Etiqueta lotr"
+                          },
+                 "movies":  {
+                                "count":  4,
+                                "color":  "#ea580c",
+                                "description":  "Etiqueta movies"
+                            },
+                 "books":  {
+                               "count":  1,
+                               "color":  "#dc2626",
+                               "description":  "Etiqueta books"
+                           },
+                 "postman":  {
+                                 "count":  1,
+                                 "color":  "#2563eb",
+                                 "description":  "Etiqueta postman"
+                             },
+                 "collection":  {
+                                    "count":  1,
+                                    "color":  "#db2777",
+                                    "description":  "Etiqueta collection"
+                                },
+                 "metadata":  {
+                                  "count":  1,
+                                  "color":  "#d97706",
+                                  "description":  "Etiqueta metadata"
+                              },
+                 "screenshots":  {
+                                     "count":  1,
+                                     "color":  "#059669",
+                                     "description":  "Etiqueta screenshots"
+                                 },
+                 "scraping":  {
+                                  "count":  2,
+                                  "color":  "#0891b2",
+                                  "description":  "Etiqueta scraping"
+                              },
+                 "no-code":  {
+                                 "count":  1,
+                                 "color":  "#65a30d",
+                                 "description":  "Etiqueta no-code"
+                             },
+                 "mongodb":  {
+                                 "count":  1,
+                                 "color":  "#dc2626",
+                                 "description":  "Etiqueta mongodb"
+                             },
+                 "managed":  {
+                                 "count":  1,
+                                 "color":  "#65a30d",
+                                 "description":  "Etiqueta managed"
+                             },
+                 "checker":  {
+                                 "count":  1,
+                                 "color":  "#0891b2",
+                                 "description":  "Etiqueta checker"
+                             },
+                 "network":  {
+                                 "count":  1,
+                                 "color":  "#db2777",
+                                 "description":  "Etiqueta network"
+                             },
+                 "tool":  {
+                              "count":  1,
+                              "color":  "#4f46e5",
+                              "description":  "Etiqueta tool"
+                          },
+                 "postgresql":  {
+                                    "count":  3,
+                                    "color":  "#db2777",
+                                    "description":  "Etiqueta postgresql"
+                                },
+                 "serverless":  {
+                                    "count":  2,
+                                    "color":  "#dc2626",
+                                    "description":  "Etiqueta serverless"
+                                },
+                 "branching":  {
+                                   "count":  2,
+                                   "color":  "#2563eb",
+                                   "description":  "Etiqueta branching"
+                               },
+                 "news":  {
+                              "count":  1,
+                              "color":  "#0891b2",
+                              "description":  "Etiqueta news"
+                          },
+                 "search":  {
+                                "count":  3,
+                                "color":  "#2563eb",
+                                "description":  "Etiqueta search"
+                            },
+                 "tunnel":  {
+                                "count":  1,
+                                "color":  "#dc2626",
+                                "description":  "Etiqueta tunnel"
+                            },
+                 "sdk":  {
+                             "count":  1,
+                             "color":  "#dc2626",
+                             "description":  "Etiqueta sdk"
+                         },
+                 "generator":  {
+                                   "count":  1,
+                                   "color":  "#65a30d",
+                                   "description":  "Etiqueta generator"
+                               },
+                 "openapi":  {
+                                 "count":  2,
+                                 "color":  "#db2777",
+                                 "description":  "Etiqueta openapi"
+                             },
+                 "weather":  {
+                                 "count":  4,
+                                 "color":  "#dc2626",
+                                 "description":  "Etiqueta weather"
+                             },
+                 "no-key":  {
+                                "count":  1,
+                                "color":  "#0891b2",
+                                "description":  "Etiqueta no-key"
+                            },
+                 "open-data":  {
+                                   "count":  1,
+                                   "color":  "#ea580c",
+                                   "description":  "Etiqueta open-data"
+                               },
+                 "multi-engine":  {
+                                      "count":  1,
+                                      "color":  "#2563eb",
+                                      "description":  "Etiqueta multi-engine"
+                                  },
+                 "postgres":  {
+                                  "count":  1,
+                                  "color":  "#65a30d",
+                                  "description":  "Etiqueta postgres"
+                              },
+                 "pgrx":  {
+                              "count":  1,
+                              "color":  "#ea580c",
+                              "description":  "Etiqueta pgrx"
+                          },
+                 "pokemon":  {
+                                 "count":  1,
+                                 "color":  "#059669",
+                                 "description":  "Etiqueta pokemon"
+                             },
+                 "documentation":  {
+                                       "count":  3,
+                                       "color":  "#dc2626",
+                                       "description":  "Etiqueta documentation"
+                                   },
+                 "freemium":  {
+                                  "count":  2,
+                                  "color":  "#db2777",
+                                  "description":  "Etiqueta freemium"
+                              },
+                 "security":  {
+                                  "count":  2,
+                                  "color":  "#db2777",
+                                  "description":  "Etiqueta security"
+                              },
+                 "marketplace":  {
+                                     "count":  1,
+                                     "color":  "#059669",
+                                     "description":  "Etiqueta marketplace"
+                                 },
+                 "collections":  {
+                                     "count":  1,
+                                     "color":  "#d97706",
+                                     "description":  "Etiqueta collections"
+                                 },
+                 "organized":  {
+                                   "count":  1,
+                                   "color":  "#d97706",
+                                   "description":  "Etiqueta organized"
+                               },
+                 "intercept":  {
+                                   "count":  1,
+                                   "color":  "#7c3aed",
+                                   "description":  "Etiqueta intercept"
+                               },
+                 "modify":  {
+                                "count":  1,
+                                "color":  "#db2777",
+                                "description":  "Etiqueta modify"
+                            },
+                 "rick-morty":  {
+                                    "count":  1,
+                                    "color":  "#059669",
+                                    "description":  "Etiqueta rick-morty"
+                                },
+                 "online":  {
+                                "count":  1,
+                                "color":  "#0891b2",
+                                "description":  "Etiqueta online"
+                            },
+                 "executor":  {
+                                  "count":  1,
+                                  "color":  "#ea580c",
+                                  "description":  "Etiqueta executor"
+                              },
+                 "google":  {
+                                "count":  1,
+                                "color":  "#65a30d",
+                                "description":  "Etiqueta google"
+                            },
+                 "reputation":  {
+                                    "count":  1,
+                                    "color":  "#ea580c",
+                                    "description":  "Etiqueta reputation"
+                                },
+                 "multiplayer":  {
+                                     "count":  1,
+                                     "color":  "#db2777",
+                                     "description":  "Etiqueta multiplayer"
+                                 },
+                 "gaming":  {
+                                "count":  1,
+                                "color":  "#65a30d",
+                                "description":  "Etiqueta gaming"
+                            },
+                 "practice":  {
+                                  "count":  1,
+                                  "color":  "#d97706",
+                                  "description":  "Etiqueta practice"
+                              },
+                 "ide":  {
+                             "count":  1,
+                             "color":  "#4f46e5",
+                             "description":  "Etiqueta ide"
+                         },
+                 "interactive":  {
+                                     "count":  2,
+                                     "color":  "#dc2626",
+                                     "description":  "Etiqueta interactive"
+                                 },
+                 "auth":  {
+                              "count":  1,
+                              "color":  "#7c3aed",
+                              "description":  "Etiqueta auth"
+                          },
+                 "multimodel":  {
+                                    "count":  1,
+                                    "color":  "#7c3aed",
+                                    "description":  "Etiqueta multimodel"
+                                },
+                 "answers":  {
+                                 "count":  1,
+                                 "color":  "#059669",
+                                 "description":  "Etiqueta answers"
+                             },
+                 "cats":  {
+                              "count":  1,
+                              "color":  "#65a30d",
+                              "description":  "Etiqueta cats"
+                          },
+                 "filters":  {
+                                 "count":  1,
+                                 "color":  "#059669",
+                                 "description":  "Etiqueta filters"
+                             },
+                 "tv":  {
+                            "count":  2,
+                            "color":  "#7c3aed",
+                            "description":  "Etiqueta tv"
+                        },
+                 "media":  {
+                               "count":  1,
+                               "color":  "#dc2626",
+                               "description":  "Etiqueta media"
+                           },
+                 "simpsons":  {
+                                  "count":  1,
+                                  "color":  "#dc2626",
+                                  "description":  "Etiqueta simpsons"
+                              },
+                 "forecast":  {
+                                  "count":  2,
+                                  "color":  "#0891b2",
+                                  "description":  "Etiqueta forecast"
+                              },
+                 "precise":  {
+                                 "count":  1,
+                                 "color":  "#65a30d",
+                                 "description":  "Etiqueta precise"
+                             },
+                 "observability":  {
+                                       "count":  1,
+                                       "color":  "#65a30d",
+                                       "description":  "Etiqueta observability"
+                                   },
+                 "docs":  {
+                              "count":  1,
+                              "color":  "#0891b2",
+                              "description":  "Etiqueta docs"
+                          },
+                 "typescript":  {
+                                    "count":  1,
+                                    "color":  "#059669",
+                                    "description":  "Etiqueta typescript"
+                                },
+                 "diagram":  {
+                                 "count":  1,
+                                 "color":  "#0891b2",
+                                 "description":  "Etiqueta diagram"
+                             },
+                 "sqlite":  {
+                                "count":  1,
+                                "color":  "#db2777",
+                                "description":  "Etiqueta sqlite"
+                            },
+                 "edge":  {
+                              "count":  1,
+                              "color":  "#0891b2",
+                              "description":  "Etiqueta edge"
+                          },
+                 "data":  {
+                              "count":  1,
+                              "color":  "#2563eb",
+                              "description":  "Etiqueta data"
+                          },
+                 "ipv4":  {
+                              "count":  1,
+                              "color":  "#65a30d",
+                              "description":  "Etiqueta ipv4"
+                          },
+                 "ipv6":  {
+                              "count":  1,
+                              "color":  "#ea580c",
+                              "description":  "Etiqueta ipv6"
+                          }
+             },
+    "searchIndex":  {
+                        "fields":  [
+                                       {
+                                           "name":  "name",
+                                           "weight":  3,
+                                           "encode":  "forward",
+                                           "tokenize":  "forward"
+                                       },
+                                       {
+                                           "name":  "description",
+                                           "weight":  2,
+                                           "encode":  "forward",
+                                           "tokenize":  "forward"
+                                       },
+                                       {
+                                           "name":  "tags",
+                                           "weight":  2,
+                                           "encode":  "forward",
+                                           "tokenize":  "forward"
+                                       },
+                                       {
+                                           "name":  "category",
+                                           "weight":  1,
+                                           "encode":  "forward",
+                                           "tokenize":  "forward"
+                                       },
+                                       {
+                                           "name":  "subcategory",
+                                           "weight":  1,
+                                           "encode":  "forward",
+                                           "tokenize":  "forward"
+                                       }
+                                   ],
+                        "entries":  [
+                                        {
+                                            "id":  "abstract-api",
+                                            "slug":  "abstract-api",
+                                            "terms":  [
+                                                          "Abstract API",
+                                                          "abstract-api",
+                                                          "Suite APIs: IP, email, phone, geolocalización",
+                                                          "apis",
+                                                          "specialized",
+                                                          "api",
+                                                          "ip",
+                                                          "email",
+                                                          "phone",
+                                                          "geo"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "accessibility-design-system",
+                                            "slug":  "accessibility-design-system",
+                                            "terms":  [
+                                                          "Accessibility Design System",
+                                                          "accessibility-design-system",
+                                                          "Analiza sistema de diseño y genera repo",
+                                                          "apis",
+                                                          "tools",
+                                                          "y-apis-datos",
+                                                          "herramientas-api"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "api-mega-list",
+                                            "slug":  "api-mega-list",
+                                            "terms":  [
+                                                          "API Mega List",
+                                                          "api-mega-list",
+                                                          "Lista masiva de APIs públicas categoriz",
+                                                          "apis",
+                                                          "tools",
+                                                          "y-apis-datos",
+                                                          "apis-pa-blicas"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "apilist-fun",
+                                            "slug":  "apilist-fun",
+                                            "terms":  [
+                                                          "APIList.fun",
+                                                          "apilist-fun",
+                                                          "Lista divertida de APIs públicas para proyectos",
+                                                          "apis",
+                                                          "public",
+                                                          "fun",
+                                                          "projects"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "awesome-public-datasets",
+                                            "slug":  "awesome-public-datasets",
+                                            "terms":  [
+                                                          "Awesome Public Datasets",
+                                                          "awesome-public-datasets",
+                                                          "Lista GitHub datasets públicos curados",
+                                                          "databases",
+                                                          "datasets",
+                                                          "dataset",
+                                                          "github",
+                                                          "awesome",
+                                                          "curated"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "beeceptor",
+                                            "slug":  "beeceptor",
+                                            "terms":  [
+                                                          "Beeceptor",
+                                                          "beeceptor",
+                                                          "Mockea y debuggea APIs con endpoints temporales",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "mock",
+                                                          "debug",
+                                                          "temporary"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "bigdatacloud",
+                                            "slug":  "bigdatacloud",
+                                            "terms":  [
+                                                          "BigDataCloud",
+                                                          "bigdatacloud",
+                                                          "APIs geo IP, validación email/teléfono",
+                                                          "apis",
+                                                          "specialized",
+                                                          "api",
+                                                          "geo",
+                                                          "validation",
+                                                          "ip"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "calendarific",
+                                            "slug":  "calendarific",
+                                            "terms":  [
+                                                          "Calendarific",
+                                                          "calendarific",
+                                                          "API festivos 200+ países con años múltiples",
+                                                          "apis",
+                                                          "specialized",
+                                                          "api",
+                                                          "holidays",
+                                                          "countries",
+                                                          "calendar"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "cockroachdb",
+                                            "slug":  "cockroachdb",
+                                            "terms":  [
+                                                          "CockroachDB",
+                                                          "cockroachdb",
+                                                          "DB distribuida 10GB gratis",
+                                                          "databases",
+                                                          "managed",
+                                                          "database",
+                                                          "distributed",
+                                                          "sql",
+                                                          "scalable"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "convex",
+                                            "slug":  "convex",
+                                            "terms":  [
+                                                          "Convex",
+                                                          "convex",
+                                                          "DB reactiva con sync en tiempo real",
+                                                          "databases",
+                                                          "managed",
+                                                          "database",
+                                                          "reactive",
+                                                          "realtime",
+                                                          "sync"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "curlhub",
+                                            "slug":  "curlhub",
+                                            "terms":  [
+                                                          "CurlHub",
+                                                          "curlhub",
+                                                          "Proxy para inspeccionar y debuggear APIs",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "proxy",
+                                                          "inspect",
+                                                          "debug"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "currencyscoop",
+                                            "slug":  "currencyscoop",
+                                            "terms":  [
+                                                          "CurrencyScoop",
+                                                          "currencyscoop",
+                                                          "API divisas tiempo real con histórico",
+                                                          "apis",
+                                                          "specialized",
+                                                          "api",
+                                                          "currency",
+                                                          "real-time",
+                                                          "historical"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "database-build",
+                                            "slug":  "database-build",
+                                            "terms":  [
+                                                          "Database.build",
+                                                          "database-build",
+                                                          "Builder SQL con IA para diseño visual",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "sql",
+                                                          "ai",
+                                                          "design"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "datacamp-sql",
+                                            "slug":  "datacamp-sql-projects",
+                                            "terms":  [
+                                                          "DataCamp SQL Projects",
+                                                          "datacamp-sql-projects",
+                                                          "Proyectos SQL guiados por nivel de dificultad",
+                                                          "databases",
+                                                          "datasets",
+                                                          "dataset",
+                                                          "sql",
+                                                          "projects",
+                                                          "learning"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "dbdesigner",
+                                            "slug":  "db-designer",
+                                            "terms":  [
+                                                          "DB Designer",
+                                                          "db-designer",
+                                                          "Diseña esquemas DB en la nube colaborativo",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "design",
+                                                          "cloud",
+                                                          "collaboration"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "db-engines",
+                                            "slug":  "db-engines",
+                                            "terms":  [
+                                                          "DB-Engines",
+                                                          "db-engines",
+                                                          "Ranking popularidad bases de datos mensual",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "ranking",
+                                                          "comparison"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "db-ip",
+                                            "slug":  "db-ip",
+                                            "terms":  [
+                                                          "DB-IP",
+                                                          "db-ip",
+                                                          "Geolocalización IP: API + DB gratis",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "database",
+                                                          "geolocation"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "dogceo-api",
+                                            "slug":  "dog-ceo-api",
+                                            "terms":  [
+                                                          "Dog CEO API",
+                                                          "dog-ceo-api",
+                                                          "API de imágenes de perros aleatorias",
+                                                          "apis",
+                                                          "public",
+                                                          "dogs",
+                                                          "images",
+                                                          "fun"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "dragonball-api",
+                                            "slug":  "dragon-ball-api",
+                                            "terms":  [
+                                                          "Dragon Ball API",
+                                                          "dragon-ball-api",
+                                                          "API del universo Dragon Ball",
+                                                          "apis",
+                                                          "public",
+                                                          "dragon-ball",
+                                                          "anime",
+                                                          "characters"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "drawdb",
+                                            "slug":  "drawdb",
+                                            "terms":  [
+                                                          "DrawDB",
+                                                          "drawdb",
+                                                          "Editor visual de esquemas DB online",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "design",
+                                                          "visual",
+                                                          "erd"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "duckdb",
+                                            "slug":  "duckdb",
+                                            "terms":  [
+                                                          "DuckDB",
+                                                          "duckdb",
+                                                          "OLAP embebida para análisis local rápido",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "olap",
+                                                          "embedded",
+                                                          "analytics"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "dummyjson",
+                                            "slug":  "dummyjson",
+                                            "terms":  [
+                                                          "DummyJSON",
+                                                          "dummyjson",
+                                                          "API mock con usuarios, productos, posts fake",
+                                                          "apis",
+                                                          "public",
+                                                          "mock",
+                                                          "users",
+                                                          "products"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "enterprisedb",
+                                            "slug":  "enterprisedb",
+                                            "terms":  [
+                                                          "EnterpriseDB",
+                                                          "enterprisedb",
+                                                          "Plataforma PostgreSQL enterprise y gesti",
+                                                          "apis",
+                                                          "tools",
+                                                          "y-i-bases-de-datos",
+                                                          "herramientas-database"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "european-soccer-db-2",
+                                            "slug":  "european-soccer-data-2",
+                                            "terms":  [
+                                                          "European Soccer Data 2",
+                                                          "european-soccer-data-2",
+                                                          "Dataset fútbol alternativo",
+                                                          "databases",
+                                                          "datasets",
+                                                          "dataset",
+                                                          "soccer",
+                                                          "sql",
+                                                          "alternative"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "european-soccer-db",
+                                            "slug":  "european-soccer-db",
+                                            "terms":  [
+                                                          "European Soccer DB",
+                                                          "european-soccer-db",
+                                                          "Dataset fútbol europeo con esquema relacional",
+                                                          "databases",
+                                                          "datasets",
+                                                          "dataset",
+                                                          "soccer",
+                                                          "sql",
+                                                          "kaggle"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "extendsclass",
+                                            "slug":  "extendsclass",
+                                            "terms":  [
+                                                          "ExtendsClass",
+                                                          "extendsclass",
+                                                          "Cliente HTTP web para testear APIs",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "http",
+                                                          "web",
+                                                          "testing"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "fakestoreapi",
+                                            "slug":  "fake-store-api",
+                                            "terms":  [
+                                                          "Fake Store API",
+                                                          "fake-store-api",
+                                                          "API de ejemplo para e-commerce y testing",
+                                                          "apis",
+                                                          "public",
+                                                          "ecommerce",
+                                                          "testing",
+                                                          "mock"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "fakestore-github",
+                                            "slug":  "fake-store-github",
+                                            "terms":  [
+                                                          "Fake Store GitHub",
+                                                          "fake-store-github",
+                                                          "Código del Fake Store API",
+                                                          "apis",
+                                                          "public",
+                                                          "ecommerce",
+                                                          "github",
+                                                          "open-source"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "filess",
+                                            "slug":  "filess",
+                                            "terms":  [
+                                                          "Filess",
+                                                          "filess",
+                                                          "MariaDB 10MB gratis",
+                                                          "databases",
+                                                          "managed",
+                                                          "database",
+                                                          "mariadb",
+                                                          "free",
+                                                          "hosting"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "firebase",
+                                            "slug":  "firebase",
+                                            "terms":  [
+                                                          "Firebase",
+                                                          "firebase",
+                                                          "Backend móvil/web con DB y auth",
+                                                          "databases",
+                                                          "managed",
+                                                          "database",
+                                                          "nosql",
+                                                          "backend"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "freedb",
+                                            "slug":  "freedb-tech",
+                                            "terms":  [
+                                                          "FreeDB Tech",
+                                                          "freedb-tech",
+                                                          "MySQL 25MB gratis + 200 conexiones",
+                                                          "databases",
+                                                          "managed",
+                                                          "database",
+                                                          "mysql",
+                                                          "free",
+                                                          "hosting"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "freeipapi",
+                                            "slug":  "freeipapi",
+                                            "terms":  [
+                                                          "FreeIPAPI",
+                                                          "freeipapi",
+                                                          "API geolocalización IP JSON gratis",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "geolocation",
+                                                          "json"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "geolocated-io",
+                                            "slug":  "geolocated-io",
+                                            "terms":  [
+                                                          "Geolocated.io",
+                                                          "geolocated-io",
+                                                          "API geo IP con servidores multi-continente",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "geolocation",
+                                                          "global"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "hoppscotch",
+                                            "slug":  "hoppscotch",
+                                            "terms":  [
+                                                          "Hoppscotch",
+                                                          "hoppscotch",
+                                                          "Cliente API ligero open source en navegador",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "open-source",
+                                                          "browser",
+                                                          "lightweight"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "httpie",
+                                            "slug":  "httpie",
+                                            "terms":  [
+                                                          "HTTPie",
+                                                          "httpie",
+                                                          "Cliente API desde terminal con sintaxis simple",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "cli",
+                                                          "terminal",
+                                                          "simple"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "insomnia",
+                                            "slug":  "insomnia",
+                                            "terms":  [
+                                                          "Insomnia",
+                                                          "insomnia",
+                                                          "Cliente REST, GraphQL y gRPC con sync",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "rest",
+                                                          "graphql",
+                                                          "grpc"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ip-geolocation-api",
+                                            "slug":  "ip-geolocation-api",
+                                            "terms":  [
+                                                          "IP Geolocation API",
+                                                          "ip-geolocation-api",
+                                                          "API geo IP: 1k requests/día forever free",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "geo",
+                                                          "geolocation"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ip-geolocation-ipwho-org",
+                                            "slug":  "ip-geolocation-ipwho-org",
+                                            "terms":  [
+                                                          "IP Geolocation ipwho.org",
+                                                          "ip-geolocation-ipwho-org",
+                                                          "API geo IP: 2k requests/día gratis",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "geo",
+                                                          "geolocation"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ip-city",
+                                            "slug":  "ip-city",
+                                            "terms":  [
+                                                          "IP.City",
+                                                          "ip-city",
+                                                          "API geo IP: 100 requests/día gratis",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "geo",
+                                                          "city"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ip2geo-dev",
+                                            "slug":  "ip2geo-dev",
+                                            "terms":  [
+                                                          "ip2geo.dev",
+                                                          "ip2geo-dev",
+                                                          "API geo IP: ciudad, país, ASN, moneda",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "asn",
+                                                          "currency"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ip2location-io",
+                                            "slug":  "ip2location-io",
+                                            "terms":  [
+                                                          "IP2Location.io",
+                                                          "ip2location-io",
+                                                          "API geo IP freemium: 50k créditos/mes",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "geo",
+                                                          "geolocation"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ipaddress-sh",
+                                            "slug":  "ipaddress-sh",
+                                            "terms":  [
+                                                          "ipaddress.sh",
+                                                          "ipaddress-sh",
+                                                          "Servicio simple obtener IP pública",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "public-ip",
+                                                          "simple"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ip-api",
+                                            "slug":  "ip-api",
+                                            "terms":  [
+                                                          "ip-api",
+                                                          "ip-api",
+                                                          "API geo IP gratis no-comercial sin key",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "geo",
+                                                          "geolocation"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ipapi-is",
+                                            "slug":  "ipapi-is",
+                                            "terms":  [
+                                                          "ipapi.is",
+                                                          "ipapi-is",
+                                                          "API IP con detección hosting avanzada",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "hosting",
+                                                          "detection"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ipbase-com",
+                                            "slug":  "ipbase-com",
+                                            "terms":  [
+                                                          "ipbase.com",
+                                                          "ipbase-com",
+                                                          "API geo IP: 150 requests/mes forever free",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "geo",
+                                                          "geolocation"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ipinfo",
+                                            "slug":  "ipinfo",
+                                            "terms":  [
+                                                          "IPinfo",
+                                                          "ipinfo",
+                                                          "API datos IP: geo, empresa, carrier, ASN",
+                                                          "apis",
+                                                          "specialized",
+                                                          "api",
+                                                          "ip",
+                                                          "geo",
+                                                          "company"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "iplocate",
+                                            "slug":  "iplocate",
+                                            "terms":  [
+                                                          "IPLocate",
+                                                          "iplocate",
+                                                          "API geo IP + detección proxy/VPN gratis",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "proxy",
+                                                          "vpn"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "iptrace",
+                                            "slug":  "iptrace",
+                                            "terms":  [
+                                                          "IPTrace",
+                                                          "iptrace",
+                                                          "API geolocalización IP simple y fiable",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "geolocation",
+                                                          "lookup"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "json-ip",
+                                            "slug":  "json-ip",
+                                            "terms":  [
+                                                          "JSON IP",
+                                                          "json-ip",
+                                                          "API retorna tu IP pública sin registro",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "public-ip",
+                                                          "json"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "json-server",
+                                            "slug":  "json-server",
+                                            "terms":  [
+                                                          "JSON Server",
+                                                          "json-server",
+                                                          "Convierte JSON en REST API en segundos",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "json",
+                                                          "rest",
+                                                          "mock"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "jsonplaceholder",
+                                            "slug":  "jsonplaceholder",
+                                            "terms":  [
+                                                          "JSONPlaceholder",
+                                                          "jsonplaceholder",
+                                                          "API REST falsa gratuita ideal para prototipado",
+                                                          "apis",
+                                                          "public",
+                                                          "mock",
+                                                          "rest",
+                                                          "prototyping"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "kaggle-datasets",
+                                            "slug":  "kaggle-datasets",
+                                            "terms":  [
+                                                          "Kaggle Datasets",
+                                                          "kaggle-datasets",
+                                                          "Listado principal de datasets públicos",
+                                                          "databases",
+                                                          "datasets",
+                                                          "dataset",
+                                                          "kaggle",
+                                                          "public",
+                                                          "directory"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "kreya",
+                                            "slug":  "kreya",
+                                            "terms":  [
+                                                          "Kreya",
+                                                          "kreya",
+                                                          "Cliente gRPC GUI open source para testing",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "grpc",
+                                                          "gui",
+                                                          "testing"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "libsql-studio",
+                                            "slug":  "libsql-studio",
+                                            "terms":  [
+                                                          "LibSQL Studio",
+                                                          "libsql-studio",
+                                                          "UI local para bases Turso/LibSQL",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "libsql",
+                                                          "ui",
+                                                          "local"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "lotr-api-1",
+                                            "slug":  "lord-of-rings-api-1",
+                                            "terms":  [
+                                                          "Lord of Rings API 1",
+                                                          "lord-of-rings-api-1",
+                                                          "API señor de los anillos",
+                                                          "apis",
+                                                          "public",
+                                                          "lotr",
+                                                          "movies",
+                                                          "books"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "lotr-api-2",
+                                            "slug":  "lord-of-rings-api-2",
+                                            "terms":  [
+                                                          "Lord of Rings API 2",
+                                                          "lord-of-rings-api-2",
+                                                          "API señor de los anillos alternativa",
+                                                          "apis",
+                                                          "public",
+                                                          "lotr",
+                                                          "alternative",
+                                                          "movies"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "lotr-postman",
+                                            "slug":  "lord-of-rings-postman",
+                                            "terms":  [
+                                                          "Lord of Rings Postman",
+                                                          "lord-of-rings-postman",
+                                                          "API señor de los anillos postman",
+                                                          "apis",
+                                                          "public",
+                                                          "lotr",
+                                                          "postman",
+                                                          "collection"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "microlink",
+                                            "slug":  "microlink-io",
+                                            "terms":  [
+                                                          "microlink.io",
+                                                          "microlink-io",
+                                                          "API extrae metadatos, screenshots, scraping",
+                                                          "apis",
+                                                          "specialized",
+                                                          "api",
+                                                          "metadata",
+                                                          "screenshots",
+                                                          "scraping"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "mockoon",
+                                            "slug":  "mockoon",
+                                            "terms":  [
+                                                          "Mockoon",
+                                                          "mockoon",
+                                                          "Crea APIs mock sin código localmente",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "mock",
+                                                          "no-code",
+                                                          "local"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "mongodb-atlas",
+                                            "slug":  "mongodb-atlas",
+                                            "terms":  [
+                                                          "MongoDB Atlas",
+                                                          "mongodb-atlas",
+                                                          "MongoDB gestionado gratuito",
+                                                          "databases",
+                                                          "managed",
+                                                          "database",
+                                                          "mongodb",
+                                                          "nosql"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "multi-exit-ip-checker",
+                                            "slug":  "multi-exit-ip-checker",
+                                            "terms":  [
+                                                          "Multi-Exit IP Checker",
+                                                          "multi-exit-ip-checker",
+                                                          "Herramienta check IP salida múltiples nodos",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "ip",
+                                                          "checker",
+                                                          "network",
+                                                          "tool"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "neon",
+                                            "slug":  "neon",
+                                            "terms":  [
+                                                          "Neon",
+                                                          "neon",
+                                                          "PostgreSQL serverless con branching",
+                                                          "databases",
+                                                          "managed",
+                                                          "database",
+                                                          "postgresql",
+                                                          "serverless",
+                                                          "branching"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "newsapi",
+                                            "slug":  "news-api",
+                                            "terms":  [
+                                                          "News API",
+                                                          "news-api",
+                                                          "Busca noticias web con API en tiempo real",
+                                                          "apis",
+                                                          "specialized",
+                                                          "api",
+                                                          "news",
+                                                          "real-time",
+                                                          "search"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ngrok",
+                                            "slug":  "ngrok",
+                                            "terms":  [
+                                                          "ngrok",
+                                                          "URLs públicas para entorno local con tunnels",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "tunnel",
+                                                          "local",
+                                                          "public"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "openapi-generator",
+                                            "slug":  "openapi-generator",
+                                            "terms":  [
+                                                          "OpenAPI Generator",
+                                                          "openapi-generator",
+                                                          "Genera SDKs desde especificación",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "sdk",
+                                                          "generator",
+                                                          "openapi"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "open-meteo",
+                                            "slug":  "open-meteo",
+                                            "terms":  [
+                                                          "Open-Meteo",
+                                                          "open-meteo",
+                                                          "Datos meteorológicos open-source sin API key",
+                                                          "apis",
+                                                          "public",
+                                                          "weather",
+                                                          "open-source",
+                                                          "no-key"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "open-meteo-github",
+                                            "slug":  "open-meteo-github",
+                                            "terms":  [
+                                                          "Open-Meteo GitHub",
+                                                          "open-meteo-github",
+                                                          "Datos open en GitHub",
+                                                          "apis",
+                                                          "public",
+                                                          "weather",
+                                                          "github",
+                                                          "open-data"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "outerbase",
+                                            "slug":  "outerbase-studio",
+                                            "terms":  [
+                                                          "Outerbase Studio",
+                                                          "outerbase-studio",
+                                                          "GUI ligera para múltiples motores SQL",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "gui",
+                                                          "sql",
+                                                          "multi-engine"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "outerbase-cloud",
+                                            "slug":  "outerbase-studio-cloud",
+                                            "terms":  [
+                                                          "Outerbase Studio Cloud",
+                                                          "outerbase-studio-cloud",
+                                                          "UI para Postgres en cloud",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "postgres",
+                                                          "cloud",
+                                                          "ui"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "pgrx",
+                                            "slug":  "pgrx",
+                                            "terms":  [
+                                                          "PGRX",
+                                                          "pgrx",
+                                                          "Framework para crear extensiones Postgre",
+                                                          "apis",
+                                                          "tools",
+                                                          "y-i-bases-de-datos",
+                                                          "herramientas-database"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "planetscale",
+                                            "slug":  "planetscale",
+                                            "terms":  [
+                                                          "PlanetScale",
+                                                          "planetscale",
+                                                          "MySQL serverless con branching ilimitado",
+                                                          "databases",
+                                                          "managed",
+                                                          "database",
+                                                          "mysql",
+                                                          "serverless",
+                                                          "branching"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "pokeapi",
+                                            "slug":  "pokeapi",
+                                            "terms":  [
+                                                          "PokéAPI",
+                                                          "pokeapi",
+                                                          "API REST completa del universo Pokémon",
+                                                          "apis",
+                                                          "public",
+                                                          "pokemon",
+                                                          "rest",
+                                                          "fun"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "postgrest",
+                                            "slug":  "postgrest",
+                                            "terms":  [
+                                                          "PostgREST",
+                                                          "postgrest",
+                                                          "API REST automática desde PostgreSQL",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "postgresql",
+                                                          "api",
+                                                          "rest"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "postman",
+                                            "slug":  "postman",
+                                            "terms":  [
+                                                          "Postman",
+                                                          "postman",
+                                                          "Diseña, prueba y documenta APIs colaborativamente",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "testing",
+                                                          "documentation",
+                                                          "freemium"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "proxysentry",
+                                            "slug":  "proxysentry",
+                                            "terms":  [
+                                                          "ProxySentry",
+                                                          "proxysentry",
+                                                          "API detecta proxies residenciales y VPNs",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "proxy",
+                                                          "vpn",
+                                                          "security"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "public-apis-web",
+                                            "slug":  "public-apis-web",
+                                            "terms":  [
+                                                          "Public APIs Web",
+                                                          "public-apis-web",
+                                                          "Listado de APIs públicas web",
+                                                          "apis",
+                                                          "public",
+                                                          "web",
+                                                          "directory"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "rapidapi",
+                                            "slug":  "rapidapi",
+                                            "terms":  [
+                                                          "RapidAPI",
+                                                          "rapidapi",
+                                                          "Colección de APIs con plan gratuito limitado",
+                                                          "apis",
+                                                          "public",
+                                                          "marketplace",
+                                                          "freemium"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "rapidapi-collections",
+                                            "slug":  "rapidapi-collections",
+                                            "terms":  [
+                                                          "RapidAPI Collections",
+                                                          "rapidapi-collections",
+                                                          "Colecciones de APIs organizadas",
+                                                          "apis",
+                                                          "public",
+                                                          "collections",
+                                                          "organized"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "reqres",
+                                            "slug":  "reqres",
+                                            "terms":  [
+                                                          "Reqres",
+                                                          "reqres",
+                                                          "API REST que responde con datos de ejemplo",
+                                                          "apis",
+                                                          "public",
+                                                          "mock",
+                                                          "rest",
+                                                          "testing"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "requestly",
+                                            "slug":  "requestly",
+                                            "terms":  [
+                                                          "Requestly",
+                                                          "requestly",
+                                                          "Intercepta y modifica peticiones HTTP en browser",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "http",
+                                                          "intercept",
+                                                          "modify"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "rickandmortyapi",
+                                            "slug":  "rick-and-morty-api",
+                                            "terms":  [
+                                                          "Rick and Morty API",
+                                                          "rick-and-morty-api",
+                                                          "API de la serie Rick \u0026 Morty con personajes",
+                                                          "apis",
+                                                          "public",
+                                                          "rick-morty",
+                                                          "characters",
+                                                          "fun"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "runsql",
+                                            "slug":  "runsql",
+                                            "terms":  [
+                                                          "RunSQL",
+                                                          "runsql",
+                                                          "Ejecuta SQL online",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "sql",
+                                                          "online",
+                                                          "executor"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "serpapi",
+                                            "slug":  "serpapi",
+                                            "terms":  [
+                                                          "SerpApi",
+                                                          "serpapi",
+                                                          "API scraping motores búsqueda: Google, Bing",
+                                                          "apis",
+                                                          "specialized",
+                                                          "api",
+                                                          "scraping",
+                                                          "search",
+                                                          "google"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "sikkerapi",
+                                            "slug":  "sikkerapi",
+                                            "terms":  [
+                                                          "SikkerAPI",
+                                                          "sikkerapi",
+                                                          "API reputación IP y threat intelligence",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "security",
+                                                          "reputation"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "spacetimedb",
+                                            "slug":  "spacetimedb",
+                                            "terms":  [
+                                                          "SpacetimeDB",
+                                                          "spacetimedb",
+                                                          "DB multijugador con lógica embebida",
+                                                          "databases",
+                                                          "managed",
+                                                          "database",
+                                                          "multiplayer",
+                                                          "embedded",
+                                                          "gaming"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "sql-practice",
+                                            "slug":  "sql-practice",
+                                            "terms":  [
+                                                          "SQL Practice",
+                                                          "sql-practice",
+                                                          "IDE SQL online para aprender practicando",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "sql",
+                                                          "practice",
+                                                          "ide"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "sqlbolt",
+                                            "slug":  "sqlbolt",
+                                            "terms":  [
+                                                          "SQLBolt",
+                                                          "sqlbolt",
+                                                          "18 lecciones interactivas SQL gratuitas",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "sql",
+                                                          "learning",
+                                                          "interactive"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "supabase",
+                                            "slug":  "supabase",
+                                            "terms":  [
+                                                          "Supabase",
+                                                          "supabase",
+                                                          "PostgreSQL con auth, realtime y storage",
+                                                          "databases",
+                                                          "managed",
+                                                          "database",
+                                                          "postgresql",
+                                                          "auth",
+                                                          "realtime"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "surrealdb",
+                                            "slug":  "surrealdb",
+                                            "terms":  [
+                                                          "SurrealDB",
+                                                          "surrealdb",
+                                                          "DB multimodelo SQL+NoSQL+grafo",
+                                                          "databases",
+                                                          "managed",
+                                                          "database",
+                                                          "multimodel",
+                                                          "sql",
+                                                          "nosql"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "swagger-ui",
+                                            "slug":  "swagger-ui",
+                                            "terms":  [
+                                                          "Swagger UI",
+                                                          "swagger-ui",
+                                                          "Documentación interactiva de APIs auto-generada",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "documentation",
+                                                          "interactive",
+                                                          "openapi"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "tavily",
+                                            "slug":  "tavily-ai",
+                                            "terms":  [
+                                                          "Tavily AI",
+                                                          "tavily-ai",
+                                                          "API búsqueda online con IA y respuestas",
+                                                          "apis",
+                                                          "specialized",
+                                                          "api",
+                                                          "search",
+                                                          "ai",
+                                                          "answers"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "thecatapi",
+                                            "slug":  "the-cat-api",
+                                            "terms":  [
+                                                          "The Cat API",
+                                                          "the-cat-api",
+                                                          "Imágenes y datos de gatos con filtros",
+                                                          "apis",
+                                                          "public",
+                                                          "cats",
+                                                          "images",
+                                                          "filters"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "the-ip-api",
+                                            "slug":  "the-ip-api",
+                                            "terms":  [
+                                                          "The IP API",
+                                                          "the-ip-api",
+                                                          "API geolocalización IP: 1k requests/día",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "geolocation",
+                                                          "lookup"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "themoviedb",
+                                            "slug":  "the-movie-db",
+                                            "terms":  [
+                                                          "The Movie DB",
+                                                          "the-movie-db",
+                                                          "Base de datos y API para películas y series",
+                                                          "apis",
+                                                          "public",
+                                                          "movies",
+                                                          "tv",
+                                                          "media"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "simpsons-api",
+                                            "slug":  "the-simpsons-api",
+                                            "terms":  [
+                                                          "The Simpsons API",
+                                                          "the-simpsons-api",
+                                                          "API de datos de Los Simpson",
+                                                          "apis",
+                                                          "public",
+                                                          "simpsons",
+                                                          "tv",
+                                                          "characters"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "tmdb-docs",
+                                            "slug":  "tmdb-docs",
+                                            "terms":  [
+                                                          "TMDB Docs",
+                                                          "tmdb-docs",
+                                                          "Documentación de la API TMDB",
+                                                          "apis",
+                                                          "public",
+                                                          "movies",
+                                                          "documentation",
+                                                          "api"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "tomorrow-weather",
+                                            "slug":  "tomorrow-io-weather",
+                                            "terms":  [
+                                                          "Tomorrow.io Weather",
+                                                          "tomorrow-io-weather",
+                                                          "API clima global con forecasting preciso",
+                                                          "apis",
+                                                          "specialized",
+                                                          "api",
+                                                          "weather",
+                                                          "forecast",
+                                                          "precise"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "treblle",
+                                            "slug":  "treblle",
+                                            "terms":  [
+                                                          "Treblle",
+                                                          "treblle",
+                                                          "Observabilidad, docs y debugging para APIs",
+                                                          "apis",
+                                                          "tools",
+                                                          "api",
+                                                          "observability",
+                                                          "docs",
+                                                          "debug"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "tsdiagram",
+                                            "slug":  "tsdiagram",
+                                            "terms":  [
+                                                          "TSDiagram",
+                                                          "tsdiagram",
+                                                          "Diagramas basados en TypeScript",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "typescript",
+                                                          "diagram",
+                                                          "design"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "turso",
+                                            "slug":  "turso",
+                                            "terms":  [
+                                                          "Turso",
+                                                          "turso",
+                                                          "SQLite edge con 5GB gratis",
+                                                          "databases",
+                                                          "managed",
+                                                          "database",
+                                                          "sqlite",
+                                                          "edge",
+                                                          "libsql"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "visual-data-factory",
+                                            "slug":  "visual-data-factory",
+                                            "terms":  [
+                                                          "Visual Data Factory",
+                                                          "visual-data-factory",
+                                                          "Diseño visual datos",
+                                                          "databases",
+                                                          "tools",
+                                                          "database",
+                                                          "visual",
+                                                          "design",
+                                                          "data"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "weatherxu",
+                                            "slug":  "weatherxu",
+                                            "terms":  [
+                                                          "WeatherXu",
+                                                          "weatherxu",
+                                                          "API clima global con forecasting IA/ML",
+                                                          "apis",
+                                                          "specialized",
+                                                          "api",
+                                                          "weather",
+                                                          "forecast",
+                                                          "ai"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "what-is-my-ip",
+                                            "slug":  "what-is-my-ip",
+                                            "terms":  [
+                                                          "What Is My IP",
+                                                          "what-is-my-ip",
+                                                          "API check IPv4/IPv6 y datos request",
+                                                          "apis",
+                                                          "ip-geolocation",
+                                                          "api",
+                                                          "ip",
+                                                          "ipv4",
+                                                          "ipv6"
+                                                      ]
+                                        }
+                                    ]
+                    },
+    "filters":  {
+                    "categories":  [
+                                       "apis",
+                                       "databases"
+                                   ],
+                    "subcategories":  [
+                                          "datasets",
+                                          "ip-geolocation",
+                                          "managed",
+                                          "public",
+                                          "specialized",
+                                          "tools"
+                                      ],
+                    "pricing":  [
+                                    "free",
+                                    "freemium"
+                                ],
+                    "languages":  [
+                                      "en",
+                                      "es"
+                                  ],
+                    "status":  [
+                                   "active",
+                                   "warning"
+                               ],
+                    "verified":  [
+                                     true
+                                 ],
+                    "noCreditCard":  [
+                                         false
+                                     ]
+                },
+    "ui":  {
+               "dataset":  "apis-data_databases_managed-db-tools-datasets",
+               "title":  "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
+               "description":  "Knowledge base completa con recursos de APIs y bases de datos",
+               "resourceCount":  103
+           }
 }

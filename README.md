@@ -49,6 +49,20 @@ All commands are run from the root of the project, from a terminal:
 | `bun astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `bun astro -- --help` | Get help using the Astro CLI                     |
 
+## 🔄 Sincronización de links
+
+Para sincronizar links desde `preproyecto/link-general.md` hacia `src/data` y `src/interfaces`:
+
+```powershell
+pwsh ./scripts/sync-link-general.ps1
+```
+
+Reportes generados:
+
+- `preproyecto/jsons-news-interficies/sync-link-general-summary.json`
+- `preproyecto/jsons-news-interficies/inserted-links.json`
+- `preproyecto/jsons-news-interficies/ambiguous-links.json`
+
 ## 👀 Want to learn more?
 
 Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).

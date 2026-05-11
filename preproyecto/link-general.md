@@ -2,7 +2,7 @@
 
 > **Fuentes:** `linksDev.md` + `linkGeneral.md` + `linkNuevo.md` + `linkNueva3.md` + `añadir_links_01052026.md` + `link_nuevos.md`  
 > **Total recursos:** ~1073 únicos | **Sin duplicados** | **Descripciones ≤100 chars**  
-> **Última actualización:** 07/05/2026 | **Estado:** ✅ Verificado Completo
+> **Última actualización:** 10/05/2026 | **Estado:** ✅ Verificado Completo
 
 ---
 
@@ -95,6 +95,9 @@
 | **Awesome Astro**              | Temas y herramientas para Astro                          | [github.com/one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro)                               | ✅ Activo  |
 | **Vercel Labs Skills**         | Colección de skills y templates oficiales de Vercel Labs | [github.com/vercel-labs/skills](https://github.com/vercel-labs/skills)                                         | ✅ Activo  |
 | **Lazygit**                    | Terminal UI para Git con atajos intuitivos               | [github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)                                   | ✅ Activo  |
+| **Ground Station**             | Suite monitoreo satélites open source                    | [github.com/sgoudelis/ground-station](https://github.com/sgoudelis/ground-station)                             | ✅ Activo  |
+| **Awesome Open Source AI**     | Lista curada proyectos IA open source                    | [github.com/alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)               | ✅ Activo  |
+| **GIMP MCP**                   | Servidor MCP para control conversacional de GIMP         | [github.com/maorcc/gimp-mcp](https://github.com/maorcc/gimp-mcp)                                               | ✅ Activo  |
 
 ### **Aprendizaje Git**
 
@@ -123,7 +126,7 @@
 | **Open-Meteo GitHub**     | Datos open en GitHub                                      | [github.com/open-meteo/open-data](https://github.com/open-meteo/open-data)                                          | ✅ Activo  |
 | **PokéAPI**               | API REST completa del universo Pokémon                    | [pokeapi.co](https://pokeapi.co/)                                                                                   | ✅ Activo  |
 | **The Movie DB**          | Base de datos y API para películas y series               | [themoviedb.org](https://www.themoviedb.org/)                                                                       | ✅ Activo  |
-| **TMDB Docs**             | Documentación de la API TMDB                              | [developer.themoviedb.org](https://developer.themoviedb.org/docs/getting-started)                                   | ✅ Activo  |
+| **TMDB Docs**             | Documentación de la API TMDB                              | [developer.themoviedb.org/docs/getting-started]                                                                     | ✅ Activo  |
 | **Rick and Morty API**    | API de la serie Rick & Morty con personajes               | [rickandmortyapi.com](https://rickandmortyapi.com/)                                                                 | ✅ Activo  |
 | **Dragon Ball API**       | API del universo Dragon Ball                              | [web.dragonball-api.com](https://web.dragonball-api.com/)                                                           | ✅ Activo  |
 | **The Simpsons API**      | API de datos de Los Simpson                               | [thesimpsonsapi.com](https://thesimpsonsapi.com/)                                                                   | ✅ Activo  |
@@ -141,23 +144,24 @@
 
 ### **Herramientas API**
 
-| **Nombre**            | **Descripción**                                   | **Enlace**                                                                 | **Tipo**     |
-| --------------------- | ------------------------------------------------- | -------------------------------------------------------------------------- | ------------ |
-| **Postman**           | Diseña, prueba y documenta APIs colaborativamente | [postman.com](https://www.postman.com)                                     | Freemium     |
-| **Hoppscotch**        | Cliente API ligero open source en navegador       | [hoppscotch.io](https://hoppscotch.io)                                     | Free         |
-| **Insomnia**          | Cliente REST, GraphQL y gRPC con sync             | [insomnia.rest](https://insomnia.rest)                                     | Freemium     |
-| **HTTPie**            | Cliente API desde terminal con sintaxis simple    | [httpie.io](https://httpie.io)                                             | Free/Premium |
-| **Swagger UI**        | Documentación interactiva de APIs auto-generada   | [swagger.io/tools/swagger-ui](https://swagger.io/tools/swagger-ui/)        | Free         |
-| **OpenAPI Generator** | Genera SDKs desde especificación                  | [openapi-generator.tech](https://openapi-generator.tech)                   | Free         |
-| **Mockoon**           | Crea APIs mock sin código localmente              | [mockoon.com](https://mockoon.com)                                         | Free         |
-| **JSON Server**       | Convierte JSON en REST API en segundos            | [github.com/typicode/json-server](https://github.com/typicode/json-server) | Free         |
-| **ngrok**             | URLs públicas para entorno local con tunnels      | [ngrok.com](https://ngrok.com)                                             | Freemium     |
-| **Requestly**         | Intercepta y modifica peticiones HTTP en browser  | [requestly.io](https://requestly.io)                                       | Freemium     |
-| **Beeceptor**         | Mockea y debuggea APIs con endpoints temporales   | [beeceptor.com](https://beeceptor.com)                                     | Free         |
-| **Kreya**             | Cliente gRPC GUI open source para testing         | [kreya.app](https://kreya.app)                                             | Free         |
-| **CurlHub**           | Proxy para inspeccionar y debuggear APIs          | [curlhub.io](https://curlhub.io)                                           | Free         |
-| **ExtendsClass**      | Cliente HTTP web para testear APIs                | [extendsclass.com](https://extendsclass.com)                               | Free         |
-| **Treblle**           | Observabilidad, docs y debugging para APIs        | [treblle.com](https://www.treblle.com)                                     | Freemium     |
+| **Nombre**                      | **Descripción**                                   | **Enlace**                                                                                                                                                        | **Tipo**     |
+| ------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| **Postman**                     | Diseña, prueba y documenta APIs colaborativamente | [postman.com](https://www.postman.com)                                                                                                                            | Freemium     |
+| **Hoppscotch**                  | Cliente API ligero open source en navegador       | [hoppscotch.io](https://hoppscotch.io)                                                                                                                            | Free         |
+| **Insomnia**                    | Cliente REST, GraphQL y gRPC con sync             | [insomnia.rest](https://insomnia.rest)                                                                                                                            | Freemium     |
+| **HTTPie**                      | Cliente API desde terminal con sintaxis simple    | [httpie.io](https://httpie.io)                                                                                                                                    | Free/Premium |
+| **Swagger UI**                  | Documentación interactiva de APIs auto-generada   | [swagger.io/tools/swagger-ui](https://swagger.io/tools/swagger-ui/)                                                                                               | Free         |
+| **OpenAPI Generator**           | Genera SDKs desde especificación                  | [openapi-generator.tech](https://openapi-generator.tech)                                                                                                          | Free         |
+| **Mockoon**                     | Crea APIs mock sin código localmente              | [mockoon.com](https://mockoon.com)                                                                                                                                | Free         |
+| **JSON Server**                 | Convierte JSON en REST API en segundos            | [github.com/typicode/json-server](https://github.com/typicode/json-server)                                                                                        | Free         |
+| **ngrok**                       | URLs públicas para entorno local con tunnels      | [ngrok.com](https://ngrok.com)                                                                                                                                    | Freemium     |
+| **Requestly**                   | Intercepta y modifica peticiones HTTP en browser  | [requestly.io](https://requestly.io)                                                                                                                              | Freemium     |
+| **Beeceptor**                   | Mockea y debuggea APIs con endpoints temporales   | [beeceptor.com](https://beeceptor.com)                                                                                                                            | Free         |
+| **Kreya**                       | Cliente gRPC GUI open source para testing         | [kreya.app](https://kreya.app)                                                                                                                                    | Free         |
+| **CurlHub**                     | Proxy para inspeccionar y debuggear APIs          | [curlhub.io](https://curlhub.io)                                                                                                                                  | Free         |
+| **ExtendsClass**                | Cliente HTTP web para testear APIs                | [extendsclass.com](https://extendsclass.com)                                                                                                                      | Free         |
+| **Treblle**                     | Observabilidad, docs y debugging para APIs        | [treblle.com](https://www.treblle.com)                                                                                                                            | Freemium     |
+| **Accessibility Design System** | Analiza sistema de diseño y genera reporte HTML   | [chromewebstore.google.com/detail/accessibility-design-syst](https://chromewebstore.google.com/detail/accessibility-design-syst/cbbhkfihenpflcgddoimabahmpafehjd) | Free         |
 
 ### **APIs Especializadas**
 
@@ -395,15 +399,19 @@
 | **Refero-styles-ref** | Biblioteca estilos diseño UI/UX                       | Gratis     | [styles.refero.design](https://styles.refero.design)                                                         |
 | **Building Hex Map**  | Tutorial UI hex map inspirador                        | Gratis     | [calibreapp.com/blog/building-our-beloved-hex-map](https://calibreapp.com/blog/building-our-beloved-hex-map) |
 | **Charcuterie**       | Portfolio diseño UI/UX con galería interactiva        | Gratis     | [charcuterie.elastiq.ch](https://charcuterie.elastiq.ch)                                                     |
+| **Holographic UI**    | Diseño UI holo-3D con IA                              | Gratis     | [holographic-ui.com](https://holographic-ui.com/)                                                            |
+| **Design MD**         | Diseño web con archivos .md Google Labs               | Gratis     | [github.com/google-labs-code/design.md](https://github.com/google-labs-code/design.md)                       |
+| **Addfox Dev**        | Herramienta dev recursos frontend en español          | Gratis     | [addfox.dev/es](https://addfox.dev/es/)                                                                      |
 
 ### **Color & Diseño Visual**
 
 | **Nombre**            | **Descripción**                                          | **Enlace**                                                                                       |
-| --------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| --------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------- |
 | **Coolors**           | Generador de paletas de colores rápido e intuitivo       | [coolors.co](https://coolors.co/)                                                                |
 | **Color Hunt**        | Paletas de colores creadas y seleccionadas por comunidad | [colorhunt.co](https://colorhunt.co/)                                                            |
 | **CSS Gradient**      | Generador visual de gradientes de color en CSS           | [cssgradient.io](https://cssgradient.io/)                                                        |
 | **Canva Color Wheel** | Herramienta teoría del color y combinaciones             | [canva.com/colors/color-wheel](https://www.canva.com/colors/color-wheel/)                        |
+| **Canva**             | Diseño gráfico con IA para redes sociales                | [canva.com](https://canva.com)                                                                   | ✅ Activo |
 | **Haikei**            | Generador formas, fondos y patrones SVG únicos           | [haikei.app](https://haikei.app/)                                                                |
 | **CSS Separator Gen** | Generador de separadores de sección en CSS               | [wweb.dev/resources/css-separator-generator](https://wweb.dev/resources/css-separator-generator) |
 | **Neumorphism.io**    | Generador CSS estilo Neumorfismo (Soft UI)               | [neumorphism.io](https://neumorphism.io/)                                                        |
@@ -497,17 +505,18 @@
 
 ### **IDE & Editores**
 
-| **Nombre**     | **Descripción**                                         | **Enlace**                                                    |
-| -------------- | ------------------------------------------------------- | ------------------------------------------------------------- |
-| **VS Code**    | Editor de código gratuito Microsoft                     | [code.visualstudio.com](https://code.visualstudio.com)        |
-| **WebStorm**   | IDE JetBrains para JS/TS con features avanzadas         | [jetbrains.com/webstorm](https://www.jetbrains.com/webstorm/) |
-| **Cursor**     | Editor de código con IA integrado nativo                | [cursor.com](https://cursor.com)                              |
-| **Windsurf**   | IDE para programación con IA Codeium                    | [codeium.com/windsurf](https://codeium.com/windsurf)          |
-| **Replit**     | IDE cloud multi-lenguaje gratis colaborativo            | [replit.com](https://replit.com)                              |
-| **StackBlitz** | IDE web para full-stack JS/TS en navegador              | [stackblitz.com](https://stackblitz.com)                      |
-| **CodePen**    | Ejemplos interactivos de código frontend                | [codepen.io](https://codepen.io)                              |
-| **Datalore**   | Notebooks Python colaborativos JetBrains                | [datalore.jetbrains.com](https://datalore.jetbrains.com)      |
-| **Zed**        | Editor código colaborativo ultrarrápido escrito en Rust | [zed.dev](https://zed.dev)                                    |
+| **Nombre**          | **Descripción**                                         | **Enlace**                                                                       |
+| ------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------- | --------- |
+| **VS Code**         | Editor de código gratuito Microsoft                     | [code.visualstudio.com](https://code.visualstudio.com)                           |
+| **WebStorm**        | IDE JetBrains para JS/TS con features avanzadas         | [jetbrains.com/webstorm](https://www.jetbrains.com/webstorm/)                    |
+| **Cursor**          | Editor de código con IA integrado nativo                | [cursor.com](https://cursor.com)                                                 |
+| **Windsurf**        | IDE para programación con IA Codeium                    | [codeium.com/windsurf](https://codeium.com/windsurf)                             |
+| **Replit**          | IDE cloud multi-lenguaje gratis colaborativo            | [replit.com](https://replit.com)                                                 |
+| **StackBlitz**      | IDE web para full-stack JS/TS en navegador              | [stackblitz.com](https://stackblitz.com)                                         |
+| **CodePen**         | Ejemplos interactivos de código frontend                | [codepen.io](https://codepen.io)                                                 |
+| **Datalore**        | Notebooks Python colaborativos JetBrains                | [datalore.jetbrains.com](https://datalore.jetbrains.com)                         |
+| **Zed**             | Editor código colaborativo ultrarrápido escrito en Rust | [zed.dev](https://zed.dev)                                                       |
+| **OpenCode Studio** | GUI web para gestionar configuración OpenCode local     | [github.com/Microck/opencode-studio](https://github.com/Microck/opencode-studio) | ✅ Activo |
 
 ### **IDE Extensions & Tools**
 
@@ -563,18 +572,21 @@
 
 ### **Asistentes IA Generales**
 
-| **Nombre**      | **Descripción**                             | **Enlace**                                             | **Estado** |
-| --------------- | ------------------------------------------- | ------------------------------------------------------ | ---------- |
-| **Claude**      | Asistente conversacional avanzado Anthropic | [claude.ai](https://claude.ai)                         | ✅ Activo  |
-| **Claude Code** | Agente de IA para programar autónomo        | [claude.ai](https://claude.ai)                         | ✅ Activo  |
-| **Gemini**      | Modelo multimodal de Google con integración | [gemini.google.com](https://gemini.google.com)         | ✅ Activo  |
-| **Grok**        | IA conversacional de xAI en tiempo real     | [grok.com](https://grok.com)                           | ✅ Activo  |
-| **ChatGPT**     | Asistente IA general de OpenAI              | [chatgpt.com](https://chatgpt.com)                     | ✅ Activo  |
-| **Copilot**     | Asistente de IA de Microsoft integrado      | [copilot.microsoft.com](https://copilot.microsoft.com) | ✅ Activo  |
-| **Kimi**        | Modelo IA conversacional chino              | [kimi.com](https://www.kimi.com/)                      | ✅ Activo  |
-| **DeepSeek**    | Modelo IA chino competitivo                 | [chat.deepseek.com](https://chat.deepseek.com/)        | ✅ Activo  |
-| **Qwen**        | Modelo IA de Alibaba open source            | [chat.qwen.ai](https://chat.qwen.ai/)                  | ✅ Activo  |
-| **Pi**          | Plataforma IA conversacional personal       | [pi.dev](https://pi.dev/)                              | ✅ Activo  |
+| **Nombre**      | **Descripción**                             | **Enlace**                                                           | **Estado** |
+| --------------- | ------------------------------------------- | -------------------------------------------------------------------- | ---------- |
+| **Claude**      | Asistente conversacional avanzado Anthropic | [claude.ai](https://claude.ai)                                       | ✅ Activo  |
+| **Claude Code** | Agente de IA para programar autónomo        | [claude.ai](https://claude.ai)                                       | ✅ Activo  |
+| **Gemini**      | Modelo multimodal de Google con integración | [gemini.google.com](https://gemini.google.com)                       | ✅ Activo  |
+| **Grok**        | IA conversacional de xAI en tiempo real     | [grok.com](https://grok.com)                                         | ✅ Activo  |
+| **ChatGPT**     | Asistente IA general de OpenAI              | [chatgpt.com](https://chatgpt.com)                                   | ✅ Activo  |
+| **Copilot**     | Asistente de IA de Microsoft integrado      | [copilot.microsoft.com](https://copilot.microsoft.com)               | ✅ Activo  |
+| **Kimi**        | Modelo IA conversacional chino              | [kimi.com](https://www.kimi.com/)                                    | ✅ Activo  |
+| **DeepSeek**    | Modelo IA chino competitivo                 | [chat.deepseek.com](https://chat.deepseek.com/)                      | ✅ Activo  |
+| **Qwen**        | Modelo IA de Alibaba open source            | [chat.qwen.ai](https://chat.qwen.ai/)                                | ✅ Activo  |
+| **Pi**          | Plataforma IA conversacional personal       | [pi.dev](https://pi.dev/)                                            | ✅ Activo  |
+| **OreateAI**    | Plataforma IA para soluciones empresariales | [oreateai.com/home/index/es](https://www.oreateai.com/home/index/es) | ✅ Activo  |
+| **Perplexity**  | Buscador IA con respuestas citing fuentes   | [perplexity.ai](https://perplexity.ai)                               | ✅ Activo  |
+| **Chat.com**    | Asistente IA general Anthropic              | [chat.com](https://chat.com)                                         | ✅ Activo  |
 
 ### **IA para Desarrollo**
 
@@ -597,20 +609,41 @@
 
 ### **🇨🇳 IA China** _(Subcategoría de Inteligencia Artificial)_
 
-| **Nombre**       | **Tipo**      | **Descripción**                | **Enlace**                                                               |
-| ---------------- | ------------- | ------------------------------ | ------------------------------------------------------------------------ |
-| **Qwen 3.5**     | Modelo IA     | Modelo de Alibaba competitivo  | [chat.qwen.ai](https://chat.qwen.ai/)                                    |
-| **Wan 2.6**      | Video         | Generación de video IA         | [wan.video](https://wan.video/)                                          |
-| **Seedance 2.0** | Video         | Generación video Bytedance     | [seed.bytedance.com/en/seedance](https://seed.bytedance.com/en/seedance) |
-| **Seedream**     | Imagen/Video  | Imágenes, videos, retoque IA   | [dreamina.capcut.com/es-es](https://dreamina.capcut.com/es-es/)          |
-| **Hunyuan**      | Modelo IA     | Modelo gratuito de Tencent     | [hunyuan.tencent.com](https://hunyuan.tencent.com/)                      |
-| **Ernie 5.0**    | Modelo IA     | Modelo de Baidu avanzado       | [ernie.baidu.com](https://ernie.baidu.com/)                              |
-| **GLM 5**        | Modelo IA     | Modelo de Zhipu AI             | [chat.z.ai](https://chat.z.ai/)                                          |
-| **Kimi K2.5**    | Modelo IA     | Modelo conversacional Moonshot | [kimi.com](https://www.kimi.com/)                                        |
-| **Arena AI**     | Comparador    | Comparador modelos IA          | [arena.ai](https://arena.ai/)                                            |
-| **AIFaceSwap**   | Face Swap     | Face Swap IA                   | [aifaceswap.io](https://aifaceswap.io/)                                  |
-| **Apob AI**      | Influencer IA | Influencer IA monetizar        | [app.apob.ai](https://app.apob.ai/)                                      |
-| **DeepSeek**     | Modelo IA     | Modelo IA chino competitivo    | [chat.deepseek.com](https://chat.deepseek.com/)                          |
+| **Nombre**              | **Tipo**                                           | **Descripción**                                                                                                                | **Enlace**                                                               |
+| ----------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| **Qwen 3.5**            | Modelo IA                                          | Modelo de Alibaba competitivo                                                                                                  | [chat.qwen.ai](https://chat.qwen.ai/)                                    |
+| **Wan 2.6**             | Video                                              | Generación de video IA                                                                                                         | [wan.video](https://wan.video/)                                          |
+| **Seedance 2.0**        | Video                                              | Generación video Bytedance                                                                                                     | [seed.bytedance.com/en/seedance](https://seed.bytedance.com/en/seedance) |
+| **Seedream**            | Imagen/Video                                       | Imágenes, videos, retoque IA                                                                                                   | [dreamina.capcut.com/es-es](https://dreamina.capcut.com/es-es/)          |
+| **Hunyuan**             | Modelo IA                                          | Modelo gratuito de Tencent                                                                                                     | [hunyuan.tencent.com](https://hunyuan.tencent.com/)                      |
+| **Ernie 5.0**           | Modelo IA                                          | Modelo de Baidu avanzado                                                                                                       | [ernie.baidu.com](https://ernie.baidu.com/)                              |
+| **GLM 5**               | Modelo IA                                          | Modelo de Zhipu AI                                                                                                             | [chat.z.ai](https://chat.z.ai/)                                          |
+| **Kimi K2.5**           | Modelo IA                                          | Modelo conversacional Moonshot                                                                                                 | [kimi.com](https://www.kimi.com/)                                        |
+| **Arena AI**            | Comparador                                         | Comparador modelos IA                                                                                                          | [arena.ai](https://arena.ai/)                                            |
+| **AIFaceSwap**          | Face Swap                                          | Face Swap IA                                                                                                                   | [aifaceswap.io](https://aifaceswap.io/)                                  |
+| **Apob AI**             | Influencer IA                                      | Influencer IA monetizar                                                                                                        | [app.apob.ai](https://app.apob.ai/)                                      |
+| **DeepSeek**            | Modelo IA                                          | Modelo IA chino competitivo                                                                                                    | [chat.deepseek.com](https://chat.deepseek.com/)                          |
+| **Qwen Code**           | Qwen code desktop                                  | [github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)                                                             | ✅ Activo                                                                |
+| **Vox CPM**             | Prompts ordenes token                              | [github.com/OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)                                                                 | ✅ Activo                                                                |
+| **Caveman**             | Plugin ahorrar tokens Claude/Codex                 | [github.com/JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)                                                   | ✅ Activo                                                                |
+| **Infinite Monitor**    | IA builder dashboard                               | [infinitemonitor.com](https://infinitemonitor.com/)                                                                            | ✅ Activo                                                                |
+| **Educaxd**             | Plataforma educativa IA para niños                 | [educaxd.com](https://educaxd.com/)                                                                                            | ✅ Activo                                                                |
+| **Merleau**             | Resumir videos YouTube                             | [merleau.cc](https://merleau.cc/)                                                                                              | ✅ Activo                                                                |
+| **Notion**              | Crear planificación proyecto IA                    | [notion.so/es-es](https://www.notion.so/es-es)                                                                                 | ✅ Activo                                                                |
+| **Typeless**            | Herramientas tipografía IA                         | [typeless.com](https://www.typeless.com/?via=javi-nigu)                                                                        | ✅ Activo                                                                |
+| **Delphi**              | Clonación digital con IA                           | [delphi.ai](https://delphi.ai/)                                                                                                | ✅ Activo                                                                |
+| **Core AI**             | Plataforma de IA conversacional                    | [core.ai](https://core.ai/)                                                                                                    | ✅ Activo                                                                |
+| **Rely.app**            | Catálogo de servicios de software                  | [rely.app](https://rely.app/)                                                                                                  | ✅ Activo                                                                |
+| **Nano Banana**         | Generador de contenido con IA                      | [nanobanana.com](https://nanobanana.com/)                                                                                      | ✅ Activo                                                                |
+| **BugBunny AI**         | Plataforma IA para debugging y pruebas automáticas | [bugbunny.ai](https://bugbunny.ai/)                                                                                            | ✅ Activo                                                                |
+| **LogoCreator**         | Generador logos IA open source con Next.js         | [github.com/Nutlope/logocreator](https://github.com/Nutlope/logocreator)                                                       | ✅ Activo                                                                |
+| **NVIDIA Build Models** | Hub modelos IA y APIs NVIDIA acceso rápido         | [build.nvidia.com/models](https://build.nvidia.com/models)                                                                     | ✅ Activo                                                                |
+| **AI Knowledge Graph**  | Herramienta generar grafos de conocimiento con IA  | [github.com/robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph)                       | ✅ Activo                                                                |
+| **picoclaw**            | Hardware IoT PicoClaw de Sipeed                    | [github.com/sipeed/picoclaw](https://github.com/sipeed/picoclaw)                                                               | ✅ Activo                                                                |
+| **Astra AI**            | Plataforma IA para developers española             | [astra-ai.es](https://astra-ai.es/)                                                                                            | ✅ Activo                                                                |
+| **DeepSeek TUI**        | Interface TUI terminal para API DeepSeek           | [github.com/Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)                                                       | ✅ Activo                                                                |
+| **Deep Eye**            | Visión computacional detección objetos             | [github.com/zakirkun/deep-eye](https://github.com/zakirkun/deep-eye)                                                           | ✅ Activo                                                                |
+| **Transformers.js v4**  | ML en navegador Hugging Face v4                    | [github.com/huggingface/transformers.js/releases/tag/4.0.0](https://github.com/huggingface/transformers.js/releases/tag/4.0.0) | ✅ Activo                                                                |
 
 ### **Generación de Imagen IA**
 
@@ -655,6 +688,9 @@
 | **Hyperframes Docs**   | Documentación y guías del framework Hyperframes   | [hyperframes.mintlify.app](https://hyperframes.mintlify.app/guides/hyperframes-vs-remotion) | ✅ Activo  |
 | **ElevenLabs UI Docs** | Documentación componentes UI oficiales ElevenLabs | [ui.elevenlabs.io/docs/components](https://ui.elevenlabs.io/docs/components)                | ✅ Activo  |
 | **ElevenLabs UI Repo** | Repositorio GitHub componentes UI de ElevenLabs   | [github.com/elevenlabs/ui](https://github.com/elevenlabs/ui)                                | ✅ Activo  |
+| **TTS-Audio-Suite**    | ComfyUI TTS y voice conversion multi-engine       | [github.com/diodiogod/TTS-Audio-Suite](https://github.com/diodiogod/TTS-Audio-Suite)        | ✅ Activo  |
+| **Syllaby**            | Creador contenido video redes sociales            | [syllaby.io](https://syllaby.io)                                                            | ✅ Activo  |
+| **ViMax**              | Generación video multi-agente open source         | [github.com/HKUDS/ViMax](https://github.com/HKUDS/ViMax)                                    | ✅ Activo  |
 
 ### **IA Agentes & Automatización**
 
@@ -671,11 +707,13 @@
 | **Superpowers**        | Agente IA colaboración programación               | [github.com/obra/superpowers](https://github.com/obra/superpowers)                     | ✅ Activo  |
 | **Stagehand**          | Automatiza navegador con IA lenguaje natural      | [github.com/browserbase/stagehand](https://github.com/browserbase/stagehand)           | ✅ Activo  |
 | **AnyCrawl**           | Crawler agéntico extracción datos                 | [anycrawl.dev](https://anycrawl.dev/)                                                  | ✅ Activo  |
+| **DocExt**             | Extracción documentos sin OCR con VLMs            | [github.com/NanoNets/docext](https://github.com/NanoNets/docext)                       | ✅ Activo  |
 | **Open WebUI**         | Interfaz web para LLMs locales                    | [github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)           | ✅ Activo  |
 | **Prometheus EuniAI**  | Framework agentes IA con grafos                   | [github.com/EuniAI/Prometheus](https://github.com/EuniAI/Prometheus)                   | ✅ Activo  |
 | **Mammouth AI**        | Agente IA autónomo completo                       | [mammouth.ai](https://mammouth.ai/)                                                    | ✅ Activo  |
 | **Lessie AI**          | Asistente IA personal                             | [lessie.ai](https://lessie.ai/)                                                        | ✅ Activo  |
 | **MemPalace**          | Gestor memoria para IA                            | [github.com/MemPalace/mempalace](https://github.com/MemPalace/mempalace)               | ✅ Activo  |
+| **AgentMemory**        | Memoria persistente para agentes IA coding        | [github.com/rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)             | ✅ Activo  |
 | **Namiru AI**          | Plataforma agentes IA                             | [namiru.ai](https://namiru.ai/)                                                        | ✅ Activo  |
 | **Okara AI**           | Plataforma IA conversacional                      | [okara.ai](https://okara.ai/)                                                          | ✅ Activo  |
 | **Emergent Wingman**   | Agente IA autómata & webBuilder                   | [app.emergent.sh](https://app.emergent.sh)                                             | ✅ Activo  |
@@ -689,11 +727,12 @@
 | **Jelou Docs**         | Documentación oficial plataforma Jelou AI         | [docs.jelou.ai](https://docs.jelou.ai/)                                                | ✅ Activo  |
 | **Hermes Agent**       | Agente conversacional avanzado de Nous Research   | [hermes-agent.nousresearch.com](https://hermes-agent.nousresearch.com/)                | ✅ Activo  |
 | **agency-agents**      | Agentes IA para gestión agencias                  | [github.com/msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ✅ Activo  |
+| **UI-TARS Desktop**    | Agente GUI IA multimodal Bytedance                | [github.com/bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)   | ✅ Activo  |
 
 ### **UI con IA**
 
 | **Nombre**                  | **Descripción**                                           | **Enlace**                                                                                             |
-| --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------- |
 | **v0 by Vercel**            | Genera interfaces responsivas desde prompts con Shadcn    | [v0.dev](https://v0.dev/)                                                                              |
 | **Lovable**                 | Plataforma desarrollo IA para construir apps web rápido   | [lovable.dev](https://lovable.dev/)                                                                    |
 | **Bolt.new**                | Generador sistema diseño con un solo clic                 | [bolt.new](https://bolt.new/)                                                                          |
@@ -710,6 +749,7 @@
 | **Open Codesign**           | Plataforma diseño colaborativo IA open source             | [opencoworkai.github.io/open-codesign](https://opencoworkai.github.io/open-codesign/)                  |
 | **Open Codesign Repo**      | Repositorio GitHub Open Codesign colaborativo IA          | [github.com/OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)                 |
 | **Google Design.md Repo**   | Repositorio GitHub especificación DESIGN.md para IA       | [github.com/google-labs-code/design.md](https://github.com/google-labs-code/design.md)                 |
+| **Pencil**                  | Diseño vectorial con IA integrado en IDE                  | [pencil.dev](https://www.pencil.dev/)                                                                  | ✅ Activo |
 | **codeflying**              | Herramienta IA para desarrollo web                        | [codeflying.app](https://www.codeflying.app/)                                                          |
 
 ### **📦 Colecciones Prompts** _(Subcategoría de Inteligencia Artificial)_
@@ -761,10 +801,11 @@
 | **AI Resources & Tools**              | Colección recursos IA                          | [github.com/zazk/AI-Resources-and-Tools](https://github.com/zazk/AI-Resources-and-Tools)                                     | ✅ Activo  |
 | **Ecosistema IA**                     | Ecosistema IA programar GitHub                 | [github.com/Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)                             | ✅ Activo  |
 | **Book Building Agents**              | Libros construir agentes IA                    | [mastra.ai/books/principles-of-building-ai-agents](https://mastra.ai/books/principles-of-building-ai-agents)                 | ✅ Activo  |
+| **SurfSense**                         | Alternativa NotebookLM open source equipos     | [surfsense.com](https://www.surfsense.com/)                                                                                  | ✅ Activo  |
 | **Claude Agents**                     | Colección agentes Claude                       | [claudecodeagents.com](https://www.claudecodeagents.com/)                                                                    | ✅ Activo  |
 | **Claude Code Game Studios**          | Colección agentes IA games                     | [github.com/Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)                       | ✅ Activo  |
 | **AI TMPL**                           | +1000 plantillas Claude                        | [aitmpl.com](https://www.aitmpl.com/)                                                                                        | ✅ Activo  |
-| **Verdant AI**                        | IDE IA diferentes agents                       | [verdant.ai](https://www.verdent.ai/)                                                                                        | ✅ Activo  |
+| **Verdant AI**                        | IDE IA diferentes agents                       | [verdant.ai](https://www.verdant.ai/)                                                                                        | ✅ Activo  |
 | **Flova AI**                          | IDE build image, video                         | [flova.ai/es-419](https://www.flova.ai/es-419/)                                                                              | ✅ Activo  |
 | **SkillsMP**                          | Colección skills IA                            | [skillsmp.com/es/search](https://skillsmp.com/es/search)                                                                     | ✅ Activo  |
 | **GenAllAI**                          | Colección prompts IA                           | [genallai.gumroad.com/l/AI](https://genallai.gumroad.com/l/AI)                                                               | ✅ Activo  |
@@ -851,9 +892,9 @@
 | --------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | **Resend**            | Email transaccional moderno 100/mes          | [resend.com](https://resend.com)                                                                            |
 | **SendGrid**          | Email API 100 emails/día gratis              | [sendgrid.com](https://sendgrid.com)                                                                        |
-| **React Email**       | Framework crear emails con componentes React | [react.email](https://react.email/)                                                                         |
+| **React Email**       | Framework crear emails con componentes React | [react.email](https://react.email)                                                                          |
 | **Create-Email**      | Paquete npm oficial con CLI                  | [npmjs.com/package/create-email](https://www.npmjs.com/package/create-email)                                |
-| **MJML**              | Framework emails responsive cross-client     | [mjml.io](https://mjml.io/)                                                                                 |
+| **MJML**              | Framework emails responsive cross-client     | [mjml.io](https://mjml.io)                                                                                  |
 | **Email Obfuscation** | Técnicas ofuscar emails contra spam          | [spencermortensen.com/articles/email-obfuscation](https://spencermortensen.com/articles/email-obfuscation/) |
 
 ### **Chat & Soporte**
@@ -962,16 +1003,17 @@
 
 ## 🌍 DNS & Domain
 
-| **Nombre**         | **Descripción**                   | **Enlace**                                           | **Estado**   |
-| ------------------ | --------------------------------- | ---------------------------------------------------- | ------------ |
-| **Cloudflare DNS** | DNS gratuito con DDoS protection  | [cloudflare.com/dns](https://www.cloudflare.com/dns) | ✅ Activo    |
-| **DuckDNS**        | DNS dinámico gratuito             | [duckdns.org](https://www.duckdns.org)               | ✅ Activo    |
-| **No-IP**          | DNS dinámico 3 hostnames gratis   | [noip.com](https://www.noip.com)                     | ✅ Activo    |
-| **Afraid.org**     | DNS dinámico y subdominios gratis | [freedns.afraid.org](https://freedns.afraid.org)     | ✅ Activo    |
-| **Namecheap**      | Dominios y DNS gratis con hosting | [namecheap.com](https://www.namecheap.com)           | ✅ Activo    |
-| **Vercel Domains** | Buscador dominio rápido           | [vercel.com/domains](https://vercel.com/domains)     | ✅ Activo    |
-| **Google Domains** | Registro de dominios              | [domains.google](https://domains.google)             | ✅ Activo    |
-| **Freenom**        | Dominios .tk, .ml, .ga gratis     | [freenom.com](https://www.freenom.com)               | ⚠️ Inestable |
+| **Nombre**          | **Descripción**                         | **Enlace**                                                       | **Estado**   |
+| ------------------- | --------------------------------------- | ---------------------------------------------------------------- | ------------ |
+| **Cloudflare DNS**  | DNS gratuito con DDoS protection        | [cloudflare.com/dns](https://www.cloudflare.com/dns)             | ✅ Activo    |
+| **DuckDNS**         | DNS dinámico gratuito                   | [duckdns.org](https://www.duckdns.org)                           | ✅ Activo    |
+| **No-IP**           | DNS dinámico 3 hostnames gratis         | [noip.com](https://www.noip.com)                                 | ✅ Activo    |
+| **Afraid.org**      | DNS dinámico y subdominios gratis       | [freedns.afraid.org](https://freedns.afraid.org)                 | ✅ Activo    |
+| **Namecheap**       | Dominios y DNS gratis con hosting       | [namecheap.com](https://www.namecheap.com)                       | ✅ Activo    |
+| **Vercel Domains**  | Buscador dominio rápido                 | [vercel.com/domains](https://vercel.com/domains)                 | ✅ Activo    |
+| **Google Domains**  | Registro de dominios                    | [domains.google](https://domains.google)                         | ✅ Activo    |
+| **Freenom**         | Dominios .tk, .ml, .ga gratis           | [freenom.com](https://www.freenom.com)                           | ⚠️ Inestable |
+| **Domains Dataset** | Dataset más grande de dominios internet | [github.com/tb0hdan/domains](https://github.com/tb0hdan/domains) | ✅ Activo    |
 
 ---
 
@@ -990,7 +1032,7 @@
 ### **Seguridad & Auth**
 
 | **Nombre**                     | **Descripción**                                          | **Enlace**                                                                                                                                             |
-| ------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
 | **Auth0**                      | Auth gestionado 7k usuarios gratis                       | [auth0.com](https://auth0.com)                                                                                                                         |
 | **Clerk**                      | Auth moderno para apps web                               | [clerk.com](https://clerk.com)                                                                                                                         |
 | **Better Auth**                | Auth moderno para SaaS multi-tenant                      | [better-auth.com](https://better-auth.com)                                                                                                             |
@@ -1007,6 +1049,7 @@
 | **Hetty**                      | Proxy HTTP toolkit open source para pruebas de seguridad | [github.com/dstotijn/hetty](https://github.com/dstotijn/hetty)                                                                                         |
 | **hexstrike-web**              | Plataforma ciberseguridad con IA                         | [hexstrike.com](https://www.hexstrike.com/)                                                                                                            |
 | **hexstrike-gh**               | Repo GitHub HexStrike ciberseg. IA                       | [github.com/0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)                                                                                 |
+| **GhostScan**                  | Framework pentesting context-aware                       | [github.com/scf13/ghostscan](https://github.com/scf13/ghostscan)                                                                                       | ✅ Activo |
 | **Magic Link Pitfalls**        | Problemas y peligros de los magic links auth             | [etodd.io/2026/03/22/magic-link-pitfalls](https://etodd.io/2026/03/22/magic-link-pitfalls/)                                                            |
 
 ---
@@ -1015,77 +1058,85 @@
 
 ### **Cursos Programación**
 
-| **Nombre**                      | **Descripción**                                    | **Enlace**                                                                                                                                 |
-| ------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **freeCodeCamp**                | Cursos interactivos gratis certificados            | [freecodecamp.org](https://www.freecodecamp.org/)                                                                                          |
-| **Full Stack Open**             | Curso universitario MERN completo                  | [fullstackopen.com](https://fullstackopen.com/)                                                                                            |
-| **The Odin Project**            | Academia desarrolladores inglés                    | [theodinproject.com](https://www.theodinproject.com/)                                                                                      |
-| **CS50 (edX)**                  | Cursos Harvard CS50                                | [edx.org](https://www.edx.org/search?q=CS50)                                                                                               |
-| **MDN Web Docs**                | Documentación web oficial                          | [developer.mozilla.org](https://developer.mozilla.org/)                                                                                    |
-| **Dev.to**                      | Comunidad y blog para desarrolladores              | [dev.to](https://dev.to/)                                                                                                                  |
-| **Hashnode**                    | Blogging platform para devs                        | [hashnode.com](https://hashnode.com)                                                                                                       |
-| **Web.dev**                     | Guías Google desarrollo web                        | [web.dev](https://web.dev/?hl=es-419)                                                                                                      |
-| **Class Central**               | Buscador de cursos online                          | [classcentral.com](https://www.classcentral.com/)                                                                                          |
-| **Learn X in Y Minutes**        | Cheatsheets rápidos de lenguajes                   | [learnxinyminutes.com](https://learnxinyminutes.com/)                                                                                      |
-| **Kaggle Learn**                | Microcursos de datos y Python                      | [kaggle.com/learn](https://www.kaggle.com/learn)                                                                                           |
-| **Exercism**                    | Aprender por ejercicios 81 lenguajes               | [exercism.org](https://exercism.org/)                                                                                                      |
-| **LeetCode**                    | App learn dev inglés entrevistas                   | [leetcode.com](https://leetcode.com/)                                                                                                      |
-| **Roadmap.sh**                  | Rutas aprendizaje dev tecnología                   | [roadmap.sh](https://roadmap.sh/)                                                                                                          |
-| **Developer Roadmap**           | Guías de aprendizaje para devs                     | [github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)                                           |
-| **Frontend Mentor**             | Retos frontend ENG pago                            | [frontendmentor.io](https://www.frontendmentor.io)                                                                                         |
-| **FrontendHub**                 | Cursos, recursos y proy React                      | [frontendhub.dev/signin](https://www.frontendhub.dev/signin)                                                                               |
-| **Cognitive Class**             | Curso tecnología por proyectos                     | [cognitiveclass.ai](https://cognitiveclass.ai/)                                                                                            |
-| **VSCodeEdu**                   | Python, varios dev                                 | [vscodeedu.com](https://vscodeedu.com/)                                                                                                    |
-| **KodeKloud**                   | Cursos ENG backend, docker, k8s                    | [kodekloud.com](https://kodekloud.com)                                                                                                     |
-| **KodeKloud Labs**              | Laboratorio de aprendizaje DevOps                  | [kodekloud.com/studio/labs](https://kodekloud.com/studio/labs)                                                                             |
-| **NetAcad**                     | Academia Cisco ESP Gratis Python, JS               | [netacad.com](https://www.netacad.com/es/catalogs/learn/programming)                                                                       |
-| **Coding Challenges**           | Aprender dev por retos                             | [coding-challenges.dev](https://coding-challenges.dev/)                                                                                    |
-| **Academy Europa**              | Academia EU                                        | [academy.europa.eu](https://academy.europa.eu/)                                                                                            |
-| **DevTalles**                   | Cursos en español                                  | [cursos.devtalles.com](https://cursos.devtalles.com/)                                                                                      |
-| **Next.js Course**              | Curso Next.js oficial                              | [nextjs.org/learn](https://nextjs.org/learn)                                                                                               |
-| **Python Tutor**                | Explica paso a paso cómo se hace web               | [pythontutor.com](https://pythontutor.com/)                                                                                                |
-| **MoureDev**                    | Portal recursos programación                       | [mouredev.pro](https://mouredev.pro)                                                                                                       |
-| **MoureDev Cursos**             | Portal cursos MoureDev                             | [moure.dev/cursos](https://moure.dev/cursos)                                                                                               |
-| **MoureDev Roadmap**            | Guía programadores junior                          | [mouredev.pro/recursos/roadmap-programadores-junior](https://mouredev.pro/recursos/roadmap-programadores-junior)                           |
-| **MoureDev SQL**                | Fundamentos SQL en PDF                             | [mouredev.pro/recursos/guia-fundamentos-sql](https://mouredev.pro/recursos/guia-fundamentos-sql)                                           |
-| **Hello Git (MoureDev)**        | Curso básico de Git                                | [github.com/mouredev/hello-git](https://github.com/mouredev/hello-git)                                                                     |
-| **Tech Interview Handbook**     | Prep para entrevistas técnicas                     | [techinterviewhandbook.org](https://www.techinterviewhandbook.org/)                                                                        |
-| **Coding Interview University** | Preparación para entrevistas dev                   | [github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)                                   |
-| **Project-Based Learning**      | Aprende por proyectos                              | [github.com/practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)                     |
-| **Rust Training**               | GitHub curso Microsoft Rust                        | [github.com/microsoft/RustTraining](https://github.com/microsoft/RustTraining)                                                             |
-| **Postgres Courses**            | Curso PostgreSQL                                   | [databaseschool.com](https://databaseschool.com/)                                                                                          |
-| **AprendeSQL.dev**              | Aprende SQL interactivo                            | [aprendesql.dev](https://aprendesql.dev)                                                                                                   |
-| **SQL en 8min (YT)**            | Video rápido SQL                                   | [youtube.com/watch?v=ubyZXK3a28I](https://www.youtube.com/watch?v=ubyZXK3a28I)                                                             |
-| **HTML en 5min (YT)**           | Video rápido HTML                                  | [youtu.be/gmuTjeQUbTM](https://youtu.be/gmuTjeQUbTM)                                                                                       |
-| **IA en 15min (YT)**            | Video introductorio IA                             | [youtu.be/AXUZXHIHYCM](https://youtu.be/AXUZXHIHYCM)                                                                                       |
-| **Learn Vue**                   | Aprendizaje Vue.js                                 | [learnvue.co](https://learnvue.co)                                                                                                         |
-| **Learn Angular**               | Tutoriales Angular                                 | [angular.dev/tutorials](https://angular.dev/tutorials)                                                                                     |
-| **Learn Web3**                  | Web3 descentralizada                               | [learnweb3.io](https://learnweb3.io)                                                                                                       |
-| **CryptoZombies**               | Desarrollo blockchain                              | [cryptozombies.io](https://cryptozombies.io)                                                                                               |
-| **Learn Python**                | Python interactivo                                 | [learnpython.org](https://learnpython.org)                                                                                                 |
-| **Learn Go**                    | Go por Google                                      | [learn-golang.org](https://learn-golang.org)                                                                                               |
-| **Rust Lang**                   | Rust oficial                                       | [rust-lang.org/learn](https://rust-lang.org/learn)                                                                                         |
-| **Learn C**                     | Lenguaje C                                         | [learn-c.org](https://learn-c.org)                                                                                                         |
-| **Linux Journey**               | Tutoriales Linux                                   | [linuxjourney.com](https://linuxjourney.com)                                                                                               |
-| **Commit AWS**                  | Curso AWS directo                                  | [commitacademy.io](https://www.commitacademy.io/recursos/sp-curso-aws-directo)                                                             |
-| **Goetech Academy**             | Academia tecnología                                | [campusfad.org/goetech-academy](https://www.campusfad.org/goetech-academy/)                                                                |
-| **Raiola n8n**                  | Curso automatización n8n                           | [landing.raiola.link/curso-n8n](https://landing.raiola.link/curso-n8n/)                                                                    |
-| **HTML.com**                    | Aprende la estructura de la web                    | [html.com](https://html.com)                                                                                                               |
-| **JavaScript.info**             | Lenguaje interactivo de la web                     | [javascript.info](https://javascript.info)                                                                                                 |
-| **TypeScriptLang**              | JavaScript con tipado estático                     | [typescriptlang.org](https://www.typescriptlang.org/docs)                                                                                  |
-| **Elements of AI**              | Conceptos fundamentales de IA                      | [elementsofai.com](https://elementsofai.com)                                                                                               |
-| **PHP The Right Way**           | Lenguaje backend para la web                       | [phprightway.com](https://phprightway.com)                                                                                                 |
-| **C++ Tutorial**                | Lenguaje potente de bajo nivel                     | [cplusplus.com](https://cplusplus.com/doc/tutorial)                                                                                        |
-| **Java Tutorial**               | Lenguaje orientado a objetos                       | [docs.oracle.com/javase/tutorial](https://docs.oracle.com/javase/tutorial)                                                                 |
-| **C# Microsoft**                | Lenguaje creado por Microsoft                      | [dotnet.microsoft.com/learn/csharp](https://dotnet.microsoft.com/learn/csharp)                                                             |
-| **Swift**                       | Lenguaje para ecosistema Apple                     | [swift.org/learn](https://swift.org/learn)                                                                                                 |
-| **Django**                      | Framework web robusto de Python                    | [djangoproject.com/start](https://www.djangoproject.com/start/)                                                                            |
-| **Flask**                       | Microframework web de Python                       | [flask.palletsprojects.com/tutorial](https://flask.palletsprojects.com/tutorial/)                                                          |
-| **AWS Training**                | Formación en la nube de Amazon                     | [aws.amazon.com/training](https://aws.amazon.com/training/)                                                                                |
-| **Google Cloud Skills**         | Formación en la nube de Google                     | [cloudskillsboost.google](https://cloudskillsboost.google)                                                                                 |
-| **Microsoft Learn Azure**       | Formación en la nube de Microsoft                  | [microsoft.com/learn/azure](https://learn.microsoft.com/azure/)                                                                            |
-| **Clone Wars**                  | Clones open source de apps populares para aprender | [gourav.io/clone-wars](https://gourav.io/clone-wars)                                                                                       |
-| **Refonte Learning**            | Internship y estudio frontend development          | [refontelearning.com/study-and-internship/frontend-development](https://www.refontelearning.com/study-and-internship/frontend-development) |
+| **Nombre**                      | **Descripción**                                    | **Enlace**                                                                                                                                          |
+| ------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| **freeCodeCamp**                | Cursos interactivos gratis certificados            | [freecodecamp.org](https://www.freecodecamp.org/)                                                                                                   |
+| **Accessible Browser Ext**      | Guía diseñar extensiones accesibles                | [freecodecamp.org/news/how-to-design-accessible-browser-extensions](https://www.freecodecamp.org/news/how-to-design-accessible-browser-extensions/) | ✅ Activo |
+| **Full Stack Open**             | Curso universitario MERN completo                  | [fullstackopen.com](https://fullstackopen.com/)                                                                                                     |
+| **The Odin Project**            | Academia desarrolladores inglés                    | [theodinproject.com](https://www.theodinproject.com/)                                                                                               |
+| **CS50 (edX)**                  | Cursos Harvard CS50                                | [edx.org](https://www.edx.org/search?q=CS50)                                                                                                        |
+| **MDN Web Docs**                | Documentación web oficial                          | [developer.mozilla.org](https://developer.mozilla.org/)                                                                                             |
+| **Dev.to**                      | Comunidad y blog para desarrolladores              | [dev.to](https://dev.to/)                                                                                                                           |
+| **Hashnode**                    | Blogging platform para devs                        | [hashnode.com](https://hashnode.com)                                                                                                                |
+| **Web.dev**                     | Guías Google desarrollo web                        | [web.dev](https://web.dev/?hl=es-419)                                                                                                               |
+| **Class Central**               | Buscador de cursos online                          | [classcentral.com](https://www.classcentral.com/)                                                                                                   |
+| **Learn X in Y Minutes**        | Cheatsheets rápidos de lenguajes                   | [learnxinyminutes.com](https://learnxinyminutes.com/)                                                                                               |
+| **Kaggle Learn**                | Microcursos de datos y Python                      | [kaggle.com/learn](https://www.kaggle.com/learn)                                                                                                    |
+| **Exercism**                    | Aprender por ejercicios 81 lenguajes               | [exercism.org](https://exercism.org/)                                                                                                               |
+| **LeetCode**                    | App learn dev inglés entrevistas                   | [leetcode.com](https://leetcode.com/)                                                                                                               |
+| **Roadmap.sh**                  | Rutas aprendizaje dev tecnología                   | [roadmap.sh](https://roadmap.sh/)                                                                                                                   |
+| **Developer Roadmap**           | Guías de aprendizaje para devs                     | [github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)                                                    |
+| **Frontend Mentor**             | Retos frontend ENG pago                            | [frontendmentor.io](https://www.frontendmentor.io)                                                                                                  |
+| **FrontendHub**                 | Cursos, recursos y proy React                      | [frontendhub.dev/signin](https://www.frontendhub.dev/signin)                                                                                        |
+| **Scrimba**                     | Cursos interactivos con screencasts interactivos   | [scrimba.com](https://scrimba.com)                                                                                                                  | ✅ Activo |
+| **Google AI Learning**          | Cursos y herramientas IA de Google                 | [grow.google/ai](https://grow.google/ai)                                                                                                            | ✅ Activo |
+| **Meta AI Resources**           | Recursos de IA de Meta                             | [ai.meta.com/resources](https://ai.meta.com/resources)                                                                                              | ✅ Activo |
+| **NVIDIA AI Training**          | Cursos de IA de NVIDIA                             | [developer.nvidia.com/training](https://developer.nvidia.com/training)                                                                              | ✅ Activo |
+| **Microsoft AI Training**       | Cursos de IA de Microsoft                          | [learn.microsoft.com/training](https://learn.microsoft.com/training)                                                                                | ✅ Activo |
+| **IBM SkillsBuild**             | Cursos de tecnología de IBM                        | [skillsbuild.org](https://skillsbuild.org)                                                                                                          | ✅ Activo |
+| **AWS AI Training**             | Cursos de IA de AWS                                | [skillbuilder.aws](https://skillbuilder.aws)                                                                                                        | ✅ Activo |
+| **Cognitive Class**             | Curso tecnología por proyectos                     | [cognitiveclass.ai](https://cognitiveclass.ai/)                                                                                                     |
+| **VSCodeEdu**                   | Python, varios dev                                 | [vscodeedu.com](https://vscodeedu.com/)                                                                                                             |
+| **KodeKloud**                   | Cursos ENG backend, docker, k8s                    | [kodekloud.com](https://kodekloud.com)                                                                                                              |
+| **KodeKloud Labs**              | Laboratorio de aprendizaje DevOps                  | [kodekloud.com/studio/labs](https://kodekloud.com/studio/labs)                                                                                      |
+| **NetAcad**                     | Academia Cisco ESP Gratis Python, JS               | [netacad.com](https://www.netacad.com/es/catalogs/learn/programming)                                                                                |
+| **Coding Challenges**           | Aprender dev por retos                             | [coding-challenges.dev](https://coding-challenges.dev/)                                                                                             |
+| **Academy Europa**              | Academia EU                                        | [academy.europa.eu](https://academy.europa.eu/)                                                                                                     |
+| **DevTalles**                   | Cursos en español                                  | [cursos.devtalles.com](https://cursos.devtalles.com/)                                                                                               |
+| **Next.js Course**              | Curso Next.js oficial                              | [nextjs.org/learn](https://nextjs.org/learn)                                                                                                        |
+| **Python Tutor**                | Explica paso a paso cómo se hace web               | [pythontutor.com](https://pythontutor.com/)                                                                                                         |
+| **MoureDev**                    | Portal recursos programación                       | [mouredev.pro](https://mouredev.pro)                                                                                                                |
+| **MoureDev Cursos**             | Portal cursos MoureDev                             | [moure.dev/cursos](https://moure.dev/cursos)                                                                                                        |
+| **MoureDev Roadmap**            | Guía programadores junior                          | [mouredev.pro/recursos/roadmap-programadores-junior](https://mouredev.pro/recursos/roadmap-programadores-junior)                                    |
+| **MoureDev SQL**                | Fundamentos SQL en PDF                             | [mouredev.pro/recursos/guia-fundamentos-sql](https://mouredev.pro/recursos/guia-fundamentos-sql)                                                    |
+| **Hello Git (MoureDev)**        | Curso básico de Git                                | [github.com/mouredev/hello-git](https://github.com/mouredev/hello-git)                                                                              |
+| **Tech Interview Handbook**     | Prep para entrevistas técnicas                     | [techinterviewhandbook.org](https://www.techinterviewhandbook.org/)                                                                                 |
+| **Coding Interview University** | Preparación para entrevistas dev                   | [github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)                                            |
+| **Project-Based Learning**      | Aprende por proyectos                              | [github.com/practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)                              |
+| **Rust Training**               | GitHub curso Microsoft Rust                        | [github.com/microsoft/RustTraining](https://github.com/microsoft/RustTraining)                                                                      |
+| **Postgres Courses**            | Curso PostgreSQL                                   | [databaseschool.com](https://databaseschool.com/)                                                                                                   |
+| **AprendeSQL.dev**              | Aprende SQL interactivo                            | [aprendesql.dev](https://aprendesql.dev)                                                                                                            |
+| **SQL en 8min (YT)**            | Video rápido SQL                                   | [youtube.com/watch?v=ubyZXK3a28I](https://www.youtube.com/watch?v=ubyZXK3a28I)                                                                      |
+| **HTML en 5min (YT)**           | Video rápido HTML                                  | [youtu.be/gmuTjeQUbTM](https://youtu.be/gmuTjeQUbTM)                                                                                                |
+| **IA en 15min (YT)**            | Video introductorio IA                             | [youtu.be/AXUZXHIHYCM](https://youtu.be/AXUZXHIHYCM)                                                                                                |
+| **Learn Vue**                   | Aprendizaje Vue.js                                 | [learnvue.co](https://learnvue.co)                                                                                                                  |
+| **Learn Angular**               | Tutoriales Angular                                 | [angular.dev/tutorials](https://angular.dev/tutorials)                                                                                              |
+| **Learn Web3**                  | Web3 descentralizada                               | [learnweb3.io](https://learnweb3.io)                                                                                                                |
+| **CryptoZombies**               | Desarrollo blockchain                              | [cryptozombies.io](https://cryptozombies.io)                                                                                                        |
+| **Learn Python**                | Python interactivo                                 | [learnpython.org](https://learnpython.org)                                                                                                          |
+| **Learn Go**                    | Go por Google                                      | [learn-golang.org](https://learn-golang.org)                                                                                                        |
+| **Rust Lang**                   | Rust oficial                                       | [rust-lang.org/learn](https://rust-lang.org/learn)                                                                                                  |
+| **Learn C**                     | Lenguaje C                                         | [learn-c.org](https://learn-c.org)                                                                                                                  |
+| **Linux Journey**               | Tutoriales Linux                                   | [linuxjourney.com](https://linuxjourney.com)                                                                                                        |
+| **Commit AWS**                  | Curso AWS directo                                  | [commitacademy.io](https://www.commitacademy.io/recursos/sp-curso-aws-directo)                                                                      |
+| **Goetech Academy**             | Academia tecnología                                | [campusfad.org/goetech-academy](https://www.campusfad.org/goetech-academy/)                                                                         |
+| **Raiola n8n**                  | Curso automatización n8n                           | [landing.raiola.link/curso-n8n](https://landing.raiola.link/curso-n8n/)                                                                             |
+| **HTML.com**                    | Aprende la estructura de la web                    | [html.com](https://html.com)                                                                                                                        |
+| **JavaScript.info**             | Lenguaje interactivo de la web                     | [javascript.info](https://javascript.info)                                                                                                          |
+| **TypeScriptLang**              | JavaScript con tipado estático                     | [typescriptlang.org](https://www.typescriptlang.org/docs)                                                                                           |
+| **Elements of AI**              | Conceptos fundamentales de IA                      | [elementsofai.com](https://elementsofai.com)                                                                                                        |
+| **PHP The Right Way**           | Lenguaje backend para la web                       | [phprightway.com](https://phprightway.com)                                                                                                          |
+| **C++ Tutorial**                | Lenguaje potente de bajo nivel                     | [cplusplus.com](https://cplusplus.com/doc/tutorial)                                                                                                 |
+| **Java Tutorial**               | Lenguaje orientado a objetos                       | [docs.oracle.com/javase/tutorial](https://docs.oracle.com/javase/tutorial)                                                                          |
+| **C# Microsoft**                | Lenguaje creado por Microsoft                      | [dotnet.microsoft.com/learn/csharp](https://dotnet.microsoft.com/learn/csharp)                                                                      |
+| **Swift**                       | Lenguaje para ecosistema Apple                     | [swift.org/learn](https://swift.org/learn)                                                                                                          |
+| **Django**                      | Framework web robusto de Python                    | [djangoproject.com/start](https://www.djangoproject.com/start/)                                                                                     |
+| **Flask**                       | Microframework web de Python                       | [flask.palletsprojects.com/tutorial](https://flask.palletsprojects.com/tutorial/)                                                                   |
+| **AWS Training**                | Formación en la nube de Amazon                     | [aws.amazon.com/training](https://aws.amazon.com/training/)                                                                                         |
+| **Google Cloud Skills**         | Formación en la nube de Google                     | [cloudskillsboost.google](https://cloudskillsboost.google)                                                                                          |
+| **Microsoft Learn Azure**       | Formación en la nube de Microsoft                  | [microsoft.com/learn/azure](https://learn.microsoft.com/azure/)                                                                                     |
+| **Clone Wars**                  | Clones open source de apps populares para aprender | [gourav.io/clone-wars](https://gourav.io/clone-wars)                                                                                                |
+| **Refonte Learning**            | Internship y estudio frontend development          | [refontelearning.com/study-and-internship/frontend-development](https://www.refontelearning.com/study-and-internship/frontend-development)          |
 
 ### **Artículos CSS & Web**
 
@@ -1105,11 +1156,12 @@
 | **Visible to LLMs**              | Hacer tu web visible a los LLMs SEO               | [evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms](https://evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms)                        | ✅ Activo  |
 
 | **Nombre**                     | **Descripción**                                   | **Enlace**                                                                                                                                                                                                       |
-| ------------------------------ | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------ | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | **Free Programming Books**     | Libros de programación gratis                     | [github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)                                                                                                   |
 | **Libros Programación Gratis** | Repositorio midudev libros                        | [github.com/midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis)                                                                                                           |
 | **LibrosGratis.dev**           | Libros tech gratuitos                             | [librosgratis.dev](https://librosgratis.dev/)                                                                                                                                                                    |
 | **You Don't Know JS**          | Libros profundos sobre JS                         | [github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)                                                                                                                                 |
+| **Mathematics for ML**         | Libro matemáticas para machine learning           | [mml-book.github.io/book/mml-book.pdf](https://mml-book.github.io/book/mml-book.pdf)                                                                                                                             | ✅ Activo |
 | **TypeScript Book**            | Libro gratuito de TypeScript                      | [github.com/basarat/typescript-book](https://github.com/basarat/typescript-book)                                                                                                                                 |
 | **Clean Code JavaScript**      | Guía de código limpio en JS                       | [github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)                                                                                                         |
 | **Clean Code Python**          | Código limpio para Python                         | [github.com/zedr/clean-code-python](https://github.com/zedr/clean-code-python)                                                                                                                                   |
@@ -1155,11 +1207,11 @@
 | **Backpine**              | Cloudflare, varios, TanStack      | [youtube.com/@backpine](https://www.youtube.com/@backpine)                         |
 | **ReturnGIS**             | Copilot, Docker, IA, DevSecOps    | [youtube.com/@returngis](https://www.youtube.com/@returngis)                       |
 | **AdrianSaenz**           | Marketing, finanzas               | [youtube.com/@AdrianSaenz](https://www.youtube.com/@AdrianSaenz)                   |
-| **Neon Database**         | Neon postgres                     | [youtube.com/@neondatabase](https://www.youtube.com/@neondatabase)                 |
+| **Neon Database**         | Neon postgres                     | [youtube.com/@neondatabase](https://www.neondatabase.com)                          |
 | **FaztCode**              | IA y desarrollo                   | [youtube.com/@FaztCode](https://www.youtube.com/@FaztCode)                         |
 | **CandDev**               | Varios, auth, pdf                 | [youtube.com/@CandDev](https://www.youtube.com/@CandDev)                           |
-| **SQL University**        | SQL, Postgres y SQL server        | [youtube.com/@SQLUniversity](https://www.youtube.com/@SQLUniversity)               |
-| **Sql Is Easy**           | SQL y postgres                    | [youtube.com/@sqliseasy](https://www.youtube.com/@sqliseasy)                       |
+| **SQL University**        | SQL, Postgres y SQL server        | [youtube.com/@SQLUniversity](https://www.SQLUniversity.com)                        |
+| **Sql Is Easy**           | SQL y postgres                    | [youtube.com/@sqliseasy](https://www.sqliseasy.com)                                |
 | **Marko Oficial**         | Videos ejemplos Marko             | [youtube.com/@Marko-js](https://www.youtube.com/@Marko-js)                         |
 | **Lidr**                  | IA y desarrollo                   | [youtube.com/@lidr](https://www.youtube.com/@lidr)                                 |
 | **CosdenSolutions**       | Next, React, TanStack             | [youtube.com/@cosdensolutions](https://www.youtube.com/@cosdensolutions)           |
@@ -1190,7 +1242,7 @@
 ### **Productividad**
 
 | **Nombre**        | **Descripción**                       | **Enlace**                                                                 |
-| ----------------- | ------------------------------------- | -------------------------------------------------------------------------- |
+| ----------------- | ------------------------------------- | -------------------------------------------------------------------------- | --------- |
 | **Notion**        | Workspace todo-en-uno gratis personal | [notion.so](https://www.notion.so)                                         |
 | **Obsidian**      | Notas en markdown con grafos          | [obsidian.md](https://obsidian.md)                                         |
 | **Logseq**        | Notas y conocimiento open source      | [logseq.com](https://logseq.com)                                           |
@@ -1207,6 +1259,9 @@
 | **Granola**       | Notas de reuniones automáticas        | [granola.so](https://granola.so)                                           |
 | **Superhuman**    | Cliente de correo rápido con IA       | [superhuman.com](https://superhuman.com)                                   |
 | **Wispr Flow**    | Dictado por voz con IA                | [flow.wispr.ai](https://flow.wispr.ai)                                     |
+| **AtlasOS**       | Optimización Windows open source      | [atlasos.dev](https://atlasos.dev)                                         | ✅ Activo |
+| **Spoki**         | Marketing WhatsApp Business API       | [spoki.com/en](https://spoki.com/en)                                       | ✅ Activo |
+| **RecCloud**      | Resumir videos YouTube con IA         | [reccloud.com](https://reccloud.com)                                       | ✅ Activo |
 
 ### **Imágenes & Placeholders**
 
@@ -1249,6 +1304,7 @@
 | **Placeholdertext**      | Placeholder simple y rápido para web               | [placeholdertext.org](https://placeholdertext.org)                                                   |
 | **RandomUser US**        | Usuarios aleatorios SSN, dirección, teléfono US    | [randomuser.me/?results=10&nat=us](https://randomuser.me/?results=10&nat=us)                         |
 | **Mockaroo US**          | Plantillas predefinidas para datos estadounidenses | [mockaroo.com](https://www.mockaroo.com)                                                             |
+| **Grounded**             | Generador de datos reales y fiables                | [github.com/grounded-data/grounded](https://github.com/grounded-data/grounded)                       |
 
 ### **Almacenamiento & Archivos**
 
@@ -1305,7 +1361,7 @@
 | **Tiks**              | Herramienta dev interfaz minimal     | [rexa-developer.github.io/tiks](https://rexa-developer.github.io/tiks/)                                                                                                   |
 | **Bsky Comments**     | Comentarios con Bluesky en web       | [github.com/florianschepp/bsky-comments](https://github.com/florianschepp/bsky-comments)                                                                                  |
 | **DataType**          | Visualizador tipos datos interactivo | [franktisellano.github.io/datatype](https://franktisellano.github.io/datatype/)                                                                                           |
-| **MonoSketch**        | Herramienta diagramas ASCII online   | [monosketch.io](https://monosketch.io/)                                                                                                                                   |
+| **MonoSketch**        | Herramienta diagramas ASCII online   | [monosketch.io](https://monosketch.io)                                                                                                                                    |
 | **Pretext**           | Preprocessor texto ligero para web   | [github.com/chenglou/pretext](https://github.com/chenglou/pretext)                                                                                                        |
 | **XML Comparator**    | Comparador XML online gratuito       | [xmlcomparator.xyz](https://www.xmlcomparator.xyz/)                                                                                                                       |
 | **Testing OpenGraph** | Testear OpenGraph desde CLI          | [simonhartcher.com/posts/2026-04-15-testing-opengraph-on-localhost-from-the-cli](https://simonhartcher.com/posts/2026-04-15-testing-opengraph-on-localhost-from-the-cli/) |
@@ -1317,7 +1373,7 @@
 | ------------------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Israel Casado VPS**          | Guía crear VPS propio                             | [israelcasado.net/createVps](https://www.israelcasado.net/createVps/)                                                                                                                |
 | **Punits Vercel Alternatives** | Alternativas hosting Vercel                       | [punits.dev/blog/vercel-hosting-when-to-use-and-alternatives](https://punits.dev/blog/vercel-hosting-when-to-use-and-alternatives/)                                                  |
-| **Web Dev Resources**          | Lista recursos web dev                            | [web-dev-resources.com/list](https://web-dev-resources.com/list/)                                                                                                                    |
+| **Web Dev Resources**          | Lista recursos web dev                            | [web-dev-resources.com/list](https://web-dev-resources.com/list)                                                                                                                     |
 | **Frontend Resources**         | Recursos frontend GitHub                          | [github.com/mrcodedev/frontend-developer-resources](https://github.com/mrcodedev/frontend-developer-resources)                                                                       |
 | **Top 10 Repos 2025**          | Top 10 repos web dev                              | [dev.to/shayy/top-10-github-repositories-every-web-developer-should-know-in-2025-41nm](https://dev.to/shayy/top-10-github-repositories-every-web-developer-should-know-in-2025-41nm) |
 | **5 Best AI Repos**            | Top 5 repos IA                                    | [dev.to/kumarmanish/5-best-github-ai-repos-to-master-ai-like-a-pro-4o82](https://dev.to/kumarmanish/5-best-github-ai-repos-to-master-ai-like-a-pro-4o82)                             |
@@ -1327,6 +1383,7 @@
 | **Free For Dev**               | Recursos gratis para devs                         | [free-for.dev](https://free-for.dev/)                                                                                                                                                |
 | **Hacker News**                | Comunidad noticias y debates tecnología para devs | [news.ycombinator.com](https://news.ycombinator.com)                                                                                                                                 |
 | **bishoy-bishai-blog**         | Blog portfolio desarrollador                      | [bishoy-bishai.github.io/portfolio/blog](https://bishoy-bishai.github.io/portfolio/blog/)                                                                                            |
+| **Grounded**                   | Generador de datos reales y fiables               | [github.com/grounded-data/grounded](https://github.com/grounded-data/grounded)                                                                                                       |
 
 ---
 
@@ -1348,20 +1405,21 @@
 
 ## 🔧 DevOps & CI/CD
 
-| **Nombre**         | **Descripción**                  | **Enlace**                                                         |
-| ------------------ | -------------------------------- | ------------------------------------------------------------------ |
-| **GitHub Actions** | CI/CD integrado en GitHub        | [github.com/features/actions](https://github.com/features/actions) |
-| **GitLab CI**      | CI/CD integrado en GitLab        | [gitlab.com](https://gitlab.com)                                   |
-| **CircleCI**       | CI/CD cloud con plan gratis      | [circleci.com](https://circleci.com)                               |
-| **Travis CI**      | CI/CD para proyectos open source | [travis-ci.com](https://travis-ci.com)                             |
-| **Jenkins**        | CI/CD open source self-hosted    | [jenkins.io](https://www.jenkins.io/)                              |
-| **Docker**         | Plataforma de contenedores       | [docker.com](https://docker.com/)                                  |
-| **Kubernetes**     | Orquestación de contenedores     | [kubernetes.io](https://kubernetes.io/)                            |
-| **Podman**         | Alternativa Docker sin daemon    | [podman.io](https://podman.io/)                                    |
-| **Kind**           | Kubernetes en Docker             | [kind.sigs.k8s.io](https://kind.sigs.k8s.io/)                      |
-| **Minikube**       | Kubernetes local para desarrollo | [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/)              |
-| **K3s**            | Kubernetes ligero para edge      | [k3s.io](https://k3s.io/)                                          |
-| **Lens**           | IDE para Kubernetes              | [k8slens.dev](https://k8slens.dev/)                                |
+| **Nombre**         | **Descripción**                           | **Enlace**                                                         |
+| ------------------ | ----------------------------------------- | ------------------------------------------------------------------ | --------- |
+| **GitHub Actions** | CI/CD integrado en GitHub                 | [github.com/features/actions](https://github.com/features/actions) |
+| **GitLab CI**      | CI/CD integrado en GitLab                 | [gitlab.com](https://gitlab.com)                                   |
+| **CircleCI**       | CI/CD cloud con plan gratis               | [circleci.com](https://circleci.com)                               |
+| **Travis CI**      | CI/CD para proyectos open source          | [travis-ci.com](https://travis-ci.com)                             |
+| **Jenkins**        | CI/CD open source self-hosted             | [jenkins.io](https://www.jenkins.io/)                              |
+| **Docker**         | Plataforma de contenedores                | [docker.com](https://docker.com/)                                  |
+| **Kubernetes**     | Orquestación de contenedores              | [kubernetes.io](https://kubernetes.io/)                            |
+| **Podman**         | Alternativa Docker sin daemon             | [podman.io](https://podman.io/)                                    |
+| **Kind**           | Kubernetes en Docker                      | [kind.sigs.k8s.io](https://kind.sigs.k8s.io/)                      |
+| **Minikube**       | Kubernetes local para desarrollo          | [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/)              |
+| **K3s**            | Kubernetes ligero para edge               | [k3s.io](https://k3s.io/)                                          |
+| **Lens**           | IDE para Kubernetes                       | [k8slens.dev](https://k8slens.dev/)                                |
+| **Kite**           | Dashboard Kubernetes con IA multi-cluster | [github.com/kite-org/kite](https://github.com/kite-org/kite)       | ✅ Activo |
 
 ---
 
@@ -1423,6 +1481,7 @@
 | **PubNub**                   | API mensajería tiempo real          | [pubnub.com](https://www.pubnub.com)                                                         |
 | **Centrifugo**               | Server WebSocket open source        | [centrifugal.dev](https://centrifugal.dev)                                                   |
 | **CloudAMQP**                | RabbitMQ como servicio 1M msgs      | [cloudamqp.com](https://www.cloudamqp.com)                                                   |
+| **Grounded**                 | Generador de datos reales y fiables | [github.com/grounded-data/grounded](https://github.com/grounded-data/grounded)               |
 
 ---
 
@@ -1445,18 +1504,19 @@
 | **Dither Image**         | Convierte imágenes a dithering online | [ditherimage.online](https://ditherimage.online/)                                                      |
 | **HDR Images Marketing** | Técnica abuso imágenes HDR marketing  | [tn1ck.com/blog/abuse-hdr-images-for-marketing](https://tn1ck.com/blog/abuse-hdr-images-for-marketing) |
 
-| **Nombre**       | **Descripción**                    | **Enlace**                                       |
-| ---------------- | ---------------------------------- | ------------------------------------------------ |
-| **Proton Drive** | Almacenamiento encriptado 5GB      | [proton.me/drive](https://proton.me/drive)       |
-| **MEGA**         | Almacenamiento cloud 20GB gratis   | [mega.io](https://mega.io)                       |
-| **pCloud**       | Almacenamiento cloud seguro        | [pcloud.com](https://www.pcloud.com)             |
-| **Icedrive**     | Cloud storage con encriptación     | [icedrive.net](https://icedrive.net)             |
-| **Backblaze B2** | Storage S3-compatible 10GB         | [backblaze.com/b2](https://www.backblaze.com/b2) |
-| **Wasabi**       | Hot cloud storage sin egress fees  | [wasabi.com](https://wasabi.com)                 |
-| **Storj**        | Storage descentralizado 25GB       | [storj.io](https://storj.io)                     |
-| **File.io**      | Comparte archivos auto-destruibles | [file.io](https://www.file.io)                   |
-| **Transfer.sh**  | Comparte archivos desde terminal   | [transfer.sh](https://transfer.sh)               |
-| **Wormhole**     | Transferencia archivos encriptada  | [wormhole.app](https://wormhole.app)             |
+| **Nombre**       | **Descripción**                     | **Enlace**                                       |
+| ---------------- | ----------------------------------- | ------------------------------------------------ |
+| **Proton Drive** | Almacenamiento encriptado 5GB       | [proton.me/drive](https://proton.me/drive)       |
+| **MEGA**         | Almacenamiento cloud 20GB gratis    | [mega.io](https://mega.io)                       |
+| **pCloud**       | Almacenamiento cloud seguro         | [pcloud.com](https://www.pcloud.com)             |
+| **Icedrive**     | Cloud storage con encriptación      | [icedrive.net](https://icedrive.net)             |
+| **Backblaze B2** | Storage S3-compatible 10GB          | [backblaze.com/b2](https://www.backblaze.com/b2) |
+| **Wasabi**       | Hot cloud storage sin egress fees   | [wasabi.com](https://wasabi.com)                 |
+| **Storj**        | Storage descentralizado 25GB        | [storj.io](https://storj.io)                     |
+| **File.io**      | Comparte archivos auto-destruibles  | [file.io](https://www.file.io)                   |
+| **Transfer.sh**  | Comparte archivos desde terminal    | [transfer.sh](https://transfer.sh)               |
+| **Wormhole**     | Transferencia archivos encriptada   | [wormhole.app](https://wormhole.app)             |
+| **Uppy**         | Carga con reanudación y UI completa | [uppy.io](https://uppy.io)                       |
 
 ---
 

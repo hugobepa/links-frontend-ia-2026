@@ -1,1303 +1,1616 @@
 {
-  "categories": [
-    {
-      "id": "cms",
-      "name": "Cms",
-      "slug": "cms",
-      "resourceCount": 8,
-      "status": "active"
-    },
-    {
-      "id": "utilities",
-      "name": "Utilities",
-      "slug": "utilities",
-      "resourceCount": 29,
-      "status": "active"
-    }
-  ],
-  "subcategories": [
-    {
-      "id": "dev-tools",
-      "name": "Dev Tools",
-      "slug": "dev-tools",
-      "category": "utilities",
-      "resourceCount": 19,
-      "status": "active"
-    },
-    {
-      "id": "general-resources",
-      "name": "General Resources",
-      "slug": "general-resources",
-      "category": "utilities",
-      "resourceCount": 8,
-      "status": "active"
-    },
-    {
-      "id": "platforms",
-      "name": "Platforms",
-      "slug": "platforms",
-      "category": "cms",
-      "resourceCount": 8,
-      "status": "active"
-    },
-    {
-      "id": "seo-scraping",
-      "name": "Seo Scraping",
-      "slug": "seo-scraping",
-      "category": "utilities",
-      "resourceCount": 2,
-      "status": "active"
-    }
-  ],
-  "resources": [
-    {
-      "id": "5-best-ai-repos",
-      "name": "5 Best AI Repos",
-      "slug": "5-best-ai-repos",
-      "description": "Top 5 repos IA",
-      "url": "https://dev.to/kumarmanish/5-best-github-ai-repos-to-master-ai-like-a-pro-4o82",
-      "status": "active",
-      "tags": [
-        "ai",
-        "github",
-        "repos",
-        "top"
-      ],
-      "searchIndex": [
-        "5 Best AI Repos",
-        "5-best-ai-repos",
-        "Top 5 repos IA",
-        "utilities",
-        "general-resources",
-        "ai",
-        "github",
-        "repos",
-        "top"
-      ],
-      "category": "utilities",
-      "subcategory": "general-resources",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "animation-css",
-      "name": "Animation CSS",
-      "slug": "animation-css",
-      "description": "Vanilla CSS animation",
-      "url": "https://codepen.io/giana/pen/BabdgjB",
-      "status": "active",
-      "tags": [
-        "css",
-        "animation",
-        "vanilla",
-        "codepen"
-      ],
-      "searchIndex": [
-        "Animation CSS",
-        "animation-css",
-        "Vanilla CSS animation",
-        "utilities",
-        "dev-tools",
-        "css",
-        "animation",
-        "vanilla",
-        "codepen"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "awesome-cv",
-      "name": "Awesome CV",
-      "slug": "awesome-cv",
-      "description": "Plantillas CV LaTeX",
-      "url": "https://github.com/posquit0/Awesome-CV",
-      "status": "active",
-      "tags": [
-        "cv",
-        "latex",
-        "templates",
-        "resume"
-      ],
-      "searchIndex": [
-        "Awesome CV",
-        "awesome-cv",
-        "Plantillas CV LaTeX",
-        "utilities",
-        "dev-tools",
-        "cv",
-        "latex",
-        "templates",
-        "resume"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "boneyard",
-      "name": "Boneyard",
-      "slug": "boneyard",
-      "description": "Skeleton components",
-      "url": "https://github.com/0xGF/boneyard",
-      "status": "active",
-      "tags": [
-        "skeleton",
-        "components",
-        "react",
-        "github"
-      ],
-      "searchIndex": [
-        "Boneyard",
-        "boneyard",
-        "Skeleton components",
-        "utilities",
-        "dev-tools",
-        "skeleton",
-        "components",
-        "react",
-        "github"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "buzz-whisper",
-      "name": "Buzz Whisper",
-      "slug": "buzz-whisper",
-      "description": "Transcripción audio/video",
-      "url": "https://github.com/chidiwilliams/buzz",
-      "status": "active",
-      "tags": [
-        "transcription",
-        "audio",
-        "video",
-        "whisper"
-      ],
-      "searchIndex": [
-        "Buzz Whisper",
-        "buzz-whisper",
-        "Transcripción audio/video",
-        "utilities",
-        "dev-tools",
-        "transcription",
-        "audio",
-        "video",
-        "whisper"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "canvas-confetti",
-      "name": "Canvas Confetti",
-      "slug": "canvas-confetti",
-      "description": "Efectos confetti en canvas",
-      "url": "https://www.npmjs.com/package/canvas-confetti",
-      "status": "active",
-      "tags": [
-        "canvas",
-        "effects",
-        "npm",
-        "javascript"
-      ],
-      "searchIndex": [
-        "Canvas Confetti",
-        "canvas-confetti",
-        "Efectos confetti en canvas",
-        "utilities",
-        "dev-tools",
-        "canvas",
-        "effects",
-        "npm",
-        "javascript"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "contentful",
-      "name": "Contentful",
-      "slug": "contentful",
-      "description": "CMS headless 5 usuarios gratis",
-      "url": "https://www.contentful.com",
-      "status": "active",
-      "tags": [
-        "cms",
-        "headless",
-        "saas",
-        "content"
-      ],
-      "searchIndex": [
-        "Contentful",
-        "contentful",
-        "CMS headless 5 usuarios gratis",
-        "cms",
-        "platforms",
-        "headless",
-        "saas",
-        "content"
-      ],
-      "category": "cms",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "limits": "5 usuarios, contenido ilimitado",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "datagouv-mcp",
-      "name": "Datagouv MCP",
-      "slug": "datagouv-mcp",
-      "description": "MCP datos gobierno francés",
-      "url": "https://github.com/datagouv/datagouv-mcp",
-      "status": "active",
-      "tags": [
-        "mcp",
-        "data",
-        "government",
-        "france"
-      ],
-      "searchIndex": [
-        "Datagouv MCP",
-        "datagouv-mcp",
-        "MCP datos gobierno francés",
-        "utilities",
-        "dev-tools",
-        "mcp",
-        "data",
-        "government",
-        "france"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": [
-        "fr",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "directus",
-      "name": "Directus",
-      "slug": "directus",
-      "description": "CMS y backend open source",
-      "url": "https://directus.io",
-      "status": "active",
-      "tags": [
-        "cms",
-        "backend",
-        "open-source",
-        "headless"
-      ],
-      "searchIndex": [
-        "Directus",
-        "directus",
-        "CMS y backend open source",
-        "cms",
-        "platforms",
-        "backend",
-        "open-source",
-        "headless"
-      ],
-      "category": "cms",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "limits": "Self-hosted gratis",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "evershop",
-      "name": "EverShop",
-      "slug": "evershop",
-      "description": "eCommerce plantilla React",
-      "url": "https://github.com/evershopcommerce/evershop",
-      "status": "active",
-      "tags": [
-        "ecommerce",
-        "react",
-        "template",
-        "open-source"
-      ],
-      "searchIndex": [
-        "EverShop",
-        "evershop",
-        "eCommerce plantilla React",
-        "utilities",
-        "dev-tools",
-        "ecommerce",
-        "react",
-        "template",
-        "open-source"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "freemium",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "firecrawl",
-      "name": "FireCrawl",
-      "slug": "firecrawl",
-      "description": "API para buscar y scrapear web a escala",
-      "url": "https://github.com/firecrawl",
-      "status": "active",
-      "tags": [
-        "api",
-        "scraping",
-        "search",
-        "open-source"
-      ],
-      "searchIndex": [
-        "FireCrawl",
-        "firecrawl",
-        "API para buscar y scrapear web a escala",
-        "utilities",
-        "seo-scraping",
-        "api",
-        "scraping",
-        "search",
-        "open-source"
-      ],
-      "category": "utilities",
-      "subcategory": "seo-scraping",
-      "pricing": "freemium",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "free-for-dev",
-      "name": "Free For Dev",
-      "slug": "free-for-dev",
-      "description": "Recursos gratis para devs",
-      "url": "https://free-for.dev/",
-      "status": "active",
-      "tags": [
-        "free",
-        "dev",
-        "resources",
-        "list"
-      ],
-      "searchIndex": [
-        "Free For Dev",
-        "free-for-dev",
-        "Recursos gratis para devs",
-        "utilities",
-        "general-resources",
-        "free",
-        "dev",
-        "resources",
-        "list"
-      ],
-      "category": "utilities",
-      "subcategory": "general-resources",
-      "pricing": "freemium",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "frontend-resources",
-      "name": "Frontend Resources",
-      "slug": "frontend-resources",
-      "description": "Recursos frontend GitHub",
-      "url": "https://github.com/mrcodedev/frontend-developer-resources",
-      "status": "active",
-      "tags": [
-        "frontend",
-        "resources",
-        "github",
-        "collection"
-      ],
-      "searchIndex": [
-        "Frontend Resources",
-        "frontend-resources",
-        "Recursos frontend GitHub",
-        "utilities",
-        "general-resources",
-        "frontend",
-        "resources",
-        "github",
-        "collection"
-      ],
-      "category": "utilities",
-      "subcategory": "general-resources",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "ghost",
-      "name": "Ghost",
-      "slug": "ghost",
-      "description": "Plataforma publishing moderna",
-      "url": "https://ghost.org",
-      "status": "active",
-      "tags": [
-        "cms",
-        "ghost",
-        "publishing",
-        "modern"
-      ],
-      "searchIndex": [
-        "Ghost",
-        "ghost",
-        "Plataforma publishing moderna",
-        "cms",
-        "platforms",
-        "publishing",
-        "modern"
-      ],
-      "category": "cms",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "limits": "Trial 14 días, self-hosted gratis",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "graphite",
-      "name": "Graphite",
-      "slug": "graphite",
-      "description": "Errores comunes Next.js",
-      "url": "https://graphite.com",
-      "status": "active",
-      "tags": [
-        "nextjs",
-        "errors",
-        "debugging",
-        "react"
-      ],
-      "searchIndex": [
-        "Graphite",
-        "graphite",
-        "Errores comunes Next.js",
-        "utilities",
-        "dev-tools",
-        "nextjs",
-        "errors",
-        "debugging",
-        "react"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "gridstack",
-      "name": "GridStack",
-      "slug": "gridstack",
-      "description": "Creador plantilla Grid",
-      "url": "https://www.npmjs.com/package/gridstack",
-      "status": "active",
-      "tags": [
-        "grid",
-        "layout",
-        "npm",
-        "javascript"
-      ],
-      "searchIndex": [
-        "GridStack",
-        "gridstack",
-        "Creador plantilla Grid",
-        "utilities",
-        "dev-tools",
-        "grid",
-        "layout",
-        "npm",
-        "javascript"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "ipquery-io",
-      "name": "ipquery.io",
-      "slug": "ipquery-io",
-      "description": "API gratuita extraer info de una IP",
-      "url": "https://ipquery.io/",
-      "status": "active",
-      "tags": [
-        "api",
-        "ip",
-        "free",
-        "lookup"
-      ],
-      "searchIndex": [
-        "ipquery.io",
-        "ipquery-io",
-        "API gratuita extraer info de una IP",
-        "utilities",
-        "dev-tools",
-        "api",
-        "ip",
-        "free",
-        "lookup"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "freemium",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "israel-casado-vps",
-      "name": "Israel Casado VPS",
-      "slug": "israel-casado-vps",
-      "description": "Guía crear VPS propio",
-      "url": "https://www.israelcasado.net/createVps/",
-      "status": "active",
-      "tags": [
-        "vps",
-        "guide",
-        "tutorial",
-        "spanish"
-      ],
-      "searchIndex": [
-        "Israel Casado VPS",
-        "israel-casado-vps",
-        "Guía crear VPS propio",
-        "utilities",
-        "general-resources",
-        "vps",
-        "guide",
-        "tutorial",
-        "spanish"
-      ],
-      "category": "utilities",
-      "subcategory": "general-resources",
-      "pricing": "free",
-      "languages": "es",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "maxun",
-      "name": "Maxun",
-      "slug": "maxun",
-      "description": "Website a API estructurada",
-      "url": "https://github.com/getmaxun/maxun",
-      "status": "active",
-      "tags": [
-        "api",
-        "scraping",
-        "automation",
-        "open-source"
-      ],
-      "searchIndex": [
-        "Maxun",
-        "maxun",
-        "Website a API estructurada",
-        "utilities",
-        "dev-tools",
-        "api",
-        "scraping",
-        "automation",
-        "open-source"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "freemium",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "npm-alternatives",
-      "name": "NPM Alternatives",
-      "slug": "npm-alternatives",
-      "description": "npms.io, npmsearch.com",
-      "url": "https://npms.io/",
-      "status": "active",
-      "tags": [
-        "npm",
-        "alternatives",
-        "packages",
-        "search"
-      ],
-      "searchIndex": [
-        "NPM Alternatives",
-        "npm-alternatives",
-        "npms.io, npmsearch.com",
-        "utilities",
-        "general-resources",
-        "npm",
-        "alternatives",
-        "packages",
-        "search"
-      ],
-      "category": "utilities",
-      "subcategory": "general-resources",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "openmontage",
-      "name": "OpenMontage",
-      "slug": "openmontage",
-      "description": "Edición video agéntico",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "status": "active",
-      "tags": [
-        "video",
-        "editing",
-        "ai",
-        "open-source"
-      ],
-      "searchIndex": [
-        "OpenMontage",
-        "openmontage",
-        "Edición video agéntico",
-        "utilities",
-        "dev-tools",
-        "video",
-        "editing",
-        "ai",
-        "open-source"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "freemium",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "openseo-github",
-      "name": "OpenSEO GitHub",
-      "slug": "openseo-github",
-      "description": "Buscador SEO open source repo",
-      "url": "https://github.com/every-app/open-seo",
-      "status": "active",
-      "tags": [
-        "seo",
-        "scraping",
-        "open-source",
-        "github"
-      ],
-      "searchIndex": [
-        "OpenSEO GitHub",
-        "openseo-github",
-        "Buscador SEO open source repo",
-        "utilities",
-        "seo-scraping",
-        "seo",
-        "scraping",
-        "open-source",
-        "github"
-      ],
-      "category": "utilities",
-      "subcategory": "seo-scraping",
-      "pricing": "freemium",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "pdfx",
-      "name": "PDFX",
-      "slug": "pdfx",
-      "description": "React PDF rápido y moderno",
-      "url": "https://pdfx.akashpise.dev/",
-      "status": "active",
-      "tags": [
-        "pdf",
-        "react",
-        "viewer",
-        "modern"
-      ],
-      "searchIndex": [
-        "PDFX",
-        "pdfx",
-        "React PDF rápido y moderno",
-        "utilities",
-        "dev-tools",
-        "pdf",
-        "react",
-        "viewer",
-        "modern"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "prismic",
-      "name": "Prismic",
-      "slug": "prismic",
-      "description": "CMS headless documentos ilimitados",
-      "url": "https://prismic.io",
-      "status": "active",
-      "tags": [
-        "cms",
-        "headless",
-        "documents",
-        "content"
-      ],
-      "searchIndex": [
-        "Prismic",
-        "prismic",
-        "CMS headless documentos ilimitados",
-        "cms",
-        "platforms",
-        "headless",
-        "documents",
-        "content"
-      ],
-      "category": "cms",
-      "subcategory": "platforms",
-      "pricing": "free",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "limits": "Documentos ilimitados, 1 usuario",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "punits-vercel-alternatives",
-      "name": "Punits Vercel Alternatives",
-      "slug": "punits-vercel-alternatives",
-      "description": "Alternativas hosting Vercel",
-      "url": "https://punits.dev/blog/vercel-hosting-when-to-use-and-alternatives/",
-      "status": "active",
-      "tags": [
-        "hosting",
-        "vercel",
-        "alternatives",
-        "comparison"
-      ],
-      "searchIndex": [
-        "Punits Vercel Alternatives",
-        "punits-vercel-alternatives",
-        "Alternativas hosting Vercel",
-        "utilities",
-        "general-resources",
-        "hosting",
-        "vercel",
-        "alternatives",
-        "comparison"
-      ],
-      "category": "utilities",
-      "subcategory": "general-resources",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "sanity",
-      "name": "Sanity",
-      "slug": "sanity",
-      "description": "CMS headless con editor real-time",
-      "url": "https://sanity.io",
-      "status": "active",
-      "tags": [
-        "cms",
-        "headless",
-        "realtime",
-        "editor"
-      ],
-      "searchIndex": [
-        "Sanity",
-        "sanity",
-        "CMS headless con editor real-time",
-        "cms",
-        "platforms",
-        "headless",
-        "realtime",
-        "editor"
-      ],
-      "category": "cms",
-      "subcategory": "platforms",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "Plan gratuito generoso",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "sentry",
-      "name": "Sentry",
-      "slug": "sentry",
-      "description": "control logs web live real",
-      "url": "https://sentry.io/welcome/",
-      "status": "active",
-      "tags": [
-        "monitoring",
-        "logs",
-        "errors"
-      ],
-      "searchIndex": [
-        "Sentry",
-        "sentry",
-        "control logs web live real",
-        "utilities",
-        "dev-tools",
-        "monitoring",
-        "logs",
-        "errors"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "simple-parallax",
-      "name": "Simple Parallax",
-      "slug": "simple-parallax",
-      "description": "Efecto parallax simple",
-      "url": "https://simpleparallax.com/",
-      "status": "active",
-      "tags": [
-        "parallax",
-        "effects",
-        "javascript",
-        "simple"
-      ],
-      "searchIndex": [
-        "Simple Parallax",
-        "simple-parallax",
-        "Efecto parallax simple",
-        "utilities",
-        "dev-tools",
-        "parallax",
-        "effects",
-        "javascript",
-        "simple"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "strapi",
-      "name": "Strapi",
-      "slug": "strapi",
-      "description": "CMS headless open source",
-      "url": "https://strapi.io",
-      "status": "active",
-      "tags": [
-        "cms",
-        "headless",
-        "open-source",
-        "nodejs"
-      ],
-      "searchIndex": [
-        "Strapi",
-        "strapi",
-        "CMS headless open source",
-        "cms",
-        "platforms",
-        "headless",
-        "open-source",
-        "nodejs"
-      ],
-      "category": "cms",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "limits": "Community edition gratis",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "stremio-web",
-      "name": "Stremio Web",
-      "slug": "stremio-web",
-      "description": "Netflix open source",
-      "url": "https://github.com/Stremio/stremio-web",
-      "status": "active",
-      "tags": [
-        "streaming",
-        "open-source",
-        "react",
-        "entertainment"
-      ],
-      "searchIndex": [
-        "Stremio Web",
-        "stremio-web",
-        "Netflix open source",
-        "utilities",
-        "dev-tools",
-        "streaming",
-        "open-source",
-        "react",
-        "entertainment"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "freemium",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "sweetalert2",
-      "name": "SweetAlert2",
-      "slug": "sweetalert2",
-      "description": "Modales bonitos y personalizables",
-      "url": "https://www.npmjs.com/package/sweetalert2",
-      "status": "active",
-      "tags": [
-        "modals",
-        "alerts",
-        "npm",
-        "javascript"
-      ],
-      "searchIndex": [
-        "SweetAlert2",
-        "sweetalert2",
-        "Modales bonitos y personalizables",
-        "utilities",
-        "dev-tools",
-        "modals",
-        "alerts",
-        "npm",
-        "javascript"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "theme-toggle",
-      "name": "Theme Toggle",
-      "slug": "theme-toggle",
-      "description": "Transición modo oscuro/día",
-      "url": "https://theme-toggle.rdsx.dev/",
-      "status": "active",
-      "tags": [
-        "theme",
-        "dark-mode",
-        "toggle",
-        "ui"
-      ],
-      "searchIndex": [
-        "Theme Toggle",
-        "theme-toggle",
-        "Transición modo oscuro/día",
-        "utilities",
-        "dev-tools",
-        "theme",
-        "dark-mode",
-        "toggle",
-        "ui"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "tinacms",
-      "name": "TinaCMS",
-      "slug": "tinacms",
-      "description": "CMS git-based open source",
-      "url": "https://tinacms.org",
-      "status": "active",
-      "tags": [
-        "cms",
-        "git",
-        "open-source",
-        "git-based"
-      ],
-      "searchIndex": [
-        "TinaCMS",
-        "tinacms",
-        "CMS git-based open source",
-        "cms",
-        "platforms",
-        "git",
-        "open-source",
-        "git-based"
-      ],
-      "category": "cms",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": "en",
-      "limits": "Open source gratis",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "top-10-repos-2025",
-      "name": "Top 10 Repos 2025",
-      "slug": "top-10-repos-2025",
-      "description": "Top 10 repos web dev",
-      "url": "https://dev.to/shayy/top-10-github-repositories-every-web-developer-should-know-in-2025-41nm",
-      "status": "active",
-      "tags": [
-        "github",
-        "repos",
-        "top",
-        "2025"
-      ],
-      "searchIndex": [
-        "Top 10 Repos 2025",
-        "top-10-repos-2025",
-        "Top 10 repos web dev",
-        "utilities",
-        "general-resources",
-        "github",
-        "repos",
-        "top",
-        "2025"
-      ],
-      "category": "utilities",
-      "subcategory": "general-resources",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "vanilla-css",
-      "name": "Vanilla CSS",
-      "slug": "vanilla-css",
-      "description": "Vanilla CSS design system",
-      "url": "https://github.com/pattespatte/vanilla-css-design-system.git",
-      "status": "active",
-      "tags": [
-        "css",
-        "design-system",
-        "vanilla",
-        "github"
-      ],
-      "searchIndex": [
-        "Vanilla CSS",
-        "vanilla-css",
-        "Vanilla CSS design system",
-        "utilities",
-        "dev-tools",
-        "css",
-        "design-system",
-        "vanilla",
-        "github"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "web-dev-resources",
-      "name": "Web Dev Resources",
-      "slug": "web-dev-resources",
-      "description": "Lista recursos web dev",
-      "url": "https://web-dev-resources.com/list/",
-      "status": "active",
-      "tags": [
-        "resources",
-        "web-dev",
-        "list",
-        "collection"
-      ],
-      "searchIndex": [
-        "Web Dev Resources",
-        "web-dev-resources",
-        "Lista recursos web dev",
-        "utilities",
-        "general-resources",
-        "resources",
-        "web-dev",
-        "list",
-        "collection"
-      ],
-      "category": "utilities",
-      "subcategory": "general-resources",
-      "pricing": "free",
-      "languages": "en",
-      "limits": "unknown",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "wordpress-com",
-      "name": "WordPress.com",
-      "slug": "wordpress-com",
-      "description": "CMS y blogging plan gratis",
-      "url": "https://wordpress.com",
-      "status": "active",
-      "tags": [
-        "cms",
-        "wordpress",
-        "blogging",
-        "free"
-      ],
-      "searchIndex": [
-        "WordPress.com",
-        "wordpress-com",
-        "CMS y blogging plan gratis",
-        "cms",
-        "platforms",
-        "wordpress",
-        "blogging",
-        "free"
-      ],
-      "category": "cms",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "limits": "Plan gratuito con subdominio",
-      "added": "2026-04-27",
-      "verified": true,
-      "noCreditCard": true
-    }
-  ]
+    "categories":  [
+                       {
+                           "id":  "utilities",
+                           "name":  "Utilities",
+                           "slug":  "utilities",
+                           "resourceCount":  37,
+                           "status":  "active"
+                       },
+                       {
+                           "id":  "cms",
+                           "name":  "Cms",
+                           "slug":  "cms",
+                           "resourceCount":  9,
+                           "status":  "active"
+                       }
+                   ],
+    "subcategories":  [
+                          {
+                              "id":  "general-resources",
+                              "name":  "General Resources",
+                              "slug":  "general-resources",
+                              "category":  "utilities",
+                              "resourceCount":  8,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "dev-tools",
+                              "name":  "Dev Tools",
+                              "slug":  "dev-tools",
+                              "category":  "utilities",
+                              "resourceCount":  27,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "platforms",
+                              "name":  "Platforms",
+                              "slug":  "platforms",
+                              "category":  "cms",
+                              "resourceCount":  9,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "seo-scraping",
+                              "name":  "Seo Scraping",
+                              "slug":  "seo-scraping",
+                              "category":  "utilities",
+                              "resourceCount":  2,
+                              "status":  "active"
+                          }
+                      ],
+    "resources":  [
+                      {
+                          "id":  "5-best-ai-repos",
+                          "name":  "5 Best AI Repos",
+                          "slug":  "5-best-ai-repos",
+                          "description":  "Top 5 repos IA",
+                          "url":  "https://dev.to/kumarmanish/5-best-github-ai-repos-to-master-ai-like-a-pro-4o82",
+                          "status":  "active",
+                          "tags":  [
+                                       "ai",
+                                       "github",
+                                       "repos",
+                                       "top"
+                                   ],
+                          "searchIndex":  [
+                                              "5 Best AI Repos",
+                                              "5-best-ai-repos",
+                                              "Top 5 repos IA",
+                                              "utilities",
+                                              "general-resources",
+                                              "ai",
+                                              "github",
+                                              "repos",
+                                              "top"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "general-resources",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "animation-css",
+                          "name":  "Animation CSS",
+                          "slug":  "animation-css",
+                          "description":  "Vanilla CSS animation",
+                          "url":  "https://codepen.io/giana/pen/BabdgjB",
+                          "status":  "active",
+                          "tags":  [
+                                       "css",
+                                       "animation",
+                                       "vanilla",
+                                       "codepen"
+                                   ],
+                          "searchIndex":  [
+                                              "Animation CSS",
+                                              "animation-css",
+                                              "Vanilla CSS animation",
+                                              "utilities",
+                                              "dev-tools",
+                                              "css",
+                                              "animation",
+                                              "vanilla",
+                                              "codepen"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "awesome-cv",
+                          "name":  "Awesome CV",
+                          "slug":  "awesome-cv",
+                          "description":  "Plantillas CV LaTeX",
+                          "url":  "https://github.com/posquit0/Awesome-CV",
+                          "status":  "active",
+                          "tags":  [
+                                       "cv",
+                                       "latex",
+                                       "templates",
+                                       "resume"
+                                   ],
+                          "searchIndex":  [
+                                              "Awesome CV",
+                                              "awesome-cv",
+                                              "Plantillas CV LaTeX",
+                                              "utilities",
+                                              "dev-tools",
+                                              "cv",
+                                              "latex",
+                                              "templates",
+                                              "resume"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "en",
+                                            "es"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "bearnie-dev",
+                          "name":  "Bearnie Dev",
+                          "slug":  "bearnie-dev",
+                          "description":  "Recursos y herramientas dev",
+                          "url":  "https://bearnie.dev/",
+                          "status":  "active",
+                          "tags":  [
+                                       "utilities",
+                                       "dev-tools",
+                                       "y-utilidades-herramientas",
+                                       "y-i-herramientas-dev",
+                                       "bearnie-dev"
+                                   ],
+                          "searchIndex":  [
+                                              "Bearnie Dev",
+                                              "bearnie-dev",
+                                              "Recursos y herramientas dev",
+                                              "utilities",
+                                              "dev-tools",
+                                              "y-utilidades-herramientas",
+                                              "y-i-herramientas-dev"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "boneyard",
+                          "name":  "Boneyard",
+                          "slug":  "boneyard",
+                          "description":  "Skeleton components",
+                          "url":  "https://github.com/0xGF/boneyard",
+                          "status":  "active",
+                          "tags":  [
+                                       "skeleton",
+                                       "components",
+                                       "react",
+                                       "github"
+                                   ],
+                          "searchIndex":  [
+                                              "Boneyard",
+                                              "boneyard",
+                                              "Skeleton components",
+                                              "utilities",
+                                              "dev-tools",
+                                              "skeleton",
+                                              "components",
+                                              "react",
+                                              "github"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "bsky-comments",
+                          "name":  "Bsky Comments",
+                          "slug":  "bsky-comments",
+                          "description":  "Comentarios con Bluesky en web",
+                          "url":  "https://github.com/florianschepp/bsky-comments",
+                          "status":  "active",
+                          "tags":  [
+                                       "utilities",
+                                       "dev-tools",
+                                       "y-utilidades-herramientas",
+                                       "y-i-herramientas-dev",
+                                       "bsky-comments"
+                                   ],
+                          "searchIndex":  [
+                                              "Bsky Comments",
+                                              "bsky-comments",
+                                              "Comentarios con Bluesky en web",
+                                              "utilities",
+                                              "dev-tools",
+                                              "y-utilidades-herramientas",
+                                              "y-i-herramientas-dev"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "buzz-whisper",
+                          "name":  "Buzz Whisper",
+                          "slug":  "buzz-whisper",
+                          "description":  "Transcripción audio/video",
+                          "url":  "https://github.com/chidiwilliams/buzz",
+                          "status":  "active",
+                          "tags":  [
+                                       "transcription",
+                                       "audio",
+                                       "video",
+                                       "whisper"
+                                   ],
+                          "searchIndex":  [
+                                              "Buzz Whisper",
+                                              "buzz-whisper",
+                                              "Transcripción audio/video",
+                                              "utilities",
+                                              "dev-tools",
+                                              "transcription",
+                                              "audio",
+                                              "video",
+                                              "whisper"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "en",
+                                            "es"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "canvas-confetti",
+                          "name":  "Canvas Confetti",
+                          "slug":  "canvas-confetti",
+                          "description":  "Efectos confetti en canvas",
+                          "url":  "https://www.npmjs.com/package/canvas-confetti",
+                          "status":  "active",
+                          "tags":  [
+                                       "canvas",
+                                       "effects",
+                                       "npm",
+                                       "javascript"
+                                   ],
+                          "searchIndex":  [
+                                              "Canvas Confetti",
+                                              "canvas-confetti",
+                                              "Efectos confetti en canvas",
+                                              "utilities",
+                                              "dev-tools",
+                                              "canvas",
+                                              "effects",
+                                              "npm",
+                                              "javascript"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "contentful",
+                          "name":  "Contentful",
+                          "slug":  "contentful",
+                          "description":  "CMS headless 5 usuarios gratis",
+                          "url":  "https://www.contentful.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "cms",
+                                       "headless",
+                                       "saas",
+                                       "content"
+                                   ],
+                          "searchIndex":  [
+                                              "Contentful",
+                                              "contentful",
+                                              "CMS headless 5 usuarios gratis",
+                                              "cms",
+                                              "platforms",
+                                              "headless",
+                                              "saas",
+                                              "content"
+                                          ],
+                          "category":  "cms",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "en",
+                                            "es"
+                                        ],
+                          "limits":  "5 usuarios, contenido ilimitado",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "datagouv-mcp",
+                          "name":  "Datagouv MCP",
+                          "slug":  "datagouv-mcp",
+                          "description":  "MCP datos gobierno francés",
+                          "url":  "https://github.com/datagouv/datagouv-mcp",
+                          "status":  "active",
+                          "tags":  [
+                                       "mcp",
+                                       "data",
+                                       "government",
+                                       "france"
+                                   ],
+                          "searchIndex":  [
+                                              "Datagouv MCP",
+                                              "datagouv-mcp",
+                                              "MCP datos gobierno francés",
+                                              "utilities",
+                                              "dev-tools",
+                                              "mcp",
+                                              "data",
+                                              "government",
+                                              "france"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "fr",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "datatype",
+                          "name":  "DataType",
+                          "slug":  "datatype",
+                          "description":  "Visualizador tipos datos interactivo",
+                          "url":  "https://franktisellano.github.io/datatype/",
+                          "status":  "active",
+                          "tags":  [
+                                       "utilities",
+                                       "dev-tools",
+                                       "y-utilidades-herramientas",
+                                       "y-i-herramientas-dev",
+                                       "datatype"
+                                   ],
+                          "searchIndex":  [
+                                              "DataType",
+                                              "datatype",
+                                              "Visualizador tipos datos interactivo",
+                                              "utilities",
+                                              "dev-tools",
+                                              "y-utilidades-herramientas",
+                                              "y-i-herramientas-dev"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "directus",
+                          "name":  "Directus",
+                          "slug":  "directus",
+                          "description":  "CMS y backend open source",
+                          "url":  "https://directus.io",
+                          "status":  "active",
+                          "tags":  [
+                                       "cms",
+                                       "backend",
+                                       "open-source",
+                                       "headless"
+                                   ],
+                          "searchIndex":  [
+                                              "Directus",
+                                              "directus",
+                                              "CMS y backend open source",
+                                              "cms",
+                                              "platforms",
+                                              "backend",
+                                              "open-source",
+                                              "headless"
+                                          ],
+                          "category":  "cms",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "en",
+                                            "es"
+                                        ],
+                          "limits":  "Self-hosted gratis",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "emdash",
+                          "name":  "Emdash",
+                          "slug":  "emdash",
+                          "description":  "CMS headless moderno open source",
+                          "url":  "https://github.com/emdash-cms/emdash",
+                          "status":  "active",
+                          "tags":  [
+                                       "cms",
+                                       "platforms",
+                                       "y-cms-content",
+                                       "emdash"
+                                   ],
+                          "searchIndex":  [
+                                              "Emdash",
+                                              "emdash",
+                                              "CMS headless moderno open source",
+                                              "cms",
+                                              "platforms",
+                                              "y-cms-content"
+                                          ],
+                          "category":  "cms",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "evershop",
+                          "name":  "EverShop",
+                          "slug":  "evershop",
+                          "description":  "eCommerce plantilla React",
+                          "url":  "https://github.com/evershopcommerce/evershop",
+                          "status":  "active",
+                          "tags":  [
+                                       "ecommerce",
+                                       "react",
+                                       "template",
+                                       "open-source"
+                                   ],
+                          "searchIndex":  [
+                                              "EverShop",
+                                              "evershop",
+                                              "eCommerce plantilla React",
+                                              "utilities",
+                                              "dev-tools",
+                                              "ecommerce",
+                                              "react",
+                                              "template",
+                                              "open-source"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "freemium",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "firecrawl",
+                          "name":  "FireCrawl",
+                          "slug":  "firecrawl",
+                          "description":  "API para buscar y scrapear web a escala",
+                          "url":  "https://github.com/firecrawl",
+                          "status":  "active",
+                          "tags":  [
+                                       "api",
+                                       "scraping",
+                                       "search",
+                                       "open-source"
+                                   ],
+                          "searchIndex":  [
+                                              "FireCrawl",
+                                              "firecrawl",
+                                              "API para buscar y scrapear web a escala",
+                                              "utilities",
+                                              "seo-scraping",
+                                              "api",
+                                              "scraping",
+                                              "search",
+                                              "open-source"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "seo-scraping",
+                          "pricing":  "freemium",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "free-for-dev",
+                          "name":  "Free For Dev",
+                          "slug":  "free-for-dev",
+                          "description":  "Recursos gratis para devs",
+                          "url":  "https://free-for.dev/",
+                          "status":  "active",
+                          "tags":  [
+                                       "free",
+                                       "dev",
+                                       "resources",
+                                       "list"
+                                   ],
+                          "searchIndex":  [
+                                              "Free For Dev",
+                                              "free-for-dev",
+                                              "Recursos gratis para devs",
+                                              "utilities",
+                                              "general-resources",
+                                              "free",
+                                              "dev",
+                                              "resources",
+                                              "list"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "general-resources",
+                          "pricing":  "freemium",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "frontend-resources",
+                          "name":  "Frontend Resources",
+                          "slug":  "frontend-resources",
+                          "description":  "Recursos frontend GitHub",
+                          "url":  "https://github.com/mrcodedev/frontend-developer-resources",
+                          "status":  "active",
+                          "tags":  [
+                                       "frontend",
+                                       "resources",
+                                       "github",
+                                       "collection"
+                                   ],
+                          "searchIndex":  [
+                                              "Frontend Resources",
+                                              "frontend-resources",
+                                              "Recursos frontend GitHub",
+                                              "utilities",
+                                              "general-resources",
+                                              "frontend",
+                                              "resources",
+                                              "github",
+                                              "collection"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "general-resources",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "ghost",
+                          "name":  "Ghost",
+                          "slug":  "ghost",
+                          "description":  "Plataforma publishing moderna",
+                          "url":  "https://ghost.org",
+                          "status":  "active",
+                          "tags":  [
+                                       "cms",
+                                       "ghost",
+                                       "publishing",
+                                       "modern"
+                                   ],
+                          "searchIndex":  [
+                                              "Ghost",
+                                              "ghost",
+                                              "Plataforma publishing moderna",
+                                              "cms",
+                                              "platforms",
+                                              "publishing",
+                                              "modern"
+                                          ],
+                          "category":  "cms",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "en",
+                                            "es"
+                                        ],
+                          "limits":  "Trial 14 días, self-hosted gratis",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "graphite",
+                          "name":  "Graphite",
+                          "slug":  "graphite",
+                          "description":  "Errores comunes Next.js",
+                          "url":  "https://graphite.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "nextjs",
+                                       "errors",
+                                       "debugging",
+                                       "react"
+                                   ],
+                          "searchIndex":  [
+                                              "Graphite",
+                                              "graphite",
+                                              "Errores comunes Next.js",
+                                              "utilities",
+                                              "dev-tools",
+                                              "nextjs",
+                                              "errors",
+                                              "debugging",
+                                              "react"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "gridstack",
+                          "name":  "GridStack",
+                          "slug":  "gridstack",
+                          "description":  "Creador plantilla Grid",
+                          "url":  "https://www.npmjs.com/package/gridstack",
+                          "status":  "active",
+                          "tags":  [
+                                       "grid",
+                                       "layout",
+                                       "npm",
+                                       "javascript"
+                                   ],
+                          "searchIndex":  [
+                                              "GridStack",
+                                              "gridstack",
+                                              "Creador plantilla Grid",
+                                              "utilities",
+                                              "dev-tools",
+                                              "grid",
+                                              "layout",
+                                              "npm",
+                                              "javascript"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "ipquery-io",
+                          "name":  "ipquery.io",
+                          "slug":  "ipquery-io",
+                          "description":  "API gratuita extraer info de una IP",
+                          "url":  "https://ipquery.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "api",
+                                       "ip",
+                                       "free",
+                                       "lookup"
+                                   ],
+                          "searchIndex":  [
+                                              "ipquery.io",
+                                              "ipquery-io",
+                                              "API gratuita extraer info de una IP",
+                                              "utilities",
+                                              "dev-tools",
+                                              "api",
+                                              "ip",
+                                              "free",
+                                              "lookup"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "freemium",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "israel-casado-vps",
+                          "name":  "Israel Casado VPS",
+                          "slug":  "israel-casado-vps",
+                          "description":  "Guía crear VPS propio",
+                          "url":  "https://www.israelcasado.net/createVps/",
+                          "status":  "active",
+                          "tags":  [
+                                       "vps",
+                                       "guide",
+                                       "tutorial",
+                                       "spanish"
+                                   ],
+                          "searchIndex":  [
+                                              "Israel Casado VPS",
+                                              "israel-casado-vps",
+                                              "Guía crear VPS propio",
+                                              "utilities",
+                                              "general-resources",
+                                              "vps",
+                                              "guide",
+                                              "tutorial",
+                                              "spanish"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "general-resources",
+                          "pricing":  "free",
+                          "languages":  "es",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "maxun",
+                          "name":  "Maxun",
+                          "slug":  "maxun",
+                          "description":  "Website a API estructurada",
+                          "url":  "https://github.com/getmaxun/maxun",
+                          "status":  "active",
+                          "tags":  [
+                                       "api",
+                                       "scraping",
+                                       "automation",
+                                       "open-source"
+                                   ],
+                          "searchIndex":  [
+                                              "Maxun",
+                                              "maxun",
+                                              "Website a API estructurada",
+                                              "utilities",
+                                              "dev-tools",
+                                              "api",
+                                              "scraping",
+                                              "automation",
+                                              "open-source"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "freemium",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "monosketch",
+                          "name":  "MonoSketch",
+                          "slug":  "monosketch",
+                          "description":  "Herramienta diagramas ASCII online",
+                          "url":  "https://monosketch.io",
+                          "status":  "active",
+                          "tags":  [
+                                       "utilities",
+                                       "dev-tools",
+                                       "y-utilidades-herramientas",
+                                       "y-i-herramientas-dev",
+                                       "monosketch"
+                                   ],
+                          "searchIndex":  [
+                                              "MonoSketch",
+                                              "monosketch",
+                                              "Herramienta diagramas ASCII online",
+                                              "utilities",
+                                              "dev-tools",
+                                              "y-utilidades-herramientas",
+                                              "y-i-herramientas-dev"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "npm-alternatives",
+                          "name":  "NPM Alternatives",
+                          "slug":  "npm-alternatives",
+                          "description":  "npms.io, npmsearch.com",
+                          "url":  "https://npms.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "npm",
+                                       "alternatives",
+                                       "packages",
+                                       "search"
+                                   ],
+                          "searchIndex":  [
+                                              "NPM Alternatives",
+                                              "npm-alternatives",
+                                              "npms.io, npmsearch.com",
+                                              "utilities",
+                                              "general-resources",
+                                              "npm",
+                                              "alternatives",
+                                              "packages",
+                                              "search"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "general-resources",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "openmontage",
+                          "name":  "OpenMontage",
+                          "slug":  "openmontage",
+                          "description":  "Edición video agéntico",
+                          "url":  "https://github.com/calesthio/OpenMontage",
+                          "status":  "active",
+                          "tags":  [
+                                       "video",
+                                       "editing",
+                                       "ai",
+                                       "open-source"
+                                   ],
+                          "searchIndex":  [
+                                              "OpenMontage",
+                                              "openmontage",
+                                              "Edición video agéntico",
+                                              "utilities",
+                                              "dev-tools",
+                                              "video",
+                                              "editing",
+                                              "ai",
+                                              "open-source"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "freemium",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "openseo-github",
+                          "name":  "OpenSEO GitHub",
+                          "slug":  "openseo-github",
+                          "description":  "Buscador SEO open source repo",
+                          "url":  "https://github.com/every-app/open-seo",
+                          "status":  "active",
+                          "tags":  [
+                                       "seo",
+                                       "scraping",
+                                       "open-source",
+                                       "github"
+                                   ],
+                          "searchIndex":  [
+                                              "OpenSEO GitHub",
+                                              "openseo-github",
+                                              "Buscador SEO open source repo",
+                                              "utilities",
+                                              "seo-scraping",
+                                              "seo",
+                                              "scraping",
+                                              "open-source",
+                                              "github"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "seo-scraping",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "en",
+                                            "es"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "pdfx",
+                          "name":  "PDFX",
+                          "slug":  "pdfx",
+                          "description":  "React PDF rápido y moderno",
+                          "url":  "https://pdfx.akashpise.dev/",
+                          "status":  "active",
+                          "tags":  [
+                                       "pdf",
+                                       "react",
+                                       "viewer",
+                                       "modern"
+                                   ],
+                          "searchIndex":  [
+                                              "PDFX",
+                                              "pdfx",
+                                              "React PDF rápido y moderno",
+                                              "utilities",
+                                              "dev-tools",
+                                              "pdf",
+                                              "react",
+                                              "viewer",
+                                              "modern"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "pretext",
+                          "name":  "Pretext",
+                          "slug":  "pretext",
+                          "description":  "Preprocessor texto ligero para web",
+                          "url":  "https://github.com/chenglou/pretext",
+                          "status":  "active",
+                          "tags":  [
+                                       "utilities",
+                                       "dev-tools",
+                                       "y-utilidades-herramientas",
+                                       "y-i-herramientas-dev",
+                                       "pretext"
+                                   ],
+                          "searchIndex":  [
+                                              "Pretext",
+                                              "pretext",
+                                              "Preprocessor texto ligero para web",
+                                              "utilities",
+                                              "dev-tools",
+                                              "y-utilidades-herramientas",
+                                              "y-i-herramientas-dev"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "prismic",
+                          "name":  "Prismic",
+                          "slug":  "prismic",
+                          "description":  "CMS headless documentos ilimitados",
+                          "url":  "https://prismic.io",
+                          "status":  "active",
+                          "tags":  [
+                                       "cms",
+                                       "headless",
+                                       "documents",
+                                       "content"
+                                   ],
+                          "searchIndex":  [
+                                              "Prismic",
+                                              "prismic",
+                                              "CMS headless documentos ilimitados",
+                                              "cms",
+                                              "platforms",
+                                              "headless",
+                                              "documents",
+                                              "content"
+                                          ],
+                          "category":  "cms",
+                          "subcategory":  "platforms",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "en",
+                                            "es"
+                                        ],
+                          "limits":  "Documentos ilimitados, 1 usuario",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "punits-vercel-alternatives",
+                          "name":  "Punits Vercel Alternatives",
+                          "slug":  "punits-vercel-alternatives",
+                          "description":  "Alternativas hosting Vercel",
+                          "url":  "https://punits.dev/blog/vercel-hosting-when-to-use-and-alternatives/",
+                          "status":  "active",
+                          "tags":  [
+                                       "hosting",
+                                       "vercel",
+                                       "alternatives",
+                                       "comparison"
+                                   ],
+                          "searchIndex":  [
+                                              "Punits Vercel Alternatives",
+                                              "punits-vercel-alternatives",
+                                              "Alternativas hosting Vercel",
+                                              "utilities",
+                                              "general-resources",
+                                              "hosting",
+                                              "vercel",
+                                              "alternatives",
+                                              "comparison"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "general-resources",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "sanity",
+                          "name":  "Sanity",
+                          "slug":  "sanity",
+                          "description":  "CMS headless con editor real-time",
+                          "url":  "https://sanity.io",
+                          "status":  "active",
+                          "tags":  [
+                                       "cms",
+                                       "headless",
+                                       "realtime",
+                                       "editor"
+                                   ],
+                          "searchIndex":  [
+                                              "Sanity",
+                                              "sanity",
+                                              "CMS headless con editor real-time",
+                                              "cms",
+                                              "platforms",
+                                              "headless",
+                                              "realtime",
+                                              "editor"
+                                          ],
+                          "category":  "cms",
+                          "subcategory":  "platforms",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "Plan gratuito generoso",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "sentry",
+                          "name":  "Sentry",
+                          "slug":  "sentry",
+                          "description":  "control logs web live real",
+                          "url":  "https://sentry.io/welcome/",
+                          "status":  "active",
+                          "tags":  [
+                                       "monitoring",
+                                       "logs",
+                                       "errors"
+                                   ],
+                          "searchIndex":  [
+                                              "Sentry",
+                                              "sentry",
+                                              "control logs web live real",
+                                              "utilities",
+                                              "dev-tools",
+                                              "monitoring",
+                                              "logs",
+                                              "errors"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "en",
+                                            "es"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "simple-parallax",
+                          "name":  "Simple Parallax",
+                          "slug":  "simple-parallax",
+                          "description":  "Efecto parallax simple",
+                          "url":  "https://simpleparallax.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "parallax",
+                                       "effects",
+                                       "javascript",
+                                       "simple"
+                                   ],
+                          "searchIndex":  [
+                                              "Simple Parallax",
+                                              "simple-parallax",
+                                              "Efecto parallax simple",
+                                              "utilities",
+                                              "dev-tools",
+                                              "parallax",
+                                              "effects",
+                                              "javascript",
+                                              "simple"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "strapi",
+                          "name":  "Strapi",
+                          "slug":  "strapi",
+                          "description":  "CMS headless open source",
+                          "url":  "https://strapi.io",
+                          "status":  "active",
+                          "tags":  [
+                                       "cms",
+                                       "headless",
+                                       "open-source",
+                                       "nodejs"
+                                   ],
+                          "searchIndex":  [
+                                              "Strapi",
+                                              "strapi",
+                                              "CMS headless open source",
+                                              "cms",
+                                              "platforms",
+                                              "headless",
+                                              "open-source",
+                                              "nodejs"
+                                          ],
+                          "category":  "cms",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "en",
+                                            "es"
+                                        ],
+                          "limits":  "Community edition gratis",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "stremio-web",
+                          "name":  "Stremio Web",
+                          "slug":  "stremio-web",
+                          "description":  "Netflix open source",
+                          "url":  "https://github.com/Stremio/stremio-web",
+                          "status":  "active",
+                          "tags":  [
+                                       "streaming",
+                                       "open-source",
+                                       "react",
+                                       "entertainment"
+                                   ],
+                          "searchIndex":  [
+                                              "Stremio Web",
+                                              "stremio-web",
+                                              "Netflix open source",
+                                              "utilities",
+                                              "dev-tools",
+                                              "streaming",
+                                              "open-source",
+                                              "react",
+                                              "entertainment"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "en",
+                                            "es"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "sweetalert2",
+                          "name":  "SweetAlert2",
+                          "slug":  "sweetalert2",
+                          "description":  "Modales bonitos y personalizables",
+                          "url":  "https://www.npmjs.com/package/sweetalert2",
+                          "status":  "active",
+                          "tags":  [
+                                       "modals",
+                                       "alerts",
+                                       "npm",
+                                       "javascript"
+                                   ],
+                          "searchIndex":  [
+                                              "SweetAlert2",
+                                              "sweetalert2",
+                                              "Modales bonitos y personalizables",
+                                              "utilities",
+                                              "dev-tools",
+                                              "modals",
+                                              "alerts",
+                                              "npm",
+                                              "javascript"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "en",
+                                            "es"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "testing-opengraph",
+                          "name":  "Testing OpenGraph",
+                          "slug":  "testing-opengraph",
+                          "description":  "Testear OpenGraph desde CLI",
+                          "url":  "https://simonhartcher.com/posts/2026-04-15-testing-opengraph-on-localhost-from-the-cli/",
+                          "status":  "active",
+                          "tags":  [
+                                       "utilities",
+                                       "dev-tools",
+                                       "y-utilidades-herramientas",
+                                       "y-i-herramientas-dev",
+                                       "testing-opengraph"
+                                   ],
+                          "searchIndex":  [
+                                              "Testing OpenGraph",
+                                              "testing-opengraph",
+                                              "Testear OpenGraph desde CLI",
+                                              "utilities",
+                                              "dev-tools",
+                                              "y-utilidades-herramientas",
+                                              "y-i-herramientas-dev"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "theme-toggle",
+                          "name":  "Theme Toggle",
+                          "slug":  "theme-toggle",
+                          "description":  "Transición modo oscuro/día",
+                          "url":  "https://theme-toggle.rdsx.dev/",
+                          "status":  "active",
+                          "tags":  [
+                                       "theme",
+                                       "dark-mode",
+                                       "toggle",
+                                       "ui"
+                                   ],
+                          "searchIndex":  [
+                                              "Theme Toggle",
+                                              "theme-toggle",
+                                              "Transición modo oscuro/día",
+                                              "utilities",
+                                              "dev-tools",
+                                              "theme",
+                                              "dark-mode",
+                                              "toggle",
+                                              "ui"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "tiks",
+                          "name":  "Tiks",
+                          "slug":  "tiks",
+                          "description":  "Herramienta dev interfaz minimal",
+                          "url":  "https://rexa-developer.github.io/tiks/",
+                          "status":  "active",
+                          "tags":  [
+                                       "utilities",
+                                       "dev-tools",
+                                       "y-utilidades-herramientas",
+                                       "y-i-herramientas-dev",
+                                       "tiks"
+                                   ],
+                          "searchIndex":  [
+                                              "Tiks",
+                                              "tiks",
+                                              "Herramienta dev interfaz minimal",
+                                              "utilities",
+                                              "dev-tools",
+                                              "y-utilidades-herramientas",
+                                              "y-i-herramientas-dev"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "tinacms",
+                          "name":  "TinaCMS",
+                          "slug":  "tinacms",
+                          "description":  "CMS git-based open source",
+                          "url":  "https://tinacms.org",
+                          "status":  "active",
+                          "tags":  [
+                                       "cms",
+                                       "git",
+                                       "open-source",
+                                       "git-based"
+                                   ],
+                          "searchIndex":  [
+                                              "TinaCMS",
+                                              "tinacms",
+                                              "CMS git-based open source",
+                                              "cms",
+                                              "platforms",
+                                              "git",
+                                              "open-source",
+                                              "git-based"
+                                          ],
+                          "category":  "cms",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  "en",
+                          "limits":  "Open source gratis",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "top-10-repos-2025",
+                          "name":  "Top 10 Repos 2025",
+                          "slug":  "top-10-repos-2025",
+                          "description":  "Top 10 repos web dev",
+                          "url":  "https://dev.to/shayy/top-10-github-repositories-every-web-developer-should-know-in-2025-41nm",
+                          "status":  "active",
+                          "tags":  [
+                                       "github",
+                                       "repos",
+                                       "top",
+                                       "2025"
+                                   ],
+                          "searchIndex":  [
+                                              "Top 10 Repos 2025",
+                                              "top-10-repos-2025",
+                                              "Top 10 repos web dev",
+                                              "utilities",
+                                              "general-resources",
+                                              "github",
+                                              "repos",
+                                              "top",
+                                              "2025"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "general-resources",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "vanilla-css",
+                          "name":  "Vanilla CSS",
+                          "slug":  "vanilla-css",
+                          "description":  "Vanilla CSS design system",
+                          "url":  "https://github.com/pattespatte/vanilla-css-design-system.git",
+                          "status":  "active",
+                          "tags":  [
+                                       "css",
+                                       "design-system",
+                                       "vanilla",
+                                       "github"
+                                   ],
+                          "searchIndex":  [
+                                              "Vanilla CSS",
+                                              "vanilla-css",
+                                              "Vanilla CSS design system",
+                                              "utilities",
+                                              "dev-tools",
+                                              "css",
+                                              "design-system",
+                                              "vanilla",
+                                              "github"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "web-dev-resources",
+                          "name":  "Web Dev Resources",
+                          "slug":  "web-dev-resources",
+                          "description":  "Lista recursos web dev",
+                          "url":  "https://web-dev-resources.com/list/",
+                          "status":  "active",
+                          "tags":  [
+                                       "resources",
+                                       "web-dev",
+                                       "list",
+                                       "collection"
+                                   ],
+                          "searchIndex":  [
+                                              "Web Dev Resources",
+                                              "web-dev-resources",
+                                              "Lista recursos web dev",
+                                              "utilities",
+                                              "general-resources",
+                                              "resources",
+                                              "web-dev",
+                                              "list",
+                                              "collection"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "general-resources",
+                          "pricing":  "free",
+                          "languages":  "en",
+                          "limits":  "unknown",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "wordpress-com",
+                          "name":  "WordPress.com",
+                          "slug":  "wordpress-com",
+                          "description":  "CMS y blogging plan gratis",
+                          "url":  "https://wordpress.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "cms",
+                                       "wordpress",
+                                       "blogging",
+                                       "free"
+                                   ],
+                          "searchIndex":  [
+                                              "WordPress.com",
+                                              "wordpress-com",
+                                              "CMS y blogging plan gratis",
+                                              "cms",
+                                              "platforms",
+                                              "wordpress",
+                                              "blogging",
+                                              "free"
+                                          ],
+                          "category":  "cms",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "en",
+                                            "es"
+                                        ],
+                          "limits":  "Plan gratuito con subdominio",
+                          "added":  "2026-04-27",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "xml-comparator",
+                          "name":  "XML Comparator",
+                          "slug":  "xml-comparator",
+                          "description":  "Comparador XML online gratuito",
+                          "url":  "https://www.xmlcomparator.xyz/",
+                          "status":  "active",
+                          "tags":  [
+                                       "utilities",
+                                       "dev-tools",
+                                       "y-utilidades-herramientas",
+                                       "y-i-herramientas-dev",
+                                       "xml-comparator"
+                                   ],
+                          "searchIndex":  [
+                                              "XML Comparator",
+                                              "xml-comparator",
+                                              "Comparador XML online gratuito",
+                                              "utilities",
+                                              "dev-tools",
+                                              "y-utilidades-herramientas",
+                                              "y-i-herramientas-dev"
+                                          ],
+                          "category":  "utilities",
+                          "subcategory":  "dev-tools",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      }
+                  ]
 }

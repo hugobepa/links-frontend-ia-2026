@@ -1,961 +1,961 @@
 {
-  "tags": {
-    "3d": {
-      "count": 2,
-      "color": "#059669",
-      "description": "Etiqueta 3d"
-    },
-    "adobe": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta adobe"
-    },
-    "agent": {
-      "count": 4,
-      "color": "#65a30d",
-      "description": "Etiqueta agent"
-    },
-    "ai": {
-      "count": 38,
-      "color": "#dc2626",
-      "description": "Etiqueta ai"
-    },
-    "alibaba": {
-      "count": 3,
-      "color": "#2563eb",
-      "description": "Etiqueta alibaba"
-    },
-    "alternative": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta alternative"
-    },
-    "animation": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta animation"
-    },
-    "anthropic": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta anthropic"
-    },
-    "assistant": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta assistant"
-    },
-    "automaton": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta automaton"
-    },
-    "autonomous": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta autonomous"
-    },
-    "baidu": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta baidu"
-    },
-    "benchmark": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta benchmark"
-    },
-    "builder": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta builder"
-    },
-    "business": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta business"
-    },
-    "bytedance": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta bytedance"
-    },
-    "chatbot": {
-      "count": 3,
-      "color": "#059669",
-      "description": "Etiqueta chatbot"
-    },
-    "china": {
-      "count": 8,
-      "color": "#0891b2",
-      "description": "Etiqueta china"
-    },
-    "coding": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta coding"
-    },
-    "commercial": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta commercial"
-    },
-    "comparison": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta comparison"
-    },
-    "competitive": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta competitive"
-    },
-    "complete": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta complete"
-    },
-    "conversation": {
-      "count": 3,
-      "color": "#65a30d",
-      "description": "Etiqueta conversation"
-    },
-    "copilot": {
-      "count": 2,
-      "color": "#dc2626",
-      "description": "Etiqueta copilot"
-    },
-    "data": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta data"
-    },
-    "design": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta design"
-    },
-    "development": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta development"
-    },
-    "editing": {
-      "count": 3,
-      "color": "#2563eb",
-      "description": "Etiqueta editing"
-    },
-    "face-swap": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta face-swap"
-    },
-    "fast": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta fast"
-    },
-    "free": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta free"
-    },
-    "freemium": {
-      "count": 7,
-      "color": "#db2777",
-      "description": "Etiqueta freemium"
-    },
-    "general": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta general"
-    },
-    "generation": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta generation"
-    },
-    "github": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta github"
-    },
-    "google": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta google"
-    },
-    "hyperrealistic": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta hyperrealistic"
-    },
-    "image": {
-      "count": 8,
-      "color": "#0891b2",
-      "description": "Etiqueta image"
-    },
-    "inflection": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta inflection"
-    },
-    "influencer": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta influencer"
-    },
-    "integrated": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta integrated"
-    },
-    "integration": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta integration"
-    },
-    "llm": {
-      "count": 5,
-      "color": "#0891b2",
-      "description": "Etiqueta llm"
-    },
-    "microsoft": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta microsoft"
-    },
-    "model": {
-      "count": 3,
-      "color": "#ea580c",
-      "description": "Etiqueta model"
-    },
-    "models": {
-      "count": 2,
-      "color": "#7c3aed",
-      "description": "Etiqueta models"
-    },
-    "monetization": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta monetization"
-    },
-    "moonshot": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta moonshot"
-    },
-    "multi-agent": {
-      "count": 2,
-      "color": "#65a30d",
-      "description": "Etiqueta multi-agent"
-    },
-    "multimodal": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta multimodal"
-    },
-    "offers": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta offers"
-    },
-    "open-source": {
-      "count": 4,
-      "color": "#4f46e5",
-      "description": "Etiqueta open-source"
-    },
-    "openai": {
-      "count": 2,
-      "color": "#4f46e5",
-      "description": "Etiqueta openai"
-    },
-    "personal": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta personal"
-    },
-    "premium": {
-      "count": 4,
-      "color": "#65a30d",
-      "description": "Etiqueta premium"
-    },
-    "professional": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta professional"
-    },
-    "programming": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta programming"
-    },
-    "realistic": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta realistic"
-    },
-    "realtime": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta realtime"
-    },
-    "scraping": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta scraping"
-    },
-    "tencent": {
-      "count": 2,
-      "color": "#d97706",
-      "description": "Etiqueta tencent"
-    },
-    "text": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta text"
-    },
-    "tool": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta tool"
-    },
-    "typography": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta typography"
-    },
-    "video": {
-      "count": 7,
-      "color": "#0891b2",
-      "description": "Etiqueta video"
-    },
-    "vscode": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta vscode"
-    },
-    "web": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta web"
-    },
-    "xai": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta xai"
-    },
-    "zhipu": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta zhipu"
-    }
-  },
-  "searchIndex": {
-    "fields": [
-      {
-        "name": "name",
-        "weight": 3,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "description",
-        "weight": 2,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "tags",
-        "weight": 2,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "category",
-        "weight": 1,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "subcategory",
-        "weight": 1,
-        "encode": "forward",
-        "tokenize": "forward"
-      }
-    ],
-    "entries": [
-      {
-        "id": "adobe-firefly",
-        "slug": "adobe-firefly",
-        "terms": [
-          "Adobe Firefly",
-          "adobe-firefly",
-          "Seguro uso comercial, edición pro",
-          "ai",
-          "image-generation",
-          "image",
-          "adobe",
-          "commercial",
-          "freemium"
-        ]
-      },
-      {
-        "id": "ai-face-swap",
-        "slug": "aifaceswap",
-        "terms": [
-          "AIFaceSwap",
-          "aifaceswap",
-          "Face Swap IA",
-          "ai",
-          "china",
-          "face-swap",
-          "image",
-          "editing"
-        ]
-      },
-      {
-        "id": "antigravity",
-        "slug": "antigravity",
-        "terms": [
-          "Antigravity",
-          "antigravity",
-          "Herramienta de desarrollo IA",
-          "ai",
-          "development",
-          "tool"
-        ]
-      },
-      {
-        "id": "apob-ai",
-        "slug": "apob-ai",
-        "terms": [
-          "Apob AI",
-          "apob-ai",
-          "Influencer IA monetizar",
-          "ai",
-          "china",
-          "influencer",
-          "monetization"
-        ]
-      },
-      {
-        "id": "arena-ai",
-        "slug": "arena-ai",
-        "terms": [
-          "Arena AI",
-          "arena-ai",
-          "Comparador modelos IA",
-          "ai",
-          "china",
-          "comparison",
-          "models",
-          "benchmark"
-        ]
-      },
-      {
-        "id": "chatgpt",
-        "slug": "chatgpt",
-        "terms": [
-          "ChatGPT",
-          "chatgpt",
-          "Asistente IA general de OpenAI",
-          "ai",
-          "assistants",
-          "openai",
-          "chatbot",
-          "llm",
-          "general"
-        ]
-      },
-      {
-        "id": "claude",
-        "slug": "claude",
-        "terms": [
-          "Claude",
-          "claude",
-          "Asistente conversacional avanzado Anthropic",
-          "ai",
-          "assistants",
-          "chatbot",
-          "anthropic",
-          "llm",
-          "conversation",
-          "coding"
-        ]
-      },
-      {
-        "id": "copilot",
-        "slug": "copilot",
-        "terms": [
-          "Copilot",
-          "copilot",
-          "Asistente de IA de Microsoft integrado",
-          "ai",
-          "assistants",
-          "microsoft",
-          "assistant",
-          "integrated"
-        ]
-      },
-      {
-        "id": "deepseek",
-        "slug": "deepseek",
-        "terms": [
-          "DeepSeek",
-          "deepseek",
-          "Modelo IA chino competitivo",
-          "ai",
-          "assistants",
-          "china",
-          "llm",
-          "competitive"
-        ]
-      },
-      {
-        "id": "ernie-5-0",
-        "slug": "ernie-5-0",
-        "terms": [
-          "Ernie 5.0",
-          "ernie-5-0",
-          "Modelo de Baidu avanzado",
-          "ai",
-          "china",
-          "baidu",
-          "model"
-        ]
-      },
-      {
-        "id": "gemini",
-        "slug": "gemini",
-        "terms": [
-          "Gemini",
-          "gemini",
-          "Modelo multimodal de Google con integración",
-          "ai",
-          "assistants",
-          "google",
-          "multimodal",
-          "llm",
-          "integration"
-        ]
-      },
-      {
-        "id": "github-copilot",
-        "slug": "github-copilot",
-        "terms": [
-          "GitHub Copilot",
-          "github-copilot",
-          "Asistente IA para programar en VS Code",
-          "ai",
-          "development",
-          "github",
-          "copilot",
-          "vscode",
-          "coding"
-        ]
-      },
-      {
-        "id": "glm-5",
-        "slug": "glm-5",
-        "terms": [
-          "GLM 5",
-          "glm-5",
-          "Modelo de Zhipu AI",
-          "ai",
-          "china",
-          "zhipu",
-          "model"
-        ]
-      },
-      {
-        "id": "goose",
-        "slug": "goose",
-        "terms": [
-          "Goose",
-          "goose",
-          "Alternativa Copilot chat open source",
-          "ai",
-          "development",
-          "open-source",
-          "copilot",
-          "alternative"
-        ]
-      },
-      {
-        "id": "grok",
-        "slug": "grok",
-        "terms": [
-          "Grok",
-          "grok",
-          "IA conversacional de xAI en tiempo real",
-          "ai",
-          "assistants",
-          "xai",
-          "realtime",
-          "conversation"
-        ]
-      },
-      {
-        "id": "heygaia",
-        "slug": "heygaia",
-        "terms": [
-          "HeyGaia",
-          "heygaia",
-          "Agente IA autómata open-source",
-          "ai",
-          "development",
-          "agent",
-          "open-source",
-          "automaton"
-        ]
-      },
-      {
-        "id": "hunyuan",
-        "slug": "hunyuan",
-        "terms": [
-          "Hunyuan",
-          "hunyuan",
-          "Modelo gratuito de Tencent",
-          "ai",
-          "china",
-          "tencent",
-          "free",
-          "model"
-        ]
-      },
-      {
-        "id": "hunyuan-image-3",
-        "slug": "hunyuan-image-3-0",
-        "terms": [
-          "Hunyuan Image 3.0",
-          "hunyuan-image-3-0",
-          "Tencent Open source, texto chino",
-          "ai",
-          "image-generation",
-          "image",
-          "tencent",
-          "open-source",
-          "freemium"
-        ]
-      },
-      {
-        "id": "ideogram",
-        "slug": "ideogram",
-        "terms": [
-          "Ideogram",
-          "ideogram",
-          "El mejor generando texto en imágenes",
-          "ai",
-          "image-generation",
-          "image",
-          "text",
-          "typography",
-          "freemium"
-        ]
-      },
-      {
-        "id": "kimi",
-        "slug": "kimi",
-        "terms": [
-          "Kimi",
-          "kimi",
-          "Modelo IA conversacional chino",
-          "ai",
-          "assistants",
-          "china",
-          "chatbot",
-          "moonshot"
-        ]
-      },
-      {
-        "id": "kling-ai",
-        "slug": "kling-ai",
-        "terms": [
-          "Kling AI",
-          "kling-ai",
-          "Imagen y vídeo, calidad profesional",
-          "ai",
-          "image-generation",
-          "image",
-          "video",
-          "professional",
-          "freemium"
-        ]
-      },
-      {
-        "id": "manus",
-        "slug": "manus",
-        "terms": [
-          "Manus",
-          "manus",
-          "Multiagente IA completo autónomo",
-          "ai",
-          "development",
-          "multi-agent",
-          "autonomous",
-          "complete"
-        ]
-      },
-      {
-        "id": "meshy",
-        "slug": "meshy",
-        "terms": [
-          "Meshy",
-          "meshy",
-          "IA creación 3D modelos",
-          "ai",
-          "image-generation",
-          "3d",
-          "models",
-          "freemium"
-        ]
-      },
-      {
-        "id": "midjourney",
-        "slug": "midjourney",
-        "terms": [
-          "Midjourney",
-          "midjourney",
-          "Generador de imágenes realistas",
-          "ai",
-          "image-generation",
-          "image",
-          "realistic",
-          "premium"
-        ]
-      },
-      {
-        "id": "multica",
-        "slug": "multica",
-        "terms": [
-          "Multica",
-          "multica",
-          "Multi-agentes IA programación",
-          "ai",
-          "development",
-          "multi-agent",
-          "programming"
-        ]
-      },
-      {
-        "id": "page-agent",
-        "slug": "page-agent",
-        "terms": [
-          "Page Agent",
-          "page-agent",
-          "Agente IA de web en GitHub",
-          "ai",
-          "development",
-          "agent",
-          "web",
-          "alibaba"
-        ]
-      },
-      {
-        "id": "pi",
-        "slug": "pi",
-        "terms": [
-          "Pi",
-          "pi",
-          "Plataforma IA conversacional personal",
-          "ai",
-          "assistants",
-          "personal",
-          "conversation",
-          "inflection"
-        ]
-      },
-      {
-        "id": "pika-labs",
-        "slug": "pika-labs",
-        "terms": [
-          "Pika Labs",
-          "pika-labs",
-          "Generación y animación de video",
-          "ai",
-          "image-generation",
-          "video",
-          "animation",
-          "premium"
-        ]
-      },
-      {
-        "id": "qwen",
-        "slug": "qwen",
-        "terms": [
-          "Qwen",
-          "qwen",
-          "Modelo IA de Alibaba open source",
-          "ai",
-          "assistants",
-          "alibaba",
-          "open-source",
-          "llm"
-        ]
-      },
-      {
-        "id": "roybot",
-        "slug": "roybot",
-        "terms": [
-          "Roybot",
-          "roybot",
-          "Agente IA oferta negocios",
-          "ai",
-          "development",
-          "agent",
-          "business",
-          "offers"
-        ]
-      },
-      {
-        "id": "runway",
-        "slug": "runway",
-        "terms": [
-          "Runway",
-          "runway",
-          "Edición y generación de video",
-          "ai",
-          "image-generation",
-          "video",
-          "editing",
-          "premium"
-        ]
-      },
-      {
-        "id": "scrapling",
-        "slug": "scrapling",
-        "terms": [
-          "Scrapling",
-          "scrapling",
-          "Agente IA para hacer scraping",
-          "ai",
-          "development",
-          "scraping",
-          "agent",
-          "data"
-        ]
-      },
-      {
-        "id": "seedance-2-0",
-        "slug": "seedance-2-0",
-        "terms": [
-          "Seedance 2.0",
-          "seedance-2-0",
-          "Generación video Bytedance",
-          "ai",
-          "china",
-          "video",
-          "bytedance"
-        ]
-      },
-      {
-        "id": "seedream",
-        "slug": "seedream",
-        "terms": [
-          "Seedream",
-          "seedream",
-          "Imágenes, videos, retoque IA",
-          "ai",
-          "china",
-          "image",
-          "video",
-          "editing"
-        ]
-      },
-      {
-        "id": "sora",
-        "slug": "sora",
-        "terms": [
-          "Sora",
-          "sora",
-          "Generación de video hiperrealista OpenAI",
-          "ai",
-          "image-generation",
-          "video",
-          "openai",
-          "hyperrealistic",
-          "premium"
-        ]
-      },
-      {
-        "id": "spline",
-        "slug": "spline",
-        "terms": [
-          "Spline",
-          "spline",
-          "IA builder design and 3D",
-          "ai",
-          "image-generation",
-          "3d",
-          "design",
-          "builder",
-          "freemium"
-        ]
-      },
-      {
-        "id": "wan-2-6",
-        "slug": "wan-2-6",
-        "terms": [
-          "Wan 2.6",
-          "wan-2-6",
-          "Generación de video IA",
-          "ai",
-          "china",
-          "video",
-          "generation"
-        ]
-      },
-      {
-        "id": "z-image-turbo",
-        "slug": "z-image-turbo",
-        "terms": [
-          "Z-Image Turbo",
-          "z-image-turbo",
-          "Alibaba Ultra-rápido, bilingüe",
-          "ai",
-          "image-generation",
-          "image",
-          "alibaba",
-          "fast",
-          "freemium"
-        ]
-      }
-    ]
-  },
-  "filters": {
-    "categories": [
-      "ai"
-    ],
-    "subcategories": [
-      "assistants",
-      "china",
-      "development",
-      "image-generation"
-    ],
-    "pricing": [
-      "free",
-      "freemium",
-      "premium"
-    ],
-    "languages": [
-      "en",
-      "es"
-    ],
-    "status": [
-      "active"
-    ],
-    "verified": [
-      true
-    ],
-    "noCreditCard": [
-      false
-    ]
-  },
-  "ui": {
-    "dataset": "ia_asistentes-desarrollo-china-imagen_1",
-    "title": "🤖 Inteligencia Artificial",
-    "description": "@{totalResources=48; bySubcategory=; byPricing=; averagePopularity=88.5}",
-    "resourceCount": 38
-  }
+    "tags":  {
+                 "ai":  {
+                            "count":  38,
+                            "color":  "#dc2626",
+                            "description":  "Etiqueta ai"
+                        },
+                 "image":  {
+                               "count":  8,
+                               "color":  "#0891b2",
+                               "description":  "Etiqueta image"
+                           },
+                 "adobe":  {
+                               "count":  1,
+                               "color":  "#65a30d",
+                               "description":  "Etiqueta adobe"
+                           },
+                 "commercial":  {
+                                    "count":  1,
+                                    "color":  "#dc2626",
+                                    "description":  "Etiqueta commercial"
+                                },
+                 "freemium":  {
+                                  "count":  7,
+                                  "color":  "#db2777",
+                                  "description":  "Etiqueta freemium"
+                              },
+                 "face-swap":  {
+                                   "count":  1,
+                                   "color":  "#65a30d",
+                                   "description":  "Etiqueta face-swap"
+                               },
+                 "editing":  {
+                                 "count":  3,
+                                 "color":  "#2563eb",
+                                 "description":  "Etiqueta editing"
+                             },
+                 "development":  {
+                                     "count":  1,
+                                     "color":  "#65a30d",
+                                     "description":  "Etiqueta development"
+                                 },
+                 "tool":  {
+                              "count":  1,
+                              "color":  "#4f46e5",
+                              "description":  "Etiqueta tool"
+                          },
+                 "influencer":  {
+                                    "count":  1,
+                                    "color":  "#65a30d",
+                                    "description":  "Etiqueta influencer"
+                                },
+                 "monetization":  {
+                                      "count":  1,
+                                      "color":  "#d97706",
+                                      "description":  "Etiqueta monetization"
+                                  },
+                 "comparison":  {
+                                    "count":  1,
+                                    "color":  "#d97706",
+                                    "description":  "Etiqueta comparison"
+                                },
+                 "models":  {
+                                "count":  2,
+                                "color":  "#7c3aed",
+                                "description":  "Etiqueta models"
+                            },
+                 "benchmark":  {
+                                   "count":  1,
+                                   "color":  "#ea580c",
+                                   "description":  "Etiqueta benchmark"
+                               },
+                 "openai":  {
+                                "count":  2,
+                                "color":  "#4f46e5",
+                                "description":  "Etiqueta openai"
+                            },
+                 "chatbot":  {
+                                 "count":  3,
+                                 "color":  "#059669",
+                                 "description":  "Etiqueta chatbot"
+                             },
+                 "llm":  {
+                             "count":  5,
+                             "color":  "#0891b2",
+                             "description":  "Etiqueta llm"
+                         },
+                 "general":  {
+                                 "count":  1,
+                                 "color":  "#7c3aed",
+                                 "description":  "Etiqueta general"
+                             },
+                 "anthropic":  {
+                                   "count":  1,
+                                   "color":  "#db2777",
+                                   "description":  "Etiqueta anthropic"
+                               },
+                 "conversation":  {
+                                      "count":  3,
+                                      "color":  "#65a30d",
+                                      "description":  "Etiqueta conversation"
+                                  },
+                 "coding":  {
+                                "count":  2,
+                                "color":  "#db2777",
+                                "description":  "Etiqueta coding"
+                            },
+                 "microsoft":  {
+                                   "count":  1,
+                                   "color":  "#dc2626",
+                                   "description":  "Etiqueta microsoft"
+                               },
+                 "assistant":  {
+                                   "count":  1,
+                                   "color":  "#4f46e5",
+                                   "description":  "Etiqueta assistant"
+                               },
+                 "integrated":  {
+                                    "count":  1,
+                                    "color":  "#d97706",
+                                    "description":  "Etiqueta integrated"
+                                },
+                 "china":  {
+                               "count":  8,
+                               "color":  "#0891b2",
+                               "description":  "Etiqueta china"
+                           },
+                 "competitive":  {
+                                     "count":  1,
+                                     "color":  "#d97706",
+                                     "description":  "Etiqueta competitive"
+                                 },
+                 "baidu":  {
+                               "count":  1,
+                               "color":  "#65a30d",
+                               "description":  "Etiqueta baidu"
+                           },
+                 "model":  {
+                               "count":  3,
+                               "color":  "#ea580c",
+                               "description":  "Etiqueta model"
+                           },
+                 "google":  {
+                                "count":  1,
+                                "color":  "#65a30d",
+                                "description":  "Etiqueta google"
+                            },
+                 "multimodal":  {
+                                    "count":  1,
+                                    "color":  "#2563eb",
+                                    "description":  "Etiqueta multimodal"
+                                },
+                 "integration":  {
+                                     "count":  1,
+                                     "color":  "#db2777",
+                                     "description":  "Etiqueta integration"
+                                 },
+                 "github":  {
+                                "count":  1,
+                                "color":  "#d97706",
+                                "description":  "Etiqueta github"
+                            },
+                 "copilot":  {
+                                 "count":  2,
+                                 "color":  "#dc2626",
+                                 "description":  "Etiqueta copilot"
+                             },
+                 "vscode":  {
+                                "count":  1,
+                                "color":  "#7c3aed",
+                                "description":  "Etiqueta vscode"
+                            },
+                 "zhipu":  {
+                               "count":  1,
+                               "color":  "#2563eb",
+                               "description":  "Etiqueta zhipu"
+                           },
+                 "open-source":  {
+                                     "count":  4,
+                                     "color":  "#4f46e5",
+                                     "description":  "Etiqueta open-source"
+                                 },
+                 "alternative":  {
+                                     "count":  1,
+                                     "color":  "#d97706",
+                                     "description":  "Etiqueta alternative"
+                                 },
+                 "xai":  {
+                             "count":  1,
+                             "color":  "#dc2626",
+                             "description":  "Etiqueta xai"
+                         },
+                 "realtime":  {
+                                  "count":  1,
+                                  "color":  "#059669",
+                                  "description":  "Etiqueta realtime"
+                              },
+                 "agent":  {
+                               "count":  4,
+                               "color":  "#65a30d",
+                               "description":  "Etiqueta agent"
+                           },
+                 "automaton":  {
+                                   "count":  1,
+                                   "color":  "#7c3aed",
+                                   "description":  "Etiqueta automaton"
+                               },
+                 "tencent":  {
+                                 "count":  2,
+                                 "color":  "#d97706",
+                                 "description":  "Etiqueta tencent"
+                             },
+                 "free":  {
+                              "count":  1,
+                              "color":  "#db2777",
+                              "description":  "Etiqueta free"
+                          },
+                 "text":  {
+                              "count":  1,
+                              "color":  "#d97706",
+                              "description":  "Etiqueta text"
+                          },
+                 "typography":  {
+                                    "count":  1,
+                                    "color":  "#059669",
+                                    "description":  "Etiqueta typography"
+                                },
+                 "moonshot":  {
+                                  "count":  1,
+                                  "color":  "#65a30d",
+                                  "description":  "Etiqueta moonshot"
+                              },
+                 "video":  {
+                               "count":  7,
+                               "color":  "#0891b2",
+                               "description":  "Etiqueta video"
+                           },
+                 "professional":  {
+                                      "count":  1,
+                                      "color":  "#059669",
+                                      "description":  "Etiqueta professional"
+                                  },
+                 "multi-agent":  {
+                                     "count":  2,
+                                     "color":  "#65a30d",
+                                     "description":  "Etiqueta multi-agent"
+                                 },
+                 "autonomous":  {
+                                    "count":  1,
+                                    "color":  "#7c3aed",
+                                    "description":  "Etiqueta autonomous"
+                                },
+                 "complete":  {
+                                  "count":  1,
+                                  "color":  "#65a30d",
+                                  "description":  "Etiqueta complete"
+                              },
+                 "3d":  {
+                            "count":  2,
+                            "color":  "#059669",
+                            "description":  "Etiqueta 3d"
+                        },
+                 "realistic":  {
+                                   "count":  1,
+                                   "color":  "#2563eb",
+                                   "description":  "Etiqueta realistic"
+                               },
+                 "premium":  {
+                                 "count":  4,
+                                 "color":  "#65a30d",
+                                 "description":  "Etiqueta premium"
+                             },
+                 "programming":  {
+                                     "count":  1,
+                                     "color":  "#65a30d",
+                                     "description":  "Etiqueta programming"
+                                 },
+                 "web":  {
+                             "count":  1,
+                             "color":  "#db2777",
+                             "description":  "Etiqueta web"
+                         },
+                 "alibaba":  {
+                                 "count":  3,
+                                 "color":  "#2563eb",
+                                 "description":  "Etiqueta alibaba"
+                             },
+                 "personal":  {
+                                  "count":  1,
+                                  "color":  "#db2777",
+                                  "description":  "Etiqueta personal"
+                              },
+                 "inflection":  {
+                                    "count":  1,
+                                    "color":  "#65a30d",
+                                    "description":  "Etiqueta inflection"
+                                },
+                 "animation":  {
+                                   "count":  1,
+                                   "color":  "#2563eb",
+                                   "description":  "Etiqueta animation"
+                               },
+                 "business":  {
+                                  "count":  1,
+                                  "color":  "#4f46e5",
+                                  "description":  "Etiqueta business"
+                              },
+                 "offers":  {
+                                "count":  1,
+                                "color":  "#0891b2",
+                                "description":  "Etiqueta offers"
+                            },
+                 "scraping":  {
+                                  "count":  1,
+                                  "color":  "#0891b2",
+                                  "description":  "Etiqueta scraping"
+                              },
+                 "data":  {
+                              "count":  1,
+                              "color":  "#2563eb",
+                              "description":  "Etiqueta data"
+                          },
+                 "bytedance":  {
+                                   "count":  1,
+                                   "color":  "#d97706",
+                                   "description":  "Etiqueta bytedance"
+                               },
+                 "hyperrealistic":  {
+                                        "count":  1,
+                                        "color":  "#dc2626",
+                                        "description":  "Etiqueta hyperrealistic"
+                                    },
+                 "design":  {
+                                "count":  1,
+                                "color":  "#7c3aed",
+                                "description":  "Etiqueta design"
+                            },
+                 "builder":  {
+                                 "count":  1,
+                                 "color":  "#d97706",
+                                 "description":  "Etiqueta builder"
+                             },
+                 "generation":  {
+                                    "count":  1,
+                                    "color":  "#db2777",
+                                    "description":  "Etiqueta generation"
+                                },
+                 "fast":  {
+                              "count":  1,
+                              "color":  "#2563eb",
+                              "description":  "Etiqueta fast"
+                          }
+             },
+    "searchIndex":  {
+                        "fields":  [
+                                       {
+                                           "name":  "name",
+                                           "weight":  3,
+                                           "encode":  "forward",
+                                           "tokenize":  "forward"
+                                       },
+                                       {
+                                           "name":  "description",
+                                           "weight":  2,
+                                           "encode":  "forward",
+                                           "tokenize":  "forward"
+                                       },
+                                       {
+                                           "name":  "tags",
+                                           "weight":  2,
+                                           "encode":  "forward",
+                                           "tokenize":  "forward"
+                                       },
+                                       {
+                                           "name":  "category",
+                                           "weight":  1,
+                                           "encode":  "forward",
+                                           "tokenize":  "forward"
+                                       },
+                                       {
+                                           "name":  "subcategory",
+                                           "weight":  1,
+                                           "encode":  "forward",
+                                           "tokenize":  "forward"
+                                       }
+                                   ],
+                        "entries":  [
+                                        {
+                                            "id":  "adobe-firefly",
+                                            "slug":  "adobe-firefly",
+                                            "terms":  [
+                                                          "Adobe Firefly",
+                                                          "adobe-firefly",
+                                                          "Seguro uso comercial, edición pro",
+                                                          "ai",
+                                                          "image-generation",
+                                                          "image",
+                                                          "adobe",
+                                                          "commercial",
+                                                          "freemium"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ai-face-swap",
+                                            "slug":  "aifaceswap",
+                                            "terms":  [
+                                                          "AIFaceSwap",
+                                                          "aifaceswap",
+                                                          "Face Swap IA",
+                                                          "ai",
+                                                          "china",
+                                                          "face-swap",
+                                                          "image",
+                                                          "editing"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "antigravity",
+                                            "slug":  "antigravity",
+                                            "terms":  [
+                                                          "Antigravity",
+                                                          "antigravity",
+                                                          "Herramienta de desarrollo IA",
+                                                          "ai",
+                                                          "development",
+                                                          "tool"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "apob-ai",
+                                            "slug":  "apob-ai",
+                                            "terms":  [
+                                                          "Apob AI",
+                                                          "apob-ai",
+                                                          "Influencer IA monetizar",
+                                                          "ai",
+                                                          "china",
+                                                          "influencer",
+                                                          "monetization"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "arena-ai",
+                                            "slug":  "arena-ai",
+                                            "terms":  [
+                                                          "Arena AI",
+                                                          "arena-ai",
+                                                          "Comparador modelos IA",
+                                                          "ai",
+                                                          "china",
+                                                          "comparison",
+                                                          "models",
+                                                          "benchmark"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "chatgpt",
+                                            "slug":  "chatgpt",
+                                            "terms":  [
+                                                          "ChatGPT",
+                                                          "chatgpt",
+                                                          "Asistente IA general de OpenAI",
+                                                          "ai",
+                                                          "assistants",
+                                                          "openai",
+                                                          "chatbot",
+                                                          "llm",
+                                                          "general"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "claude",
+                                            "slug":  "claude",
+                                            "terms":  [
+                                                          "Claude",
+                                                          "claude",
+                                                          "Asistente conversacional avanzado Anthropic",
+                                                          "ai",
+                                                          "assistants",
+                                                          "chatbot",
+                                                          "anthropic",
+                                                          "llm",
+                                                          "conversation",
+                                                          "coding"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "copilot",
+                                            "slug":  "copilot",
+                                            "terms":  [
+                                                          "Copilot",
+                                                          "copilot",
+                                                          "Asistente de IA de Microsoft integrado",
+                                                          "ai",
+                                                          "assistants",
+                                                          "microsoft",
+                                                          "assistant",
+                                                          "integrated"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "deepseek",
+                                            "slug":  "deepseek",
+                                            "terms":  [
+                                                          "DeepSeek",
+                                                          "deepseek",
+                                                          "Modelo IA chino competitivo",
+                                                          "ai",
+                                                          "assistants",
+                                                          "china",
+                                                          "llm",
+                                                          "competitive"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ernie-5-0",
+                                            "slug":  "ernie-5-0",
+                                            "terms":  [
+                                                          "Ernie 5.0",
+                                                          "ernie-5-0",
+                                                          "Modelo de Baidu avanzado",
+                                                          "ai",
+                                                          "china",
+                                                          "baidu",
+                                                          "model"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "gemini",
+                                            "slug":  "gemini",
+                                            "terms":  [
+                                                          "Gemini",
+                                                          "gemini",
+                                                          "Modelo multimodal de Google con integración",
+                                                          "ai",
+                                                          "assistants",
+                                                          "google",
+                                                          "multimodal",
+                                                          "llm",
+                                                          "integration"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "github-copilot",
+                                            "slug":  "github-copilot",
+                                            "terms":  [
+                                                          "GitHub Copilot",
+                                                          "github-copilot",
+                                                          "Asistente IA para programar en VS Code",
+                                                          "ai",
+                                                          "development",
+                                                          "github",
+                                                          "copilot",
+                                                          "vscode",
+                                                          "coding"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "glm-5",
+                                            "slug":  "glm-5",
+                                            "terms":  [
+                                                          "GLM 5",
+                                                          "glm-5",
+                                                          "Modelo de Zhipu AI",
+                                                          "ai",
+                                                          "china",
+                                                          "zhipu",
+                                                          "model"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "goose",
+                                            "slug":  "goose",
+                                            "terms":  [
+                                                          "Goose",
+                                                          "goose",
+                                                          "Alternativa Copilot chat open source",
+                                                          "ai",
+                                                          "development",
+                                                          "open-source",
+                                                          "copilot",
+                                                          "alternative"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "grok",
+                                            "slug":  "grok",
+                                            "terms":  [
+                                                          "Grok",
+                                                          "grok",
+                                                          "IA conversacional de xAI en tiempo real",
+                                                          "ai",
+                                                          "assistants",
+                                                          "xai",
+                                                          "realtime",
+                                                          "conversation"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "heygaia",
+                                            "slug":  "heygaia",
+                                            "terms":  [
+                                                          "HeyGaia",
+                                                          "heygaia",
+                                                          "Agente IA autómata open-source",
+                                                          "ai",
+                                                          "development",
+                                                          "agent",
+                                                          "open-source",
+                                                          "automaton"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "hunyuan",
+                                            "slug":  "hunyuan",
+                                            "terms":  [
+                                                          "Hunyuan",
+                                                          "hunyuan",
+                                                          "Modelo gratuito de Tencent",
+                                                          "ai",
+                                                          "china",
+                                                          "tencent",
+                                                          "free",
+                                                          "model"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "hunyuan-image-3",
+                                            "slug":  "hunyuan-image-3-0",
+                                            "terms":  [
+                                                          "Hunyuan Image 3.0",
+                                                          "hunyuan-image-3-0",
+                                                          "Tencent Open source, texto chino",
+                                                          "ai",
+                                                          "image-generation",
+                                                          "image",
+                                                          "tencent",
+                                                          "open-source",
+                                                          "freemium"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "ideogram",
+                                            "slug":  "ideogram",
+                                            "terms":  [
+                                                          "Ideogram",
+                                                          "ideogram",
+                                                          "El mejor generando texto en imágenes",
+                                                          "ai",
+                                                          "image-generation",
+                                                          "image",
+                                                          "text",
+                                                          "typography",
+                                                          "freemium"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "kimi",
+                                            "slug":  "kimi",
+                                            "terms":  [
+                                                          "Kimi",
+                                                          "kimi",
+                                                          "Modelo IA conversacional chino",
+                                                          "ai",
+                                                          "assistants",
+                                                          "china",
+                                                          "chatbot",
+                                                          "moonshot"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "kling-ai",
+                                            "slug":  "kling-ai",
+                                            "terms":  [
+                                                          "Kling AI",
+                                                          "kling-ai",
+                                                          "Imagen y vídeo, calidad profesional",
+                                                          "ai",
+                                                          "image-generation",
+                                                          "image",
+                                                          "video",
+                                                          "professional",
+                                                          "freemium"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "manus",
+                                            "slug":  "manus",
+                                            "terms":  [
+                                                          "Manus",
+                                                          "manus",
+                                                          "Multiagente IA completo autónomo",
+                                                          "ai",
+                                                          "development",
+                                                          "multi-agent",
+                                                          "autonomous",
+                                                          "complete"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "meshy",
+                                            "slug":  "meshy",
+                                            "terms":  [
+                                                          "Meshy",
+                                                          "meshy",
+                                                          "IA creación 3D modelos",
+                                                          "ai",
+                                                          "image-generation",
+                                                          "3d",
+                                                          "models",
+                                                          "freemium"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "midjourney",
+                                            "slug":  "midjourney",
+                                            "terms":  [
+                                                          "Midjourney",
+                                                          "midjourney",
+                                                          "Generador de imágenes realistas",
+                                                          "ai",
+                                                          "image-generation",
+                                                          "image",
+                                                          "realistic",
+                                                          "premium"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "multica",
+                                            "slug":  "multica",
+                                            "terms":  [
+                                                          "Multica",
+                                                          "multica",
+                                                          "Multi-agentes IA programación",
+                                                          "ai",
+                                                          "development",
+                                                          "multi-agent",
+                                                          "programming"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "page-agent",
+                                            "slug":  "page-agent",
+                                            "terms":  [
+                                                          "Page Agent",
+                                                          "page-agent",
+                                                          "Agente IA de web en GitHub",
+                                                          "ai",
+                                                          "development",
+                                                          "agent",
+                                                          "web",
+                                                          "alibaba"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "pi",
+                                            "slug":  "pi",
+                                            "terms":  [
+                                                          "Pi",
+                                                          "pi",
+                                                          "Plataforma IA conversacional personal",
+                                                          "ai",
+                                                          "assistants",
+                                                          "personal",
+                                                          "conversation",
+                                                          "inflection"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "pika-labs",
+                                            "slug":  "pika-labs",
+                                            "terms":  [
+                                                          "Pika Labs",
+                                                          "pika-labs",
+                                                          "Generación y animación de video",
+                                                          "ai",
+                                                          "image-generation",
+                                                          "video",
+                                                          "animation",
+                                                          "premium"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "qwen",
+                                            "slug":  "qwen",
+                                            "terms":  [
+                                                          "Qwen",
+                                                          "qwen",
+                                                          "Modelo IA de Alibaba open source",
+                                                          "ai",
+                                                          "assistants",
+                                                          "alibaba",
+                                                          "open-source",
+                                                          "llm"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "roybot",
+                                            "slug":  "roybot",
+                                            "terms":  [
+                                                          "Roybot",
+                                                          "roybot",
+                                                          "Agente IA oferta negocios",
+                                                          "ai",
+                                                          "development",
+                                                          "agent",
+                                                          "business",
+                                                          "offers"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "runway",
+                                            "slug":  "runway",
+                                            "terms":  [
+                                                          "Runway",
+                                                          "runway",
+                                                          "Edición y generación de video",
+                                                          "ai",
+                                                          "image-generation",
+                                                          "video",
+                                                          "editing",
+                                                          "premium"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "scrapling",
+                                            "slug":  "scrapling",
+                                            "terms":  [
+                                                          "Scrapling",
+                                                          "scrapling",
+                                                          "Agente IA para hacer scraping",
+                                                          "ai",
+                                                          "development",
+                                                          "scraping",
+                                                          "agent",
+                                                          "data"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "seedance-2-0",
+                                            "slug":  "seedance-2-0",
+                                            "terms":  [
+                                                          "Seedance 2.0",
+                                                          "seedance-2-0",
+                                                          "Generación video Bytedance",
+                                                          "ai",
+                                                          "china",
+                                                          "video",
+                                                          "bytedance"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "seedream",
+                                            "slug":  "seedream",
+                                            "terms":  [
+                                                          "Seedream",
+                                                          "seedream",
+                                                          "Imágenes, videos, retoque IA",
+                                                          "ai",
+                                                          "china",
+                                                          "image",
+                                                          "video",
+                                                          "editing"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "sora",
+                                            "slug":  "sora",
+                                            "terms":  [
+                                                          "Sora",
+                                                          "sora",
+                                                          "Generación de video hiperrealista OpenAI",
+                                                          "ai",
+                                                          "image-generation",
+                                                          "video",
+                                                          "openai",
+                                                          "hyperrealistic",
+                                                          "premium"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "spline",
+                                            "slug":  "spline",
+                                            "terms":  [
+                                                          "Spline",
+                                                          "spline",
+                                                          "IA builder design and 3D",
+                                                          "ai",
+                                                          "image-generation",
+                                                          "3d",
+                                                          "design",
+                                                          "builder",
+                                                          "freemium"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "wan-2-6",
+                                            "slug":  "wan-2-6",
+                                            "terms":  [
+                                                          "Wan 2.6",
+                                                          "wan-2-6",
+                                                          "Generación de video IA",
+                                                          "ai",
+                                                          "china",
+                                                          "video",
+                                                          "generation"
+                                                      ]
+                                        },
+                                        {
+                                            "id":  "z-image-turbo",
+                                            "slug":  "z-image-turbo",
+                                            "terms":  [
+                                                          "Z-Image Turbo",
+                                                          "z-image-turbo",
+                                                          "Alibaba Ultra-rápido, bilingüe",
+                                                          "ai",
+                                                          "image-generation",
+                                                          "image",
+                                                          "alibaba",
+                                                          "fast",
+                                                          "freemium"
+                                                      ]
+                                        }
+                                    ]
+                    },
+    "filters":  {
+                    "categories":  [
+                                       "ai"
+                                   ],
+                    "subcategories":  [
+                                          "assistants",
+                                          "china",
+                                          "development",
+                                          "image-generation"
+                                      ],
+                    "pricing":  [
+                                    "free",
+                                    "freemium",
+                                    "premium"
+                                ],
+                    "languages":  [
+                                      "en",
+                                      "es"
+                                  ],
+                    "status":  [
+                                   "active"
+                               ],
+                    "verified":  [
+                                     true
+                                 ],
+                    "noCreditCard":  [
+                                         false
+                                     ]
+                },
+    "ui":  {
+               "dataset":  "ia_asistentes-desarrollo-china-imagen_1",
+               "title":  "🤖 Inteligencia Artificial",
+               "description":  "@{totalResources=48; bySubcategory=; byPricing=; averagePopularity=88.5}",
+               "resourceCount":  38
+           }
 }

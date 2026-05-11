@@ -1,1206 +1,1257 @@
 {
-  "categories": [
-    {
-      "id": "devops",
-      "name": "Devops",
-      "slug": "devops",
-      "resourceCount": 10,
-      "status": "active"
-    },
-    {
-      "id": "testing",
-      "name": "Testing",
-      "slug": "testing",
-      "resourceCount": 14,
-      "status": "active"
-    },
-    {
-      "id": "translation",
-      "name": "Translation",
-      "slug": "translation",
-      "resourceCount": 6,
-      "status": "active"
-    },
-    {
-      "id": "",
-      "name": null,
-      "slug": "",
-      "resourceCount": 1,
-      "status": "active"
-    }
-  ],
-  "subcategories": [
-    {
-      "id": "ci-cd",
-      "name": "Ci Cd",
-      "slug": "ci-cd",
-      "category": "devops",
-      "resourceCount": 4,
-      "status": "active"
-    },
-    {
-      "id": "containers",
-      "name": "Containers",
-      "slug": "containers",
-      "category": "devops",
-      "resourceCount": 6,
-      "status": "active"
-    },
-    {
-      "id": "frameworks",
-      "name": "Frameworks",
-      "slug": "frameworks",
-      "category": "testing",
-      "resourceCount": 5,
-      "status": "active"
-    },
-    {
-      "id": "load-testing",
-      "name": "Load Testing",
-      "slug": "load-testing",
-      "category": "testing",
-      "resourceCount": 4,
-      "status": "active"
-    },
-    {
-      "id": "platforms",
-      "name": "Platforms",
-      "slug": "platforms",
-      "category": "testing",
-      "resourceCount": 9,
-      "status": "active"
-    },
-    {
-      "id": "tools",
-      "name": "Tools",
-      "slug": "tools",
-      "category": "translation",
-      "resourceCount": 2,
-      "status": "active"
-    },
-    {
-      "id": "",
-      "name": null,
-      "slug": "",
-      "category": "devops",
-      "resourceCount": 1,
-      "status": "active"
-    }
-  ],
-  "resources": [
-    {
-      "id": "artillery",
-      "name": "Artillery",
-      "slug": "artillery",
-      "description": "Load testing moderno para APIs y microservicios",
-      "url": "https://artillery.io/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "load-testing",
-        "artillery",
-        "api",
-        "microservices"
-      ],
-      "searchIndex": [
-        "Artillery",
-        "artillery",
-        "Load testing moderno para APIs y microservicios",
-        "testing",
-        "load-testing",
-        "api",
-        "microservices"
-      ],
-      "category": "testing",
-      "subcategory": "load-testing",
-      "pricing": "premium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Artillery open source gratis, cloud de pago",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "browserstack",
-      "name": "BrowserStack",
-      "slug": "browserstack",
-      "description": "Testing cross-browser en navegadores reales",
-      "url": "https://www.browserstack.com/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "cross-browser",
-        "browserstack",
-        "testing-platform",
-        "browsers"
-      ],
-      "searchIndex": [
-        "BrowserStack",
-        "browserstack",
-        "Testing cross-browser en navegadores reales",
-        "testing",
-        "platforms",
-        "cross-browser",
-        "testing-platform",
-        "browsers"
-      ],
-      "category": "testing",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "100 minutos/mes gratis, plan open source disponible",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "circleci",
-      "name": "CircleCI",
-      "slug": "circleci",
-      "description": "CI/CD cloud con plan gratuito para proyectos pequeños",
-      "url": "https://circleci.com",
-      "status": "active",
-      "tags": [
-        "ci-cd",
-        "cloud",
-        "automation",
-        "pipelines",
-        "devops"
-      ],
-      "searchIndex": [
-        "CircleCI",
-        "circleci",
-        "CI/CD cloud con plan gratuito para proyectos pequeños",
-        "devops",
-        "ci-cd",
-        "cloud",
-        "automation",
-        "pipelines"
-      ],
-      "category": "devops",
-      "subcategory": "ci-cd",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "2500 créditos/mes, 1 job concurrente",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "crowdin",
-      "name": "Crowdin",
-      "slug": "crowdin",
-      "description": "Plataforma de localización colaborativa",
-      "url": "https://crowdin.com/",
-      "status": "active",
-      "tags": [
-        "translation",
-        "localization",
-        "crowdin",
-        "collaboration",
-        "localization-platform"
-      ],
-      "searchIndex": [
-        "Crowdin",
-        "crowdin",
-        "Plataforma de localización colaborativa",
-        "translation",
-        "platforms",
-        "localization",
-        "collaboration",
-        "localization-platform"
-      ],
-      "category": "translation",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "3 proyectos gratis, open source ilimitado",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "cypress",
-      "name": "Cypress",
-      "slug": "cypress",
-      "description": "Testing frontend moderno con excelente DX",
-      "url": "https://www.cypress.io/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "frontend",
-        "e2e",
-        "javascript",
-        "testing-framework"
-      ],
-      "searchIndex": [
-        "Cypress",
-        "cypress",
-        "Testing frontend moderno con excelente DX",
-        "testing",
-        "frameworks",
-        "frontend",
-        "e2e",
-        "javascript",
-        "testing-framework"
-      ],
-      "category": "testing",
-      "subcategory": "frameworks",
-      "pricing": "premium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Gratis para proyectos personales, planes team de pago",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "deepl",
-      "name": "DeepL",
-      "slug": "deepl",
-      "description": "Traductor IA de alta calidad con contexto",
-      "url": "https://www.deepl.com/",
-      "status": "active",
-      "tags": [
-        "translation",
-        "ai",
-        "deepl",
-        "translation-tool",
-        "ai-translation"
-      ],
-      "searchIndex": [
-        "DeepL",
-        "deepl",
-        "Traductor IA de alta calidad con contexto",
-        "translation",
-        "tools",
-        "ai",
-        "translation-tool",
-        "ai-translation"
-      ],
-      "category": "translation",
-      "subcategory": "tools",
-      "pricing": "premium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "500k caracteres/mes gratis, plan pro de pago",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "docker",
-      "name": "Docker",
-      "slug": "docker",
-      "description": "Plataforma de contenedores estándar de la industria",
-      "url": "https://docker.com/",
-      "status": "active",
-      "tags": [
-        "containers",
-        "docker",
-        "devops",
-        "deployment"
-      ],
-      "searchIndex": [
-        "Docker",
-        "docker",
-        "Plataforma de contenedores estándar de la industria",
-        "devops",
-        "containers",
-        "deployment"
-      ],
-      "category": "devops",
-      "subcategory": "containers",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Docker Desktop gratis para personal/small teams",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "github-actions",
-      "name": "GitHub Actions",
-      "slug": "github-actions",
-      "description": "CI/CD integrado en GitHub con workflows automatizados",
-      "url": "https://github.com/features/actions",
-      "status": "active",
-      "tags": [
-        "ci-cd",
-        "github",
-        "automation",
-        "workflows",
-        "devops"
-      ],
-      "searchIndex": [
-        "GitHub Actions",
-        "github-actions",
-        "CI/CD integrado en GitHub con workflows automatizados",
-        "devops",
-        "ci-cd",
-        "github",
-        "automation",
-        "workflows"
-      ],
-      "category": "devops",
-      "subcategory": "ci-cd",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "2000 minutos/mes gratis, repos públicos ilimitados",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "google-translate",
-      "name": "Google Translate",
-      "slug": "google-translate",
-      "description": "Traducción automática gratuita multi-idioma",
-      "url": "https://translate.google.com/",
-      "status": "active",
-      "tags": [
-        "translation",
-        "google",
-        "translation-tool",
-        "multi-language",
-        "free"
-      ],
-      "searchIndex": [
-        "Google Translate",
-        "google-translate",
-        "Traducción automática gratuita multi-idioma",
-        "translation",
-        "tools",
-        "google",
-        "translation-tool",
-        "multi-language",
-        "free"
-      ],
-      "category": "translation",
-      "subcategory": "tools",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Completamente gratis con límites de uso",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "jenkins",
-      "name": "Jenkins",
-      "slug": "jenkins",
-      "description": "CI/CD open source self-hosted con plugins extensibles",
-      "url": "https://www.jenkins.io/",
-      "status": "active",
-      "tags": [
-        "ci-cd",
-        "open-source",
-        "self-hosted",
-        "automation",
-        "plugins"
-      ],
-      "searchIndex": [
-        "Jenkins",
-        "jenkins",
-        "CI/CD open source self-hosted con plugins extensibles",
-        "devops",
-        "ci-cd",
-        "open-source",
-        "self-hosted",
-        "automation",
-        "plugins"
-      ],
-      "category": "devops",
-      "subcategory": "ci-cd",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Completamente gratis, self-hosted requiere infra",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "jest",
-      "name": "Jest",
-      "slug": "jest",
-      "description": "Framework de testing JavaScript de Facebook",
-      "url": "https://jestjs.io/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "javascript",
-        "jest",
-        "unit-testing",
-        "facebook"
-      ],
-      "searchIndex": [
-        "Jest",
-        "jest",
-        "Framework de testing JavaScript de Facebook",
-        "testing",
-        "frameworks",
-        "javascript",
-        "unit-testing",
-        "facebook"
-      ],
-      "category": "testing",
-      "subcategory": "frameworks",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Completamente gratis, open source",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "k3s",
-      "name": "K3s",
-      "slug": "k3s",
-      "description": "Kubernetes ligero para edge y entornos con recursos limitados",
-      "url": "https://k3s.io/",
-      "status": "active",
-      "tags": [
-        "kubernetes",
-        "lightweight",
-        "edge",
-        "lightweight-k8s"
-      ],
-      "searchIndex": [
-        "K3s",
-        "k3s",
-        "Kubernetes ligero para edge y entornos con recursos limitados",
-        "devops",
-        "containers",
-        "kubernetes",
-        "lightweight",
-        "edge",
-        "lightweight-k8s"
-      ],
-      "category": "devops",
-      "subcategory": "containers",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Completamente gratis, open source",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "k6",
-      "name": "k6",
-      "slug": "k6",
-      "description": "Load testing open source para desarrolladores",
-      "url": "https://k6.io/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "load-testing",
-        "k6",
-        "open-source",
-        "performance"
-      ],
-      "searchIndex": [
-        "k6",
-        "Load testing open source para desarrolladores",
-        "testing",
-        "load-testing",
-        "open-source",
-        "performance"
-      ],
-      "category": "testing",
-      "subcategory": "load-testing",
-      "pricing": "premium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "k6 open source gratis, k6 cloud de pago",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "katalon",
-      "name": "Katalon",
-      "slug": "katalon",
-      "description": "Automatización testing todo-en-uno para web, mobile, API",
-      "url": "https://katalon.com/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "automation",
-        "katalon",
-        "all-in-one",
-        "testing-tool"
-      ],
-      "searchIndex": [
-        "Katalon",
-        "katalon",
-        "Automatización testing todo-en-uno para web, mobile, API",
-        "testing",
-        "platforms",
-        "automation",
-        "all-in-one",
-        "testing-tool"
-      ],
-      "category": "testing",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Versión free disponible con características limitadas",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "kind",
-      "name": "Kind",
-      "slug": "kind",
-      "description": "Kubernetes en Docker para desarrollo y testing local",
-      "url": "https://kind.sigs.k8s.io/",
-      "status": "active",
-      "tags": [
-        "kubernetes",
-        "docker",
-        "testing",
-        "development"
-      ],
-      "searchIndex": [
-        "Kind",
-        "kind",
-        "Kubernetes en Docker para desarrollo y testing local",
-        "devops",
-        "containers",
-        "kubernetes",
-        "docker",
-        "testing",
-        "development"
-      ],
-      "category": "devops",
-      "subcategory": "containers",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Completamente gratis, open source",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "lambdatest",
-      "name": "LambdaTest",
-      "slug": "lambdatest",
-      "description": "Testing cross-browser en 3000+ navegadores y dispositivos",
-      "url": "https://www.lambdatest.com/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "cross-browser",
-        "lambdatest",
-        "cloud",
-        "testing-platform"
-      ],
-      "searchIndex": [
-        "LambdaTest",
-        "lambdatest",
-        "Testing cross-browser en 3000+ navegadores y dispositivos",
-        "testing",
-        "platforms",
-        "cross-browser",
-        "cloud",
-        "testing-platform"
-      ],
-      "category": "testing",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "100 minutos/mes gratis, plan free disponible",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "lens",
-      "name": "Lens",
-      "slug": "lens",
-      "description": "IDE para Kubernetes con interfaz gráfica intuitiva",
-      "url": "https://k8slens.dev/",
-      "status": "active",
-      "tags": [
-        "kubernetes",
-        "ide",
-        "gui",
-        "management"
-      ],
-      "searchIndex": [
-        "Lens",
-        "lens",
-        "IDE para Kubernetes con interfaz gráfica intuitiva",
-        "devops",
-        "containers",
-        "kubernetes",
-        "ide",
-        "gui",
-        "management"
-      ],
-      "category": "devops",
-      "subcategory": "containers",
-      "pricing": "premium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Lens IDE gratis, Lens Lens+ de pago",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "loader-io",
-      "name": "Loader.io",
-      "slug": "loader-io",
-      "description": "Load testing gratuito básico para aplicaciones web",
-      "url": "https://loader.io/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "load-testing",
-        "loader-io",
-        "free",
-        "web-testing"
-      ],
-      "searchIndex": [
-        "Loader.io",
-        "loader-io",
-        "Load testing gratuito básico para aplicaciones web",
-        "testing",
-        "load-testing",
-        "free",
-        "web-testing"
-      ],
-      "category": "testing",
-      "subcategory": "load-testing",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "1 test gratis, 10k clientes por test",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "locust",
-      "name": "Locust",
-      "slug": "locust",
-      "description": "Load testing en Python escalable y distribuido",
-      "url": "https://locust.io/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "load-testing",
-        "locust",
-        "python",
-        "performance"
-      ],
-      "searchIndex": [
-        "Locust",
-        "locust",
-        "Load testing en Python escalable y distribuido",
-        "testing",
-        "load-testing",
-        "python",
-        "performance"
-      ],
-      "category": "testing",
-      "subcategory": "load-testing",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Completamente gratis, open source",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "lokalise",
-      "name": "Lokalise",
-      "slug": "lokalise",
-      "description": "Plataforma de localización para equipos",
-      "url": "https://lokalise.com/",
-      "status": "active",
-      "tags": [
-        "translation",
-        "localization",
-        "lokalise",
-        "team",
-        "localization-platform"
-      ],
-      "searchIndex": [
-        "Lokalise",
-        "lokalise",
-        "Plataforma de localización para equipos",
-        "translation",
-        "platforms",
-        "localization",
-        "team",
-        "localization-platform"
-      ],
-      "category": "translation",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "2 usuarios gratis, 2000 strings, trial 14 días",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "minikube",
-      "name": "Minikube",
-      "slug": "minikube",
-      "description": "Kubernetes local para desarrollo y aprendizaje",
-      "url": "https://minikube.sigs.k8s.io/",
-      "status": "active",
-      "tags": [
-        "kubernetes",
-        "local",
-        "development",
-        "learning"
-      ],
-      "searchIndex": [
-        "Minikube",
-        "minikube",
-        "Kubernetes local para desarrollo y aprendizaje",
-        "devops",
-        "containers",
-        "kubernetes",
-        "local",
-        "development",
-        "learning"
-      ],
-      "category": "devops",
-      "subcategory": "containers",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Completamente gratis, open source",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "playwright",
-      "name": "Playwright",
-      "slug": "playwright",
-      "description": "Testing E2E Microsoft open source multi-navegador",
-      "url": "https://playwright.dev/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "e2e",
-        "microsoft",
-        "open-source",
-        "automation"
-      ],
-      "searchIndex": [
-        "Playwright",
-        "playwright",
-        "Testing E2E Microsoft open source multi-navegador",
-        "testing",
-        "frameworks",
-        "e2e",
-        "microsoft",
-        "open-source",
-        "automation"
-      ],
-      "category": "testing",
-      "subcategory": "frameworks",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Completamente gratis, open source",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "podman",
-      "name": "Podman",
-      "slug": "podman",
-      "description": "Alternativa Docker sin daemon con seguridad mejorada",
-      "url": "https://podman.io/",
-      "status": "active",
-      "tags": [
-        "containers",
-        "podman",
-        "daemonless",
-        "security",
-        "docker-alternative"
-      ],
-      "searchIndex": [
-        "Podman",
-        "podman",
-        "Alternativa Docker sin daemon con seguridad mejorada",
-        "devops",
-        "containers",
-        "daemonless",
-        "security",
-        "docker-alternative"
-      ],
-      "category": "devops",
-      "subcategory": "containers",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Completamente gratis, open source",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "poeditor",
-      "name": "POEditor",
-      "slug": "poeditor",
-      "description": "Gestión de traducciones con interfaz intuitiva",
-      "url": "https://poeditor.com/",
-      "status": "active",
-      "tags": [
-        "translation",
-        "localization",
-        "poeditor",
-        "translation-management",
-        "localization-platform"
-      ],
-      "searchIndex": [
-        "POEditor",
-        "poeditor",
-        "Gestión de traducciones con interfaz intuitiva",
-        "translation",
-        "platforms",
-        "localization",
-        "translation-management",
-        "localization-platform"
-      ],
-      "category": "translation",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "1000 strings gratis, plan free disponible",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "saucelabs",
-      "name": "Sauce Labs",
-      "slug": "sauce-labs",
-      "description": "Testing automatizado en nube con múltiples navegadores",
-      "url": "https://saucelabs.com/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "automated",
-        "saucelabs",
-        "cloud",
-        "testing-platform"
-      ],
-      "searchIndex": [
-        "Sauce Labs",
-        "sauce-labs",
-        "Testing automatizado en nube con múltiples navegadores",
-        "testing",
-        "platforms",
-        "automated",
-        "saucelabs",
-        "cloud",
-        "testing-platform"
-      ],
-      "category": "testing",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "100 minutos/mes gratis, plan open source disponible",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "testing-library",
-      "name": "Testing Library",
-      "slug": "testing-library",
-      "description": "Utilidades de testing React enfocadas en el usuario",
-      "url": "https://testing-library.com/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "react",
-        "testing-library",
-        "accessibility",
-        "user-testing"
-      ],
-      "searchIndex": [
-        "Testing Library",
-        "testing-library",
-        "Utilidades de testing React enfocadas en el usuario",
-        "testing",
-        "frameworks",
-        "react",
-        "accessibility",
-        "user-testing"
-      ],
-      "category": "testing",
-      "subcategory": "frameworks",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Completamente gratis, open source",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "testrail",
-      "name": "TestRail",
-      "slug": "testrail",
-      "description": "Gestión de casos de prueba y seguimiento de testing",
-      "url": "https://www.gurock.com/testrail",
-      "status": "active",
-      "tags": [
-        "testing",
-        "test-management",
-        "testrail",
-        "qa",
-        "test-cases"
-      ],
-      "searchIndex": [
-        "TestRail",
-        "testrail",
-        "Gestión de casos de prueba y seguimiento de testing",
-        "testing",
-        "platforms",
-        "test-management",
-        "qa",
-        "test-cases"
-      ],
-      "category": "testing",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Plan cloud desde $37/mes, trial disponible",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "transifex",
-      "name": "Transifex",
-      "slug": "transifex",
-      "description": "Plataforma de localización enterprise",
-      "url": "https://www.transifex.com/",
-      "status": "active",
-      "tags": [
-        "translation",
-        "localization",
-        "transifex",
-        "enterprise",
-        "localization-platform"
-      ],
-      "searchIndex": [
-        "Transifex",
-        "transifex",
-        "Plataforma de localización enterprise",
-        "translation",
-        "platforms",
-        "localization",
-        "enterprise",
-        "localization-platform"
-      ],
-      "category": "translation",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "1 proyecto gratis, plan free disponible",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "travis-ci",
-      "name": "Travis CI",
-      "slug": "travis-ci",
-      "description": "CI/CD para proyectos open source con integración GitHub",
-      "url": "https://travis-ci.com",
-      "status": "active",
-      "tags": [
-        "ci-cd",
-        "open-source",
-        "github",
-        "ci",
-        "legacy"
-      ],
-      "searchIndex": [
-        "Travis CI",
-        "travis-ci",
-        "CI/CD para proyectos open source con integración GitHub",
-        "devops",
-        "ci-cd",
-        "open-source",
-        "github",
-        "ci",
-        "legacy"
-      ],
-      "category": "devops",
-      "subcategory": "ci-cd",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Limitado para open source, créditos limitados",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "vitest",
-      "name": "Vitest",
-      "slug": "vitest",
-      "description": "Testing framework rápido para Vite con compatibilidad Jest",
-      "url": "https://vitest.dev/",
-      "status": "active",
-      "tags": [
-        "testing",
-        "vite",
-        "vitest",
-        "fast",
-        "jest-compatible"
-      ],
-      "searchIndex": [
-        "Vitest",
-        "vitest",
-        "Testing framework rápido para Vite con compatibilidad Jest",
-        "testing",
-        "frameworks",
-        "vite",
-        "fast",
-        "jest-compatible"
-      ],
-      "category": "testing",
-      "subcategory": "frameworks",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Completamente gratis, open source",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "kubernetes",
-      "name": "Kubernetes",
-      "slug": "kubernetes",
-      "description": "Orquestacion de contenedores",
-      "url": "https://kubernetes.io/",
-      "status": "active",
-      "tags": [
-        "kubernetes",
-        "containers",
-        "orchestration",
-        "devops"
-      ],
-      "searchIndex": [
-        "Kubernetes",
-        "kubernetes",
-        "Orquestacion de contenedores",
-        "devops",
-        "containers",
-        "kubernetes",
-        "containers",
-        "orchestration",
-        "devops"
-      ],
-      "category": "devops",
-      "subcategory": "containers",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-04-29",
-      "verified": true,
-      "noCreditCard": false
-    }
-  ]
+    "categories":  [
+                       {
+                           "id":  "testing",
+                           "name":  "Testing",
+                           "slug":  "testing",
+                           "resourceCount":  15,
+                           "status":  "active"
+                       },
+                       {
+                           "id":  "devops",
+                           "name":  "Devops",
+                           "slug":  "devops",
+                           "resourceCount":  12,
+                           "status":  "active"
+                       },
+                       {
+                           "id":  "translation",
+                           "name":  "Translation",
+                           "slug":  "translation",
+                           "resourceCount":  6,
+                           "status":  "active"
+                       }
+                   ],
+    "subcategories":  [
+                          {
+                              "id":  "load-testing",
+                              "name":  "Load Testing",
+                              "slug":  "load-testing",
+                              "category":  "testing",
+                              "resourceCount":  4,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "platforms",
+                              "name":  "Platforms",
+                              "slug":  "platforms",
+                              "category":  "testing",
+                              "resourceCount":  9,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "ci-cd",
+                              "name":  "Ci Cd",
+                              "slug":  "ci-cd",
+                              "category":  "devops",
+                              "resourceCount":  5,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "frameworks",
+                              "name":  "Frameworks",
+                              "slug":  "frameworks",
+                              "category":  "testing",
+                              "resourceCount":  6,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "tools",
+                              "name":  "Tools",
+                              "slug":  "tools",
+                              "category":  "translation",
+                              "resourceCount":  2,
+                              "status":  "active"
+                          },
+                          {
+                              "id":  "containers",
+                              "name":  "Containers",
+                              "slug":  "containers",
+                              "category":  "devops",
+                              "resourceCount":  7,
+                              "status":  "active"
+                          }
+                      ],
+    "resources":  [
+                      {
+                          "id":  "artillery",
+                          "name":  "Artillery",
+                          "slug":  "artillery",
+                          "description":  "Load testing moderno para APIs y microse",
+                          "url":  "https://artillery.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "load-testing",
+                                       "artillery",
+                                       "api",
+                                       "microservices"
+                                   ],
+                          "searchIndex":  [
+                                              "Artillery",
+                                              "artillery",
+                                              "Load testing moderno para APIs y microservicios",
+                                              "testing",
+                                              "load-testing",
+                                              "api",
+                                              "microservices"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "load-testing",
+                          "pricing":  "premium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Artillery open source gratis, cloud de pago",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "browserstack",
+                          "name":  "BrowserStack",
+                          "slug":  "browserstack",
+                          "description":  "Testing cross-browser en navegadores rea",
+                          "url":  "https://www.browserstack.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "cross-browser",
+                                       "browserstack",
+                                       "testing-platform",
+                                       "browsers"
+                                   ],
+                          "searchIndex":  [
+                                              "BrowserStack",
+                                              "browserstack",
+                                              "Testing cross-browser en navegadores reales",
+                                              "testing",
+                                              "platforms",
+                                              "cross-browser",
+                                              "testing-platform",
+                                              "browsers"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "100 minutos/mes gratis, plan open source disponible",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "circleci",
+                          "name":  "CircleCI",
+                          "slug":  "circleci",
+                          "description":  "CI/CD cloud con plan gratuito para proye",
+                          "url":  "https://circleci.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "ci-cd",
+                                       "cloud",
+                                       "automation",
+                                       "pipelines",
+                                       "devops"
+                                   ],
+                          "searchIndex":  [
+                                              "CircleCI",
+                                              "circleci",
+                                              "CI/CD cloud con plan gratuito para proyectos pequeños",
+                                              "devops",
+                                              "ci-cd",
+                                              "cloud",
+                                              "automation",
+                                              "pipelines"
+                                          ],
+                          "category":  "devops",
+                          "subcategory":  "ci-cd",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "2500 créditos/mes, 1 job concurrente",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "crowdin",
+                          "name":  "Crowdin",
+                          "slug":  "crowdin",
+                          "description":  "Plataforma de localización colaborativa",
+                          "url":  "https://crowdin.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "translation",
+                                       "localization",
+                                       "crowdin",
+                                       "collaboration",
+                                       "localization-platform"
+                                   ],
+                          "searchIndex":  [
+                                              "Crowdin",
+                                              "crowdin",
+                                              "Plataforma de localización colaborativa",
+                                              "translation",
+                                              "platforms",
+                                              "localization",
+                                              "collaboration",
+                                              "localization-platform"
+                                          ],
+                          "category":  "translation",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "3 proyectos gratis, open source ilimitado",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "cypress",
+                          "name":  "Cypress",
+                          "slug":  "cypress",
+                          "description":  "Testing frontend moderno con excelente D",
+                          "url":  "https://www.cypress.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "frontend",
+                                       "e2e",
+                                       "javascript",
+                                       "testing-framework"
+                                   ],
+                          "searchIndex":  [
+                                              "Cypress",
+                                              "cypress",
+                                              "Testing frontend moderno con excelente DX",
+                                              "testing",
+                                              "frameworks",
+                                              "frontend",
+                                              "e2e",
+                                              "javascript",
+                                              "testing-framework"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "frameworks",
+                          "pricing":  "premium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Gratis para proyectos personales, planes team de pago",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "deepl",
+                          "name":  "DeepL",
+                          "slug":  "deepl",
+                          "description":  "Traductor IA de alta calidad con context",
+                          "url":  "https://www.deepl.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "translation",
+                                       "ai",
+                                       "deepl",
+                                       "translation-tool",
+                                       "ai-translation"
+                                   ],
+                          "searchIndex":  [
+                                              "DeepL",
+                                              "deepl",
+                                              "Traductor IA de alta calidad con contexto",
+                                              "translation",
+                                              "tools",
+                                              "ai",
+                                              "translation-tool",
+                                              "ai-translation"
+                                          ],
+                          "category":  "translation",
+                          "subcategory":  "tools",
+                          "pricing":  "premium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "500k caracteres/mes gratis, plan pro de pago",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "docker",
+                          "name":  "Docker",
+                          "slug":  "docker",
+                          "description":  "Plataforma de contenedores estándar de",
+                          "url":  "https://docker.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "containers",
+                                       "docker",
+                                       "devops",
+                                       "deployment"
+                                   ],
+                          "searchIndex":  [
+                                              "Docker",
+                                              "docker",
+                                              "Plataforma de contenedores estándar de la industria",
+                                              "devops",
+                                              "containers",
+                                              "deployment"
+                                          ],
+                          "category":  "devops",
+                          "subcategory":  "containers",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Docker Desktop gratis para personal/small teams",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "github-actions",
+                          "name":  "GitHub Actions",
+                          "slug":  "github-actions",
+                          "description":  "CI/CD integrado en GitHub con workflows",
+                          "url":  "https://github.com/features/actions",
+                          "status":  "active",
+                          "tags":  [
+                                       "ci-cd",
+                                       "github",
+                                       "automation",
+                                       "workflows",
+                                       "devops"
+                                   ],
+                          "searchIndex":  [
+                                              "GitHub Actions",
+                                              "github-actions",
+                                              "CI/CD integrado en GitHub con workflows automatizados",
+                                              "devops",
+                                              "ci-cd",
+                                              "github",
+                                              "automation",
+                                              "workflows"
+                                          ],
+                          "category":  "devops",
+                          "subcategory":  "ci-cd",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "2000 minutos/mes gratis, repos públicos ilimitados",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "google-translate",
+                          "name":  "Google Translate",
+                          "slug":  "google-translate",
+                          "description":  "Traducción automática gratuita multi-i",
+                          "url":  "https://translate.google.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "translation",
+                                       "google",
+                                       "translation-tool",
+                                       "multi-language",
+                                       "free"
+                                   ],
+                          "searchIndex":  [
+                                              "Google Translate",
+                                              "google-translate",
+                                              "Traducción automática gratuita multi-idioma",
+                                              "translation",
+                                              "tools",
+                                              "google",
+                                              "translation-tool",
+                                              "multi-language",
+                                              "free"
+                                          ],
+                          "category":  "translation",
+                          "subcategory":  "tools",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Completamente gratis con límites de uso",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "jenkins",
+                          "name":  "Jenkins",
+                          "slug":  "jenkins",
+                          "description":  "CI/CD open source self-hosted con plugin",
+                          "url":  "https://www.jenkins.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "ci-cd",
+                                       "open-source",
+                                       "self-hosted",
+                                       "automation",
+                                       "plugins"
+                                   ],
+                          "searchIndex":  [
+                                              "Jenkins",
+                                              "jenkins",
+                                              "CI/CD open source self-hosted con plugins extensibles",
+                                              "devops",
+                                              "ci-cd",
+                                              "open-source",
+                                              "self-hosted",
+                                              "automation",
+                                              "plugins"
+                                          ],
+                          "category":  "devops",
+                          "subcategory":  "ci-cd",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Completamente gratis, self-hosted requiere infra",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "jest",
+                          "name":  "Jest",
+                          "slug":  "jest",
+                          "description":  "Framework de testing JavaScript de Faceb",
+                          "url":  "https://jestjs.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "javascript",
+                                       "jest",
+                                       "unit-testing",
+                                       "facebook"
+                                   ],
+                          "searchIndex":  [
+                                              "Jest",
+                                              "jest",
+                                              "Framework de testing JavaScript de Facebook",
+                                              "testing",
+                                              "frameworks",
+                                              "javascript",
+                                              "unit-testing",
+                                              "facebook"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "frameworks",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Completamente gratis, open source",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "k3s",
+                          "name":  "K3s",
+                          "slug":  "k3s",
+                          "description":  "Kubernetes ligero para edge y entornos c",
+                          "url":  "https://k3s.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "kubernetes",
+                                       "lightweight",
+                                       "edge",
+                                       "lightweight-k8s"
+                                   ],
+                          "searchIndex":  [
+                                              "K3s",
+                                              "k3s",
+                                              "Kubernetes ligero para edge y entornos con recursos limitados",
+                                              "devops",
+                                              "containers",
+                                              "kubernetes",
+                                              "lightweight",
+                                              "edge",
+                                              "lightweight-k8s"
+                                          ],
+                          "category":  "devops",
+                          "subcategory":  "containers",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Completamente gratis, open source",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "k6",
+                          "name":  "k6",
+                          "slug":  "k6",
+                          "description":  "Load testing open source para desarrolla",
+                          "url":  "https://k6.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "load-testing",
+                                       "k6",
+                                       "open-source",
+                                       "performance"
+                                   ],
+                          "searchIndex":  [
+                                              "k6",
+                                              "Load testing open source para desarrolladores",
+                                              "testing",
+                                              "load-testing",
+                                              "open-source",
+                                              "performance"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "load-testing",
+                          "pricing":  "premium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "k6 open source gratis, k6 cloud de pago",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "katalon",
+                          "name":  "Katalon",
+                          "slug":  "katalon",
+                          "description":  "Automatización testing todo-en-uno para",
+                          "url":  "https://katalon.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "automation",
+                                       "katalon",
+                                       "all-in-one",
+                                       "testing-tool"
+                                   ],
+                          "searchIndex":  [
+                                              "Katalon",
+                                              "katalon",
+                                              "Automatización testing todo-en-uno para web, mobile, API",
+                                              "testing",
+                                              "platforms",
+                                              "automation",
+                                              "all-in-one",
+                                              "testing-tool"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Versión free disponible con características limitadas",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "kind",
+                          "name":  "Kind",
+                          "slug":  "kind",
+                          "description":  "Kubernetes en Docker para desarrollo y t",
+                          "url":  "https://kind.sigs.k8s.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "kubernetes",
+                                       "docker",
+                                       "testing",
+                                       "development"
+                                   ],
+                          "searchIndex":  [
+                                              "Kind",
+                                              "kind",
+                                              "Kubernetes en Docker para desarrollo y testing local",
+                                              "devops",
+                                              "containers",
+                                              "kubernetes",
+                                              "docker",
+                                              "testing",
+                                              "development"
+                                          ],
+                          "category":  "devops",
+                          "subcategory":  "containers",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Completamente gratis, open source",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "kite",
+                          "name":  "Kite",
+                          "slug":  "kite",
+                          "description":  "Dashboard Kubernetes con IA multi-cluste",
+                          "url":  "https://github.com/kite-org/kite",
+                          "status":  "active",
+                          "tags":  [
+                                       "devops",
+                                       "ci-cd",
+                                       "y-devops-ci-cd",
+                                       "kite"
+                                   ],
+                          "searchIndex":  [
+                                              "Kite",
+                                              "kite",
+                                              "Dashboard Kubernetes con IA multi-cluste",
+                                              "devops",
+                                              "ci-cd",
+                                              "y-devops-ci-cd"
+                                          ],
+                          "category":  "devops",
+                          "subcategory":  "ci-cd",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "kubernetes",
+                          "name":  "Kubernetes",
+                          "slug":  "kubernetes",
+                          "description":  "Orquestacion de contenedores",
+                          "url":  "https://kubernetes.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "kubernetes",
+                                       "containers",
+                                       "orchestration",
+                                       "devops"
+                                   ],
+                          "searchIndex":  [
+                                              "Kubernetes",
+                                              "kubernetes",
+                                              "Orquestacion de contenedores",
+                                              "devops",
+                                              "containers",
+                                              "kubernetes",
+                                              "containers",
+                                              "orchestration",
+                                              "devops"
+                                          ],
+                          "category":  "devops",
+                          "subcategory":  "containers",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-04-29",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "lambdatest",
+                          "name":  "LambdaTest",
+                          "slug":  "lambdatest",
+                          "description":  "Testing cross-browser en 3000+ navegador",
+                          "url":  "https://www.lambdatest.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "cross-browser",
+                                       "lambdatest",
+                                       "cloud",
+                                       "testing-platform"
+                                   ],
+                          "searchIndex":  [
+                                              "LambdaTest",
+                                              "lambdatest",
+                                              "Testing cross-browser en 3000+ navegadores y dispositivos",
+                                              "testing",
+                                              "platforms",
+                                              "cross-browser",
+                                              "cloud",
+                                              "testing-platform"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "100 minutos/mes gratis, plan free disponible",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "lens",
+                          "name":  "Lens",
+                          "slug":  "lens",
+                          "description":  "IDE para Kubernetes con interfaz gráfic",
+                          "url":  "https://k8slens.dev/",
+                          "status":  "active",
+                          "tags":  [
+                                       "kubernetes",
+                                       "ide",
+                                       "gui",
+                                       "management"
+                                   ],
+                          "searchIndex":  [
+                                              "Lens",
+                                              "lens",
+                                              "IDE para Kubernetes con interfaz gráfica intuitiva",
+                                              "devops",
+                                              "containers",
+                                              "kubernetes",
+                                              "ide",
+                                              "gui",
+                                              "management"
+                                          ],
+                          "category":  "devops",
+                          "subcategory":  "containers",
+                          "pricing":  "premium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Lens IDE gratis, Lens Lens+ de pago",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "loader-io",
+                          "name":  "Loader.io",
+                          "slug":  "loader-io",
+                          "description":  "Load testing gratuito básico para aplic",
+                          "url":  "https://loader.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "load-testing",
+                                       "loader-io",
+                                       "free",
+                                       "web-testing"
+                                   ],
+                          "searchIndex":  [
+                                              "Loader.io",
+                                              "loader-io",
+                                              "Load testing gratuito básico para aplicaciones web",
+                                              "testing",
+                                              "load-testing",
+                                              "free",
+                                              "web-testing"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "load-testing",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "1 test gratis, 10k clientes por test",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "locust",
+                          "name":  "Locust",
+                          "slug":  "locust",
+                          "description":  "Load testing en Python escalable y distr",
+                          "url":  "https://locust.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "load-testing",
+                                       "locust",
+                                       "python",
+                                       "performance"
+                                   ],
+                          "searchIndex":  [
+                                              "Locust",
+                                              "locust",
+                                              "Load testing en Python escalable y distribuido",
+                                              "testing",
+                                              "load-testing",
+                                              "python",
+                                              "performance"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "load-testing",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Completamente gratis, open source",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "lokalise",
+                          "name":  "Lokalise",
+                          "slug":  "lokalise",
+                          "description":  "Plataforma de localización para equipos",
+                          "url":  "https://lokalise.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "translation",
+                                       "localization",
+                                       "lokalise",
+                                       "team",
+                                       "localization-platform"
+                                   ],
+                          "searchIndex":  [
+                                              "Lokalise",
+                                              "lokalise",
+                                              "Plataforma de localización para equipos",
+                                              "translation",
+                                              "platforms",
+                                              "localization",
+                                              "team",
+                                              "localization-platform"
+                                          ],
+                          "category":  "translation",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "2 usuarios gratis, 2000 strings, trial 14 días",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "minikube",
+                          "name":  "Minikube",
+                          "slug":  "minikube",
+                          "description":  "Kubernetes local para desarrollo y apren",
+                          "url":  "https://minikube.sigs.k8s.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "kubernetes",
+                                       "local",
+                                       "development",
+                                       "learning"
+                                   ],
+                          "searchIndex":  [
+                                              "Minikube",
+                                              "minikube",
+                                              "Kubernetes local para desarrollo y aprendizaje",
+                                              "devops",
+                                              "containers",
+                                              "kubernetes",
+                                              "local",
+                                              "development",
+                                              "learning"
+                                          ],
+                          "category":  "devops",
+                          "subcategory":  "containers",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Completamente gratis, open source",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "playwright",
+                          "name":  "Playwright",
+                          "slug":  "playwright",
+                          "description":  "Testing E2E Microsoft open source multi-",
+                          "url":  "https://playwright.dev/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "e2e",
+                                       "microsoft",
+                                       "open-source",
+                                       "automation"
+                                   ],
+                          "searchIndex":  [
+                                              "Playwright",
+                                              "playwright",
+                                              "Testing E2E Microsoft open source multi-navegador",
+                                              "testing",
+                                              "frameworks",
+                                              "e2e",
+                                              "microsoft",
+                                              "open-source",
+                                              "automation"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "frameworks",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Completamente gratis, open source",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "podman",
+                          "name":  "Podman",
+                          "slug":  "podman",
+                          "description":  "Alternativa Docker sin daemon con seguri",
+                          "url":  "https://podman.io/",
+                          "status":  "active",
+                          "tags":  [
+                                       "containers",
+                                       "podman",
+                                       "daemonless",
+                                       "security",
+                                       "docker-alternative"
+                                   ],
+                          "searchIndex":  [
+                                              "Podman",
+                                              "podman",
+                                              "Alternativa Docker sin daemon con seguridad mejorada",
+                                              "devops",
+                                              "containers",
+                                              "daemonless",
+                                              "security",
+                                              "docker-alternative"
+                                          ],
+                          "category":  "devops",
+                          "subcategory":  "containers",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Completamente gratis, open source",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "poeditor",
+                          "name":  "POEditor",
+                          "slug":  "poeditor",
+                          "description":  "Gestión de traducciones con interfaz in",
+                          "url":  "https://poeditor.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "translation",
+                                       "localization",
+                                       "poeditor",
+                                       "translation-management",
+                                       "localization-platform"
+                                   ],
+                          "searchIndex":  [
+                                              "POEditor",
+                                              "poeditor",
+                                              "Gestión de traducciones con interfaz intuitiva",
+                                              "translation",
+                                              "platforms",
+                                              "localization",
+                                              "translation-management",
+                                              "localization-platform"
+                                          ],
+                          "category":  "translation",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "1000 strings gratis, plan free disponible",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "saucelabs",
+                          "name":  "Sauce Labs",
+                          "slug":  "sauce-labs",
+                          "description":  "Testing automatizado en nube con múltip",
+                          "url":  "https://saucelabs.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "automated",
+                                       "saucelabs",
+                                       "cloud",
+                                       "testing-platform"
+                                   ],
+                          "searchIndex":  [
+                                              "Sauce Labs",
+                                              "sauce-labs",
+                                              "Testing automatizado en nube con múltiples navegadores",
+                                              "testing",
+                                              "platforms",
+                                              "automated",
+                                              "saucelabs",
+                                              "cloud",
+                                              "testing-platform"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "100 minutos/mes gratis, plan open source disponible",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "screenshot-pipeline-qa",
+                          "name":  "Screenshot Pipeline QA",
+                          "slug":  "screenshot-pipeline-qa",
+                          "description":  "Pipeline automatizado screenshots para Q",
+                          "url":  "https://calibreapp.com/blog/screenshot-pipeline-qa-review",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "frameworks",
+                                       "yz-testing-qa",
+                                       "screenshot-pipeline-qa"
+                                   ],
+                          "searchIndex":  [
+                                              "Screenshot Pipeline QA",
+                                              "screenshot-pipeline-qa",
+                                              "Pipeline automatizado screenshots para Q",
+                                              "testing",
+                                              "frameworks",
+                                              "yz-testing-qa"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "frameworks",
+                          "pricing":  "free",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "unknown",
+                          "added":  "2026-05-11",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "testing-library",
+                          "name":  "Testing Library",
+                          "slug":  "testing-library",
+                          "description":  "Utilidades de testing React enfocadas en",
+                          "url":  "https://testing-library.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "react",
+                                       "testing-library",
+                                       "accessibility",
+                                       "user-testing"
+                                   ],
+                          "searchIndex":  [
+                                              "Testing Library",
+                                              "testing-library",
+                                              "Utilidades de testing React enfocadas en el usuario",
+                                              "testing",
+                                              "frameworks",
+                                              "react",
+                                              "accessibility",
+                                              "user-testing"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "frameworks",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Completamente gratis, open source",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "testrail",
+                          "name":  "TestRail",
+                          "slug":  "testrail",
+                          "description":  "Gestión de casos de prueba y seguimient",
+                          "url":  "https://www.gurock.com/testrail",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "test-management",
+                                       "testrail",
+                                       "qa",
+                                       "test-cases"
+                                   ],
+                          "searchIndex":  [
+                                              "TestRail",
+                                              "testrail",
+                                              "Gestión de casos de prueba y seguimiento de testing",
+                                              "testing",
+                                              "platforms",
+                                              "test-management",
+                                              "qa",
+                                              "test-cases"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Plan cloud desde $37/mes, trial disponible",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "transifex",
+                          "name":  "Transifex",
+                          "slug":  "transifex",
+                          "description":  "Plataforma de localización enterprise",
+                          "url":  "https://www.transifex.com/",
+                          "status":  "active",
+                          "tags":  [
+                                       "translation",
+                                       "localization",
+                                       "transifex",
+                                       "enterprise",
+                                       "localization-platform"
+                                   ],
+                          "searchIndex":  [
+                                              "Transifex",
+                                              "transifex",
+                                              "Plataforma de localización enterprise",
+                                              "translation",
+                                              "platforms",
+                                              "localization",
+                                              "enterprise",
+                                              "localization-platform"
+                                          ],
+                          "category":  "translation",
+                          "subcategory":  "platforms",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "1 proyecto gratis, plan free disponible",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  false
+                      },
+                      {
+                          "id":  "travis-ci",
+                          "name":  "Travis CI",
+                          "slug":  "travis-ci",
+                          "description":  "CI/CD para proyectos open source con int",
+                          "url":  "https://travis-ci.com",
+                          "status":  "active",
+                          "tags":  [
+                                       "ci-cd",
+                                       "open-source",
+                                       "github",
+                                       "ci",
+                                       "legacy"
+                                   ],
+                          "searchIndex":  [
+                                              "Travis CI",
+                                              "travis-ci",
+                                              "CI/CD para proyectos open source con integración GitHub",
+                                              "devops",
+                                              "ci-cd",
+                                              "open-source",
+                                              "github",
+                                              "ci",
+                                              "legacy"
+                                          ],
+                          "category":  "devops",
+                          "subcategory":  "ci-cd",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Limitado para open source, créditos limitados",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      },
+                      {
+                          "id":  "vitest",
+                          "name":  "Vitest",
+                          "slug":  "vitest",
+                          "description":  "Testing framework rápido para Vite con",
+                          "url":  "https://vitest.dev/",
+                          "status":  "active",
+                          "tags":  [
+                                       "testing",
+                                       "vite",
+                                       "vitest",
+                                       "fast",
+                                       "jest-compatible"
+                                   ],
+                          "searchIndex":  [
+                                              "Vitest",
+                                              "vitest",
+                                              "Testing framework rápido para Vite con compatibilidad Jest",
+                                              "testing",
+                                              "frameworks",
+                                              "vite",
+                                              "fast",
+                                              "jest-compatible"
+                                          ],
+                          "category":  "testing",
+                          "subcategory":  "frameworks",
+                          "pricing":  "freemium",
+                          "languages":  [
+                                            "es",
+                                            "en"
+                                        ],
+                          "limits":  "Completamente gratis, open source",
+                          "added":  "2026-01-10",
+                          "verified":  true,
+                          "noCreditCard":  true
+                      }
+                  ]
 }

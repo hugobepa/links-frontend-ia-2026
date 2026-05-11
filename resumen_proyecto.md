@@ -1,8 +1,8 @@
 # Resumen del Proyecto / Project Summary
 
-**Versión**: 1.2.0  
+**Versión**: 1.3.0  
 **Creado**: 09/05/2026  
-**Actualizado**: 10/05/2026  
+**Actualizado**: 11/05/2026  
 **Rama activa**: 002-links-frontend-ia-phase-2  
 **Tipo**: Documentación de estado actual (Fases 1-3) / Current state documentation (Phases 1-3)
 
@@ -19,6 +19,13 @@ Documentar el estado actual del repositorio, tecnologías activas, configuració
 La puntera activa de Speckit se ha movido a la fase 7 de Preparación GitHub para crear el repo, configurar Pages y preparar el deployment.
 La fase 7 usa combinación de brainstorming + speckit para diseñar la estrategia de deployment.
 La fase 6 dispone de spec, plan y tasks para SEO local y ya genera canonical, alternate, robots, llms y sitemap.
+
+### Actualización 11/05/2026 — Sincronización de enlaces
+
+- Se sincronizaron enlaces de `preproyecto/link-general.md` hacia `src/data` y `src/interfaces` mediante el script `scripts/sync-link-general.ps1`.
+- Resultado de sincronización: 289 enlaces nuevos insertados en la primera corrida, 0 insertados en reejecución (idempotencia).
+- Validación final: 1018 recursos totales, 0 URLs duplicadas y 0 descripciones con más de 40 caracteres.
+- Se regeneraron índices de búsqueda y contratos TypeScript para mantener consistencia entre datasets e interfaces.
 
 ### Stack Principal
 
@@ -41,6 +48,13 @@ Document the repository's current state, active technologies, Speckit configurat
 The active Speckit pointer now targets phase 7 GitHub Prep to create the repo, configure Pages, and prepare deployment.
 Phase 7 uses a combination of brainstorming + speckit to design the deployment strategy.
 Phase 6 has spec, plan, and tasks for local SEO and already generates canonical, alternate, robots, llms, and sitemap.
+
+### Update 2026-05-11 — Link synchronization
+
+- Links from `preproyecto/link-general.md` were synchronized into `src/data` and `src/interfaces` through `scripts/sync-link-general.ps1`.
+- Sync outcome: 289 new links inserted on first run, 0 inserted on rerun (idempotent behavior).
+- Final validation: 1018 total resources, 0 duplicate URLs, and 0 descriptions over 40 characters.
+- Search indexes and TypeScript data contracts were regenerated to keep datasets and interfaces aligned.
 
 ### Primary Stack
 
