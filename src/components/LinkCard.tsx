@@ -8,7 +8,7 @@ interface LinkCardProps {
 }
 
 export default function LinkCard({ link, lang = "es" }: LinkCardProps) {
-  const t = getTranslationForLang("linkCard", lang);
+  const t = getTranslationForLang("linkCard", lang) as Record<string, string>;
   const visitText = t.visit || (lang === "es" ? "Visitar" : "Visit");
   const verifiedText =
     t.verified || (lang === "es" ? "Verificado" : "Verified");

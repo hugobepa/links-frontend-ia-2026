@@ -1,1268 +1,1343 @@
 {
-    "tags":  {
-                 "ai":  {
-                            "count":  2,
-                            "color":  "#dc2626",
-                            "description":  "Etiqueta ai"
-                        },
-                 "github":  {
-                                "count":  6,
-                                "color":  "#d97706",
-                                "description":  "Etiqueta github"
-                            },
-                 "repos":  {
-                               "count":  2,
-                               "color":  "#d97706",
-                               "description":  "Etiqueta repos"
-                           },
-                 "top":  {
-                             "count":  2,
-                             "color":  "#ea580c",
-                             "description":  "Etiqueta top"
-                         },
-                 "css":  {
-                             "count":  2,
-                             "color":  "#ea580c",
-                             "description":  "Etiqueta css"
-                         },
-                 "animation":  {
-                                   "count":  1,
-                                   "color":  "#2563eb",
-                                   "description":  "Etiqueta animation"
-                               },
-                 "vanilla":  {
-                                 "count":  2,
-                                 "color":  "#d97706",
-                                 "description":  "Etiqueta vanilla"
-                             },
-                 "codepen":  {
-                                 "count":  1,
-                                 "color":  "#7c3aed",
-                                 "description":  "Etiqueta codepen"
-                             },
-                 "cv":  {
-                            "count":  1,
-                            "color":  "#65a30d",
-                            "description":  "Etiqueta cv"
-                        },
-                 "latex":  {
-                               "count":  1,
-                               "color":  "#dc2626",
-                               "description":  "Etiqueta latex"
-                           },
-                 "templates":  {
-                                   "count":  1,
-                                   "color":  "#0891b2",
-                                   "description":  "Etiqueta templates"
-                               },
-                 "resume":  {
-                                "count":  1,
-                                "color":  "#65a30d",
-                                "description":  "Etiqueta resume"
-                            },
-                 "utilities":  {
-                                   "count":  8,
-                                   "color":  "#db2777",
-                                   "description":  "Etiqueta utilities"
-                               },
-                 "dev-tools":  {
-                                   "count":  8,
-                                   "color":  "#0891b2",
-                                   "description":  "Etiqueta dev-tools"
-                               },
-                 "y-utilidades-herramientas":  {
-                                                   "count":  8,
-                                                   "color":  "#db2777",
-                                                   "description":  "Etiqueta y-utilidades-herramientas"
-                                               },
-                 "y-i-herramientas-dev":  {
-                                              "count":  8,
-                                              "color":  "#d97706",
-                                              "description":  "Etiqueta y-i-herramientas-dev"
-                                          },
-                 "bearnie-dev":  {
-                                     "count":  1,
-                                     "color":  "#2563eb",
-                                     "description":  "Etiqueta bearnie-dev"
-                                 },
-                 "skeleton":  {
-                                  "count":  1,
-                                  "color":  "#ea580c",
-                                  "description":  "Etiqueta skeleton"
-                              },
-                 "components":  {
-                                    "count":  1,
-                                    "color":  "#7c3aed",
-                                    "description":  "Etiqueta components"
-                                },
-                 "react":  {
-                               "count":  5,
-                               "color":  "#65a30d",
-                               "description":  "Etiqueta react"
-                           },
-                 "bsky-comments":  {
-                                       "count":  1,
-                                       "color":  "#4f46e5",
-                                       "description":  "Etiqueta bsky-comments"
-                                   },
-                 "transcription":  {
-                                       "count":  1,
-                                       "color":  "#7c3aed",
-                                       "description":  "Etiqueta transcription"
-                                   },
-                 "audio":  {
-                               "count":  1,
-                               "color":  "#2563eb",
-                               "description":  "Etiqueta audio"
-                           },
-                 "video":  {
-                               "count":  2,
-                               "color":  "#0891b2",
-                               "description":  "Etiqueta video"
-                           },
-                 "whisper":  {
-                                 "count":  1,
-                                 "color":  "#2563eb",
-                                 "description":  "Etiqueta whisper"
-                             },
-                 "canvas":  {
-                                "count":  1,
-                                "color":  "#4f46e5",
-                                "description":  "Etiqueta canvas"
-                            },
-                 "effects":  {
-                                 "count":  2,
-                                 "color":  "#4f46e5",
-                                 "description":  "Etiqueta effects"
-                             },
-                 "npm":  {
-                             "count":  4,
-                             "color":  "#059669",
-                             "description":  "Etiqueta npm"
-                         },
-                 "javascript":  {
-                                    "count":  4,
-                                    "color":  "#ea580c",
-                                    "description":  "Etiqueta javascript"
-                                },
-                 "cms":  {
-                             "count":  9,
-                             "color":  "#d97706",
-                             "description":  "Etiqueta cms"
-                         },
-                 "headless":  {
-                                  "count":  5,
-                                  "color":  "#059669",
-                                  "description":  "Etiqueta headless"
-                              },
-                 "saas":  {
-                              "count":  1,
-                              "color":  "#7c3aed",
-                              "description":  "Etiqueta saas"
-                          },
-                 "content":  {
-                                 "count":  2,
-                                 "color":  "#d97706",
-                                 "description":  "Etiqueta content"
-                             },
-                 "mcp":  {
-                             "count":  1,
-                             "color":  "#2563eb",
-                             "description":  "Etiqueta mcp"
-                         },
-                 "data":  {
-                              "count":  1,
-                              "color":  "#2563eb",
-                              "description":  "Etiqueta data"
-                          },
-                 "government":  {
-                                    "count":  1,
-                                    "color":  "#d97706",
-                                    "description":  "Etiqueta government"
-                                },
-                 "france":  {
-                                "count":  1,
-                                "color":  "#d97706",
-                                "description":  "Etiqueta france"
-                            },
-                 "datatype":  {
-                                  "count":  1,
-                                  "color":  "#2563eb",
-                                  "description":  "Etiqueta datatype"
-                              },
-                 "backend":  {
-                                 "count":  1,
-                                 "color":  "#dc2626",
-                                 "description":  "Etiqueta backend"
-                             },
-                 "open-source":  {
-                                     "count":  9,
-                                     "color":  "#4f46e5",
-                                     "description":  "Etiqueta open-source"
-                                 },
-                 "platforms":  {
-                                   "count":  1,
-                                   "color":  "#7c3aed",
-                                   "description":  "Etiqueta platforms"
-                               },
-                 "y-cms-content":  {
-                                       "count":  1,
-                                       "color":  "#65a30d",
-                                       "description":  "Etiqueta y-cms-content"
-                                   },
-                 "emdash":  {
-                                "count":  1,
-                                "color":  "#4f46e5",
-                                "description":  "Etiqueta emdash"
-                            },
-                 "ecommerce":  {
-                                   "count":  1,
-                                   "color":  "#7c3aed",
-                                   "description":  "Etiqueta ecommerce"
-                               },
-                 "template":  {
-                                  "count":  1,
-                                  "color":  "#2563eb",
-                                  "description":  "Etiqueta template"
-                              },
-                 "api":  {
-                             "count":  3,
-                             "color":  "#7c3aed",
-                             "description":  "Etiqueta api"
-                         },
-                 "scraping":  {
-                                  "count":  3,
-                                  "color":  "#0891b2",
-                                  "description":  "Etiqueta scraping"
-                              },
-                 "search":  {
-                                "count":  2,
-                                "color":  "#2563eb",
-                                "description":  "Etiqueta search"
-                            },
-                 "free":  {
-                              "count":  3,
-                              "color":  "#db2777",
-                              "description":  "Etiqueta free"
-                          },
-                 "dev":  {
-                             "count":  1,
-                             "color":  "#ea580c",
-                             "description":  "Etiqueta dev"
-                         },
-                 "resources":  {
-                                   "count":  3,
-                                   "color":  "#65a30d",
-                                   "description":  "Etiqueta resources"
-                               },
-                 "list":  {
-                              "count":  2,
-                              "color":  "#7c3aed",
-                              "description":  "Etiqueta list"
-                          },
-                 "frontend":  {
-                                  "count":  1,
-                                  "color":  "#7c3aed",
-                                  "description":  "Etiqueta frontend"
-                              },
-                 "collection":  {
-                                    "count":  2,
-                                    "color":  "#db2777",
-                                    "description":  "Etiqueta collection"
-                                },
-                 "ghost":  {
-                               "count":  1,
-                               "color":  "#ea580c",
-                               "description":  "Etiqueta ghost"
-                           },
-                 "publishing":  {
-                                    "count":  1,
-                                    "color":  "#65a30d",
-                                    "description":  "Etiqueta publishing"
-                                },
-                 "modern":  {
-                                "count":  2,
-                                "color":  "#0891b2",
-                                "description":  "Etiqueta modern"
-                            },
-                 "nextjs":  {
-                                "count":  1,
-                                "color":  "#db2777",
-                                "description":  "Etiqueta nextjs"
-                            },
-                 "errors":  {
-                                "count":  2,
-                                "color":  "#ea580c",
-                                "description":  "Etiqueta errors"
-                            },
-                 "debugging":  {
-                                   "count":  1,
-                                   "color":  "#2563eb",
-                                   "description":  "Etiqueta debugging"
-                               },
-                 "grid":  {
-                              "count":  1,
-                              "color":  "#dc2626",
-                              "description":  "Etiqueta grid"
-                          },
-                 "layout":  {
-                                "count":  1,
-                                "color":  "#2563eb",
-                                "description":  "Etiqueta layout"
-                            },
-                 "ip":  {
-                            "count":  1,
-                            "color":  "#65a30d",
-                            "description":  "Etiqueta ip"
-                        },
-                 "lookup":  {
-                                "count":  1,
-                                "color":  "#4f46e5",
-                                "description":  "Etiqueta lookup"
-                            },
-                 "vps":  {
-                             "count":  1,
-                             "color":  "#0891b2",
-                             "description":  "Etiqueta vps"
-                         },
-                 "guide":  {
-                               "count":  1,
-                               "color":  "#4f46e5",
-                               "description":  "Etiqueta guide"
-                           },
-                 "tutorial":  {
-                                  "count":  1,
-                                  "color":  "#7c3aed",
-                                  "description":  "Etiqueta tutorial"
-                              },
-                 "spanish":  {
-                                 "count":  1,
-                                 "color":  "#db2777",
-                                 "description":  "Etiqueta spanish"
-                             },
-                 "automation":  {
-                                    "count":  1,
-                                    "color":  "#ea580c",
-                                    "description":  "Etiqueta automation"
-                                },
-                 "monosketch":  {
-                                    "count":  1,
-                                    "color":  "#d97706",
-                                    "description":  "Etiqueta monosketch"
-                                },
-                 "alternatives":  {
-                                      "count":  2,
-                                      "color":  "#db2777",
-                                      "description":  "Etiqueta alternatives"
-                                  },
-                 "packages":  {
-                                  "count":  1,
-                                  "color":  "#059669",
-                                  "description":  "Etiqueta packages"
-                              },
-                 "editing":  {
-                                 "count":  1,
-                                 "color":  "#2563eb",
-                                 "description":  "Etiqueta editing"
-                             },
-                 "seo":  {
-                             "count":  1,
-                             "color":  "#65a30d",
-                             "description":  "Etiqueta seo"
-                         },
-                 "pdf":  {
-                             "count":  1,
-                             "color":  "#7c3aed",
-                             "description":  "Etiqueta pdf"
-                         },
-                 "viewer":  {
-                                "count":  1,
-                                "color":  "#db2777",
-                                "description":  "Etiqueta viewer"
-                            },
-                 "pretext":  {
-                                 "count":  1,
-                                 "color":  "#2563eb",
-                                 "description":  "Etiqueta pretext"
-                             },
-                 "documents":  {
-                                   "count":  1,
-                                   "color":  "#db2777",
-                                   "description":  "Etiqueta documents"
-                               },
-                 "hosting":  {
-                                 "count":  1,
-                                 "color":  "#7c3aed",
-                                 "description":  "Etiqueta hosting"
-                             },
-                 "vercel":  {
-                                "count":  1,
-                                "color":  "#059669",
-                                "description":  "Etiqueta vercel"
-                            },
-                 "comparison":  {
-                                    "count":  1,
-                                    "color":  "#d97706",
-                                    "description":  "Etiqueta comparison"
-                                },
-                 "realtime":  {
-                                  "count":  1,
-                                  "color":  "#059669",
-                                  "description":  "Etiqueta realtime"
-                              },
-                 "editor":  {
-                                "count":  1,
-                                "color":  "#65a30d",
-                                "description":  "Etiqueta editor"
-                            },
-                 "monitoring":  {
-                                    "count":  1,
-                                    "color":  "#7c3aed",
-                                    "description":  "Etiqueta monitoring"
-                                },
-                 "logs":  {
-                              "count":  1,
-                              "color":  "#65a30d",
-                              "description":  "Etiqueta logs"
-                          },
-                 "parallax":  {
-                                  "count":  1,
-                                  "color":  "#d97706",
-                                  "description":  "Etiqueta parallax"
-                              },
-                 "simple":  {
-                                "count":  1,
-                                "color":  "#2563eb",
-                                "description":  "Etiqueta simple"
-                            },
-                 "nodejs":  {
-                                "count":  1,
-                                "color":  "#d97706",
-                                "description":  "Etiqueta nodejs"
-                            },
-                 "streaming":  {
-                                   "count":  1,
-                                   "color":  "#2563eb",
-                                   "description":  "Etiqueta streaming"
-                               },
-                 "entertainment":  {
-                                       "count":  1,
-                                       "color":  "#4f46e5",
-                                       "description":  "Etiqueta entertainment"
-                                   },
-                 "modals":  {
-                                "count":  1,
-                                "color":  "#2563eb",
-                                "description":  "Etiqueta modals"
-                            },
-                 "alerts":  {
-                                "count":  1,
-                                "color":  "#059669",
-                                "description":  "Etiqueta alerts"
-                            },
-                 "testing-opengraph":  {
-                                           "count":  1,
-                                           "color":  "#0891b2",
-                                           "description":  "Etiqueta testing-opengraph"
-                                       },
-                 "theme":  {
-                               "count":  1,
-                               "color":  "#059669",
-                               "description":  "Etiqueta theme"
-                           },
-                 "dark-mode":  {
-                                   "count":  1,
-                                   "color":  "#7c3aed",
-                                   "description":  "Etiqueta dark-mode"
-                               },
-                 "toggle":  {
-                                "count":  1,
-                                "color":  "#dc2626",
-                                "description":  "Etiqueta toggle"
-                            },
-                 "ui":  {
-                            "count":  1,
-                            "color":  "#dc2626",
-                            "description":  "Etiqueta ui"
-                        },
-                 "tiks":  {
-                              "count":  1,
-                              "color":  "#d97706",
-                              "description":  "Etiqueta tiks"
-                          },
-                 "git":  {
-                             "count":  1,
-                             "color":  "#7c3aed",
-                             "description":  "Etiqueta git"
-                         },
-                 "git-based":  {
-                                   "count":  1,
-                                   "color":  "#2563eb",
-                                   "description":  "Etiqueta git-based"
-                               },
-                 "2025":  {
-                              "count":  1,
-                              "color":  "#059669",
-                              "description":  "Etiqueta 2025"
-                          },
-                 "design-system":  {
-                                       "count":  1,
-                                       "color":  "#4f46e5",
-                                       "description":  "Etiqueta design-system"
-                                   },
-                 "web-dev":  {
-                                 "count":  1,
-                                 "color":  "#dc2626",
-                                 "description":  "Etiqueta web-dev"
-                             },
-                 "wordpress":  {
-                                   "count":  1,
-                                   "color":  "#059669",
-                                   "description":  "Etiqueta wordpress"
-                               },
-                 "blogging":  {
-                                  "count":  1,
-                                  "color":  "#059669",
-                                  "description":  "Etiqueta blogging"
-                              },
-                 "xml-comparator":  {
-                                        "count":  1,
-                                        "color":  "#dc2626",
-                                        "description":  "Etiqueta xml-comparator"
-                                    }
-             },
-    "searchIndex":  {
-                        "fields":  [
-                                       {
-                                           "name":  "name",
-                                           "weight":  3,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "description",
-                                           "weight":  2,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "tags",
-                                           "weight":  2,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "category",
-                                           "weight":  1,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "subcategory",
-                                           "weight":  1,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       }
-                                   ],
-                        "entries":  [
-                                        {
-                                            "id":  "5-best-ai-repos",
-                                            "slug":  "5-best-ai-repos",
-                                            "terms":  [
-                                                          "5 Best AI Repos",
-                                                          "5-best-ai-repos",
-                                                          "Top 5 repos IA",
-                                                          "utilities",
-                                                          "general-resources",
-                                                          "ai",
-                                                          "github",
-                                                          "repos",
-                                                          "top"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "animation-css",
-                                            "slug":  "animation-css",
-                                            "terms":  [
-                                                          "Animation CSS",
-                                                          "animation-css",
-                                                          "Vanilla CSS animation",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "css",
-                                                          "animation",
-                                                          "vanilla",
-                                                          "codepen"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "awesome-cv",
-                                            "slug":  "awesome-cv",
-                                            "terms":  [
-                                                          "Awesome CV",
-                                                          "awesome-cv",
-                                                          "Plantillas CV LaTeX",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "cv",
-                                                          "latex",
-                                                          "templates",
-                                                          "resume"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "bearnie-dev",
-                                            "slug":  "bearnie-dev",
-                                            "terms":  [
-                                                          "Bearnie Dev",
-                                                          "bearnie-dev",
-                                                          "Recursos y herramientas dev",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "y-utilidades-herramientas",
-                                                          "y-i-herramientas-dev"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "boneyard",
-                                            "slug":  "boneyard",
-                                            "terms":  [
-                                                          "Boneyard",
-                                                          "boneyard",
-                                                          "Skeleton components",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "skeleton",
-                                                          "components",
-                                                          "react",
-                                                          "github"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "bsky-comments",
-                                            "slug":  "bsky-comments",
-                                            "terms":  [
-                                                          "Bsky Comments",
-                                                          "bsky-comments",
-                                                          "Comentarios con Bluesky en web",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "y-utilidades-herramientas",
-                                                          "y-i-herramientas-dev"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "buzz-whisper",
-                                            "slug":  "buzz-whisper",
-                                            "terms":  [
-                                                          "Buzz Whisper",
-                                                          "buzz-whisper",
-                                                          "Transcripción audio/video",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "transcription",
-                                                          "audio",
-                                                          "video",
-                                                          "whisper"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "canvas-confetti",
-                                            "slug":  "canvas-confetti",
-                                            "terms":  [
-                                                          "Canvas Confetti",
-                                                          "canvas-confetti",
-                                                          "Efectos confetti en canvas",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "canvas",
-                                                          "effects",
-                                                          "npm",
-                                                          "javascript"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "contentful",
-                                            "slug":  "contentful",
-                                            "terms":  [
-                                                          "Contentful",
-                                                          "contentful",
-                                                          "CMS headless 5 usuarios gratis",
-                                                          "cms",
-                                                          "platforms",
-                                                          "headless",
-                                                          "saas",
-                                                          "content"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "datagouv-mcp",
-                                            "slug":  "datagouv-mcp",
-                                            "terms":  [
-                                                          "Datagouv MCP",
-                                                          "datagouv-mcp",
-                                                          "MCP datos gobierno francés",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "mcp",
-                                                          "data",
-                                                          "government",
-                                                          "france"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "datatype",
-                                            "slug":  "datatype",
-                                            "terms":  [
-                                                          "DataType",
-                                                          "datatype",
-                                                          "Visualizador tipos datos interactivo",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "y-utilidades-herramientas",
-                                                          "y-i-herramientas-dev"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "directus",
-                                            "slug":  "directus",
-                                            "terms":  [
-                                                          "Directus",
-                                                          "directus",
-                                                          "CMS y backend open source",
-                                                          "cms",
-                                                          "platforms",
-                                                          "backend",
-                                                          "open-source",
-                                                          "headless"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "emdash",
-                                            "slug":  "emdash",
-                                            "terms":  [
-                                                          "Emdash",
-                                                          "emdash",
-                                                          "CMS headless moderno open source",
-                                                          "cms",
-                                                          "platforms",
-                                                          "y-cms-content"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "evershop",
-                                            "slug":  "evershop",
-                                            "terms":  [
-                                                          "EverShop",
-                                                          "evershop",
-                                                          "eCommerce plantilla React",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "ecommerce",
-                                                          "react",
-                                                          "template",
-                                                          "open-source"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "firecrawl",
-                                            "slug":  "firecrawl",
-                                            "terms":  [
-                                                          "FireCrawl",
-                                                          "firecrawl",
-                                                          "API para buscar y scrapear web a escala",
-                                                          "utilities",
-                                                          "seo-scraping",
-                                                          "api",
-                                                          "scraping",
-                                                          "search",
-                                                          "open-source"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "free-for-dev",
-                                            "slug":  "free-for-dev",
-                                            "terms":  [
-                                                          "Free For Dev",
-                                                          "free-for-dev",
-                                                          "Recursos gratis para devs",
-                                                          "utilities",
-                                                          "general-resources",
-                                                          "free",
-                                                          "dev",
-                                                          "resources",
-                                                          "list"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "frontend-resources",
-                                            "slug":  "frontend-resources",
-                                            "terms":  [
-                                                          "Frontend Resources",
-                                                          "frontend-resources",
-                                                          "Recursos frontend GitHub",
-                                                          "utilities",
-                                                          "general-resources",
-                                                          "frontend",
-                                                          "resources",
-                                                          "github",
-                                                          "collection"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "ghost",
-                                            "slug":  "ghost",
-                                            "terms":  [
-                                                          "Ghost",
-                                                          "ghost",
-                                                          "Plataforma publishing moderna",
-                                                          "cms",
-                                                          "platforms",
-                                                          "publishing",
-                                                          "modern"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "graphite",
-                                            "slug":  "graphite",
-                                            "terms":  [
-                                                          "Graphite",
-                                                          "graphite",
-                                                          "Errores comunes Next.js",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "nextjs",
-                                                          "errors",
-                                                          "debugging",
-                                                          "react"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "gridstack",
-                                            "slug":  "gridstack",
-                                            "terms":  [
-                                                          "GridStack",
-                                                          "gridstack",
-                                                          "Creador plantilla Grid",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "grid",
-                                                          "layout",
-                                                          "npm",
-                                                          "javascript"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "ipquery-io",
-                                            "slug":  "ipquery-io",
-                                            "terms":  [
-                                                          "ipquery.io",
-                                                          "ipquery-io",
-                                                          "API gratuita extraer info de una IP",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "api",
-                                                          "ip",
-                                                          "free",
-                                                          "lookup"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "israel-casado-vps",
-                                            "slug":  "israel-casado-vps",
-                                            "terms":  [
-                                                          "Israel Casado VPS",
-                                                          "israel-casado-vps",
-                                                          "Guía crear VPS propio",
-                                                          "utilities",
-                                                          "general-resources",
-                                                          "vps",
-                                                          "guide",
-                                                          "tutorial",
-                                                          "spanish"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "maxun",
-                                            "slug":  "maxun",
-                                            "terms":  [
-                                                          "Maxun",
-                                                          "maxun",
-                                                          "Website a API estructurada",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "api",
-                                                          "scraping",
-                                                          "automation",
-                                                          "open-source"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "monosketch",
-                                            "slug":  "monosketch",
-                                            "terms":  [
-                                                          "MonoSketch",
-                                                          "monosketch",
-                                                          "Herramienta diagramas ASCII online",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "y-utilidades-herramientas",
-                                                          "y-i-herramientas-dev"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "npm-alternatives",
-                                            "slug":  "npm-alternatives",
-                                            "terms":  [
-                                                          "NPM Alternatives",
-                                                          "npm-alternatives",
-                                                          "npms.io, npmsearch.com",
-                                                          "utilities",
-                                                          "general-resources",
-                                                          "npm",
-                                                          "alternatives",
-                                                          "packages",
-                                                          "search"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "openmontage",
-                                            "slug":  "openmontage",
-                                            "terms":  [
-                                                          "OpenMontage",
-                                                          "openmontage",
-                                                          "Edición video agéntico",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "video",
-                                                          "editing",
-                                                          "ai",
-                                                          "open-source"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "openseo-github",
-                                            "slug":  "openseo-github",
-                                            "terms":  [
-                                                          "OpenSEO GitHub",
-                                                          "openseo-github",
-                                                          "Buscador SEO open source repo",
-                                                          "utilities",
-                                                          "seo-scraping",
-                                                          "seo",
-                                                          "scraping",
-                                                          "open-source",
-                                                          "github"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "pdfx",
-                                            "slug":  "pdfx",
-                                            "terms":  [
-                                                          "PDFX",
-                                                          "pdfx",
-                                                          "React PDF rápido y moderno",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "pdf",
-                                                          "react",
-                                                          "viewer",
-                                                          "modern"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "pretext",
-                                            "slug":  "pretext",
-                                            "terms":  [
-                                                          "Pretext",
-                                                          "pretext",
-                                                          "Preprocessor texto ligero para web",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "y-utilidades-herramientas",
-                                                          "y-i-herramientas-dev"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "prismic",
-                                            "slug":  "prismic",
-                                            "terms":  [
-                                                          "Prismic",
-                                                          "prismic",
-                                                          "CMS headless documentos ilimitados",
-                                                          "cms",
-                                                          "platforms",
-                                                          "headless",
-                                                          "documents",
-                                                          "content"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "punits-vercel-alternatives",
-                                            "slug":  "punits-vercel-alternatives",
-                                            "terms":  [
-                                                          "Punits Vercel Alternatives",
-                                                          "punits-vercel-alternatives",
-                                                          "Alternativas hosting Vercel",
-                                                          "utilities",
-                                                          "general-resources",
-                                                          "hosting",
-                                                          "vercel",
-                                                          "alternatives",
-                                                          "comparison"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "sanity",
-                                            "slug":  "sanity",
-                                            "terms":  [
-                                                          "Sanity",
-                                                          "sanity",
-                                                          "CMS headless con editor real-time",
-                                                          "cms",
-                                                          "platforms",
-                                                          "headless",
-                                                          "realtime",
-                                                          "editor"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "sentry",
-                                            "slug":  "sentry",
-                                            "terms":  [
-                                                          "Sentry",
-                                                          "sentry",
-                                                          "control logs web live real",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "monitoring",
-                                                          "logs",
-                                                          "errors"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "simple-parallax",
-                                            "slug":  "simple-parallax",
-                                            "terms":  [
-                                                          "Simple Parallax",
-                                                          "simple-parallax",
-                                                          "Efecto parallax simple",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "parallax",
-                                                          "effects",
-                                                          "javascript",
-                                                          "simple"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "strapi",
-                                            "slug":  "strapi",
-                                            "terms":  [
-                                                          "Strapi",
-                                                          "strapi",
-                                                          "CMS headless open source",
-                                                          "cms",
-                                                          "platforms",
-                                                          "headless",
-                                                          "open-source",
-                                                          "nodejs"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "stremio-web",
-                                            "slug":  "stremio-web",
-                                            "terms":  [
-                                                          "Stremio Web",
-                                                          "stremio-web",
-                                                          "Netflix open source",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "streaming",
-                                                          "open-source",
-                                                          "react",
-                                                          "entertainment"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "sweetalert2",
-                                            "slug":  "sweetalert2",
-                                            "terms":  [
-                                                          "SweetAlert2",
-                                                          "sweetalert2",
-                                                          "Modales bonitos y personalizables",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "modals",
-                                                          "alerts",
-                                                          "npm",
-                                                          "javascript"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "testing-opengraph",
-                                            "slug":  "testing-opengraph",
-                                            "terms":  [
-                                                          "Testing OpenGraph",
-                                                          "testing-opengraph",
-                                                          "Testear OpenGraph desde CLI",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "y-utilidades-herramientas",
-                                                          "y-i-herramientas-dev"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "theme-toggle",
-                                            "slug":  "theme-toggle",
-                                            "terms":  [
-                                                          "Theme Toggle",
-                                                          "theme-toggle",
-                                                          "Transición modo oscuro/día",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "theme",
-                                                          "dark-mode",
-                                                          "toggle",
-                                                          "ui"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "tiks",
-                                            "slug":  "tiks",
-                                            "terms":  [
-                                                          "Tiks",
-                                                          "tiks",
-                                                          "Herramienta dev interfaz minimal",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "y-utilidades-herramientas",
-                                                          "y-i-herramientas-dev"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "tinacms",
-                                            "slug":  "tinacms",
-                                            "terms":  [
-                                                          "TinaCMS",
-                                                          "tinacms",
-                                                          "CMS git-based open source",
-                                                          "cms",
-                                                          "platforms",
-                                                          "git",
-                                                          "open-source",
-                                                          "git-based"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "top-10-repos-2025",
-                                            "slug":  "top-10-repos-2025",
-                                            "terms":  [
-                                                          "Top 10 Repos 2025",
-                                                          "top-10-repos-2025",
-                                                          "Top 10 repos web dev",
-                                                          "utilities",
-                                                          "general-resources",
-                                                          "github",
-                                                          "repos",
-                                                          "top",
-                                                          "2025"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "vanilla-css",
-                                            "slug":  "vanilla-css",
-                                            "terms":  [
-                                                          "Vanilla CSS",
-                                                          "vanilla-css",
-                                                          "Vanilla CSS design system",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "css",
-                                                          "design-system",
-                                                          "vanilla",
-                                                          "github"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "web-dev-resources",
-                                            "slug":  "web-dev-resources",
-                                            "terms":  [
-                                                          "Web Dev Resources",
-                                                          "web-dev-resources",
-                                                          "Lista recursos web dev",
-                                                          "utilities",
-                                                          "general-resources",
-                                                          "resources",
-                                                          "web-dev",
-                                                          "list",
-                                                          "collection"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "wordpress-com",
-                                            "slug":  "wordpress-com",
-                                            "terms":  [
-                                                          "WordPress.com",
-                                                          "wordpress-com",
-                                                          "CMS y blogging plan gratis",
-                                                          "cms",
-                                                          "platforms",
-                                                          "wordpress",
-                                                          "blogging",
-                                                          "free"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "xml-comparator",
-                                            "slug":  "xml-comparator",
-                                            "terms":  [
-                                                          "XML Comparator",
-                                                          "xml-comparator",
-                                                          "Comparador XML online gratuito",
-                                                          "utilities",
-                                                          "dev-tools",
-                                                          "y-utilidades-herramientas",
-                                                          "y-i-herramientas-dev"
-                                                      ]
-                                        }
-                                    ]
-                    },
-    "filters":  {
-                    "categories":  [
-                                       "cms",
-                                       "utilities"
-                                   ],
-                    "subcategories":  [
-                                          "dev-tools",
-                                          "general-resources",
-                                          "platforms",
-                                          "seo-scraping"
-                                      ],
-                    "pricing":  [
-                                    "free",
-                                    "freemium"
-                                ],
-                    "languages":  [
-                                      "en",
-                                      "es",
-                                      "fr"
-                                  ],
-                    "status":  [
-                                   "active"
-                               ],
-                    "verified":  [
-                                     true
-                                 ],
-                    "noCreditCard":  [
-                                         false,
-                                         true
-                                     ]
-                },
-    "ui":  {
-               "dataset":  "utilidades-2_cms",
-               "title":  "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
-               "description":  "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-               "resourceCount":  46
-           }
+  "tags": {
+    "2025": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta 2025"
+    },
+    "ai": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta ai"
+    },
+    "alerts": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta alerts"
+    },
+    "alternatives": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta alternatives"
+    },
+    "animation": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta animation"
+    },
+    "api": {
+      "count": 3,
+      "color": "#7c3aed",
+      "description": "Etiqueta api"
+    },
+    "audio": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta audio"
+    },
+    "automation": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta automation"
+    },
+    "backend": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta backend"
+    },
+    "bearnie-dev": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta bearnie-dev"
+    },
+    "blogging": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta blogging"
+    },
+    "bsky-comments": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta bsky-comments"
+    },
+    "canvas": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta canvas"
+    },
+    "cms": {
+      "count": 9,
+      "color": "#d97706",
+      "description": "Etiqueta cms"
+    },
+    "codepen": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta codepen"
+    },
+    "collection": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta collection"
+    },
+    "comparison": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta comparison"
+    },
+    "components": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta components"
+    },
+    "content": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta content"
+    },
+    "css": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta css"
+    },
+    "cv": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta cv"
+    },
+    "dark-mode": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta dark-mode"
+    },
+    "data": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta data"
+    },
+    "datatype": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta datatype"
+    },
+    "debugging": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta debugging"
+    },
+    "design-system": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta design-system"
+    },
+    "dev": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta dev"
+    },
+    "dev-tools": {
+      "count": 8,
+      "color": "#0891b2",
+      "description": "Etiqueta dev-tools"
+    },
+    "documents": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta documents"
+    },
+    "ecommerce": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta ecommerce"
+    },
+    "editing": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta editing"
+    },
+    "editor": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta editor"
+    },
+    "effects": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta effects"
+    },
+    "emdash": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta emdash"
+    },
+    "entertainment": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta entertainment"
+    },
+    "errors": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta errors"
+    },
+    "firecrawl-gh": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta firecrawl-gh"
+    },
+    "france": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta france"
+    },
+    "free": {
+      "count": 3,
+      "color": "#db2777",
+      "description": "Etiqueta free"
+    },
+    "frontend": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta frontend"
+    },
+    "ghost": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta ghost"
+    },
+    "git": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta git"
+    },
+    "git-based": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta git-based"
+    },
+    "github": {
+      "count": 6,
+      "color": "#d97706",
+      "description": "Etiqueta github"
+    },
+    "government": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta government"
+    },
+    "grid": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta grid"
+    },
+    "guide": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta guide"
+    },
+    "headless": {
+      "count": 5,
+      "color": "#059669",
+      "description": "Etiqueta headless"
+    },
+    "hosting": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta hosting"
+    },
+    "ip": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta ip"
+    },
+    "javascript": {
+      "count": 4,
+      "color": "#ea580c",
+      "description": "Etiqueta javascript"
+    },
+    "latex": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta latex"
+    },
+    "layout": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta layout"
+    },
+    "list": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta list"
+    },
+    "logs": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta logs"
+    },
+    "lookup": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta lookup"
+    },
+    "mcp": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta mcp"
+    },
+    "modals": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta modals"
+    },
+    "modern": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta modern"
+    },
+    "monitoring": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta monitoring"
+    },
+    "monosketch": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta monosketch"
+    },
+    "nextjs": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta nextjs"
+    },
+    "nodejs": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta nodejs"
+    },
+    "npm": {
+      "count": 4,
+      "color": "#059669",
+      "description": "Etiqueta npm"
+    },
+    "open-source": {
+      "count": 9,
+      "color": "#4f46e5",
+      "description": "Etiqueta open-source"
+    },
+    "packages": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta packages"
+    },
+    "parallax": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta parallax"
+    },
+    "pdf": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta pdf"
+    },
+    "platforms": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta platforms"
+    },
+    "pretext": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta pretext"
+    },
+    "publishing": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta publishing"
+    },
+    "react": {
+      "count": 5,
+      "color": "#65a30d",
+      "description": "Etiqueta react"
+    },
+    "realtime": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta realtime"
+    },
+    "repos": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta repos"
+    },
+    "resources": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta resources"
+    },
+    "resume": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta resume"
+    },
+    "saas": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta saas"
+    },
+    "scraping": {
+      "count": 3,
+      "color": "#0891b2",
+      "description": "Etiqueta scraping"
+    },
+    "search": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta search"
+    },
+    "seo": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta seo"
+    },
+    "seo-scraping": {
+      "count": 4,
+      "color": "#65a30d",
+      "description": "Etiqueta seo-scraping"
+    },
+    "simple": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta simple"
+    },
+    "skeleton": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta skeleton"
+    },
+    "social-media-scraping-apis": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta social-media-scraping-apis"
+    },
+    "spanish": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta spanish"
+    },
+    "streaming": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta streaming"
+    },
+    "template": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta template"
+    },
+    "templates": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta templates"
+    },
+    "testing-opengraph": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta testing-opengraph"
+    },
+    "theme": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta theme"
+    },
+    "tiks": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta tiks"
+    },
+    "toggle": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta toggle"
+    },
+    "top": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta top"
+    },
+    "toprank": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta toprank"
+    },
+    "transcription": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta transcription"
+    },
+    "tutorial": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta tutorial"
+    },
+    "ui": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta ui"
+    },
+    "utilidades-herramientas": {
+      "count": 4,
+      "color": "#dc2626",
+      "description": "Etiqueta utilidades-herramientas"
+    },
+    "utilities": {
+      "count": 12,
+      "color": "#db2777",
+      "description": "Etiqueta utilities"
+    },
+    "vanilla": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta vanilla"
+    },
+    "vercel": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta vercel"
+    },
+    "video": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta video"
+    },
+    "viewer": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta viewer"
+    },
+    "vps": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta vps"
+    },
+    "web-dev": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta web-dev"
+    },
+    "website-downloader": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta website-downloader"
+    },
+    "whisper": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta whisper"
+    },
+    "wordpress": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta wordpress"
+    },
+    "xml-comparator": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta xml-comparator"
+    },
+    "y-cms-content": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta y-cms-content"
+    },
+    "y-i-herramientas-dev": {
+      "count": 8,
+      "color": "#d97706",
+      "description": "Etiqueta y-i-herramientas-dev"
+    },
+    "y-utilidades-herramientas": {
+      "count": 8,
+      "color": "#db2777",
+      "description": "Etiqueta y-utilidades-herramientas"
+    }
+  },
+  "searchIndex": {
+    "fields": [
+      {
+        "name": "name",
+        "weight": 3,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "description",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "tags",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "category",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "subcategory",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      }
+    ],
+    "entries": [
+      {
+        "id": "5-best-ai-repos",
+        "slug": "5-best-ai-repos",
+        "terms": [
+          "5 Best AI Repos",
+          "5-best-ai-repos",
+          "Top 5 repos IA",
+          "utilities",
+          "general-resources",
+          "ai",
+          "github",
+          "repos",
+          "top"
+        ]
+      },
+      {
+        "id": "animation-css",
+        "slug": "animation-css",
+        "terms": [
+          "Animation CSS",
+          "animation-css",
+          "Vanilla CSS animation",
+          "utilities",
+          "dev-tools",
+          "css",
+          "animation",
+          "vanilla",
+          "codepen"
+        ]
+      },
+      {
+        "id": "awesome-cv",
+        "slug": "awesome-cv",
+        "terms": [
+          "Awesome CV",
+          "awesome-cv",
+          "Plantillas CV LaTeX",
+          "utilities",
+          "dev-tools",
+          "cv",
+          "latex",
+          "templates",
+          "resume"
+        ]
+      },
+      {
+        "id": "bearnie-dev",
+        "slug": "bearnie-dev",
+        "terms": [
+          "Bearnie Dev",
+          "bearnie-dev",
+          "Recursos y herramientas dev",
+          "utilities",
+          "dev-tools",
+          "y-utilidades-herramientas",
+          "y-i-herramientas-dev"
+        ]
+      },
+      {
+        "id": "boneyard",
+        "slug": "boneyard",
+        "terms": [
+          "Boneyard",
+          "boneyard",
+          "Skeleton components",
+          "utilities",
+          "dev-tools",
+          "skeleton",
+          "components",
+          "react",
+          "github"
+        ]
+      },
+      {
+        "id": "bsky-comments",
+        "slug": "bsky-comments",
+        "terms": [
+          "Bsky Comments",
+          "bsky-comments",
+          "Comentarios con Bluesky en web",
+          "utilities",
+          "dev-tools",
+          "y-utilidades-herramientas",
+          "y-i-herramientas-dev"
+        ]
+      },
+      {
+        "id": "buzz-whisper",
+        "slug": "buzz-whisper",
+        "terms": [
+          "Buzz Whisper",
+          "buzz-whisper",
+          "Transcripción audio/video",
+          "utilities",
+          "dev-tools",
+          "transcription",
+          "audio",
+          "video",
+          "whisper"
+        ]
+      },
+      {
+        "id": "canvas-confetti",
+        "slug": "canvas-confetti",
+        "terms": [
+          "Canvas Confetti",
+          "canvas-confetti",
+          "Efectos confetti en canvas",
+          "utilities",
+          "dev-tools",
+          "canvas",
+          "effects",
+          "npm",
+          "javascript"
+        ]
+      },
+      {
+        "id": "contentful",
+        "slug": "contentful",
+        "terms": [
+          "Contentful",
+          "contentful",
+          "CMS headless 5 usuarios gratis",
+          "cms",
+          "platforms",
+          "headless",
+          "saas",
+          "content"
+        ]
+      },
+      {
+        "id": "datagouv-mcp",
+        "slug": "datagouv-mcp",
+        "terms": [
+          "Datagouv MCP",
+          "datagouv-mcp",
+          "MCP datos gobierno francés",
+          "utilities",
+          "dev-tools",
+          "mcp",
+          "data",
+          "government",
+          "france"
+        ]
+      },
+      {
+        "id": "datatype",
+        "slug": "datatype",
+        "terms": [
+          "DataType",
+          "datatype",
+          "Visualizador tipos datos interactivo",
+          "utilities",
+          "dev-tools",
+          "y-utilidades-herramientas",
+          "y-i-herramientas-dev"
+        ]
+      },
+      {
+        "id": "directus",
+        "slug": "directus",
+        "terms": [
+          "Directus",
+          "directus",
+          "CMS y backend open source",
+          "cms",
+          "platforms",
+          "backend",
+          "open-source",
+          "headless"
+        ]
+      },
+      {
+        "id": "emdash",
+        "slug": "emdash",
+        "terms": [
+          "Emdash",
+          "emdash",
+          "CMS headless moderno open source",
+          "cms",
+          "platforms",
+          "y-cms-content"
+        ]
+      },
+      {
+        "id": "evershop",
+        "slug": "evershop",
+        "terms": [
+          "EverShop",
+          "evershop",
+          "eCommerce plantilla React",
+          "utilities",
+          "dev-tools",
+          "ecommerce",
+          "react",
+          "template",
+          "open-source"
+        ]
+      },
+      {
+        "id": "firecrawl",
+        "slug": "firecrawl",
+        "terms": [
+          "FireCrawl",
+          "firecrawl",
+          "API para buscar y scrapear web a escala",
+          "utilities",
+          "seo-scraping",
+          "api",
+          "scraping",
+          "search",
+          "open-source"
+        ]
+      },
+      {
+        "id": "firecrawl-gh",
+        "slug": "firecrawl-gh",
+        "terms": [
+          "firecrawl-gh",
+          "Repo oficial Firecrawl en GitHub",
+          "utilities",
+          "seo-scraping",
+          "utilidades-herramientas"
+        ]
+      },
+      {
+        "id": "free-for-dev",
+        "slug": "free-for-dev",
+        "terms": [
+          "Free For Dev",
+          "free-for-dev",
+          "Recursos gratis para devs",
+          "utilities",
+          "general-resources",
+          "free",
+          "dev",
+          "resources",
+          "list"
+        ]
+      },
+      {
+        "id": "frontend-resources",
+        "slug": "frontend-resources",
+        "terms": [
+          "Frontend Resources",
+          "frontend-resources",
+          "Recursos frontend GitHub",
+          "utilities",
+          "general-resources",
+          "frontend",
+          "resources",
+          "github",
+          "collection"
+        ]
+      },
+      {
+        "id": "ghost",
+        "slug": "ghost",
+        "terms": [
+          "Ghost",
+          "ghost",
+          "Plataforma publishing moderna",
+          "cms",
+          "platforms",
+          "publishing",
+          "modern"
+        ]
+      },
+      {
+        "id": "graphite",
+        "slug": "graphite",
+        "terms": [
+          "Graphite",
+          "graphite",
+          "Errores comunes Next.js",
+          "utilities",
+          "dev-tools",
+          "nextjs",
+          "errors",
+          "debugging",
+          "react"
+        ]
+      },
+      {
+        "id": "gridstack",
+        "slug": "gridstack",
+        "terms": [
+          "GridStack",
+          "gridstack",
+          "Creador plantilla Grid",
+          "utilities",
+          "dev-tools",
+          "grid",
+          "layout",
+          "npm",
+          "javascript"
+        ]
+      },
+      {
+        "id": "ipquery-io",
+        "slug": "ipquery-io",
+        "terms": [
+          "ipquery.io",
+          "ipquery-io",
+          "API gratuita extraer info de una IP",
+          "utilities",
+          "dev-tools",
+          "api",
+          "ip",
+          "free",
+          "lookup"
+        ]
+      },
+      {
+        "id": "israel-casado-vps",
+        "slug": "israel-casado-vps",
+        "terms": [
+          "Israel Casado VPS",
+          "israel-casado-vps",
+          "Guía crear VPS propio",
+          "utilities",
+          "general-resources",
+          "vps",
+          "guide",
+          "tutorial",
+          "spanish"
+        ]
+      },
+      {
+        "id": "maxun",
+        "slug": "maxun",
+        "terms": [
+          "Maxun",
+          "maxun",
+          "Website a API estructurada",
+          "utilities",
+          "dev-tools",
+          "api",
+          "scraping",
+          "automation",
+          "open-source"
+        ]
+      },
+      {
+        "id": "monosketch",
+        "slug": "monosketch",
+        "terms": [
+          "MonoSketch",
+          "monosketch",
+          "Herramienta diagramas ASCII online",
+          "utilities",
+          "dev-tools",
+          "y-utilidades-herramientas",
+          "y-i-herramientas-dev"
+        ]
+      },
+      {
+        "id": "npm-alternatives",
+        "slug": "npm-alternatives",
+        "terms": [
+          "NPM Alternatives",
+          "npm-alternatives",
+          "npms.io, npmsearch.com",
+          "utilities",
+          "general-resources",
+          "npm",
+          "alternatives",
+          "packages",
+          "search"
+        ]
+      },
+      {
+        "id": "openmontage",
+        "slug": "openmontage",
+        "terms": [
+          "OpenMontage",
+          "openmontage",
+          "Edición video agéntico",
+          "utilities",
+          "dev-tools",
+          "video",
+          "editing",
+          "ai",
+          "open-source"
+        ]
+      },
+      {
+        "id": "openseo-github",
+        "slug": "openseo-github",
+        "terms": [
+          "OpenSEO GitHub",
+          "openseo-github",
+          "Buscador SEO open source repo",
+          "utilities",
+          "seo-scraping",
+          "seo",
+          "scraping",
+          "open-source",
+          "github"
+        ]
+      },
+      {
+        "id": "pdfx",
+        "slug": "pdfx",
+        "terms": [
+          "PDFX",
+          "pdfx",
+          "React PDF rápido y moderno",
+          "utilities",
+          "dev-tools",
+          "pdf",
+          "react",
+          "viewer",
+          "modern"
+        ]
+      },
+      {
+        "id": "pretext",
+        "slug": "pretext",
+        "terms": [
+          "Pretext",
+          "pretext",
+          "Preprocessor texto ligero para web",
+          "utilities",
+          "dev-tools",
+          "y-utilidades-herramientas",
+          "y-i-herramientas-dev"
+        ]
+      },
+      {
+        "id": "prismic",
+        "slug": "prismic",
+        "terms": [
+          "Prismic",
+          "prismic",
+          "CMS headless documentos ilimitados",
+          "cms",
+          "platforms",
+          "headless",
+          "documents",
+          "content"
+        ]
+      },
+      {
+        "id": "punits-vercel-alternatives",
+        "slug": "punits-vercel-alternatives",
+        "terms": [
+          "Punits Vercel Alternatives",
+          "punits-vercel-alternatives",
+          "Alternativas hosting Vercel",
+          "utilities",
+          "general-resources",
+          "hosting",
+          "vercel",
+          "alternatives",
+          "comparison"
+        ]
+      },
+      {
+        "id": "sanity",
+        "slug": "sanity",
+        "terms": [
+          "Sanity",
+          "sanity",
+          "CMS headless con editor real-time",
+          "cms",
+          "platforms",
+          "headless",
+          "realtime",
+          "editor"
+        ]
+      },
+      {
+        "id": "sentry",
+        "slug": "sentry",
+        "terms": [
+          "Sentry",
+          "sentry",
+          "control logs web live real",
+          "utilities",
+          "dev-tools",
+          "monitoring",
+          "logs",
+          "errors"
+        ]
+      },
+      {
+        "id": "simple-parallax",
+        "slug": "simple-parallax",
+        "terms": [
+          "Simple Parallax",
+          "simple-parallax",
+          "Efecto parallax simple",
+          "utilities",
+          "dev-tools",
+          "parallax",
+          "effects",
+          "javascript",
+          "simple"
+        ]
+      },
+      {
+        "id": "social-media-scraping-apis",
+        "slug": "social-media-scraping-apis",
+        "terms": [
+          "social-media-scraping-apis",
+          "APIs para scraping social media",
+          "utilities",
+          "seo-scraping",
+          "utilidades-herramientas"
+        ]
+      },
+      {
+        "id": "strapi",
+        "slug": "strapi",
+        "terms": [
+          "Strapi",
+          "strapi",
+          "CMS headless open source",
+          "cms",
+          "platforms",
+          "headless",
+          "open-source",
+          "nodejs"
+        ]
+      },
+      {
+        "id": "stremio-web",
+        "slug": "stremio-web",
+        "terms": [
+          "Stremio Web",
+          "stremio-web",
+          "Netflix open source",
+          "utilities",
+          "dev-tools",
+          "streaming",
+          "open-source",
+          "react",
+          "entertainment"
+        ]
+      },
+      {
+        "id": "sweetalert2",
+        "slug": "sweetalert2",
+        "terms": [
+          "SweetAlert2",
+          "sweetalert2",
+          "Modales bonitos y personalizables",
+          "utilities",
+          "dev-tools",
+          "modals",
+          "alerts",
+          "npm",
+          "javascript"
+        ]
+      },
+      {
+        "id": "testing-opengraph",
+        "slug": "testing-opengraph",
+        "terms": [
+          "Testing OpenGraph",
+          "testing-opengraph",
+          "Testear OpenGraph desde CLI",
+          "utilities",
+          "dev-tools",
+          "y-utilidades-herramientas",
+          "y-i-herramientas-dev"
+        ]
+      },
+      {
+        "id": "theme-toggle",
+        "slug": "theme-toggle",
+        "terms": [
+          "Theme Toggle",
+          "theme-toggle",
+          "Transición modo oscuro/día",
+          "utilities",
+          "dev-tools",
+          "theme",
+          "dark-mode",
+          "toggle",
+          "ui"
+        ]
+      },
+      {
+        "id": "tiks",
+        "slug": "tiks",
+        "terms": [
+          "Tiks",
+          "tiks",
+          "Herramienta dev interfaz minimal",
+          "utilities",
+          "dev-tools",
+          "y-utilidades-herramientas",
+          "y-i-herramientas-dev"
+        ]
+      },
+      {
+        "id": "tinacms",
+        "slug": "tinacms",
+        "terms": [
+          "TinaCMS",
+          "tinacms",
+          "CMS git-based open source",
+          "cms",
+          "platforms",
+          "git",
+          "open-source",
+          "git-based"
+        ]
+      },
+      {
+        "id": "top-10-repos-2025",
+        "slug": "top-10-repos-2025",
+        "terms": [
+          "Top 10 Repos 2025",
+          "top-10-repos-2025",
+          "Top 10 repos web dev",
+          "utilities",
+          "general-resources",
+          "github",
+          "repos",
+          "top",
+          "2025"
+        ]
+      },
+      {
+        "id": "toprank",
+        "slug": "toprank",
+        "terms": [
+          "toprank",
+          "Herramienta SEO ranking web",
+          "utilities",
+          "seo-scraping",
+          "utilidades-herramientas"
+        ]
+      },
+      {
+        "id": "vanilla-css",
+        "slug": "vanilla-css",
+        "terms": [
+          "Vanilla CSS",
+          "vanilla-css",
+          "Vanilla CSS design system",
+          "utilities",
+          "dev-tools",
+          "css",
+          "design-system",
+          "vanilla",
+          "github"
+        ]
+      },
+      {
+        "id": "web-dev-resources",
+        "slug": "web-dev-resources",
+        "terms": [
+          "Web Dev Resources",
+          "web-dev-resources",
+          "Lista recursos web dev",
+          "utilities",
+          "general-resources",
+          "resources",
+          "web-dev",
+          "list",
+          "collection"
+        ]
+      },
+      {
+        "id": "website-downloader",
+        "slug": "website-downloader",
+        "terms": [
+          "Website-downloader",
+          "website-downloader",
+          "Descarga sitios web completos",
+          "utilities",
+          "seo-scraping",
+          "utilidades-herramientas"
+        ]
+      },
+      {
+        "id": "wordpress-com",
+        "slug": "wordpress-com",
+        "terms": [
+          "WordPress.com",
+          "wordpress-com",
+          "CMS y blogging plan gratis",
+          "cms",
+          "platforms",
+          "wordpress",
+          "blogging",
+          "free"
+        ]
+      },
+      {
+        "id": "xml-comparator",
+        "slug": "xml-comparator",
+        "terms": [
+          "XML Comparator",
+          "xml-comparator",
+          "Comparador XML online gratuito",
+          "utilities",
+          "dev-tools",
+          "y-utilidades-herramientas",
+          "y-i-herramientas-dev"
+        ]
+      }
+    ]
+  },
+  "filters": {
+    "categories": [
+      "cms",
+      "utilities"
+    ],
+    "subcategories": [
+      "dev-tools",
+      "general-resources",
+      "platforms",
+      "seo-scraping"
+    ],
+    "pricing": [
+      "free",
+      "freemium"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr"
+    ],
+    "status": [
+      "active"
+    ],
+    "verified": [
+      true
+    ],
+    "noCreditCard": [
+      false,
+      true
+    ]
+  },
+  "ui": {
+    "dataset": "utilidades-2_cms",
+    "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
+    "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
+    "resourceCount": 50
+  }
 }

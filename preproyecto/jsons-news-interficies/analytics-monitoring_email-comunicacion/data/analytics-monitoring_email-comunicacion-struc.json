@@ -1,1239 +1,1265 @@
 {
-    "tags":  {
-                 "real-time":  {
-                                   "count":  4,
-                                   "color":  "#4f46e5",
-                                   "description":  "Etiqueta real-time"
-                               },
-                 "messaging":  {
-                                   "count":  8,
-                                   "color":  "#db2777",
-                                   "description":  "Etiqueta messaging"
-                               },
-                 "infrastructure":  {
-                                        "count":  3,
-                                        "color":  "#65a30d",
-                                        "description":  "Etiqueta infrastructure"
-                                    },
-                 "pubsub":  {
-                                "count":  2,
-                                "color":  "#65a30d",
-                                "description":  "Etiqueta pubsub"
-                            },
-                 "sms":  {
-                             "count":  4,
-                             "color":  "#ea580c",
-                             "description":  "Etiqueta sms"
-                         },
-                 "aws":  {
-                             "count":  1,
-                             "color":  "#059669",
-                             "description":  "Etiqueta aws"
-                         },
-                 "notifications":  {
-                                       "count":  4,
-                                       "color":  "#dc2626",
-                                       "description":  "Etiqueta notifications"
-                                   },
-                 "cloud":  {
-                               "count":  1,
-                               "color":  "#0891b2",
-                               "description":  "Etiqueta cloud"
-                           },
-                 "monitoring":  {
-                                    "count":  10,
-                                    "color":  "#7c3aed",
-                                    "description":  "Etiqueta monitoring"
-                                },
-                 "on-call":  {
-                                 "count":  1,
-                                 "color":  "#db2777",
-                                 "description":  "Etiqueta on-call"
-                             },
-                 "alerts":  {
-                                "count":  3,
-                                "color":  "#059669",
-                                "description":  "Etiqueta alerts"
-                            },
-                 "logging":  {
-                                 "count":  3,
-                                 "color":  "#d97706",
-                                 "description":  "Etiqueta logging"
-                             },
-                 "email":  {
-                               "count":  8,
-                               "color":  "#2563eb",
-                               "description":  "Etiqueta email"
-                           },
-                 "npm":  {
-                             "count":  1,
-                             "color":  "#059669",
-                             "description":  "Etiqueta npm"
-                         },
-                 "cli":  {
-                             "count":  1,
-                             "color":  "#dc2626",
-                             "description":  "Etiqueta cli"
-                         },
-                 "react":  {
-                               "count":  2,
-                               "color":  "#65a30d",
-                               "description":  "Etiqueta react"
-                           },
-                 "chat":  {
-                              "count":  6,
-                              "color":  "#4f46e5",
-                              "description":  "Etiqueta chat"
-                          },
-                 "support":  {
-                                 "count":  6,
-                                 "color":  "#65a30d",
-                                 "description":  "Etiqueta support"
-                             },
-                 "customer-service":  {
-                                          "count":  2,
-                                          "color":  "#2563eb",
-                                          "description":  "Etiqueta customer-service"
-                                      },
-                 "analytics":  {
-                                   "count":  6,
-                                   "color":  "#db2777",
-                                   "description":  "Etiqueta analytics"
-                               },
-                 "logs":  {
-                              "count":  1,
-                              "color":  "#65a30d",
-                              "description":  "Etiqueta logs"
-                          },
-                 "sales":  {
-                               "count":  1,
-                               "color":  "#4f46e5",
-                               "description":  "Etiqueta sales"
-                           },
-                 "conversational":  {
-                                        "count":  1,
-                                        "color":  "#dc2626",
-                                        "description":  "Etiqueta conversational"
-                                    },
-                 "marketing":  {
-                                   "count":  2,
-                                   "color":  "#dc2626",
-                                   "description":  "Etiqueta marketing"
-                               },
-                 "notifications-messaging":  {
-                                                 "count":  2,
-                                                 "color":  "#0891b2",
-                                                 "description":  "Etiqueta notifications-messaging"
-                                             },
-                 "y-email-comunicacia-n":  {
-                                               "count":  2,
-                                               "color":  "#7c3aed",
-                                               "description":  "Etiqueta y-email-comunicacia-n"
-                                           },
-                 "email-transaccional":  {
-                                             "count":  2,
-                                             "color":  "#d97706",
-                                             "description":  "Etiqueta email-transaccional"
-                                         },
-                 "email-obfuscation":  {
-                                           "count":  1,
-                                           "color":  "#4f46e5",
-                                           "description":  "Etiqueta email-obfuscation"
-                                       },
-                 "push":  {
-                              "count":  3,
-                              "color":  "#db2777",
-                              "description":  "Etiqueta push"
-                          },
-                 "firebase":  {
-                                  "count":  1,
-                                  "color":  "#d97706",
-                                  "description":  "Etiqueta firebase"
-                              },
-                 "google":  {
-                                "count":  2,
-                                "color":  "#65a30d",
-                                "description":  "Etiqueta google"
-                            },
-                 "free":  {
-                              "count":  5,
-                              "color":  "#db2777",
-                              "description":  "Etiqueta free"
-                          },
-                 "seo":  {
-                             "count":  7,
-                             "color":  "#65a30d",
-                             "description":  "Etiqueta seo"
-                         },
-                 "scraping":  {
-                                  "count":  1,
-                                  "color":  "#0891b2",
-                                  "description":  "Etiqueta scraping"
-                              },
-                 "api":  {
-                             "count":  10,
-                             "color":  "#7c3aed",
-                             "description":  "Etiqueta api"
-                         },
-                 "crawl":  {
-                               "count":  1,
-                               "color":  "#65a30d",
-                               "description":  "Etiqueta crawl"
-                           },
-                 "web":  {
-                             "count":  2,
-                             "color":  "#db2777",
-                             "description":  "Etiqueta web"
-                         },
-                 "tracking":  {
-                                  "count":  1,
-                                  "color":  "#059669",
-                                  "description":  "Etiqueta tracking"
-                              },
-                 "metrics":  {
-                                 "count":  2,
-                                 "color":  "#ea580c",
-                                 "description":  "Etiqueta metrics"
-                             },
-                 "dashboards":  {
-                                    "count":  1,
-                                    "color":  "#059669",
-                                    "description":  "Etiqueta dashboards"
-                                },
-                 "open-source":  {
-                                     "count":  7,
-                                     "color":  "#4f46e5",
-                                     "description":  "Etiqueta open-source"
-                                 },
-                 "helpdesk":  {
-                                  "count":  2,
-                                  "color":  "#db2777",
-                                  "description":  "Etiqueta helpdesk"
-                              },
-                 "shared-inbox":  {
-                                      "count":  1,
-                                      "color":  "#2563eb",
-                                      "description":  "Etiqueta shared-inbox"
-                                  },
-                 "webhooks":  {
-                                  "count":  3,
-                                  "color":  "#4f46e5",
-                                  "description":  "Etiqueta webhooks"
-                              },
-                 "crm":  {
-                             "count":  2,
-                             "color":  "#dc2626",
-                             "description":  "Etiqueta crm"
-                         },
-                 "crawler":  {
-                                 "count":  1,
-                                 "color":  "#dc2626",
-                                 "description":  "Etiqueta crawler"
-                             },
-                 "audit":  {
-                               "count":  3,
-                               "color":  "#0891b2",
-                               "description":  "Etiqueta audit"
-                           },
-                 "live-chat":  {
-                                   "count":  3,
-                                   "color":  "#d97706",
-                                   "description":  "Etiqueta live-chat"
-                               },
-                 "session-recording":  {
-                                           "count":  2,
-                                           "color":  "#7c3aed",
-                                           "description":  "Etiqueta session-recording"
-                                       },
-                 "debugging":  {
-                                   "count":  2,
-                                   "color":  "#2563eb",
-                                   "description":  "Etiqueta debugging"
-                               },
-                 "voice":  {
-                               "count":  1,
-                               "color":  "#7c3aed",
-                               "description":  "Etiqueta voice"
-                           },
-                 "omnichannel":  {
-                                     "count":  1,
-                                     "color":  "#7c3aed",
-                                     "description":  "Etiqueta omnichannel"
-                                 },
-                 "microsoft":  {
-                                   "count":  1,
-                                   "color":  "#dc2626",
-                                   "description":  "Etiqueta microsoft"
-                               },
-                 "heatmaps":  {
-                                  "count":  1,
-                                  "color":  "#059669",
-                                  "description":  "Etiqueta heatmaps"
-                              },
-                 "mjml":  {
-                              "count":  1,
-                              "color":  "#dc2626",
-                              "description":  "Etiqueta mjml"
-                          },
-                 "apm":  {
-                             "count":  1,
-                             "color":  "#db2777",
-                             "description":  "Etiqueta apm"
-                         },
-                 "performance":  {
-                                     "count":  3,
-                                     "color":  "#2563eb",
-                                     "description":  "Etiqueta performance"
-                                 },
-                 "website":  {
-                                 "count":  1,
-                                 "color":  "#0891b2",
-                                 "description":  "Etiqueta website"
-                             },
-                 "mobile":  {
-                                "count":  1,
-                                "color":  "#dc2626",
-                                "description":  "Etiqueta mobile"
-                            },
-                 "uptime":  {
-                                "count":  3,
-                                "color":  "#2563eb",
-                                "description":  "Etiqueta uptime"
-                            },
-                 "privacy":  {
-                                 "count":  2,
-                                 "color":  "#4f46e5",
-                                 "description":  "Etiqueta privacy"
-                             },
-                 "lightweight":  {
-                                     "count":  1,
-                                     "color":  "#7c3aed",
-                                     "description":  "Etiqueta lightweight"
-                                 },
-                 "no-cookies":  {
-                                    "count":  1,
-                                    "color":  "#0891b2",
-                                    "description":  "Etiqueta no-cookies"
-                                },
-                 "product":  {
-                                 "count":  1,
-                                 "color":  "#ea580c",
-                                 "description":  "Etiqueta product"
-                             },
-                 "scheduling":  {
-                                    "count":  1,
-                                    "color":  "#dc2626",
-                                    "description":  "Etiqueta scheduling"
-                                },
-                 "websockets":  {
-                                    "count":  2,
-                                    "color":  "#dc2626",
-                                    "description":  "Etiqueta websockets"
-                                },
-                 "events":  {
-                                "count":  1,
-                                "color":  "#059669",
-                                "description":  "Etiqueta events"
-                            },
-                 "wordpress":  {
-                                   "count":  3,
-                                   "color":  "#059669",
-                                   "description":  "Etiqueta wordpress"
-                               },
-                 "optimization":  {
-                                      "count":  1,
-                                      "color":  "#ea580c",
-                                      "description":  "Etiqueta optimization"
-                                  },
-                 "components":  {
-                                    "count":  1,
-                                    "color":  "#7c3aed",
-                                    "description":  "Etiqueta components"
-                                },
-                 "framework":  {
-                                   "count":  1,
-                                   "color":  "#7c3aed",
-                                   "description":  "Etiqueta framework"
-                               },
-                 "transactional":  {
-                                       "count":  2,
-                                       "color":  "#0891b2",
-                                       "description":  "Etiqueta transactional"
-                                   },
-                 "modern":  {
-                                "count":  1,
-                                "color":  "#0891b2",
-                                "description":  "Etiqueta modern"
-                            },
-                 "twilio":  {
-                                "count":  1,
-                                "color":  "#7c3aed",
-                                "description":  "Etiqueta twilio"
-                            },
-                 "error-tracking":  {
-                                        "count":  1,
-                                        "color":  "#2563eb",
-                                        "description":  "Etiqueta error-tracking"
-                                    },
-                 "nodejs":  {
-                                "count":  1,
-                                "color":  "#d97706",
-                                "description":  "Etiqueta nodejs"
-                            },
-                 "status-pages":  {
-                                      "count":  1,
-                                      "color":  "#ea580c",
-                                      "description":  "Etiqueta status-pages"
-                                  },
-                 "integration":  {
-                                     "count":  1,
-                                     "color":  "#db2777",
-                                     "description":  "Etiqueta integration"
-                                 },
-                 "whatsapp":  {
-                                  "count":  1,
-                                  "color":  "#dc2626",
-                                  "description":  "Etiqueta whatsapp"
-                              },
-                 "communication":  {
-                                       "count":  1,
-                                       "color":  "#db2777",
-                                       "description":  "Etiqueta communication"
-                                   },
-                 "verification":  {
-                                      "count":  1,
-                                      "color":  "#d97706",
-                                      "description":  "Etiqueta verification"
-                                  },
-                 "global":  {
-                                "count":  2,
-                                "color":  "#0891b2",
-                                "description":  "Etiqueta global"
-                            },
-                 "security":  {
-                                  "count":  1,
-                                  "color":  "#db2777",
-                                  "description":  "Etiqueta security"
-                              },
-                 "status":  {
-                                "count":  1,
-                                "color":  "#4f46e5",
-                                "description":  "Etiqueta status"
-                            },
-                 "caching":  {
-                                 "count":  1,
-                                 "color":  "#65a30d",
-                                 "description":  "Etiqueta caching"
-                             },
-                 "ticketing":  {
-                                   "count":  1,
-                                   "color":  "#dc2626",
-                                   "description":  "Etiqueta ticketing"
-                               }
-             },
-    "searchIndex":  {
-                        "fields":  [
-                                       {
-                                           "name":  "name",
-                                           "weight":  3,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "description",
-                                           "weight":  2,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "tags",
-                                           "weight":  2,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "category",
-                                           "weight":  1,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "subcategory",
-                                           "weight":  1,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       }
-                                   ],
-                        "entries":  [
-                                        {
-                                            "id":  "ably",
-                                            "slug":  "ably",
-                                            "terms":  [
-                                                          "Ably",
-                                                          "ably",
-                                                          "Infraestructura tiempo real 6M msgs",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "real-time",
-                                                          "messaging",
-                                                          "infrastructure",
-                                                          "pubsub"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "aws-sns",
-                                            "slug":  "aws-sns",
-                                            "terms":  [
-                                                          "AWS SNS",
-                                                          "aws-sns",
-                                                          "Servicio SMS escalable de AWS",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "sms",
-                                                          "aws",
-                                                          "notifications",
-                                                          "cloud"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "better-stack",
-                                            "slug":  "better-stack",
-                                            "terms":  [
-                                                          "Better Stack",
-                                                          "better-stack",
-                                                          "Monitoreo y on-call 10 checks",
-                                                          "analytics",
-                                                          "monitoring-uptime",
-                                                          "monitoring",
-                                                          "on-call",
-                                                          "alerts",
-                                                          "logging"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "create-email",
-                                            "slug":  "create-email",
-                                            "terms":  [
-                                                          "Create-Email",
-                                                          "create-email",
-                                                          "Paquete npm oficial con CLI",
-                                                          "email",
-                                                          "transactional-email",
-                                                          "npm",
-                                                          "cli",
-                                                          "react"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "crisp",
-                                            "slug":  "crisp",
-                                            "terms":  [
-                                                          "Crisp",
-                                                          "crisp",
-                                                          "Chat y messaging 2 seats gratis",
-                                                          "email",
-                                                          "chat-support",
-                                                          "chat",
-                                                          "messaging",
-                                                          "support",
-                                                          "customer-service"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "datadog",
-                                            "slug":  "datadog",
-                                            "terms":  [
-                                                          "Datadog",
-                                                          "datadog",
-                                                          "Monitoring y analytics 14 días trial",
-                                                          "analytics",
-                                                          "performance-monitoring",
-                                                          "monitoring",
-                                                          "infrastructure",
-                                                          "logs"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "drift",
-                                            "slug":  "drift",
-                                            "terms":  [
-                                                          "Drift",
-                                                          "drift",
-                                                          "Chat conversacional para ventas",
-                                                          "email",
-                                                          "chat-support",
-                                                          "chat",
-                                                          "sales",
-                                                          "conversational",
-                                                          "marketing"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "email-obfuscation",
-                                            "slug":  "email-obfuscation",
-                                            "terms":  [
-                                                          "Email Obfuscation",
-                                                          "email-obfuscation",
-                                                          "Técnicas ofuscar emails contra spam",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "y-email-comunicacia-n",
-                                                          "email-transaccional"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "firebase-cloud-messaging",
-                                            "slug":  "firebase-cloud-messaging",
-                                            "terms":  [
-                                                          "Firebase Cloud Messaging",
-                                                          "firebase-cloud-messaging",
-                                                          "Notificaciones push gratis",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "notifications",
-                                                          "push",
-                                                          "firebase",
-                                                          "google",
-                                                          "free"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "firecrawl",
-                                            "slug":  "firecrawl",
-                                            "terms":  [
-                                                          "FireCrawl",
-                                                          "firecrawl",
-                                                          "API para buscar y scrapear web a escala",
-                                                          "analytics",
-                                                          "seo-tools",
-                                                          "seo",
-                                                          "scraping",
-                                                          "api",
-                                                          "crawl"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "google-analytics",
-                                            "slug":  "google-analytics",
-                                            "terms":  [
-                                                          "Google Analytics",
-                                                          "google-analytics",
-                                                          "Analítica web gratuita estándar industria",
-                                                          "analytics",
-                                                          "web-analytics",
-                                                          "google",
-                                                          "web",
-                                                          "tracking",
-                                                          "free"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "grafana-cloud",
-                                            "slug":  "grafana-cloud",
-                                            "terms":  [
-                                                          "Grafana Cloud",
-                                                          "grafana-cloud",
-                                                          "Métricas y dashboards 10k series",
-                                                          "analytics",
-                                                          "performance-monitoring",
-                                                          "metrics",
-                                                          "dashboards",
-                                                          "monitoring",
-                                                          "open-source"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "help-scout",
-                                            "slug":  "help-scout",
-                                            "terms":  [
-                                                          "Help Scout",
-                                                          "help-scout",
-                                                          "Soporte por email compartido",
-                                                          "email",
-                                                          "chat-support",
-                                                          "support",
-                                                          "helpdesk",
-                                                          "shared-inbox"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "hook0",
-                                            "slug":  "hook0",
-                                            "terms":  [
-                                                          "Hook0",
-                                                          "hook0",
-                                                          "Webhooks-as-a-service open source",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "webhooks",
-                                                          "open-source",
-                                                          "api",
-                                                          "messaging"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "intercom",
-                                            "slug":  "intercom",
-                                            "terms":  [
-                                                          "Intercom",
-                                                          "intercom",
-                                                          "Chat y soporte 1 agente gratis",
-                                                          "email",
-                                                          "chat-support",
-                                                          "chat",
-                                                          "support",
-                                                          "customer-service",
-                                                          "crm"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "librecrawl",
-                                            "slug":  "librecrawl",
-                                            "terms":  [
-                                                          "LibreCrawl",
-                                                          "librecrawl",
-                                                          "Web crawler SEO analyzer y audit",
-                                                          "analytics",
-                                                          "seo-tools",
-                                                          "seo",
-                                                          "crawler",
-                                                          "open-source",
-                                                          "audit"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "livechat",
-                                            "slug":  "livechat",
-                                            "terms":  [
-                                                          "LiveChat",
-                                                          "livechat",
-                                                          "Chat en vivo 14 días trial",
-                                                          "email",
-                                                          "chat-support",
-                                                          "chat",
-                                                          "live-chat",
-                                                          "support"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "logrocket",
-                                            "slug":  "logrocket",
-                                            "terms":  [
-                                                          "LogRocket",
-                                                          "logrocket",
-                                                          "Session replay y logs 1k sesiones",
-                                                          "analytics",
-                                                          "error-tracking",
-                                                          "session-recording",
-                                                          "logging",
-                                                          "debugging"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "messagebird",
-                                            "slug":  "messagebird",
-                                            "terms":  [
-                                                          "MessageBird",
-                                                          "messagebird",
-                                                          "API omnicanal, SMS y voz",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "sms",
-                                                          "voice",
-                                                          "omnichannel",
-                                                          "api"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "microsoft-clarity",
-                                            "slug":  "microsoft-clarity",
-                                            "terms":  [
-                                                          "Microsoft Clarity",
-                                                          "microsoft-clarity",
-                                                          "Grabación de sesiones web gratis",
-                                                          "analytics",
-                                                          "web-analytics",
-                                                          "microsoft",
-                                                          "session-recording",
-                                                          "heatmaps"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "mjml",
-                                            "slug":  "mjml",
-                                            "terms":  [
-                                                          "MJML",
-                                                          "mjml",
-                                                          "Framework emails responsive cross-client",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "y-email-comunicacia-n",
-                                                          "email-transaccional"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "new-relic",
-                                            "slug":  "new-relic",
-                                            "terms":  [
-                                                          "New Relic",
-                                                          "new-relic",
-                                                          "APM y monitoreo 100GB/mes gratis",
-                                                          "analytics",
-                                                          "performance-monitoring",
-                                                          "apm",
-                                                          "monitoring",
-                                                          "performance",
-                                                          "infrastructure"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "olark",
-                                            "slug":  "olark",
-                                            "terms":  [
-                                                          "Olark",
-                                                          "olark",
-                                                          "Chat en vivo para websites",
-                                                          "email",
-                                                          "chat-support",
-                                                          "chat",
-                                                          "live-chat",
-                                                          "website"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "onesignal",
-                                            "slug":  "onesignal",
-                                            "terms":  [
-                                                          "OneSignal",
-                                                          "onesignal",
-                                                          "Notificaciones push 10k usuarios",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "push",
-                                                          "notifications",
-                                                          "messaging",
-                                                          "email"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "onesignal",
-                                            "slug":  "onesignal",
-                                            "terms":  [
-                                                          "OneSignal",
-                                                          "onesignal",
-                                                          "Notificaciones push 10k usuarios",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "notifications",
-                                                          "push",
-                                                          "mobile",
-                                                          "web"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "openseo",
-                                            "slug":  "openseo",
-                                            "terms":  [
-                                                          "OpenSEO",
-                                                          "openseo",
-                                                          "Buscador SEO open source",
-                                                          "analytics",
-                                                          "seo-tools",
-                                                          "seo",
-                                                          "open-source",
-                                                          "audit"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "pingdom",
-                                            "slug":  "pingdom",
-                                            "terms":  [
-                                                          "Pingdom",
-                                                          "pingdom",
-                                                          "Monitoreo rendimiento web",
-                                                          "analytics",
-                                                          "monitoring-uptime",
-                                                          "monitoring",
-                                                          "performance",
-                                                          "uptime"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "plausible",
-                                            "slug":  "plausible",
-                                            "terms":  [
-                                                          "Plausible",
-                                                          "plausible",
-                                                          "Analytics privado y ligero sin cookies",
-                                                          "analytics",
-                                                          "web-analytics",
-                                                          "privacy",
-                                                          "lightweight",
-                                                          "no-cookies"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "posthog",
-                                            "slug":  "posthog",
-                                            "terms":  [
-                                                          "PostHog",
-                                                          "posthog",
-                                                          "Product analytics open source completo",
-                                                          "analytics",
-                                                          "web-analytics",
-                                                          "open-source",
-                                                          "product",
-                                                          "privacy"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "posthook",
-                                            "slug":  "posthook",
-                                            "terms":  [
-                                                          "Posthook",
-                                                          "posthook",
-                                                          "Programa webhooks para futuro",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "webhooks",
-                                                          "scheduling",
-                                                          "api",
-                                                          "messaging"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "prometheus",
-                                            "slug":  "prometheus",
-                                            "terms":  [
-                                                          "Prometheus",
-                                                          "prometheus",
-                                                          "Monitoreo y alertas open source",
-                                                          "analytics",
-                                                          "performance-monitoring",
-                                                          "monitoring",
-                                                          "alerts",
-                                                          "open-source",
-                                                          "metrics"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "pubnub",
-                                            "slug":  "pubnub",
-                                            "terms":  [
-                                                          "PubNub",
-                                                          "pubnub",
-                                                          "API mensajería tiempo real",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "messaging",
-                                                          "real-time",
-                                                          "api",
-                                                          "pubsub"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "pusher",
-                                            "slug":  "pusher",
-                                            "terms":  [
-                                                          "Pusher",
-                                                          "pusher",
-                                                          "WebSockets y eventos en tiempo real",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "websockets",
-                                                          "real-time",
-                                                          "events",
-                                                          "messaging"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "rank-math",
-                                            "slug":  "rank-math",
-                                            "terms":  [
-                                                          "Rank Math",
-                                                          "rank-math",
-                                                          "Herramienta SEO para WordPress",
-                                                          "analytics",
-                                                          "seo-tools",
-                                                          "seo",
-                                                          "wordpress",
-                                                          "optimization"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "rank-math",
-                                            "slug":  "rank-math",
-                                            "terms":  [
-                                                          "Rank Math",
-                                                          "rank-math",
-                                                          "Herramienta SEO para WordPress",
-                                                          "analytics",
-                                                          "seo-tools",
-                                                          "seo",
-                                                          "wordpress",
-                                                          "analytics",
-                                                          "marketing"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "react-email",
-                                            "slug":  "react-email",
-                                            "terms":  [
-                                                          "React Email",
-                                                          "react-email",
-                                                          "Framework crear emails con componentes React",
-                                                          "email",
-                                                          "transactional-email",
-                                                          "react",
-                                                          "components",
-                                                          "framework"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "resend",
-                                            "slug":  "resend",
-                                            "terms":  [
-                                                          "Resend",
-                                                          "resend",
-                                                          "Email transaccional moderno 100/mes",
-                                                          "email",
-                                                          "transactional-email",
-                                                          "transactional",
-                                                          "api",
-                                                          "modern"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "sendgrid",
-                                            "slug":  "sendgrid",
-                                            "terms":  [
-                                                          "SendGrid",
-                                                          "sendgrid",
-                                                          "Email API 100 emails/día gratis",
-                                                          "email",
-                                                          "transactional-email",
-                                                          "api",
-                                                          "transactional",
-                                                          "twilio"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "sentry",
-                                            "slug":  "sentry",
-                                            "terms":  [
-                                                          "Sentry",
-                                                          "sentry",
-                                                          "Error tracking 5k errores/mes gratis",
-                                                          "analytics",
-                                                          "error-tracking",
-                                                          "logging",
-                                                          "debugging",
-                                                          "monitoring"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "socket-io",
-                                            "slug":  "socket-io",
-                                            "terms":  [
-                                                          "Socket.io",
-                                                          "socket-io",
-                                                          "WebSockets para notificaciones",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "websockets",
-                                                          "real-time",
-                                                          "open-source",
-                                                          "nodejs"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "statuscake",
-                                            "slug":  "statuscake",
-                                            "terms":  [
-                                                          "StatusCake",
-                                                          "statuscake",
-                                                          "Monitoreo uptime y páginas status",
-                                                          "analytics",
-                                                          "monitoring-uptime",
-                                                          "monitoring",
-                                                          "uptime",
-                                                          "status-pages"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "svix",
-                                            "slug":  "svix",
-                                            "terms":  [
-                                                          "Svix",
-                                                          "svix",
-                                                          "Webhooks as a Service 50k msgs/mes",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "webhooks",
-                                                          "api",
-                                                          "messaging",
-                                                          "integration"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "tawk-to",
-                                            "slug":  "tawk-to",
-                                            "terms":  [
-                                                          "Tawk.to",
-                                                          "tawk-to",
-                                                          "Chat en vivo 100% gratuito ilimitado",
-                                                          "email",
-                                                          "chat-support",
-                                                          "chat",
-                                                          "support",
-                                                          "live-chat",
-                                                          "free"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "twilio",
-                                            "slug":  "twilio",
-                                            "terms":  [
-                                                          "Twilio",
-                                                          "twilio",
-                                                          "API para SMS y WhatsApp empresarial",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "sms",
-                                                          "whatsapp",
-                                                          "api",
-                                                          "communication"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "uptime-robot",
-                                            "slug":  "uptime-robot",
-                                            "terms":  [
-                                                          "Uptime Robot",
-                                                          "uptime-robot",
-                                                          "Monitoreo uptime 50 monitors gratis",
-                                                          "analytics",
-                                                          "monitoring-uptime",
-                                                          "monitoring",
-                                                          "uptime",
-                                                          "alerts",
-                                                          "free"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "vonage",
-                                            "slug":  "vonage",
-                                            "terms":  [
-                                                          "Vonage",
-                                                          "vonage",
-                                                          "API SMS global con verificación",
-                                                          "email",
-                                                          "notifications-messaging",
-                                                          "sms",
-                                                          "verification",
-                                                          "api",
-                                                          "global"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "web-check",
-                                            "slug":  "web-check",
-                                            "terms":  [
-                                                          "Web-Check",
-                                                          "web-check",
-                                                          "Comprobar seguridad web",
-                                                          "analytics",
-                                                          "seo-tools",
-                                                          "seo",
-                                                          "security",
-                                                          "audit",
-                                                          "free"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "worldmonitor",
-                                            "slug":  "worldmonitor",
-                                            "terms":  [
-                                                          "WorldMonitor",
-                                                          "worldmonitor",
-                                                          "Monitor estado mundial",
-                                                          "analytics",
-                                                          "seo-tools",
-                                                          "monitoring",
-                                                          "global",
-                                                          "status"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "wp-rocket",
-                                            "slug":  "wp-rocket",
-                                            "terms":  [
-                                                          "WP-Rocket",
-                                                          "wp-rocket",
-                                                          "Optimizar SEO y rendimiento web",
-                                                          "analytics",
-                                                          "seo-tools",
-                                                          "seo",
-                                                          "performance",
-                                                          "wordpress",
-                                                          "caching"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "zendesk",
-                                            "slug":  "zendesk",
-                                            "terms":  [
-                                                          "Zendesk",
-                                                          "zendesk",
-                                                          "Soporte y ticketing 1 agente",
-                                                          "email",
-                                                          "chat-support",
-                                                          "support",
-                                                          "ticketing",
-                                                          "helpdesk",
-                                                          "crm"
-                                                      ]
-                                        }
-                                    ]
-                    },
-    "filters":  {
-                    "categories":  [
-                                       "analytics",
-                                       "email"
-                                   ],
-                    "subcategories":  [
-                                          "chat-support",
-                                          "error-tracking",
-                                          "monitoring-uptime",
-                                          "notifications-messaging",
-                                          "performance-monitoring",
-                                          "seo-tools",
-                                          "transactional-email",
-                                          "web-analytics"
-                                      ],
-                    "pricing":  [
-                                    "free",
-                                    "freemium"
-                                ],
-                    "languages":  [
-                                      "en",
-                                      "es"
-                                  ],
-                    "status":  [
-                                   "active"
-                               ],
-                    "verified":  [
-                                     true
-                                 ],
-                    "noCreditCard":  [
-                                         false,
-                                         true
-                                     ]
-                },
-    "ui":  {
-               "dataset":  "analytics-monitoring_email-comunicacion",
-               "title":  "analytics-monitoring_email-comunicacion",
-               "description":  "Dataset analytics-monitoring_email-comunicacion",
-               "resourceCount":  50
-           }
+  "tags": {
+    "alerts": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta alerts"
+    },
+    "analytics": {
+      "count": 8,
+      "color": "#db2777",
+      "description": "Etiqueta analytics"
+    },
+    "api": {
+      "count": 10,
+      "color": "#7c3aed",
+      "description": "Etiqueta api"
+    },
+    "apm": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta apm"
+    },
+    "audit": {
+      "count": 3,
+      "color": "#0891b2",
+      "description": "Etiqueta audit"
+    },
+    "aws": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta aws"
+    },
+    "caching": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta caching"
+    },
+    "chat": {
+      "count": 6,
+      "color": "#4f46e5",
+      "description": "Etiqueta chat"
+    },
+    "cli": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta cli"
+    },
+    "cloud": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta cloud"
+    },
+    "communication": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta communication"
+    },
+    "components": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta components"
+    },
+    "conversational": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta conversational"
+    },
+    "crawl": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta crawl"
+    },
+    "crawler": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta crawler"
+    },
+    "crm": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta crm"
+    },
+    "customer-service": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta customer-service"
+    },
+    "dashboards": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta dashboards"
+    },
+    "debugging": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta debugging"
+    },
+    "email": {
+      "count": 8,
+      "color": "#2563eb",
+      "description": "Etiqueta email"
+    },
+    "email-obfuscation": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta email-obfuscation"
+    },
+    "email-transaccional": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta email-transaccional"
+    },
+    "error-tracking": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta error-tracking"
+    },
+    "events": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta events"
+    },
+    "firebase": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta firebase"
+    },
+    "framework": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta framework"
+    },
+    "free": {
+      "count": 5,
+      "color": "#db2777",
+      "description": "Etiqueta free"
+    },
+    "global": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta global"
+    },
+    "google": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta google"
+    },
+    "heatmaps": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta heatmaps"
+    },
+    "helpdesk": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta helpdesk"
+    },
+    "infrastructure": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta infrastructure"
+    },
+    "integration": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta integration"
+    },
+    "lightweight": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta lightweight"
+    },
+    "live-chat": {
+      "count": 3,
+      "color": "#d97706",
+      "description": "Etiqueta live-chat"
+    },
+    "logging": {
+      "count": 3,
+      "color": "#d97706",
+      "description": "Etiqueta logging"
+    },
+    "logs": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta logs"
+    },
+    "marketing": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta marketing"
+    },
+    "messaging": {
+      "count": 8,
+      "color": "#db2777",
+      "description": "Etiqueta messaging"
+    },
+    "metrics": {
+      "count": 3,
+      "color": "#ea580c",
+      "description": "Etiqueta metrics"
+    },
+    "microsoft": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta microsoft"
+    },
+    "mjml": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta mjml"
+    },
+    "mobile": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta mobile"
+    },
+    "modern": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta modern"
+    },
+    "monitoring": {
+      "count": 12,
+      "color": "#7c3aed",
+      "description": "Etiqueta monitoring"
+    },
+    "no-cookies": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta no-cookies"
+    },
+    "nodejs": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta nodejs"
+    },
+    "notifications": {
+      "count": 4,
+      "color": "#dc2626",
+      "description": "Etiqueta notifications"
+    },
+    "notifications-messaging": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta notifications-messaging"
+    },
+    "npm": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta npm"
+    },
+    "omnichannel": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta omnichannel"
+    },
+    "on-call": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta on-call"
+    },
+    "open-source": {
+      "count": 7,
+      "color": "#4f46e5",
+      "description": "Etiqueta open-source"
+    },
+    "optimization": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta optimization"
+    },
+    "performance": {
+      "count": 4,
+      "color": "#2563eb",
+      "description": "Etiqueta performance"
+    },
+    "privacy": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta privacy"
+    },
+    "product": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta product"
+    },
+    "pubsub": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta pubsub"
+    },
+    "push": {
+      "count": 3,
+      "color": "#db2777",
+      "description": "Etiqueta push"
+    },
+    "react": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta react"
+    },
+    "real-time": {
+      "count": 4,
+      "color": "#4f46e5",
+      "description": "Etiqueta real-time"
+    },
+    "sales": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta sales"
+    },
+    "scheduling": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta scheduling"
+    },
+    "scraping": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta scraping"
+    },
+    "security": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta security"
+    },
+    "seo": {
+      "count": 7,
+      "color": "#65a30d",
+      "description": "Etiqueta seo"
+    },
+    "session-recording": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta session-recording"
+    },
+    "shared-inbox": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta shared-inbox"
+    },
+    "sms": {
+      "count": 4,
+      "color": "#ea580c",
+      "description": "Etiqueta sms"
+    },
+    "status": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta status"
+    },
+    "status-pages": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta status-pages"
+    },
+    "support": {
+      "count": 6,
+      "color": "#65a30d",
+      "description": "Etiqueta support"
+    },
+    "ticketing": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta ticketing"
+    },
+    "tracking": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta tracking"
+    },
+    "transactional": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta transactional"
+    },
+    "twilio": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta twilio"
+    },
+    "uptime": {
+      "count": 3,
+      "color": "#2563eb",
+      "description": "Etiqueta uptime"
+    },
+    "verification": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta verification"
+    },
+    "voice": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta voice"
+    },
+    "web": {
+      "count": 4,
+      "color": "#db2777",
+      "description": "Etiqueta web"
+    },
+    "webhooks": {
+      "count": 3,
+      "color": "#4f46e5",
+      "description": "Etiqueta webhooks"
+    },
+    "website": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta website"
+    },
+    "websockets": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta websockets"
+    },
+    "whatsapp": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta whatsapp"
+    },
+    "wordpress": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta wordpress"
+    },
+    "y-email-comunicacia-n": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta y-email-comunicacia-n"
+    }
+  },
+  "searchIndex": {
+    "fields": [
+      {
+        "name": "name",
+        "weight": 3,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "description",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "tags",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "category",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "subcategory",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      }
+    ],
+    "entries": [
+      {
+        "id": "ably",
+        "slug": "ably",
+        "terms": [
+          "Ably",
+          "ably",
+          "Infraestructura tiempo real 6M msgs",
+          "email",
+          "notifications-messaging",
+          "real-time",
+          "messaging",
+          "infrastructure",
+          "pubsub"
+        ]
+      },
+      {
+        "id": "aws-sns",
+        "slug": "aws-sns",
+        "terms": [
+          "AWS SNS",
+          "aws-sns",
+          "Servicio SMS escalable de AWS",
+          "email",
+          "notifications-messaging",
+          "sms",
+          "aws",
+          "notifications",
+          "cloud"
+        ]
+      },
+      {
+        "id": "better-stack",
+        "slug": "better-stack",
+        "terms": [
+          "Better Stack",
+          "better-stack",
+          "Monitoreo y on-call 10 checks",
+          "analytics",
+          "monitoring-uptime",
+          "monitoring",
+          "on-call",
+          "alerts",
+          "logging"
+        ]
+      },
+      {
+        "id": "create-email",
+        "slug": "create-email",
+        "terms": [
+          "Create-Email",
+          "create-email",
+          "Paquete npm oficial con CLI",
+          "email",
+          "transactional-email",
+          "npm",
+          "cli",
+          "react"
+        ]
+      },
+      {
+        "id": "crisp",
+        "slug": "crisp",
+        "terms": [
+          "Crisp",
+          "crisp",
+          "Chat y messaging 2 seats gratis",
+          "email",
+          "chat-support",
+          "chat",
+          "messaging",
+          "support",
+          "customer-service"
+        ]
+      },
+      {
+        "id": "datadog",
+        "slug": "datadog",
+        "terms": [
+          "Datadog",
+          "datadog",
+          "Monitoring y analytics 14 días trial",
+          "analytics",
+          "performance-monitoring",
+          "monitoring",
+          "infrastructure",
+          "logs"
+        ]
+      },
+      {
+        "id": "drift",
+        "slug": "drift",
+        "terms": [
+          "Drift",
+          "drift",
+          "Chat conversacional para ventas",
+          "email",
+          "chat-support",
+          "chat",
+          "sales",
+          "conversational",
+          "marketing"
+        ]
+      },
+      {
+        "id": "email-obfuscation",
+        "slug": "email-obfuscation",
+        "terms": [
+          "Email Obfuscation",
+          "email-obfuscation",
+          "Técnicas ofuscar emails contra spam",
+          "email",
+          "notifications-messaging",
+          "y-email-comunicacia-n",
+          "email-transaccional"
+        ]
+      },
+      {
+        "id": "firebase-cloud-messaging",
+        "slug": "firebase-cloud-messaging",
+        "terms": [
+          "Firebase Cloud Messaging",
+          "firebase-cloud-messaging",
+          "Notificaciones push gratis",
+          "email",
+          "notifications-messaging",
+          "notifications",
+          "push",
+          "firebase",
+          "google",
+          "free"
+        ]
+      },
+      {
+        "id": "firecrawl",
+        "slug": "firecrawl",
+        "terms": [
+          "FireCrawl",
+          "firecrawl",
+          "API para buscar y scrapear web a escala",
+          "analytics",
+          "seo-tools",
+          "seo",
+          "scraping",
+          "api",
+          "crawl"
+        ]
+      },
+      {
+        "id": "google-analytics",
+        "slug": "google-analytics",
+        "terms": [
+          "Google Analytics",
+          "google-analytics",
+          "Analítica web gratuita estándar industria",
+          "analytics",
+          "web-analytics",
+          "google",
+          "web",
+          "tracking",
+          "free"
+        ]
+      },
+      {
+        "id": "grafana-cloud",
+        "slug": "grafana-cloud",
+        "terms": [
+          "Grafana Cloud",
+          "grafana-cloud",
+          "Métricas y dashboards 10k series",
+          "analytics",
+          "performance-monitoring",
+          "metrics",
+          "dashboards",
+          "monitoring",
+          "open-source"
+        ]
+      },
+      {
+        "id": "graphify",
+        "slug": "graphify",
+        "terms": [
+          "graphify",
+          "Visualizacion de grafos analiticos",
+          "analytics",
+          "web-analytics",
+          "metrics",
+          "monitoring",
+          "web"
+        ]
+      },
+      {
+        "id": "help-scout",
+        "slug": "help-scout",
+        "terms": [
+          "Help Scout",
+          "help-scout",
+          "Soporte por email compartido",
+          "email",
+          "chat-support",
+          "support",
+          "helpdesk",
+          "shared-inbox"
+        ]
+      },
+      {
+        "id": "hook0",
+        "slug": "hook0",
+        "terms": [
+          "Hook0",
+          "hook0",
+          "Webhooks-as-a-service open source",
+          "email",
+          "notifications-messaging",
+          "webhooks",
+          "open-source",
+          "api",
+          "messaging"
+        ]
+      },
+      {
+        "id": "intercom",
+        "slug": "intercom",
+        "terms": [
+          "Intercom",
+          "intercom",
+          "Chat y soporte 1 agente gratis",
+          "email",
+          "chat-support",
+          "chat",
+          "support",
+          "customer-service",
+          "crm"
+        ]
+      },
+      {
+        "id": "librecrawl",
+        "slug": "librecrawl",
+        "terms": [
+          "LibreCrawl",
+          "librecrawl",
+          "Web crawler SEO analyzer y audit",
+          "analytics",
+          "seo-tools",
+          "seo",
+          "crawler",
+          "open-source",
+          "audit"
+        ]
+      },
+      {
+        "id": "livechat",
+        "slug": "livechat",
+        "terms": [
+          "LiveChat",
+          "livechat",
+          "Chat en vivo 14 días trial",
+          "email",
+          "chat-support",
+          "chat",
+          "live-chat",
+          "support"
+        ]
+      },
+      {
+        "id": "logrocket",
+        "slug": "logrocket",
+        "terms": [
+          "LogRocket",
+          "logrocket",
+          "Session replay y logs 1k sesiones",
+          "analytics",
+          "error-tracking",
+          "session-recording",
+          "logging",
+          "debugging"
+        ]
+      },
+      {
+        "id": "messagebird",
+        "slug": "messagebird",
+        "terms": [
+          "MessageBird",
+          "messagebird",
+          "API omnicanal, SMS y voz",
+          "email",
+          "notifications-messaging",
+          "sms",
+          "voice",
+          "omnichannel",
+          "api"
+        ]
+      },
+      {
+        "id": "microsoft-clarity",
+        "slug": "microsoft-clarity",
+        "terms": [
+          "Microsoft Clarity",
+          "microsoft-clarity",
+          "Grabación de sesiones web gratis",
+          "analytics",
+          "web-analytics",
+          "microsoft",
+          "session-recording",
+          "heatmaps"
+        ]
+      },
+      {
+        "id": "mjml",
+        "slug": "mjml",
+        "terms": [
+          "MJML",
+          "mjml",
+          "Framework emails responsive cross-client",
+          "email",
+          "notifications-messaging",
+          "y-email-comunicacia-n",
+          "email-transaccional"
+        ]
+      },
+      {
+        "id": "new-relic",
+        "slug": "new-relic",
+        "terms": [
+          "New Relic",
+          "new-relic",
+          "APM y monitoreo 100GB/mes gratis",
+          "analytics",
+          "performance-monitoring",
+          "apm",
+          "monitoring",
+          "performance",
+          "infrastructure"
+        ]
+      },
+      {
+        "id": "olark",
+        "slug": "olark",
+        "terms": [
+          "Olark",
+          "olark",
+          "Chat en vivo para websites",
+          "email",
+          "chat-support",
+          "chat",
+          "live-chat",
+          "website"
+        ]
+      },
+      {
+        "id": "onesignal",
+        "slug": "onesignal",
+        "terms": [
+          "OneSignal",
+          "onesignal",
+          "Notificaciones push 10k usuarios",
+          "email",
+          "notifications-messaging",
+          "notifications",
+          "push",
+          "mobile",
+          "web"
+        ]
+      },
+      {
+        "id": "onesignal",
+        "slug": "onesignal",
+        "terms": [
+          "OneSignal",
+          "onesignal",
+          "Notificaciones push 10k usuarios",
+          "email",
+          "notifications-messaging",
+          "push",
+          "notifications",
+          "messaging",
+          "email"
+        ]
+      },
+      {
+        "id": "openseo",
+        "slug": "openseo",
+        "terms": [
+          "OpenSEO",
+          "openseo",
+          "Buscador SEO open source",
+          "analytics",
+          "seo-tools",
+          "seo",
+          "open-source",
+          "audit"
+        ]
+      },
+      {
+        "id": "pingdom",
+        "slug": "pingdom",
+        "terms": [
+          "Pingdom",
+          "pingdom",
+          "Monitoreo rendimiento web",
+          "analytics",
+          "monitoring-uptime",
+          "monitoring",
+          "performance",
+          "uptime"
+        ]
+      },
+      {
+        "id": "plausible",
+        "slug": "plausible",
+        "terms": [
+          "Plausible",
+          "plausible",
+          "Analytics privado y ligero sin cookies",
+          "analytics",
+          "web-analytics",
+          "privacy",
+          "lightweight",
+          "no-cookies"
+        ]
+      },
+      {
+        "id": "posthog",
+        "slug": "posthog",
+        "terms": [
+          "PostHog",
+          "posthog",
+          "Product analytics open source completo",
+          "analytics",
+          "web-analytics",
+          "open-source",
+          "product",
+          "privacy"
+        ]
+      },
+      {
+        "id": "posthook",
+        "slug": "posthook",
+        "terms": [
+          "Posthook",
+          "posthook",
+          "Programa webhooks para futuro",
+          "email",
+          "notifications-messaging",
+          "webhooks",
+          "scheduling",
+          "api",
+          "messaging"
+        ]
+      },
+      {
+        "id": "prometheus",
+        "slug": "prometheus",
+        "terms": [
+          "Prometheus",
+          "prometheus",
+          "Monitoreo y alertas open source",
+          "analytics",
+          "performance-monitoring",
+          "monitoring",
+          "alerts",
+          "open-source",
+          "metrics"
+        ]
+      },
+      {
+        "id": "pubnub",
+        "slug": "pubnub",
+        "terms": [
+          "PubNub",
+          "pubnub",
+          "API mensajería tiempo real",
+          "email",
+          "notifications-messaging",
+          "messaging",
+          "real-time",
+          "api",
+          "pubsub"
+        ]
+      },
+      {
+        "id": "pusher",
+        "slug": "pusher",
+        "terms": [
+          "Pusher",
+          "pusher",
+          "WebSockets y eventos en tiempo real",
+          "email",
+          "notifications-messaging",
+          "websockets",
+          "real-time",
+          "events",
+          "messaging"
+        ]
+      },
+      {
+        "id": "rank-math",
+        "slug": "rank-math",
+        "terms": [
+          "Rank Math",
+          "rank-math",
+          "Herramienta SEO para WordPress",
+          "analytics",
+          "seo-tools",
+          "seo",
+          "wordpress",
+          "optimization"
+        ]
+      },
+      {
+        "id": "rank-math",
+        "slug": "rank-math",
+        "terms": [
+          "Rank Math",
+          "rank-math",
+          "Herramienta SEO para WordPress",
+          "analytics",
+          "seo-tools",
+          "seo",
+          "wordpress",
+          "analytics",
+          "marketing"
+        ]
+      },
+      {
+        "id": "react-email",
+        "slug": "react-email",
+        "terms": [
+          "React Email",
+          "react-email",
+          "Framework crear emails con componentes React",
+          "email",
+          "transactional-email",
+          "react",
+          "components",
+          "framework"
+        ]
+      },
+      {
+        "id": "resend",
+        "slug": "resend",
+        "terms": [
+          "Resend",
+          "resend",
+          "Email transaccional moderno 100/mes",
+          "email",
+          "transactional-email",
+          "transactional",
+          "api",
+          "modern"
+        ]
+      },
+      {
+        "id": "rocket-insights",
+        "slug": "rocket-insights",
+        "terms": [
+          "rocket-insights",
+          "Insights de rendimiento web",
+          "analytics",
+          "performance-monitoring",
+          "performance",
+          "monitoring",
+          "web"
+        ]
+      },
+      {
+        "id": "sendgrid",
+        "slug": "sendgrid",
+        "terms": [
+          "SendGrid",
+          "sendgrid",
+          "Email API 100 emails/día gratis",
+          "email",
+          "transactional-email",
+          "api",
+          "transactional",
+          "twilio"
+        ]
+      },
+      {
+        "id": "sentry",
+        "slug": "sentry",
+        "terms": [
+          "Sentry",
+          "sentry",
+          "Error tracking 5k errores/mes gratis",
+          "analytics",
+          "error-tracking",
+          "logging",
+          "debugging",
+          "monitoring"
+        ]
+      },
+      {
+        "id": "socket-io",
+        "slug": "socket-io",
+        "terms": [
+          "Socket.io",
+          "socket-io",
+          "WebSockets para notificaciones",
+          "email",
+          "notifications-messaging",
+          "websockets",
+          "real-time",
+          "open-source",
+          "nodejs"
+        ]
+      },
+      {
+        "id": "statuscake",
+        "slug": "statuscake",
+        "terms": [
+          "StatusCake",
+          "statuscake",
+          "Monitoreo uptime y páginas status",
+          "analytics",
+          "monitoring-uptime",
+          "monitoring",
+          "uptime",
+          "status-pages"
+        ]
+      },
+      {
+        "id": "svix",
+        "slug": "svix",
+        "terms": [
+          "Svix",
+          "svix",
+          "Webhooks as a Service 50k msgs/mes",
+          "email",
+          "notifications-messaging",
+          "webhooks",
+          "api",
+          "messaging",
+          "integration"
+        ]
+      },
+      {
+        "id": "tawk-to",
+        "slug": "tawk-to",
+        "terms": [
+          "Tawk.to",
+          "tawk-to",
+          "Chat en vivo 100% gratuito ilimitado",
+          "email",
+          "chat-support",
+          "chat",
+          "support",
+          "live-chat",
+          "free"
+        ]
+      },
+      {
+        "id": "twilio",
+        "slug": "twilio",
+        "terms": [
+          "Twilio",
+          "twilio",
+          "API para SMS y WhatsApp empresarial",
+          "email",
+          "notifications-messaging",
+          "sms",
+          "whatsapp",
+          "api",
+          "communication"
+        ]
+      },
+      {
+        "id": "uptime-robot",
+        "slug": "uptime-robot",
+        "terms": [
+          "Uptime Robot",
+          "uptime-robot",
+          "Monitoreo uptime 50 monitors gratis",
+          "analytics",
+          "monitoring-uptime",
+          "monitoring",
+          "uptime",
+          "alerts",
+          "free"
+        ]
+      },
+      {
+        "id": "vonage",
+        "slug": "vonage",
+        "terms": [
+          "Vonage",
+          "vonage",
+          "API SMS global con verificación",
+          "email",
+          "notifications-messaging",
+          "sms",
+          "verification",
+          "api",
+          "global"
+        ]
+      },
+      {
+        "id": "web-check",
+        "slug": "web-check",
+        "terms": [
+          "Web-Check",
+          "web-check",
+          "Comprobar seguridad web",
+          "analytics",
+          "seo-tools",
+          "seo",
+          "security",
+          "audit",
+          "free"
+        ]
+      },
+      {
+        "id": "worldmonitor",
+        "slug": "worldmonitor",
+        "terms": [
+          "WorldMonitor",
+          "worldmonitor",
+          "Monitor estado mundial",
+          "analytics",
+          "seo-tools",
+          "monitoring",
+          "global",
+          "status"
+        ]
+      },
+      {
+        "id": "wp-rocket",
+        "slug": "wp-rocket",
+        "terms": [
+          "WP-Rocket",
+          "wp-rocket",
+          "Optimizar SEO y rendimiento web",
+          "analytics",
+          "seo-tools",
+          "seo",
+          "performance",
+          "wordpress",
+          "caching"
+        ]
+      },
+      {
+        "id": "zendesk",
+        "slug": "zendesk",
+        "terms": [
+          "Zendesk",
+          "zendesk",
+          "Soporte y ticketing 1 agente",
+          "email",
+          "chat-support",
+          "support",
+          "ticketing",
+          "helpdesk",
+          "crm"
+        ]
+      }
+    ]
+  },
+  "filters": {
+    "categories": [
+      "analytics",
+      "email"
+    ],
+    "subcategories": [
+      "chat-support",
+      "error-tracking",
+      "monitoring-uptime",
+      "notifications-messaging",
+      "performance-monitoring",
+      "seo-tools",
+      "transactional-email",
+      "web-analytics"
+    ],
+    "pricing": [
+      "free",
+      "freemium"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "status": [
+      "active"
+    ],
+    "verified": [
+      true
+    ],
+    "noCreditCard": [
+      false,
+      true
+    ]
+  },
+  "ui": {
+    "dataset": "analytics-monitoring_email-comunicacion",
+    "title": "analytics-monitoring_email-comunicacion",
+    "description": "Dataset analytics-monitoring_email-comunicacion",
+    "resourceCount": 52
+  }
 }

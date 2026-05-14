@@ -1,0 +1,62 @@
+[
+  {
+    "name": "FinceptTerminal",
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+    "section": "💳 Pagos & Monetización",
+    "subsection": "Monetización & Empleo",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Vibe-Trading",
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "section": "💳 Pagos & Monetización",
+    "subsection": "Monetización & Empleo",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "graphify",
+    "url": "https://github.com/safishamsi/graphify",
+    "section": "📊 Analytics & Monitoring",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "rocket-insights",
+    "url": "https://wp-rocket.me/rocket-insights/",
+    "section": "📊 Analytics & Monitoring",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "ycombinator-rfs",
+    "url": "https://www.ycombinator.com/rfs",
+    "section": "💳 Pagos & Monetización",
+    "subsection": "Monetización & Empleo",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  }
+]

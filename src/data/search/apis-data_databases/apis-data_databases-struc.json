@@ -1,1874 +1,1897 @@
 {
-    "tags":  {
-                 "snippets":  {
-                                  "count":  1,
-                                  "color":  "#4f46e5",
-                                  "description":  "Etiqueta snippets"
-                              },
-                 "code":  {
-                              "count":  1,
-                              "color":  "#059669",
-                              "description":  "Etiqueta code"
-                          },
-                 "utilities":  {
-                                   "count":  1,
-                                   "color":  "#db2777",
-                                   "description":  "Etiqueta utilities"
-                               },
-                 "javascript":  {
-                                    "count":  1,
-                                    "color":  "#ea580c",
-                                    "description":  "Etiqueta javascript"
-                                },
-                 "astro":  {
-                               "count":  1,
-                               "color":  "#d97706",
-                               "description":  "Etiqueta astro"
-                           },
-                 "static-site":  {
-                                     "count":  1,
-                                     "color":  "#2563eb",
-                                     "description":  "Etiqueta static-site"
-                                 },
-                 "awesome":  {
-                                 "count":  11,
-                                 "color":  "#d97706",
-                                 "description":  "Etiqueta awesome"
-                             },
-                 "resources":  {
-                                   "count":  15,
-                                   "color":  "#65a30d",
-                                   "description":  "Etiqueta resources"
-                               },
-                 "github":  {
-                                "count":  11,
-                                "color":  "#d97706",
-                                "description":  "Etiqueta github"
-                            },
-                 "copilot":  {
-                                 "count":  3,
-                                 "color":  "#dc2626",
-                                 "description":  "Etiqueta copilot"
-                             },
-                 "extensions":  {
-                                    "count":  1,
-                                    "color":  "#7c3aed",
-                                    "description":  "Etiqueta extensions"
-                                },
-                 "design":  {
-                                "count":  1,
-                                "color":  "#7c3aed",
-                                "description":  "Etiqueta design"
-                            },
-                 "brands":  {
-                                "count":  1,
-                                "color":  "#7c3aed",
-                                "description":  "Etiqueta brands"
-                            },
-                 "ui":  {
-                            "count":  1,
-                            "color":  "#dc2626",
-                            "description":  "Etiqueta ui"
-                        },
-                 "fastapi":  {
-                                 "count":  1,
-                                 "color":  "#7c3aed",
-                                 "description":  "Etiqueta fastapi"
-                             },
-                 "python":  {
-                                "count":  3,
-                                "color":  "#7c3aed",
-                                "description":  "Etiqueta python"
-                            },
-                 "nestjs":  {
-                                "count":  1,
-                                "color":  "#d97706",
-                                "description":  "Etiqueta nestjs"
-                            },
-                 "nodejs":  {
-                                "count":  1,
-                                "color":  "#d97706",
-                                "description":  "Etiqueta nodejs"
-                            },
-                 "nextjs":  {
-                                "count":  2,
-                                "color":  "#db2777",
-                                "description":  "Etiqueta nextjs"
-                            },
-                 "react":  {
-                               "count":  2,
-                               "color":  "#65a30d",
-                               "description":  "Etiqueta react"
-                           },
-                 "version-control":  {
-                                         "count":  5,
-                                         "color":  "#db2777",
-                                         "description":  "Etiqueta version-control"
-                                     },
-                 "y-control-de-versiones-repositorios":  {
-                                                             "count":  5,
-                                                             "color":  "#059669",
-                                                             "description":  "Etiqueta y-control-de-versiones-repositorios"
-                                                         },
-                 "recursos-github":  {
-                                         "count":  5,
-                                         "color":  "#7c3aed",
-                                         "description":  "Etiqueta recursos-github"
-                                     },
-                 "awesome-open-source-ai":  {
-                                                "count":  1,
-                                                "color":  "#059669",
-                                                "description":  "Etiqueta awesome-open-source-ai"
-                                            },
-                 "postgresql":  {
-                                    "count":  1,
-                                    "color":  "#db2777",
-                                    "description":  "Etiqueta postgresql"
-                                },
-                 "database":  {
-                                  "count":  5,
-                                  "color":  "#059669",
-                                  "description":  "Etiqueta database"
-                              },
-                 "curated":  {
-                                 "count":  2,
-                                 "color":  "#7c3aed",
-                                 "description":  "Etiqueta curated"
-                             },
-                 "components":  {
-                                    "count":  1,
-                                    "color":  "#7c3aed",
-                                    "description":  "Etiqueta components"
-                                },
-                 "typescript":  {
-                                    "count":  2,
-                                    "color":  "#059669",
-                                    "description":  "Etiqueta typescript"
-                                },
-                 "typed":  {
-                               "count":  1,
-                               "color":  "#2563eb",
-                               "description":  "Etiqueta typed"
-                           },
-                 "cloud":  {
-                               "count":  8,
-                               "color":  "#0891b2",
-                               "description":  "Etiqueta cloud"
-                           },
-                 "aws":  {
-                             "count":  2,
-                             "color":  "#059669",
-                             "description":  "Etiqueta aws"
-                         },
-                 "amazon":  {
-                                "count":  1,
-                                "color":  "#4f46e5",
-                                "description":  "Etiqueta amazon"
-                            },
-                 "free-tier":  {
-                                   "count":  3,
-                                   "color":  "#ea580c",
-                                   "description":  "Etiqueta free-tier"
-                               },
-                 "12-months":  {
-                                   "count":  1,
-                                   "color":  "#ea580c",
-                                   "description":  "Etiqueta 12-months"
-                               },
-                 "backend":  {
-                                 "count":  5,
-                                 "color":  "#dc2626",
-                                 "description":  "Etiqueta backend"
-                             },
-                 "trial":  {
-                               "count":  2,
-                               "color":  "#2563eb",
-                               "description":  "Etiqueta trial"
-                           },
-                 "azure":  {
-                               "count":  1,
-                               "color":  "#059669",
-                               "description":  "Etiqueta azure"
-                           },
-                 "microsoft":  {
-                                   "count":  1,
-                                   "color":  "#dc2626",
-                                   "description":  "Etiqueta microsoft"
-                               },
-                 "credit":  {
-                                "count":  2,
-                                "color":  "#0891b2",
-                                "description":  "Etiqueta credit"
-                            },
-                 "git":  {
-                             "count":  13,
-                             "color":  "#7c3aed",
-                             "description":  "Etiqueta git"
-                         },
-                 "repos":  {
-                               "count":  5,
-                               "color":  "#d97706",
-                               "description":  "Etiqueta repos"
-                           },
-                 "pipelines":  {
-                                   "count":  1,
-                                   "color":  "#ea580c",
-                                   "description":  "Etiqueta pipelines"
-                               },
-                 "atlassian":  {
-                                   "count":  1,
-                                   "color":  "#2563eb",
-                                   "description":  "Etiqueta atlassian"
-                               },
-                 "team":  {
-                              "count":  1,
-                              "color":  "#d97706",
-                              "description":  "Etiqueta team"
-                          },
-                 "iac":  {
-                             "count":  3,
-                             "color":  "#059669",
-                             "description":  "Etiqueta iac"
-                         },
-                 "visual":  {
-                                "count":  1,
-                                "color":  "#2563eb",
-                                "description":  "Etiqueta visual"
-                            },
-                 "terraform":  {
-                                   "count":  2,
-                                   "color":  "#db2777",
-                                   "description":  "Etiqueta terraform"
-                               },
-                 "collaboration":  {
-                                       "count":  4,
-                                       "color":  "#0891b2",
-                                       "description":  "Etiqueta collaboration"
-                                   },
-                 "deploy":  {
-                                "count":  6,
-                                "color":  "#d97706",
-                                "description":  "Etiqueta deploy"
-                            },
-                 "multi-cloud":  {
-                                     "count":  1,
-                                     "color":  "#0891b2",
-                                     "description":  "Etiqueta multi-cloud"
-                                 },
-                 "automation":  {
-                                    "count":  3,
-                                    "color":  "#ea580c",
-                                    "description":  "Etiqueta automation"
-                                },
-                 "paas":  {
-                              "count":  1,
-                              "color":  "#059669",
-                              "description":  "Etiqueta paas"
-                          },
-                 "cdn":  {
-                             "count":  3,
-                             "color":  "#ea580c",
-                             "description":  "Etiqueta cdn"
-                         },
-                 "dns":  {
-                             "count":  1,
-                             "color":  "#0891b2",
-                             "description":  "Etiqueta dns"
-                         },
-                 "workers":  {
-                                 "count":  1,
-                                 "color":  "#059669",
-                                 "description":  "Etiqueta workers"
-                             },
-                 "ssl":  {
-                             "count":  2,
-                             "color":  "#db2777",
-                             "description":  "Etiqueta ssl"
-                         },
-                 "security":  {
-                                  "count":  1,
-                                  "color":  "#db2777",
-                                  "description":  "Etiqueta security"
-                              },
-                 "no-cc":  {
-                               "count":  1,
-                               "color":  "#7c3aed",
-                               "description":  "Etiqueta no-cc"
-                           },
-                 "hosting":  {
-                                 "count":  9,
-                                 "color":  "#7c3aed",
-                                 "description":  "Etiqueta hosting"
-                             },
-                 "static":  {
-                                "count":  3,
-                                "color":  "#db2777",
-                                "description":  "Etiqueta static"
-                            },
-                 "edge":  {
-                              "count":  2,
-                              "color":  "#0891b2",
-                              "description":  "Etiqueta edge"
-                          },
-                 "functions":  {
-                                   "count":  2,
-                                   "color":  "#0891b2",
-                                   "description":  "Etiqueta functions"
-                               },
-                 "global":  {
-                                "count":  1,
-                                "color":  "#0891b2",
-                                "description":  "Etiqueta global"
-                            },
-                 "foss":  {
-                              "count":  3,
-                              "color":  "#d97706",
-                              "description":  "Etiqueta foss"
-                          },
-                 "open-source":  {
-                                     "count":  4,
-                                     "color":  "#4f46e5",
-                                     "description":  "Etiqueta open-source"
-                                 },
-                 "ci":  {
-                            "count":  2,
-                            "color":  "#7c3aed",
-                            "description":  "Etiqueta ci"
-                        },
-                 "community":  {
-                                   "count":  1,
-                                   "color":  "#65a30d",
-                                   "description":  "Etiqueta community"
-                               },
-                 "issues":  {
-                                "count":  2,
-                                "color":  "#db2777",
-                                "description":  "Etiqueta issues"
-                            },
-                 "beginners":  {
-                                   "count":  5,
-                                   "color":  "#65a30d",
-                                   "description":  "Etiqueta beginners"
-                               },
-                 "deployment":  {
-                                    "count":  1,
-                                    "color":  "#ea580c",
-                                    "description":  "Etiqueta deployment"
-                                },
-                 "policies":  {
-                                  "count":  1,
-                                  "color":  "#4f46e5",
-                                  "description":  "Etiqueta policies"
-                              },
-                 "devops":  {
-                                "count":  2,
-                                "color":  "#65a30d",
-                                "description":  "Etiqueta devops"
-                            },
-                 "roadmap":  {
-                                 "count":  1,
-                                 "color":  "#2563eb",
-                                 "description":  "Etiqueta roadmap"
-                             },
-                 "learning":  {
-                                  "count":  5,
-                                  "color":  "#db2777",
-                                  "description":  "Etiqueta learning"
-                              },
-                 "career":  {
-                                "count":  1,
-                                "color":  "#4f46e5",
-                                "description":  "Etiqueta career"
-                            },
-                 "guides":  {
-                                "count":  1,
-                                "color":  "#059669",
-                                "description":  "Etiqueta guides"
-                            },
-                 "self-hosted":  {
-                                     "count":  1,
-                                     "color":  "#db2777",
-                                     "description":  "Etiqueta self-hosted"
-                                 },
-                 "vercel-alternative":  {
-                                            "count":  1,
-                                            "color":  "#ea580c",
-                                            "description":  "Etiqueta vercel-alternative"
-                                        },
-                 "docker":  {
-                                "count":  2,
-                                "color":  "#dc2626",
-                                "description":  "Etiqueta docker"
-                            },
-                 "contributions":  {
-                                       "count":  1,
-                                       "color":  "#65a30d",
-                                       "description":  "Etiqueta contributions"
-                                   },
-                 "tutorial":  {
-                                  "count":  2,
-                                  "color":  "#7c3aed",
-                                  "description":  "Etiqueta tutorial"
-                              },
-                 "gitlab":  {
-                                "count":  3,
-                                "color":  "#65a30d",
-                                "description":  "Etiqueta gitlab"
-                            },
-                 "pages":  {
-                               "count":  1,
-                               "color":  "#db2777",
-                               "description":  "Etiqueta pages"
-                           },
-                 "free":  {
-                              "count":  5,
-                              "color":  "#db2777",
-                              "description":  "Etiqueta free"
-                          },
-                 "dev-tools":  {
-                                   "count":  1,
-                                   "color":  "#0891b2",
-                                   "description":  "Etiqueta dev-tools"
-                               },
-                 "list":  {
-                              "count":  2,
-                              "color":  "#7c3aed",
-                              "description":  "Etiqueta list"
-                          },
-                 "books":  {
-                               "count":  2,
-                               "color":  "#dc2626",
-                               "description":  "Etiqueta books"
-                           },
-                 "programming":  {
-                                     "count":  1,
-                                     "color":  "#65a30d",
-                                     "description":  "Etiqueta programming"
-                                 },
-                 "gimp-mcp":  {
-                                  "count":  1,
-                                  "color":  "#7c3aed",
-                                  "description":  "Etiqueta gimp-mcp"
-                              },
-                 "documentation":  {
-                                       "count":  1,
-                                       "color":  "#dc2626",
-                                       "description":  "Etiqueta documentation"
-                                   },
-                 "official":  {
-                                  "count":  2,
-                                  "color":  "#ea580c",
-                                  "description":  "Etiqueta official"
-                              },
-                 "reference":  {
-                                   "count":  1,
-                                   "color":  "#d97706",
-                                   "description":  "Etiqueta reference"
-                               },
-                 "ci-cd":  {
-                               "count":  3,
-                               "color":  "#db2777",
-                               "description":  "Etiqueta ci-cd"
-                           },
-                 "registry":  {
-                                  "count":  2,
-                                  "color":  "#ea580c",
-                                  "description":  "Etiqueta registry"
-                              },
-                 "ai":  {
-                            "count":  1,
-                            "color":  "#dc2626",
-                            "description":  "Etiqueta ai"
-                        },
-                 "cli":  {
-                             "count":  1,
-                             "color":  "#dc2626",
-                             "description":  "Etiqueta cli"
-                         },
-                 "course":  {
-                                "count":  3,
-                                "color":  "#65a30d",
-                                "description":  "Etiqueta course"
-                            },
-                 "education":  {
-                                   "count":  1,
-                                   "color":  "#4f46e5",
-                                   "description":  "Etiqueta education"
-                               },
-                 "students":  {
-                                  "count":  1,
-                                  "color":  "#2563eb",
-                                  "description":  "Etiqueta students"
-                              },
-                 "free-pack":  {
-                                   "count":  1,
-                                   "color":  "#db2777",
-                                   "description":  "Etiqueta free-pack"
-                               },
-                 "courses":  {
-                                 "count":  1,
-                                 "color":  "#dc2626",
-                                 "description":  "Etiqueta courses"
-                             },
-                 "interactive":  {
-                                     "count":  3,
-                                     "color":  "#dc2626",
-                                     "description":  "Etiqueta interactive"
-                                 },
-                 "skills":  {
-                                "count":  1,
-                                "color":  "#db2777",
-                                "description":  "Etiqueta skills"
-                            },
-                 "topics":  {
-                                "count":  1,
-                                "color":  "#db2777",
-                                "description":  "Etiqueta topics"
-                            },
-                 "discovery":  {
-                                   "count":  2,
-                                   "color":  "#7c3aed",
-                                   "description":  "Etiqueta discovery"
-                               },
-                 "tags":  {
-                              "count":  1,
-                              "color":  "#059669",
-                              "description":  "Etiqueta tags"
-                          },
-                 "trending":  {
-                                  "count":  1,
-                                  "color":  "#ea580c",
-                                  "description":  "Etiqueta trending"
-                              },
-                 "container":  {
-                                   "count":  1,
-                                   "color":  "#d97706",
-                                   "description":  "Etiqueta container"
-                               },
-                 "gcp":  {
-                             "count":  1,
-                             "color":  "#7c3aed",
-                             "description":  "Etiqueta gcp"
-                         },
-                 "google":  {
-                                "count":  1,
-                                "color":  "#65a30d",
-                                "description":  "Etiqueta google"
-                            },
-                 "infra":  {
-                               "count":  1,
-                               "color":  "#db2777",
-                               "description":  "Etiqueta infra"
-                           },
-                 "always-free":  {
-                                     "count":  2,
-                                     "color":  "#2563eb",
-                                     "description":  "Etiqueta always-free"
-                                 },
-                 "ground-station":  {
-                                        "count":  1,
-                                        "color":  "#2563eb",
-                                        "description":  "Etiqueta ground-station"
-                                    },
-                 "spanish":  {
-                                 "count":  2,
-                                 "color":  "#db2777",
-                                 "description":  "Etiqueta spanish"
-                             },
-                 "mercurial":  {
-                                   "count":  1,
-                                   "color":  "#7c3aed",
-                                   "description":  "Etiqueta mercurial"
-                               },
-                 "dual-vcs":  {
-                                  "count":  1,
-                                  "color":  "#ea580c",
-                                  "description":  "Etiqueta dual-vcs"
-                              },
-                 "ibm":  {
-                             "count":  1,
-                             "color":  "#dc2626",
-                             "description":  "Etiqueta ibm"
-                         },
-                 "api":  {
-                             "count":  1,
-                             "color":  "#7c3aed",
-                             "description":  "Etiqueta api"
-                         },
-                 "monitoring":  {
-                                    "count":  1,
-                                    "color":  "#7c3aed",
-                                    "description":  "Etiqueta monitoring"
-                                },
-                 "postgres":  {
-                                  "count":  2,
-                                  "color":  "#65a30d",
-                                  "description":  "Etiqueta postgres"
-                              },
-                 "serverless":  {
-                                    "count":  3,
-                                    "color":  "#dc2626",
-                                    "description":  "Etiqueta serverless"
-                                },
-                 "lazygit":  {
-                                 "count":  1,
-                                 "color":  "#dc2626",
-                                 "description":  "Etiqueta lazygit"
-                             },
-                 "branching":  {
-                                   "count":  1,
-                                   "color":  "#2563eb",
-                                   "description":  "Etiqueta branching"
-                               },
-                 "midudev":  {
-                                 "count":  1,
-                                 "color":  "#2563eb",
-                                 "description":  "Etiqueta midudev"
-                             },
-                 "forms":  {
-                               "count":  1,
-                               "color":  "#059669",
-                               "description":  "Etiqueta forms"
-                           },
-                 "oracle":  {
-                                "count":  1,
-                                "color":  "#2563eb",
-                                "description":  "Etiqueta oracle"
-                            },
-                 "vm":  {
-                            "count":  1,
-                            "color":  "#65a30d",
-                            "description":  "Etiqueta vm"
-                        },
-                 "storage":  {
-                                 "count":  1,
-                                 "color":  "#65a30d",
-                                 "description":  "Etiqueta storage"
-                             },
-                 "fedora":  {
-                                "count":  1,
-                                "color":  "#0891b2",
-                                "description":  "Etiqueta fedora"
-                            },
-                 "vcs":  {
-                             "count":  1,
-                             "color":  "#dc2626",
-                             "description":  "Etiqueta vcs"
-                         },
-                 "distributed":  {
-                                     "count":  1,
-                                     "color":  "#65a30d",
-                                     "description":  "Etiqueta distributed"
-                                 },
-                 "patches":  {
-                                 "count":  1,
-                                 "color":  "#7c3aed",
-                                 "description":  "Etiqueta patches"
-                             },
-                 "alternative":  {
-                                     "count":  1,
-                                     "color":  "#d97706",
-                                     "description":  "Etiqueta alternative"
-                                 },
-                 "a-i-cloud-hosting":  {
-                                           "count":  1,
-                                           "color":  "#4f46e5",
-                                           "description":  "Etiqueta a-i-cloud-hosting"
-                                       },
-                 "hosting-deploy":  {
-                                        "count":  1,
-                                        "color":  "#dc2626",
-                                        "description":  "Etiqueta hosting-deploy"
-                                    },
-                 "portless":  {
-                                  "count":  1,
-                                  "color":  "#dc2626",
-                                  "description":  "Etiqueta portless"
-                              },
-                 "book":  {
-                              "count":  1,
-                              "color":  "#65a30d",
-                              "description":  "Etiqueta book"
-                          },
-                 "apis":  {
-                              "count":  1,
-                              "color":  "#ea580c",
-                              "description":  "Etiqueta apis"
-                          },
-                 "public":  {
-                                "count":  1,
-                                "color":  "#ea580c",
-                                "description":  "Etiqueta public"
-                            },
-                 "terraform-alternative":  {
-                                               "count":  1,
-                                               "color":  "#4f46e5",
-                                               "description":  "Etiqueta terraform-alternative"
-                                           },
-                 "fullstack":  {
-                                   "count":  1,
-                                   "color":  "#ea580c",
-                                   "description":  "Etiqueta fullstack"
-                               },
-                 "examples":  {
-                                  "count":  1,
-                                  "color":  "#d97706",
-                                  "description":  "Etiqueta examples"
-                              },
-                 "real-world":  {
-                                    "count":  1,
-                                    "color":  "#65a30d",
-                                    "description":  "Etiqueta real-world"
-                                },
-                 "tutorials":  {
-                                   "count":  1,
-                                   "color":  "#ea580c",
-                                   "description":  "Etiqueta tutorials"
-                               },
-                 "redis":  {
-                               "count":  1,
-                               "color":  "#0891b2",
-                               "description":  "Etiqueta redis"
-                           },
-                 "unlimited":  {
-                                   "count":  1,
-                                   "color":  "#059669",
-                                   "description":  "Etiqueta unlimited"
-                               },
-                 "enterprise":  {
-                                    "count":  1,
-                                    "color":  "#ea580c",
-                                    "description":  "Etiqueta enterprise"
-                                },
-                 "system-design":  {
-                                       "count":  1,
-                                       "color":  "#4f46e5",
-                                       "description":  "Etiqueta system-design"
-                                   },
-                 "architecture":  {
-                                      "count":  1,
-                                      "color":  "#d97706",
-                                      "description":  "Etiqueta architecture"
-                                  },
-                 "interviews":  {
-                                    "count":  1,
-                                    "color":  "#7c3aed",
-                                    "description":  "Etiqueta interviews"
-                                },
-                 "frontend":  {
-                                  "count":  1,
-                                  "color":  "#7c3aed",
-                                  "description":  "Etiqueta frontend"
-                              },
-                 "vercel-labs-skills":  {
-                                            "count":  1,
-                                            "color":  "#65a30d",
-                                            "description":  "Etiqueta vercel-labs-skills"
-                                        },
-                 "productivity":  {
-                                      "count":  1,
-                                      "color":  "#7c3aed",
-                                      "description":  "Etiqueta productivity"
-                                  },
-                 "email":  {
-                               "count":  1,
-                               "color":  "#2563eb",
-                               "description":  "Etiqueta email"
-                           },
-                 "docs":  {
-                              "count":  1,
-                              "color":  "#0891b2",
-                              "description":  "Etiqueta docs"
-                          },
-                 "chat":  {
-                              "count":  1,
-                              "color":  "#4f46e5",
-                              "description":  "Etiqueta chat"
-                          },
-                 "suite":  {
-                               "count":  1,
-                               "color":  "#7c3aed",
-                               "description":  "Etiqueta suite"
-                           }
-             },
-    "searchIndex":  {
-                        "fields":  [
-                                       {
-                                           "name":  "name",
-                                           "weight":  3,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "description",
-                                           "weight":  2,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "tags",
-                                           "weight":  2,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "category",
-                                           "weight":  1,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "subcategory",
-                                           "weight":  1,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       }
-                                   ],
-                        "entries":  [
-                                        {
-                                            "id":  "30-seconds-of-code",
-                                            "slug":  "30-seconds-of-code",
-                                            "terms":  [
-                                                          "30-seconds-of-code",
-                                                          "Snippets de código útiles",
-                                                          "version-control",
-                                                          "resources",
-                                                          "snippets",
-                                                          "code",
-                                                          "utilities",
-                                                          "javascript"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "awesome-astro",
-                                            "slug":  "awesome-astro",
-                                            "terms":  [
-                                                          "Awesome Astro",
-                                                          "awesome-astro",
-                                                          "Temas y herramientas para Astro",
-                                                          "version-control",
-                                                          "resources",
-                                                          "astro",
-                                                          "static-site",
-                                                          "awesome"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "awesome-copilot",
-                                            "slug":  "awesome-copilot",
-                                            "terms":  [
-                                                          "Awesome Copilot",
-                                                          "awesome-copilot",
-                                                          "Colección de recursos y extensiones Copilot",
-                                                          "version-control",
-                                                          "resources",
-                                                          "github",
-                                                          "copilot",
-                                                          "awesome",
-                                                          "extensions"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "awesome-design-md",
-                                            "slug":  "awesome-design-md",
-                                            "terms":  [
-                                                          "Awesome Design MD",
-                                                          "awesome-design-md",
-                                                          "Diseño 55 web importantes de marca",
-                                                          "version-control",
-                                                          "resources",
-                                                          "design",
-                                                          "awesome",
-                                                          "brands",
-                                                          "ui"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "awesome-fastapi",
-                                            "slug":  "awesome-fastapi",
-                                            "terms":  [
-                                                          "Awesome FastAPI",
-                                                          "awesome-fastapi",
-                                                          "Recursos FastAPI",
-                                                          "version-control",
-                                                          "resources",
-                                                          "fastapi",
-                                                          "python",
-                                                          "awesome"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "awesome-nestjs",
-                                            "slug":  "awesome-nestjs",
-                                            "terms":  [
-                                                          "Awesome NestJS",
-                                                          "awesome-nestjs",
-                                                          "Recursos NestJS",
-                                                          "version-control",
-                                                          "resources",
-                                                          "nestjs",
-                                                          "nodejs",
-                                                          "awesome"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "awesome-nextjs",
-                                            "slug":  "awesome-next-js",
-                                            "terms":  [
-                                                          "Awesome Next.js",
-                                                          "awesome-next-js",
-                                                          "Recursos y ejemplos Next.js",
-                                                          "version-control",
-                                                          "resources",
-                                                          "nextjs",
-                                                          "react",
-                                                          "awesome"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "awesome-open-source-ai",
-                                            "slug":  "awesome-open-source-ai",
-                                            "terms":  [
-                                                          "Awesome Open Source AI",
-                                                          "awesome-open-source-ai",
-                                                          "Lista curada proyectos IA open source",
-                                                          "version-control",
-                                                          "resources",
-                                                          "y-control-de-versiones-repositorios",
-                                                          "recursos-github"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "awesome-postgresql",
-                                            "slug":  "awesome-postgresql",
-                                            "terms":  [
-                                                          "Awesome PostgreSQL",
-                                                          "awesome-postgresql",
-                                                          "Recursos PostgreSQL",
-                                                          "version-control",
-                                                          "resources",
-                                                          "postgresql",
-                                                          "database",
-                                                          "awesome"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "awesome-python",
-                                            "slug":  "awesome-python",
-                                            "terms":  [
-                                                          "Awesome Python",
-                                                          "awesome-python",
-                                                          "Recursos curados para Python",
-                                                          "version-control",
-                                                          "resources",
-                                                          "python",
-                                                          "awesome",
-                                                          "curated"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "awesome-react",
-                                            "slug":  "awesome-react",
-                                            "terms":  [
-                                                          "Awesome React",
-                                                          "awesome-react",
-                                                          "Componentes y tools React",
-                                                          "version-control",
-                                                          "resources",
-                                                          "react",
-                                                          "components",
-                                                          "awesome"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "awesome-typescript",
-                                            "slug":  "awesome-typescript",
-                                            "terms":  [
-                                                          "Awesome TypeScript",
-                                                          "awesome-typescript",
-                                                          "Recursos seleccionados para TS",
-                                                          "version-control",
-                                                          "resources",
-                                                          "typescript",
-                                                          "awesome",
-                                                          "typed"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "aws-free-tier",
-                                            "slug":  "aws-free-tier",
-                                            "terms":  [
-                                                          "AWS Free Tier",
-                                                          "aws-free-tier",
-                                                          "Capa gratuita AWS durante 12 meses con límites mensuales",
-                                                          "cloud",
-                                                          "providers",
-                                                          "aws",
-                                                          "amazon",
-                                                          "free-tier",
-                                                          "12-months",
-                                                          "backend",
-                                                          "trial"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "azure-free",
-                                            "slug":  "azure-free",
-                                            "terms":  [
-                                                          "Azure Free",
-                                                          "azure-free",
-                                                          "Servicios gratis Microsoft Azure con crédito inicial",
-                                                          "cloud",
-                                                          "providers",
-                                                          "azure",
-                                                          "microsoft",
-                                                          "credit",
-                                                          "backend",
-                                                          "trial"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "bitbucket",
-                                            "slug":  "bitbucket",
-                                            "terms":  [
-                                                          "Bitbucket",
-                                                          "bitbucket",
-                                                          "Repos privados + pipelines gratis hasta 5 usuarios",
-                                                          "version-control",
-                                                          "platforms",
-                                                          "git",
-                                                          "repos",
-                                                          "pipelines",
-                                                          "atlassian",
-                                                          "team"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "brainboard",
-                                            "slug":  "brainboard",
-                                            "terms":  [
-                                                          "Brainboard",
-                                                          "brainboard",
-                                                          "Infraestructura cloud visual con drag-and-drop",
-                                                          "cloud",
-                                                          "management",
-                                                          "iac",
-                                                          "visual",
-                                                          "terraform",
-                                                          "collaboration"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "cloud-66",
-                                            "slug":  "cloud-66",
-                                            "terms":  [
-                                                          "Cloud 66",
-                                                          "cloud-66",
-                                                          "Deploy apps en cualquier cloud gratis",
-                                                          "cloud",
-                                                          "management",
-                                                          "deploy",
-                                                          "multi-cloud",
-                                                          "automation",
-                                                          "paas"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "cloudflare-free",
-                                            "slug":  "cloudflare-free",
-                                            "terms":  [
-                                                          "Cloudflare Free",
-                                                          "cloudflare-free",
-                                                          "DNS, CDN, Workers y SSL gratis sin tarjeta de crédito",
-                                                          "cloud",
-                                                          "providers",
-                                                          "cdn",
-                                                          "dns",
-                                                          "workers",
-                                                          "ssl",
-                                                          "security",
-                                                          "no-cc"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "cloudflare-pages",
-                                            "slug":  "cloudflare-pages",
-                                            "terms":  [
-                                                          "Cloudflare Pages",
-                                                          "cloudflare-pages",
-                                                          "Hosting estático global gratis con edge functions",
-                                                          "hosting",
-                                                          "deploy",
-                                                          "static",
-                                                          "edge",
-                                                          "functions",
-                                                          "global",
-                                                          "cdn"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "codeberg",
-                                            "slug":  "codeberg",
-                                            "terms":  [
-                                                          "Codeberg",
-                                                          "codeberg",
-                                                          "Git libre con CI integrado y comunidad FOSS",
-                                                          "version-control",
-                                                          "platforms",
-                                                          "git",
-                                                          "foss",
-                                                          "open-source",
-                                                          "ci",
-                                                          "community"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "deepsource-good-first",
-                                            "slug":  "deepsourcecorp-good-first",
-                                            "terms":  [
-                                                          "DeepSourceCorp Good First",
-                                                          "deepsourcecorp-good-first",
-                                                          "Issues para principiantes",
-                                                          "version-control",
-                                                          "resources",
-                                                          "github",
-                                                          "issues",
-                                                          "beginners",
-                                                          "open-source"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "deployment-io",
-                                            "slug":  "deployment-io",
-                                            "terms":  [
-                                                          "deployment.io",
-                                                          "deployment-io",
-                                                          "Automatiza despliegues en AWS con políticas",
-                                                          "cloud",
-                                                          "management",
-                                                          "aws",
-                                                          "deployment",
-                                                          "automation",
-                                                          "policies",
-                                                          "devops"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "developer-roadmap",
-                                            "slug":  "developer-roadmap",
-                                            "terms":  [
-                                                          "Developer Roadmap",
-                                                          "developer-roadmap",
-                                                          "Guías de aprendizaje para devs",
-                                                          "version-control",
-                                                          "resources",
-                                                          "roadmap",
-                                                          "learning",
-                                                          "career",
-                                                          "guides"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "dokploy",
-                                            "slug":  "dokploy",
-                                            "terms":  [
-                                                          "Dokploy",
-                                                          "dokploy",
-                                                          "Servidor open source tipo Vercel self-hosted",
-                                                          "hosting",
-                                                          "deploy",
-                                                          "open-source",
-                                                          "self-hosted",
-                                                          "vercel-alternative",
-                                                          "docker"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "first-contributions",
-                                            "slug":  "first-contributions",
-                                            "terms":  [
-                                                          "First Contributions",
-                                                          "first-contributions",
-                                                          "Tu primera contribución GitHub",
-                                                          "version-control",
-                                                          "resources",
-                                                          "github",
-                                                          "contributions",
-                                                          "beginners",
-                                                          "tutorial"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "framagit",
-                                            "slug":  "framagit",
-                                            "terms":  [
-                                                          "Framagit",
-                                                          "framagit",
-                                                          "Forge GitLab con CI y páginas estáticas gratis",
-                                                          "version-control",
-                                                          "platforms",
-                                                          "git",
-                                                          "gitlab",
-                                                          "ci",
-                                                          "pages",
-                                                          "foss"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "free-for-dev",
-                                            "slug":  "free-for-dev",
-                                            "terms":  [
-                                                          "Free For Dev",
-                                                          "free-for-dev",
-                                                          "Recursos gratis para devs",
-                                                          "version-control",
-                                                          "resources",
-                                                          "free",
-                                                          "dev-tools",
-                                                          "list"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "free-programming-books",
-                                            "slug":  "free-programming-books",
-                                            "terms":  [
-                                                          "Free Programming Books",
-                                                          "free-programming-books",
-                                                          "Libros de programación gratis",
-                                                          "version-control",
-                                                          "resources",
-                                                          "books",
-                                                          "free",
-                                                          "programming",
-                                                          "learning"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "gimp-mcp",
-                                            "slug":  "gimp-mcp",
-                                            "terms":  [
-                                                          "GIMP MCP",
-                                                          "gimp-mcp",
-                                                          "Servidor MCP para control conversacional",
-                                                          "version-control",
-                                                          "resources",
-                                                          "y-control-de-versiones-repositorios",
-                                                          "recursos-github"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "git-scm",
-                                            "slug":  "git-scm",
-                                            "terms":  [
-                                                          "Git SCM",
-                                                          "git-scm",
-                                                          "Sitio web oficial con documentación completa",
-                                                          "version-control",
-                                                          "learning",
-                                                          "git",
-                                                          "documentation",
-                                                          "official",
-                                                          "reference"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "gitgud",
-                                            "slug":  "gitgud",
-                                            "terms":  [
-                                                          "GitGud",
-                                                          "gitgud",
-                                                          "GitLab con CI/CD y registry sin límites estrictos",
-                                                          "version-control",
-                                                          "platforms",
-                                                          "git",
-                                                          "gitlab",
-                                                          "ci-cd",
-                                                          "registry"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "github",
-                                            "slug":  "github",
-                                            "terms":  [
-                                                          "GitHub",
-                                                          "github",
-                                                          "Repos ilimitados + CI/CD + Copilot AI integrado",
-                                                          "version-control",
-                                                          "platforms",
-                                                          "git",
-                                                          "repos",
-                                                          "ci-cd",
-                                                          "copilot",
-                                                          "ai",
-                                                          "collaboration"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "github-awesome",
-                                            "slug":  "github-awesome",
-                                            "terms":  [
-                                                          "GitHub Awesome",
-                                                          "github-awesome",
-                                                          "Repositorio más popular de recursos curados",
-                                                          "version-control",
-                                                          "resources",
-                                                          "github",
-                                                          "awesome",
-                                                          "curated"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "github-copilot-cli",
-                                            "slug":  "github-copilot-cli",
-                                            "terms":  [
-                                                          "GitHub Copilot CLI",
-                                                          "github-copilot-cli",
-                                                          "Curso CLI GitHub Copilot para principiantes",
-                                                          "version-control",
-                                                          "resources",
-                                                          "github",
-                                                          "copilot",
-                                                          "cli",
-                                                          "course",
-                                                          "beginners"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "github-education",
-                                            "slug":  "github-education",
-                                            "terms":  [
-                                                          "GitHub Education",
-                                                          "github-education",
-                                                          "Recursos gratis para estudiantes verificados",
-                                                          "version-control",
-                                                          "resources",
-                                                          "github",
-                                                          "education",
-                                                          "students",
-                                                          "free-pack"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "github-skills",
-                                            "slug":  "github-skills",
-                                            "terms":  [
-                                                          "GitHub Skills",
-                                                          "github-skills",
-                                                          "Cursos interactivos oficiales GitHub con feedback",
-                                                          "version-control",
-                                                          "resources",
-                                                          "github",
-                                                          "learning",
-                                                          "courses",
-                                                          "interactive"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "github-skills-intro",
-                                            "slug":  "github-skills-introduction",
-                                            "terms":  [
-                                                          "GitHub Skills Introduction",
-                                                          "github-skills-introduction",
-                                                          "Cursos interactivos oficiales de GitHub con feedback automatizado",
-                                                          "version-control",
-                                                          "learning",
-                                                          "github",
-                                                          "skills",
-                                                          "course",
-                                                          "interactive"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "github-topics",
-                                            "slug":  "github-topics",
-                                            "terms":  [
-                                                          "GitHub Topics",
-                                                          "github-topics",
-                                                          "Explorar repos por temas y tecnologías",
-                                                          "version-control",
-                                                          "resources",
-                                                          "github",
-                                                          "topics",
-                                                          "discovery",
-                                                          "tags"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "github-trending",
-                                            "slug":  "github-trending",
-                                            "terms":  [
-                                                          "GitHub Trending",
-                                                          "github-trending",
-                                                          "Repositorios GitHub trending actualizados diariamente",
-                                                          "version-control",
-                                                          "resources",
-                                                          "github",
-                                                          "trending",
-                                                          "discovery",
-                                                          "repos"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "gitlab",
-                                            "slug":  "gitlab",
-                                            "terms":  [
-                                                          "GitLab",
-                                                          "gitlab",
-                                                          "Repos + CI/CD + registry container integrado",
-                                                          "version-control",
-                                                          "platforms",
-                                                          "git",
-                                                          "repos",
-                                                          "ci-cd",
-                                                          "registry",
-                                                          "devops",
-                                                          "container"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "good-first-issues",
-                                            "slug":  "good-first-issues",
-                                            "terms":  [
-                                                          "Good First Issues",
-                                                          "good-first-issues",
-                                                          "Issues fáciles para principiantes en open source",
-                                                          "version-control",
-                                                          "resources",
-                                                          "github",
-                                                          "issues",
-                                                          "beginners",
-                                                          "open-source"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "google-cloud-free",
-                                            "slug":  "google-cloud-free",
-                                            "terms":  [
-                                                          "Google Cloud Free",
-                                                          "google-cloud-free",
-                                                          "Capas gratuitas GCP siempre activas para servicios seleccionados",
-                                                          "cloud",
-                                                          "providers",
-                                                          "gcp",
-                                                          "google",
-                                                          "free-tier",
-                                                          "backend",
-                                                          "infra",
-                                                          "always-free"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "ground-station",
-                                            "slug":  "ground-station",
-                                            "terms":  [
-                                                          "Ground Station",
-                                                          "ground-station",
-                                                          "Suite monitoreo satélites open source",
-                                                          "version-control",
-                                                          "resources",
-                                                          "y-control-de-versiones-repositorios",
-                                                          "recursos-github"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "hello-git-mouredev",
-                                            "slug":  "hello-git-mouredev",
-                                            "terms":  [
-                                                          "Hello Git (MoureDev)",
-                                                          "hello-git-mouredev",
-                                                          "Curso completo de Git y GitHub desde cero en español",
-                                                          "version-control",
-                                                          "learning",
-                                                          "git",
-                                                          "course",
-                                                          "spanish",
-                                                          "beginners"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "heptapod",
-                                            "slug":  "heptapod",
-                                            "terms":  [
-                                                          "Heptapod",
-                                                          "heptapod",
-                                                          "GitLab + Mercurial soporte dual",
-                                                          "version-control",
-                                                          "platforms",
-                                                          "git",
-                                                          "mercurial",
-                                                          "gitlab",
-                                                          "dual-vcs"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "ibm-cloud-free",
-                                            "slug":  "ibm-cloud-free",
-                                            "terms":  [
-                                                          "IBM Cloud Free",
-                                                          "ibm-cloud-free",
-                                                          "DB, API Connect y monitoreo gratis con límites",
-                                                          "cloud",
-                                                          "providers",
-                                                          "ibm",
-                                                          "database",
-                                                          "api",
-                                                          "monitoring",
-                                                          "free-tier"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "koyeb",
-                                            "slug":  "koyeb",
-                                            "terms":  [
-                                                          "Koyeb",
-                                                          "koyeb",
-                                                          "Postgres 1GB gratis + 5h ejecución",
-                                                          "hosting",
-                                                          "deploy",
-                                                          "postgres",
-                                                          "database",
-                                                          "serverless",
-                                                          "edge"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "lazygit",
-                                            "slug":  "lazygit",
-                                            "terms":  [
-                                                          "Lazygit",
-                                                          "lazygit",
-                                                          "Terminal UI para Git con atajos intuitiv",
-                                                          "version-control",
-                                                          "resources",
-                                                          "y-control-de-versiones-repositorios",
-                                                          "recursos-github"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "learn-git-branching",
-                                            "slug":  "learn-git-branching",
-                                            "terms":  [
-                                                          "Learn Git Branching",
-                                                          "learn-git-branching",
-                                                          "Tutorial visual e interactivo para branching",
-                                                          "version-control",
-                                                          "learning",
-                                                          "git",
-                                                          "branching",
-                                                          "tutorial",
-                                                          "interactive"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "libros-programacion-gratis",
-                                            "slug":  "libros-programacion-gratis",
-                                            "terms":  [
-                                                          "Libros Programación Gratis",
-                                                          "libros-programacion-gratis",
-                                                          "Repositorio midudev libros",
-                                                          "version-control",
-                                                          "resources",
-                                                          "books",
-                                                          "free",
-                                                          "spanish",
-                                                          "midudev"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "netlify",
-                                            "slug":  "netlify",
-                                            "terms":  [
-                                                          "Netlify",
-                                                          "netlify",
-                                                          "Hosting estático con forms y functions serverless",
-                                                          "hosting",
-                                                          "deploy",
-                                                          "static",
-                                                          "forms",
-                                                          "serverless",
-                                                          "functions"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "oracle-cloud-free",
-                                            "slug":  "oracle-cloud-free",
-                                            "terms":  [
-                                                          "Oracle Cloud Free",
-                                                          "oracle-cloud-free",
-                                                          "VMs, storage y DB gratis Oracle siempre activos",
-                                                          "cloud",
-                                                          "providers",
-                                                          "oracle",
-                                                          "vm",
-                                                          "storage",
-                                                          "database",
-                                                          "always-free"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "pagure",
-                                            "slug":  "pagure",
-                                            "terms":  [
-                                                          "Pagure",
-                                                          "pagure",
-                                                          "Plataforma colaboración código FOSS",
-                                                          "version-control",
-                                                          "platforms",
-                                                          "git",
-                                                          "foss",
-                                                          "collaboration",
-                                                          "fedora"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "pijul",
-                                            "slug":  "pijul",
-                                            "terms":  [
-                                                          "Pijul",
-                                                          "pijul",
-                                                          "VCS distribuido basado en teoría patches",
-                                                          "version-control",
-                                                          "platforms",
-                                                          "vcs",
-                                                          "distributed",
-                                                          "patches",
-                                                          "alternative"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "portless",
-                                            "slug":  "portless",
-                                            "terms":  [
-                                                          "Portless",
-                                                          "portless",
-                                                          "Deploy sin puertos expuestos Vercel Labs",
-                                                          "hosting",
-                                                          "deploy",
-                                                          "a-i-cloud-hosting",
-                                                          "hosting-deploy"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "pro-git-book",
-                                            "slug":  "pro-git-book",
-                                            "terms":  [
-                                                          "Pro Git Book",
-                                                          "pro-git-book",
-                                                          "Libro oficial de Git, segunda edición gratuito",
-                                                          "version-control",
-                                                          "learning",
-                                                          "git",
-                                                          "book",
-                                                          "official"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "public-apis",
-                                            "slug":  "public-apis",
-                                            "terms":  [
-                                                          "Public APIs",
-                                                          "public-apis",
-                                                          "Lista de APIs públicas gratis",
-                                                          "version-control",
-                                                          "resources",
-                                                          "apis",
-                                                          "public",
-                                                          "free",
-                                                          "list"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "pulumi",
-                                            "slug":  "pulumi",
-                                            "terms":  [
-                                                          "Pulumi",
-                                                          "pulumi",
-                                                          "Infraestructura como código con JS/TS/Python",
-                                                          "cloud",
-                                                          "management",
-                                                          "iac",
-                                                          "typescript",
-                                                          "python",
-                                                          "terraform-alternative"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "railway",
-                                            "slug":  "railway",
-                                            "terms":  [
-                                                          "Railway",
-                                                          "railway",
-                                                          "Deploy apps con $5 crédito inicial mensual",
-                                                          "hosting",
-                                                          "deploy",
-                                                          "backend",
-                                                          "credit",
-                                                          "docker",
-                                                          "database"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "realworld",
-                                            "slug":  "realworld",
-                                            "terms":  [
-                                                          "RealWorld",
-                                                          "realworld",
-                                                          "Ejemplos fullstack reales",
-                                                          "version-control",
-                                                          "resources",
-                                                          "fullstack",
-                                                          "examples",
-                                                          "real-world",
-                                                          "tutorials"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "render",
-                                            "slug":  "render",
-                                            "terms":  [
-                                                          "Render",
-                                                          "render",
-                                                          "Backend y static sites con free tier generoso",
-                                                          "hosting",
-                                                          "deploy",
-                                                          "backend",
-                                                          "static",
-                                                          "postgres",
-                                                          "redis"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "rocketgit",
-                                            "slug":  "rocketgit",
-                                            "terms":  [
-                                                          "RocketGit",
-                                                          "rocketgit",
-                                                          "Hosting repos Git ilimitados",
-                                                          "version-control",
-                                                          "platforms",
-                                                          "git",
-                                                          "hosting",
-                                                          "repos",
-                                                          "unlimited"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "scalr",
-                                            "slug":  "scalr",
-                                            "terms":  [
-                                                          "Scalr",
-                                                          "scalr",
-                                                          "Terraform Automation colaborativa enterprise",
-                                                          "cloud",
-                                                          "management",
-                                                          "terraform",
-                                                          "automation",
-                                                          "enterprise",
-                                                          "iac",
-                                                          "collaboration"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "system-design-primer",
-                                            "slug":  "system-design-primer",
-                                            "terms":  [
-                                                          "System Design Primer",
-                                                          "system-design-primer",
-                                                          "Aprende diseño de sistemas",
-                                                          "version-control",
-                                                          "resources",
-                                                          "system-design",
-                                                          "learning",
-                                                          "architecture",
-                                                          "interviews"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "vercel",
-                                            "slug":  "vercel",
-                                            "terms":  [
-                                                          "Vercel",
-                                                          "vercel",
-                                                          "Deploy frontend con SSL y CDN global automático",
-                                                          "hosting",
-                                                          "deploy",
-                                                          "frontend",
-                                                          "nextjs",
-                                                          "ssl",
-                                                          "cdn",
-                                                          "serverless"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "vercel-labs-skills",
-                                            "slug":  "vercel-labs-skills",
-                                            "terms":  [
-                                                          "Vercel Labs Skills",
-                                                          "vercel-labs-skills",
-                                                          "Colección de skills y templates oficial",
-                                                          "version-control",
-                                                          "resources",
-                                                          "y-control-de-versiones-repositorios",
-                                                          "recursos-github"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "zoho-free",
-                                            "slug":  "zoho-free",
-                                            "terms":  [
-                                                          "Zoho Free",
-                                                          "zoho-free",
-                                                          "Suite productividad: email, docs, chat gratis",
-                                                          "cloud",
-                                                          "providers",
-                                                          "productivity",
-                                                          "email",
-                                                          "docs",
-                                                          "chat",
-                                                          "suite",
-                                                          "free"
-                                                      ]
-                                        }
-                                    ]
-                    },
-    "filters":  {
-                    "categories":  [
-                                       "cloud",
-                                       "hosting",
-                                       "version-control"
-                                   ],
-                    "subcategories":  [
-                                          "deploy",
-                                          "learning",
-                                          "management",
-                                          "platforms",
-                                          "providers",
-                                          "resources"
-                                      ],
-                    "pricing":  [
-                                    "free",
-                                    "freemium",
-                                    "premium"
-                                ],
-                    "languages":  [
-                                      "en",
-                                      "es"
-                                  ],
-                    "status":  [
-                                   "active"
-                               ],
-                    "verified":  [
-                                     true
-                                 ],
-                    "noCreditCard":  [
-                                         false,
-                                         true
-                                     ]
-                },
-    "ui":  {
-               "dataset":  "apis-data_databases",
-               "title":  "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
-               "description":  "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-               "resourceCount":  67
-           }
+  "tags": {
+    "12-months": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta 12-months"
+    },
+    "a-i-cloud-hosting": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta a-i-cloud-hosting"
+    },
+    "ai": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta ai"
+    },
+    "alternative": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta alternative"
+    },
+    "alucek-gh": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta alucek-gh"
+    },
+    "always-free": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta always-free"
+    },
+    "amazon": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta amazon"
+    },
+    "api": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta api"
+    },
+    "apis": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta apis"
+    },
+    "architecture": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta architecture"
+    },
+    "astro": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta astro"
+    },
+    "atlassian": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta atlassian"
+    },
+    "automation": {
+      "count": 3,
+      "color": "#ea580c",
+      "description": "Etiqueta automation"
+    },
+    "awesome": {
+      "count": 11,
+      "color": "#d97706",
+      "description": "Etiqueta awesome"
+    },
+    "awesome-open-source-ai": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta awesome-open-source-ai"
+    },
+    "aws": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta aws"
+    },
+    "azure": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta azure"
+    },
+    "backend": {
+      "count": 5,
+      "color": "#dc2626",
+      "description": "Etiqueta backend"
+    },
+    "beginners": {
+      "count": 5,
+      "color": "#65a30d",
+      "description": "Etiqueta beginners"
+    },
+    "book": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta book"
+    },
+    "books": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta books"
+    },
+    "branching": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta branching"
+    },
+    "brands": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta brands"
+    },
+    "career": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta career"
+    },
+    "cdn": {
+      "count": 3,
+      "color": "#ea580c",
+      "description": "Etiqueta cdn"
+    },
+    "chat": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta chat"
+    },
+    "ci": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta ci"
+    },
+    "ci-cd": {
+      "count": 3,
+      "color": "#db2777",
+      "description": "Etiqueta ci-cd"
+    },
+    "cli": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta cli"
+    },
+    "cloud": {
+      "count": 8,
+      "color": "#0891b2",
+      "description": "Etiqueta cloud"
+    },
+    "code": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta code"
+    },
+    "collaboration": {
+      "count": 4,
+      "color": "#0891b2",
+      "description": "Etiqueta collaboration"
+    },
+    "community": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta community"
+    },
+    "components": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta components"
+    },
+    "container": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta container"
+    },
+    "contributions": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta contributions"
+    },
+    "control-de-versiones-repositorios": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta control-de-versiones-repositorios"
+    },
+    "copilot": {
+      "count": 3,
+      "color": "#dc2626",
+      "description": "Etiqueta copilot"
+    },
+    "course": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta course"
+    },
+    "courses": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta courses"
+    },
+    "credit": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta credit"
+    },
+    "curated": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta curated"
+    },
+    "database": {
+      "count": 5,
+      "color": "#059669",
+      "description": "Etiqueta database"
+    },
+    "deploy": {
+      "count": 6,
+      "color": "#d97706",
+      "description": "Etiqueta deploy"
+    },
+    "deployment": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta deployment"
+    },
+    "design": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta design"
+    },
+    "dev-tools": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta dev-tools"
+    },
+    "devops": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta devops"
+    },
+    "discovery": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta discovery"
+    },
+    "distributed": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta distributed"
+    },
+    "dns": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta dns"
+    },
+    "docker": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta docker"
+    },
+    "docs": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta docs"
+    },
+    "documentation": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta documentation"
+    },
+    "dual-vcs": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta dual-vcs"
+    },
+    "edge": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta edge"
+    },
+    "education": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta education"
+    },
+    "email": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta email"
+    },
+    "enterprise": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta enterprise"
+    },
+    "examples": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta examples"
+    },
+    "extensions": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta extensions"
+    },
+    "fastapi": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta fastapi"
+    },
+    "fedora": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta fedora"
+    },
+    "forms": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta forms"
+    },
+    "foss": {
+      "count": 3,
+      "color": "#d97706",
+      "description": "Etiqueta foss"
+    },
+    "free": {
+      "count": 5,
+      "color": "#db2777",
+      "description": "Etiqueta free"
+    },
+    "free-pack": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta free-pack"
+    },
+    "free-tier": {
+      "count": 3,
+      "color": "#ea580c",
+      "description": "Etiqueta free-tier"
+    },
+    "frontend": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta frontend"
+    },
+    "fullstack": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta fullstack"
+    },
+    "functions": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta functions"
+    },
+    "gcp": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta gcp"
+    },
+    "gimp-mcp": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta gimp-mcp"
+    },
+    "git": {
+      "count": 13,
+      "color": "#7c3aed",
+      "description": "Etiqueta git"
+    },
+    "github": {
+      "count": 11,
+      "color": "#d97706",
+      "description": "Etiqueta github"
+    },
+    "gitlab": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta gitlab"
+    },
+    "global": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta global"
+    },
+    "google": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta google"
+    },
+    "ground-station": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta ground-station"
+    },
+    "guides": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta guides"
+    },
+    "hosting": {
+      "count": 9,
+      "color": "#7c3aed",
+      "description": "Etiqueta hosting"
+    },
+    "hosting-deploy": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta hosting-deploy"
+    },
+    "iac": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta iac"
+    },
+    "ibm": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta ibm"
+    },
+    "infra": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta infra"
+    },
+    "interactive": {
+      "count": 3,
+      "color": "#dc2626",
+      "description": "Etiqueta interactive"
+    },
+    "interviews": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta interviews"
+    },
+    "issues": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta issues"
+    },
+    "javascript": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta javascript"
+    },
+    "lazygit": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta lazygit"
+    },
+    "learning": {
+      "count": 5,
+      "color": "#db2777",
+      "description": "Etiqueta learning"
+    },
+    "list": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta list"
+    },
+    "mercurial": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta mercurial"
+    },
+    "microsoft": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta microsoft"
+    },
+    "midudev": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta midudev"
+    },
+    "monitoring": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta monitoring"
+    },
+    "multi-cloud": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta multi-cloud"
+    },
+    "nestjs": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta nestjs"
+    },
+    "nextjs": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta nextjs"
+    },
+    "no-cc": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta no-cc"
+    },
+    "nodejs": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta nodejs"
+    },
+    "official": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta official"
+    },
+    "open-source": {
+      "count": 4,
+      "color": "#4f46e5",
+      "description": "Etiqueta open-source"
+    },
+    "oracle": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta oracle"
+    },
+    "paas": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta paas"
+    },
+    "pages": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta pages"
+    },
+    "patches": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta patches"
+    },
+    "pipelines": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta pipelines"
+    },
+    "policies": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta policies"
+    },
+    "portless": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta portless"
+    },
+    "postgres": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta postgres"
+    },
+    "postgresql": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta postgresql"
+    },
+    "productivity": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta productivity"
+    },
+    "programming": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta programming"
+    },
+    "public": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta public"
+    },
+    "python": {
+      "count": 3,
+      "color": "#7c3aed",
+      "description": "Etiqueta python"
+    },
+    "react": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta react"
+    },
+    "real-world": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta real-world"
+    },
+    "recursos-github": {
+      "count": 6,
+      "color": "#7c3aed",
+      "description": "Etiqueta recursos-github"
+    },
+    "redis": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta redis"
+    },
+    "reference": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta reference"
+    },
+    "registry": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta registry"
+    },
+    "repos": {
+      "count": 5,
+      "color": "#d97706",
+      "description": "Etiqueta repos"
+    },
+    "resources": {
+      "count": 16,
+      "color": "#65a30d",
+      "description": "Etiqueta resources"
+    },
+    "roadmap": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta roadmap"
+    },
+    "security": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta security"
+    },
+    "self-hosted": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta self-hosted"
+    },
+    "serverless": {
+      "count": 3,
+      "color": "#dc2626",
+      "description": "Etiqueta serverless"
+    },
+    "skills": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta skills"
+    },
+    "snippets": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta snippets"
+    },
+    "spanish": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta spanish"
+    },
+    "ssl": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta ssl"
+    },
+    "static": {
+      "count": 3,
+      "color": "#db2777",
+      "description": "Etiqueta static"
+    },
+    "static-site": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta static-site"
+    },
+    "storage": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta storage"
+    },
+    "students": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta students"
+    },
+    "suite": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta suite"
+    },
+    "system-design": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta system-design"
+    },
+    "tags": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta tags"
+    },
+    "team": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta team"
+    },
+    "terraform": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta terraform"
+    },
+    "terraform-alternative": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta terraform-alternative"
+    },
+    "topics": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta topics"
+    },
+    "trending": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta trending"
+    },
+    "trial": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta trial"
+    },
+    "tutorial": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta tutorial"
+    },
+    "tutorials": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta tutorials"
+    },
+    "typed": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta typed"
+    },
+    "typescript": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta typescript"
+    },
+    "ui": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta ui"
+    },
+    "unlimited": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta unlimited"
+    },
+    "utilities": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta utilities"
+    },
+    "vcs": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta vcs"
+    },
+    "vercel-alternative": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta vercel-alternative"
+    },
+    "vercel-labs-skills": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta vercel-labs-skills"
+    },
+    "version-control": {
+      "count": 6,
+      "color": "#db2777",
+      "description": "Etiqueta version-control"
+    },
+    "visual": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta visual"
+    },
+    "vm": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta vm"
+    },
+    "workers": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta workers"
+    },
+    "y-control-de-versiones-repositorios": {
+      "count": 5,
+      "color": "#059669",
+      "description": "Etiqueta y-control-de-versiones-repositorios"
+    }
+  },
+  "searchIndex": {
+    "fields": [
+      {
+        "name": "name",
+        "weight": 3,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "description",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "tags",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "category",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "subcategory",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      }
+    ],
+    "entries": [
+      {
+        "id": "30-seconds-of-code",
+        "slug": "30-seconds-of-code",
+        "terms": [
+          "30-seconds-of-code",
+          "Snippets de código útiles",
+          "version-control",
+          "resources",
+          "snippets",
+          "code",
+          "utilities",
+          "javascript"
+        ]
+      },
+      {
+        "id": "alucek-gh",
+        "slug": "alucek-gh",
+        "terms": [
+          "ALucek-gh",
+          "alucek-gh",
+          "Perfil GitHub con recursos dev",
+          "version-control",
+          "resources",
+          "control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-astro",
+        "slug": "awesome-astro",
+        "terms": [
+          "Awesome Astro",
+          "awesome-astro",
+          "Temas y herramientas para Astro",
+          "version-control",
+          "resources",
+          "astro",
+          "static-site",
+          "awesome"
+        ]
+      },
+      {
+        "id": "awesome-copilot",
+        "slug": "awesome-copilot",
+        "terms": [
+          "Awesome Copilot",
+          "awesome-copilot",
+          "Colección de recursos y extensiones Copilot",
+          "version-control",
+          "resources",
+          "github",
+          "copilot",
+          "awesome",
+          "extensions"
+        ]
+      },
+      {
+        "id": "awesome-design-md",
+        "slug": "awesome-design-md",
+        "terms": [
+          "Awesome Design MD",
+          "awesome-design-md",
+          "Diseño 55 web importantes de marca",
+          "version-control",
+          "resources",
+          "design",
+          "awesome",
+          "brands",
+          "ui"
+        ]
+      },
+      {
+        "id": "awesome-fastapi",
+        "slug": "awesome-fastapi",
+        "terms": [
+          "Awesome FastAPI",
+          "awesome-fastapi",
+          "Recursos FastAPI",
+          "version-control",
+          "resources",
+          "fastapi",
+          "python",
+          "awesome"
+        ]
+      },
+      {
+        "id": "awesome-nestjs",
+        "slug": "awesome-nestjs",
+        "terms": [
+          "Awesome NestJS",
+          "awesome-nestjs",
+          "Recursos NestJS",
+          "version-control",
+          "resources",
+          "nestjs",
+          "nodejs",
+          "awesome"
+        ]
+      },
+      {
+        "id": "awesome-nextjs",
+        "slug": "awesome-next-js",
+        "terms": [
+          "Awesome Next.js",
+          "awesome-next-js",
+          "Recursos y ejemplos Next.js",
+          "version-control",
+          "resources",
+          "nextjs",
+          "react",
+          "awesome"
+        ]
+      },
+      {
+        "id": "awesome-open-source-ai",
+        "slug": "awesome-open-source-ai",
+        "terms": [
+          "Awesome Open Source AI",
+          "awesome-open-source-ai",
+          "Lista curada proyectos IA open source",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-postgresql",
+        "slug": "awesome-postgresql",
+        "terms": [
+          "Awesome PostgreSQL",
+          "awesome-postgresql",
+          "Recursos PostgreSQL",
+          "version-control",
+          "resources",
+          "postgresql",
+          "database",
+          "awesome"
+        ]
+      },
+      {
+        "id": "awesome-python",
+        "slug": "awesome-python",
+        "terms": [
+          "Awesome Python",
+          "awesome-python",
+          "Recursos curados para Python",
+          "version-control",
+          "resources",
+          "python",
+          "awesome",
+          "curated"
+        ]
+      },
+      {
+        "id": "awesome-react",
+        "slug": "awesome-react",
+        "terms": [
+          "Awesome React",
+          "awesome-react",
+          "Componentes y tools React",
+          "version-control",
+          "resources",
+          "react",
+          "components",
+          "awesome"
+        ]
+      },
+      {
+        "id": "awesome-typescript",
+        "slug": "awesome-typescript",
+        "terms": [
+          "Awesome TypeScript",
+          "awesome-typescript",
+          "Recursos seleccionados para TS",
+          "version-control",
+          "resources",
+          "typescript",
+          "awesome",
+          "typed"
+        ]
+      },
+      {
+        "id": "aws-free-tier",
+        "slug": "aws-free-tier",
+        "terms": [
+          "AWS Free Tier",
+          "aws-free-tier",
+          "Capa gratuita AWS durante 12 meses con límites mensuales",
+          "cloud",
+          "providers",
+          "aws",
+          "amazon",
+          "free-tier",
+          "12-months",
+          "backend",
+          "trial"
+        ]
+      },
+      {
+        "id": "azure-free",
+        "slug": "azure-free",
+        "terms": [
+          "Azure Free",
+          "azure-free",
+          "Servicios gratis Microsoft Azure con crédito inicial",
+          "cloud",
+          "providers",
+          "azure",
+          "microsoft",
+          "credit",
+          "backend",
+          "trial"
+        ]
+      },
+      {
+        "id": "bitbucket",
+        "slug": "bitbucket",
+        "terms": [
+          "Bitbucket",
+          "bitbucket",
+          "Repos privados + pipelines gratis hasta 5 usuarios",
+          "version-control",
+          "platforms",
+          "git",
+          "repos",
+          "pipelines",
+          "atlassian",
+          "team"
+        ]
+      },
+      {
+        "id": "brainboard",
+        "slug": "brainboard",
+        "terms": [
+          "Brainboard",
+          "brainboard",
+          "Infraestructura cloud visual con drag-and-drop",
+          "cloud",
+          "management",
+          "iac",
+          "visual",
+          "terraform",
+          "collaboration"
+        ]
+      },
+      {
+        "id": "cloud-66",
+        "slug": "cloud-66",
+        "terms": [
+          "Cloud 66",
+          "cloud-66",
+          "Deploy apps en cualquier cloud gratis",
+          "cloud",
+          "management",
+          "deploy",
+          "multi-cloud",
+          "automation",
+          "paas"
+        ]
+      },
+      {
+        "id": "cloudflare-free",
+        "slug": "cloudflare-free",
+        "terms": [
+          "Cloudflare Free",
+          "cloudflare-free",
+          "DNS, CDN, Workers y SSL gratis sin tarjeta de crédito",
+          "cloud",
+          "providers",
+          "cdn",
+          "dns",
+          "workers",
+          "ssl",
+          "security",
+          "no-cc"
+        ]
+      },
+      {
+        "id": "cloudflare-pages",
+        "slug": "cloudflare-pages",
+        "terms": [
+          "Cloudflare Pages",
+          "cloudflare-pages",
+          "Hosting estático global gratis con edge functions",
+          "hosting",
+          "deploy",
+          "static",
+          "edge",
+          "functions",
+          "global",
+          "cdn"
+        ]
+      },
+      {
+        "id": "codeberg",
+        "slug": "codeberg",
+        "terms": [
+          "Codeberg",
+          "codeberg",
+          "Git libre con CI integrado y comunidad FOSS",
+          "version-control",
+          "platforms",
+          "git",
+          "foss",
+          "open-source",
+          "ci",
+          "community"
+        ]
+      },
+      {
+        "id": "deepsource-good-first",
+        "slug": "deepsourcecorp-good-first",
+        "terms": [
+          "DeepSourceCorp Good First",
+          "deepsourcecorp-good-first",
+          "Issues para principiantes",
+          "version-control",
+          "resources",
+          "github",
+          "issues",
+          "beginners",
+          "open-source"
+        ]
+      },
+      {
+        "id": "deployment-io",
+        "slug": "deployment-io",
+        "terms": [
+          "deployment.io",
+          "deployment-io",
+          "Automatiza despliegues en AWS con políticas",
+          "cloud",
+          "management",
+          "aws",
+          "deployment",
+          "automation",
+          "policies",
+          "devops"
+        ]
+      },
+      {
+        "id": "developer-roadmap",
+        "slug": "developer-roadmap",
+        "terms": [
+          "Developer Roadmap",
+          "developer-roadmap",
+          "Guías de aprendizaje para devs",
+          "version-control",
+          "resources",
+          "roadmap",
+          "learning",
+          "career",
+          "guides"
+        ]
+      },
+      {
+        "id": "dokploy",
+        "slug": "dokploy",
+        "terms": [
+          "Dokploy",
+          "dokploy",
+          "Servidor open source tipo Vercel self-hosted",
+          "hosting",
+          "deploy",
+          "open-source",
+          "self-hosted",
+          "vercel-alternative",
+          "docker"
+        ]
+      },
+      {
+        "id": "first-contributions",
+        "slug": "first-contributions",
+        "terms": [
+          "First Contributions",
+          "first-contributions",
+          "Tu primera contribución GitHub",
+          "version-control",
+          "resources",
+          "github",
+          "contributions",
+          "beginners",
+          "tutorial"
+        ]
+      },
+      {
+        "id": "framagit",
+        "slug": "framagit",
+        "terms": [
+          "Framagit",
+          "framagit",
+          "Forge GitLab con CI y páginas estáticas gratis",
+          "version-control",
+          "platforms",
+          "git",
+          "gitlab",
+          "ci",
+          "pages",
+          "foss"
+        ]
+      },
+      {
+        "id": "free-for-dev",
+        "slug": "free-for-dev",
+        "terms": [
+          "Free For Dev",
+          "free-for-dev",
+          "Recursos gratis para devs",
+          "version-control",
+          "resources",
+          "free",
+          "dev-tools",
+          "list"
+        ]
+      },
+      {
+        "id": "free-programming-books",
+        "slug": "free-programming-books",
+        "terms": [
+          "Free Programming Books",
+          "free-programming-books",
+          "Libros de programación gratis",
+          "version-control",
+          "resources",
+          "books",
+          "free",
+          "programming",
+          "learning"
+        ]
+      },
+      {
+        "id": "gimp-mcp",
+        "slug": "gimp-mcp",
+        "terms": [
+          "GIMP MCP",
+          "gimp-mcp",
+          "Servidor MCP para control conversacional",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "git-scm",
+        "slug": "git-scm",
+        "terms": [
+          "Git SCM",
+          "git-scm",
+          "Sitio web oficial con documentación completa",
+          "version-control",
+          "learning",
+          "git",
+          "documentation",
+          "official",
+          "reference"
+        ]
+      },
+      {
+        "id": "gitgud",
+        "slug": "gitgud",
+        "terms": [
+          "GitGud",
+          "gitgud",
+          "GitLab con CI/CD y registry sin límites estrictos",
+          "version-control",
+          "platforms",
+          "git",
+          "gitlab",
+          "ci-cd",
+          "registry"
+        ]
+      },
+      {
+        "id": "github",
+        "slug": "github",
+        "terms": [
+          "GitHub",
+          "github",
+          "Repos ilimitados + CI/CD + Copilot AI integrado",
+          "version-control",
+          "platforms",
+          "git",
+          "repos",
+          "ci-cd",
+          "copilot",
+          "ai",
+          "collaboration"
+        ]
+      },
+      {
+        "id": "github-awesome",
+        "slug": "github-awesome",
+        "terms": [
+          "GitHub Awesome",
+          "github-awesome",
+          "Repositorio más popular de recursos curados",
+          "version-control",
+          "resources",
+          "github",
+          "awesome",
+          "curated"
+        ]
+      },
+      {
+        "id": "github-copilot-cli",
+        "slug": "github-copilot-cli",
+        "terms": [
+          "GitHub Copilot CLI",
+          "github-copilot-cli",
+          "Curso CLI GitHub Copilot para principiantes",
+          "version-control",
+          "resources",
+          "github",
+          "copilot",
+          "cli",
+          "course",
+          "beginners"
+        ]
+      },
+      {
+        "id": "github-education",
+        "slug": "github-education",
+        "terms": [
+          "GitHub Education",
+          "github-education",
+          "Recursos gratis para estudiantes verificados",
+          "version-control",
+          "resources",
+          "github",
+          "education",
+          "students",
+          "free-pack"
+        ]
+      },
+      {
+        "id": "github-skills",
+        "slug": "github-skills",
+        "terms": [
+          "GitHub Skills",
+          "github-skills",
+          "Cursos interactivos oficiales GitHub con feedback",
+          "version-control",
+          "resources",
+          "github",
+          "learning",
+          "courses",
+          "interactive"
+        ]
+      },
+      {
+        "id": "github-skills-intro",
+        "slug": "github-skills-introduction",
+        "terms": [
+          "GitHub Skills Introduction",
+          "github-skills-introduction",
+          "Cursos interactivos oficiales de GitHub con feedback automatizado",
+          "version-control",
+          "learning",
+          "github",
+          "skills",
+          "course",
+          "interactive"
+        ]
+      },
+      {
+        "id": "github-topics",
+        "slug": "github-topics",
+        "terms": [
+          "GitHub Topics",
+          "github-topics",
+          "Explorar repos por temas y tecnologías",
+          "version-control",
+          "resources",
+          "github",
+          "topics",
+          "discovery",
+          "tags"
+        ]
+      },
+      {
+        "id": "github-trending",
+        "slug": "github-trending",
+        "terms": [
+          "GitHub Trending",
+          "github-trending",
+          "Repositorios GitHub trending actualizados diariamente",
+          "version-control",
+          "resources",
+          "github",
+          "trending",
+          "discovery",
+          "repos"
+        ]
+      },
+      {
+        "id": "gitlab",
+        "slug": "gitlab",
+        "terms": [
+          "GitLab",
+          "gitlab",
+          "Repos + CI/CD + registry container integrado",
+          "version-control",
+          "platforms",
+          "git",
+          "repos",
+          "ci-cd",
+          "registry",
+          "devops",
+          "container"
+        ]
+      },
+      {
+        "id": "good-first-issues",
+        "slug": "good-first-issues",
+        "terms": [
+          "Good First Issues",
+          "good-first-issues",
+          "Issues fáciles para principiantes en open source",
+          "version-control",
+          "resources",
+          "github",
+          "issues",
+          "beginners",
+          "open-source"
+        ]
+      },
+      {
+        "id": "google-cloud-free",
+        "slug": "google-cloud-free",
+        "terms": [
+          "Google Cloud Free",
+          "google-cloud-free",
+          "Capas gratuitas GCP siempre activas para servicios seleccionados",
+          "cloud",
+          "providers",
+          "gcp",
+          "google",
+          "free-tier",
+          "backend",
+          "infra",
+          "always-free"
+        ]
+      },
+      {
+        "id": "ground-station",
+        "slug": "ground-station",
+        "terms": [
+          "Ground Station",
+          "ground-station",
+          "Suite monitoreo satélites open source",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "hello-git-mouredev",
+        "slug": "hello-git-mouredev",
+        "terms": [
+          "Hello Git (MoureDev)",
+          "hello-git-mouredev",
+          "Curso completo de Git y GitHub desde cero en español",
+          "version-control",
+          "learning",
+          "git",
+          "course",
+          "spanish",
+          "beginners"
+        ]
+      },
+      {
+        "id": "heptapod",
+        "slug": "heptapod",
+        "terms": [
+          "Heptapod",
+          "heptapod",
+          "GitLab + Mercurial soporte dual",
+          "version-control",
+          "platforms",
+          "git",
+          "mercurial",
+          "gitlab",
+          "dual-vcs"
+        ]
+      },
+      {
+        "id": "ibm-cloud-free",
+        "slug": "ibm-cloud-free",
+        "terms": [
+          "IBM Cloud Free",
+          "ibm-cloud-free",
+          "DB, API Connect y monitoreo gratis con límites",
+          "cloud",
+          "providers",
+          "ibm",
+          "database",
+          "api",
+          "monitoring",
+          "free-tier"
+        ]
+      },
+      {
+        "id": "koyeb",
+        "slug": "koyeb",
+        "terms": [
+          "Koyeb",
+          "koyeb",
+          "Postgres 1GB gratis + 5h ejecución",
+          "hosting",
+          "deploy",
+          "postgres",
+          "database",
+          "serverless",
+          "edge"
+        ]
+      },
+      {
+        "id": "lazygit",
+        "slug": "lazygit",
+        "terms": [
+          "Lazygit",
+          "lazygit",
+          "Terminal UI para Git con atajos intuitiv",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "learn-git-branching",
+        "slug": "learn-git-branching",
+        "terms": [
+          "Learn Git Branching",
+          "learn-git-branching",
+          "Tutorial visual e interactivo para branching",
+          "version-control",
+          "learning",
+          "git",
+          "branching",
+          "tutorial",
+          "interactive"
+        ]
+      },
+      {
+        "id": "libros-programacion-gratis",
+        "slug": "libros-programacion-gratis",
+        "terms": [
+          "Libros Programación Gratis",
+          "libros-programacion-gratis",
+          "Repositorio midudev libros",
+          "version-control",
+          "resources",
+          "books",
+          "free",
+          "spanish",
+          "midudev"
+        ]
+      },
+      {
+        "id": "netlify",
+        "slug": "netlify",
+        "terms": [
+          "Netlify",
+          "netlify",
+          "Hosting estático con forms y functions serverless",
+          "hosting",
+          "deploy",
+          "static",
+          "forms",
+          "serverless",
+          "functions"
+        ]
+      },
+      {
+        "id": "oracle-cloud-free",
+        "slug": "oracle-cloud-free",
+        "terms": [
+          "Oracle Cloud Free",
+          "oracle-cloud-free",
+          "VMs, storage y DB gratis Oracle siempre activos",
+          "cloud",
+          "providers",
+          "oracle",
+          "vm",
+          "storage",
+          "database",
+          "always-free"
+        ]
+      },
+      {
+        "id": "pagure",
+        "slug": "pagure",
+        "terms": [
+          "Pagure",
+          "pagure",
+          "Plataforma colaboración código FOSS",
+          "version-control",
+          "platforms",
+          "git",
+          "foss",
+          "collaboration",
+          "fedora"
+        ]
+      },
+      {
+        "id": "pijul",
+        "slug": "pijul",
+        "terms": [
+          "Pijul",
+          "pijul",
+          "VCS distribuido basado en teoría patches",
+          "version-control",
+          "platforms",
+          "vcs",
+          "distributed",
+          "patches",
+          "alternative"
+        ]
+      },
+      {
+        "id": "portless",
+        "slug": "portless",
+        "terms": [
+          "Portless",
+          "portless",
+          "Deploy sin puertos expuestos Vercel Labs",
+          "hosting",
+          "deploy",
+          "a-i-cloud-hosting",
+          "hosting-deploy"
+        ]
+      },
+      {
+        "id": "pro-git-book",
+        "slug": "pro-git-book",
+        "terms": [
+          "Pro Git Book",
+          "pro-git-book",
+          "Libro oficial de Git, segunda edición gratuito",
+          "version-control",
+          "learning",
+          "git",
+          "book",
+          "official"
+        ]
+      },
+      {
+        "id": "public-apis",
+        "slug": "public-apis",
+        "terms": [
+          "Public APIs",
+          "public-apis",
+          "Lista de APIs públicas gratis",
+          "version-control",
+          "resources",
+          "apis",
+          "public",
+          "free",
+          "list"
+        ]
+      },
+      {
+        "id": "pulumi",
+        "slug": "pulumi",
+        "terms": [
+          "Pulumi",
+          "pulumi",
+          "Infraestructura como código con JS/TS/Python",
+          "cloud",
+          "management",
+          "iac",
+          "typescript",
+          "python",
+          "terraform-alternative"
+        ]
+      },
+      {
+        "id": "railway",
+        "slug": "railway",
+        "terms": [
+          "Railway",
+          "railway",
+          "Deploy apps con $5 crédito inicial mensual",
+          "hosting",
+          "deploy",
+          "backend",
+          "credit",
+          "docker",
+          "database"
+        ]
+      },
+      {
+        "id": "realworld",
+        "slug": "realworld",
+        "terms": [
+          "RealWorld",
+          "realworld",
+          "Ejemplos fullstack reales",
+          "version-control",
+          "resources",
+          "fullstack",
+          "examples",
+          "real-world",
+          "tutorials"
+        ]
+      },
+      {
+        "id": "render",
+        "slug": "render",
+        "terms": [
+          "Render",
+          "render",
+          "Backend y static sites con free tier generoso",
+          "hosting",
+          "deploy",
+          "backend",
+          "static",
+          "postgres",
+          "redis"
+        ]
+      },
+      {
+        "id": "rocketgit",
+        "slug": "rocketgit",
+        "terms": [
+          "RocketGit",
+          "rocketgit",
+          "Hosting repos Git ilimitados",
+          "version-control",
+          "platforms",
+          "git",
+          "hosting",
+          "repos",
+          "unlimited"
+        ]
+      },
+      {
+        "id": "scalr",
+        "slug": "scalr",
+        "terms": [
+          "Scalr",
+          "scalr",
+          "Terraform Automation colaborativa enterprise",
+          "cloud",
+          "management",
+          "terraform",
+          "automation",
+          "enterprise",
+          "iac",
+          "collaboration"
+        ]
+      },
+      {
+        "id": "system-design-primer",
+        "slug": "system-design-primer",
+        "terms": [
+          "System Design Primer",
+          "system-design-primer",
+          "Aprende diseño de sistemas",
+          "version-control",
+          "resources",
+          "system-design",
+          "learning",
+          "architecture",
+          "interviews"
+        ]
+      },
+      {
+        "id": "vercel",
+        "slug": "vercel",
+        "terms": [
+          "Vercel",
+          "vercel",
+          "Deploy frontend con SSL y CDN global automático",
+          "hosting",
+          "deploy",
+          "frontend",
+          "nextjs",
+          "ssl",
+          "cdn",
+          "serverless"
+        ]
+      },
+      {
+        "id": "vercel-labs-skills",
+        "slug": "vercel-labs-skills",
+        "terms": [
+          "Vercel Labs Skills",
+          "vercel-labs-skills",
+          "Colección de skills y templates oficial",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "zoho-free",
+        "slug": "zoho-free",
+        "terms": [
+          "Zoho Free",
+          "zoho-free",
+          "Suite productividad: email, docs, chat gratis",
+          "cloud",
+          "providers",
+          "productivity",
+          "email",
+          "docs",
+          "chat",
+          "suite",
+          "free"
+        ]
+      }
+    ]
+  },
+  "filters": {
+    "categories": [
+      "cloud",
+      "hosting",
+      "version-control"
+    ],
+    "subcategories": [
+      "deploy",
+      "learning",
+      "management",
+      "platforms",
+      "providers",
+      "resources"
+    ],
+    "pricing": [
+      "free",
+      "freemium",
+      "premium"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "status": [
+      "active"
+    ],
+    "verified": [
+      true
+    ],
+    "noCreditCard": [
+      false,
+      true
+    ]
+  },
+  "ui": {
+    "dataset": "apis-data_databases",
+    "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
+    "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
+    "resourceCount": 68
+  }
 }

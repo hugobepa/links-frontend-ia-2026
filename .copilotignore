@@ -1,0 +1,112 @@
+# --- Archivos de entorno y configuración sensible ---
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+.env.test
+*.secret
+secrets/
+secrets.json
+credentials.json
+config/credentials.*
+
+# --- Dependencias y lock files ---
+node_modules/
+.npm/
+.yarn/
+.pnpm-store/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+package-lock.yaml
+
+# --- Archivos de compilación y build ---
+dist/
+.build/
+.output/
+.astro/
+.vercel/
+.netlify/
+.next/
+
+# --- Archivos de caché y temporales ---
+.cache/
+.cache-loader/
+.temp/
+tmp/
+temp/
+*.log
+logs/
+*.tmp
+*.swp
+*.swo
+*~
+
+# --- Git y control de versiones ---
+.git/
+.gitignore
+.gitattributes
+.gitmodules
+.github/
+
+# --- Archivos de IDE y editor ---
+.vscode/
+.idea/
+*.code-workspace
+.settings/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# --- Testing y coverage ---
+coverage/
+.nyc_output/
+*.lcov
+test-results/
+jest.config.ts
+vitest.config.ts
+playwright-report/
+playwright/.cache/
+
+# --- Documentación y assets estáticos grandes ---
+public/assets/videos/
+public/assets/images/large/
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# --- Archivos de datos y backups ---
+data/backups/
+data/dumps/
+*.sql
+*.db
+*.sqlite
+*.backup
+
+# --- Scripts sensibles ---
+scripts/credentials.ps1
+scripts/secrets.*
+scripts/deploy-keys.*
+
+# --- Archivos de sistema ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Documentación técnica generada ---
+docs/generated/
+*.api
+postman/
+postman.json
+
+# --- Analytics y monitoring ---
+analytics/
+monitoring/
+telemetry/

@@ -3,9 +3,48 @@
   "configurations": [
     {
       "command": "./node_modules/.bin/astro dev",
-      "name": "Development server",
+      "name": "🚀 Astro Dev Server",
       "request": "launch",
-      "type": "node-terminal"
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "type": "chrome",
+      "name": "🌐 Chrome Debug (localhost:4321)",
+      "request": "launch",
+      "url": "http://localhost:4321",
+      "webRoot": "${workspaceFolder}",
+      "sourceMaps": true,
+      "breakOnLoad": false,
+      "sourceMapPathOverrides": {
+        "webpack:///./*": "${webRoot}/*",
+        "webpack:///src/*": "${webRoot}/src/*",
+        "webpack:///*": "/*"
+      }
+    },
+    {
+      "type": "node",
+      "name": "🐛 Node.js Debug Current File",
+      "request": "launch",
+      "program": "${file}",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["--inspect"],
+      "skipFiles": ["<node_internals>/**"],
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "node",
+      "name": "🧪 Run Tests",
+      "request": "launch",
+      "program": "${workspaceFolder}/node_modules/.bin/vitest",
+      "args": ["run", "--inspect-brk"],
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "serverReadyAction": {
+        "pattern": "started at (https?:\\/{2}[\\w:.]+)",
+        "uriFormat": "%s",
+        "action": "debugWithChrome"
+      }
     }
   ]
 }

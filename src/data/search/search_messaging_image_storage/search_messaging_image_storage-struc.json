@@ -1,733 +1,733 @@
 {
-    "tags":  {
-                 "search":  {
-                                "count":  5,
-                                "color":  "#2563eb",
-                                "description":  "Etiqueta search"
-                            },
-                 "instant":  {
-                                 "count":  2,
-                                 "color":  "#ea580c",
-                                 "description":  "Etiqueta instant"
-                             },
-                 "saas":  {
-                              "count":  2,
-                              "color":  "#7c3aed",
-                              "description":  "Etiqueta saas"
-                          },
-                 "freemium":  {
-                                  "count":  1,
-                                  "color":  "#db2777",
-                                  "description":  "Etiqueta freemium"
-                              },
-                 "storage":  {
-                                 "count":  8,
-                                 "color":  "#65a30d",
-                                 "description":  "Etiqueta storage"
-                             },
-                 "s3":  {
-                            "count":  2,
-                            "color":  "#4f46e5",
-                            "description":  "Etiqueta s3"
-                        },
-                 "compatible":  {
-                                    "count":  2,
-                                    "color":  "#4f46e5",
-                                    "description":  "Etiqueta compatible"
-                                },
-                 "backup":  {
-                                "count":  1,
-                                "color":  "#2563eb",
-                                "description":  "Etiqueta backup"
-                            },
-                 "messaging":  {
-                                   "count":  2,
-                                   "color":  "#db2777",
-                                   "description":  "Etiqueta messaging"
-                               },
-                 "websockets":  {
-                                    "count":  1,
-                                    "color":  "#dc2626",
-                                    "description":  "Etiqueta websockets"
-                                },
-                 "open-source":  {
-                                     "count":  3,
-                                     "color":  "#4f46e5",
-                                     "description":  "Etiqueta open-source"
-                                 },
-                 "realtime":  {
-                                  "count":  1,
-                                  "color":  "#059669",
-                                  "description":  "Etiqueta realtime"
-                              },
-                 "rabbitmq":  {
-                                  "count":  1,
-                                  "color":  "#2563eb",
-                                  "description":  "Etiqueta rabbitmq"
-                              },
-                 "queue":  {
-                               "count":  1,
-                               "color":  "#ea580c",
-                               "description":  "Etiqueta queue"
-                           },
-                 "image":  {
-                               "count":  7,
-                               "color":  "#0891b2",
-                               "description":  "Etiqueta image"
-                           },
-                 "cdn":  {
-                             "count":  8,
-                             "color":  "#ea580c",
-                             "description":  "Etiqueta cdn"
-                         },
-                 "optimization":  {
-                                      "count":  6,
-                                      "color":  "#ea580c",
-                                      "description":  "Etiqueta optimization"
-                                  },
-                 "media":  {
-                               "count":  1,
-                               "color":  "#dc2626",
-                               "description":  "Etiqueta media"
-                           },
-                 "elasticsearch":  {
-                                       "count":  2,
-                                       "color":  "#059669",
-                                       "description":  "Etiqueta elasticsearch"
-                                   },
-                 "managed":  {
-                                 "count":  1,
-                                 "color":  "#65a30d",
-                                 "description":  "Etiqueta managed"
-                             },
-                 "elastic":  {
-                                 "count":  1,
-                                 "color":  "#059669",
-                                 "description":  "Etiqueta elastic"
-                             },
-                 "file":  {
-                              "count":  5,
-                              "color":  "#4f46e5",
-                              "description":  "Etiqueta file"
-                          },
-                 "transfer":  {
-                                  "count":  3,
-                                  "color":  "#ea580c",
-                                  "description":  "Etiqueta transfer"
-                              },
-                 "temporary":  {
-                                   "count":  1,
-                                   "color":  "#0891b2",
-                                   "description":  "Etiqueta temporary"
-                               },
-                 "sharing":  {
-                                 "count":  1,
-                                 "color":  "#db2777",
-                                 "description":  "Etiqueta sharing"
-                             },
-                 "upload":  {
-                                "count":  3,
-                                "color":  "#0891b2",
-                                "description":  "Etiqueta upload"
-                            },
-                 "transformation":  {
-                                        "count":  3,
-                                        "color":  "#65a30d",
-                                        "description":  "Etiqueta transformation"
-                                    },
-                 "cloud":  {
-                               "count":  4,
-                               "color":  "#0891b2",
-                               "description":  "Etiqueta cloud"
-                           },
-                 "encrypted":  {
-                                   "count":  5,
-                                   "color":  "#7c3aed",
-                                   "description":  "Etiqueta encrypted"
-                               },
-                 "performance":  {
-                                     "count":  1,
-                                     "color":  "#2563eb",
-                                     "description":  "Etiqueta performance"
-                                 },
-                 "rust":  {
-                              "count":  1,
-                              "color":  "#dc2626",
-                              "description":  "Etiqueta rust"
-                          },
-                 "secure":  {
-                                "count":  1,
-                                "color":  "#65a30d",
-                                "description":  "Etiqueta secure"
-                            },
-                 "ipfs":  {
-                              "count":  1,
-                              "color":  "#7c3aed",
-                              "description":  "Etiqueta ipfs"
-                          },
-                 "decentralized":  {
-                                       "count":  2,
-                                       "color":  "#7c3aed",
-                                       "description":  "Etiqueta decentralized"
-                                   },
-                 "privacy":  {
-                                 "count":  1,
-                                 "color":  "#4f46e5",
-                                 "description":  "Etiqueta privacy"
-                             },
-                 "hosted":  {
-                                "count":  1,
-                                "color":  "#65a30d",
-                                "description":  "Etiqueta hosted"
-                            },
-                 "ai":  {
-                            "count":  1,
-                            "color":  "#dc2626",
-                            "description":  "Etiqueta ai"
-                        },
-                 "blockchain":  {
-                                    "count":  1,
-                                    "color":  "#db2777",
-                                    "description":  "Etiqueta blockchain"
-                                },
-                 "terminal":  {
-                                  "count":  1,
-                                  "color":  "#2563eb",
-                                  "description":  "Etiqueta terminal"
-                              },
-                 "cli":  {
-                             "count":  1,
-                             "color":  "#dc2626",
-                             "description":  "Etiqueta cli"
-                         },
-                 "fast":  {
-                              "count":  1,
-                              "color":  "#2563eb",
-                              "description":  "Etiqueta fast"
-                          },
-                 "self-hosted":  {
-                                     "count":  1,
-                                     "color":  "#db2777",
-                                     "description":  "Etiqueta self-hosted"
-                                 },
-                 "processing":  {
-                                    "count":  1,
-                                    "color":  "#0891b2",
-                                    "description":  "Etiqueta processing"
-                                },
-                 "resumable":  {
-                                   "count":  1,
-                                   "color":  "#2563eb",
-                                   "description":  "Etiqueta resumable"
-                               },
-                 "ui":  {
-                            "count":  1,
-                            "color":  "#dc2626",
-                            "description":  "Etiqueta ui"
-                        },
-                 "video":  {
-                               "count":  1,
-                               "color":  "#0891b2",
-                               "description":  "Etiqueta video"
-                           },
-                 "hosting":  {
-                                 "count":  1,
-                                 "color":  "#7c3aed",
-                                 "description":  "Etiqueta hosting"
-                             },
-                 "streaming":  {
-                                   "count":  1,
-                                   "color":  "#2563eb",
-                                   "description":  "Etiqueta streaming"
-                               },
-                 "video-hosting":  {
-                                       "count":  1,
-                                       "color":  "#7c3aed",
-                                       "description":  "Etiqueta video-hosting"
-                                   },
-                 "no-egress":  {
-                                   "count":  1,
-                                   "color":  "#0891b2",
-                                   "description":  "Etiqueta no-egress"
-                               },
-                 "p2p":  {
-                             "count":  1,
-                             "color":  "#7c3aed",
-                             "description":  "Etiqueta p2p"
-                         }
-             },
-    "searchIndex":  {
-                        "fields":  [
-                                       {
-                                           "name":  "name",
-                                           "weight":  3,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "description",
-                                           "weight":  2,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "tags",
-                                           "weight":  2,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "category",
-                                           "weight":  1,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       },
-                                       {
-                                           "name":  "subcategory",
-                                           "weight":  1,
-                                           "encode":  "forward",
-                                           "tokenize":  "forward"
-                                       }
-                                   ],
-                        "entries":  [
-                                        {
-                                            "id":  "algolia",
-                                            "slug":  "algolia",
-                                            "terms":  [
-                                                          "Algolia",
-                                                          "algolia",
-                                                          "Búsqueda instantánea 10k docs/mes gratis",
-                                                          "search",
-                                                          "engines",
-                                                          "instant",
-                                                          "saas",
-                                                          "freemium"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "backblaze-b2",
-                                            "slug":  "backblaze-b2",
-                                            "terms":  [
-                                                          "Backblaze B2",
-                                                          "backblaze-b2",
-                                                          "Storage S3-compatible 10GB gratis",
-                                                          "file-storage",
-                                                          "cloud-storage",
-                                                          "storage",
-                                                          "s3",
-                                                          "compatible",
-                                                          "backup"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "centrifugo",
-                                            "slug":  "centrifugo",
-                                            "terms":  [
-                                                          "Centrifugo",
-                                                          "centrifugo",
-                                                          "Server WebSocket open source",
-                                                          "messaging",
-                                                          "realtime",
-                                                          "websockets",
-                                                          "open-source"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "cloudamqp",
-                                            "slug":  "cloudamqp",
-                                            "terms":  [
-                                                          "CloudAMQP",
-                                                          "cloudamqp",
-                                                          "RabbitMQ como servicio 1M msgs/mes",
-                                                          "messaging",
-                                                          "services",
-                                                          "rabbitmq",
-                                                          "queue"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "cloudimage",
-                                            "slug":  "cloudimage",
-                                            "terms":  [
-                                                          "Cloudimage",
-                                                          "cloudimage",
-                                                          "Optimización y CDN de imágenes",
-                                                          "image-video",
-                                                          "cdn",
-                                                          "image",
-                                                          "optimization"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "cloudinary",
-                                            "slug":  "cloudinary",
-                                            "terms":  [
-                                                          "Cloudinary",
-                                                          "cloudinary",
-                                                          "CDN y optimización de imágenes",
-                                                          "image-video",
-                                                          "cdn",
-                                                          "image",
-                                                          "optimization",
-                                                          "media"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "elastic-cloud",
-                                            "slug":  "elastic-cloud",
-                                            "terms":  [
-                                                          "Elastic Cloud",
-                                                          "elastic-cloud",
-                                                          "Elasticsearch gestionado 1GB gratis",
-                                                          "search",
-                                                          "engines",
-                                                          "elasticsearch",
-                                                          "managed",
-                                                          "elastic"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "file-io",
-                                            "slug":  "file-io",
-                                            "terms":  [
-                                                          "File.io",
-                                                          "file-io",
-                                                          "Comparte archivos auto-destruibles",
-                                                          "file-storage",
-                                                          "file-transfer",
-                                                          "file",
-                                                          "transfer",
-                                                          "temporary",
-                                                          "sharing"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "filestack",
-                                            "slug":  "filestack",
-                                            "terms":  [
-                                                          "Filestack",
-                                                          "filestack",
-                                                          "Subida y transformación de archivos",
-                                                          "image-video",
-                                                          "cdn",
-                                                          "file",
-                                                          "upload",
-                                                          "transformation"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "icedrive",
-                                            "slug":  "icedrive",
-                                            "terms":  [
-                                                          "Icedrive",
-                                                          "icedrive",
-                                                          "Cloud storage con encriptación",
-                                                          "file-storage",
-                                                          "cloud-storage",
-                                                          "storage",
-                                                          "cloud",
-                                                          "encrypted"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "imageengine",
-                                            "slug":  "imageengine",
-                                            "terms":  [
-                                                          "ImageEngine",
-                                                          "imageengine",
-                                                          "CDN de imágenes con optimización",
-                                                          "image-video",
-                                                          "cdn",
-                                                          "image",
-                                                          "optimization",
-                                                          "performance"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "imagekit",
-                                            "slug":  "imagekit",
-                                            "terms":  [
-                                                          "ImageKit",
-                                                          "imagekit",
-                                                          "Optimización y CDN de imágenes",
-                                                          "image-video",
-                                                          "cdn",
-                                                          "image",
-                                                          "optimization",
-                                                          "transformation"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "imgix",
-                                            "slug":  "imgix",
-                                            "terms":  [
-                                                          "Imgix",
-                                                          "imgix",
-                                                          "Transformación de imágenes CDN",
-                                                          "image-video",
-                                                          "cdn",
-                                                          "image",
-                                                          "transformation",
-                                                          "optimization"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "mega",
-                                            "slug":  "mega",
-                                            "terms":  [
-                                                          "MEGA",
-                                                          "mega",
-                                                          "Almacenamiento cloud 20GB gratis",
-                                                          "file-storage",
-                                                          "cloud-storage",
-                                                          "storage",
-                                                          "cloud",
-                                                          "encrypted"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "meilisearch",
-                                            "slug":  "meilisearch",
-                                            "terms":  [
-                                                          "Meilisearch",
-                                                          "meilisearch",
-                                                          "Búsqueda instantánea open source",
-                                                          "search",
-                                                          "engines",
-                                                          "open-source",
-                                                          "instant",
-                                                          "rust"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "pcloud",
-                                            "slug":  "pcloud",
-                                            "terms":  [
-                                                          "pCloud",
-                                                          "pcloud",
-                                                          "Almacenamiento cloud seguro",
-                                                          "file-storage",
-                                                          "cloud-storage",
-                                                          "storage",
-                                                          "cloud",
-                                                          "secure"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "pinata-ipfs",
-                                            "slug":  "pinata-ipfs",
-                                            "terms":  [
-                                                          "Pinata IPFS",
-                                                          "pinata-ipfs",
-                                                          "Almacenamiento IPFS 1GB gratis",
-                                                          "image-video",
-                                                          "video-hosting",
-                                                          "ipfs",
-                                                          "storage",
-                                                          "decentralized"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "proton-drive",
-                                            "slug":  "proton-drive",
-                                            "terms":  [
-                                                          "Proton Drive",
-                                                          "proton-drive",
-                                                          "Almacenamiento encriptado 5GB gratis",
-                                                          "file-storage",
-                                                          "cloud-storage",
-                                                          "storage",
-                                                          "cloud",
-                                                          "encrypted",
-                                                          "privacy"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "searchly",
-                                            "slug":  "searchly",
-                                            "terms":  [
-                                                          "Searchly",
-                                                          "searchly",
-                                                          "Elasticsearch como servicio",
-                                                          "search",
-                                                          "engines",
-                                                          "elasticsearch",
-                                                          "saas",
-                                                          "hosted"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "sirv",
-                                            "slug":  "sirv",
-                                            "terms":  [
-                                                          "Sirv",
-                                                          "sirv",
-                                                          "CDN multimedia con IA",
-                                                          "image-video",
-                                                          "cdn",
-                                                          "image",
-                                                          "ai",
-                                                          "optimization"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "storj",
-                                            "slug":  "storj",
-                                            "terms":  [
-                                                          "Storj",
-                                                          "storj",
-                                                          "Storage descentralizado 25GB gratis",
-                                                          "file-storage",
-                                                          "cloud-storage",
-                                                          "storage",
-                                                          "decentralized",
-                                                          "encrypted",
-                                                          "blockchain"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "transfer-sh",
-                                            "slug":  "transfer-sh",
-                                            "terms":  [
-                                                          "Transfer.sh",
-                                                          "transfer-sh",
-                                                          "Comparte archivos desde terminal",
-                                                          "file-storage",
-                                                          "file-transfer",
-                                                          "file",
-                                                          "transfer",
-                                                          "terminal",
-                                                          "cli"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "typesense",
-                                            "slug":  "typesense",
-                                            "terms":  [
-                                                          "Typesense",
-                                                          "typesense",
-                                                          "Motor búsqueda open source rápido",
-                                                          "search",
-                                                          "engines",
-                                                          "open-source",
-                                                          "fast",
-                                                          "self-hosted"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "uploadcare",
-                                            "slug":  "uploadcare",
-                                            "terms":  [
-                                                          "Uploadcare",
-                                                          "uploadcare",
-                                                          "Subida y procesamiento de archivos",
-                                                          "image-video",
-                                                          "cdn",
-                                                          "image",
-                                                          "upload",
-                                                          "processing"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "uppy",
-                                            "slug":  "uppy",
-                                            "terms":  [
-                                                          "Uppy",
-                                                          "uppy",
-                                                          "Carga con reanudación y UI completa",
-                                                          "file-storage",
-                                                          "file-transfer",
-                                                          "file",
-                                                          "upload",
-                                                          "resumable",
-                                                          "ui"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "vimeo",
-                                            "slug":  "vimeo",
-                                            "terms":  [
-                                                          "Vimeo",
-                                                          "vimeo",
-                                                          "Hosting video 500MB/semana gratis",
-                                                          "image-video",
-                                                          "video-hosting",
-                                                          "video",
-                                                          "hosting",
-                                                          "streaming"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "wasabi",
-                                            "slug":  "wasabi",
-                                            "terms":  [
-                                                          "Wasabi",
-                                                          "wasabi",
-                                                          "Hot cloud storage sin egress fees",
-                                                          "file-storage",
-                                                          "cloud-storage",
-                                                          "storage",
-                                                          "s3",
-                                                          "compatible",
-                                                          "no-egress"
-                                                      ]
-                                        },
-                                        {
-                                            "id":  "wormhole",
-                                            "slug":  "wormhole",
-                                            "terms":  [
-                                                          "Wormhole",
-                                                          "wormhole",
-                                                          "Transferencia archivos encriptada",
-                                                          "file-storage",
-                                                          "file-transfer",
-                                                          "file",
-                                                          "transfer",
-                                                          "encrypted",
-                                                          "p2p"
-                                                      ]
-                                        }
-                                    ]
-                    },
-    "filters":  {
-                    "categories":  [
-                                       "file-storage",
-                                       "image-video",
-                                       "messaging",
-                                       "search"
-                                   ],
-                    "subcategories":  [
-                                          "cdn",
-                                          "cloud-storage",
-                                          "engines",
-                                          "file-transfer",
-                                          "realtime",
-                                          "services",
-                                          "video-hosting"
-                                      ],
-                    "pricing":  [
-                                    "free",
-                                    "freemium"
-                                ],
-                    "languages":  [
-                                      "en",
-                                      "es"
-                                  ],
-                    "status":  [
-                                   "active"
-                               ],
-                    "verified":  [
-                                     true
-                                 ],
-                    "noCreditCard":  [
-                                         false,
-                                         true
-                                     ]
-                },
-    "ui":  {
-               "dataset":  "search_messaging_image_storage",
-               "title":  "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
-               "description":  "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-               "resourceCount":  28
-           }
+  "tags": {
+    "ai": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta ai"
+    },
+    "backup": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta backup"
+    },
+    "blockchain": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta blockchain"
+    },
+    "cdn": {
+      "count": 8,
+      "color": "#ea580c",
+      "description": "Etiqueta cdn"
+    },
+    "cli": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta cli"
+    },
+    "cloud": {
+      "count": 4,
+      "color": "#0891b2",
+      "description": "Etiqueta cloud"
+    },
+    "compatible": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta compatible"
+    },
+    "decentralized": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta decentralized"
+    },
+    "elastic": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta elastic"
+    },
+    "elasticsearch": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta elasticsearch"
+    },
+    "encrypted": {
+      "count": 5,
+      "color": "#7c3aed",
+      "description": "Etiqueta encrypted"
+    },
+    "fast": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta fast"
+    },
+    "file": {
+      "count": 5,
+      "color": "#4f46e5",
+      "description": "Etiqueta file"
+    },
+    "freemium": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta freemium"
+    },
+    "hosted": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta hosted"
+    },
+    "hosting": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta hosting"
+    },
+    "image": {
+      "count": 7,
+      "color": "#0891b2",
+      "description": "Etiqueta image"
+    },
+    "instant": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta instant"
+    },
+    "ipfs": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta ipfs"
+    },
+    "managed": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta managed"
+    },
+    "media": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta media"
+    },
+    "messaging": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta messaging"
+    },
+    "no-egress": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta no-egress"
+    },
+    "open-source": {
+      "count": 3,
+      "color": "#4f46e5",
+      "description": "Etiqueta open-source"
+    },
+    "optimization": {
+      "count": 6,
+      "color": "#ea580c",
+      "description": "Etiqueta optimization"
+    },
+    "p2p": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta p2p"
+    },
+    "performance": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta performance"
+    },
+    "privacy": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta privacy"
+    },
+    "processing": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta processing"
+    },
+    "queue": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta queue"
+    },
+    "rabbitmq": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta rabbitmq"
+    },
+    "realtime": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta realtime"
+    },
+    "resumable": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta resumable"
+    },
+    "rust": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta rust"
+    },
+    "s3": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta s3"
+    },
+    "saas": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta saas"
+    },
+    "search": {
+      "count": 5,
+      "color": "#2563eb",
+      "description": "Etiqueta search"
+    },
+    "secure": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta secure"
+    },
+    "self-hosted": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta self-hosted"
+    },
+    "sharing": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta sharing"
+    },
+    "storage": {
+      "count": 8,
+      "color": "#65a30d",
+      "description": "Etiqueta storage"
+    },
+    "streaming": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta streaming"
+    },
+    "temporary": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta temporary"
+    },
+    "terminal": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta terminal"
+    },
+    "transfer": {
+      "count": 3,
+      "color": "#ea580c",
+      "description": "Etiqueta transfer"
+    },
+    "transformation": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta transformation"
+    },
+    "ui": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta ui"
+    },
+    "upload": {
+      "count": 3,
+      "color": "#0891b2",
+      "description": "Etiqueta upload"
+    },
+    "video": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta video"
+    },
+    "video-hosting": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta video-hosting"
+    },
+    "websockets": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta websockets"
+    }
+  },
+  "searchIndex": {
+    "fields": [
+      {
+        "name": "name",
+        "weight": 3,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "description",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "tags",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "category",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "subcategory",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      }
+    ],
+    "entries": [
+      {
+        "id": "algolia",
+        "slug": "algolia",
+        "terms": [
+          "Algolia",
+          "algolia",
+          "Búsqueda instantánea 10k docs/mes gratis",
+          "search",
+          "engines",
+          "instant",
+          "saas",
+          "freemium"
+        ]
+      },
+      {
+        "id": "backblaze-b2",
+        "slug": "backblaze-b2",
+        "terms": [
+          "Backblaze B2",
+          "backblaze-b2",
+          "Storage S3-compatible 10GB gratis",
+          "file-storage",
+          "cloud-storage",
+          "storage",
+          "s3",
+          "compatible",
+          "backup"
+        ]
+      },
+      {
+        "id": "centrifugo",
+        "slug": "centrifugo",
+        "terms": [
+          "Centrifugo",
+          "centrifugo",
+          "Server WebSocket open source",
+          "messaging",
+          "realtime",
+          "websockets",
+          "open-source"
+        ]
+      },
+      {
+        "id": "cloudamqp",
+        "slug": "cloudamqp",
+        "terms": [
+          "CloudAMQP",
+          "cloudamqp",
+          "RabbitMQ como servicio 1M msgs/mes",
+          "messaging",
+          "services",
+          "rabbitmq",
+          "queue"
+        ]
+      },
+      {
+        "id": "cloudimage",
+        "slug": "cloudimage",
+        "terms": [
+          "Cloudimage",
+          "cloudimage",
+          "Optimización y CDN de imágenes",
+          "image-video",
+          "cdn",
+          "image",
+          "optimization"
+        ]
+      },
+      {
+        "id": "cloudinary",
+        "slug": "cloudinary",
+        "terms": [
+          "Cloudinary",
+          "cloudinary",
+          "CDN y optimización de imágenes",
+          "image-video",
+          "cdn",
+          "image",
+          "optimization",
+          "media"
+        ]
+      },
+      {
+        "id": "elastic-cloud",
+        "slug": "elastic-cloud",
+        "terms": [
+          "Elastic Cloud",
+          "elastic-cloud",
+          "Elasticsearch gestionado 1GB gratis",
+          "search",
+          "engines",
+          "elasticsearch",
+          "managed",
+          "elastic"
+        ]
+      },
+      {
+        "id": "file-io",
+        "slug": "file-io",
+        "terms": [
+          "File.io",
+          "file-io",
+          "Comparte archivos auto-destruibles",
+          "file-storage",
+          "file-transfer",
+          "file",
+          "transfer",
+          "temporary",
+          "sharing"
+        ]
+      },
+      {
+        "id": "filestack",
+        "slug": "filestack",
+        "terms": [
+          "Filestack",
+          "filestack",
+          "Subida y transformación de archivos",
+          "image-video",
+          "cdn",
+          "file",
+          "upload",
+          "transformation"
+        ]
+      },
+      {
+        "id": "icedrive",
+        "slug": "icedrive",
+        "terms": [
+          "Icedrive",
+          "icedrive",
+          "Cloud storage con encriptación",
+          "file-storage",
+          "cloud-storage",
+          "storage",
+          "cloud",
+          "encrypted"
+        ]
+      },
+      {
+        "id": "imageengine",
+        "slug": "imageengine",
+        "terms": [
+          "ImageEngine",
+          "imageengine",
+          "CDN de imágenes con optimización",
+          "image-video",
+          "cdn",
+          "image",
+          "optimization",
+          "performance"
+        ]
+      },
+      {
+        "id": "imagekit",
+        "slug": "imagekit",
+        "terms": [
+          "ImageKit",
+          "imagekit",
+          "Optimización y CDN de imágenes",
+          "image-video",
+          "cdn",
+          "image",
+          "optimization",
+          "transformation"
+        ]
+      },
+      {
+        "id": "imgix",
+        "slug": "imgix",
+        "terms": [
+          "Imgix",
+          "imgix",
+          "Transformación de imágenes CDN",
+          "image-video",
+          "cdn",
+          "image",
+          "transformation",
+          "optimization"
+        ]
+      },
+      {
+        "id": "mega",
+        "slug": "mega",
+        "terms": [
+          "MEGA",
+          "mega",
+          "Almacenamiento cloud 20GB gratis",
+          "file-storage",
+          "cloud-storage",
+          "storage",
+          "cloud",
+          "encrypted"
+        ]
+      },
+      {
+        "id": "meilisearch",
+        "slug": "meilisearch",
+        "terms": [
+          "Meilisearch",
+          "meilisearch",
+          "Búsqueda instantánea open source",
+          "search",
+          "engines",
+          "open-source",
+          "instant",
+          "rust"
+        ]
+      },
+      {
+        "id": "pcloud",
+        "slug": "pcloud",
+        "terms": [
+          "pCloud",
+          "pcloud",
+          "Almacenamiento cloud seguro",
+          "file-storage",
+          "cloud-storage",
+          "storage",
+          "cloud",
+          "secure"
+        ]
+      },
+      {
+        "id": "pinata-ipfs",
+        "slug": "pinata-ipfs",
+        "terms": [
+          "Pinata IPFS",
+          "pinata-ipfs",
+          "Almacenamiento IPFS 1GB gratis",
+          "image-video",
+          "video-hosting",
+          "ipfs",
+          "storage",
+          "decentralized"
+        ]
+      },
+      {
+        "id": "proton-drive",
+        "slug": "proton-drive",
+        "terms": [
+          "Proton Drive",
+          "proton-drive",
+          "Almacenamiento encriptado 5GB gratis",
+          "file-storage",
+          "cloud-storage",
+          "storage",
+          "cloud",
+          "encrypted",
+          "privacy"
+        ]
+      },
+      {
+        "id": "searchly",
+        "slug": "searchly",
+        "terms": [
+          "Searchly",
+          "searchly",
+          "Elasticsearch como servicio",
+          "search",
+          "engines",
+          "elasticsearch",
+          "saas",
+          "hosted"
+        ]
+      },
+      {
+        "id": "sirv",
+        "slug": "sirv",
+        "terms": [
+          "Sirv",
+          "sirv",
+          "CDN multimedia con IA",
+          "image-video",
+          "cdn",
+          "image",
+          "ai",
+          "optimization"
+        ]
+      },
+      {
+        "id": "storj",
+        "slug": "storj",
+        "terms": [
+          "Storj",
+          "storj",
+          "Storage descentralizado 25GB gratis",
+          "file-storage",
+          "cloud-storage",
+          "storage",
+          "decentralized",
+          "encrypted",
+          "blockchain"
+        ]
+      },
+      {
+        "id": "transfer-sh",
+        "slug": "transfer-sh",
+        "terms": [
+          "Transfer.sh",
+          "transfer-sh",
+          "Comparte archivos desde terminal",
+          "file-storage",
+          "file-transfer",
+          "file",
+          "transfer",
+          "terminal",
+          "cli"
+        ]
+      },
+      {
+        "id": "typesense",
+        "slug": "typesense",
+        "terms": [
+          "Typesense",
+          "typesense",
+          "Motor búsqueda open source rápido",
+          "search",
+          "engines",
+          "open-source",
+          "fast",
+          "self-hosted"
+        ]
+      },
+      {
+        "id": "uploadcare",
+        "slug": "uploadcare",
+        "terms": [
+          "Uploadcare",
+          "uploadcare",
+          "Subida y procesamiento de archivos",
+          "image-video",
+          "cdn",
+          "image",
+          "upload",
+          "processing"
+        ]
+      },
+      {
+        "id": "uppy",
+        "slug": "uppy",
+        "terms": [
+          "Uppy",
+          "uppy",
+          "Carga con reanudación y UI completa",
+          "file-storage",
+          "file-transfer",
+          "file",
+          "upload",
+          "resumable",
+          "ui"
+        ]
+      },
+      {
+        "id": "vimeo",
+        "slug": "vimeo",
+        "terms": [
+          "Vimeo",
+          "vimeo",
+          "Hosting video 500MB/semana gratis",
+          "image-video",
+          "video-hosting",
+          "video",
+          "hosting",
+          "streaming"
+        ]
+      },
+      {
+        "id": "wasabi",
+        "slug": "wasabi",
+        "terms": [
+          "Wasabi",
+          "wasabi",
+          "Hot cloud storage sin egress fees",
+          "file-storage",
+          "cloud-storage",
+          "storage",
+          "s3",
+          "compatible",
+          "no-egress"
+        ]
+      },
+      {
+        "id": "wormhole",
+        "slug": "wormhole",
+        "terms": [
+          "Wormhole",
+          "wormhole",
+          "Transferencia archivos encriptada",
+          "file-storage",
+          "file-transfer",
+          "file",
+          "transfer",
+          "encrypted",
+          "p2p"
+        ]
+      }
+    ]
+  },
+  "filters": {
+    "categories": [
+      "file-storage",
+      "image-video",
+      "messaging",
+      "search"
+    ],
+    "subcategories": [
+      "cdn",
+      "cloud-storage",
+      "engines",
+      "file-transfer",
+      "realtime",
+      "services",
+      "video-hosting"
+    ],
+    "pricing": [
+      "free",
+      "freemium"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "status": [
+      "active"
+    ],
+    "verified": [
+      true
+    ],
+    "noCreditCard": [
+      false,
+      true
+    ]
+  },
+  "ui": {
+    "dataset": "search_messaging_image_storage",
+    "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
+    "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
+    "resourceCount": 28
+  }
 }

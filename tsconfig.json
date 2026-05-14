@@ -4,6 +4,7 @@
   "exclude": ["dist"],
   "compilerOptions": {
     "ignoreDeprecations": "6.0",
+    "skipLibCheck": true,
     "jsx": "react-jsx",
     "jsxImportSource": "react",
     "baseUrl": ".",

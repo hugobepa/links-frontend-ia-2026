@@ -1,2314 +1,490 @@
 [
-    {
-        "dataset":  "apis-data_databases",
-        "category":  "hosting",
-        "subcategory":  "deploy",
-        "name":  "Portless",
-        "url":  "https://github.com/vercel-labs/portless",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "apis-data_databases",
-        "category":  "version-control",
-        "subcategory":  "resources",
-        "name":  "Vercel Labs Skills",
-        "url":  "https://github.com/vercel-labs/skills",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "apis-data_databases",
-        "category":  "version-control",
-        "subcategory":  "resources",
-        "name":  "Lazygit",
-        "url":  "https://github.com/jesseduffield/lazygit",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "apis-data_databases",
-        "category":  "version-control",
-        "subcategory":  "resources",
-        "name":  "Ground Station",
-        "url":  "https://github.com/sgoudelis/ground-station",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "apis-data_databases",
-        "category":  "version-control",
-        "subcategory":  "resources",
-        "name":  "Awesome Open Source AI",
-        "url":  "https://github.com/alvinreal/awesome-opensource-ai",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "apis-data_databases",
-        "category":  "version-control",
-        "subcategory":  "resources",
-        "name":  "GIMP MCP",
-        "url":  "https://github.com/maorcc/gimp-mcp",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "apis-data_databases_managed-db-tools-datasets",
-        "category":  "apis",
-        "subcategory":  "tools",
-        "name":  "API Mega List",
-        "url":  "https://github.com/cporter202/API-mega-list",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "apis-data_databases_managed-db-tools-datasets",
-        "category":  "apis",
-        "subcategory":  "tools",
-        "name":  "Accessibility Design System",
-        "url":  "https://chromewebstore.google.com/detail/accessibility-design-syst/cbbhkfihenpflcgddoimabahmpafehjd",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "apis-data_databases_managed-db-tools-datasets",
-        "category":  "apis",
-        "subcategory":  "tools",
-        "name":  "PGRX",
-        "url":  "https://github.com/pgcentralfoundation/pgrx",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "apis-data_databases_managed-db-tools-datasets",
-        "category":  "apis",
-        "subcategory":  "tools",
-        "name":  "EnterpriseDB",
-        "url":  "https://www.enterprisedb.com/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "components",
-        "name":  "TweakCN",
-        "url":  "https://tweakcn.com/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "components",
-        "name":  "GlitchCN UI",
-        "url":  "https://glitchcn-ui.vercel.app",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "components",
-        "name":  "GlitchCN UI Repo",
-        "url":  "https://github.com/woustachemax/glitchcn-ui",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "components",
-        "name":  "GridCN",
-        "url":  "https://thegridcn.com/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "components",
-        "name":  "Tripled UI",
-        "url":  "https://ui.tripled.work/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "components",
-        "name":  "Formisch",
-        "url":  "https://github.com/open-circle/formisch",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "components",
-        "name":  "Shadcn Design",
-        "url":  "https://www.shadcndesign.com/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "CSS-Tricks",
-        "url":  "https://css-tricks.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "View Transitions Toolkit",
-        "url":  "https://bram.us/2026/04/02/view-transitions-toolkit",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Name-Only Containers",
-        "url":  "https://frontendmasters.com/blog/name-only-containers-the-scoping-we-needed",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "HTML in Canvas",
-        "url":  "https://github.com/WICG/html-in-canvas",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Fancy Frame Generator",
-        "url":  "https://css-generators.com/fancy-frame/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "CSS N-of Selectors",
-        "url":  "https://frontendmasters.com/blog/css-n-of-selectors-for-conditional-validation/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Range Syntax CSS",
-        "url":  "https://ishadeed.com/article/range-syntax/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "CSS Safe Area Inset",
-        "url":  "https://polypane.app/blog/using-safe-area-inset-to-build-mobile-safe-layouts/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Fun with Clip Path",
-        "url":  "https://github.com/Momciloo/fun-with-clip-path",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Building UI Without Breakpoints",
-        "url":  "https://frontendmasters.com/blog/building-a-ui-without-breakpoints",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Scroll-Driven Animations",
-        "url":  "https://www.joshwcomeau.com/animation/scroll-driven-animations/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Compositing \u0026 Blending",
-        "url":  "https://nik.digital/posts/compositing-blending",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Web is Fun Again",
-        "url":  "https://frontendmasters.com/blog/the-web-is-fun-again-first-experiments-with-html-in-canvas/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "MuCSS",
-        "url":  "https://mucss.org",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Layout Maestro",
-        "url":  "https://thelayoutmaestro.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Animata",
-        "url":  "https://animata.design/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "ShaderPad",
-        "url":  "https://misery.co/shaderpad/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Shaders",
-        "url":  "https://shaders.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Liquid Glass",
-        "url":  "https://liquid-glass.ybouane.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "ui-libraries",
-        "name":  "Ssgoi",
-        "url":  "https://github.com/meursyphus/ssgoi",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "inspiration",
-        "name":  "Refero-styles-ref",
-        "url":  "https://styles.refero.design",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "inspiration",
-        "name":  "Building Hex Map",
-        "url":  "https://calibreapp.com/blog/building-our-beloved-hex-map",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "inspiration",
-        "name":  "Charcuterie",
-        "url":  "https://charcuterie.elastiq.ch",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "inspiration",
-        "name":  "Holographic UI",
-        "url":  "https://holographic-ui.com/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "inspiration",
-        "name":  "Design MD",
-        "url":  "https://github.com/google-labs-code/design.md",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "inspiration",
-        "name":  "Addfox Dev",
-        "url":  "https://addfox.dev/es/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "color",
-        "name":  "Canva",
-        "url":  "https://canva.com",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "color",
-        "name":  "Heerich",
-        "url":  "https://meodai.github.io/heerich/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "templates",
-        "name":  "DesignMD Library",
-        "url":  "https://designmd.app/en/library",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "design",
-        "subcategory":  "templates",
-        "name":  "Wiretext",
-        "url":  "https://wiretext.app/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Zed",
-        "url":  "https://zed.dev",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "OpenCode Studio",
-        "url":  "https://github.com/Microck/opencode-studio",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "extensions",
-        "name":  "VS Code Copilot Docs",
-        "url":  "https://code.visualstudio.com/docs/copilot/overview",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "extensions",
-        "name":  "Dark Islands Theme",
-        "url":  "https://github.com/bwya77/vscode-dark-islands",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "extensions",
-        "name":  "Learn VS Code",
-        "url":  "https://lazarpress.gumroad.com/l/learnvscode",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "extensions",
-        "name":  "Clerk CLI",
-        "url":  "https://clerk.com/changelog/2026-04-22-clerk-cli",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "TradingView Charts",
-        "url":  "https://www.tradingview.com/lightweight-charts/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "MapCN Web",
-        "url":  "https://www.mapcn.dev/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "TypeGPU",
-        "url":  "https://docs.swmansion.com/TypeGPU/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Responsively App",
-        "url":  "https://responsively.app/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Debugging WASM",
-        "url":  "https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Web Features Explorer",
-        "url":  "https://web-platform-dx.github.io/web-features-explorer/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Preloading Images",
-        "url":  "https://macarthur.me/posts/preloading-images/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Cookie Consent 2026",
-        "url":  "https://cloudfour.com/thinks/cookie-consent-management-in-2026-part-1-overview/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Dark Mode \u0026 BFCache",
-        "url":  "https://guilhermesimoes.github.io/blog/making-dark-mode-work-with-bfcache",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Container Timing API",
-        "url":  "https://developer.chrome.com/blog/container-timing-origin-trial?hl=es-419",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "View Transitions Mock",
-        "url":  "https://github.com/GoogleChromeLabs/view-transitions-mock",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "HTML Video Lazy Loading",
-        "url":  "https://engineering.squarespace.com/blog/2026/how-to-use-standard-html-video-and-audio-lazy-loading-on-the-web-today",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Virtual Scrolling",
-        "url":  "https://www.nicbarker.com/virtual-scrolling",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "OreateAI",
-        "url":  "https://www.oreateai.com/home/index/es",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Perplexity",
-        "url":  "https://perplexity.ai",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Chat.com",
-        "url":  "https://chat.com",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Chrome Prompt API",
-        "url":  "https://developer.chrome.com/docs/ai/prompt-api?hl=es-419",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "WebML Prompt API",
-        "url":  "https://github.com/webmachinelearning/prompt-api",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "coderabbit",
-        "url":  "https://www.coderabbit.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Qwen Code",
-        "url":  "https://github.com/QwenLM/qwen-code",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Vox CPM",
-        "url":  "https://github.com/OpenBMB/VoxCPM",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Caveman",
-        "url":  "https://github.com/JuliusBrussee/caveman",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Infinite Monitor",
-        "url":  "https://infinitemonitor.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Educaxd",
-        "url":  "https://educaxd.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Merleau",
-        "url":  "https://merleau.cc/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Notion",
-        "url":  "https://www.notion.so/es-es",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Typeless",
-        "url":  "https://www.typeless.com/?via=javi-nigu",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Delphi",
-        "url":  "https://delphi.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Core AI",
-        "url":  "https://core.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Rely.app",
-        "url":  "https://rely.app/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Nano Banana",
-        "url":  "https://nanobanana.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "BugBunny AI",
-        "url":  "https://bugbunny.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "LogoCreator",
-        "url":  "https://github.com/Nutlope/logocreator",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "NVIDIA Build Models",
-        "url":  "https://build.nvidia.com/models",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "AI Knowledge Graph",
-        "url":  "https://github.com/robert-mcdermott/ai-knowledge-graph",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "picoclaw",
-        "url":  "https://github.com/sipeed/picoclaw",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Astra AI",
-        "url":  "https://astra-ai.es/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "DeepSeek TUI",
-        "url":  "https://github.com/Hmbown/DeepSeek-TUI",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Deep Eye",
-        "url":  "https://github.com/zakirkun/deep-eye",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Transformers.js v4",
-        "url":  "https://github.com/huggingface/transformers.js/releases/tag/4.0.0",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Freepik Pikaso",
-        "url":  "https://www.freepik.com/pikaso/ai-image-generator",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "ElevenLabs",
-        "url":  "https://elevenlabs.io",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Suno",
-        "url":  "https://suno.com",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Murph",
-        "url":  "https://murf.ai",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Descript",
-        "url":  "https://descript.com",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "HeyGen",
-        "url":  "https://heygen.com",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Synthesia",
-        "url":  "https://synthesia.io",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "VidStudio",
-        "url":  "https://vidstudio.app/video-editor",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Pollo AI",
-        "url":  "https://pollo.ai/es/mimic-motion",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Easemate",
-        "url":  "https://www.easemate.ai/es/ai-image-animator",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Vidu",
-        "url":  "https://www.vidu.com/es",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Firefly",
-        "url":  "https://www.adobe.com/products/firefly/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Remove.bg",
-        "url":  "https://www.remove.bg/es",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Voicebox",
-        "url":  "https://github.com/jamiepine/voicebox",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Veo",
-        "url":  "https://deepmind.google/technologies/veo",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Higgsfield",
-        "url":  "https://higgsfield.ai/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "HeyGen Hyperframes",
-        "url":  "https://github.com/heygen-com/hyperframes",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Hyperframes Docs",
-        "url":  "https://hyperframes.mintlify.app/guides/hyperframes-vs-remotion",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "ElevenLabs UI Docs",
-        "url":  "https://ui.elevenlabs.io/docs/components",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "ElevenLabs UI Repo",
-        "url":  "https://github.com/elevenlabs/ui",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "TTS-Audio-Suite",
-        "url":  "https://github.com/diodiogod/TTS-Audio-Suite",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "Syllaby",
-        "url":  "https://syllaby.io",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "ide",
-        "name":  "ViMax",
-        "url":  "https://github.com/HKUDS/ViMax",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "LangChain",
-        "url":  "https://langchain.com",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Make",
-        "url":  "https://make.com",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Zapier",
-        "url":  "https://zapier.com",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "n8n",
-        "url":  "https://n8n.io",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Bardeen",
-        "url":  "https://bardeen.ai",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Levity",
-        "url":  "https://levity.ai",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Chatsimple",
-        "url":  "https://chatsimple.ai",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Composio",
-        "url":  "https://composio.dev",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Superpowers",
-        "url":  "https://github.com/obra/superpowers",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Stagehand",
-        "url":  "https://github.com/browserbase/stagehand",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "AnyCrawl",
-        "url":  "https://anycrawl.dev/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "DocExt",
-        "url":  "https://github.com/NanoNets/docext",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Open WebUI",
-        "url":  "https://github.com/open-webui/open-webui",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Prometheus EuniAI",
-        "url":  "https://github.com/EuniAI/Prometheus",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Mammouth AI",
-        "url":  "https://mammouth.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Lessie AI",
-        "url":  "https://lessie.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "MemPalace",
-        "url":  "https://github.com/MemPalace/mempalace",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "AgentMemory",
-        "url":  "https://github.com/rohitg00/agentmemory",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Namiru AI",
-        "url":  "https://namiru.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Okara AI",
-        "url":  "https://okara.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Emergent Wingman",
-        "url":  "https://app.emergent.sh",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Flowith",
-        "url":  "https://flowith.io/flowithos/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Skywork",
-        "url":  "https://skywork.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Creao",
-        "url":  "https://creao.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Blink.new",
-        "url":  "https://blink.new/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Rocket",
-        "url":  "https://www.rocket.new/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Jelou AI",
-        "url":  "https://jelou.ai",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Jelou Brain Studio",
-        "url":  "https://jelou.ai/es/brain-studio",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Jelou Docs",
-        "url":  "https://docs.jelou.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Hermes Agent",
-        "url":  "https://hermes-agent.nousresearch.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "agency-agents",
-        "url":  "https://github.com/msitarzewski/agency-agents",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "UI-TARS Desktop",
-        "url":  "https://github.com/bytedance/UI-TARS-desktop",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "v0 by Vercel",
-        "url":  "https://v0.dev/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Lovable",
-        "url":  "https://lovable.dev/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Bolt.new",
-        "url":  "https://bolt.new/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Stitch (Google)",
-        "url":  "https://stitch.withgoogle.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Google Stitch DESIGN.md",
-        "url":  "https://stitch.withgoogle.com/docs/design-md/overview",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Readdy",
-        "url":  "https://readdy.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Zoer",
-        "url":  "https://zoer.ai",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Hercules",
-        "url":  "https://hercules.app",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Emergent",
-        "url":  "https://app.emergent.sh/landing/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Omma",
-        "url":  "https://omma.build/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "MagicLoops",
-        "url":  "https://magicloops.dev/es",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "CodeDesign AI",
-        "url":  "https://codedesign.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Open Codesign",
-        "url":  "https://opencoworkai.github.io/open-codesign/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Open Codesign Repo",
-        "url":  "https://github.com/OpenCoworkAI/open-codesign",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Pencil",
-        "url":  "https://www.pencil.dev/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "codeflying",
-        "url":  "https://www.codeflying.app/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "PromptDen",
-        "url":  "https://promptden.com",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Snack Prompt",
-        "url":  "https://snackprompt.com",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "ImagineBuddy",
-        "url":  "https://imaginebuddy.com",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "PromptHero",
-        "url":  "https://prompthero.com",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "AwesomeGPTPrompts",
-        "url":  "https://www.awesomegptprompts.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Prompts Chat",
-        "url":  "https://prompts.chat/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "PromptCowboys",
-        "url":  "https://www.promptcowboys.com/es",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Prompt Packs",
-        "url":  "https://academy.openai.com/public/clubs/work-users-ynjqu/tags/prompt-packs-6849a0f98c613939acef841c",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "PromptsY",
-        "url":  "https://promptsy.dev/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "10K Chatbot Prompts",
-        "url":  "https://github.com/echohive42/10-000-chatbot-prompts",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "NotebookLM Prompts",
-        "url":  "https://notebooklm-prompts.manus.space/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Hugging Face LLM Course",
-        "url":  "https://huggingface.co/learn/llm-course/es/chapter1/1",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Hugging Face Agents Course",
-        "url":  "https://huggingface.co/learn/agents-course/es/unit0/introduction",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Anthropic Academy",
-        "url":  "https://anthropic.skilljar.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Claude Code in Action",
-        "url":  "https://anthropic.skilljar.com/claude-code-in-action",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "AI Agents for Beginners",
-        "url":  "https://github.com/microsoft/ai-agents-for-beginners",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Generative AI for Beginners",
-        "url":  "https://github.com/microsoft/generative-ai-for-beginners",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "DeepLearning.AI Build with Andrew",
-        "url":  "https://learn.deeplearning.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Agent Skills Anthropic",
-        "url":  "https://www.deeplearning.ai/courses/agent-skills-with-anthropic/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Google Grow",
-        "url":  "https://grow.google/intl/es/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Google AutoMa",
-        "url":  "https://workspace.google.com/intl/es/studio/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Google NotebookLM",
-        "url":  "https://notebooklm.google.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Google AI Studio",
-        "url":  "https://aistudio.google.com/welcome",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Google Opal",
-        "url":  "https://opal.google/landing/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Google Pomelli",
-        "url":  "https://labs.google.com/pomelli/about/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Google Gemini Canvas",
-        "url":  "https://gemini.google.com/overview/canvas/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Google IO 2026",
-        "url":  "https://io.google/2026",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Google Labs",
-        "url":  "https://labs.google",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Microsoft Build",
-        "url":  "https://build.microsoft.com/en-US/home",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Microsoft MCP",
-        "url":  "https://github.com/microsoft/mcp-for-beginners",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "GitHub MCP",
-        "url":  "https://github.com/mcp",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "OpenRouter Rankings",
-        "url":  "https://openrouter.ai/rankings",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "WhatCanIRun",
-        "url":  "https://github.com/fiveoutofnine/whatcanirun",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "CanIRun",
-        "url":  "https://www.canirun.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "LLMFit",
-        "url":  "https://github.com/AlexsJones/llmfit",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Free LLM API Resources",
-        "url":  "https://github.com/cheahjs/free-llm-api-resources",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "AI Resources \u0026 Tools",
-        "url":  "https://github.com/zazk/AI-Resources-and-Tools",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Ecosistema IA",
-        "url":  "https://github.com/Gentleman-Programming/gentle-ai",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Book Building Agents",
-        "url":  "https://mastra.ai/books/principles-of-building-ai-agents",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "SurfSense",
-        "url":  "https://www.surfsense.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Claude Agents",
-        "url":  "https://www.claudecodeagents.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Claude Code Game Studios",
-        "url":  "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "AI TMPL",
-        "url":  "https://www.aitmpl.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Verdant AI",
-        "url":  "https://www.verdant.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Flova AI",
-        "url":  "https://www.flova.ai/es-419/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "SkillsMP",
-        "url":  "https://skillsmp.com/es/search",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "GenAllAI",
-        "url":  "https://genallai.gumroad.com/l/AI",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Google Gemini Cookbook",
-        "url":  "https://github.com/google-gemini/cookbook",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Gemini API Prompts",
-        "url":  "https://ai.google.dev/gemini-api/prompts?hl=es-419",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Gemini Students",
-        "url":  "https://gemini.google/es/students/?hl=es",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Google Stitch MCP",
-        "url":  "https://stitch.withgoogle.com/docs/mcp/setup",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Genspark",
-        "url":  "https://www.genspark.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Abacus",
-        "url":  "https://chatllm.abacus.ai/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "AppyPie",
-        "url":  "https://www.appypie.com/es/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Apidog",
-        "url":  "https://apidog.com/es/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "GoodBarber",
-        "url":  "https://www.goodbarber.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Skysnail",
-        "url":  "https://skysnail.io/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "PDFElement",
-        "url":  "https://pdf.wondershare.net/es/ad/pdfelement-v90-pro.html",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Luma Labs",
-        "url":  "https://lumalabs.ai/app",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "MiroFish",
-        "url":  "https://mirofish.us/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Claurst",
-        "url":  "https://github.com/Kuberwastaken/claurst.git",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "AutoSkills",
-        "url":  "https://www.autoskills.sh/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Gemma-4",
-        "url":  "https://huggingface.co/collections/mlx-community/gemma-4",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "analytics-monitoring_email-comunicacion",
-        "category":  "email",
-        "subcategory":  "notifications-messaging",
-        "name":  "MJML",
-        "url":  "https://mjml.io",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "analytics-monitoring_email-comunicacion",
-        "category":  "email",
-        "subcategory":  "notifications-messaging",
-        "name":  "Email Obfuscation",
-        "url":  "https://spencermortensen.com/articles/email-obfuscation/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "dns-domain",
-        "subcategory":  "dns-services",
-        "name":  "Domains Dataset",
-        "url":  "https://github.com/tb0hdan/domains",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "security-vpn",
-        "subcategory":  "security-auth",
-        "name":  "Hetty",
-        "url":  "https://github.com/dstotijn/hetty",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "security-vpn",
-        "subcategory":  "security-auth",
-        "name":  "hexstrike-web",
-        "url":  "https://www.hexstrike.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "security-vpn",
-        "subcategory":  "security-auth",
-        "name":  "hexstrike-gh",
-        "url":  "https://github.com/0x4m4/hexstrike-ai",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "security-vpn",
-        "subcategory":  "security-auth",
-        "name":  "GhostScan",
-        "url":  "https://github.com/scf13/ghostscan",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "security-vpn",
-        "subcategory":  "security-auth",
-        "name":  "Magic Link Pitfalls",
-        "url":  "https://etodd.io/2026/03/22/magic-link-pitfalls/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Accessible Browser Ext",
-        "url":  "https://www.freecodecamp.org/news/how-to-design-accessible-browser-extensions/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Scrimba",
-        "url":  "https://scrimba.com",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Google AI Learning",
-        "url":  "https://grow.google/ai",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Meta AI Resources",
-        "url":  "https://ai.meta.com/resources",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "NVIDIA AI Training",
-        "url":  "https://developer.nvidia.com/training",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Microsoft AI Training",
-        "url":  "https://learn.microsoft.com/training",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "IBM SkillsBuild",
-        "url":  "https://skillsbuild.org",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "AWS AI Training",
-        "url":  "https://skillbuilder.aws",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Clone Wars",
-        "url":  "https://gourav.io/clone-wars",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Refonte Learning",
-        "url":  "https://www.refontelearning.com/study-and-internship/frontend-development",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Constructable Stylesheets",
-        "url":  "https://frontendmasters.com/blog/constructable-stylesheets-and-adoptedstylesheets-one-parse-every-shadow-root/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "CSS Recently in All Browsers",
-        "url":  "https://nerdy.dev/CSS-recently-in-all-browsers",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "nth-letter Selector",
-        "url":  "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "CSS !important Alternatives",
-        "url":  "https://css-tricks.com/alternatives-to-the-important-keyword/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "CSS Subgrid",
-        "url":  "https://dbushell.com/2026/04/02/css-subgrid-is-super-good/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Box Shadow vs Outline",
-        "url":  "https://www.matuzo.at/blog/2026/box-shadow-no-alternative-to-outline",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "CSS Containment",
-        "url":  "https://csswizardry.com/2026/04/what-is-css-containment-and-how-can-i-use-it/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Web Platform \u0026 Libraries",
-        "url":  "https://jadjoubran.io/blog/web-platform-influenced-by-libraries",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "ARIA Roles Explained",
-        "url":  "https://www.levelaccess.com/blog/aria-roles-explained-a-practical-guide-for-web-developers/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Accessibility Fixes",
-        "url":  "https://piccalil.li/blog/applying-accessibility-fixes-with-stealth-for-the-greater-good/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Interface Details",
-        "url":  "https://jakub.kr/writing/details-that-make-interfaces-feel-better",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Visible to LLMs",
-        "url":  "https://evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Mathematics for ML",
-        "url":  "https://mml-book.github.io/book/mml-book.pdf",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Matt Pocock Skills",
-        "url":  "https://github.com/mattpocock/skills",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Arquitectura Frontend 2026",
-        "url":  "https://dev.to/sizan_mahmud0_e7c3fd0cb68/the-complete-guide-to-frontend-architecture-patterns-in-2026-3ioo",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Algorithms-Illinois",
-        "url":  "https://jeffe.cs.illinois.edu/teaching/algorithms/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "MIT 6.042 Math CS",
-        "url":  "https://courses.csail.mit.edu/6.042/spring18/mcs.html",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "NYU ML Foundation",
-        "url":  "https://cs.nyu.edu/~mohri/mlbook/",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "CMU Reinforcement Learning",
-        "url":  "https://andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Neon Database",
-        "url":  "https://www.neondatabase.com",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "SQL University",
-        "url":  "https://www.SQLUniversity.com",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Sql Is Easy",
-        "url":  "https://www.sqliseasy.com",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dns_seguridad_educacion",
-        "category":  "education-learning",
-        "subcategory":  "programming-courses",
-        "name":  "Jelou AI",
-        "url":  "https://www.youtube.com/@jelouai",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "utilidades_1",
-        "category":  "utilities",
-        "subcategory":  "productivity",
-        "name":  "AtlasOS",
-        "url":  "https://atlasos.dev",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades_1",
-        "category":  "utilities",
-        "subcategory":  "productivity",
-        "name":  "Spoki",
-        "url":  "https://spoki.com/en",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades_1",
-        "category":  "utilities",
-        "subcategory":  "productivity",
-        "name":  "RecCloud",
-        "url":  "https://reccloud.com",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades_1",
-        "category":  "utilities",
-        "subcategory":  "productivity",
-        "name":  "Grounded",
-        "url":  "https://github.com/grounded-data/grounded",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades-2_cms",
-        "category":  "utilities",
-        "subcategory":  "dev-tools",
-        "name":  "Tiks",
-        "url":  "https://rexa-developer.github.io/tiks/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades-2_cms",
-        "category":  "utilities",
-        "subcategory":  "dev-tools",
-        "name":  "Bsky Comments",
-        "url":  "https://github.com/florianschepp/bsky-comments",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades-2_cms",
-        "category":  "utilities",
-        "subcategory":  "dev-tools",
-        "name":  "DataType",
-        "url":  "https://franktisellano.github.io/datatype/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades-2_cms",
-        "category":  "utilities",
-        "subcategory":  "dev-tools",
-        "name":  "MonoSketch",
-        "url":  "https://monosketch.io",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades-2_cms",
-        "category":  "utilities",
-        "subcategory":  "dev-tools",
-        "name":  "Pretext",
-        "url":  "https://github.com/chenglou/pretext",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades-2_cms",
-        "category":  "utilities",
-        "subcategory":  "dev-tools",
-        "name":  "XML Comparator",
-        "url":  "https://www.xmlcomparator.xyz/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades-2_cms",
-        "category":  "utilities",
-        "subcategory":  "dev-tools",
-        "name":  "Testing OpenGraph",
-        "url":  "https://simonhartcher.com/posts/2026-04-15-testing-opengraph-on-localhost-from-the-cli/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades-2_cms",
-        "category":  "utilities",
-        "subcategory":  "dev-tools",
-        "name":  "Bearnie Dev",
-        "url":  "https://bearnie.dev/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades_1",
-        "category":  "utilities",
-        "subcategory":  "productivity",
-        "name":  "Hacker News",
-        "url":  "https://news.ycombinator.com",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades_1",
-        "category":  "utilities",
-        "subcategory":  "productivity",
-        "name":  "bishoy-bishai-blog",
-        "url":  "https://bishoy-bishai.github.io/portfolio/blog/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "utilidades-2_cms",
-        "category":  "cms",
-        "subcategory":  "platforms",
-        "name":  "Emdash",
-        "url":  "https://github.com/emdash-cms/emdash",
-        "confidence":  "high"
-    },
-    {
-        "dataset":  "dev-ops_testing_translation",
-        "category":  "devops",
-        "subcategory":  "ci-cd",
-        "name":  "Kite",
-        "url":  "https://github.com/kite-org/kite",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "dev-ops_testing_translation",
-        "category":  "testing",
-        "subcategory":  "frameworks",
-        "name":  "Screenshot Pipeline QA",
-        "url":  "https://calibreapp.com/blog/screenshot-pipeline-qa-review",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "HeyGen Hyperframes",
-        "url":  "https://hyperframes.heygen.com/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Slit Scanner",
-        "url":  "https://www.slitscanner.app/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "Dither Image",
-        "url":  "https://ditherimage.online/",
-        "confidence":  "medium"
-    },
-    {
-        "dataset":  "diseno-ui-ux_desarrollo_ide",
-        "category":  "development",
-        "subcategory":  "tools",
-        "name":  "HDR Images Marketing",
-        "url":  "https://tn1ck.com/blog/abuse-hdr-images-for-marketing",
-        "confidence":  "medium"
-    }
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "aiengineeringfromscratch",
+    "url": "https://aiengineeringfromscratch.com/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "cerebras-web",
+    "url": "https://cerebras.ai",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "codecademy-ai",
+    "url": "https://www.codecademy.com/catalog/subject/artificial-intelligence",
+    "confidence": "high"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "codewiki-google",
+    "url": "https://codewiki.google",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "cursor-learn",
+    "url": "https://cursor.com/es/learn",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "google-drive-ml-folder",
+    "url": "https://drive.google.com/drive/mobile/folders/12Mvq6kE2HJDwN2CZhEGWizyWt87YunkU",
+    "confidence": "high"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "AI-ML-Roadmap-from-scratch",
+    "url": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "agent-skills-gh",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "claude-ads",
+    "url": "https://github.com/AgriciDaniel/claude-ads",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "utilidades-2_cms",
+    "category": "utilities",
+    "subcategory": "seo-scraping",
+    "name": "Website-downloader",
+    "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+    "confidence": "high"
+  },
+  {
+    "dataset": "apis-data_databases",
+    "category": "version-control",
+    "subcategory": "resources",
+    "name": "ALucek-gh",
+    "url": "https://github.com/ALucek",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "reclip",
+    "url": "https://github.com/averygan/reclip",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "awesome-opencode",
+    "url": "https://github.com/awesome-opencode/awesome-opencode",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "agentic-inbox",
+    "url": "https://github.com/cloudflare/agentic-inbox",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "utilidades-2_cms",
+    "category": "utilities",
+    "subcategory": "seo-scraping",
+    "name": "social-media-scraping-apis",
+    "url": "https://github.com/cporter202/social-media-scraping-apis",
+    "confidence": "high"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "LibreChat",
+    "url": "https://github.com/danny-avila/LibreChat",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "second-brain-ai-assistant-course",
+    "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "DeepSeek-OCR",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "security-vpn",
+    "subcategory": "security-auth",
+    "name": "nomore403",
+    "url": "https://github.com/devploit/nomore403",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "utilidades-2_cms",
+    "category": "utilities",
+    "subcategory": "seo-scraping",
+    "name": "firecrawl-gh",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "confidence": "high"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "OpenSpec",
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "floci",
+    "url": "https://github.com/floci-io/floci",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "spec-kit",
+    "url": "https://github.com/github/spec-kit",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "Hands-On-Large-Language-Models",
+    "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "awesome-claude-code",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "iFixAi",
+    "url": "https://github.com/ifixai-ai/iFixAi",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "confidence": "high"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "ironclaw",
+    "url": "https://github.com/JoasASantos/ironclaw",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "autoresearch",
+    "url": "https://github.com/karpathy/autoresearch",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "utilidades_1",
+    "category": "utilities",
+    "subcategory": "productivity",
+    "name": "linkwarden",
+    "url": "https://github.com/linkwarden/linkwarden",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "graphrag",
+    "url": "https://github.com/microsoft/graphrag",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "nanobot",
+    "url": "https://github.com/monkeys12341/nanobot",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "nanoclaw",
+    "url": "https://github.com/nickpourazima/nanoclaw",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "hermes-agent-gh",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "utilidades-2_cms",
+    "category": "utilities",
+    "subcategory": "seo-scraping",
+    "name": "toprank",
+    "url": "https://github.com/nowork-studio/toprank",
+    "confidence": "high"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "OpenJarvis",
+    "url": "https://github.com/open-jarvis/OpenJarvis",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "ide",
+    "name": "Open-LLM-VTuber",
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+    "confidence": "high"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "security-vpn",
+    "subcategory": "security-auth",
+    "name": "medusa",
+    "url": "https://github.com/Pantheon-Security/medusa",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "LLMs-from-scratch",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "awesome-llb",
+    "url": "https://github.com/Shubhamsaboo/awesome-llb",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "apis-data_databases_managed-db-tools-datasets",
+    "category": "apis",
+    "subcategory": "tools",
+    "name": "tabularis-gh",
+    "url": "https://github.com/TabularisDB/tabularis",
+    "confidence": "high"
+  },
+  {
+    "dataset": "apis-data_databases_managed-db-tools-datasets",
+    "category": "apis",
+    "subcategory": "tools",
+    "name": "tabularis-readme-es",
+    "url": "https://github.com/TabularisDB/tabularis/blob/main/README.es.md",
+    "confidence": "high"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "tinyfish-cookbook",
+    "url": "https://github.com/tinyfish-io/tinyfish-cookbook",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "openclawgotchi",
+    "url": "https://github.com/turmyshevd/openclawgotchi",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "unsloth",
+    "url": "https://github.com/unslothai/unsloth",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "tinyclaw",
+    "url": "https://github.com/warengonzaga/tinyclaw",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "mlcourse-ai",
+    "url": "https://github.com/Yorko/mlcourse.ai",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "zeroclaw",
+    "url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "kaggle-5-day-agents",
+    "url": "https://www.kaggle.com/learn-guide/5-day-agents",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "learning-atheros-ai",
+    "url": "https://learning.atheros.ai/sign-in",
+    "confidence": "high"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "lexis-mcp",
+    "url": "https://www.npmjs.com/package/lexis-mcp",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "react-stack",
+    "name": "react-doctor-ref",
+    "url": "https://www.npmjs.com/package/react-doctor",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dev-ops_testing_translation",
+    "category": "devops",
+    "subcategory": "ci-cd",
+    "name": "releasebot",
+    "url": "https://releasebot.io/",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "sklearn-Pipeline-doc",
+    "url": "https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html",
+    "confidence": "high"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "skills-sh",
+    "url": "https://www.skills.sh/",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "verdent",
+    "url": "https://www.verdent.ai/es",
+    "confidence": "medium"
+  },
+  {
+    "dataset": "diseno-ui-ux_desarrollo_ide",
+    "category": "development",
+    "subcategory": "tools",
+    "name": "zaya1-8b-ref",
+    "url": "https://zyphra.com/post/zaya1-8b",
+    "confidence": "medium"
+  }
 ]

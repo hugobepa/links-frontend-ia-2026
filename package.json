@@ -7,7 +7,9 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "clean:node-modules:gh": "pwsh -NoProfile -ExecutionPolicy Bypass -File ./scripts/clean-node-modules-github-pages.ps1",
+    "clean:node-modules:gh:dry": "pwsh -NoProfile -ExecutionPolicy Bypass -File ./scripts/clean-node-modules-github-pages.ps1 -DryRun"
   },
   "dependencies": {
     "@astrojs/react": "^5.0.4",

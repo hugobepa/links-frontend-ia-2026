@@ -1,1390 +1,1390 @@
 {
-    "categories":  {
-                       "id":  "ai",
-                       "name":  "Ai",
-                       "slug":  "ai",
-                       "resourceCount":  38,
-                       "status":  "active"
-                   },
-    "subcategories":  [
-                          {
-                              "id":  "image-generation",
-                              "name":  "Image Generation",
-                              "slug":  "image-generation",
-                              "category":  "ai",
-                              "resourceCount":  11,
-                              "status":  "active"
-                          },
-                          {
-                              "id":  "china",
-                              "name":  "China",
-                              "slug":  "china",
-                              "category":  "ai",
-                              "resourceCount":  9,
-                              "status":  "active"
-                          },
-                          {
-                              "id":  "development",
-                              "name":  "Development",
-                              "slug":  "development",
-                              "category":  "ai",
-                              "resourceCount":  9,
-                              "status":  "active"
-                          },
-                          {
-                              "id":  "assistants",
-                              "name":  "Assistants",
-                              "slug":  "assistants",
-                              "category":  "ai",
-                              "resourceCount":  9,
-                              "status":  "active"
-                          }
-                      ],
-    "resources":  [
-                      {
-                          "id":  "adobe-firefly",
-                          "name":  "Adobe Firefly",
-                          "slug":  "adobe-firefly",
-                          "description":  "Seguro uso comercial, edición pro",
-                          "url":  "https://firefly.adobe.com",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "image",
-                                       "adobe",
-                                       "commercial",
-                                       "freemium"
-                                   ],
-                          "searchIndex":  [
-                                              "Adobe Firefly",
-                                              "adobe-firefly",
-                                              "Seguro uso comercial, edición pro",
-                                              "ai",
-                                              "image-generation",
-                                              "image",
-                                              "adobe",
-                                              "commercial",
-                                              "freemium"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "image-generation",
-                          "pricing":  "freemium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "ai-face-swap",
-                          "name":  "AIFaceSwap",
-                          "slug":  "aifaceswap",
-                          "description":  "Face Swap IA",
-                          "url":  "https://aifaceswap.io",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "face-swap",
-                                       "image",
-                                       "editing"
-                                   ],
-                          "searchIndex":  [
-                                              "AIFaceSwap",
-                                              "aifaceswap",
-                                              "Face Swap IA",
-                                              "ai",
-                                              "china",
-                                              "face-swap",
-                                              "image",
-                                              "editing"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "china",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "antigravity",
-                          "name":  "Antigravity",
-                          "slug":  "antigravity",
-                          "description":  "Herramienta de desarrollo IA",
-                          "url":  "https://antigravity.ai",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "development",
-                                       "tool"
-                                   ],
-                          "searchIndex":  [
-                                              "Antigravity",
-                                              "antigravity",
-                                              "Herramienta de desarrollo IA",
-                                              "ai",
-                                              "development",
-                                              "tool"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "development",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "apob-ai",
-                          "name":  "Apob AI",
-                          "slug":  "apob-ai",
-                          "description":  "Influencer IA monetizar",
-                          "url":  "https://app.apob.ai",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "influencer",
-                                       "monetization"
-                                   ],
-                          "searchIndex":  [
-                                              "Apob AI",
-                                              "apob-ai",
-                                              "Influencer IA monetizar",
-                                              "ai",
-                                              "china",
-                                              "influencer",
-                                              "monetization"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "china",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "arena-ai",
-                          "name":  "Arena AI",
-                          "slug":  "arena-ai",
-                          "description":  "Comparador modelos IA",
-                          "url":  "https://arena.ai",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "comparison",
-                                       "models",
-                                       "benchmark"
-                                   ],
-                          "searchIndex":  [
-                                              "Arena AI",
-                                              "arena-ai",
-                                              "Comparador modelos IA",
-                                              "ai",
-                                              "china",
-                                              "comparison",
-                                              "models",
-                                              "benchmark"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "china",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "chatgpt",
-                          "name":  "ChatGPT",
-                          "slug":  "chatgpt",
-                          "description":  "Asistente IA general de OpenAI",
-                          "url":  "https://chatgpt.com",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "openai",
-                                       "chatbot",
-                                       "llm",
-                                       "general"
-                                   ],
-                          "searchIndex":  [
-                                              "ChatGPT",
-                                              "chatgpt",
-                                              "Asistente IA general de OpenAI",
-                                              "ai",
-                                              "assistants",
-                                              "openai",
-                                              "chatbot",
-                                              "llm",
-                                              "general"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "assistants",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "claude",
-                          "name":  "Claude",
-                          "slug":  "claude",
-                          "description":  "Asistente conversacional avanzado Anthro",
-                          "url":  "https://claude.ai",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "chatbot",
-                                       "anthropic",
-                                       "llm",
-                                       "conversation",
-                                       "coding"
-                                   ],
-                          "searchIndex":  [
-                                              "Claude",
-                                              "claude",
-                                              "Asistente conversacional avanzado Anthropic",
-                                              "ai",
-                                              "assistants",
-                                              "chatbot",
-                                              "anthropic",
-                                              "llm",
-                                              "conversation",
-                                              "coding"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "assistants",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "copilot",
-                          "name":  "Copilot",
-                          "slug":  "copilot",
-                          "description":  "Asistente de IA de Microsoft integrado",
-                          "url":  "https://copilot.microsoft.com",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "microsoft",
-                                       "assistant",
-                                       "integrated"
-                                   ],
-                          "searchIndex":  [
-                                              "Copilot",
-                                              "copilot",
-                                              "Asistente de IA de Microsoft integrado",
-                                              "ai",
-                                              "assistants",
-                                              "microsoft",
-                                              "assistant",
-                                              "integrated"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "assistants",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "deepseek",
-                          "name":  "DeepSeek",
-                          "slug":  "deepseek",
-                          "description":  "Modelo IA chino competitivo",
-                          "url":  "https://chat.deepseek.com",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "china",
-                                       "llm",
-                                       "competitive"
-                                   ],
-                          "searchIndex":  [
-                                              "DeepSeek",
-                                              "deepseek",
-                                              "Modelo IA chino competitivo",
-                                              "ai",
-                                              "assistants",
-                                              "china",
-                                              "llm",
-                                              "competitive"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "assistants",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "ernie-5-0",
-                          "name":  "Ernie 5.0",
-                          "slug":  "ernie-5-0",
-                          "description":  "Modelo de Baidu avanzado",
-                          "url":  "https://ernie.baidu.com",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "baidu",
-                                       "china",
-                                       "model"
-                                   ],
-                          "searchIndex":  [
-                                              "Ernie 5.0",
-                                              "ernie-5-0",
-                                              "Modelo de Baidu avanzado",
-                                              "ai",
-                                              "china",
-                                              "baidu",
-                                              "model"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "china",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "gemini",
-                          "name":  "Gemini",
-                          "slug":  "gemini",
-                          "description":  "Modelo multimodal de Google con integrac",
-                          "url":  "https://gemini.google.com",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "google",
-                                       "multimodal",
-                                       "llm",
-                                       "integration"
-                                   ],
-                          "searchIndex":  [
-                                              "Gemini",
-                                              "gemini",
-                                              "Modelo multimodal de Google con integración",
-                                              "ai",
-                                              "assistants",
-                                              "google",
-                                              "multimodal",
-                                              "llm",
-                                              "integration"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "assistants",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "github-copilot",
-                          "name":  "GitHub Copilot",
-                          "slug":  "github-copilot",
-                          "description":  "Asistente IA para programar en VS Code",
-                          "url":  "https://github.com/features/copilot",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "github",
-                                       "copilot",
-                                       "vscode",
-                                       "coding"
-                                   ],
-                          "searchIndex":  [
-                                              "GitHub Copilot",
-                                              "github-copilot",
-                                              "Asistente IA para programar en VS Code",
-                                              "ai",
-                                              "development",
-                                              "github",
-                                              "copilot",
-                                              "vscode",
-                                              "coding"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "development",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "glm-5",
-                          "name":  "GLM 5",
-                          "slug":  "glm-5",
-                          "description":  "Modelo de Zhipu AI",
-                          "url":  "https://chat.z.ai",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "zhipu",
-                                       "china",
-                                       "model"
-                                   ],
-                          "searchIndex":  [
-                                              "GLM 5",
-                                              "glm-5",
-                                              "Modelo de Zhipu AI",
-                                              "ai",
-                                              "china",
-                                              "zhipu",
-                                              "model"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "china",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "goose",
-                          "name":  "Goose",
-                          "slug":  "goose",
-                          "description":  "Alternativa Copilot chat open source",
-                          "url":  "https://github.com/block/goose",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "open-source",
-                                       "copilot",
-                                       "alternative"
-                                   ],
-                          "searchIndex":  [
-                                              "Goose",
-                                              "goose",
-                                              "Alternativa Copilot chat open source",
-                                              "ai",
-                                              "development",
-                                              "open-source",
-                                              "copilot",
-                                              "alternative"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "development",
-                          "pricing":  "freemium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "grok",
-                          "name":  "Grok",
-                          "slug":  "grok",
-                          "description":  "IA conversacional de xAI en tiempo real",
-                          "url":  "https://grok.com",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "xai",
-                                       "realtime",
-                                       "conversation"
-                                   ],
-                          "searchIndex":  [
-                                              "Grok",
-                                              "grok",
-                                              "IA conversacional de xAI en tiempo real",
-                                              "ai",
-                                              "assistants",
-                                              "xai",
-                                              "realtime",
-                                              "conversation"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "assistants",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "heygaia",
-                          "name":  "HeyGaia",
-                          "slug":  "heygaia",
-                          "description":  "Agente IA autómata open-source",
-                          "url":  "https://heygaia.io",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "agent",
-                                       "open-source",
-                                       "automaton"
-                                   ],
-                          "searchIndex":  [
-                                              "HeyGaia",
-                                              "heygaia",
-                                              "Agente IA autómata open-source",
-                                              "ai",
-                                              "development",
-                                              "agent",
-                                              "open-source",
-                                              "automaton"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "development",
-                          "pricing":  "freemium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "hunyuan",
-                          "name":  "Hunyuan",
-                          "slug":  "hunyuan",
-                          "description":  "Modelo gratuito de Tencent",
-                          "url":  "https://hunyuan.tencent.com",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "tencent",
-                                       "china",
-                                       "free",
-                                       "model"
-                                   ],
-                          "searchIndex":  [
-                                              "Hunyuan",
-                                              "hunyuan",
-                                              "Modelo gratuito de Tencent",
-                                              "ai",
-                                              "china",
-                                              "tencent",
-                                              "free",
-                                              "model"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "china",
-                          "pricing":  "freemium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "hunyuan-image-3",
-                          "name":  "Hunyuan Image 3.0",
-                          "slug":  "hunyuan-image-3-0",
-                          "description":  "Tencent Open source, texto chino",
-                          "url":  "https://huggingface.co/Tencent-Hunyuan",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "image",
-                                       "tencent",
-                                       "open-source",
-                                       "freemium"
-                                   ],
-                          "searchIndex":  [
-                                              "Hunyuan Image 3.0",
-                                              "hunyuan-image-3-0",
-                                              "Tencent Open source, texto chino",
-                                              "ai",
-                                              "image-generation",
-                                              "image",
-                                              "tencent",
-                                              "open-source",
-                                              "freemium"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "image-generation",
-                          "pricing":  "freemium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "ideogram",
-                          "name":  "Ideogram",
-                          "slug":  "ideogram",
-                          "description":  "El mejor generando texto en imágenes",
-                          "url":  "https://ideogram.ai",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "image",
-                                       "text",
-                                       "typography",
-                                       "freemium"
-                                   ],
-                          "searchIndex":  [
-                                              "Ideogram",
-                                              "ideogram",
-                                              "El mejor generando texto en imágenes",
-                                              "ai",
-                                              "image-generation",
-                                              "image",
-                                              "text",
-                                              "typography",
-                                              "freemium"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "image-generation",
-                          "pricing":  "freemium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "kimi",
-                          "name":  "Kimi",
-                          "slug":  "kimi",
-                          "description":  "Modelo IA conversacional chino",
-                          "url":  "https://www.kimi.com",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "china",
-                                       "chatbot",
-                                       "moonshot"
-                                   ],
-                          "searchIndex":  [
-                                              "Kimi",
-                                              "kimi",
-                                              "Modelo IA conversacional chino",
-                                              "ai",
-                                              "assistants",
-                                              "china",
-                                              "chatbot",
-                                              "moonshot"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "assistants",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "kling-ai",
-                          "name":  "Kling AI",
-                          "slug":  "kling-ai",
-                          "description":  "Imagen y vídeo, calidad profesional",
-                          "url":  "https://kling.kuaishou.com",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "image",
-                                       "video",
-                                       "professional",
-                                       "freemium"
-                                   ],
-                          "searchIndex":  [
-                                              "Kling AI",
-                                              "kling-ai",
-                                              "Imagen y vídeo, calidad profesional",
-                                              "ai",
-                                              "image-generation",
-                                              "image",
-                                              "video",
-                                              "professional",
-                                              "freemium"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "image-generation",
-                          "pricing":  "freemium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "manus",
-                          "name":  "Manus",
-                          "slug":  "manus",
-                          "description":  "Multiagente IA completo autónomo",
-                          "url":  "https://manus.im",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "multi-agent",
-                                       "autonomous",
-                                       "complete"
-                                   ],
-                          "searchIndex":  [
-                                              "Manus",
-                                              "manus",
-                                              "Multiagente IA completo autónomo",
-                                              "ai",
-                                              "development",
-                                              "multi-agent",
-                                              "autonomous",
-                                              "complete"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "development",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "meshy",
-                          "name":  "Meshy",
-                          "slug":  "meshy",
-                          "description":  "IA creación 3D modelos",
-                          "url":  "https://www.meshy.ai",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "3d",
-                                       "models",
-                                       "freemium"
-                                   ],
-                          "searchIndex":  [
-                                              "Meshy",
-                                              "meshy",
-                                              "IA creación 3D modelos",
-                                              "ai",
-                                              "image-generation",
-                                              "3d",
-                                              "models",
-                                              "freemium"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "image-generation",
-                          "pricing":  "freemium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "midjourney",
-                          "name":  "Midjourney",
-                          "slug":  "midjourney",
-                          "description":  "Generador de imágenes realistas",
-                          "url":  "https://midjourney.com",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "image",
-                                       "realistic",
-                                       "premium"
-                                   ],
-                          "searchIndex":  [
-                                              "Midjourney",
-                                              "midjourney",
-                                              "Generador de imágenes realistas",
-                                              "ai",
-                                              "image-generation",
-                                              "image",
-                                              "realistic",
-                                              "premium"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "image-generation",
-                          "pricing":  "premium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "multica",
-                          "name":  "Multica",
-                          "slug":  "multica",
-                          "description":  "Multi-agentes IA programación",
-                          "url":  "https://multica.ai",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "multi-agent",
-                                       "programming"
-                                   ],
-                          "searchIndex":  [
-                                              "Multica",
-                                              "multica",
-                                              "Multi-agentes IA programación",
-                                              "ai",
-                                              "development",
-                                              "multi-agent",
-                                              "programming"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "development",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "page-agent",
-                          "name":  "Page Agent",
-                          "slug":  "page-agent",
-                          "description":  "Agente IA de web en GitHub",
-                          "url":  "https://github.com/alibaba/page-agent",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "agent",
-                                       "web",
-                                       "alibaba"
-                                   ],
-                          "searchIndex":  [
-                                              "Page Agent",
-                                              "page-agent",
-                                              "Agente IA de web en GitHub",
-                                              "ai",
-                                              "development",
-                                              "agent",
-                                              "web",
-                                              "alibaba"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "development",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "pi",
-                          "name":  "Pi",
-                          "slug":  "pi",
-                          "description":  "Plataforma IA conversacional personal",
-                          "url":  "https://pi.dev",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "personal",
-                                       "conversation",
-                                       "inflection"
-                                   ],
-                          "searchIndex":  [
-                                              "Pi",
-                                              "pi",
-                                              "Plataforma IA conversacional personal",
-                                              "ai",
-                                              "assistants",
-                                              "personal",
-                                              "conversation",
-                                              "inflection"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "assistants",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "pika-labs",
-                          "name":  "Pika Labs",
-                          "slug":  "pika-labs",
-                          "description":  "Generación y animación de video",
-                          "url":  "https://pika.art",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "video",
-                                       "animation",
-                                       "premium"
-                                   ],
-                          "searchIndex":  [
-                                              "Pika Labs",
-                                              "pika-labs",
-                                              "Generación y animación de video",
-                                              "ai",
-                                              "image-generation",
-                                              "video",
-                                              "animation",
-                                              "premium"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "image-generation",
-                          "pricing":  "premium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "qwen",
-                          "name":  "Qwen",
-                          "slug":  "qwen",
-                          "description":  "Modelo IA de Alibaba open source",
-                          "url":  "https://chat.qwen.ai",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "alibaba",
-                                       "open-source",
-                                       "llm"
-                                   ],
-                          "searchIndex":  [
-                                              "Qwen",
-                                              "qwen",
-                                              "Modelo IA de Alibaba open source",
-                                              "ai",
-                                              "assistants",
-                                              "alibaba",
-                                              "open-source",
-                                              "llm"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "assistants",
-                          "pricing":  "freemium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "roybot",
-                          "name":  "Roybot",
-                          "slug":  "roybot",
-                          "description":  "Agente IA oferta negocios",
-                          "url":  "https://www.roybot.ai",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "agent",
-                                       "business",
-                                       "offers"
-                                   ],
-                          "searchIndex":  [
-                                              "Roybot",
-                                              "roybot",
-                                              "Agente IA oferta negocios",
-                                              "ai",
-                                              "development",
-                                              "agent",
-                                              "business",
-                                              "offers"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "development",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "runway",
-                          "name":  "Runway",
-                          "slug":  "runway",
-                          "description":  "Edición y generación de video",
-                          "url":  "https://runwayml.com",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "video",
-                                       "editing",
-                                       "premium"
-                                   ],
-                          "searchIndex":  [
-                                              "Runway",
-                                              "runway",
-                                              "Edición y generación de video",
-                                              "ai",
-                                              "image-generation",
-                                              "video",
-                                              "editing",
-                                              "premium"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "image-generation",
-                          "pricing":  "premium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "scrapling",
-                          "name":  "Scrapling",
-                          "slug":  "scrapling",
-                          "description":  "Agente IA para hacer scraping",
-                          "url":  "https://github.com/D4Vinci/Scrapling",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "scraping",
-                                       "agent",
-                                       "data"
-                                   ],
-                          "searchIndex":  [
-                                              "Scrapling",
-                                              "scrapling",
-                                              "Agente IA para hacer scraping",
-                                              "ai",
-                                              "development",
-                                              "scraping",
-                                              "agent",
-                                              "data"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "development",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "seedance-2-0",
-                          "name":  "Seedance 2.0",
-                          "slug":  "seedance-2-0",
-                          "description":  "Generación video Bytedance",
-                          "url":  "https://seed.bytedance.com/en/seedance",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "video",
-                                       "bytedance",
-                                       "china"
-                                   ],
-                          "searchIndex":  [
-                                              "Seedance 2.0",
-                                              "seedance-2-0",
-                                              "Generación video Bytedance",
-                                              "ai",
-                                              "china",
-                                              "video",
-                                              "bytedance"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "china",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "seedream",
-                          "name":  "Seedream",
-                          "slug":  "seedream",
-                          "description":  "Imágenes, videos, retoque IA",
-                          "url":  "https://dreamina.capcut.com/es-es",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "image",
-                                       "video",
-                                       "editing",
-                                       "china"
-                                   ],
-                          "searchIndex":  [
-                                              "Seedream",
-                                              "seedream",
-                                              "Imágenes, videos, retoque IA",
-                                              "ai",
-                                              "china",
-                                              "image",
-                                              "video",
-                                              "editing"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "china",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "sora",
-                          "name":  "Sora",
-                          "slug":  "sora",
-                          "description":  "Generación de video hiperrealista OpenA",
-                          "url":  "https://openai.com/sora",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "video",
-                                       "openai",
-                                       "hyperrealistic",
-                                       "premium"
-                                   ],
-                          "searchIndex":  [
-                                              "Sora",
-                                              "sora",
-                                              "Generación de video hiperrealista OpenAI",
-                                              "ai",
-                                              "image-generation",
-                                              "video",
-                                              "openai",
-                                              "hyperrealistic",
-                                              "premium"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "image-generation",
-                          "pricing":  "premium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "spline",
-                          "name":  "Spline",
-                          "slug":  "spline",
-                          "description":  "IA builder design and 3D",
-                          "url":  "https://spline.design",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "3d",
-                                       "design",
-                                       "builder",
-                                       "freemium"
-                                   ],
-                          "searchIndex":  [
-                                              "Spline",
-                                              "spline",
-                                              "IA builder design and 3D",
-                                              "ai",
-                                              "image-generation",
-                                              "3d",
-                                              "design",
-                                              "builder",
-                                              "freemium"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "image-generation",
-                          "pricing":  "freemium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "wan-2-6",
-                          "name":  "Wan 2.6",
-                          "slug":  "wan-2-6",
-                          "description":  "Generación de video IA",
-                          "url":  "https://wan.video",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "video",
-                                       "china",
-                                       "generation"
-                                   ],
-                          "searchIndex":  [
-                                              "Wan 2.6",
-                                              "wan-2-6",
-                                              "Generación de video IA",
-                                              "ai",
-                                              "china",
-                                              "video",
-                                              "generation"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "china",
-                          "pricing":  "free",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      },
-                      {
-                          "id":  "z-image-turbo",
-                          "name":  "Z-Image Turbo",
-                          "slug":  "z-image-turbo",
-                          "description":  "Alibaba Ultra-rápido, bilingüe",
-                          "url":  "https://zimage.run",
-                          "status":  "active",
-                          "tags":  [
-                                       "ai",
-                                       "image",
-                                       "alibaba",
-                                       "fast",
-                                       "freemium"
-                                   ],
-                          "searchIndex":  [
-                                              "Z-Image Turbo",
-                                              "z-image-turbo",
-                                              "Alibaba Ultra-rápido, bilingüe",
-                                              "ai",
-                                              "image-generation",
-                                              "image",
-                                              "alibaba",
-                                              "fast",
-                                              "freemium"
-                                          ],
-                          "category":  "ai",
-                          "subcategory":  "image-generation",
-                          "pricing":  "freemium",
-                          "languages":  [
-                                            "es",
-                                            "en"
-                                        ],
-                          "limits":  "unknown",
-                          "added":  "2026-01-10",
-                          "verified":  true,
-                          "noCreditCard":  false
-                      }
-                  ]
+  "categories": {
+    "id": "ai",
+    "name": "Ai",
+    "slug": "ai",
+    "resourceCount": 38,
+    "status": "active"
+  },
+  "subcategories": [
+    {
+      "id": "assistants",
+      "name": "Assistants",
+      "slug": "assistants",
+      "category": "ai",
+      "resourceCount": 9,
+      "status": "active"
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "slug": "china",
+      "category": "ai",
+      "resourceCount": 9,
+      "status": "active"
+    },
+    {
+      "id": "development",
+      "name": "Development",
+      "slug": "development",
+      "category": "ai",
+      "resourceCount": 9,
+      "status": "active"
+    },
+    {
+      "id": "image-generation",
+      "name": "Image Generation",
+      "slug": "image-generation",
+      "category": "ai",
+      "resourceCount": 11,
+      "status": "active"
+    }
+  ],
+  "resources": [
+    {
+      "id": "adobe-firefly",
+      "name": "Adobe Firefly",
+      "slug": "adobe-firefly",
+      "description": "Seguro uso comercial, edición pro",
+      "url": "https://firefly.adobe.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image",
+        "adobe",
+        "commercial",
+        "freemium"
+      ],
+      "searchIndex": [
+        "Adobe Firefly",
+        "adobe-firefly",
+        "Seguro uso comercial, edición pro",
+        "ai",
+        "image-generation",
+        "image",
+        "adobe",
+        "commercial",
+        "freemium"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ai-face-swap",
+      "name": "AIFaceSwap",
+      "slug": "aifaceswap",
+      "description": "Face Swap IA",
+      "url": "https://aifaceswap.io",
+      "status": "active",
+      "tags": [
+        "ai",
+        "face-swap",
+        "image",
+        "editing"
+      ],
+      "searchIndex": [
+        "AIFaceSwap",
+        "aifaceswap",
+        "Face Swap IA",
+        "ai",
+        "china",
+        "face-swap",
+        "image",
+        "editing"
+      ],
+      "category": "ai",
+      "subcategory": "china",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "antigravity",
+      "name": "Antigravity",
+      "slug": "antigravity",
+      "description": "Herramienta de desarrollo IA",
+      "url": "https://antigravity.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "tool"
+      ],
+      "searchIndex": [
+        "Antigravity",
+        "antigravity",
+        "Herramienta de desarrollo IA",
+        "ai",
+        "development",
+        "tool"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "apob-ai",
+      "name": "Apob AI",
+      "slug": "apob-ai",
+      "description": "Influencer IA monetizar",
+      "url": "https://app.apob.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "influencer",
+        "monetization"
+      ],
+      "searchIndex": [
+        "Apob AI",
+        "apob-ai",
+        "Influencer IA monetizar",
+        "ai",
+        "china",
+        "influencer",
+        "monetization"
+      ],
+      "category": "ai",
+      "subcategory": "china",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "arena-ai",
+      "name": "Arena AI",
+      "slug": "arena-ai",
+      "description": "Comparador modelos IA",
+      "url": "https://arena.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "comparison",
+        "models",
+        "benchmark"
+      ],
+      "searchIndex": [
+        "Arena AI",
+        "arena-ai",
+        "Comparador modelos IA",
+        "ai",
+        "china",
+        "comparison",
+        "models",
+        "benchmark"
+      ],
+      "category": "ai",
+      "subcategory": "china",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "slug": "chatgpt",
+      "description": "Asistente IA general de OpenAI",
+      "url": "https://chatgpt.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "openai",
+        "chatbot",
+        "llm",
+        "general"
+      ],
+      "searchIndex": [
+        "ChatGPT",
+        "chatgpt",
+        "Asistente IA general de OpenAI",
+        "ai",
+        "assistants",
+        "openai",
+        "chatbot",
+        "llm",
+        "general"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "slug": "claude",
+      "description": "Asistente conversacional avanzado Anthro",
+      "url": "https://claude.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "chatbot",
+        "anthropic",
+        "llm",
+        "conversation",
+        "coding"
+      ],
+      "searchIndex": [
+        "Claude",
+        "claude",
+        "Asistente conversacional avanzado Anthropic",
+        "ai",
+        "assistants",
+        "chatbot",
+        "anthropic",
+        "llm",
+        "conversation",
+        "coding"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "copilot",
+      "name": "Copilot",
+      "slug": "copilot",
+      "description": "Asistente de IA de Microsoft integrado",
+      "url": "https://copilot.microsoft.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "microsoft",
+        "assistant",
+        "integrated"
+      ],
+      "searchIndex": [
+        "Copilot",
+        "copilot",
+        "Asistente de IA de Microsoft integrado",
+        "ai",
+        "assistants",
+        "microsoft",
+        "assistant",
+        "integrated"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "slug": "deepseek",
+      "description": "Modelo IA chino competitivo",
+      "url": "https://chat.deepseek.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "china",
+        "llm",
+        "competitive"
+      ],
+      "searchIndex": [
+        "DeepSeek",
+        "deepseek",
+        "Modelo IA chino competitivo",
+        "ai",
+        "assistants",
+        "china",
+        "llm",
+        "competitive"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ernie-5-0",
+      "name": "Ernie 5.0",
+      "slug": "ernie-5-0",
+      "description": "Modelo de Baidu avanzado",
+      "url": "https://ernie.baidu.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "baidu",
+        "china",
+        "model"
+      ],
+      "searchIndex": [
+        "Ernie 5.0",
+        "ernie-5-0",
+        "Modelo de Baidu avanzado",
+        "ai",
+        "china",
+        "baidu",
+        "model"
+      ],
+      "category": "ai",
+      "subcategory": "china",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "slug": "gemini",
+      "description": "Modelo multimodal de Google con integrac",
+      "url": "https://gemini.google.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "multimodal",
+        "llm",
+        "integration"
+      ],
+      "searchIndex": [
+        "Gemini",
+        "gemini",
+        "Modelo multimodal de Google con integración",
+        "ai",
+        "assistants",
+        "google",
+        "multimodal",
+        "llm",
+        "integration"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "slug": "github-copilot",
+      "description": "Asistente IA para programar en VS Code",
+      "url": "https://github.com/features/copilot",
+      "status": "active",
+      "tags": [
+        "ai",
+        "github",
+        "copilot",
+        "vscode",
+        "coding"
+      ],
+      "searchIndex": [
+        "GitHub Copilot",
+        "github-copilot",
+        "Asistente IA para programar en VS Code",
+        "ai",
+        "development",
+        "github",
+        "copilot",
+        "vscode",
+        "coding"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "glm-5",
+      "name": "GLM 5",
+      "slug": "glm-5",
+      "description": "Modelo de Zhipu AI",
+      "url": "https://chat.z.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "zhipu",
+        "china",
+        "model"
+      ],
+      "searchIndex": [
+        "GLM 5",
+        "glm-5",
+        "Modelo de Zhipu AI",
+        "ai",
+        "china",
+        "zhipu",
+        "model"
+      ],
+      "category": "ai",
+      "subcategory": "china",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "goose",
+      "name": "Goose",
+      "slug": "goose",
+      "description": "Alternativa Copilot chat open source",
+      "url": "https://github.com/block/goose",
+      "status": "active",
+      "tags": [
+        "ai",
+        "open-source",
+        "copilot",
+        "alternative"
+      ],
+      "searchIndex": [
+        "Goose",
+        "goose",
+        "Alternativa Copilot chat open source",
+        "ai",
+        "development",
+        "open-source",
+        "copilot",
+        "alternative"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "grok",
+      "name": "Grok",
+      "slug": "grok",
+      "description": "IA conversacional de xAI en tiempo real",
+      "url": "https://grok.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "xai",
+        "realtime",
+        "conversation"
+      ],
+      "searchIndex": [
+        "Grok",
+        "grok",
+        "IA conversacional de xAI en tiempo real",
+        "ai",
+        "assistants",
+        "xai",
+        "realtime",
+        "conversation"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "heygaia",
+      "name": "HeyGaia",
+      "slug": "heygaia",
+      "description": "Agente IA autómata open-source",
+      "url": "https://heygaia.io",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "open-source",
+        "automaton"
+      ],
+      "searchIndex": [
+        "HeyGaia",
+        "heygaia",
+        "Agente IA autómata open-source",
+        "ai",
+        "development",
+        "agent",
+        "open-source",
+        "automaton"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "hunyuan",
+      "name": "Hunyuan",
+      "slug": "hunyuan",
+      "description": "Modelo gratuito de Tencent",
+      "url": "https://hunyuan.tencent.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "tencent",
+        "china",
+        "free",
+        "model"
+      ],
+      "searchIndex": [
+        "Hunyuan",
+        "hunyuan",
+        "Modelo gratuito de Tencent",
+        "ai",
+        "china",
+        "tencent",
+        "free",
+        "model"
+      ],
+      "category": "ai",
+      "subcategory": "china",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "hunyuan-image-3",
+      "name": "Hunyuan Image 3.0",
+      "slug": "hunyuan-image-3-0",
+      "description": "Tencent Open source, texto chino",
+      "url": "https://huggingface.co/Tencent-Hunyuan",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image",
+        "tencent",
+        "open-source",
+        "freemium"
+      ],
+      "searchIndex": [
+        "Hunyuan Image 3.0",
+        "hunyuan-image-3-0",
+        "Tencent Open source, texto chino",
+        "ai",
+        "image-generation",
+        "image",
+        "tencent",
+        "open-source",
+        "freemium"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ideogram",
+      "name": "Ideogram",
+      "slug": "ideogram",
+      "description": "El mejor generando texto en imágenes",
+      "url": "https://ideogram.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image",
+        "text",
+        "typography",
+        "freemium"
+      ],
+      "searchIndex": [
+        "Ideogram",
+        "ideogram",
+        "El mejor generando texto en imágenes",
+        "ai",
+        "image-generation",
+        "image",
+        "text",
+        "typography",
+        "freemium"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "kimi",
+      "name": "Kimi",
+      "slug": "kimi",
+      "description": "Modelo IA conversacional chino",
+      "url": "https://www.kimi.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "china",
+        "chatbot",
+        "moonshot"
+      ],
+      "searchIndex": [
+        "Kimi",
+        "kimi",
+        "Modelo IA conversacional chino",
+        "ai",
+        "assistants",
+        "china",
+        "chatbot",
+        "moonshot"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "kling-ai",
+      "name": "Kling AI",
+      "slug": "kling-ai",
+      "description": "Imagen y vídeo, calidad profesional",
+      "url": "https://kling.kuaishou.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image",
+        "video",
+        "professional",
+        "freemium"
+      ],
+      "searchIndex": [
+        "Kling AI",
+        "kling-ai",
+        "Imagen y vídeo, calidad profesional",
+        "ai",
+        "image-generation",
+        "image",
+        "video",
+        "professional",
+        "freemium"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "manus",
+      "name": "Manus",
+      "slug": "manus",
+      "description": "Multiagente IA completo autónomo",
+      "url": "https://manus.im",
+      "status": "active",
+      "tags": [
+        "ai",
+        "multi-agent",
+        "autonomous",
+        "complete"
+      ],
+      "searchIndex": [
+        "Manus",
+        "manus",
+        "Multiagente IA completo autónomo",
+        "ai",
+        "development",
+        "multi-agent",
+        "autonomous",
+        "complete"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "meshy",
+      "name": "Meshy",
+      "slug": "meshy",
+      "description": "IA creación 3D modelos",
+      "url": "https://www.meshy.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "3d",
+        "models",
+        "freemium"
+      ],
+      "searchIndex": [
+        "Meshy",
+        "meshy",
+        "IA creación 3D modelos",
+        "ai",
+        "image-generation",
+        "3d",
+        "models",
+        "freemium"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "slug": "midjourney",
+      "description": "Generador de imágenes realistas",
+      "url": "https://midjourney.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image",
+        "realistic",
+        "premium"
+      ],
+      "searchIndex": [
+        "Midjourney",
+        "midjourney",
+        "Generador de imágenes realistas",
+        "ai",
+        "image-generation",
+        "image",
+        "realistic",
+        "premium"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "multica",
+      "name": "Multica",
+      "slug": "multica",
+      "description": "Multi-agentes IA programación",
+      "url": "https://multica.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "multi-agent",
+        "programming"
+      ],
+      "searchIndex": [
+        "Multica",
+        "multica",
+        "Multi-agentes IA programación",
+        "ai",
+        "development",
+        "multi-agent",
+        "programming"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "page-agent",
+      "name": "Page Agent",
+      "slug": "page-agent",
+      "description": "Agente IA de web en GitHub",
+      "url": "https://github.com/alibaba/page-agent",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "web",
+        "alibaba"
+      ],
+      "searchIndex": [
+        "Page Agent",
+        "page-agent",
+        "Agente IA de web en GitHub",
+        "ai",
+        "development",
+        "agent",
+        "web",
+        "alibaba"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pi",
+      "name": "Pi",
+      "slug": "pi",
+      "description": "Plataforma IA conversacional personal",
+      "url": "https://pi.dev",
+      "status": "active",
+      "tags": [
+        "ai",
+        "personal",
+        "conversation",
+        "inflection"
+      ],
+      "searchIndex": [
+        "Pi",
+        "pi",
+        "Plataforma IA conversacional personal",
+        "ai",
+        "assistants",
+        "personal",
+        "conversation",
+        "inflection"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pika-labs",
+      "name": "Pika Labs",
+      "slug": "pika-labs",
+      "description": "Generación y animación de video",
+      "url": "https://pika.art",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "animation",
+        "premium"
+      ],
+      "searchIndex": [
+        "Pika Labs",
+        "pika-labs",
+        "Generación y animación de video",
+        "ai",
+        "image-generation",
+        "video",
+        "animation",
+        "premium"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "qwen",
+      "name": "Qwen",
+      "slug": "qwen",
+      "description": "Modelo IA de Alibaba open source",
+      "url": "https://chat.qwen.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "alibaba",
+        "open-source",
+        "llm"
+      ],
+      "searchIndex": [
+        "Qwen",
+        "qwen",
+        "Modelo IA de Alibaba open source",
+        "ai",
+        "assistants",
+        "alibaba",
+        "open-source",
+        "llm"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "roybot",
+      "name": "Roybot",
+      "slug": "roybot",
+      "description": "Agente IA oferta negocios",
+      "url": "https://www.roybot.ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "business",
+        "offers"
+      ],
+      "searchIndex": [
+        "Roybot",
+        "roybot",
+        "Agente IA oferta negocios",
+        "ai",
+        "development",
+        "agent",
+        "business",
+        "offers"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "runway",
+      "name": "Runway",
+      "slug": "runway",
+      "description": "Edición y generación de video",
+      "url": "https://runwayml.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "editing",
+        "premium"
+      ],
+      "searchIndex": [
+        "Runway",
+        "runway",
+        "Edición y generación de video",
+        "ai",
+        "image-generation",
+        "video",
+        "editing",
+        "premium"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "scrapling",
+      "name": "Scrapling",
+      "slug": "scrapling",
+      "description": "Agente IA para hacer scraping",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "status": "active",
+      "tags": [
+        "ai",
+        "scraping",
+        "agent",
+        "data"
+      ],
+      "searchIndex": [
+        "Scrapling",
+        "scrapling",
+        "Agente IA para hacer scraping",
+        "ai",
+        "development",
+        "scraping",
+        "agent",
+        "data"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "seedance-2-0",
+      "name": "Seedance 2.0",
+      "slug": "seedance-2-0",
+      "description": "Generación video Bytedance",
+      "url": "https://seed.bytedance.com/en/seedance",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "bytedance",
+        "china"
+      ],
+      "searchIndex": [
+        "Seedance 2.0",
+        "seedance-2-0",
+        "Generación video Bytedance",
+        "ai",
+        "china",
+        "video",
+        "bytedance"
+      ],
+      "category": "ai",
+      "subcategory": "china",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "seedream",
+      "name": "Seedream",
+      "slug": "seedream",
+      "description": "Imágenes, videos, retoque IA",
+      "url": "https://dreamina.capcut.com/es-es",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image",
+        "video",
+        "editing",
+        "china"
+      ],
+      "searchIndex": [
+        "Seedream",
+        "seedream",
+        "Imágenes, videos, retoque IA",
+        "ai",
+        "china",
+        "image",
+        "video",
+        "editing"
+      ],
+      "category": "ai",
+      "subcategory": "china",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "sora",
+      "name": "Sora",
+      "slug": "sora",
+      "description": "Generación de video hiperrealista OpenA",
+      "url": "https://openai.com/sora",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "openai",
+        "hyperrealistic",
+        "premium"
+      ],
+      "searchIndex": [
+        "Sora",
+        "sora",
+        "Generación de video hiperrealista OpenAI",
+        "ai",
+        "image-generation",
+        "video",
+        "openai",
+        "hyperrealistic",
+        "premium"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "spline",
+      "name": "Spline",
+      "slug": "spline",
+      "description": "IA builder design and 3D",
+      "url": "https://spline.design",
+      "status": "active",
+      "tags": [
+        "ai",
+        "3d",
+        "design",
+        "builder",
+        "freemium"
+      ],
+      "searchIndex": [
+        "Spline",
+        "spline",
+        "IA builder design and 3D",
+        "ai",
+        "image-generation",
+        "3d",
+        "design",
+        "builder",
+        "freemium"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "wan-2-6",
+      "name": "Wan 2.6",
+      "slug": "wan-2-6",
+      "description": "Generación de video IA",
+      "url": "https://wan.video",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "china",
+        "generation"
+      ],
+      "searchIndex": [
+        "Wan 2.6",
+        "wan-2-6",
+        "Generación de video IA",
+        "ai",
+        "china",
+        "video",
+        "generation"
+      ],
+      "category": "ai",
+      "subcategory": "china",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "z-image-turbo",
+      "name": "Z-Image Turbo",
+      "slug": "z-image-turbo",
+      "description": "Alibaba Ultra-rápido, bilingüe",
+      "url": "https://zimage.run",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image",
+        "alibaba",
+        "fast",
+        "freemium"
+      ],
+      "searchIndex": [
+        "Z-Image Turbo",
+        "z-image-turbo",
+        "Alibaba Ultra-rápido, bilingüe",
+        "ai",
+        "image-generation",
+        "image",
+        "alibaba",
+        "fast",
+        "freemium"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    }
+  ]
 }
