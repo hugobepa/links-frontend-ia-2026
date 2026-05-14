@@ -1,199 +1,339 @@
 {
   "tags": {
-    "4m": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta 4m"
-    },
-    "ai": {
-      "count": 4,
-      "color": "#dc2626",
-      "description": "Etiqueta ai"
-    },
-    "api": {
-      "count": 3,
+    "productivity": {
+      "count": 24,
       "color": "#7c3aed",
-      "description": "Etiqueta api"
-    },
-    "atlasos": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta atlasos"
-    },
-    "attribution": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta attribution"
-    },
-    "avatars": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta avatars"
-    },
-    "bio": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta bio"
-    },
-    "bishoy-bishai-blog": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta bishoy-bishai-blog"
-    },
-    "business": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta business"
-    },
-    "calendar": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta calendar"
-    },
-    "cc0": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta cc0"
-    },
-    "classic": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta classic"
-    },
-    "collaboration": {
-      "count": 2,
-      "color": "#0891b2",
-      "description": "Etiqueta collaboration"
-    },
-    "complete": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta complete"
-    },
-    "contextual": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta contextual"
-    },
-    "countries": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta countries"
-    },
-    "creative": {
-      "count": 3,
-      "color": "#059669",
-      "description": "Etiqueta creative"
-    },
-    "csv": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta csv"
-    },
-    "custom": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta custom"
+      "description": "Etiqueta productivity"
     },
     "database": {
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta database"
     },
-    "datos-falsos-fake-data": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta datos-falsos-fake-data"
-    },
-    "dictation": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta dictation"
-    },
-    "dni": {
-      "count": 2,
-      "color": "#0891b2",
-      "description": "Etiqueta dni"
-    },
-    "dummy": {
+    "spreadsheet": {
       "count": 1,
       "color": "#4f46e5",
-      "description": "Etiqueta dummy"
+      "description": "Etiqueta spreadsheet"
     },
-    "dynamic": {
+    "collaboration": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta collaboration"
+    },
+    "open-source": {
+      "count": 5,
+      "color": "#4f46e5",
+      "description": "Etiqueta open-source"
+    },
+    "notion-alternative": {
       "count": 1,
       "color": "#059669",
-      "description": "Etiqueta dynamic"
+      "description": "Etiqueta notion-alternative"
     },
-    "ecommerce": {
+    "self-hosted": {
       "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta self-hosted"
+    },
+    "utilities": {
+      "count": 8,
+      "color": "#db2777",
+      "description": "Etiqueta utilities"
+    },
+    "y-utilidades-herramientas": {
+      "count": 6,
+      "color": "#db2777",
+      "description": "Etiqueta y-utilidades-herramientas"
+    },
+    "productividad": {
+      "count": 4,
       "color": "#7c3aed",
-      "description": "Etiqueta ecommerce"
+      "description": "Etiqueta productividad"
     },
-    "editing": {
+    "atlasos": {
       "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta editing"
+      "color": "#ea580c",
+      "description": "Etiqueta atlasos"
     },
-    "email": {
+    "y-recursos-generales": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta y-recursos-generales"
+    },
+    "bishoy-bishai-blog": {
       "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta email"
+      "color": "#db2777",
+      "description": "Etiqueta bishoy-bishai-blog"
     },
     "fake-data": {
       "count": 15,
       "color": "#dc2626",
       "description": "Etiqueta fake-data"
     },
-    "fast": {
+    "multi-language": {
       "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta fast"
+      "color": "#4f46e5",
+      "description": "Etiqueta multi-language"
     },
-    "flexible": {
-      "count": 2,
+    "text": {
+      "count": 3,
       "color": "#d97706",
-      "description": "Etiqueta flexible"
+      "description": "Etiqueta text"
     },
-    "food": {
+    "dummy": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta dummy"
+    },
+    "placeholder": {
+      "count": 6,
+      "color": "#0891b2",
+      "description": "Etiqueta placeholder"
+    },
+    "images": {
+      "count": 11,
+      "color": "#2563eb",
+      "description": "Etiqueta images"
+    },
+    "ecommerce": {
       "count": 1,
       "color": "#7c3aed",
-      "description": "Etiqueta food"
-    },
-    "forms": {
-      "count": 2,
-      "color": "#059669",
-      "description": "Etiqueta forms"
+      "description": "Etiqueta ecommerce"
     },
     "free": {
       "count": 14,
       "color": "#db2777",
       "description": "Etiqueta free"
     },
-    "free-tier": {
+    "business": {
       "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta free-tier"
+      "color": "#4f46e5",
+      "description": "Etiqueta business"
     },
-    "fun": {
+    "shopify": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta shopify"
+    },
+    "scheduling": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta scheduling"
+    },
+    "meetings": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta meetings"
+    },
+    "calendar": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta calendar"
+    },
+    "website": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta website"
+    },
+    "landing-page": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta landing-page"
+    },
+    "one-page": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta one-page"
+    },
+    "javascript": {
       "count": 2,
       "color": "#ea580c",
-      "description": "Etiqueta fun"
+      "description": "Etiqueta javascript"
+    },
+    "lightweight": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta lightweight"
+    },
+    "random": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta random"
     },
     "generator": {
       "count": 9,
       "color": "#65a30d",
       "description": "Etiqueta generator"
     },
+    "avatars": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta avatars"
+    },
+    "svg": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta svg"
+    },
+    "unique": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta unique"
+    },
+    "spain": {
+      "count": 3,
+      "color": "#ea580c",
+      "description": "Etiqueta spain"
+    },
+    "profiles": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta profiles"
+    },
+    "complete": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta complete"
+    },
+    "spanish": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta spanish"
+    },
+    "library": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta library"
+    },
+    "npm": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta npm"
+    },
+    "tv-shows": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta tv-shows"
+    },
+    "fun": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta fun"
+    },
+    "creative": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta creative"
+    },
+    "food": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta food"
+    },
+    "hd": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta hd"
+    },
+    "niche": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta niche"
+    },
+    "vectors": {
+      "count": 3,
+      "color": "#7c3aed",
+      "description": "Etiqueta vectors"
+    },
+    "psd": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta psd"
+    },
+    "photos": {
+      "count": 4,
+      "color": "#ea580c",
+      "description": "Etiqueta photos"
+    },
+    "attribution": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta attribution"
+    },
+    "presentations": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta presentations"
+    },
+    "ai": {
+      "count": 4,
+      "color": "#dc2626",
+      "description": "Etiqueta ai"
+    },
+    "slides": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta slides"
+    },
+    "api": {
+      "count": 3,
+      "color": "#7c3aed",
+      "description": "Etiqueta api"
+    },
+    "dni": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta dni"
+    },
+    "validation": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta validation"
+    },
+    "nie": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta nie"
+    },
+    "validator": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta validator"
+    },
+    "forms": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta forms"
+    },
     "google": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta google"
     },
+    "unlimited": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta unlimited"
+    },
+    "writing": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta writing"
+    },
     "grammar": {
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta grammar"
+    },
+    "editing": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta editing"
+    },
+    "datos-falsos-fake-data": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta datos-falsos-fake-data"
     },
     "grounded": {
       "count": 1,
@@ -205,419 +345,258 @@
       "color": "#dc2626",
       "description": "Etiqueta hacker-news"
     },
-    "hd": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta hd"
-    },
-    "high-resolution": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta high-resolution"
-    },
-    "images": {
-      "count": 11,
-      "color": "#2563eb",
-      "description": "Etiqueta images"
-    },
-    "interactive": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta interactive"
-    },
-    "javascript": {
-      "count": 2,
-      "color": "#ea580c",
-      "description": "Etiqueta javascript"
-    },
     "json": {
-      "count": 1,
+      "count": 2,
       "color": "#dc2626",
       "description": "Etiqueta json"
     },
-    "knowledge-graph": {
-      "count": 3,
-      "color": "#0891b2",
-      "description": "Etiqueta knowledge-graph"
-    },
-    "landing-page": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta landing-page"
-    },
-    "library": {
+    "visualizer": {
       "count": 1,
       "color": "#65a30d",
-      "description": "Etiqueta library"
+      "description": "Etiqueta visualizer"
     },
-    "license": {
+    "github": {
       "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta license"
-    },
-    "lightweight": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta lightweight"
+      "color": "#d97706",
+      "description": "Etiqueta github"
     },
     "links": {
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta links"
     },
-    "linkwarden": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta linkwarden"
-    },
-    "lorem-ipsum": {
-      "count": 2,
-      "color": "#4f46e5",
-      "description": "Etiqueta lorem-ipsum"
-    },
-    "markdown": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta markdown"
-    },
-    "meetings": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta meetings"
-    },
-    "mock": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta mock"
-    },
-    "multi-language": {
-      "count": 2,
-      "color": "#4f46e5",
-      "description": "Etiqueta multi-language"
-    },
-    "multiple-formats": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta multiple-formats"
-    },
-    "niche": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta niche"
-    },
-    "nie": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta nie"
-    },
-    "no-registration": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta no-registration"
-    },
-    "notion-alternative": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta notion-alternative"
-    },
-    "npm": {
-      "count": 2,
-      "color": "#059669",
-      "description": "Etiqueta npm"
-    },
-    "one-page": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta one-page"
-    },
-    "open-source": {
-      "count": 4,
-      "color": "#4f46e5",
-      "description": "Etiqueta open-source"
-    },
-    "packages": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta packages"
-    },
-    "photos": {
-      "count": 4,
-      "color": "#ea580c",
-      "description": "Etiqueta photos"
-    },
-    "placeholder": {
-      "count": 6,
-      "color": "#0891b2",
-      "description": "Etiqueta placeholder"
-    },
-    "presentations": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta presentations"
-    },
-    "privacy": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta privacy"
-    },
-    "productividad": {
-      "count": 4,
-      "color": "#7c3aed",
-      "description": "Etiqueta productividad"
-    },
-    "productivity": {
-      "count": 24,
-      "color": "#7c3aed",
-      "description": "Etiqueta productivity"
-    },
-    "profiles": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta profiles"
-    },
-    "psd": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta psd"
-    },
-    "public-domain": {
-      "count": 2,
-      "color": "#4f46e5",
-      "description": "Etiqueta public-domain"
-    },
-    "python": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta python"
-    },
-    "random": {
-      "count": 3,
-      "color": "#059669",
-      "description": "Etiqueta random"
-    },
-    "reccloud": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta reccloud"
-    },
-    "research": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta research"
-    },
-    "scheduling": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta scheduling"
-    },
-    "search": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta search"
-    },
-    "self-hosted": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta self-hosted"
-    },
-    "shopify": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta shopify"
-    },
-    "simple": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta simple"
-    },
-    "slides": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta slides"
-    },
     "social-media": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta social-media"
     },
-    "spain": {
-      "count": 3,
-      "color": "#ea580c",
-      "description": "Etiqueta spain"
-    },
-    "spanish": {
+    "bio": {
       "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta spanish"
-    },
-    "spoki": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta spoki"
-    },
-    "spreadsheet": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta spreadsheet"
-    },
-    "sql": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta sql"
-    },
-    "stock": {
-      "count": 4,
-      "color": "#db2777",
-      "description": "Etiqueta stock"
-    },
-    "surveys": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta surveys"
-    },
-    "svg": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta svg"
-    },
-    "text": {
-      "count": 3,
-      "color": "#d97706",
-      "description": "Etiqueta text"
-    },
-    "tv-shows": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta tv-shows"
-    },
-    "unique": {
-      "count": 2,
-      "color": "#d97706",
-      "description": "Etiqueta unique"
-    },
-    "unlimited": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta unlimited"
-    },
-    "users": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta users"
+      "color": "#7c3aed",
+      "description": "Etiqueta bio"
     },
     "utilidades-herramientas": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta utilidades-herramientas"
     },
-    "utilities": {
-      "count": 7,
-      "color": "#db2777",
-      "description": "Etiqueta utilities"
-    },
-    "validation": {
+    "linkwarden": {
       "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta validation"
+      "color": "#059669",
+      "description": "Etiqueta linkwarden"
     },
-    "validator": {
+    "knowledge-graph": {
+      "count": 3,
+      "color": "#0891b2",
+      "description": "Etiqueta knowledge-graph"
+    },
+    "privacy": {
       "count": 1,
       "color": "#4f46e5",
-      "description": "Etiqueta validator"
+      "description": "Etiqueta privacy"
     },
-    "vectors": {
-      "count": 3,
-      "color": "#7c3aed",
-      "description": "Etiqueta vectors"
-    },
-    "videos": {
+    "lorem-ipsum": {
       "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta videos"
+      "color": "#4f46e5",
+      "description": "Etiqueta lorem-ipsum"
+    },
+    "classic": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta classic"
+    },
+    "flexible": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta flexible"
+    },
+    "python": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta python"
+    },
+    "csv": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta csv"
+    },
+    "sql": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta sql"
+    },
+    "countries": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta countries"
     },
     "vintage": {
       "count": 2,
       "color": "#2563eb",
       "description": "Etiqueta vintage"
     },
-    "voice": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta voice"
-    },
-    "web": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta web"
-    },
-    "website": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta website"
+    "public-domain": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta public-domain"
     },
     "workspace": {
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta workspace"
     },
-    "writing": {
+    "free-tier": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta free-tier"
+    },
+    "search": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta search"
+    },
+    "packages": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta packages"
+    },
+    "markdown": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta markdown"
+    },
+    "videos": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta videos"
+    },
+    "stock": {
+      "count": 4,
+      "color": "#db2777",
+      "description": "Etiqueta stock"
+    },
+    "4m": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta 4m"
+    },
+    "custom": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta custom"
+    },
+    "simple": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta simple"
+    },
+    "fast": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta fast"
+    },
+    "web": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta web"
+    },
+    "mock": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta mock"
+    },
+    "dynamic": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta dynamic"
+    },
+    "contextual": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta contextual"
+    },
+    "users": {
       "count": 1,
       "color": "#dc2626",
-      "description": "Etiqueta writing"
+      "description": "Etiqueta users"
     },
-    "y-recursos-generales": {
-      "count": 2,
-      "color": "#65a30d",
-      "description": "Etiqueta y-recursos-generales"
+    "reccloud": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta reccloud"
     },
-    "y-utilidades-herramientas": {
-      "count": 6,
-      "color": "#db2777",
-      "description": "Etiqueta y-utilidades-herramientas"
+    "multiple-formats": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta multiple-formats"
+    },
+    "research": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta research"
+    },
+    "spoki": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta spoki"
+    },
+    "cc0": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta cc0"
+    },
+    "no-registration": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta no-registration"
+    },
+    "email": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta email"
+    },
+    "surveys": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta surveys"
+    },
+    "interactive": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta interactive"
+    },
+    "high-resolution": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta high-resolution"
+    },
+    "license": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta license"
+    },
+    "voice": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta voice"
+    },
+    "dictation": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta dictation"
     }
   },
   "searchIndex": {
-    "fields": [
-      {
-        "name": "name",
-        "weight": 3,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "description",
-        "weight": 2,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "tags",
-        "weight": 2,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "category",
-        "weight": 1,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "subcategory",
-        "weight": 1,
-        "encode": "forward",
-        "tokenize": "forward"
-      }
-    ],
-    "entries": [
+    "resources": [
       {
         "id": "airtable",
         "slug": "airtable",
         "terms": [
           "Airtable",
           "airtable",
-          "Bases de datos visuales con 1k records gratis",
+          "Bases de datos visuales con 1k records g",
           "utilities",
+          "productivity",
           "productivity",
           "database",
           "spreadsheet",
@@ -633,6 +612,7 @@
           "Alternativa Notion open source",
           "utilities",
           "productivity",
+          "productivity",
           "open-source",
           "notion-alternative",
           "self-hosted"
@@ -647,8 +627,11 @@
           "Optimización Windows open source",
           "utilities",
           "productivity",
+          "utilities",
+          "productivity",
           "y-utilidades-herramientas",
-          "productividad"
+          "productividad",
+          "atlasos"
         ]
       },
       {
@@ -656,11 +639,15 @@
         "slug": "bishoy-bishai-blog",
         "terms": [
           "bishoy-bishai-blog",
+          "bishoy-bishai-blog",
           "Blog portfolio desarrollador",
           "utilities",
           "productivity",
+          "utilities",
+          "productivity",
           "y-utilidades-herramientas",
-          "y-recursos-generales"
+          "y-recursos-generales",
+          "bishoy-bishai-blog"
         ]
       },
       {
@@ -671,6 +658,7 @@
           "blind-text-generator",
           "Texto dummy en múltiples idiomas",
           "utilities",
+          "fake-data",
           "fake-data",
           "multi-language",
           "text",
@@ -700,8 +688,9 @@
         "terms": [
           "Calendly",
           "calendly",
-          "Agenda reuniones con 1 tipo de evento gratis",
+          "Agenda reuniones con 1 tipo de evento gr",
           "utilities",
+          "productivity",
           "productivity",
           "scheduling",
           "meetings",
@@ -714,8 +703,9 @@
         "terms": [
           "Carrd",
           "carrd",
-          "Websites de una página con 3 sitios gratis",
+          "Websites de una página con 3 sitios gra",
           "utilities",
+          "productivity",
           "productivity",
           "website",
           "landing-page",
@@ -730,6 +720,7 @@
           "chance-js",
           "Generador ligero de datos aleatorios JS",
           "utilities",
+          "fake-data",
           "fake-data",
           "javascript",
           "lightweight",
@@ -759,8 +750,9 @@
         "terms": [
           "Fake Name Gen ES",
           "fake-name-gen-es",
-          "Perfiles completos DNI, dirección, teléfono ES",
+          "Perfiles completos DNI, dirección, tel�",
           "utilities",
+          "fake-data",
           "fake-data",
           "spain",
           "profiles",
@@ -774,8 +766,9 @@
         "terms": [
           "Faker.js",
           "faker-js",
-          "Librería JS generar datos falsos masivos",
+          "Librería JS generar datos falsos masivo",
           "utilities",
+          "fake-data",
           "fake-data",
           "javascript",
           "library",
@@ -791,6 +784,7 @@
           "fillerama",
           "Placeholder con estilo de series TV",
           "utilities",
+          "fake-data",
           "fake-data",
           "tv-shows",
           "fun",
@@ -820,7 +814,7 @@
         "terms": [
           "FREEography",
           "freeography",
-          "Imágenes divertidas y únicas, uso libre",
+          "Imágenes divertidas y únicas, uso libr",
           "utilities",
           "images-placeholders",
           "images",
@@ -855,6 +849,7 @@
           "Creación de presentaciones con IA",
           "utilities",
           "productivity",
+          "productivity",
           "presentations",
           "ai",
           "slides"
@@ -866,8 +861,9 @@
         "terms": [
           "GeneradorDNI API",
           "generadordni-api",
-          "API para generar y validar DNI españoles",
+          "API para generar y validar DNI españole",
           "utilities",
+          "fake-data",
           "fake-data",
           "api",
           "spain",
@@ -884,6 +880,7 @@
           "Genera DNI/NIE españoles válidos",
           "utilities",
           "fake-data",
+          "fake-data",
           "spain",
           "dni",
           "nie",
@@ -898,6 +895,7 @@
           "google-forms",
           "Formularios gratuitos ilimitados",
           "utilities",
+          "productivity",
           "productivity",
           "forms",
           "google",
@@ -914,6 +912,7 @@
           "Asistente de escritura y gramática",
           "utilities",
           "productivity",
+          "productivity",
           "writing",
           "grammar",
           "editing"
@@ -928,6 +927,7 @@
           "Notas de reuniones automáticas con IA",
           "utilities",
           "productivity",
+          "productivity",
           "meetings",
           "ai"
         ]
@@ -941,8 +941,11 @@
           "Generador de datos reales y fiables",
           "utilities",
           "productivity",
+          "utilities",
+          "productivity",
           "y-utilidades-herramientas",
-          "datos-falsos-fake-data"
+          "datos-falsos-fake-data",
+          "grounded"
         ]
       },
       {
@@ -954,8 +957,27 @@
           "Comunidad noticias y debates tecnología",
           "utilities",
           "productivity",
+          "utilities",
+          "productivity",
           "y-utilidades-herramientas",
-          "y-recursos-generales"
+          "y-recursos-generales",
+          "hacker-news"
+        ]
+      },
+      {
+        "id": "jsoncrack",
+        "slug": "jsoncrack",
+        "terms": [
+          "JsonCrack",
+          "jsoncrack",
+          "Visualizador de estructuras JSON",
+          "utilities",
+          "productivity",
+          "utilities",
+          "json",
+          "visualizer",
+          "open-source",
+          "github"
         ]
       },
       {
@@ -967,6 +989,7 @@
           "Página de enlaces gratis básico",
           "utilities",
           "productivity",
+          "productivity",
           "links",
           "social-media",
           "bio"
@@ -977,11 +1000,15 @@
         "slug": "linkwarden",
         "terms": [
           "linkwarden",
+          "linkwarden",
           "Gestor self-hosted de marcadores",
           "utilities",
           "productivity",
+          "utilities",
+          "productivity",
           "utilidades-herramientas",
-          "productividad"
+          "productividad",
+          "linkwarden"
         ]
       },
       {
@@ -990,8 +1017,9 @@
         "terms": [
           "Logseq",
           "logseq",
-          "Notas y conocimiento open source con grafos",
+          "Notas y conocimiento open source con gra",
           "utilities",
+          "productivity",
           "productivity",
           "open-source",
           "knowledge-graph",
@@ -1007,6 +1035,7 @@
           "Generador clásico de texto placeholder",
           "utilities",
           "fake-data",
+          "fake-data",
           "lorem-ipsum",
           "text",
           "placeholder",
@@ -1019,8 +1048,9 @@
         "terms": [
           "LoremGenius",
           "loremgenius",
-          "Generador creativo con formatos flexibles",
+          "Generador creativo con formatos flexible",
           "utilities",
+          "fake-data",
           "fake-data",
           "creative",
           "flexible",
@@ -1037,6 +1067,7 @@
           "Generador de datos fake en Python",
           "utilities",
           "fake-data",
+          "fake-data",
           "python",
           "generator",
           "multi-language",
@@ -1049,8 +1080,9 @@
         "terms": [
           "Mockaroo",
           "mockaroo",
-          "Genera CSV, JSON, SQL con datos por país",
+          "Genera CSV, JSON, SQL con datos por paí",
           "utilities",
+          "fake-data",
           "fake-data",
           "generator",
           "csv",
@@ -1083,6 +1115,7 @@
           "Workspace todo-en-uno gratis personal",
           "utilities",
           "productivity",
+          "productivity",
           "workspace",
           "collaboration",
           "free-tier"
@@ -1109,8 +1142,9 @@
         "terms": [
           "Obsidian",
           "obsidian",
-          "Notas en markdown con grafos de conocimiento",
+          "Notas en markdown con grafos de conocimi",
           "utilities",
+          "productivity",
           "productivity",
           "markdown",
           "knowledge-graph",
@@ -1170,7 +1204,7 @@
         "terms": [
           "Placehold.co",
           "placehold-co",
-          "Crea imágenes placeholder personalizadas",
+          "Crea imágenes placeholder personalizada",
           "utilities",
           "images-placeholders",
           "images",
@@ -1187,6 +1221,7 @@
           "placeholdertext",
           "Placeholder simple y rápido para web",
           "utilities",
+          "fake-data",
           "fake-data",
           "simple",
           "fast",
@@ -1216,8 +1251,9 @@
         "terms": [
           "QuickMocker",
           "quickmocker",
-          "Mock API contextual respuestas dinámicas",
+          "Mock API contextual respuestas dinámica",
           "utilities",
+          "fake-data",
           "fake-data",
           "mock",
           "api",
@@ -1234,6 +1270,7 @@
           "API libre para usuarios aleatorios",
           "utilities",
           "fake-data",
+          "fake-data",
           "api",
           "users",
           "random",
@@ -1249,8 +1286,11 @@
           "Resumir videos YouTube con IA",
           "utilities",
           "productivity",
+          "utilities",
+          "productivity",
           "y-utilidades-herramientas",
-          "productividad"
+          "productividad",
+          "reccloud"
         ]
       },
       {
@@ -1259,8 +1299,9 @@
         "terms": [
           "RNDGen",
           "rndgen",
-          "Generador de datos aleatorios múltiples formatos",
+          "Generador de datos aleatorios múltiples",
           "utilities",
+          "fake-data",
           "fake-data",
           "generator",
           "random",
@@ -1273,8 +1314,9 @@
         "terms": [
           "Roam Research",
           "roam-research",
-          "Notas interconectadas con 2 grafos gratis",
+          "Notas interconectadas con 2 grafos grati",
           "utilities",
+          "productivity",
           "productivity",
           "knowledge-graph",
           "research"
@@ -1289,8 +1331,11 @@
           "Marketing WhatsApp Business API",
           "utilities",
           "productivity",
+          "utilities",
+          "productivity",
           "y-utilidades-herramientas",
-          "productividad"
+          "productividad",
+          "spoki"
         ]
       },
       {
@@ -1318,6 +1363,7 @@
           "Cliente de correo rápido con IA",
           "utilities",
           "productivity",
+          "productivity",
           "email",
           "ai",
           "fast"
@@ -1329,8 +1375,9 @@
         "terms": [
           "Typeform",
           "typeform",
-          "Formularios interactivos con 10/mes gratis",
+          "Formularios interactivos con 10/mes grat",
           "utilities",
+          "productivity",
           "productivity",
           "forms",
           "surveys",
@@ -1343,7 +1390,7 @@
         "terms": [
           "Unsplash",
           "unsplash",
-          "Banco de imágenes alta resolución gratis",
+          "Banco de imágenes alta resolución grat",
           "utilities",
           "images-placeholders",
           "images",
@@ -1377,6 +1424,7 @@
           "wispr-flow",
           "Dictado por voz con IA",
           "utilities",
+          "productivity",
           "productivity",
           "voice",
           "dictation",
@@ -1418,6 +1466,6 @@
     "dataset": "utilidades_1",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 53
+    "resourceCount": 54
   }
 }

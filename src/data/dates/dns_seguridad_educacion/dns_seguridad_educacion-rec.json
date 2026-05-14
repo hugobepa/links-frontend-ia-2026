@@ -11,14 +11,14 @@
       "id": "education-learning",
       "name": "Education Learning",
       "slug": "education-learning",
-      "resourceCount": 159,
+      "resourceCount": 174,
       "status": "active"
     },
     {
       "id": "security-vpn",
       "name": "Security Vpn",
       "slug": "security-vpn",
-      "resourceCount": 22,
+      "resourceCount": 25,
       "status": "active"
     }
   ],
@@ -52,7 +52,7 @@
       "name": "Programming Courses",
       "slug": "programming-courses",
       "category": "education-learning",
-      "resourceCount": 159,
+      "resourceCount": 174,
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
       "name": "Security Auth",
       "slug": "security-auth",
       "category": "security-vpn",
-      "resourceCount": 11,
+      "resourceCount": 14,
       "status": "active"
     },
     {
@@ -605,6 +605,117 @@
       "noCreditCard": false
     },
     {
+      "id": "arxiv-2210-03629",
+      "name": "ArXiv-2210.03629",
+      "slug": "arxiv-2210-03629",
+      "description": "Paper de investigacion IA",
+      "url": "https://arxiv.org/abs/2210.03629",
+      "status": "active",
+      "tags": [
+        "ai",
+        "research",
+        "ml",
+        "reading",
+        "reference"
+      ],
+      "searchIndex": [
+        "ArXiv-2210.03629",
+        "arxiv-2210-03629",
+        "Paper de investigacion IA",
+        "education-learning",
+        "programming-courses",
+        "ai",
+        "research",
+        "ml",
+        "reading",
+        "reference"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "arxiv-2302-04761",
+      "name": "ArXiv-2302.04761",
+      "slug": "arxiv-2302-04761",
+      "description": "Paper tecnico de modelos IA",
+      "url": "https://arxiv.org/abs/2302.04761",
+      "status": "active",
+      "tags": [
+        "ai",
+        "research",
+        "ml",
+        "reading",
+        "reference"
+      ],
+      "searchIndex": [
+        "ArXiv-2302.04761",
+        "arxiv-2302-04761",
+        "Paper tecnico de modelos IA",
+        "education-learning",
+        "programming-courses",
+        "ai",
+        "research",
+        "ml",
+        "reading",
+        "reference"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "arxiv-2304-03442",
+      "name": "ArXiv-2304.03442",
+      "slug": "arxiv-2304-03442",
+      "description": "Paper avanzado de IA",
+      "url": "https://arxiv.org/abs/2304.03442",
+      "status": "active",
+      "tags": [
+        "ai",
+        "research",
+        "ml",
+        "reading",
+        "reference"
+      ],
+      "searchIndex": [
+        "ArXiv-2304.03442",
+        "arxiv-2304-03442",
+        "Paper avanzado de IA",
+        "education-learning",
+        "programming-courses",
+        "ai",
+        "research",
+        "ml",
+        "reading",
+        "reference"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "auth0",
       "name": "Auth0",
       "slug": "auth0",
@@ -855,76 +966,41 @@
       "noCreditCard": false
     },
     {
-      "id": "csharp-microsoft",
-      "name": "C# Microsoft",
-      "slug": "c-microsoft",
-      "description": "Aprende C# con los tutoriales de Microso",
-      "url": "https://dotnet.microsoft.com/learn/csharp",
+      "id": "build-llm-from-scratch",
+      "name": "Build-LLM-From-Scratch",
+      "slug": "build-llm-from-scratch",
+      "description": "Libro para construir LLM",
+      "url": "https://www.manning.com/books/build-a-large-language-model-from-scratch",
       "status": "active",
       "tags": [
-        "csharp",
-        "microsoft",
-        "dotnet",
-        "tutorial"
+        "book",
+        "llm",
+        "ai",
+        "learning",
+        "reference"
       ],
       "searchIndex": [
-        "C# Microsoft",
-        "c-microsoft",
-        "Aprende C# con los tutoriales de Microsoft",
+        "Build-LLM-From-Scratch",
+        "build-llm-from-scratch",
+        "Libro para construir LLM",
         "education-learning",
         "programming-courses",
-        "csharp",
-        "microsoft",
-        "dotnet",
-        "tutorial"
+        "book",
+        "llm",
+        "ai",
+        "learning",
+        "reference"
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
-      "pricing": "free",
+      "pricing": "premium",
       "languages": [
-        "es",
         "en"
       ],
-      "limits": "Tutoriales oficiales gratuitos",
-      "added": "2026-01-10",
+      "limits": "no-limits",
+      "added": "2026-05-14",
       "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "cplusplus",
-      "name": "C++ Tutorial",
-      "slug": "c-tutorial",
-      "description": "Tutorial completo de C++ para todos los",
-      "url": "https://cplusplus.com/doc/tutorial",
-      "status": "active",
-      "tags": [
-        "cpp",
-        "tutorial",
-        "programming",
-        "language"
-      ],
-      "searchIndex": [
-        "C++ Tutorial",
-        "c-tutorial",
-        "Tutorial completo de C++ para todos los niveles",
-        "education-learning",
-        "programming-courses",
-        "cpp",
-        "tutorial",
-        "programming",
-        "language"
-      ],
-      "category": "education-learning",
-      "subcategory": "programming-courses",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Tutorial gratuito completo",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
+      "noCreditCard": false
     },
     {
       "id": "cambridge-english",
@@ -1644,6 +1720,42 @@
       "noCreditCard": false
     },
     {
+      "id": "cplusplus",
+      "name": "C++ Tutorial",
+      "slug": "c-tutorial",
+      "description": "Tutorial completo de C++ para todos los",
+      "url": "https://cplusplus.com/doc/tutorial",
+      "status": "active",
+      "tags": [
+        "cpp",
+        "tutorial",
+        "programming",
+        "language"
+      ],
+      "searchIndex": [
+        "C++ Tutorial",
+        "c-tutorial",
+        "Tutorial completo de C++ para todos los niveles",
+        "education-learning",
+        "programming-courses",
+        "cpp",
+        "tutorial",
+        "programming",
+        "language"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Tutorial gratuito completo",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
       "id": "cryptozombies",
       "name": "CryptoZombies",
       "slug": "cryptozombies",
@@ -1716,27 +1828,28 @@
       "noCreditCard": true
     },
     {
-      "id": "css-important-alternatives",
-      "name": "CSS !important Alternatives",
-      "slug": "css-important-alternatives",
-      "description": "Alternativas a la palabra clave !importa",
-      "url": "https://css-tricks.com/alternatives-to-the-important-keyword/",
+      "id": "csharp-microsoft",
+      "name": "C# Microsoft",
+      "slug": "c-microsoft",
+      "description": "Aprende C# con los tutoriales de Microso",
+      "url": "https://dotnet.microsoft.com/learn/csharp",
       "status": "active",
       "tags": [
-        "education-learning",
-        "programming-courses",
-        "y-s-educacia-n-aprendizaje",
-        "arta-culos-css-web",
-        "css-important-alternatives"
+        "csharp",
+        "microsoft",
+        "dotnet",
+        "tutorial"
       ],
       "searchIndex": [
-        "CSS !important Alternatives",
-        "css-important-alternatives",
-        "Alternativas a la palabra clave !importa",
+        "C# Microsoft",
+        "c-microsoft",
+        "Aprende C# con los tutoriales de Microsoft",
         "education-learning",
         "programming-courses",
-        "y-s-educacia-n-aprendizaje",
-        "arta-culos-css-web"
+        "csharp",
+        "microsoft",
+        "dotnet",
+        "tutorial"
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
@@ -1745,10 +1858,10 @@
         "es",
         "en"
       ],
-      "limits": "unknown",
-      "added": "2026-05-11",
+      "limits": "Tutoriales oficiales gratuitos",
+      "added": "2026-01-10",
       "verified": true,
-      "noCreditCard": false
+      "noCreditCard": true
     },
     {
       "id": "css-containment",
@@ -1768,6 +1881,41 @@
         "CSS Containment",
         "css-containment",
         "Qué es CSS containment y cómo usarlo",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "css-important-alternatives",
+      "name": "CSS !important Alternatives",
+      "slug": "css-important-alternatives",
+      "description": "Alternativas a la palabra clave !importa",
+      "url": "https://css-tricks.com/alternatives-to-the-important-keyword/",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "css-important-alternatives"
+      ],
+      "searchIndex": [
+        "CSS !important Alternatives",
+        "css-important-alternatives",
+        "Alternativas a la palabra clave !importa",
         "education-learning",
         "programming-courses",
         "y-s-educacia-n-aprendizaje",
@@ -3202,42 +3350,6 @@
       "noCreditCard": true
     },
     {
-      "id": "html-en-5min-yt",
-      "name": "HTML en 5min (YT)",
-      "slug": "html-en-5min-yt",
-      "description": "Video rapido HTML",
-      "url": "https://youtu.be/gmuTjeQUbTM",
-      "status": "active",
-      "tags": [
-        "html",
-        "youtube",
-        "video",
-        "learning"
-      ],
-      "searchIndex": [
-        "HTML en 5min (YT)",
-        "html-en-5min-yt",
-        "Video rapido HTML",
-        "education-learning",
-        "programming-courses",
-        "html",
-        "youtube",
-        "video",
-        "learning"
-      ],
-      "category": "education-learning",
-      "subcategory": "programming-courses",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-04-29",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "html-com",
       "name": "HTML.com",
       "slug": "html-com",
@@ -3272,6 +3384,42 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "html-en-5min-yt",
+      "name": "HTML en 5min (YT)",
+      "slug": "html-en-5min-yt",
+      "description": "Video rapido HTML",
+      "url": "https://youtu.be/gmuTjeQUbTM",
+      "status": "active",
+      "tags": [
+        "html",
+        "youtube",
+        "video",
+        "learning"
+      ],
+      "searchIndex": [
+        "HTML en 5min (YT)",
+        "html-en-5min-yt",
+        "Video rapido HTML",
+        "education-learning",
+        "programming-courses",
+        "html",
+        "youtube",
+        "video",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "ia-en-15min-yt",
@@ -3557,6 +3705,43 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "keyhacks",
+      "name": "KeyHacks",
+      "slug": "keyhacks",
+      "description": "Validacion de API keys",
+      "url": "https://github.com/streaak/keyhacks.git",
+      "status": "active",
+      "tags": [
+        "security",
+        "auth",
+        "github",
+        "open-source",
+        "validation"
+      ],
+      "searchIndex": [
+        "KeyHacks",
+        "keyhacks",
+        "Validacion de API keys",
+        "security-vpn",
+        "security-auth",
+        "security",
+        "auth",
+        "github",
+        "open-source",
+        "validation"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "kodekloud",
@@ -4593,6 +4778,43 @@
       "noCreditCard": false
     },
     {
+      "id": "ml-interview",
+      "name": "ML-Interview",
+      "slug": "ml-interview",
+      "description": "Preparacion entrevistas ML",
+      "url": "https://github.com/khangich/machine-learning-interview",
+      "status": "active",
+      "tags": [
+        "ml",
+        "interview",
+        "github",
+        "preparation",
+        "learning"
+      ],
+      "searchIndex": [
+        "ML-Interview",
+        "ml-interview",
+        "Preparacion entrevistas ML",
+        "education-learning",
+        "programming-courses",
+        "ml",
+        "interview",
+        "github",
+        "preparation",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "mouredev",
       "name": "MoureDev",
       "slug": "mouredev",
@@ -5231,6 +5453,118 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "o-reilly-ai-engineering",
+      "name": "O-Reilly-AI-Engineering",
+      "slug": "o-reilly-ai-engineering",
+      "description": "Libro de AI engineering",
+      "url": "https://www.oreilly.com/library/view/ai-engineering/9781098166291/",
+      "status": "active",
+      "tags": [
+        "book",
+        "ai",
+        "reference",
+        "learning",
+        "engineering"
+      ],
+      "searchIndex": [
+        "O-Reilly-AI-Engineering",
+        "o-reilly-ai-engineering",
+        "Libro de AI engineering",
+        "education-learning",
+        "programming-courses",
+        "book",
+        "ai",
+        "reference",
+        "learning",
+        "engineering"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "premium",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "o-reilly-llm-engineering",
+      "name": "O-Reilly-LLM-Engineering",
+      "slug": "o-reilly-llm-engineering",
+      "description": "Libro de LLM engineering",
+      "url": "https://www.oreilly.com/library/view/llm-engineering/9781098167298/",
+      "status": "active",
+      "tags": [
+        "book",
+        "llm",
+        "ai",
+        "reference",
+        "learning"
+      ],
+      "searchIndex": [
+        "O-Reilly-LLM-Engineering",
+        "o-reilly-llm-engineering",
+        "Libro de LLM engineering",
+        "education-learning",
+        "programming-courses",
+        "book",
+        "llm",
+        "ai",
+        "reference",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "premium",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "palo-alto-cybersec",
+      "name": "Palo-Alto-Cybersec",
+      "slug": "palo-alto-cybersec",
+      "description": "Curso gratis de ciberseguridad",
+      "url": "https://www.paloaltonetworks.es/cyberpedia/free-cybersecurity-education-course",
+      "status": "active",
+      "tags": [
+        "security",
+        "course",
+        "certification",
+        "free",
+        "spanish"
+      ],
+      "searchIndex": [
+        "Palo-Alto-Cybersec",
+        "palo-alto-cybersec",
+        "Curso gratis de ciberseguridad",
+        "education-learning",
+        "programming-courses",
+        "security",
+        "course",
+        "certification",
+        "free",
+        "spanish"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
       "verified": true,
       "noCreditCard": false
     },
@@ -6309,6 +6643,43 @@
       "noCreditCard": true
     },
     {
+      "id": "system-design-notes",
+      "name": "System-Design-Notes",
+      "slug": "system-design-notes",
+      "description": "Notas de system design",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "status": "active",
+      "tags": [
+        "architecture",
+        "github",
+        "learning",
+        "reference",
+        "development"
+      ],
+      "searchIndex": [
+        "System-Design-Notes",
+        "system-design-notes",
+        "Notas de system design",
+        "education-learning",
+        "programming-courses",
+        "architecture",
+        "github",
+        "learning",
+        "reference",
+        "development"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "tech-interview-handbook",
       "name": "Tech Interview Handbook",
       "slug": "tech-interview-handbook",
@@ -6345,6 +6716,43 @@
       "noCreditCard": true
     },
     {
+      "id": "teleport",
+      "name": "Teleport",
+      "slug": "teleport",
+      "description": "Acceso SSH zero-trust",
+      "url": "https://github.com/gravitational/teleport.git",
+      "status": "active",
+      "tags": [
+        "security",
+        "auth",
+        "github",
+        "open-source",
+        "identity"
+      ],
+      "searchIndex": [
+        "Teleport",
+        "teleport",
+        "Acceso SSH zero-trust",
+        "security-vpn",
+        "security-auth",
+        "security",
+        "auth",
+        "github",
+        "open-source",
+        "identity"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "the-odin-project",
       "name": "The Odin Project",
       "slug": "the-odin-project",
@@ -6379,6 +6787,43 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "trufflehog",
+      "name": "TruffleHog",
+      "slug": "trufflehog",
+      "description": "Scanner de secretos Git",
+      "url": "https://github.com/trufflesecurity/trufflehog.git",
+      "status": "active",
+      "tags": [
+        "security",
+        "auth",
+        "github",
+        "open-source",
+        "devsecops"
+      ],
+      "searchIndex": [
+        "TruffleHog",
+        "trufflehog",
+        "Scanner de secretos Git",
+        "security-vpn",
+        "security-auth",
+        "security",
+        "auth",
+        "github",
+        "open-source",
+        "devsecops"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "tryhackme",
@@ -6668,41 +7113,6 @@
       "noCreditCard": true
     },
     {
-      "id": "web-platform-libraries",
-      "name": "Web Platform & Libraries",
-      "slug": "web-platform-libraries",
-      "description": "Cómo las librerías influyen en la web",
-      "url": "https://jadjoubran.io/blog/web-platform-influenced-by-libraries",
-      "status": "active",
-      "tags": [
-        "education-learning",
-        "programming-courses",
-        "y-s-educacia-n-aprendizaje",
-        "arta-culos-css-web",
-        "web-platform-libraries"
-      ],
-      "searchIndex": [
-        "Web Platform & Libraries",
-        "web-platform-libraries",
-        "Cómo las librerías influyen en la web",
-        "education-learning",
-        "programming-courses",
-        "y-s-educacia-n-aprendizaje",
-        "arta-culos-css-web"
-      ],
-      "category": "education-learning",
-      "subcategory": "programming-courses",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-11",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "web-dev",
       "name": "Web.dev",
       "slug": "web-dev",
@@ -6737,6 +7147,41 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "web-platform-libraries",
+      "name": "Web Platform & Libraries",
+      "slug": "web-platform-libraries",
+      "description": "Cómo las librerías influyen en la web",
+      "url": "https://jadjoubran.io/blog/web-platform-influenced-by-libraries",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "web-platform-libraries"
+      ],
+      "searchIndex": [
+        "Web Platform & Libraries",
+        "web-platform-libraries",
+        "Cómo las librerías influyen en la web",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "windscribe",
@@ -6843,6 +7288,228 @@
       ],
       "limits": "unknown",
       "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-video-1",
+      "name": "YouTube Video 1",
+      "slug": "youtube-video-1",
+      "description": "Video tecnico recomendado",
+      "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "learning",
+        "channel",
+        "course"
+      ],
+      "searchIndex": [
+        "YouTube Video 1",
+        "youtube-video-1",
+        "Video tecnico recomendado",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "learning",
+        "channel",
+        "course"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-video-2",
+      "name": "YouTube Video 2",
+      "slug": "youtube-video-2",
+      "description": "Video tecnico recomendado",
+      "url": "https://www.youtube.com/watch?v=9vM4p9NN0Ts",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "learning",
+        "channel",
+        "course"
+      ],
+      "searchIndex": [
+        "YouTube Video 2",
+        "youtube-video-2",
+        "Video tecnico recomendado",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "learning",
+        "channel",
+        "course"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-video-3",
+      "name": "YouTube Video 3",
+      "slug": "youtube-video-3",
+      "description": "Video tecnico recomendado",
+      "url": "https://www.youtube.com/watch?v=kJLiOGIe3Lw",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "learning",
+        "channel",
+        "course"
+      ],
+      "searchIndex": [
+        "YouTube Video 3",
+        "youtube-video-3",
+        "Video tecnico recomendado",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "learning",
+        "channel",
+        "course"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-video-4",
+      "name": "YouTube Video 4",
+      "slug": "youtube-video-4",
+      "description": "Video tecnico recomendado",
+      "url": "https://www.youtube.com/watch?v=d5ElIXhbcfA",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "learning",
+        "channel",
+        "course"
+      ],
+      "searchIndex": [
+        "YouTube Video 4",
+        "youtube-video-4",
+        "Video tecnico recomendado",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "learning",
+        "channel",
+        "course"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-video-5",
+      "name": "YouTube Video 5",
+      "slug": "youtube-video-5",
+      "description": "Video tecnico recomendado",
+      "url": "https://www.youtube.com/watch?v=D7_ipDqhtwk",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "learning",
+        "channel",
+        "course"
+      ],
+      "searchIndex": [
+        "YouTube Video 5",
+        "youtube-video-5",
+        "Video tecnico recomendado",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "learning",
+        "channel",
+        "course"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-video-6",
+      "name": "YouTube Video 6",
+      "slug": "youtube-video-6",
+      "description": "Video tecnico recomendado",
+      "url": "https://www.youtube.com/watch?v=kQmXtrmQ5Zg",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "learning",
+        "channel",
+        "course"
+      ],
+      "searchIndex": [
+        "YouTube Video 6",
+        "youtube-video-6",
+        "Video tecnico recomendado",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "learning",
+        "channel",
+        "course"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
       "verified": true,
       "noCreditCard": false
     }

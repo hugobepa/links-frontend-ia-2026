@@ -1,10 +1,8 @@
-<!-- markdownlint-disable -->
-
 # 📚 Knowledge Base Completa - Recursos Desarrolladores 2025-2026 (VERSIÓN FINAL)
 
-> **Fuentes:** `linksDev.md` + `linkGeneral.md` + `linkNuevo.md` + `linkNueva3.md` + `añadir_links_01052026.md` + `link_nuevos.md`  
-> **Total recursos:** ~1073 únicos | **Sin duplicados** | **Descripciones ≤100 chars**  
-> **Última actualización:** 10/05/2026 | **Estado:** ✅ Verificado Completo
+> **Fuentes:** `linksDev.md` + `linkGeneral.md` + `linkNuevo.md` + `linkNueva3.md` + `añadir_links_01052026.md` + `link_nuevos.md` + `link_nuevos_14052026.md`  
+> **Total recursos:** ~1207 únicos | **Sin duplicados** | **Descripciones ≤40 chars**  
+> **Última actualización:** 14/05/2026 | **Estado:** ✅ v7 Verificado Completo
 
 ---
 
@@ -474,6 +472,7 @@
 | **Nuxt**         | Framework     | Framework Vue para producción             | [nuxt.com](https://nuxt.com)               |
 | **Remix**        | Framework     | Framework React full-stack moderno        | [remix.run](https://remix.run)             |
 | **Hono**         | Framework     | Framework web ultraligero para edge       | [hono.dev](https://hono.dev)               |
+| **Gstack**       | Framework     | Stack full-stack moderna development      | [github.com/garrytan/gstack](https://github.com/garrytan/gstack) |
 
 ### **React Stack Libraries** ⭐ **NUEVA SUBCATEGORÍA**
 
@@ -760,6 +759,8 @@
 | **hermes-agent-gh**    | Repo del agente Hermes en GitHub                  | [github.com/NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)   | ✅ Activo  |
 | **graphrag**           | RAG sobre grafos de conocimiento                  | [github.com/microsoft/graphrag](https://github.com/microsoft/graphrag)                 | ✅ Activo  |
 | **openclawgotchi**     | Agente tipo tamagotchi open source                | [github.com/turmyshevd/openclawgotchi](https://github.com/turmyshevd/openclawgotchi)   | ✅ Activo  |
+| **Chandra**                 | Framework análisis datos con IA  | [github.com/datalab-to/chandra](https://github.com/datalab-to/chandra) | ✅ Activo  |
+| **Kaggle-Whitepaper-Agent** | Agente IA análisis papers Kaggle | [kaggle.com/whitepaper-agent](https://www.kaggle.com/whitepaper-agent) | ✅ Activo  |
 | **OpenJarvis**         | Asistente IA tipo Jarvis open source              | [github.com/open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis)         | ✅ Activo  |
 
 ### **UI con IA**
@@ -855,6 +856,15 @@
 | **mlcourse-ai**                       | Curso de ML open source                        | [github.com/Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai)                                                                       | ✅ Activo  |
 | **tinyfish-cookbook**                 | Recetas prácticas de agentes IA                | [github.com/tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook)                                               | ✅ Activo  |
 | **kaggle-5-day-agents**               | Guía intensiva de agentes IA                   | [www.kaggle.com/learn-guide/5-day-agents](https://www.kaggle.com/learn-guide/5-day-agents)                                                 | ✅ Activo  |
+| **AI-Agents-Beginners**       | Microsoft curso agentes IA principiantes      | [github.com/microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)                   | ✅ Activo  |
+| **Prompt-Engineering-Guide**  | Guía ingeniería prompts para LLMs             | [github.com/dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)                     | ✅ Activo  |
+| **Hands-On-LLM**              | Curso práctico LLMs hands-on                  | [github.com/HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)   | ✅ Activo  |
+| **Made-With-ML**              | Plataforma completa ML engineering production | [madewithml.com](https://madewithml.com)                                                                               | ✅ Activo  |
+| **LLM-Course**                | Curso completo LLMs desde cero                | [github.com/mlabonne/llm-course](https://github.com/mlabonne/llm-course)                                               | ✅ Activo  |
+| **Anthropic-Agents-Guide**    | Guía oficial Anthropic agentes efectivos      | [anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents) | ✅ Activo  |
+| **OpenAI-Agents-Docs**        | Documentación oficial agentes OpenAI          | [platform.openai.com/docs/guides/agents](https://platform.openai.com/docs/guides/agents)                               | ✅ Activo  |
+| **HuggingFace-Agents-Course** | Curso oficial Hugging Face agentes IA         | [huggingface.co/learn/agents-course](https://huggingface.co/learn/agents-course)                                       | ✅ Activo  |
+| **Anthropic-Engineering**     | Página engineering Anthropic publicaciones    | [anthropic.com/engineering](https://www.anthropic.com/engineering)                                                     | ✅ Activo  |
 
 ### **IA Herramientas Especializadas**
 
@@ -898,6 +908,10 @@
 | **verdent**             | Plataforma IA para productividad                   | [verdent.ai/es](https://www.verdent.ai/es)                                                                                     | ✅ Activo  |
 | **qlib**                | Framework cuantitativo con IA                      | [github.com/microsoft/qlib](https://github.com/microsoft/qlib)                                                                 | ✅ Activo  |
 | **unsloth**             | Entrenamiento eficiente de LLMs                    | [github.com/unslothai/unsloth](https://github.com/unslothai/unsloth)                                                           | ✅ Activo  |
+| **PaddlePaddle**        | Framework IA/ML chino alternativa TensorFlow       | [github.com/paddlepaddle](https://github.com/paddlepaddle)                                                                     | ✅ Activo  |
+| **Surya**               | OCR document intelligence multimodal               | [github.com/datalab-to/surya](https://github.com/datalab-to/surya)                                                             | ✅ Activo  |
+| **Kronos**              | Framework ML time-series predictions               | [github.com/shiyu-coder/Kronos.git](https://github.com/shiyu-coder/Kronos.git)                                                 | ✅ Activo  |
+| **DeepSeek-TUI**        | Interface TUI terminal API DeepSeek                | [github.com/Hmbown/DeepSeek-TUI.git](https://github.com/Hmbown/DeepSeek-TUI.git)                                               | ✅ Activo  |
 
 ---
 
@@ -1105,6 +1119,9 @@
 | **Magic Link Pitfalls**        | Problemas y peligros de los magic links auth             | [etodd.io/2026/03/22/magic-link-pitfalls](https://etodd.io/2026/03/22/magic-link-pitfalls/)                                                            |
 | **nomore403**                  | Bypass y diagnóstico de errores 403                      | [github.com/devploit/nomore403](https://github.com/devploit/nomore403)                                                                                 |
 | **medusa**                     | Suite ofensiva para pentesting                           | [github.com/Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa)                                                                     |
+| **TruffleHog** | Scanner secretos git repositories | [github.com/trufflesecurity/trufflehog.git](https://github.com/trufflesecurity/trufflehog.git) | ✅ Activo  |
+| **Teleport** | Acceso SSH zero-trust security | [github.com/gravitational/teleport.git](https://github.com/gravitational/teleport.git) | ✅ Activo  |
+| **KeyHacks** | Validación API keys secretos scanning | [github.com/streaak/keyhacks.git](https://github.com/streaak/keyhacks.git) | ✅ Activo  |
 
 ---
 
@@ -1175,6 +1192,8 @@
 | **Commit AWS**                  | Curso AWS directo                                  | [commitacademy.io](https://www.commitacademy.io/recursos/sp-curso-aws-directo)                                                                               |
 | **Goetech Academy**             | Academia tecnología                                | [campusfad.org/goetech-academy](https://www.campusfad.org/goetech-academy/)                                                                                  |
 | **Raiola n8n**                  | Curso automatización n8n                           | [landing.raiola.link/curso-n8n](https://landing.raiola.link/curso-n8n/)                                                                                      |
+| **Palo-Alto-Cybersec** | Curso ciberseguridad gratis Palo Alto | [paloaltonetworks.es/cyberpedia/free-cybersecurity-education-course](https://www.paloaltonetworks.es/cyberpedia/free-cybersecurity-education-course) | ✅ Activo  |
+| **ML-Interview** | Preparación entrevistas machine learning | [github.com/khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) | ✅ Activo  |
 | **HTML.com**                    | Aprende la estructura de la web                    | [html.com](https://html.com)                                                                                                                                 |
 | **JavaScript.info**             | Lenguaje interactivo de la web                     | [javascript.info](https://javascript.info)                                                                                                                   |
 | **TypeScriptLang**              | JavaScript con tipado estático                     | [typescriptlang.org](https://www.typescriptlang.org/docs)                                                                                                    |
@@ -1242,6 +1261,13 @@
 | **PostgreSQL Tutorial**        | Tutorial completo Postgres                        | [github.com/postgresql-tutorial/postgresql-tutorial](https://github.com/postgresql-tutorial/postgresql-tutorial)                                                                                                 |
 | **Matt Pocock Skills**         | Skills interactivos TypeScript de Matt Pocock     | [github.com/mattpocock/skills](https://github.com/mattpocock/skills)                                                                                                                                             |
 | **Arquitectura Frontend 2026** | Guía completa patrones arquitectura frontend 2026 | [dev.to/sizan_mahmud0_e7c3fd0cb68/the-complete-guide-to-frontend-architecture-patterns-in-2026-3ioo](https://dev.to/sizan_mahmud0_e7c3fd0cb68/the-complete-guide-to-frontend-architecture-patterns-in-2026-3ioo) |
+| **Build-LLM-From-Scratch**   | Libro Manning construir LLM desde cero  | [manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) | ✅ Activo  |
+| **O-Reilly-LLM-Engineering** | Libro O'Reilly ingeniería LLMs          | [oreilly.com/library/view/llm-engineering/9781098167298/](https://www.oreilly.com/library/view/llm-engineering/9781098167298/) | ✅ Activo  |
+| **O-Reilly-AI-Engineering**  | Libro O'Reilly ingeniería IA producción | [oreilly.com/library/view/ai-engineering/9781098166291/](https://www.oreilly.com/library/view/ai-engineering/9781098166291/) | ✅ Activo  |
+| **ArXiv-2210.03629**         | Paper investigación IA                  | [arxiv.org/abs/2210.03629](https://arxiv.org/abs/2210.03629) | ✅ Activo  |
+| **ArXiv-2302.04761**         | Paper investigación IA                  | [arxiv.org/abs/2302.04761](https://arxiv.org/abs/2302.04761) | ✅ Activo  |
+| **ArXiv-2304.03442**         | Paper investigación IA                  | [arxiv.org/abs/2304.03442](https://arxiv.org/abs/2304.03442) | ✅ Activo  |
+| **System-Design-Notes**      | Notas diseño sistemas arquitectura      | [github.com/liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | ✅ Activo  |
 | **Algorithms-Illinois**        | Libro algoritmos U. Illinois gratis               | [jeffe.cs.illinois.edu/teaching/algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/)                                                                                                                  |
 | **MIT 6.042 Math CS**          | Curso matemáticas computación MIT                 | [courses.csail.mit.edu/6.042/spring18/mcs.html](https://courses.csail.mit.edu/6.042/spring18/mcs.html)                                                                                                           |
 | **NYU ML Foundation**          | Libro académico Machine Learning completo         | [cs.nyu.edu/~mohri/mlbook/](https://cs.nyu.edu/~mohri/mlbook/)                                                                                                                                                   |
@@ -1280,6 +1306,12 @@
 | **Enrique Rocha**         | Instagram Claude                  | [instagram.com/soyenriquerocha](https://www.instagram.com/soyenriquerocha)         |
 | **NetNinja**              | Varios tutoriales interesantes    | [youtube.com/@NetNinja](https://www.youtube.com/@NetNinja)                         |
 | **VS Code**               | Varios VS Code                    | [youtube.com/@code](https://www.youtube.com/@code)                                 |
+| **YouTube Video 1** | Video educativo seleccionado | [youtube.com/watch?v=zjkBMFhNj_g](https://www.youtube.com/watch?v=zjkBMFhNj_g) | ✅ Activo  |
+| **YouTube Video 2** | Video educativo seleccionado | [youtube.com/watch?v=9vM4p9NN0Ts](https://www.youtube.com/watch?v=9vM4p9NN0Ts) | ✅ Activo  |
+| **YouTube Video 3** | Video educativo seleccionado | [youtube.com/watch?v=kJLiOGIe3Lw](https://www.youtube.com/watch?v=kJLiOGIe3Lw) | ✅ Activo  |
+| **YouTube Video 4** | Video educativo seleccionado | [youtube.com/watch?v=d5ElIXhbcfA](https://www.youtube.com/watch?v=d5ElIXhbcfA) | ✅ Activo  |
+| **YouTube Video 5** | Video educativo seleccionado | [youtube.com/watch?v=D7_ipDqhtwk](https://www.youtube.com/watch?v=D7_ipDqhtwk) | ✅ Activo  |
+| **YouTube Video 6** | Video educativo seleccionado | [youtube.com/watch?v=kQmXtrmQ5Zg](https://www.youtube.com/watch?v=kQmXtrmQ5Zg) | ✅ Activo  |
 | **Jelou AI**              | Canal YouTube oficial de Jelou AI | [youtube.com/@jelouai](https://www.youtube.com/@jelouai)                           |
 
 ### **Aprendizaje de Inglés**
@@ -1432,6 +1464,7 @@
 | **XML Comparator**    | Comparador XML online gratuito       | [xmlcomparator.xyz](https://www.xmlcomparator.xyz/)                                                                                                                       |
 | **Testing OpenGraph** | Testear OpenGraph desde CLI          | [simonhartcher.com/posts/2026-04-15-testing-opengraph-on-localhost-from-the-cli](https://simonhartcher.com/posts/2026-04-15-testing-opengraph-on-localhost-from-the-cli/) |
 | **Bearnie Dev**       | Recursos y herramientas dev          | [bearnie.dev](https://bearnie.dev/)                                                                                                                                       |
+| **JsonCrack** | Visualizador JSON estructuras datos | [github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | ✅ Activo  |
 
 ### **📰 Recursos Generales** _(Nueva subcategoría)_
 
@@ -1594,8 +1627,9 @@
 
 | **Versión** | **Fecha**  | **Links Totales** | **Links Añadidos** | **Descripción**                                                                                                                                                                                                                                                                                                                                                                               |
 | ----------- | ---------- | ----------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **v5**      | 14/05/2026 | 1170              | 5                  | Añadidos 5 enlaces: Educación(1), IA(2), Dev(2)                                                                                                                                                                                                                                                                                                                                               |
+| **v7**      | 14/05/2026 | 1207              | 35                 | Integración 35 enlaces: IA(16), Educación(15), Seguridad(3), Desarrollo(1)                                                                                                                                                                                                                                                                                                                    |
 | **v6**      | 14/05/2026 | 1172              | 2                  | Añadidos 2 enlaces: Bases de Datos(1), IA China(1)                                                                                                                                                                                                                                                                                                                                            |
+| **v5**      | 14/05/2026 | 1170              | 5                  | Añadidos 5 enlaces: Educación(1), IA(2), Dev(2)                                                                                                                                                                                                                                                                                                                                               |
 | **v1**      | 02/05/2026 | ~992              | ~42                | Integración `añadir_links_01052026.md`: UI (TweakCN, GlitchCN, GridCN, Tripled UI, Shadcn Design), IDE (Zed), IA (Hyperframes, ElevenLabs UI, Jelou, Hermes Agent, CodeDesign, Open Codesign, Gemini Cookbook, BugBunny, LogoCreator, NVIDIA Build, AI Knowledge Graph), DB (PGRX), Educación (Clone Wars, Matt Pocock, Arquitectura 2026), Utilidades (Hacker News), Seguridad (Hetty) y más |
 | **v2**      | 05/05/2026 | ~1001             | 9                  | Añadidos 9 enlaces: IA (4), Seguridad (2), Diseño (1), Educación (1), Utilidades (1)                                                                                                                                                                                                                                                                                                          |
 | **v3**      | 07/05/2026 | ~1100             | ~80                | Integración `link_nuevos.md`: Diseño (14), Dev (21), IA (3), Educación (9), DB (2), Git (1), DNS (1), Email (1), Search (2), Video/Image (4), CMS (2), Utilidades (14), Seguridad (1), Cloud (1), Testing (1) + correcciones                                                                                                                                                                  |
@@ -1606,7 +1640,7 @@
 ### 🌳 Estructura de Categorías
 
 ```
-📚 Knowledge Base (~1166 recursos)
+📚 Knowledge Base (~1207 recursos)
 ├── ☁️  Cloud & Hosting (~19)
 │   ├── Proveedores Cloud Gratuitos (7)
 │   ├── Hosting & Deploy (7)
@@ -1627,7 +1661,7 @@
 │   ├── Color & Diseño Visual (10)
 │   ├── Plantillas & Templates (20)
 │   ├── Referencias CSS/HTML (12)
-├── 💻 Desarrollo & IDE (~106)
+├── 💻 Desarrollo & IDE (~107)
 │   ├── Frameworks & Librerías (31)
 │   ├── React Stack Libraries (31)
 │   ├── IDE & Editores (9)
@@ -1637,7 +1671,7 @@
 │   ├── Managed Databases (14)
 │   ├── Herramientas Database (19)
 │   └── Datasets SQL (5)
-├── 🤖 Inteligencia Artificial (~256)
+├── 🤖 Inteligencia Artificial (~272)
 │   ├── Asistentes IA Generales (10)
 │   ├── IA para Desarrollo (17)
 │   ├── 🇨🇳 IA China (13)
@@ -1664,10 +1698,10 @@
 │   ├── DNS Providers (4)
 │   ├── Domain Management (3)
 │   └── Hosting Alternativo (2)
-├── 🔐 Seguridad & VPN (~25)
+├── 🔐 Seguridad & VPN (~28)
 │   ├── VPN (5)
 │   └── Seguridad & Auth (20)
-├── 📚 Educación & Aprendizaje (~142)
+├── 📚 Educación & Aprendizaje (~157)
 │   ├── Cursos Programación (68)
 │   ├── Libros & Documentación (28)
 │   ├── Canales YouTube (30)
@@ -1680,7 +1714,7 @@
 │   ├── Tutoriales Web (1)
 │   ├── Referencias JavaScript (3)
 │   └── Referencias CSS/HTML (4)
-├── 🧩 Utilidades & Herramientas (~114)
+├── 🧩 Utilidades & Herramientas (~115)
 │   ├── Productividad (18)
 │   ├── Imágenes & Placeholders (14)
 │   ├── Datos Falsos (15)
@@ -1704,3 +1738,8 @@
 │   └── Canvas & Graphics (4)
 └── 🗂️  File Storage (~9)
 ```
+
+
+
+
+

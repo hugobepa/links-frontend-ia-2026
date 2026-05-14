@@ -3,7 +3,7 @@
     "id": "utilities",
     "name": "Utilities",
     "slug": "utilities",
-    "resourceCount": 53,
+    "resourceCount": 54,
     "status": "active"
   },
   "subcategories": [
@@ -28,7 +28,7 @@
       "name": "Productivity",
       "slug": "productivity",
       "category": "utilities",
-      "resourceCount": 24,
+      "resourceCount": 25,
       "status": "active"
     }
   ],
@@ -898,6 +898,43 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "jsoncrack",
+      "name": "JsonCrack",
+      "slug": "jsoncrack",
+      "description": "Visualizador de estructuras JSON",
+      "url": "https://github.com/AykutSarac/jsoncrack.com",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "json",
+        "visualizer",
+        "open-source",
+        "github"
+      ],
+      "searchIndex": [
+        "JsonCrack",
+        "jsoncrack",
+        "Visualizador de estructuras JSON",
+        "utilities",
+        "productivity",
+        "utilities",
+        "json",
+        "visualizer",
+        "open-source",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
       "verified": true,
       "noCreditCard": false
     },

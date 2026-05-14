@@ -85,3 +85,89 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 - `src/data` and `src/interfaces` are organized to support all current project categories.
 - This layout separates working data, TypeScript types, and site views without relying directly on `preproyecto/`.
 - Recent UX changes (for example, desktop-only internal scroll in the category sidebar, search pagination with `Visit web` action, and removal of the `Paid` filter button) do not change JSON/TS contracts or the `src/data` and `src/interfaces` structure.
+
+---
+
+## ES - Actualizacion v7 (14/05/2026)
+
+- Fuente procesada: `preproyecto/links-insertados.md`.
+- Candidatos: 35 URLs.
+- Duplicados detectados y omitidos en insercion: 3 (`AI-Agents-Beginners`, `Hands-On-LLM`, `DeepSeek-TUI`).
+- Altas nuevas en `src/data`: 32.
+- Verificacion final: los 35 enlaces del lote existen en el dataset global (32 nuevos + 3 ya existentes).
+
+### Cambios aplicados
+
+| Dataset                                   | Antes | Nuevos | Total |
+| ----------------------------------------- | ----- | ------ | ----- |
+| `ia_asistentes-desarrollo-china-imagen_1` | 38    | +12    | 50    |
+| `dns_seguridad_educacion`                 | 190   | +18    | 208   |
+| `utilidades_1`                            | 53    | +1     | 54    |
+| `diseno-ui-ux_desarrollo_ide`             | 423   | +1     | 424   |
+
+### Cobertura tecnica
+
+- Se actualizaron `*-rec.json` con recursos, `resourceCount`, `searchIndex` y metadatos.
+- Se regeneraron `*-struc.json` con `tags`, `filters`, `searchIndex.resources` y `ui.resourceCount`.
+- Se regeneraron `nombre-links.json` con nombres unicos ordenados.
+- Total actual de recursos en `src/data/dates`: **1116**.
+
+## EN - v7 Update (2026-05-14)
+
+- Processed source: `preproyecto/links-insertados.md`.
+- Candidates: 35 URLs.
+- Detected duplicates skipped for insertion: 3 (`AI-Agents-Beginners`, `Hands-On-LLM`, `DeepSeek-TUI`).
+- New inserts in `src/data`: 32.
+- Final validation: all 35 links from this batch are present globally (32 newly inserted + 3 already existing).
+
+### Technical coverage
+
+- Updated `*-rec.json` with resources, counters, and metadata.
+- Regenerated `*-struc.json` (`tags`, `filters`, `searchIndex.resources`, `ui.resourceCount`).
+- Regenerated `nombre-links.json` with sorted unique names.
+- Current total resources in `src/data/dates`: **1116**.
+
+---
+
+## LINKS
+
+| **Nombre**                    | Descripcion                      | Link                                                                                                                                                 |
+| ----------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **PaddlePaddle**              | Framework ML open source         | [github.com/paddlepaddle](https://github.com/paddlepaddle)                                                                                           |
+| **Surya**                     | OCR multimodal para documentos   | [github.com/datalab-to/surya](https://github.com/datalab-to/surya)                                                                                   |
+| **Kronos**                    | ML para series temporales        | [github.com/shiyu-coder/Kronos.git](https://github.com/shiyu-coder/Kronos.git)                                                                       |
+| **Chandra**                   | Framework IA para analisis       | [github.com/datalab-to/chandra](https://github.com/datalab-to/chandra)                                                                               |
+| **Kaggle-Whitepaper-Agent**   | Agente Kaggle para papers        | [kaggle.com/whitepaper-agent](https://www.kaggle.com/whitepaper-agent)                                                                               |
+| **Prompt-Engineering-Guide**  | Guia de prompt engineering       | [github.com/dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)                                                   |
+| **Made-With-ML**              | Plataforma ML en produccion      | [madewithml.com](https://madewithml.com)                                                                                                             |
+| **LLM-Course**                | Curso completo de LLM            | [github.com/mlabonne/llm-course](https://github.com/mlabonne/llm-course)                                                                             |
+| **Anthropic-Agents-Guide**    | Guia oficial de agentes          | [anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents)                               |
+| **OpenAI-Agents-Docs**        | Docs oficiales agentes OpenAI    | [platform.openai.com/docs/guides/agents](https://platform.openai.com/docs/guides/agents)                                                             |
+| **HuggingFace-Agents-Course** | Curso agentes de Hugging Face    | [huggingface.co/learn/agents-course](https://huggingface.co/learn/agents-course)                                                                     |
+| **Anthropic-Engineering**     | Publicaciones engineering IA     | [anthropic.com/engineering](https://www.anthropic.com/engineering)                                                                                   |
+| **Palo-Alto-Cybersec**        | Curso gratis de ciberseguridad   | [paloaltonetworks.es/cyberpedia/free-cybersecurity-education-course](https://www.paloaltonetworks.es/cyberpedia/free-cybersecurity-education-course) |
+| **ML-Interview**              | Preparacion entrevistas ML       | [github.com/khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview)                                             |
+| **Build-LLM-From-Scratch**    | Libro para construir LLM         | [manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)               |
+| **O-Reilly-LLM-Engineering**  | Libro de LLM engineering         | [oreilly.com/library/view/llm-engineering/9781098167298/](https://www.oreilly.com/library/view/llm-engineering/9781098167298/)                       |
+| **O-Reilly-AI-Engineering**   | Libro de AI engineering          | [oreilly.com/library/view/ai-engineering/9781098166291/](https://www.oreilly.com/library/view/ai-engineering/9781098166291/)                         |
+| **ArXiv-2210.03629**          | Paper de investigacion IA        | [arxiv.org/abs/2210.03629](https://arxiv.org/abs/2210.03629)                                                                                         |
+| **ArXiv-2302.04761**          | Paper tecnico de modelos IA      | [arxiv.org/abs/2302.04761](https://arxiv.org/abs/2302.04761)                                                                                         |
+| **ArXiv-2304.03442**          | Paper avanzado de IA             | [arxiv.org/abs/2304.03442](https://arxiv.org/abs/2304.03442)                                                                                         |
+| **System-Design-Notes**       | Notas de system design           | [github.com/liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)                                                         |
+| **YouTube Video 1**           | Video tecnico recomendado        | [youtube.com/watch?v=zjkBMFhNj_g](https://www.youtube.com/watch?v=zjkBMFhNj_g)                                                                       |
+| **YouTube Video 2**           | Video tecnico recomendado        | [youtube.com/watch?v=9vM4p9NN0Ts](https://www.youtube.com/watch?v=9vM4p9NN0Ts)                                                                       |
+| **YouTube Video 3**           | Video tecnico recomendado        | [youtube.com/watch?v=kJLiOGIe3Lw](https://www.youtube.com/watch?v=kJLiOGIe3Lw)                                                                       |
+| **YouTube Video 4**           | Video tecnico recomendado        | [youtube.com/watch?v=d5ElIXhbcfA](https://www.youtube.com/watch?v=d5ElIXhbcfA)                                                                       |
+| **YouTube Video 5**           | Video tecnico recomendado        | [youtube.com/watch?v=D7_ipDqhtwk](https://www.youtube.com/watch?v=D7_ipDqhtwk)                                                                       |
+| **YouTube Video 6**           | Video tecnico recomendado        | [youtube.com/watch?v=kQmXtrmQ5Zg](https://www.youtube.com/watch?v=kQmXtrmQ5Zg)                                                                       |
+| **TruffleHog**                | Scanner de secretos Git          | [github.com/trufflesecurity/trufflehog.git](https://github.com/trufflesecurity/trufflehog.git)                                                       |
+| **Teleport**                  | Acceso SSH zero-trust            | [github.com/gravitational/teleport.git](https://github.com/gravitational/teleport.git)                                                               |
+| **KeyHacks**                  | Validacion de API keys           | [github.com/streaak/keyhacks.git](https://github.com/streaak/keyhacks.git)                                                                           |
+| **JsonCrack**                 | Visualizador de estructuras JSON | [github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)                                                                   |
+| **Gstack**                    | Stack fullstack moderna          | [github.com/garrytan/gstack](https://github.com/garrytan/gstack)                                                                                     |
+
+## VERSIONS
+
+| _Version_ | **Fase**   | Descripcion ES                 | Descripcion EN               | Hora Madrid        |
+| --------- | ---------- | ------------------------------ | ---------------------------- | ------------------ |
+| _7_       | **Fase 4** | Insercion y sync de 35 enlaces | Inserted and synced 35 links | 23:07 - 14/05/2026 |

@@ -11,7 +11,7 @@
       "id": "development",
       "name": "Development",
       "slug": "development",
-      "resourceCount": 295,
+      "resourceCount": 296,
       "status": "active"
     }
   ],
@@ -53,7 +53,7 @@
       "name": "Frameworks",
       "slug": "frameworks",
       "category": "development",
-      "resourceCount": 11,
+      "resourceCount": 12,
       "status": "active"
     },
     {
@@ -114,330 +114,6 @@
     }
   ],
   "resources": [
-    {
-      "id": "clerk",
-      "name": "@clerk/clerk-react",
-      "slug": "clerk-clerk-react",
-      "description": "Auth + gestión de usuarios, DX excelent",
-      "url": "https://clerk.com",
-      "status": "active",
-      "tags": [
-        "auth",
-        "users",
-        "dx",
-        "react"
-      ],
-      "searchIndex": [
-        "@clerk/clerk-react",
-        "clerk-clerk-react",
-        "Auth + gestión de usuarios, DX excelente",
-        "development",
-        "react-stack",
-        "auth",
-        "users",
-        "dx",
-        "react"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "lemonsqueezy-react",
-      "name": "@lemonsqueezy/lemonsqueezy.js",
-      "slug": "lemonsqueezy-lemonsqueezy-js",
-      "description": "Checkout + licencias + suscripciones",
-      "url": "https://lemonsqueezy.com",
-      "status": "active",
-      "tags": [
-        "payments",
-        "licenses",
-        "subscriptions",
-        "checkout"
-      ],
-      "searchIndex": [
-        "@lemonsqueezy/lemonsqueezy.js",
-        "lemonsqueezy-lemonsqueezy-js",
-        "Checkout + licencias + suscripciones",
-        "development",
-        "react-stack",
-        "payments",
-        "licenses",
-        "subscriptions",
-        "checkout"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "mui-data-grid",
-      "name": "@mui/x-data-grid",
-      "slug": "mui-x-data-grid",
-      "description": "DataGrid optimizado, integrado con MUI",
-      "url": "https://mui.com/x/react-data-grid/",
-      "status": "active",
-      "tags": [
-        "tables",
-        "mui",
-        "datagrid",
-        "optimized"
-      ],
-      "searchIndex": [
-        "@mui/x-data-grid",
-        "mui-x-data-grid",
-        "DataGrid optimizado, integrado con MUI",
-        "development",
-        "react-stack",
-        "tables",
-        "mui",
-        "datagrid",
-        "optimized"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "paypal-react",
-      "name": "@paypal/react-paypal-js",
-      "slug": "paypal-react-paypal-js",
-      "description": "Checkout PayPal/Venmo, SDK oficial",
-      "url": "https://www.paypal.com",
-      "status": "active",
-      "tags": [
-        "payments",
-        "paypal",
-        "checkout",
-        "react"
-      ],
-      "searchIndex": [
-        "@paypal/react-paypal-js",
-        "paypal-react-paypal-js",
-        "Checkout PayPal/Venmo, SDK oficial",
-        "development",
-        "react-stack",
-        "payments",
-        "paypal",
-        "checkout",
-        "react"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "react-pdf-renderer",
-      "name": "@react-pdf/renderer",
-      "slug": "react-pdf-renderer",
-      "description": "Genera PDFs usando componentes JSX/CSS-l",
-      "url": "https://react-pdf.org",
-      "status": "active",
-      "tags": [
-        "pdf",
-        "react",
-        "jsx",
-        "generator"
-      ],
-      "searchIndex": [
-        "@react-pdf/renderer",
-        "react-pdf-renderer",
-        "Genera PDFs usando componentes JSX/CSS-like",
-        "development",
-        "react-stack",
-        "pdf",
-        "react",
-        "jsx",
-        "generator"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "redux-toolkit",
-      "name": "@reduxjs/toolkit",
-      "slug": "reduxjs-toolkit",
-      "description": "Solución oficial de Redux, inmutabilida",
-      "url": "https://redux-toolkit.js.org",
-      "status": "active",
-      "tags": [
-        "state",
-        "redux",
-        "official",
-        "devtools"
-      ],
-      "searchIndex": [
-        "@reduxjs/toolkit",
-        "reduxjs-toolkit",
-        "Solución oficial de Redux, inmutabilidad + DevTools",
-        "development",
-        "react-stack",
-        "state",
-        "redux",
-        "official",
-        "devtools"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "stripe-react",
-      "name": "@stripe/react-stripe-js",
-      "slug": "stripe-react-stripe-js",
-      "description": "Elementos de pago seguros, SCA/3DS",
-      "url": "https://stripe.com",
-      "status": "active",
-      "tags": [
-        "payments",
-        "stripe",
-        "secure",
-        "react"
-      ],
-      "searchIndex": [
-        "@stripe/react-stripe-js",
-        "stripe-react-stripe-js",
-        "Elementos de pago seguros, SCA/3DS",
-        "development",
-        "react-stack",
-        "payments",
-        "stripe",
-        "secure",
-        "react"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "premium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "tanstack-table",
-      "name": "@tanstack/react-table",
-      "slug": "tanstack-react-table",
-      "description": "Headless, máximo control sobre UI y ló",
-      "url": "https://tanstack.com/table",
-      "status": "active",
-      "tags": [
-        "tables",
-        "headless",
-        "control",
-        "react"
-      ],
-      "searchIndex": [
-        "@tanstack/react-table",
-        "tanstack-react-table",
-        "Headless, máximo control sobre UI y lógica",
-        "development",
-        "react-stack",
-        "tables",
-        "headless",
-        "control",
-        "react"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "tanstack-virtual",
-      "name": "@tanstack/react-virtual",
-      "slug": "tanstack-react-virtual",
-      "description": "Virtualización de listas/tablas para gr",
-      "url": "https://tanstack.com/virtual",
-      "status": "active",
-      "tags": [
-        "virtualization",
-        "lists",
-        "tables",
-        "performance"
-      ],
-      "searchIndex": [
-        "@tanstack/react-virtual",
-        "tanstack-react-virtual",
-        "Virtualización de listas/tablas para grandes datasets",
-        "development",
-        "react-stack",
-        "virtualization",
-        "lists",
-        "tables",
-        "performance"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
     {
       "id": "10k-chatbot-prompts",
       "name": "10K Chatbot Prompts",
@@ -892,6 +568,41 @@
       "noCreditCard": false
     },
     {
+      "id": "ai-ml-roadmap-from-scratch",
+      "name": "AI-ML-Roadmap-from-scratch",
+      "slug": "ai-ml-roadmap-from-scratch",
+      "description": "Ruta completa de AI/ML",
+      "url": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "ai-ml-roadmap-from-scratch"
+      ],
+      "searchIndex": [
+        "AI-ML-Roadmap-from-scratch",
+        "ai-ml-roadmap-from-scratch",
+        "Ruta completa de AI/ML",
+        "development",
+        "tools",
+        "desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "ai-resources-tools",
       "name": "AI Resources & Tools",
       "slug": "ai-resources-tools",
@@ -958,41 +669,6 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "ai-ml-roadmap-from-scratch",
-      "name": "AI-ML-Roadmap-from-scratch",
-      "slug": "ai-ml-roadmap-from-scratch",
-      "description": "Ruta completa de AI/ML",
-      "url": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
-      "status": "active",
-      "tags": [
-        "development",
-        "tools",
-        "desarrollo-ide",
-        "ia-cursos-aprendizaje",
-        "ai-ml-roadmap-from-scratch"
-      ],
-      "searchIndex": [
-        "AI-ML-Roadmap-from-scratch",
-        "ai-ml-roadmap-from-scratch",
-        "Ruta completa de AI/ML",
-        "development",
-        "tools",
-        "desarrollo-ide",
-        "ia-cursos-aprendizaje"
-      ],
-      "category": "development",
-      "subcategory": "tools",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-14",
       "verified": true,
       "noCreditCard": false
     },
@@ -2577,6 +2253,40 @@
       "noCreditCard": false
     },
     {
+      "id": "claude-ads",
+      "name": "claude-ads",
+      "slug": "claude-ads",
+      "description": "Recursos Claude para desarrolladores",
+      "url": "https://github.com/AgriciDaniel/claude-ads",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "desarrollo-ide",
+        "ia-para-desarrollo",
+        "claude-ads"
+      ],
+      "searchIndex": [
+        "claude-ads",
+        "Recursos Claude para desarrolladores",
+        "development",
+        "tools",
+        "desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "claude-agents",
       "name": "Claude Agents",
       "slug": "claude-agents",
@@ -2682,40 +2392,6 @@
       "noCreditCard": false
     },
     {
-      "id": "claude-ads",
-      "name": "claude-ads",
-      "slug": "claude-ads",
-      "description": "Recursos Claude para desarrolladores",
-      "url": "https://github.com/AgriciDaniel/claude-ads",
-      "status": "active",
-      "tags": [
-        "development",
-        "tools",
-        "desarrollo-ide",
-        "ia-para-desarrollo",
-        "claude-ads"
-      ],
-      "searchIndex": [
-        "claude-ads",
-        "Recursos Claude para desarrolladores",
-        "development",
-        "tools",
-        "desarrollo-ide",
-        "ia-para-desarrollo"
-      ],
-      "category": "development",
-      "subcategory": "tools",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-14",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "claurst",
       "name": "Claurst",
       "slug": "claurst",
@@ -2747,6 +2423,42 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "clerk",
+      "name": "@clerk/clerk-react",
+      "slug": "clerk-clerk-react",
+      "description": "Auth + gestión de usuarios, DX excelent",
+      "url": "https://clerk.com",
+      "status": "active",
+      "tags": [
+        "auth",
+        "users",
+        "dx",
+        "react"
+      ],
+      "searchIndex": [
+        "@clerk/clerk-react",
+        "clerk-clerk-react",
+        "Auth + gestión de usuarios, DX excelente",
+        "development",
+        "react-stack",
+        "auth",
+        "users",
+        "dx",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
       "verified": true,
       "noCreditCard": false
     },
@@ -3839,41 +3551,6 @@
       "noCreditCard": false
     },
     {
-      "id": "deepseek-tui",
-      "name": "DeepSeek TUI",
-      "slug": "deepseek-tui",
-      "description": "Interface TUI terminal para API DeepSeek",
-      "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "status": "active",
-      "tags": [
-        "development",
-        "tools",
-        "y-desarrollo-ide",
-        "y-y-ia-china",
-        "deepseek-tui"
-      ],
-      "searchIndex": [
-        "DeepSeek TUI",
-        "deepseek-tui",
-        "Interface TUI terminal para API DeepSeek",
-        "development",
-        "tools",
-        "y-desarrollo-ide",
-        "y-y-ia-china"
-      ],
-      "category": "development",
-      "subcategory": "tools",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-11",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "deepseek-ocr",
       "name": "DeepSeek-OCR",
       "slug": "deepseek-ocr",
@@ -3905,6 +3582,41 @@
       ],
       "limits": "unknown",
       "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "deepseek-tui",
+      "name": "DeepSeek TUI",
+      "slug": "deepseek-tui",
+      "description": "Interface TUI terminal para API DeepSeek",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "y-y-ia-china",
+        "deepseek-tui"
+      ],
+      "searchIndex": [
+        "DeepSeek TUI",
+        "deepseek-tui",
+        "Interface TUI terminal para API DeepSeek",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "y-y-ia-china"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-11",
       "verified": true,
       "noCreditCard": false
     },
@@ -6399,6 +6111,43 @@
       "noCreditCard": false
     },
     {
+      "id": "gstack",
+      "name": "Gstack",
+      "slug": "gstack",
+      "description": "Stack fullstack moderna",
+      "url": "https://github.com/garrytan/gstack",
+      "status": "active",
+      "tags": [
+        "development",
+        "framework",
+        "fullstack",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Gstack",
+        "gstack",
+        "Stack fullstack moderna",
+        "development",
+        "frameworks",
+        "development",
+        "framework",
+        "fullstack",
+        "github",
+        "open-source"
+      ],
+      "category": "development",
+      "subcategory": "frameworks",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "haikei",
       "name": "Haikei",
       "slug": "haikei",
@@ -7940,6 +7689,42 @@
       "noCreditCard": false
     },
     {
+      "id": "lemonsqueezy-react",
+      "name": "@lemonsqueezy/lemonsqueezy.js",
+      "slug": "lemonsqueezy-lemonsqueezy-js",
+      "description": "Checkout + licencias + suscripciones",
+      "url": "https://lemonsqueezy.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "licenses",
+        "subscriptions",
+        "checkout"
+      ],
+      "searchIndex": [
+        "@lemonsqueezy/lemonsqueezy.js",
+        "lemonsqueezy-lemonsqueezy-js",
+        "Checkout + licencias + suscripciones",
+        "development",
+        "react-stack",
+        "payments",
+        "licenses",
+        "subscriptions",
+        "checkout"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "lessie-ai",
       "name": "Lessie AI",
       "slug": "lessie-ai",
@@ -8956,6 +8741,42 @@
       "noCreditCard": false
     },
     {
+      "id": "mui-data-grid",
+      "name": "@mui/x-data-grid",
+      "slug": "mui-x-data-grid",
+      "description": "DataGrid optimizado, integrado con MUI",
+      "url": "https://mui.com/x/react-data-grid/",
+      "status": "active",
+      "tags": [
+        "tables",
+        "mui",
+        "datagrid",
+        "optimized"
+      ],
+      "searchIndex": [
+        "@mui/x-data-grid",
+        "mui-x-data-grid",
+        "DataGrid optimizado, integrado con MUI",
+        "development",
+        "react-stack",
+        "tables",
+        "mui",
+        "datagrid",
+        "optimized"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "murph",
       "name": "Murph",
       "slug": "murph",
@@ -9766,41 +9587,6 @@
       "noCreditCard": false
     },
     {
-      "id": "open-webui",
-      "name": "Open WebUI",
-      "slug": "open-webui",
-      "description": "Interfaz web para LLMs locales",
-      "url": "https://github.com/open-webui/open-webui",
-      "status": "active",
-      "tags": [
-        "development",
-        "tools",
-        "y-desarrollo-ide",
-        "ia-agentes-automatizacia-n",
-        "open-webui"
-      ],
-      "searchIndex": [
-        "Open WebUI",
-        "open-webui",
-        "Interfaz web para LLMs locales",
-        "development",
-        "tools",
-        "y-desarrollo-ide",
-        "ia-agentes-automatizacia-n"
-      ],
-      "category": "development",
-      "subcategory": "tools",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-11",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "open-llm-vtuber",
       "name": "Open-LLM-VTuber",
       "slug": "open-llm-vtuber",
@@ -9832,6 +9618,41 @@
       ],
       "limits": "unknown",
       "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "open-webui",
+      "name": "Open WebUI",
+      "slug": "open-webui",
+      "description": "Interfaz web para LLMs locales",
+      "url": "https://github.com/open-webui/open-webui",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "open-webui"
+      ],
+      "searchIndex": [
+        "Open WebUI",
+        "open-webui",
+        "Interfaz web para LLMs locales",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-11",
       "verified": true,
       "noCreditCard": false
     },
@@ -10111,6 +9932,42 @@
       ],
       "limits": "unknown",
       "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "paypal-react",
+      "name": "@paypal/react-paypal-js",
+      "slug": "paypal-react-paypal-js",
+      "description": "Checkout PayPal/Venmo, SDK oficial",
+      "url": "https://www.paypal.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "paypal",
+        "checkout",
+        "react"
+      ],
+      "searchIndex": [
+        "@paypal/react-paypal-js",
+        "paypal-react-paypal-js",
+        "Checkout PayPal/Venmo, SDK oficial",
+        "development",
+        "react-stack",
+        "payments",
+        "paypal",
+        "checkout",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
       "verified": true,
       "noCreditCard": false
     },
@@ -11067,6 +10924,41 @@
       "noCreditCard": false
     },
     {
+      "id": "react-chartjs-2",
+      "name": "react-chartjs-2",
+      "slug": "react-chartjs-2",
+      "description": "Wrapper oficial de Chart.js",
+      "url": "https://react-chartjs-2.js.org",
+      "status": "active",
+      "tags": [
+        "charts",
+        "chartjs",
+        "wrapper",
+        "official"
+      ],
+      "searchIndex": [
+        "react-chartjs-2",
+        "Wrapper oficial de Chart.js",
+        "development",
+        "react-stack",
+        "charts",
+        "chartjs",
+        "wrapper",
+        "official"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "react-doctor",
       "name": "React Doctor",
       "slug": "react-doctor",
@@ -11103,6 +10995,40 @@
       "noCreditCard": false
     },
     {
+      "id": "react-doctor-ref",
+      "name": "react-doctor-ref",
+      "slug": "react-doctor-ref",
+      "description": "Herramienta Dev",
+      "url": "https://www.npmjs.com/package/react-doctor",
+      "status": "active",
+      "tags": [
+        "development",
+        "react-stack",
+        "desarrollo-ide",
+        "react-stack-libraries",
+        "react-doctor-ref"
+      ],
+      "searchIndex": [
+        "react-doctor-ref",
+        "Herramienta Dev",
+        "development",
+        "react-stack",
+        "desarrollo-ide",
+        "react-stack-libraries"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "react-hook-form",
       "name": "React Hook Form",
       "slug": "react-hook-form",
@@ -11125,6 +11051,41 @@
         "react",
         "performance",
         "refs"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-hot-toast",
+      "name": "react-hot-toast",
+      "slug": "react-hot-toast",
+      "description": "Ligero, API simple, muy estable",
+      "url": "https://react-hot-toast.com",
+      "status": "active",
+      "tags": [
+        "toasts",
+        "notifications",
+        "lightweight",
+        "stable"
+      ],
+      "searchIndex": [
+        "react-hot-toast",
+        "Ligero, API simple, muy estable",
+        "development",
+        "react-stack",
+        "toasts",
+        "notifications",
+        "lightweight",
+        "stable"
       ],
       "category": "development",
       "subcategory": "react-stack",
@@ -11174,96 +11135,28 @@
       "noCreditCard": false
     },
     {
-      "id": "react-chartjs-2",
-      "name": "react-chartjs-2",
-      "slug": "react-chartjs-2",
-      "description": "Wrapper oficial de Chart.js",
-      "url": "https://react-chartjs-2.js.org",
+      "id": "react-pdf-renderer",
+      "name": "@react-pdf/renderer",
+      "slug": "react-pdf-renderer",
+      "description": "Genera PDFs usando componentes JSX/CSS-l",
+      "url": "https://react-pdf.org",
       "status": "active",
       "tags": [
-        "charts",
-        "chartjs",
-        "wrapper",
-        "official"
+        "pdf",
+        "react",
+        "jsx",
+        "generator"
       ],
       "searchIndex": [
-        "react-chartjs-2",
-        "Wrapper oficial de Chart.js",
+        "@react-pdf/renderer",
+        "react-pdf-renderer",
+        "Genera PDFs usando componentes JSX/CSS-like",
         "development",
         "react-stack",
-        "charts",
-        "chartjs",
-        "wrapper",
-        "official"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "react-doctor-ref",
-      "name": "react-doctor-ref",
-      "slug": "react-doctor-ref",
-      "description": "Herramienta Dev",
-      "url": "https://www.npmjs.com/package/react-doctor",
-      "status": "active",
-      "tags": [
-        "development",
-        "react-stack",
-        "desarrollo-ide",
-        "react-stack-libraries",
-        "react-doctor-ref"
-      ],
-      "searchIndex": [
-        "react-doctor-ref",
-        "Herramienta Dev",
-        "development",
-        "react-stack",
-        "desarrollo-ide",
-        "react-stack-libraries"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-14",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "react-hot-toast",
-      "name": "react-hot-toast",
-      "slug": "react-hot-toast",
-      "description": "Ligero, API simple, muy estable",
-      "url": "https://react-hot-toast.com",
-      "status": "active",
-      "tags": [
-        "toasts",
-        "notifications",
-        "lightweight",
-        "stable"
-      ],
-      "searchIndex": [
-        "react-hot-toast",
-        "Ligero, API simple, muy estable",
-        "development",
-        "react-stack",
-        "toasts",
-        "notifications",
-        "lightweight",
-        "stable"
+        "pdf",
+        "react",
+        "jsx",
+        "generator"
       ],
       "category": "development",
       "subcategory": "react-stack",
@@ -11412,6 +11305,42 @@
       ],
       "limits": "unknown",
       "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "redux-toolkit",
+      "name": "@reduxjs/toolkit",
+      "slug": "reduxjs-toolkit",
+      "description": "Solución oficial de Redux, inmutabilida",
+      "url": "https://redux-toolkit.js.org",
+      "status": "active",
+      "tags": [
+        "state",
+        "redux",
+        "official",
+        "devtools"
+      ],
+      "searchIndex": [
+        "@reduxjs/toolkit",
+        "reduxjs-toolkit",
+        "Solución oficial de Redux, inmutabilidad + DevTools",
+        "development",
+        "react-stack",
+        "state",
+        "redux",
+        "official",
+        "devtools"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
       "verified": true,
       "noCreditCard": false
     },
@@ -12789,6 +12718,42 @@
       "noCreditCard": false
     },
     {
+      "id": "stripe-react",
+      "name": "@stripe/react-stripe-js",
+      "slug": "stripe-react-stripe-js",
+      "description": "Elementos de pago seguros, SCA/3DS",
+      "url": "https://stripe.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "stripe",
+        "secure",
+        "react"
+      ],
+      "searchIndex": [
+        "@stripe/react-stripe-js",
+        "stripe-react-stripe-js",
+        "Elementos de pago seguros, SCA/3DS",
+        "development",
+        "react-stack",
+        "payments",
+        "stripe",
+        "secure",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "suno",
       "name": "Suno",
       "slug": "suno",
@@ -13344,6 +13309,78 @@
         "cache",
         "sync",
         "pagination"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tanstack-table",
+      "name": "@tanstack/react-table",
+      "slug": "tanstack-react-table",
+      "description": "Headless, máximo control sobre UI y ló",
+      "url": "https://tanstack.com/table",
+      "status": "active",
+      "tags": [
+        "tables",
+        "headless",
+        "control",
+        "react"
+      ],
+      "searchIndex": [
+        "@tanstack/react-table",
+        "tanstack-react-table",
+        "Headless, máximo control sobre UI y lógica",
+        "development",
+        "react-stack",
+        "tables",
+        "headless",
+        "control",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tanstack-virtual",
+      "name": "@tanstack/react-virtual",
+      "slug": "tanstack-react-virtual",
+      "description": "Virtualización de listas/tablas para gr",
+      "url": "https://tanstack.com/virtual",
+      "status": "active",
+      "tags": [
+        "virtualization",
+        "lists",
+        "tables",
+        "performance"
+      ],
+      "searchIndex": [
+        "@tanstack/react-virtual",
+        "tanstack-react-virtual",
+        "Virtualización de listas/tablas para grandes datasets",
+        "development",
+        "react-stack",
+        "virtualization",
+        "lists",
+        "tables",
+        "performance"
       ],
       "category": "development",
       "subcategory": "react-stack",
@@ -14336,41 +14373,6 @@
       "noCreditCard": false
     },
     {
-      "id": "vscode",
-      "name": "VS Code",
-      "slug": "vs-code",
-      "description": "Editor de código gratuito Microsoft",
-      "url": "https://code.visualstudio.com",
-      "status": "active",
-      "tags": [
-        "ide",
-        "editor",
-        "microsoft",
-        "free"
-      ],
-      "searchIndex": [
-        "VS Code",
-        "vs-code",
-        "Editor de código gratuito Microsoft",
-        "development",
-        "ide",
-        "editor",
-        "microsoft",
-        "free"
-      ],
-      "category": "development",
-      "subcategory": "ide",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "vs-code-copilot-docs",
       "name": "VS Code Copilot Docs",
       "slug": "vs-code-copilot-docs",
@@ -14402,6 +14404,41 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "vscode",
+      "name": "VS Code",
+      "slug": "vs-code",
+      "description": "Editor de código gratuito Microsoft",
+      "url": "https://code.visualstudio.com",
+      "status": "active",
+      "tags": [
+        "ide",
+        "editor",
+        "microsoft",
+        "free"
+      ],
+      "searchIndex": [
+        "VS Code",
+        "vs-code",
+        "Editor de código gratuito Microsoft",
+        "development",
+        "ide",
+        "editor",
+        "microsoft",
+        "free"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
       "verified": true,
       "noCreditCard": false
     },

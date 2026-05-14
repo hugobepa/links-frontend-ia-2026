@@ -3,7 +3,7 @@
     "id": "ai",
     "name": "Ai",
     "slug": "ai",
-    "resourceCount": 38,
+    "resourceCount": 50,
     "status": "active"
   },
   "subcategories": [
@@ -12,7 +12,7 @@
       "name": "Assistants",
       "slug": "assistants",
       "category": "ai",
-      "resourceCount": 9,
+      "resourceCount": 14,
       "status": "active"
     },
     {
@@ -28,7 +28,7 @@
       "name": "Development",
       "slug": "development",
       "category": "ai",
-      "resourceCount": 9,
+      "resourceCount": 16,
       "status": "active"
     },
     {
@@ -110,6 +110,80 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "anthropic-agents-guide",
+      "name": "Anthropic-Agents-Guide",
+      "slug": "anthropic-agents-guide",
+      "description": "Guia oficial de agentes",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents",
+      "status": "active",
+      "tags": [
+        "ai",
+        "anthropic",
+        "agent",
+        "llm",
+        "web"
+      ],
+      "searchIndex": [
+        "Anthropic-Agents-Guide",
+        "anthropic-agents-guide",
+        "Guia oficial de agentes",
+        "ai",
+        "assistants",
+        "ai",
+        "anthropic",
+        "agent",
+        "llm",
+        "web"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "anthropic-engineering",
+      "name": "Anthropic-Engineering",
+      "slug": "anthropic-engineering",
+      "description": "Publicaciones engineering IA",
+      "url": "https://www.anthropic.com/engineering",
+      "status": "active",
+      "tags": [
+        "ai",
+        "anthropic",
+        "llm",
+        "development",
+        "web"
+      ],
+      "searchIndex": [
+        "Anthropic-Engineering",
+        "anthropic-engineering",
+        "Publicaciones engineering IA",
+        "ai",
+        "development",
+        "ai",
+        "anthropic",
+        "llm",
+        "development",
+        "web"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
       "verified": true,
       "noCreditCard": false
     },
@@ -210,6 +284,43 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "chandra",
+      "name": "Chandra",
+      "slug": "chandra",
+      "description": "Framework IA para analisis",
+      "url": "https://github.com/datalab-to/chandra",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "data",
+        "open-source",
+        "github"
+      ],
+      "searchIndex": [
+        "Chandra",
+        "chandra",
+        "Framework IA para analisis",
+        "ai",
+        "assistants",
+        "ai",
+        "agent",
+        "data",
+        "open-source",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
       "verified": true,
       "noCreditCard": false
     },
@@ -607,6 +718,43 @@
       "noCreditCard": false
     },
     {
+      "id": "huggingface-agents-course",
+      "name": "HuggingFace-Agents-Course",
+      "slug": "huggingface-agents-course",
+      "description": "Curso agentes de Hugging Face",
+      "url": "https://huggingface.co/learn/agents-course",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "llm",
+        "multimodal",
+        "web"
+      ],
+      "searchIndex": [
+        "HuggingFace-Agents-Course",
+        "huggingface-agents-course",
+        "Curso agentes de Hugging Face",
+        "ai",
+        "assistants",
+        "ai",
+        "agent",
+        "llm",
+        "multimodal",
+        "web"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "hunyuan",
       "name": "Hunyuan",
       "slug": "hunyuan",
@@ -717,6 +865,43 @@
       "noCreditCard": false
     },
     {
+      "id": "kaggle-whitepaper-agent",
+      "name": "Kaggle-Whitepaper-Agent",
+      "slug": "kaggle-whitepaper-agent",
+      "description": "Agente Kaggle para papers",
+      "url": "https://www.kaggle.com/whitepaper-agent",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "llm",
+        "data",
+        "web"
+      ],
+      "searchIndex": [
+        "Kaggle-Whitepaper-Agent",
+        "kaggle-whitepaper-agent",
+        "Agente Kaggle para papers",
+        "ai",
+        "assistants",
+        "ai",
+        "agent",
+        "llm",
+        "data",
+        "web"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "kimi",
       "name": "Kimi",
       "slug": "kimi",
@@ -785,6 +970,117 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "kronos",
+      "name": "Kronos",
+      "slug": "kronos",
+      "description": "ML para series temporales",
+      "url": "https://github.com/shiyu-coder/Kronos.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "development",
+        "open-source",
+        "github"
+      ],
+      "searchIndex": [
+        "Kronos",
+        "kronos",
+        "ML para series temporales",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "development",
+        "open-source",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "llm-course",
+      "name": "LLM-Course",
+      "slug": "llm-course",
+      "description": "Curso completo de LLM",
+      "url": "https://github.com/mlabonne/llm-course",
+      "status": "active",
+      "tags": [
+        "ai",
+        "llm",
+        "model",
+        "open-source",
+        "github"
+      ],
+      "searchIndex": [
+        "LLM-Course",
+        "llm-course",
+        "Curso completo de LLM",
+        "ai",
+        "development",
+        "ai",
+        "llm",
+        "model",
+        "open-source",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "made-with-ml",
+      "name": "Made-With-ML",
+      "slug": "made-with-ml",
+      "description": "Plataforma ML en produccion",
+      "url": "https://madewithml.com",
+      "status": "active",
+      "tags": [
+        "ai",
+        "llm",
+        "development",
+        "web",
+        "model"
+      ],
+      "searchIndex": [
+        "Made-With-ML",
+        "made-with-ml",
+        "Plataforma ML en produccion",
+        "ai",
+        "development",
+        "ai",
+        "llm",
+        "development",
+        "web",
+        "model"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
       "verified": true,
       "noCreditCard": false
     },
@@ -927,6 +1223,80 @@
       "noCreditCard": false
     },
     {
+      "id": "openai-agents-docs",
+      "name": "OpenAI-Agents-Docs",
+      "slug": "openai-agents-docs",
+      "description": "Docs oficiales agentes OpenAI",
+      "url": "https://platform.openai.com/docs/guides/agents",
+      "status": "active",
+      "tags": [
+        "ai",
+        "openai",
+        "assistant",
+        "llm",
+        "web"
+      ],
+      "searchIndex": [
+        "OpenAI-Agents-Docs",
+        "openai-agents-docs",
+        "Docs oficiales agentes OpenAI",
+        "ai",
+        "assistants",
+        "ai",
+        "openai",
+        "assistant",
+        "llm",
+        "web"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "paddlepaddle",
+      "name": "PaddlePaddle",
+      "slug": "paddlepaddle",
+      "description": "Framework ML open source",
+      "url": "https://github.com/paddlepaddle",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "development",
+        "open-source",
+        "github"
+      ],
+      "searchIndex": [
+        "PaddlePaddle",
+        "paddlepaddle",
+        "Framework ML open source",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "development",
+        "open-source",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "page-agent",
       "name": "Page Agent",
       "slug": "page-agent",
@@ -1028,6 +1398,43 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "prompt-engineering-guide",
+      "name": "Prompt-Engineering-Guide",
+      "slug": "prompt-engineering-guide",
+      "description": "Guia de prompt engineering",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "status": "active",
+      "tags": [
+        "ai",
+        "llm",
+        "development",
+        "open-source",
+        "github"
+      ],
+      "searchIndex": [
+        "Prompt-Engineering-Guide",
+        "prompt-engineering-guide",
+        "Guia de prompt engineering",
+        "ai",
+        "development",
+        "ai",
+        "llm",
+        "development",
+        "open-source",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
       "verified": true,
       "noCreditCard": false
     },
@@ -1312,6 +1719,43 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "surya",
+      "name": "Surya",
+      "slug": "surya",
+      "description": "OCR multimodal para documentos",
+      "url": "https://github.com/datalab-to/surya",
+      "status": "active",
+      "tags": [
+        "ai",
+        "multimodal",
+        "image",
+        "open-source",
+        "github"
+      ],
+      "searchIndex": [
+        "Surya",
+        "surya",
+        "OCR multimodal para documentos",
+        "ai",
+        "development",
+        "ai",
+        "multimodal",
+        "image",
+        "open-source",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-14",
       "verified": true,
       "noCreditCard": false
     },
