@@ -11,14 +11,14 @@
       "id": "education-learning",
       "name": "Education Learning",
       "slug": "education-learning",
-      "resourceCount": 174,
+      "resourceCount": 185,
       "status": "active"
     },
     {
       "id": "security-vpn",
       "name": "Security Vpn",
       "slug": "security-vpn",
-      "resourceCount": 25,
+      "resourceCount": 30,
       "status": "active"
     }
   ],
@@ -52,7 +52,7 @@
       "name": "Programming Courses",
       "slug": "programming-courses",
       "category": "education-learning",
-      "resourceCount": 174,
+      "resourceCount": 185,
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
       "name": "Security Auth",
       "slug": "security-auth",
       "category": "security-vpn",
-      "resourceCount": 14,
+      "resourceCount": 17,
       "status": "active"
     },
     {
@@ -68,7 +68,7 @@
       "name": "Vpn Services",
       "slug": "vpn-services",
       "category": "security-vpn",
-      "resourceCount": 5,
+      "resourceCount": 7,
       "status": "active"
     }
   ],
@@ -495,6 +495,43 @@
       ],
       "limits": "unknown",
       "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "anthropic-fellows-program-web",
+      "name": "Anthropic-Fellows-Program",
+      "slug": "anthropic-fellows-program-web",
+      "description": "Fellowship investigacion aplicada IA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "courses",
+        "research",
+        "programming"
+      ],
+      "searchIndex": [
+        "Anthropic-Fellows-Program",
+        "anthropic-fellows-program-web",
+        "Fellowship investigacion aplicada IA",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "courses",
+        "research",
+        "programming"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
     },
@@ -931,6 +968,43 @@
       "noCreditCard": true
     },
     {
+      "id": "biorxiv-preprint-web",
+      "name": "bioRxiv-preprint",
+      "slug": "biorxiv-preprint-web",
+      "description": "Preprint cientifico en bioRxiv",
+      "url": "https://www.biorxiv.org/content/10.110",
+      "status": "active",
+      "tags": [
+        "education",
+        "research",
+        "learning",
+        "books",
+        "course"
+      ],
+      "searchIndex": [
+        "bioRxiv-preprint",
+        "biorxiv-preprint-web",
+        "Preprint cientifico en bioRxiv",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "research",
+        "learning",
+        "books",
+        "course"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "box-shadow-vs-outline",
       "name": "Box Shadow vs Outline",
       "slug": "box-shadow-vs-outline",
@@ -1001,6 +1075,78 @@
       "added": "2026-05-14",
       "verified": true,
       "noCreditCard": false
+    },
+    {
+      "id": "csharp-microsoft",
+      "name": "C# Microsoft",
+      "slug": "c-microsoft",
+      "description": "Aprende C# con los tutoriales de Microso",
+      "url": "https://dotnet.microsoft.com/learn/csharp",
+      "status": "active",
+      "tags": [
+        "csharp",
+        "microsoft",
+        "dotnet",
+        "tutorial"
+      ],
+      "searchIndex": [
+        "C# Microsoft",
+        "c-microsoft",
+        "Aprende C# con los tutoriales de Microsoft",
+        "education-learning",
+        "programming-courses",
+        "csharp",
+        "microsoft",
+        "dotnet",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Tutoriales oficiales gratuitos",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "cplusplus",
+      "name": "C++ Tutorial",
+      "slug": "c-tutorial",
+      "description": "Tutorial completo de C++ para todos los",
+      "url": "https://cplusplus.com/doc/tutorial",
+      "status": "active",
+      "tags": [
+        "cpp",
+        "tutorial",
+        "programming",
+        "language"
+      ],
+      "searchIndex": [
+        "C++ Tutorial",
+        "c-tutorial",
+        "Tutorial completo de C++ para todos los niveles",
+        "education-learning",
+        "programming-courses",
+        "cpp",
+        "tutorial",
+        "programming",
+        "language"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Tutorial gratuito completo",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
     },
     {
       "id": "cambridge-english",
@@ -1720,42 +1866,6 @@
       "noCreditCard": false
     },
     {
-      "id": "cplusplus",
-      "name": "C++ Tutorial",
-      "slug": "c-tutorial",
-      "description": "Tutorial completo de C++ para todos los",
-      "url": "https://cplusplus.com/doc/tutorial",
-      "status": "active",
-      "tags": [
-        "cpp",
-        "tutorial",
-        "programming",
-        "language"
-      ],
-      "searchIndex": [
-        "C++ Tutorial",
-        "c-tutorial",
-        "Tutorial completo de C++ para todos los niveles",
-        "education-learning",
-        "programming-courses",
-        "cpp",
-        "tutorial",
-        "programming",
-        "language"
-      ],
-      "category": "education-learning",
-      "subcategory": "programming-courses",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Tutorial gratuito completo",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
       "id": "cryptozombies",
       "name": "CryptoZombies",
       "slug": "cryptozombies",
@@ -1828,28 +1938,27 @@
       "noCreditCard": true
     },
     {
-      "id": "csharp-microsoft",
-      "name": "C# Microsoft",
-      "slug": "c-microsoft",
-      "description": "Aprende C# con los tutoriales de Microso",
-      "url": "https://dotnet.microsoft.com/learn/csharp",
+      "id": "css-important-alternatives",
+      "name": "CSS !important Alternatives",
+      "slug": "css-important-alternatives",
+      "description": "Alternativas a la palabra clave !importa",
+      "url": "https://css-tricks.com/alternatives-to-the-important-keyword/",
       "status": "active",
       "tags": [
-        "csharp",
-        "microsoft",
-        "dotnet",
-        "tutorial"
-      ],
-      "searchIndex": [
-        "C# Microsoft",
-        "c-microsoft",
-        "Aprende C# con los tutoriales de Microsoft",
         "education-learning",
         "programming-courses",
-        "csharp",
-        "microsoft",
-        "dotnet",
-        "tutorial"
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "css-important-alternatives"
+      ],
+      "searchIndex": [
+        "CSS !important Alternatives",
+        "css-important-alternatives",
+        "Alternativas a la palabra clave !importa",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
@@ -1858,10 +1967,10 @@
         "es",
         "en"
       ],
-      "limits": "Tutoriales oficiales gratuitos",
-      "added": "2026-01-10",
+      "limits": "unknown",
+      "added": "2026-05-11",
       "verified": true,
-      "noCreditCard": true
+      "noCreditCard": false
     },
     {
       "id": "css-containment",
@@ -1881,41 +1990,6 @@
         "CSS Containment",
         "css-containment",
         "Qué es CSS containment y cómo usarlo",
-        "education-learning",
-        "programming-courses",
-        "y-s-educacia-n-aprendizaje",
-        "arta-culos-css-web"
-      ],
-      "category": "education-learning",
-      "subcategory": "programming-courses",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-11",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "css-important-alternatives",
-      "name": "CSS !important Alternatives",
-      "slug": "css-important-alternatives",
-      "description": "Alternativas a la palabra clave !importa",
-      "url": "https://css-tricks.com/alternatives-to-the-important-keyword/",
-      "status": "active",
-      "tags": [
-        "education-learning",
-        "programming-courses",
-        "y-s-educacia-n-aprendizaje",
-        "arta-culos-css-web",
-        "css-important-alternatives"
-      ],
-      "searchIndex": [
-        "CSS !important Alternatives",
-        "css-important-alternatives",
-        "Alternativas a la palabra clave !importa",
         "education-learning",
         "programming-courses",
         "y-s-educacia-n-aprendizaje",
@@ -2216,6 +2290,43 @@
       "noCreditCard": true
     },
     {
+      "id": "diagrams-gh",
+      "name": "diagrams",
+      "slug": "diagrams-gh",
+      "description": "Diagramas cientificos fisica y ML",
+      "url": "https://github.com/janosh/diagrams",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "github",
+        "open-source",
+        "books"
+      ],
+      "searchIndex": [
+        "diagrams",
+        "diagrams-gh",
+        "Diagramas cientificos fisica y ML",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "github",
+        "open-source",
+        "books"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "dipeshmalvia",
       "name": "DipeshMalvia",
       "slug": "dipeshmalvia",
@@ -2316,6 +2427,43 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "dsvpn-gh",
+      "name": "dsvpn",
+      "slug": "dsvpn-gh",
+      "description": "VPN minima y rapida en C",
+      "url": "https://github.com/jedisct1/dsvpn",
+      "status": "active",
+      "tags": [
+        "security",
+        "vpn",
+        "privacy",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "dsvpn",
+        "dsvpn-gh",
+        "VPN minima y rapida en C",
+        "security-vpn",
+        "vpn-services",
+        "security",
+        "vpn",
+        "privacy",
+        "github",
+        "open-source"
+      ],
+      "category": "security-vpn",
+      "subcategory": "vpn-services",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
     },
@@ -2893,6 +3041,43 @@
       "noCreditCard": false
     },
     {
+      "id": "geodesics-in-quantum-gravity-web",
+      "name": "Geodesics-in-Quantum-Gravity",
+      "slug": "geodesics-in-quantum-gravity-web",
+      "description": "Geodesicas cuanticas en gravedad",
+      "url": "https://arxiv.org/pdf/2510.0117",
+      "status": "active",
+      "tags": [
+        "education",
+        "research",
+        "learning",
+        "books",
+        "course"
+      ],
+      "searchIndex": [
+        "Geodesics-in-Quantum-Gravity",
+        "geodesics-in-quantum-gravity-web",
+        "Geodesicas cuanticas en gravedad",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "research",
+        "learning",
+        "books",
+        "course"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "ghostscan",
       "name": "GhostScan",
       "slug": "ghostscan",
@@ -3314,6 +3499,43 @@
       "noCreditCard": true
     },
     {
+      "id": "hla-gh",
+      "name": "HLA",
+      "slug": "hla-gh",
+      "description": "Atencion lineal de orden superior",
+      "url": "https://github.com/yifanzhang-pro/HLA",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "github",
+        "open-source",
+        "research"
+      ],
+      "searchIndex": [
+        "HLA",
+        "hla-gh",
+        "Atencion lineal de orden superior",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "github",
+        "open-source",
+        "research"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "how-to-secure-linux",
       "name": "How To Secure Linux Server",
       "slug": "how-to-secure-linux-server",
@@ -3345,42 +3567,6 @@
         "en"
       ],
       "limits": "Recurso gratuito open source",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "html-com",
-      "name": "HTML.com",
-      "slug": "html-com",
-      "description": "Aprende la estructura y fundamentos de H",
-      "url": "https://html.com",
-      "status": "active",
-      "tags": [
-        "html",
-        "web",
-        "basics",
-        "tutorial"
-      ],
-      "searchIndex": [
-        "HTML.com",
-        "html-com",
-        "Aprende la estructura y fundamentos de HTML",
-        "education-learning",
-        "programming-courses",
-        "html",
-        "web",
-        "basics",
-        "tutorial"
-      ],
-      "category": "education-learning",
-      "subcategory": "programming-courses",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "Tutorial gratuito de HTML",
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
@@ -3420,6 +3606,42 @@
       "added": "2026-04-29",
       "verified": true,
       "noCreditCard": false
+    },
+    {
+      "id": "html-com",
+      "name": "HTML.com",
+      "slug": "html-com",
+      "description": "Aprende la estructura y fundamentos de H",
+      "url": "https://html.com",
+      "status": "active",
+      "tags": [
+        "html",
+        "web",
+        "basics",
+        "tutorial"
+      ],
+      "searchIndex": [
+        "HTML.com",
+        "html-com",
+        "Aprende la estructura y fundamentos de HTML",
+        "education-learning",
+        "programming-courses",
+        "html",
+        "web",
+        "basics",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Tutorial gratuito de HTML",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
     },
     {
       "id": "ia-en-15min-yt",
@@ -4134,6 +4356,43 @@
       ],
       "limits": "unknown",
       "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "learning-theory-web",
+      "name": "Learning-Theory",
+      "slug": "learning-theory-web",
+      "description": "Libro Cambridge de learning theory",
+      "url": "https://www.cambridge.org/core/books/learning-theory/B39A58737BCA537565FDBC07014AE2B4",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "books",
+        "research",
+        "course"
+      ],
+      "searchIndex": [
+        "Learning-Theory",
+        "learning-theory-web",
+        "Libro Cambridge de learning theory",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "books",
+        "research",
+        "course"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
     },
@@ -5531,6 +5790,42 @@
       "noCreditCard": false
     },
     {
+      "id": "palo-alto-cybersecurity",
+      "name": "Palo Alto Ciberseguridad",
+      "slug": "palo-alto-ciberseguridad",
+      "description": "Cursos gratuitos de ciberseguridad enter",
+      "url": "https://www.paloaltonetworks.es/cyberpedia/free-cybersecurity-education-courses",
+      "status": "active",
+      "tags": [
+        "security",
+        "enterprise",
+        "course",
+        "free"
+      ],
+      "searchIndex": [
+        "Palo Alto Ciberseguridad",
+        "palo-alto-ciberseguridad",
+        "Cursos gratuitos de ciberseguridad enterprise",
+        "security-vpn",
+        "cybersecurity-learning",
+        "security",
+        "enterprise",
+        "course",
+        "free"
+      ],
+      "category": "security-vpn",
+      "subcategory": "cybersecurity-learning",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "Cursos gratuitos en español",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
       "id": "palo-alto-cybersec",
       "name": "Palo-Alto-Cybersec",
       "slug": "palo-alto-cybersec",
@@ -5569,40 +5864,41 @@
       "noCreditCard": false
     },
     {
-      "id": "palo-alto-cybersecurity",
-      "name": "Palo Alto Ciberseguridad",
-      "slug": "palo-alto-ciberseguridad",
-      "description": "Cursos gratuitos de ciberseguridad enter",
-      "url": "https://www.paloaltonetworks.es/cyberpedia/free-cybersecurity-education-courses",
+      "id": "pangolin-gh",
+      "name": "pangolin",
+      "slug": "pangolin-gh",
+      "description": "Red privada self-hosted segura",
+      "url": "https://github.com/fosrl/pangolin",
       "status": "active",
       "tags": [
         "security",
-        "enterprise",
-        "course",
-        "free"
+        "vpn",
+        "privacy",
+        "github",
+        "open-source"
       ],
       "searchIndex": [
-        "Palo Alto Ciberseguridad",
-        "palo-alto-ciberseguridad",
-        "Cursos gratuitos de ciberseguridad enterprise",
+        "pangolin",
+        "pangolin-gh",
+        "Red privada self-hosted segura",
         "security-vpn",
-        "cybersecurity-learning",
+        "vpn-services",
         "security",
-        "enterprise",
-        "course",
-        "free"
+        "vpn",
+        "privacy",
+        "github",
+        "open-source"
       ],
       "category": "security-vpn",
-      "subcategory": "cybersecurity-learning",
-      "pricing": "freemium",
+      "subcategory": "vpn-services",
+      "pricing": "free",
       "languages": [
-        "es",
         "en"
       ],
-      "limits": "Cursos gratuitos en español",
-      "added": "2026-01-10",
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
-      "noCreditCard": true
+      "noCreditCard": false
     },
     {
       "id": "paseto",
@@ -5677,6 +5973,43 @@
       "noCreditCard": false
     },
     {
+      "id": "pentest-ai-agents-gh",
+      "name": "pentest-ai-agents",
+      "slug": "pentest-ai-agents-gh",
+      "description": "Agentes IA para pentesting",
+      "url": "https://github.com/0xSteph/pentest-ai-agents",
+      "status": "active",
+      "tags": [
+        "security",
+        "auth",
+        "github",
+        "open-source",
+        "research"
+      ],
+      "searchIndex": [
+        "pentest-ai-agents",
+        "pentest-ai-agents-gh",
+        "Agentes IA para pentesting",
+        "security-vpn",
+        "security-auth",
+        "security",
+        "auth",
+        "github",
+        "open-source",
+        "research"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "phprightway",
       "name": "PHP The Right Way",
       "slug": "php-the-right-way",
@@ -5745,6 +6078,43 @@
       ],
       "limits": "unknown",
       "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "portmaster-gh",
+      "name": "portmaster",
+      "slug": "portmaster-gh",
+      "description": "Firewall y privacidad local",
+      "url": "https://github.com/safing/portmaster",
+      "status": "active",
+      "tags": [
+        "security",
+        "auth",
+        "privacy",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "portmaster",
+        "portmaster-gh",
+        "Firewall y privacidad local",
+        "security-vpn",
+        "security-auth",
+        "security",
+        "auth",
+        "privacy",
+        "github",
+        "open-source"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
     },
@@ -6500,6 +6870,43 @@
       "noCreditCard": false
     },
     {
+      "id": "stanford-cs-229-machine-learning-gh",
+      "name": "stanford-cs-229-machine-learning",
+      "slug": "stanford-cs-229-machine-learning-gh",
+      "description": "Apuntes y recursos Stanford CS229",
+      "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "course",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "stanford-cs-229-machine-learning",
+        "stanford-cs-229-machine-learning-gh",
+        "Apuntes y recursos Stanford CS229",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "course",
+        "github",
+        "open-source"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "startpracticing",
       "name": "StartPracticing",
       "slug": "startpracticing",
@@ -6532,6 +6939,43 @@
       ],
       "limits": "unknown",
       "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "statistics-ib-web",
+      "name": "Statistics-IB",
+      "slug": "statistics-ib-web",
+      "description": "Notas de estadistica Cambridge",
+      "url": "https://www.statslab.cam.ac.uk/~rrw1/stats/Sa4.pdf",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "course",
+        "research",
+        "books"
+      ],
+      "searchIndex": [
+        "Statistics-IB",
+        "statistics-ib-web",
+        "Notas de estadistica Cambridge",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "course",
+        "research",
+        "books"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
     },
@@ -6787,6 +7231,154 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "the-deepfakes-we-missed-web",
+      "name": "The-Deepfakes-We-Missed",
+      "slug": "the-deepfakes-we-missed-web",
+      "description": "Amenazas y deteccion deepfakes",
+      "url": "https://arxiv.org/abs/2605.12075",
+      "status": "active",
+      "tags": [
+        "education",
+        "research",
+        "learning",
+        "books",
+        "course"
+      ],
+      "searchIndex": [
+        "The-Deepfakes-We-Missed",
+        "the-deepfakes-we-missed-web",
+        "Amenazas y deteccion deepfakes",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "research",
+        "learning",
+        "books",
+        "course"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "the-impact-of-artificial-intelligence-on-human-thought-web",
+      "name": "The-Impact-of-Artificial-Intelligence-on-Human-Thought",
+      "slug": "the-impact-of-artificial-intelligence-on-human-thought-web",
+      "description": "Impacto IA en pensamiento humano",
+      "url": "https://arxiv.org/abs/2508.16628",
+      "status": "active",
+      "tags": [
+        "education",
+        "research",
+        "learning",
+        "books",
+        "course"
+      ],
+      "searchIndex": [
+        "The-Impact-of-Artificial-Intelligence-on-Human-Thought",
+        "the-impact-of-artificial-intelligence-on-human-thought-web",
+        "Impacto IA en pensamiento humano",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "research",
+        "learning",
+        "books",
+        "course"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "the-recessionary-pressures-of-generative-ai-web",
+      "name": "The-recessionary-pressures-of-generative-AI",
+      "slug": "the-recessionary-pressures-of-generative-ai-web",
+      "description": "Riesgos socioeconomicos de IA",
+      "url": "https://arxiv.org/abs/2403.17405",
+      "status": "active",
+      "tags": [
+        "education",
+        "research",
+        "learning",
+        "books",
+        "course"
+      ],
+      "searchIndex": [
+        "The-recessionary-pressures-of-generative-AI",
+        "the-recessionary-pressures-of-generative-ai-web",
+        "Riesgos socioeconomicos de IA",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "research",
+        "learning",
+        "books",
+        "course"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tpotce-gh",
+      "name": "tpotce",
+      "slug": "tpotce-gh",
+      "description": "Honeypot telco para ciberdefensa",
+      "url": "https://github.com/telekom-security/tpotce",
+      "status": "active",
+      "tags": [
+        "security",
+        "auth",
+        "github",
+        "open-source",
+        "research"
+      ],
+      "searchIndex": [
+        "tpotce",
+        "tpotce-gh",
+        "Honeypot telco para ciberdefensa",
+        "security-vpn",
+        "security-auth",
+        "security",
+        "auth",
+        "github",
+        "open-source",
+        "research"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "trufflehog",
@@ -7113,6 +7705,41 @@
       "noCreditCard": true
     },
     {
+      "id": "web-platform-libraries",
+      "name": "Web Platform & Libraries",
+      "slug": "web-platform-libraries",
+      "description": "Cómo las librerías influyen en la web",
+      "url": "https://jadjoubran.io/blog/web-platform-influenced-by-libraries",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "web-platform-libraries"
+      ],
+      "searchIndex": [
+        "Web Platform & Libraries",
+        "web-platform-libraries",
+        "Cómo las librerías influyen en la web",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "web-dev",
       "name": "Web.dev",
       "slug": "web-dev",
@@ -7147,41 +7774,6 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
-    },
-    {
-      "id": "web-platform-libraries",
-      "name": "Web Platform & Libraries",
-      "slug": "web-platform-libraries",
-      "description": "Cómo las librerías influyen en la web",
-      "url": "https://jadjoubran.io/blog/web-platform-influenced-by-libraries",
-      "status": "active",
-      "tags": [
-        "education-learning",
-        "programming-courses",
-        "y-s-educacia-n-aprendizaje",
-        "arta-culos-css-web",
-        "web-platform-libraries"
-      ],
-      "searchIndex": [
-        "Web Platform & Libraries",
-        "web-platform-libraries",
-        "Cómo las librerías influyen en la web",
-        "education-learning",
-        "programming-courses",
-        "y-s-educacia-n-aprendizaje",
-        "arta-culos-css-web"
-      ],
-      "category": "education-learning",
-      "subcategory": "programming-courses",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-11",
-      "verified": true,
-      "noCreditCard": false
     },
     {
       "id": "windscribe",

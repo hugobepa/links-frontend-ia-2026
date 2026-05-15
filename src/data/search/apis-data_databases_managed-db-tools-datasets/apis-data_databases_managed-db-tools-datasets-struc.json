@@ -16,7 +16,7 @@
       "description": "Etiqueta alternative"
     },
     "analytics": {
-      "count": 1,
+      "count": 3,
       "color": "#db2777",
       "description": "Etiqueta analytics"
     },
@@ -31,7 +31,7 @@
       "description": "Etiqueta answers"
     },
     "api": {
-      "count": 47,
+      "count": 49,
       "color": "#7c3aed",
       "description": "Etiqueta api"
     },
@@ -41,7 +41,7 @@
       "description": "Etiqueta api-mega-list"
     },
     "apis": {
-      "count": 10,
+      "count": 11,
       "color": "#ea580c",
       "description": "Etiqueta apis"
     },
@@ -171,7 +171,7 @@
       "description": "Etiqueta data"
     },
     "database": {
-      "count": 27,
+      "count": 28,
       "color": "#059669",
       "description": "Etiqueta database"
     },
@@ -316,7 +316,7 @@
       "description": "Etiqueta geolocation"
     },
     "github": {
-      "count": 3,
+      "count": 6,
       "color": "#d97706",
       "description": "Etiqueta github"
     },
@@ -566,7 +566,7 @@
       "description": "Etiqueta open-data"
     },
     "open-source": {
-      "count": 3,
+      "count": 6,
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
     },
@@ -781,7 +781,7 @@
       "description": "Etiqueta tool"
     },
     "tools": {
-      "count": 6,
+      "count": 9,
       "color": "#059669",
       "description": "Etiqueta tools"
     },
@@ -1300,6 +1300,21 @@
           "mariadb",
           "free",
           "hosting"
+        ]
+      },
+      {
+        "id": "fingerprint-suite-gh",
+        "slug": "fingerprint-suite-gh",
+        "terms": [
+          "fingerprint-suite",
+          "fingerprint-suite-gh",
+          "Fingerprinting anti-fraude bots",
+          "apis",
+          "tools",
+          "api",
+          "analytics",
+          "github",
+          "open-source"
         ]
       },
       {
@@ -2108,6 +2123,21 @@
         ]
       },
       {
+        "id": "smallpond-gh",
+        "slug": "smallpond-gh",
+        "terms": [
+          "smallpond",
+          "smallpond-gh",
+          "Framework ETL ligero DuckDB",
+          "databases",
+          "tools",
+          "database",
+          "github",
+          "open-source",
+          "analytics"
+        ]
+      },
+      {
         "id": "spacetimedb",
         "slug": "spacetimedb",
         "terms": [
@@ -2165,6 +2195,20 @@
           "postgresql",
           "auth",
           "realtime"
+        ]
+      },
+      {
+        "id": "surf-gh",
+        "slug": "surf-gh",
+        "terms": [
+          "surf",
+          "surf-gh",
+          "Cliente HTTP y toolkit API",
+          "apis",
+          "tools",
+          "api",
+          "github",
+          "open-source"
         ]
       },
       {
@@ -2450,6 +2494,6 @@
     "dataset": "apis-data_databases_managed-db-tools-datasets",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con recursos de APIs y bases de datos",
-    "resourceCount": 105
+    "resourceCount": 108
   }
 }

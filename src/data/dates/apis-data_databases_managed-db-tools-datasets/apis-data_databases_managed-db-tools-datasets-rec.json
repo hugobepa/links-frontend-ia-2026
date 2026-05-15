@@ -4,14 +4,14 @@
       "id": "apis",
       "name": "Apis",
       "slug": "apis",
-      "resourceCount": 74,
+      "resourceCount": 76,
       "status": "active"
     },
     {
       "id": "databases",
       "name": "Databases",
       "slug": "databases",
-      "resourceCount": 31,
+      "resourceCount": 32,
       "status": "active"
     }
   ],
@@ -61,7 +61,7 @@
       "name": "Tools",
       "slug": "tools",
       "category": "apis",
-      "resourceCount": 35,
+      "resourceCount": 38,
       "status": "active"
     }
   ],
@@ -1091,6 +1091,42 @@
       ],
       "limits": "10MB gratis",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "fingerprint-suite-gh",
+      "name": "fingerprint-suite",
+      "slug": "fingerprint-suite-gh",
+      "description": "Fingerprinting anti-fraude bots",
+      "url": "https://github.com/apify/fingerprint-suite",
+      "status": "active",
+      "tags": [
+        "api",
+        "tools",
+        "analytics",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "fingerprint-suite",
+        "fingerprint-suite-gh",
+        "Fingerprinting anti-fraude bots",
+        "apis",
+        "tools",
+        "api",
+        "analytics",
+        "github",
+        "open-source"
+      ],
+      "category": "apis",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
     },
@@ -3045,6 +3081,42 @@
       "noCreditCard": false
     },
     {
+      "id": "smallpond-gh",
+      "name": "smallpond",
+      "slug": "smallpond-gh",
+      "description": "Framework ETL ligero DuckDB",
+      "url": "https://github.com/deepseek-ai/smallpond",
+      "status": "active",
+      "tags": [
+        "database",
+        "tools",
+        "github",
+        "open-source",
+        "analytics"
+      ],
+      "searchIndex": [
+        "smallpond",
+        "smallpond-gh",
+        "Framework ETL ligero DuckDB",
+        "databases",
+        "tools",
+        "database",
+        "github",
+        "open-source",
+        "analytics"
+      ],
+      "category": "databases",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "spacetimedb",
       "name": "SpacetimeDB",
       "slug": "spacetimedb",
@@ -3185,6 +3257,41 @@
       ],
       "limits": "500MB + 5GB transfer",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "surf-gh",
+      "name": "surf",
+      "slug": "surf-gh",
+      "description": "Cliente HTTP y toolkit API",
+      "url": "https://github.com/enetx/surf",
+      "status": "active",
+      "tags": [
+        "api",
+        "apis",
+        "tools",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "surf",
+        "surf-gh",
+        "Cliente HTTP y toolkit API",
+        "apis",
+        "tools",
+        "api",
+        "github",
+        "open-source"
+      ],
+      "category": "apis",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
     },

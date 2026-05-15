@@ -96,7 +96,7 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 - Altas nuevas en `src/data`: 32.
 - Verificacion final: los 35 enlaces del lote existen en el dataset global (32 nuevos + 3 ya existentes).
 
-### Cambios aplicados
+### Cambios aplicados v8
 
 | Dataset                                   | Antes | Nuevos | Total |
 | ----------------------------------------- | ----- | ------ | ----- |
@@ -105,7 +105,7 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 | `utilidades_1`                            | 53    | +1     | 54    |
 | `diseno-ui-ux_desarrollo_ide`             | 423   | +1     | 424   |
 
-### Cobertura tecnica
+### Cobertura tecnica v8
 
 - Se actualizaron `*-rec.json` con recursos, `resourceCount`, `searchIndex` y metadatos.
 - Se regeneraron `*-struc.json` con `tags`, `filters`, `searchIndex.resources` y `ui.resourceCount`.
@@ -120,54 +120,131 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 - New inserts in `src/data`: 32.
 - Final validation: all 35 links from this batch are present globally (32 newly inserted + 3 already existing).
 
-### Technical coverage
+### Technical coverage v8
 
 - Updated `*-rec.json` with resources, counters, and metadata.
 - Regenerated `*-struc.json` (`tags`, `filters`, `searchIndex.resources`, `ui.resourceCount`).
 - Regenerated `nombre-links.json` with sorted unique names.
 - Current total resources in `src/data/dates`: **1116**.
 
+## ES - Actualizacion v8 (15/05/2026)
+
+- Fuente procesada: `preproyecto/links-insertados.md`.
+- Candidatos: 32 URLs.
+- Duplicados detectados y omitidos en insercion: 0.
+- Altas nuevas en `src/data`: 32.
+- Verificacion final: los 32 enlaces del lote existen en el dataset global.
+
+### Cambios aplicados
+
+| Dataset                                         | Antes | Nuevos | Total |
+| ----------------------------------------------- | ----- | ------ | ----- |
+| `apis-data_databases_managed-db-tools-datasets` | 105   | +3     | 108   |
+| `dev-ops_testing_translation`                   | 34    | +1     | 35    |
+| `ia_asistentes-desarrollo-china-imagen_1`       | 50    | +11    | 61    |
+| `dns_seguridad_educacion`                       | 208   | +16    | 224   |
+| `utilidades-2_cms`                              | 50    | +1     | 51    |
+
+### Cobertura tecnica
+
+- Se actualizaron `*-rec.json` con recursos, `resourceCount`, `searchIndex` y metadatos.
+- Se regeneraron `*-struc.json` con `tags`, `filters`, `searchIndex.entries` y `ui.resourceCount`.
+- Se regeneraron `nombre-links.json` con nombres unicos ordenados.
+- Total actual de recursos en `src/data/dates`: **1148**.
+
+## EN - v8 Update (2026-05-15)
+
+- Processed source: `preproyecto/links-insertados.md`.
+- Candidates: 32 URLs.
+- Duplicates skipped for insertion: 0.
+- New inserts in `src/data`: 32.
+- Final validation: all 32 links from this batch are present globally.
+
+### Technical coverage
+
+- Updated `*-rec.json` with resources, counters, and metadata.
+- Regenerated `*-struc.json` (`tags`, `filters`, `searchIndex.entries`, `ui.resourceCount`).
+- Regenerated `nombre-links.json` with sorted unique names.
+- Current total resources in `src/data/dates`: **1148**.
+
 ---
 
 ## LINKS
 
-| **Nombre**                    | Descripcion                      | Link                                                                                                                                                 |
-| ----------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **PaddlePaddle**              | Framework ML open source         | [github.com/paddlepaddle](https://github.com/paddlepaddle)                                                                                           |
-| **Surya**                     | OCR multimodal para documentos   | [github.com/datalab-to/surya](https://github.com/datalab-to/surya)                                                                                   |
-| **Kronos**                    | ML para series temporales        | [github.com/shiyu-coder/Kronos.git](https://github.com/shiyu-coder/Kronos.git)                                                                       |
-| **Chandra**                   | Framework IA para analisis       | [github.com/datalab-to/chandra](https://github.com/datalab-to/chandra)                                                                               |
-| **Kaggle-Whitepaper-Agent**   | Agente Kaggle para papers        | [kaggle.com/whitepaper-agent](https://www.kaggle.com/whitepaper-agent)                                                                               |
-| **Prompt-Engineering-Guide**  | Guia de prompt engineering       | [github.com/dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)                                                   |
-| **Made-With-ML**              | Plataforma ML en produccion      | [madewithml.com](https://madewithml.com)                                                                                                             |
-| **LLM-Course**                | Curso completo de LLM            | [github.com/mlabonne/llm-course](https://github.com/mlabonne/llm-course)                                                                             |
-| **Anthropic-Agents-Guide**    | Guia oficial de agentes          | [anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents)                               |
-| **OpenAI-Agents-Docs**        | Docs oficiales agentes OpenAI    | [platform.openai.com/docs/guides/agents](https://platform.openai.com/docs/guides/agents)                                                             |
-| **HuggingFace-Agents-Course** | Curso agentes de Hugging Face    | [huggingface.co/learn/agents-course](https://huggingface.co/learn/agents-course)                                                                     |
-| **Anthropic-Engineering**     | Publicaciones engineering IA     | [anthropic.com/engineering](https://www.anthropic.com/engineering)                                                                                   |
-| **Palo-Alto-Cybersec**        | Curso gratis de ciberseguridad   | [paloaltonetworks.es/cyberpedia/free-cybersecurity-education-course](https://www.paloaltonetworks.es/cyberpedia/free-cybersecurity-education-course) |
-| **ML-Interview**              | Preparacion entrevistas ML       | [github.com/khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview)                                             |
-| **Build-LLM-From-Scratch**    | Libro para construir LLM         | [manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)               |
-| **O-Reilly-LLM-Engineering**  | Libro de LLM engineering         | [oreilly.com/library/view/llm-engineering/9781098167298/](https://www.oreilly.com/library/view/llm-engineering/9781098167298/)                       |
-| **O-Reilly-AI-Engineering**   | Libro de AI engineering          | [oreilly.com/library/view/ai-engineering/9781098166291/](https://www.oreilly.com/library/view/ai-engineering/9781098166291/)                         |
-| **ArXiv-2210.03629**          | Paper de investigacion IA        | [arxiv.org/abs/2210.03629](https://arxiv.org/abs/2210.03629)                                                                                         |
-| **ArXiv-2302.04761**          | Paper tecnico de modelos IA      | [arxiv.org/abs/2302.04761](https://arxiv.org/abs/2302.04761)                                                                                         |
-| **ArXiv-2304.03442**          | Paper avanzado de IA             | [arxiv.org/abs/2304.03442](https://arxiv.org/abs/2304.03442)                                                                                         |
-| **System-Design-Notes**       | Notas de system design           | [github.com/liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)                                                         |
-| **YouTube Video 1**           | Video tecnico recomendado        | [youtube.com/watch?v=zjkBMFhNj_g](https://www.youtube.com/watch?v=zjkBMFhNj_g)                                                                       |
-| **YouTube Video 2**           | Video tecnico recomendado        | [youtube.com/watch?v=9vM4p9NN0Ts](https://www.youtube.com/watch?v=9vM4p9NN0Ts)                                                                       |
-| **YouTube Video 3**           | Video tecnico recomendado        | [youtube.com/watch?v=kJLiOGIe3Lw](https://www.youtube.com/watch?v=kJLiOGIe3Lw)                                                                       |
-| **YouTube Video 4**           | Video tecnico recomendado        | [youtube.com/watch?v=d5ElIXhbcfA](https://www.youtube.com/watch?v=d5ElIXhbcfA)                                                                       |
-| **YouTube Video 5**           | Video tecnico recomendado        | [youtube.com/watch?v=D7_ipDqhtwk](https://www.youtube.com/watch?v=D7_ipDqhtwk)                                                                       |
-| **YouTube Video 6**           | Video tecnico recomendado        | [youtube.com/watch?v=kQmXtrmQ5Zg](https://www.youtube.com/watch?v=kQmXtrmQ5Zg)                                                                       |
-| **TruffleHog**                | Scanner de secretos Git          | [github.com/trufflesecurity/trufflehog.git](https://github.com/trufflesecurity/trufflehog.git)                                                       |
-| **Teleport**                  | Acceso SSH zero-trust            | [github.com/gravitational/teleport.git](https://github.com/gravitational/teleport.git)                                                               |
-| **KeyHacks**                  | Validacion de API keys           | [github.com/streaak/keyhacks.git](https://github.com/streaak/keyhacks.git)                                                                           |
-| **JsonCrack**                 | Visualizador de estructuras JSON | [github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)                                                                   |
-| **Gstack**                    | Stack fullstack moderna          | [github.com/garrytan/gstack](https://github.com/garrytan/gstack)                                                                                     |
+<!-- markdownlint-disable MD060 -->
+
+| **Nombre**                                                 | Descripcion                          | Link                                                                                                                                                 |
+| ---------------------------------------------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **PaddlePaddle**                                           | Framework ML open source             | [github.com/paddlepaddle](https://github.com/paddlepaddle)                                                                                           |
+| **Surya**                                                  | OCR multimodal para documentos       | [github.com/datalab-to/surya](https://github.com/datalab-to/surya)                                                                                   |
+| **Kronos**                                                 | ML para series temporales            | [github.com/shiyu-coder/Kronos.git](https://github.com/shiyu-coder/Kronos.git)                                                                       |
+| **Chandra**                                                | Framework IA para analisis           | [github.com/datalab-to/chandra](https://github.com/datalab-to/chandra)                                                                               |
+| **Kaggle-Whitepaper-Agent**                                | Agente Kaggle para papers            | [kaggle.com/whitepaper-agent](https://www.kaggle.com/whitepaper-agent)                                                                               |
+| **Prompt-Engineering-Guide**                               | Guia de prompt engineering           | [github.com/dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)                                                   |
+| **Made-With-ML**                                           | Plataforma ML en produccion          | [madewithml.com](https://madewithml.com)                                                                                                             |
+| **LLM-Course**                                             | Curso completo de LLM                | [github.com/mlabonne/llm-course](https://github.com/mlabonne/llm-course)                                                                             |
+| **Anthropic-Agents-Guide**                                 | Guia oficial de agentes              | [anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents)                               |
+| **OpenAI-Agents-Docs**                                     | Docs oficiales agentes OpenAI        | [platform.openai.com/docs/guides/agents](https://platform.openai.com/docs/guides/agents)                                                             |
+| **HuggingFace-Agents-Course**                              | Curso agentes de Hugging Face        | [huggingface.co/learn/agents-course](https://huggingface.co/learn/agents-course)                                                                     |
+| **Anthropic-Engineering**                                  | Publicaciones engineering IA         | [anthropic.com/engineering](https://www.anthropic.com/engineering)                                                                                   |
+| **Palo-Alto-Cybersec**                                     | Curso gratis de ciberseguridad       | [paloaltonetworks.es/cyberpedia/free-cybersecurity-education-course](https://www.paloaltonetworks.es/cyberpedia/free-cybersecurity-education-course) |
+| **ML-Interview**                                           | Preparacion entrevistas ML           | [github.com/khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview)                                             |
+| **Build-LLM-From-Scratch**                                 | Libro para construir LLM             | [manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)               |
+| **O-Reilly-LLM-Engineering**                               | Libro de LLM engineering             | [oreilly.com/library/view/llm-engineering/9781098167298/](https://www.oreilly.com/library/view/llm-engineering/9781098167298/)                       |
+| **O-Reilly-AI-Engineering**                                | Libro de AI engineering              | [oreilly.com/library/view/ai-engineering/9781098166291/](https://www.oreilly.com/library/view/ai-engineering/9781098166291/)                         |
+| **ArXiv-2210.03629**                                       | Paper de investigacion IA            | [arxiv.org/abs/2210.03629](https://arxiv.org/abs/2210.03629)                                                                                         |
+| **ArXiv-2302.04761**                                       | Paper tecnico de modelos IA          | [arxiv.org/abs/2302.04761](https://arxiv.org/abs/2302.04761)                                                                                         |
+| **ArXiv-2304.03442**                                       | Paper avanzado de IA                 | [arxiv.org/abs/2304.03442](https://arxiv.org/abs/2304.03442)                                                                                         |
+| **System-Design-Notes**                                    | Notas de system design               | [github.com/liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)                                                         |
+| **YouTube Video 1**                                        | Video tecnico recomendado            | [youtube.com/watch?v=zjkBMFhNj_g](https://www.youtube.com/watch?v=zjkBMFhNj_g)                                                                       |
+| **YouTube Video 2**                                        | Video tecnico recomendado            | [youtube.com/watch?v=9vM4p9NN0Ts](https://www.youtube.com/watch?v=9vM4p9NN0Ts)                                                                       |
+| **YouTube Video 3**                                        | Video tecnico recomendado            | [youtube.com/watch?v=kJLiOGIe3Lw](https://www.youtube.com/watch?v=kJLiOGIe3Lw)                                                                       |
+| **YouTube Video 4**                                        | Video tecnico recomendado            | [youtube.com/watch?v=d5ElIXhbcfA](https://www.youtube.com/watch?v=d5ElIXhbcfA)                                                                       |
+| **YouTube Video 5**                                        | Video tecnico recomendado            | [youtube.com/watch?v=D7_ipDqhtwk](https://www.youtube.com/watch?v=D7_ipDqhtwk)                                                                       |
+| **YouTube Video 6**                                        | Video tecnico recomendado            | [youtube.com/watch?v=kQmXtrmQ5Zg](https://www.youtube.com/watch?v=kQmXtrmQ5Zg)                                                                       |
+| **TruffleHog**                                             | Scanner de secretos Git              | [github.com/trufflesecurity/trufflehog.git](https://github.com/trufflesecurity/trufflehog.git)                                                       |
+| **Teleport**                                               | Acceso SSH zero-trust                | [github.com/gravitational/teleport.git](https://github.com/gravitational/teleport.git)                                                               |
+| **KeyHacks**                                               | Validacion de API keys               | [github.com/streaak/keyhacks.git](https://github.com/streaak/keyhacks.git)                                                                           |
+| **JsonCrack**                                              | Visualizador de estructuras JSON     | [github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)                                                                   |
+| **Gstack**                                                 | Stack fullstack moderna              | [github.com/garrytan/gstack](https://github.com/garrytan/gstack)                                                                                     |
+| **surf**                                                   | Cliente HTTP y toolkit API           | [github.com/enetx/surf](https://github.com/enetx/surf)                                                                                               |
+| **fingerprint-suite**                                      | Fingerprinting anti-fraude bots      | [github.com/apify/fingerprint-suite](https://github.com/apify/fingerprint-suite)                                                                     |
+| **smallpond**                                              | Framework ETL ligero DuckDB          | [github.com/deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond)                                                                         |
+| **winpodx**                                                | Contenedores Linux en Windows        | [github.com/kernalix7/winpodx](https://github.com/kernalix7/winpodx)                                                                                 |
+| **CatVTON**                                                | Try-on virtual por difusion          | [github.com/Zheng-Chong/CatVTON](https://github.com/Zheng-Chong/CatVTON)                                                                             |
+| **Youtube-clipper-skill**                                  | Clips YouTube con subtitulos IA      | [github.com/op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)                                                           |
+| **ANUS**                                                   | Framework agentico open source       | [github.com/anus-dev/ANUS](https://github.com/anus-dev/ANUS)                                                                                         |
+| **Fusion**                                                 | Plataforma multiagente para IA       | [github.com/Runfusion/Fusion](https://github.com/Runfusion/Fusion)                                                                                   |
+| **claude-code-agent-farm**                                 | Orquesta agentes Claude paralelo     | [github.com/Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm)                                   |
+| **AutoTTS**                                                | Descubrimiento agentico LLM          | [github.com/zhengkid/AutoTTS](https://github.com/zhengkid/AutoTTS)                                                                                   |
+| **Interaction-Models**                                     | Colaboracion humano-IA escalable     | [thinkingmachines.ai/blog/interaction-models](https://thinkingmachines.ai/blog/interaction-models)                                                   |
+| **llm-engineer-toolkit**                                   | Coleccion curada de librerias LLM    | [github.com/KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)                                                 |
+| **Dolphin**                                                | Parser visual docs y tablas          | [github.com/bytedance/Dolphin](https://github.com/bytedance/Dolphin)                                                                                 |
+| **Hyper-Extract**                                          | Extraccion inteligente documentos    | [github.com/yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract)                                                                 |
+| **tracer**                                                 | Reduce coste LLM clasificacion       | [github.com/adrida/tracer](https://github.com/adrida/tracer)                                                                                         |
+| **stanford-cs-229-machine-learning**                       | Apuntes y recursos Stanford CS229    | [github.com/afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)                                 |
+| **Anthropic-Fellows-Program**                              | Fellowship investigacion aplicada IA | [job-boards.greenhouse.io/anthropic/jobs/5023394008](https://job-boards.greenhouse.io/anthropic/jobs/5023394008)                                     |
+| **pangolin**                                               | Red privada self-hosted segura       | [github.com/fosrl/pangolin](https://github.com/fosrl/pangolin)                                                                                       |
+| **dsvpn**                                                  | VPN minima y rapida en C             | [github.com/jedisct1/dsvpn](https://github.com/jedisct1/dsvpn)                                                                                       |
+| **tpotce**                                                 | Honeypot telco para ciberdefensa     | [github.com/telekom-security/tpotce](https://github.com/telekom-security/tpotce)                                                                     |
+| **pentest-ai-agents**                                      | Agentes IA para pentesting           | [github.com/0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents)                                                                 |
+| **portmaster**                                             | Firewall y privacidad local          | [github.com/safing/portmaster](https://github.com/safing/portmaster)                                                                                 |
+| **diagrams**                                               | Diagramas cientificos fisica y ML    | [github.com/janosh/diagrams](https://github.com/janosh/diagrams)                                                                                     |
+| **HLA**                                                    | Atencion lineal de orden superior    | [github.com/yifanzhang-pro/HLA](https://github.com/yifanzhang-pro/HLA)                                                                               |
+| **Learning-Theory**                                        | Libro Cambridge de learning theory   | [cambridge.org/learning-theory](https://www.cambridge.org/core/books/learning-theory/B39A58737BCA537565FDBC07014AE2B4)                               |
+| **Statistics-IB**                                          | Notas de estadistica Cambridge       | [statslab.cam.ac.uk/Sa4.pdf](https://www.statslab.cam.ac.uk/~rrw1/stats/Sa4.pdf)                                                                     |
+| **The-recessionary-pressures-of-generative-AI**            | Riesgos socioeconomicos de IA        | [arxiv.org/abs/2403.17405](https://arxiv.org/abs/2403.17405)                                                                                         |
+| **The-Impact-of-Artificial-Intelligence-on-Human-Thought** | Impacto IA en pensamiento humano     | [arxiv.org/abs/2508.16628](https://arxiv.org/abs/2508.16628)                                                                                         |
+| **The-Deepfakes-We-Missed**                                | Amenazas y deteccion deepfakes       | [arxiv.org/abs/2605.12075](https://arxiv.org/abs/2605.12075)                                                                                         |
+| **Geodesics-in-Quantum-Gravity**                           | Geodesicas cuanticas en gravedad     | [arxiv.org/pdf/2510.0117](https://arxiv.org/pdf/2510.0117)                                                                                           |
+| **bioRxiv-preprint**                                       | Preprint cientifico en bioRxiv       | [biorxiv.org/content/10.110](https://www.biorxiv.org/content/10.110)                                                                                 |
+| **crawl4ai**                                               | Crawl y extraccion web para LLM      | [github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)                                                                               |
+
+<!-- markdownlint-enable MD060 -->
 
 ## VERSIONS
 
 | _Version_ | **Fase**   | Descripcion ES                 | Descripcion EN               | Hora Madrid        |
 | --------- | ---------- | ------------------------------ | ---------------------------- | ------------------ |
 | _7_       | **Fase 4** | Insercion y sync de 35 enlaces | Inserted and synced 35 links | 23:07 - 14/05/2026 |
+| _8_       | **Fase 4** | Insercion y sync de 32 enlaces | Inserted and synced 32 links | 11:50 - 15/05/2026 |

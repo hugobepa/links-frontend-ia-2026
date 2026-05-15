@@ -11,7 +11,7 @@
       "id": "utilities",
       "name": "Utilities",
       "slug": "utilities",
-      "resourceCount": 41,
+      "resourceCount": 42,
       "status": "active"
     }
   ],
@@ -45,7 +45,7 @@
       "name": "Seo Scraping",
       "slug": "seo-scraping",
       "category": "utilities",
-      "resourceCount": 6,
+      "resourceCount": 7,
       "status": "active"
     }
   ],
@@ -358,6 +358,42 @@
       "added": "2026-04-27",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "crawl4ai-gh",
+      "name": "crawl4ai",
+      "slug": "crawl4ai-gh",
+      "description": "Crawl y extraccion web para LLM",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "status": "active",
+      "tags": [
+        "seo",
+        "scraping",
+        "utilities",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "crawl4ai",
+        "crawl4ai-gh",
+        "Crawl y extraccion web para LLM",
+        "utilities",
+        "seo-scraping",
+        "seo",
+        "scraping",
+        "github",
+        "open-source"
+      ],
+      "category": "utilities",
+      "subcategory": "seo-scraping",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "datagouv-mcp",

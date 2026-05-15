@@ -116,7 +116,7 @@ Actualizar y añadir links a la página `https://hugobepa.github.io/links-fronte
 <links>
 
 - [link-general](preproyecto/link-general.md)
-- [link-insertados](links-insertados.md) ← se crea antes de cada sesión; si no existe, usar `link-general`
+- [link-insertados](preproyecto/links-insertados.md) ← se crea antes de cada sesión; si no existe, usar `link-general`
 - [estructura_datos](resumen_datos.md)
 - [archivos_datos_link](src/data/dates/<categoria>/<categoria>-rec.json)
 - [archivos_busqueda](src/data/search/<categoria>/<categoria>-struc.json)

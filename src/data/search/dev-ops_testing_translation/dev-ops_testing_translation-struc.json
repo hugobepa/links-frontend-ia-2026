@@ -71,7 +71,7 @@
       "description": "Etiqueta collaboration"
     },
     "containers": {
-      "count": 3,
+      "count": 4,
       "color": "#db2777",
       "description": "Etiqueta containers"
     },
@@ -106,7 +106,7 @@
       "description": "Etiqueta development"
     },
     "devops": {
-      "count": 6,
+      "count": 7,
       "color": "#65a30d",
       "description": "Etiqueta devops"
     },
@@ -116,7 +116,7 @@
       "description": "Etiqueta devops-ci-cd"
     },
     "docker": {
-      "count": 2,
+      "count": 3,
       "color": "#dc2626",
       "description": "Etiqueta docker"
     },
@@ -166,7 +166,7 @@
       "description": "Etiqueta frontend"
     },
     "github": {
-      "count": 2,
+      "count": 3,
       "color": "#d97706",
       "description": "Etiqueta github"
     },
@@ -301,7 +301,7 @@
       "description": "Etiqueta multi-language"
     },
     "open-source": {
-      "count": 4,
+      "count": 5,
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
     },
@@ -987,6 +987,20 @@
           "fast",
           "jest-compatible"
         ]
+      },
+      {
+        "id": "winpodx-gh",
+        "slug": "winpodx-gh",
+        "terms": [
+          "winpodx",
+          "winpodx-gh",
+          "Contenedores Linux en Windows",
+          "devops",
+          "containers",
+          "docker",
+          "github",
+          "open-source"
+        ]
       }
     ]
   },
@@ -1028,6 +1042,6 @@
     "dataset": "dev-ops_testing_translation",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 34
+    "resourceCount": 35
   }
 }

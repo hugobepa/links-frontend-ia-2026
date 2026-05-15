@@ -4,7 +4,7 @@
       "id": "devops",
       "name": "Devops",
       "slug": "devops",
-      "resourceCount": 13,
+      "resourceCount": 14,
       "status": "active"
     },
     {
@@ -36,7 +36,7 @@
       "name": "Containers",
       "slug": "containers",
       "category": "devops",
-      "resourceCount": 7,
+      "resourceCount": 8,
       "status": "active"
     },
     {
@@ -1284,6 +1284,41 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "winpodx-gh",
+      "name": "winpodx",
+      "slug": "winpodx-gh",
+      "description": "Contenedores Linux en Windows",
+      "url": "https://github.com/kernalix7/winpodx",
+      "status": "active",
+      "tags": [
+        "devops",
+        "containers",
+        "docker",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "winpodx",
+        "winpodx-gh",
+        "Contenedores Linux en Windows",
+        "devops",
+        "containers",
+        "docker",
+        "github",
+        "open-source"
+      ],
+      "category": "devops",
+      "subcategory": "containers",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
     }
   ]
 }

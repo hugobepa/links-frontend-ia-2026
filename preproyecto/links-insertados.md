@@ -1,133 +1,124 @@
-# 📚 Enlaces Insertados - Versión v7 (14/05/2026)
+# Links Insertados 15/05/2026
 
-> **Solo enlaces nuevos integrados en esta actualización**  
-> **Total nuevos:** 35 | **Fecha:** 14/05/2026
-
----
-
-## 🤖 Inteligencia Artificial
-
-### **IA Herramientas Especializadas**
-
-| **Nombre**       | **Descripción**                              | **Enlace**                                                                       | **Estado** |
-| ---------------- | -------------------------------------------- | -------------------------------------------------------------------------------- | ---------- |
-| **PaddlePaddle** | Framework IA/ML chino alternativa TensorFlow | [github.com/paddlepaddle](https://github.com/paddlepaddle)                       | ✅ Activo  |
-| **Surya**        | OCR document intelligence multimodal         | [github.com/datalab-to/surya](https://github.com/datalab-to/surya)               | ✅ Activo  |
-| **Kronos**       | Framework ML time-series predictions         | [github.com/shiyu-coder/Kronos.git](https://github.com/shiyu-coder/Kronos.git)   | ✅ Activo  |
-| **DeepSeek-TUI** | Interface TUI terminal API DeepSeek          | [github.com/Hmbown/DeepSeek-TUI.git](https://github.com/Hmbown/DeepSeek-TUI.git) | ✅ Activo  |
-
-### **IA Agentes & Automatización**
-
-| **Nombre**                  | **Descripción**                  | **Enlace**                                                             | **Estado** |
-| --------------------------- | -------------------------------- | ---------------------------------------------------------------------- | ---------- |
-| **Chandra**                 | Framework análisis datos con IA  | [github.com/datalab-to/chandra](https://github.com/datalab-to/chandra) | ✅ Activo  |
-| **Kaggle-Whitepaper-Agent** | Agente IA análisis papers Kaggle | [kaggle.com/whitepaper-agent](https://www.kaggle.com/whitepaper-agent) | ✅ Activo  |
-
-### **IA Cursos & Aprendizaje**
-
-| **Nombre**                    | **Descripción**                               | **Enlace**                                                                                                             | **Estado** |
-| ----------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- |
-| **AI-Agents-Beginners**       | Microsoft curso agentes IA principiantes      | [github.com/microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)                   | ✅ Activo  |
-| **Prompt-Engineering-Guide**  | Guía ingeniería prompts para LLMs             | [github.com/dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)                     | ✅ Activo  |
-| **Hands-On-LLM**              | Curso práctico LLMs hands-on                  | [github.com/HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)   | ✅ Activo  |
-| **Made-With-ML**              | Plataforma completa ML engineering production | [madewithml.com](https://madewithml.com)                                                                               | ✅ Activo  |
-| **LLM-Course**                | Curso completo LLMs desde cero                | [github.com/mlabonne/llm-course](https://github.com/mlabonne/llm-course)                                               | ✅ Activo  |
-| **Anthropic-Agents-Guide**    | Guía oficial Anthropic agentes efectivos      | [anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents) | ✅ Activo  |
-| **OpenAI-Agents-Docs**        | Documentación oficial agentes OpenAI          | [platform.openai.com/docs/guides/agents](https://platform.openai.com/docs/guides/agents)                               | ✅ Activo  |
-| **HuggingFace-Agents-Course** | Curso oficial Hugging Face agentes IA         | [huggingface.co/learn/agents-course](https://huggingface.co/learn/agents-course)                                       | ✅ Activo  |
-| **Anthropic-Engineering**     | Página engineering Anthropic publicaciones    | [anthropic.com/engineering](https://www.anthropic.com/engineering)                                                     | ✅ Activo  |
+> Total insertados: 32
+> Base actualizada: links-general/link-general_15052026.md
 
 ---
 
-## 📚 Educación & Aprendizaje
+## 🔌 APIs & Datos
 
-### **Cursos Programación**
+### **Herramientas API**
 
-| **Nombre**             | **Descripción**                          | **Enlace**                                                                                                                                           | **Estado** |
-| ---------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| **Palo-Alto-Cybersec** | Curso ciberseguridad gratis Palo Alto    | [paloaltonetworks.es/cyberpedia/free-cybersecurity-education-course](https://www.paloaltonetworks.es/cyberpedia/free-cybersecurity-education-course) | ✅ Activo  |
-| **ML-Interview**       | Preparación entrevistas machine learning | [github.com/khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview)                                             | ✅ Activo  |
-
-### **Libros & Documentación**
-
-| **Nombre**                   | **Descripción**                         | **Enlace**                                                                                                                             | **Estado** |
-| ---------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| **Build-LLM-From-Scratch**   | Libro Manning construir LLM desde cero  | [manning.com/books/build-a-large-language-model-from-scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) | ✅ Activo  |
-| **O-Reilly-LLM-Engineering** | Libro O'Reilly ingeniería LLMs          | [oreilly.com/library/view/llm-engineering/9781098167298/](https://www.oreilly.com/library/view/llm-engineering/9781098167298/)         | ✅ Activo  |
-| **O-Reilly-AI-Engineering**  | Libro O'Reilly ingeniería IA producción | [oreilly.com/library/view/ai-engineering/9781098166291/](https://www.oreilly.com/library/view/ai-engineering/9781098166291/)           | ✅ Activo  |
-| **ArXiv-2210.03629**         | Paper investigación IA                  | [arxiv.org/abs/2210.03629](https://arxiv.org/abs/2210.03629)                                                                           | ✅ Activo  |
-| **ArXiv-2302.04761**         | Paper investigación IA                  | [arxiv.org/abs/2302.04761](https://arxiv.org/abs/2302.04761)                                                                           | ✅ Activo  |
-| **ArXiv-2304.03442**         | Paper investigación IA                  | [arxiv.org/abs/2304.03442](https://arxiv.org/abs/2304.03442)                                                                           | ✅ Activo  |
-| **System-Design-Notes**      | Notas diseño sistemas arquitectura      | [github.com/liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)                                           | ✅ Activo  |
-
-### **Canales YouTube**
-
-| **Nombre**          | **Descripción**              | **Enlace**                                                                     | **Estado** |
-| ------------------- | ---------------------------- | ------------------------------------------------------------------------------ | ---------- |
-| **YouTube Video 1** | Video educativo seleccionado | [youtube.com/watch?v=zjkBMFhNj_g](https://www.youtube.com/watch?v=zjkBMFhNj_g) | ✅ Activo  |
-| **YouTube Video 2** | Video educativo seleccionado | [youtube.com/watch?v=9vM4p9NN0Ts](https://www.youtube.com/watch?v=9vM4p9NN0Ts) | ✅ Activo  |
-| **YouTube Video 3** | Video educativo seleccionado | [youtube.com/watch?v=kJLiOGIe3Lw](https://www.youtube.com/watch?v=kJLiOGIe3Lw) | ✅ Activo  |
-| **YouTube Video 4** | Video educativo seleccionado | [youtube.com/watch?v=d5ElIXhbcfA](https://www.youtube.com/watch?v=d5ElIXhbcfA) | ✅ Activo  |
-| **YouTube Video 5** | Video educativo seleccionado | [youtube.com/watch?v=D7_ipDqhtwk](https://www.youtube.com/watch?v=D7_ipDqhtwk) | ✅ Activo  |
-| **YouTube Video 6** | Video educativo seleccionado | [youtube.com/watch?v=kQmXtrmQ5Zg](https://www.youtube.com/watch?v=kQmXtrmQ5Zg) | ✅ Activo  |
+| **Nombre**            | **Descripción**                    | **Enlace**                                                                       | **Tipo** |
+| --------------------- | ---------------------------------- | -------------------------------------------------------------------------------- | -------- |
+| **surf**              | Cliente HTTP y toolkit API moderno | [github.com/enetx/surf](https://github.com/enetx/surf)                           | Free     |
+| **fingerprint-suite** | Fingerprinting anti-fraude y bots  | [github.com/apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) | Free     |
 
 ---
 
-## 🔐 Seguridad & VPN
+## 🗄️ Bases de Datos
 
-### **Seguridad & Auth**
+### **Herramientas Database**
 
-| **Nombre**     | **Descripción**                       | **Enlace**                                                                                     | **Estado** |
-| -------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- |
-| **TruffleHog** | Scanner secretos git repositories     | [github.com/trufflesecurity/trufflehog.git](https://github.com/trufflesecurity/trufflehog.git) | ✅ Activo  |
-| **Teleport**   | Acceso SSH zero-trust security        | [github.com/gravitational/teleport.git](https://github.com/gravitational/teleport.git)         | ✅ Activo  |
-| **KeyHacks**   | Validación API keys secretos scanning | [github.com/streaak/keyhacks.git](https://github.com/streaak/keyhacks.git)                     | ✅ Activo  |
-
----
-
-## 🧩 Utilidades & Herramientas
-
-### **Herramientas Dev**
-
-| **Nombre**    | **Descripción**                     | **Enlace**                                                                         | **Estado** |
-| ------------- | ----------------------------------- | ---------------------------------------------------------------------------------- | ---------- |
-| **JsonCrack** | Visualizador JSON estructuras datos | [github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | ✅ Activo  |
+| **Nombre**    | **Descripción**                   | **Enlace**                                                                   | **Estado** |
+| ------------- | --------------------------------- | ---------------------------------------------------------------------------- | ---------- |
+| **smallpond** | Framework ETL ligero sobre DuckDB | [github.com/deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) | ✅ Activo  |
 
 ---
 
 ## 💻 Desarrollo & IDE
 
-### **Frameworks & Librerías**
+### **Herramientas Dev Varias**
 
-| **Nombre** | **Descripción**                      | **Enlace**                                                       | **Estado** |
-| ---------- | ------------------------------------ | ---------------------------------------------------------------- | ---------- |
-| **Gstack** | Stack full-stack moderna development | [github.com/garrytan/gstack](https://github.com/garrytan/gstack) | ✅ Activo  |
-
----
-
-## 📊 Resumen Estadístico
-
-| **Categoría**                     | **Nuevos** | **Notas**                      |
-| --------------------------------- | ---------- | ------------------------------ |
-| 🤖 IA Herramientas Especializadas | +4         | Frameworks ML avanzados        |
-| 🤖 IA Agentes & Automatización    | +2         | Agentes IA autónomos           |
-| 🤖 IA Cursos & Aprendizaje        | +9         | Educación agentes y LLMs       |
-| 📚 Educación Cursos               | +2         | Ciberseguridad e ML interviews |
-| 📚 Educación Libros               | +7         | Papers y referencias técnicas  |
-| 📚 Educación YouTube              | +6         | Videos educativos diversos     |
-| 🔐 Seguridad & Auth               | +3         | Herramientas scanning y acceso |
-| 🧩 Utilidades Herramientas Dev    | +1         | Visualización JSON             |
-| 💻 Desarrollo Frameworks          | +1         | Stack fullstack moderno        |
-| **TOTAL**                         | **35**     | **v7 → 1207 enlaces totales**  |
+| **Nombre**  | **Descripción**                       | **Enlace**                                                           |
+| ----------- | ------------------------------------- | -------------------------------------------------------------------- |
+| **winpodx** | Contenedores Linux ligeros en Windows | [github.com/kernalix7/winpodx](https://github.com/kernalix7/winpodx) |
 
 ---
 
-## 📝 Metadatos
+## 🤖 Inteligencia Artificial
 
-- **Fecha generación:** 14/05/2026
-- **Versión base:** v6 (1172 enlaces)
-- **Nuevos enlaces:** 35
-- **Versión nueva:** v7
-- **Total final:** 1207 enlaces
-- **Categorías afectadas:** 8
-- **Tiempo procesamiento:** Interactivo (35 decisiones de usuario)
+### **Generación de Imagen IA**
+
+| **Nombre**  | **Premium/Free** | **Descripción**                    | **Enlace**                                                               |
+| ----------- | ---------------- | ---------------------------------- | ------------------------------------------------------------------------ |
+| **CatVTON** | Free             | Try-on virtual con difusión ligera | [github.com/Zheng-Chong/CatVTON](https://github.com/Zheng-Chong/CatVTON) |
+
+### **IA Video & Audio**
+
+| **Nombre**                | **Descripción**                   | **Enlace**                                                                                 | **Estado** |
+| ------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------ | ---------- |
+| **Youtube-clipper-skill** | Clips YouTube con IA y subtítulos | [github.com/op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) | ✅ Activo  |
+
+### **IA Agentes & Automatización**
+
+| **Nombre**                 | **Descripción**                       | **Enlace**                                                                                                         | **Estado** |
+| -------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------- |
+| **ANUS**                   | Framework agéntico open source        | [github.com/anus-dev/ANUS](https://github.com/anus-dev/ANUS)                                                       | ✅ Activo  |
+| **Fusion**                 | Plataforma multiagente para flujos IA | [github.com/Runfusion/Fusion](https://github.com/Runfusion/Fusion)                                                 | ✅ Activo  |
+| **claude-code-agent-farm** | Orquesta 20+ agentes Claude paralelo  | [github.com/Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm) | ✅ Activo  |
+| **AutoTTS**                | Descubrimiento agéntico para LLMs     | [github.com/zhengkid/AutoTTS](https://github.com/zhengkid/AutoTTS)                                                 | ✅ Activo  |
+| **Interaction-Models**     | Colaboración humano-IA escalable      | [thinkingmachines.ai/blog/interaction-models](https://thinkingmachines.ai/blog/interaction-models)                 | ✅ Activo  |
+
+### **IA Cursos & Aprendizaje**
+
+| **Nombre**                           | **Descripción**                      | **Enlace**                                                                                                           | **Estado** |
+| ------------------------------------ | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ---------- |
+| **llm-engineer-toolkit**             | Colección curada de librerías LLM    | [github.com/KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)                 | ✅ Activo  |
+| **stanford-cs-229-machine-learning** | Apuntes y recursos Stanford CS229    | [github.com/afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) | ✅ Activo  |
+| **Anthropic-Fellows-Program**        | Fellowship investigación aplicada IA | [job-boards.greenhouse.io/anthropic/jobs/5023394008](https://job-boards.greenhouse.io/anthropic/jobs/5023394008)     | ✅ Activo  |
+
+### **IA Herramientas Especializadas**
+
+| **Nombre**        | **Descripción**                        | **Enlace**                                                                           | **Estado** |
+| ----------------- | -------------------------------------- | ------------------------------------------------------------------------------------ | ---------- |
+| **Dolphin**       | Parser visual para documentos y tablas | [github.com/bytedance/Dolphin](https://github.com/bytedance/Dolphin)                 | ✅ Activo  |
+| **Hyper-Extract** | Extracción inteligente de documentos   | [github.com/yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | ✅ Activo  |
+| **tracer**        | Reduce coste LLM en clasificación      | [github.com/adrida/tracer](https://github.com/adrida/tracer)                         | ✅ Activo  |
+
+---
+
+## 🔐 Seguridad & VPN
+
+### **VPN**
+
+| **Nombre**   | **Descripción**                | **Enlace**                                                     |
+| ------------ | ------------------------------ | -------------------------------------------------------------- |
+| **pangolin** | Red privada self-hosted segura | [github.com/fosrl/pangolin](https://github.com/fosrl/pangolin) |
+| **dsvpn**    | VPN mínima y rápida en C       | [github.com/jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) |
+
+### **Seguridad & Auth**
+
+| **Nombre**            | **Descripción**                     | **Enlace**                                                                           |
+| --------------------- | ----------------------------------- | ------------------------------------------------------------------------------------ |
+| **tpotce**            | Honeypot telco para ciberdefensa    | [github.com/telekom-security/tpotce](https://github.com/telekom-security/tpotce)     |
+| **pentest-ai-agents** | Agentes IA para pentesting ofensivo | [github.com/0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) |
+| **portmaster**        | Firewall y privacidad de red local  | [github.com/safing/portmaster](https://github.com/safing/portmaster)                 |
+
+---
+
+## 📚 Educación & Aprendizaje
+
+### **Libros & Documentación**
+
+| **Nombre**                                                 | **Descripción**                          | **Enlace**                                                                                                                                                             |
+| ---------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **diagrams**                                               | Diagramas científicos de física y ML     | [github.com/janosh/diagrams](https://github.com/janosh/diagrams)                                                                                                       |
+| **HLA**                                                    | Atención lineal de orden superior        | [github.com/yifanzhang-pro/HLA](https://github.com/yifanzhang-pro/HLA)                                                                                                 |
+| **Learning-Theory**                                        | Libro Cambridge teoría aprendizaje       | [www.cambridge.org/core/books/learning-theory/B39A58737BCA537565FDBC07014AE2B4](https://www.cambridge.org/core/books/learning-theory/B39A58737BCA537565FDBC07014AE2B4) |
+| **Statistics-IB**                                          | Notas curso estadística Cambridge        | [statslab.cam.ac.uk/~rrw1/stats/Sa4.pdf](https://www.statslab.cam.ac.uk/~rrw1/stats/Sa4.pdf)                                                                           |
+| **The-recessionary-pressures-of-generative-AI**            | Riesgos socioeconómicos de IA generativa | [arxiv.org/abs/2403.17405](https://arxiv.org/abs/2403.17405)                                                                                                           |
+| **The-Impact-of-Artificial-Intelligence-on-Human-Thought** | Efectos cognitivos, sociales y éticos    | [arxiv.org/abs/2508.16628](https://arxiv.org/abs/2508.16628)                                                                                                           |
+| **The-Deepfakes-We-Missed**                                | Amenazas reales y detección deepfakes    | [arxiv.org/abs/2605.12075](https://arxiv.org/abs/2605.12075)                                                                                                           |
+| **Geodesics-in-Quantum-Gravity**                           | Geodésicas cuánticas en gravedad         | [arxiv.org/pdf/2510.0117](https://arxiv.org/pdf/2510.0117)                                                                                                             |
+| **bioRxiv-preprint**                                       | Preprint científico en bioRxiv           | [biorxiv.org/content/10.110](https://www.biorxiv.org/content/10.110)                                                                                                   |
+
+---
+
+## 🧩 Utilidades & Herramientas
+
+### **🔍 SEO & Scraping**
+
+| **Nombre**   | **Descripción**                  | **Enlace**                                                             |
+| ------------ | -------------------------------- | ---------------------------------------------------------------------- |
+| **crawl4ai** | Crawl y extracción web para LLMs | [github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) |

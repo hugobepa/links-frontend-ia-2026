@@ -3,7 +3,7 @@
     "id": "ai",
     "name": "Ai",
     "slug": "ai",
-    "resourceCount": 50,
+    "resourceCount": 61,
     "status": "active"
   },
   "subcategories": [
@@ -12,7 +12,7 @@
       "name": "Assistants",
       "slug": "assistants",
       "category": "ai",
-      "resourceCount": 14,
+      "resourceCount": 18,
       "status": "active"
     },
     {
@@ -28,7 +28,7 @@
       "name": "Development",
       "slug": "development",
       "category": "ai",
-      "resourceCount": 16,
+      "resourceCount": 22,
       "status": "active"
     },
     {
@@ -36,7 +36,7 @@
       "name": "Image Generation",
       "slug": "image-generation",
       "category": "ai",
-      "resourceCount": 11,
+      "resourceCount": 12,
       "status": "active"
     }
   ],
@@ -220,6 +220,42 @@
       "noCreditCard": false
     },
     {
+      "id": "anus-gh",
+      "name": "ANUS",
+      "slug": "anus-gh",
+      "description": "Framework agentico open source",
+      "url": "https://github.com/anus-dev/ANUS",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistant",
+        "agent",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "ANUS",
+        "anus-gh",
+        "Framework agentico open source",
+        "ai",
+        "assistants",
+        "assistant",
+        "agent",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "apob-ai",
       "name": "Apob AI",
       "slug": "apob-ai",
@@ -284,6 +320,76 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "autotts-gh",
+      "name": "AutoTTS",
+      "slug": "autotts-gh",
+      "description": "Descubrimiento agentico LLM",
+      "url": "https://github.com/zhengkid/AutoTTS",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistant",
+        "agent",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "AutoTTS",
+        "autotts-gh",
+        "Descubrimiento agentico LLM",
+        "ai",
+        "assistants",
+        "assistant",
+        "agent",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "catvton-gh",
+      "name": "CatVTON",
+      "slug": "catvton-gh",
+      "description": "Try-on virtual por difusion",
+      "url": "https://github.com/Zheng-Chong/CatVTON",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "CatVTON",
+        "catvton-gh",
+        "Try-on virtual por difusion",
+        "ai",
+        "image-generation",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
     },
@@ -401,6 +507,42 @@
       "noCreditCard": false
     },
     {
+      "id": "claude-code-agent-farm-gh",
+      "name": "claude-code-agent-farm",
+      "slug": "claude-code-agent-farm-gh",
+      "description": "Orquesta agentes Claude paralelo",
+      "url": "https://github.com/Dicklesworthstone/claude_code_agent_farm",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistant",
+        "agent",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "claude-code-agent-farm",
+        "claude-code-agent-farm-gh",
+        "Orquesta agentes Claude paralelo",
+        "ai",
+        "assistants",
+        "assistant",
+        "agent",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "copilot",
       "name": "Copilot",
       "slug": "copilot",
@@ -471,6 +613,39 @@
       "noCreditCard": false
     },
     {
+      "id": "dolphin-gh",
+      "name": "Dolphin",
+      "slug": "dolphin-gh",
+      "description": "Parser visual docs y tablas",
+      "url": "https://github.com/bytedance/Dolphin",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Dolphin",
+        "dolphin-gh",
+        "Parser visual docs y tablas",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "ernie-5-0",
       "name": "Ernie 5.0",
       "slug": "ernie-5-0",
@@ -501,6 +676,42 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "fusion-gh",
+      "name": "Fusion",
+      "slug": "fusion-gh",
+      "description": "Plataforma multiagente para IA",
+      "url": "https://github.com/Runfusion/Fusion",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistant",
+        "agent",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Fusion",
+        "fusion-gh",
+        "Plataforma multiagente para IA",
+        "ai",
+        "assistants",
+        "assistant",
+        "agent",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
     },
@@ -828,6 +1039,39 @@
       "noCreditCard": false
     },
     {
+      "id": "hyper-extract-gh",
+      "name": "Hyper-Extract",
+      "slug": "hyper-extract-gh",
+      "description": "Extraccion inteligente documentos",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Hyper-Extract",
+        "hyper-extract-gh",
+        "Extraccion inteligente documentos",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "ideogram",
       "name": "Ideogram",
       "slug": "ideogram",
@@ -861,6 +1105,37 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "interaction-models-web",
+      "name": "Interaction-Models",
+      "slug": "interaction-models-web",
+      "description": "Colaboracion humano-IA escalable",
+      "url": "https://thinkingmachines.ai/blog/interaction-models",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Interaction-Models",
+        "interaction-models-web",
+        "Colaboracion humano-IA escalable",
+        "ai",
+        "development",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
     },
@@ -1044,6 +1319,39 @@
       ],
       "limits": "no-limits",
       "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "llm-engineer-toolkit-gh",
+      "name": "llm-engineer-toolkit",
+      "slug": "llm-engineer-toolkit-gh",
+      "description": "Coleccion curada de librerias LLM",
+      "url": "https://github.com/KalyanKS-NLP/llm-engineer-toolkit",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "llm-engineer-toolkit",
+        "llm-engineer-toolkit-gh",
+        "Coleccion curada de librerias LLM",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
     },
@@ -1760,6 +2068,39 @@
       "noCreditCard": false
     },
     {
+      "id": "tracer-gh",
+      "name": "tracer",
+      "slug": "tracer-gh",
+      "description": "Reduce coste LLM clasificacion",
+      "url": "https://github.com/adrida/tracer",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "tracer",
+        "tracer-gh",
+        "Reduce coste LLM clasificacion",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "wan-2-6",
       "name": "Wan 2.6",
       "slug": "wan-2-6",
@@ -1790,6 +2131,41 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-clipper-skill-gh",
+      "name": "Youtube-clipper-skill",
+      "slug": "youtube-clipper-skill-gh",
+      "description": "Clips YouTube con subtitulos IA",
+      "url": "https://github.com/op7418/Youtube-clipper-skill",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "video",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Youtube-clipper-skill",
+        "youtube-clipper-skill-gh",
+        "Clips YouTube con subtitulos IA",
+        "ai",
+        "development",
+        "video",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
     },
