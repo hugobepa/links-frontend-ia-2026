@@ -4,14 +4,14 @@
       "id": "cms",
       "name": "Cms",
       "slug": "cms",
-      "resourceCount": 9,
+      "resourceCount": 11,
       "status": "active"
     },
     {
       "id": "utilities",
       "name": "Utilities",
       "slug": "utilities",
-      "resourceCount": 42,
+      "resourceCount": 45,
       "status": "active"
     }
   ],
@@ -21,7 +21,7 @@
       "name": "Dev Tools",
       "slug": "dev-tools",
       "category": "utilities",
-      "resourceCount": 27,
+      "resourceCount": 29,
       "status": "active"
     },
     {
@@ -29,7 +29,7 @@
       "name": "General Resources",
       "slug": "general-resources",
       "category": "utilities",
-      "resourceCount": 8,
+      "resourceCount": 9,
       "status": "active"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Platforms",
       "slug": "platforms",
       "category": "cms",
-      "resourceCount": 9,
+      "resourceCount": 11,
       "status": "active"
     },
     {
@@ -1776,6 +1776,191 @@
       "added": "2026-05-11",
       "verified": true,
       "noCreditCard": false
+    },
+    {
+      "id": "jam-dev",
+      "name": "jam-dev",
+      "slug": "jam-dev",
+      "description": "Captura y reporte de bugs visuales",
+      "url": "https://jam.dev",
+      "status": "active",
+      "tags": [
+        "cms",
+        "platforms",
+        "bug-reporting",
+        "dev-tools",
+        "freemium"
+      ],
+      "searchIndex": [
+        "jam-dev",
+        "jam-dev",
+        "Captura y reporte de bugs visuales",
+        "cms",
+        "platforms",
+        "cms",
+        "platforms",
+        "bug-reporting",
+        "dev-tools",
+        "freemium"
+      ],
+      "category": "cms",
+      "subcategory": "platforms",
+      "pricing": "freemium",
+      "languages": [
+        "en"
+      ],
+      "limits": "plan gratis con limites",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "cliyerai-com",
+      "name": "cliyerai-com",
+      "slug": "cliyerai-com",
+      "description": "Herramienta IA para contenidos web",
+      "url": "https://cliyerai.com",
+      "status": "active",
+      "tags": [
+        "cms",
+        "platforms",
+        "ai",
+        "content",
+        "web"
+      ],
+      "searchIndex": [
+        "cliyerai-com",
+        "cliyerai-com",
+        "Herramienta IA para contenidos web",
+        "cms",
+        "platforms",
+        "cms",
+        "platforms",
+        "ai",
+        "content",
+        "web"
+      ],
+      "category": "cms",
+      "subcategory": "platforms",
+      "pricing": "custom",
+      "languages": [
+        "en"
+      ],
+      "limits": "depende del proveedor",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "party-in-the-permanent-underclass",
+      "name": "party-in-the-permanent-underclass",
+      "slug": "party-in-the-permanent-underclass",
+      "description": "Articulo sobre comunicacion digital",
+      "url": "https://jasmi.news/party-in-the-permanent-underclass",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "general-resources",
+        "article",
+        "media",
+        "communication"
+      ],
+      "searchIndex": [
+        "party-in-the-permanent-underclass",
+        "party-in-the-permanent-underclass",
+        "Articulo sobre comunicacion digital",
+        "utilities",
+        "general-resources",
+        "utilities",
+        "general-resources",
+        "article",
+        "media",
+        "communication"
+      ],
+      "category": "utilities",
+      "subcategory": "general-resources",
+      "pricing": "custom",
+      "languages": [
+        "en"
+      ],
+      "limits": "depende del proveedor",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "iohjgamcilhbgmhbnllfolmkmmekfmci",
+      "name": "iohjgamcilhbgmhbnllfolmkmmekfmci",
+      "slug": "iohjgamcilhbgmhbnllfolmkmmekfmci",
+      "description": "Extension Jam para capturar bugs",
+      "url": "https://chromewebstore.google.com/detail/jam/iohjgamcilhbgmhbnllfolmkmmekfmci",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "dev-tools",
+        "chrome-extension",
+        "jam",
+        "debugging"
+      ],
+      "searchIndex": [
+        "iohjgamcilhbgmhbnllfolmkmmekfmci",
+        "iohjgamcilhbgmhbnllfolmkmmekfmci",
+        "Extension Jam para capturar bugs",
+        "utilities",
+        "dev-tools",
+        "utilities",
+        "dev-tools",
+        "chrome-extension",
+        "jam",
+        "debugging"
+      ],
+      "category": "utilities",
+      "subcategory": "dev-tools",
+      "pricing": "freemium",
+      "languages": [
+        "en"
+      ],
+      "limits": "plan gratis con limites",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "fgpnklngaiahpcpjennhbcmkiahjohdk",
+      "name": "fgpnklngaiahpcpjennhbcmkiahjohdk",
+      "slug": "fgpnklngaiahpcpjennhbcmkiahjohdk",
+      "description": "Extension Shake para feedback",
+      "url": "https://chromewebstore.google.com/detail/shake/fgpnklngaiahpcpjennhbcmkiahjohdk",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "dev-tools",
+        "chrome-extension",
+        "feedback",
+        "testing"
+      ],
+      "searchIndex": [
+        "fgpnklngaiahpcpjennhbcmkiahjohdk",
+        "fgpnklngaiahpcpjennhbcmkiahjohdk",
+        "Extension Shake para feedback",
+        "utilities",
+        "dev-tools",
+        "utilities",
+        "dev-tools",
+        "chrome-extension",
+        "feedback",
+        "testing"
+      ],
+      "category": "utilities",
+      "subcategory": "dev-tools",
+      "pricing": "freemium",
+      "languages": [
+        "en"
+      ],
+      "limits": "plan gratis con limites",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
     }
   ]
 }

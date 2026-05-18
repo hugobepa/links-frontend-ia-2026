@@ -18,7 +18,7 @@
       "id": "version-control",
       "name": "Version Control",
       "slug": "version-control",
-      "resourceCount": 48,
+      "resourceCount": 51,
       "status": "active"
     }
   ],
@@ -68,7 +68,7 @@
       "name": "Resources",
       "slug": "resources",
       "category": "version-control",
-      "resourceCount": 33,
+      "resourceCount": 36,
       "status": "active"
     }
   ],
@@ -2564,6 +2564,117 @@
       ],
       "limits": "5 usuarios, 5GB/usuario, límites por app",
       "added": "2026-01-15",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-deep-trading",
+      "name": "awesome-deep-trading",
+      "slug": "awesome-deep-trading",
+      "description": "Coleccion deep learning trading",
+      "url": "https://github.com/cbailes/awesome-deep-trading",
+      "status": "active",
+      "tags": [
+        "apis-data",
+        "trading",
+        "deep-learning",
+        "github",
+        "awesome"
+      ],
+      "searchIndex": [
+        "awesome-deep-trading",
+        "awesome-deep-trading",
+        "Coleccion deep learning trading",
+        "version-control",
+        "resources",
+        "apis-data",
+        "trading",
+        "deep-learning",
+        "github",
+        "awesome"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "live-trade-bench",
+      "name": "live-trade-bench",
+      "slug": "live-trade-bench",
+      "description": "Benchmark para trading en vivo",
+      "url": "https://github.com/ulab-uiuc/live-trade-bench",
+      "status": "active",
+      "tags": [
+        "apis-data",
+        "benchmark",
+        "trading",
+        "github",
+        "research"
+      ],
+      "searchIndex": [
+        "live-trade-bench",
+        "live-trade-bench",
+        "Benchmark para trading en vivo",
+        "version-control",
+        "resources",
+        "apis-data",
+        "benchmark",
+        "trading",
+        "github",
+        "research"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "rppg-toolbox",
+      "name": "rPPG-Toolbox",
+      "slug": "rppg-toolbox",
+      "description": "Toolbox de señales rPPG",
+      "url": "https://github.com/ubicomplab/rPPG-Toolbox",
+      "status": "active",
+      "tags": [
+        "apis-data",
+        "toolbox",
+        "signals",
+        "github",
+        "research"
+      ],
+      "searchIndex": [
+        "rPPG-Toolbox",
+        "rppg-toolbox",
+        "Toolbox de señales rPPG",
+        "version-control",
+        "resources",
+        "apis-data",
+        "toolbox",
+        "signals",
+        "github",
+        "research"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
       "verified": true,
       "noCreditCard": true
     }

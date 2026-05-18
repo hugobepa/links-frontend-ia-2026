@@ -4,14 +4,14 @@
       "id": "design",
       "name": "Design",
       "slug": "design",
-      "resourceCount": 128,
+      "resourceCount": 130,
       "status": "active"
     },
     {
       "id": "development",
       "name": "Development",
       "slug": "development",
-      "resourceCount": 296,
+      "resourceCount": 297,
       "status": "active"
     }
   ],
@@ -77,7 +77,7 @@
       "name": "Inspiration",
       "slug": "inspiration",
       "category": "design",
-      "resourceCount": 17,
+      "resourceCount": 18,
       "status": "active"
     },
     {
@@ -93,7 +93,7 @@
       "name": "Templates",
       "slug": "templates",
       "category": "design",
-      "resourceCount": 16,
+      "resourceCount": 17,
       "status": "active"
     },
     {
@@ -101,7 +101,7 @@
       "name": "Tools",
       "slug": "tools",
       "category": "development",
-      "resourceCount": 213,
+      "resourceCount": 214,
       "status": "active"
     },
     {
@@ -6566,7 +6566,7 @@
       "noCreditCard": false
     },
     {
-      "id": "heygen-hyperframes",
+      "id": "heygen-hyperframes-2",
       "name": "HeyGen Hyperframes",
       "slug": "heygen-hyperframes",
       "description": "Framework open source creación video HT",
@@ -6585,8 +6585,11 @@
         "Framework open source creación video HT",
         "development",
         "ide",
+        "development",
+        "ide",
         "y-desarrollo-ide",
-        "ia-video-audio"
+        "ia-video-audio",
+        "heygen-hyperframes"
       ],
       "category": "development",
       "subcategory": "ide",
@@ -15001,6 +15004,118 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "reactive-resume",
+      "name": "reactive-resume",
+      "slug": "reactive-resume",
+      "description": "Creador de CV visual open source",
+      "url": "https://github.com/amruthpillai/reactive-resume",
+      "status": "active",
+      "tags": [
+        "design",
+        "templates",
+        "github",
+        "open-source",
+        "resume"
+      ],
+      "searchIndex": [
+        "reactive-resume",
+        "reactive-resume",
+        "Creador de CV visual open source",
+        "design",
+        "templates",
+        "design",
+        "templates",
+        "github",
+        "open-source",
+        "resume"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "vibe-coding-cn",
+      "name": "vibe-coding-cn",
+      "slug": "vibe-coding-cn",
+      "description": "Guia de vibe coding en chino",
+      "url": "https://github.com/tukuaiai/vibe-coding-cn",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "github",
+        "coding",
+        "guide"
+      ],
+      "searchIndex": [
+        "vibe-coding-cn",
+        "vibe-coding-cn",
+        "Guia de vibe coding en chino",
+        "development",
+        "tools",
+        "development",
+        "tools",
+        "github",
+        "coding",
+        "guide"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "content-playbook",
+      "name": "content-playbook",
+      "slug": "content-playbook",
+      "description": "Playbook SEO para equipos de contenido",
+      "url": "https://searchable.com/es/content-playbook",
+      "status": "active",
+      "tags": [
+        "design",
+        "inspiration",
+        "content",
+        "seo",
+        "playbook"
+      ],
+      "searchIndex": [
+        "content-playbook",
+        "content-playbook",
+        "Playbook SEO para equipos de contenido",
+        "design",
+        "inspiration",
+        "design",
+        "inspiration",
+        "content",
+        "seo",
+        "playbook"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "plan gratis con limites",
+      "added": "2026-05-18",
       "verified": true,
       "noCreditCard": false
     }

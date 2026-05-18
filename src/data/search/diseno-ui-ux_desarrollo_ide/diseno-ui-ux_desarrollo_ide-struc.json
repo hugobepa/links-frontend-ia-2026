@@ -26,12 +26,12 @@
       "description": "Etiqueta 9000"
     },
     "development": {
-      "count": 228,
+      "count": 229,
       "color": "#65a30d",
       "description": "Etiqueta development"
     },
     "tools": {
-      "count": 199,
+      "count": 200,
       "color": "#059669",
       "description": "Etiqueta tools"
     },
@@ -81,12 +81,12 @@
       "description": "Etiqueta modern"
     },
     "design": {
-      "count": 37,
+      "count": 39,
       "color": "#7c3aed",
       "description": "Etiqueta design"
     },
     "inspiration": {
-      "count": 18,
+      "count": 19,
       "color": "#2563eb",
       "description": "Etiqueta inspiration"
     },
@@ -351,7 +351,7 @@
       "description": "Etiqueta astra-ai"
     },
     "content": {
-      "count": 1,
+      "count": 2,
       "color": "#d97706",
       "description": "Etiqueta content"
     },
@@ -406,7 +406,7 @@
       "description": "Etiqueta auth"
     },
     "open-source": {
-      "count": 5,
+      "count": 6,
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
     },
@@ -816,7 +816,7 @@
       "description": "Etiqueta creao"
     },
     "templates": {
-      "count": 11,
+      "count": 12,
       "color": "#0891b2",
       "description": "Etiqueta templates"
     },
@@ -1276,7 +1276,7 @@
       "description": "Etiqueta backgrounds"
     },
     "github": {
-      "count": 7,
+      "count": 9,
       "color": "#d97706",
       "description": "Etiqueta github"
     },
@@ -2919,6 +2919,31 @@
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta zoer"
+    },
+    "resume": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta resume"
+    },
+    "coding": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta coding"
+    },
+    "guide": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta guide"
+    },
+    "seo": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta seo"
+    },
+    "playbook": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta playbook"
     }
   },
   "searchIndex": {
@@ -5805,7 +5830,7 @@
         ]
       },
       {
-        "id": "heygen-hyperframes",
+        "id": "heygen-hyperframes-2",
         "slug": "heygen-hyperframes",
         "terms": [
           "HeyGen Hyperframes",
@@ -9543,6 +9568,54 @@
           "hooks",
           "lightweight"
         ]
+      },
+      {
+        "id": "reactive-resume",
+        "slug": "reactive-resume",
+        "terms": [
+          "reactive-resume",
+          "reactive-resume",
+          "Creador de CV visual open source",
+          "design",
+          "templates",
+          "design",
+          "templates",
+          "github",
+          "open-source",
+          "resume"
+        ]
+      },
+      {
+        "id": "vibe-coding-cn",
+        "slug": "vibe-coding-cn",
+        "terms": [
+          "vibe-coding-cn",
+          "vibe-coding-cn",
+          "Guia de vibe coding en chino",
+          "development",
+          "tools",
+          "development",
+          "tools",
+          "github",
+          "coding",
+          "guide"
+        ]
+      },
+      {
+        "id": "content-playbook",
+        "slug": "content-playbook",
+        "terms": [
+          "content-playbook",
+          "content-playbook",
+          "Playbook SEO para equipos de contenido",
+          "design",
+          "inspiration",
+          "design",
+          "inspiration",
+          "content",
+          "seo",
+          "playbook"
+        ]
       }
     ]
   },
@@ -9581,13 +9654,14 @@
       true
     ],
     "noCreditCard": [
-      false
+      false,
+      true
     ]
   },
   "ui": {
     "dataset": "diseno-ui-ux_desarrollo_ide",
     "title": "diseno-ui-ux_desarrollo_ide",
     "description": "Dataset diseno-ui-ux_desarrollo_ide",
-    "resourceCount": 424
+    "resourceCount": 427
   }
 }

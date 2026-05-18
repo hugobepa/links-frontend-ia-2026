@@ -1,7 +1,7 @@
 {
   "tags": {
     "productivity": {
-      "count": 24,
+      "count": 29,
       "color": "#7c3aed",
       "description": "Etiqueta productivity"
     },
@@ -21,7 +21,7 @@
       "description": "Etiqueta collaboration"
     },
     "open-source": {
-      "count": 5,
+      "count": 6,
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
     },
@@ -36,7 +36,7 @@
       "description": "Etiqueta self-hosted"
     },
     "utilities": {
-      "count": 8,
+      "count": 13,
       "color": "#db2777",
       "description": "Etiqueta utilities"
     },
@@ -356,7 +356,7 @@
       "description": "Etiqueta visualizer"
     },
     "github": {
-      "count": 1,
+      "count": 3,
       "color": "#d97706",
       "description": "Etiqueta github"
     },
@@ -496,7 +496,7 @@
       "description": "Etiqueta fast"
     },
     "web": {
-      "count": 1,
+      "count": 2,
       "color": "#db2777",
       "description": "Etiqueta web"
     },
@@ -584,6 +584,51 @@
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta dictation"
+    },
+    "dev-tools": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta dev-tools"
+    },
+    "sdk": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta sdk"
+    },
+    "files": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta files"
+    },
+    "drive": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta drive"
+    },
+    "documents": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta documents"
+    },
+    "sharing": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta sharing"
+    },
+    "documentation": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta documentation"
+    },
+    "resources": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta resources"
+    },
+    "toolkit": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta toolkit"
     }
   },
   "searchIndex": {
@@ -1430,6 +1475,86 @@
           "dictation",
           "ai"
         ]
+      },
+      {
+        "id": "it-tools",
+        "slug": "it-tools",
+        "terms": [
+          "it-tools",
+          "it-tools",
+          "Caja de herramientas para dev",
+          "utilities",
+          "productivity",
+          "utilities",
+          "productivity",
+          "dev-tools",
+          "github",
+          "open-source"
+        ]
+      },
+      {
+        "id": "files-sdk",
+        "slug": "files-sdk",
+        "terms": [
+          "files-sdk",
+          "files-sdk",
+          "SDK para gestionar archivos web",
+          "utilities",
+          "productivity",
+          "utilities",
+          "productivity",
+          "sdk",
+          "github",
+          "files"
+        ]
+      },
+      {
+        "id": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+        "slug": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+        "terms": [
+          "1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
+          "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+          "Documento compartido en Drive",
+          "utilities",
+          "productivity",
+          "utilities",
+          "productivity",
+          "drive",
+          "documents",
+          "sharing"
+        ]
+      },
+      {
+        "id": "files-sdk-dev",
+        "slug": "files-sdk-dev",
+        "terms": [
+          "files-sdk-dev",
+          "files-sdk-dev",
+          "Documentacion oficial de Files SDK",
+          "utilities",
+          "productivity",
+          "utilities",
+          "productivity",
+          "sdk",
+          "documentation",
+          "files"
+        ]
+      },
+      {
+        "id": "arc-kit",
+        "slug": "arc-kit",
+        "terms": [
+          "arc-kit",
+          "arc-kit",
+          "Kit de recursos tecnicos curados",
+          "utilities",
+          "productivity",
+          "utilities",
+          "productivity",
+          "resources",
+          "toolkit",
+          "web"
+        ]
       }
     ]
   },
@@ -1443,6 +1568,7 @@
       "productivity"
     ],
     "pricing": [
+      "custom",
       "free",
       "freemium",
       "premium"
@@ -1466,6 +1592,6 @@
     "dataset": "utilidades_1",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 54
+    "resourceCount": 59
   }
 }

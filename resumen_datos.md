@@ -169,6 +169,51 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 
 ---
 
+## ES - Actualizacion v9 (18/05/2026)
+
+- Fuente procesada: `NUEVOS_44_LINKS.json` + listado validado.
+- Candidatos: 44 URLs.
+- Duplicados detectados y omitidos en insercion: 0.
+- Altas nuevas en `src/data`: 44.
+- Verificacion final: los 44 enlaces del lote existen en el dataset global.
+
+### Cambios aplicados v9
+
+| Dataset                                   | Antes | Nuevos | Total |
+| ----------------------------------------- | ----- | ------ | ----- |
+| `ia_asistentes-desarrollo-china-imagen_1` | 61    | +12    | 73    |
+| `dns_seguridad_educacion`                 | 224   | +8     | 232   |
+| `diseno-ui-ux_desarrollo_ide`             | 424   | +3     | 427   |
+| `dev-ops_testing_translation`             | 35    | +8     | 43    |
+| `utilidades_1`                            | 54    | +5     | 59    |
+| `utilidades-2_cms`                        | 51    | +5     | 56    |
+| `apis-data_databases`                     | 68    | +3     | 71    |
+
+### Cobertura tecnica v9
+
+- Se actualizaron `*-rec.json` con recursos, `resourceCount`, `searchIndex` y metadatos.
+- Se regeneraron `*-struc.json` con `tags`, `filters`, `searchIndex.resources` y `ui.resourceCount`.
+- Se regeneraron `nombre-links.json` con nombres unicos ordenados.
+- Total actual de recursos en `src/data/dates`: **1192**.
+- Tiempo: **18/05/2026 18:20 (Madrid)**.
+
+## EN - v9 Update (2026-05-18)
+
+- Processed source: `NUEVOS_44_LINKS.json` + validated list.
+- Candidates: 44 URLs.
+- Duplicates skipped for insertion: 0.
+- New inserts in `src/data`: 44.
+- Final validation: all 44 links from this batch are present globally.
+
+### Technical coverage v9
+
+- Updated `*-rec.json` with resources, counters, and metadata.
+- Regenerated `*-struc.json` (`tags`, `filters`, `searchIndex.resources`, `ui.resourceCount`).
+- Regenerated `nombre-links.json` with sorted unique names.
+- Current total resources in `src/data/dates`: **1192**.
+
+---
+
 ## LINKS
 
 <!-- markdownlint-disable MD060 -->
@@ -248,3 +293,4 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 | --------- | ---------- | ------------------------------ | ---------------------------- | ------------------ |
 | _7_       | **Fase 4** | Insercion y sync de 35 enlaces | Inserted and synced 35 links | 23:07 - 14/05/2026 |
 | _8_       | **Fase 4** | Insercion y sync de 32 enlaces | Inserted and synced 32 links | 11:50 - 15/05/2026 |
+| _9_       | **Fase 4** | Insercion y sync de 44 enlaces | Inserted and synced 44 links | 18:20 - 18/05/2026 |

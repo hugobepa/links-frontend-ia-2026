@@ -6,439 +6,484 @@
       "description": "Etiqueta 2025"
     },
     "ai": {
-      "count": 2,
+      "count": 3,
       "color": "#dc2626",
       "description": "Etiqueta ai"
-    },
-    "alerts": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta alerts"
-    },
-    "alternatives": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta alternatives"
-    },
-    "animation": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta animation"
-    },
-    "api": {
-      "count": 3,
-      "color": "#7c3aed",
-      "description": "Etiqueta api"
-    },
-    "audio": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta audio"
-    },
-    "automation": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta automation"
-    },
-    "backend": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta backend"
-    },
-    "bearnie-dev": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta bearnie-dev"
-    },
-    "blogging": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta blogging"
-    },
-    "bsky-comments": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta bsky-comments"
-    },
-    "canvas": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta canvas"
-    },
-    "cms": {
-      "count": 9,
-      "color": "#d97706",
-      "description": "Etiqueta cms"
-    },
-    "codepen": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta codepen"
-    },
-    "collection": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta collection"
-    },
-    "comparison": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta comparison"
-    },
-    "components": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta components"
-    },
-    "content": {
-      "count": 2,
-      "color": "#d97706",
-      "description": "Etiqueta content"
-    },
-    "css": {
-      "count": 2,
-      "color": "#ea580c",
-      "description": "Etiqueta css"
-    },
-    "cv": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta cv"
-    },
-    "dark-mode": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta dark-mode"
-    },
-    "data": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta data"
-    },
-    "datatype": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta datatype"
-    },
-    "debugging": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta debugging"
-    },
-    "design-system": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta design-system"
-    },
-    "dev": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta dev"
-    },
-    "dev-tools": {
-      "count": 8,
-      "color": "#0891b2",
-      "description": "Etiqueta dev-tools"
-    },
-    "documents": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta documents"
-    },
-    "ecommerce": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta ecommerce"
-    },
-    "editing": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta editing"
-    },
-    "editor": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta editor"
-    },
-    "effects": {
-      "count": 2,
-      "color": "#4f46e5",
-      "description": "Etiqueta effects"
-    },
-    "emdash": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta emdash"
-    },
-    "entertainment": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta entertainment"
-    },
-    "errors": {
-      "count": 2,
-      "color": "#ea580c",
-      "description": "Etiqueta errors"
-    },
-    "firecrawl-gh": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta firecrawl-gh"
-    },
-    "france": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta france"
-    },
-    "free": {
-      "count": 3,
-      "color": "#db2777",
-      "description": "Etiqueta free"
-    },
-    "frontend": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta frontend"
-    },
-    "ghost": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta ghost"
-    },
-    "git": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta git"
-    },
-    "git-based": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta git-based"
     },
     "github": {
       "count": 7,
       "color": "#d97706",
       "description": "Etiqueta github"
     },
-    "government": {
-      "count": 1,
+    "repos": {
+      "count": 2,
       "color": "#d97706",
-      "description": "Etiqueta government"
+      "description": "Etiqueta repos"
     },
-    "grid": {
+    "top": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta top"
+    },
+    "css": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta css"
+    },
+    "animation": {
       "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta grid"
+      "color": "#2563eb",
+      "description": "Etiqueta animation"
     },
-    "guide": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta guide"
+    "vanilla": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta vanilla"
     },
-    "headless": {
-      "count": 5,
-      "color": "#059669",
-      "description": "Etiqueta headless"
-    },
-    "hosting": {
+    "codepen": {
       "count": 1,
       "color": "#7c3aed",
-      "description": "Etiqueta hosting"
+      "description": "Etiqueta codepen"
     },
-    "ip": {
+    "cv": {
       "count": 1,
       "color": "#65a30d",
-      "description": "Etiqueta ip"
-    },
-    "javascript": {
-      "count": 4,
-      "color": "#ea580c",
-      "description": "Etiqueta javascript"
+      "description": "Etiqueta cv"
     },
     "latex": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta latex"
     },
-    "layout": {
+    "templates": {
       "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta layout"
-    },
-    "list": {
-      "count": 2,
-      "color": "#7c3aed",
-      "description": "Etiqueta list"
-    },
-    "logs": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta logs"
-    },
-    "lookup": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta lookup"
-    },
-    "mcp": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta mcp"
-    },
-    "modals": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta modals"
-    },
-    "modern": {
-      "count": 2,
       "color": "#0891b2",
-      "description": "Etiqueta modern"
-    },
-    "monitoring": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta monitoring"
-    },
-    "monosketch": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta monosketch"
-    },
-    "nextjs": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta nextjs"
-    },
-    "nodejs": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta nodejs"
-    },
-    "npm": {
-      "count": 4,
-      "color": "#059669",
-      "description": "Etiqueta npm"
-    },
-    "open-source": {
-      "count": 10,
-      "color": "#4f46e5",
-      "description": "Etiqueta open-source"
-    },
-    "packages": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta packages"
-    },
-    "parallax": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta parallax"
-    },
-    "pdf": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta pdf"
-    },
-    "platforms": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta platforms"
-    },
-    "pretext": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta pretext"
-    },
-    "publishing": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta publishing"
-    },
-    "react": {
-      "count": 5,
-      "color": "#65a30d",
-      "description": "Etiqueta react"
-    },
-    "realtime": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta realtime"
-    },
-    "repos": {
-      "count": 2,
-      "color": "#d97706",
-      "description": "Etiqueta repos"
-    },
-    "resources": {
-      "count": 3,
-      "color": "#65a30d",
-      "description": "Etiqueta resources"
+      "description": "Etiqueta templates"
     },
     "resume": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta resume"
     },
-    "saas": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta saas"
+    "utilities": {
+      "count": 16,
+      "color": "#db2777",
+      "description": "Etiqueta utilities"
     },
-    "scraping": {
-      "count": 4,
+    "dev-tools": {
+      "count": 11,
       "color": "#0891b2",
-      "description": "Etiqueta scraping"
+      "description": "Etiqueta dev-tools"
     },
-    "search": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta search"
+    "y-utilidades-herramientas": {
+      "count": 8,
+      "color": "#db2777",
+      "description": "Etiqueta y-utilidades-herramientas"
     },
-    "seo": {
-      "count": 2,
-      "color": "#65a30d",
-      "description": "Etiqueta seo"
+    "y-i-herramientas-dev": {
+      "count": 8,
+      "color": "#d97706",
+      "description": "Etiqueta y-i-herramientas-dev"
     },
-    "seo-scraping": {
-      "count": 4,
-      "color": "#65a30d",
-      "description": "Etiqueta seo-scraping"
-    },
-    "simple": {
+    "bearnie-dev": {
       "count": 1,
       "color": "#2563eb",
-      "description": "Etiqueta simple"
+      "description": "Etiqueta bearnie-dev"
     },
     "skeleton": {
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta skeleton"
     },
-    "social-media-scraping-apis": {
+    "components": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta components"
+    },
+    "react": {
+      "count": 5,
+      "color": "#65a30d",
+      "description": "Etiqueta react"
+    },
+    "bsky-comments": {
       "count": 1,
       "color": "#4f46e5",
-      "description": "Etiqueta social-media-scraping-apis"
+      "description": "Etiqueta bsky-comments"
     },
-    "spanish": {
+    "transcription": {
       "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta spanish"
+      "color": "#7c3aed",
+      "description": "Etiqueta transcription"
     },
-    "streaming": {
+    "audio": {
       "count": 1,
       "color": "#2563eb",
-      "description": "Etiqueta streaming"
+      "description": "Etiqueta audio"
+    },
+    "video": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta video"
+    },
+    "whisper": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta whisper"
+    },
+    "canvas": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta canvas"
+    },
+    "effects": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta effects"
+    },
+    "npm": {
+      "count": 4,
+      "color": "#059669",
+      "description": "Etiqueta npm"
+    },
+    "javascript": {
+      "count": 4,
+      "color": "#ea580c",
+      "description": "Etiqueta javascript"
+    },
+    "cms": {
+      "count": 11,
+      "color": "#d97706",
+      "description": "Etiqueta cms"
+    },
+    "headless": {
+      "count": 5,
+      "color": "#059669",
+      "description": "Etiqueta headless"
+    },
+    "saas": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta saas"
+    },
+    "content": {
+      "count": 3,
+      "color": "#d97706",
+      "description": "Etiqueta content"
+    },
+    "seo": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta seo"
+    },
+    "scraping": {
+      "count": 4,
+      "color": "#0891b2",
+      "description": "Etiqueta scraping"
+    },
+    "open-source": {
+      "count": 10,
+      "color": "#4f46e5",
+      "description": "Etiqueta open-source"
+    },
+    "mcp": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta mcp"
+    },
+    "data": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta data"
+    },
+    "government": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta government"
+    },
+    "france": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta france"
+    },
+    "datatype": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta datatype"
+    },
+    "backend": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta backend"
+    },
+    "platforms": {
+      "count": 3,
+      "color": "#7c3aed",
+      "description": "Etiqueta platforms"
+    },
+    "y-cms-content": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta y-cms-content"
+    },
+    "emdash": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta emdash"
+    },
+    "ecommerce": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta ecommerce"
     },
     "template": {
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta template"
     },
-    "templates": {
+    "api": {
+      "count": 3,
+      "color": "#7c3aed",
+      "description": "Etiqueta api"
+    },
+    "search": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta search"
+    },
+    "seo-scraping": {
+      "count": 4,
+      "color": "#65a30d",
+      "description": "Etiqueta seo-scraping"
+    },
+    "utilidades-herramientas": {
+      "count": 4,
+      "color": "#dc2626",
+      "description": "Etiqueta utilidades-herramientas"
+    },
+    "firecrawl-gh": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta firecrawl-gh"
+    },
+    "free": {
+      "count": 3,
+      "color": "#db2777",
+      "description": "Etiqueta free"
+    },
+    "dev": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta dev"
+    },
+    "resources": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta resources"
+    },
+    "list": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta list"
+    },
+    "frontend": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta frontend"
+    },
+    "collection": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta collection"
+    },
+    "ghost": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta ghost"
+    },
+    "publishing": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta publishing"
+    },
+    "modern": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta modern"
+    },
+    "nextjs": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta nextjs"
+    },
+    "errors": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta errors"
+    },
+    "debugging": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta debugging"
+    },
+    "grid": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta grid"
+    },
+    "layout": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta layout"
+    },
+    "ip": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta ip"
+    },
+    "lookup": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta lookup"
+    },
+    "vps": {
       "count": 1,
       "color": "#0891b2",
-      "description": "Etiqueta templates"
+      "description": "Etiqueta vps"
+    },
+    "guide": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta guide"
+    },
+    "tutorial": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta tutorial"
+    },
+    "spanish": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta spanish"
+    },
+    "automation": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta automation"
+    },
+    "monosketch": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta monosketch"
+    },
+    "alternatives": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta alternatives"
+    },
+    "packages": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta packages"
+    },
+    "editing": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta editing"
+    },
+    "pdf": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta pdf"
+    },
+    "viewer": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta viewer"
+    },
+    "pretext": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta pretext"
+    },
+    "documents": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta documents"
+    },
+    "hosting": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta hosting"
+    },
+    "vercel": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta vercel"
+    },
+    "comparison": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta comparison"
+    },
+    "realtime": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta realtime"
+    },
+    "editor": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta editor"
+    },
+    "monitoring": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta monitoring"
+    },
+    "logs": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta logs"
+    },
+    "parallax": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta parallax"
+    },
+    "simple": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta simple"
+    },
+    "social-media-scraping-apis": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta social-media-scraping-apis"
+    },
+    "nodejs": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta nodejs"
+    },
+    "streaming": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta streaming"
+    },
+    "entertainment": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta entertainment"
+    },
+    "modals": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta modals"
+    },
+    "alerts": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta alerts"
     },
     "testing-opengraph": {
       "count": 1,
@@ -450,75 +495,45 @@
       "color": "#059669",
       "description": "Etiqueta theme"
     },
-    "tiks": {
+    "dark-mode": {
       "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta tiks"
+      "color": "#7c3aed",
+      "description": "Etiqueta dark-mode"
     },
     "toggle": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta toggle"
     },
-    "top": {
-      "count": 2,
-      "color": "#ea580c",
-      "description": "Etiqueta top"
+    "ui": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta ui"
+    },
+    "tiks": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta tiks"
+    },
+    "git": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta git"
+    },
+    "git-based": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta git-based"
     },
     "toprank": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta toprank"
     },
-    "transcription": {
+    "design-system": {
       "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta transcription"
-    },
-    "tutorial": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta tutorial"
-    },
-    "ui": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta ui"
-    },
-    "utilidades-herramientas": {
-      "count": 4,
-      "color": "#dc2626",
-      "description": "Etiqueta utilidades-herramientas"
-    },
-    "utilities": {
-      "count": 13,
-      "color": "#db2777",
-      "description": "Etiqueta utilities"
-    },
-    "vanilla": {
-      "count": 2,
-      "color": "#d97706",
-      "description": "Etiqueta vanilla"
-    },
-    "vercel": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta vercel"
-    },
-    "video": {
-      "count": 2,
-      "color": "#0891b2",
-      "description": "Etiqueta video"
-    },
-    "viewer": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta viewer"
-    },
-    "vps": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta vps"
+      "color": "#4f46e5",
+      "description": "Etiqueta design-system"
     },
     "web-dev": {
       "count": 1,
@@ -530,71 +545,79 @@
       "color": "#059669",
       "description": "Etiqueta website-downloader"
     },
-    "whisper": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta whisper"
-    },
     "wordpress": {
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta wordpress"
+    },
+    "blogging": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta blogging"
     },
     "xml-comparator": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta xml-comparator"
     },
-    "y-cms-content": {
+    "bug-reporting": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta bug-reporting"
+    },
+    "freemium": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta freemium"
+    },
+    "web": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta web"
+    },
+    "general-resources": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta general-resources"
+    },
+    "article": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta article"
+    },
+    "media": {
       "count": 1,
       "color": "#65a30d",
-      "description": "Etiqueta y-cms-content"
+      "description": "Etiqueta media"
     },
-    "y-i-herramientas-dev": {
-      "count": 8,
+    "communication": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta communication"
+    },
+    "chrome-extension": {
+      "count": 2,
       "color": "#d97706",
-      "description": "Etiqueta y-i-herramientas-dev"
+      "description": "Etiqueta chrome-extension"
     },
-    "y-utilidades-herramientas": {
-      "count": 8,
-      "color": "#db2777",
-      "description": "Etiqueta y-utilidades-herramientas"
+    "jam": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta jam"
+    },
+    "feedback": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta feedback"
+    },
+    "testing": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta testing"
     }
   },
   "searchIndex": {
-    "fields": [
-      {
-        "name": "name",
-        "weight": 3,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "description",
-        "weight": 2,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "tags",
-        "weight": 2,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "category",
-        "weight": 1,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "subcategory",
-        "weight": 1,
-        "encode": "forward",
-        "tokenize": "forward"
-      }
-    ],
-    "entries": [
+    "resources": [
       {
         "id": "5-best-ai-repos",
         "slug": "5-best-ai-repos",
@@ -649,8 +672,11 @@
           "Recursos y herramientas dev",
           "utilities",
           "dev-tools",
+          "utilities",
+          "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
+          "y-i-herramientas-dev",
+          "bearnie-dev"
         ]
       },
       {
@@ -677,8 +703,11 @@
           "Comentarios con Bluesky en web",
           "utilities",
           "dev-tools",
+          "utilities",
+          "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
+          "y-i-herramientas-dev",
+          "bsky-comments"
         ]
       },
       {
@@ -720,6 +749,7 @@
           "CMS headless 5 usuarios gratis",
           "cms",
           "platforms",
+          "cms",
           "headless",
           "saas",
           "content"
@@ -736,6 +766,7 @@
           "seo-scraping",
           "seo",
           "scraping",
+          "utilities",
           "github",
           "open-source"
         ]
@@ -764,8 +795,11 @@
           "Visualizador tipos datos interactivo",
           "utilities",
           "dev-tools",
+          "utilities",
+          "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
+          "y-i-herramientas-dev",
+          "datatype"
         ]
       },
       {
@@ -777,6 +811,7 @@
           "CMS y backend open source",
           "cms",
           "platforms",
+          "cms",
           "backend",
           "open-source",
           "headless"
@@ -791,7 +826,10 @@
           "CMS headless moderno open source",
           "cms",
           "platforms",
-          "y-cms-content"
+          "cms",
+          "platforms",
+          "y-cms-content",
+          "emdash"
         ]
       },
       {
@@ -829,10 +867,14 @@
         "slug": "firecrawl-gh",
         "terms": [
           "firecrawl-gh",
+          "firecrawl-gh",
           "Repo oficial Firecrawl en GitHub",
           "utilities",
           "seo-scraping",
-          "utilidades-herramientas"
+          "utilities",
+          "seo-scraping",
+          "utilidades-herramientas",
+          "firecrawl-gh"
         ]
       },
       {
@@ -874,6 +916,8 @@
           "Plataforma publishing moderna",
           "cms",
           "platforms",
+          "cms",
+          "ghost",
           "publishing",
           "modern"
         ]
@@ -962,8 +1006,11 @@
           "Herramienta diagramas ASCII online",
           "utilities",
           "dev-tools",
+          "utilities",
+          "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
+          "y-i-herramientas-dev",
+          "monosketch"
         ]
       },
       {
@@ -1035,8 +1082,11 @@
           "Preprocessor texto ligero para web",
           "utilities",
           "dev-tools",
+          "utilities",
+          "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
+          "y-i-herramientas-dev",
+          "pretext"
         ]
       },
       {
@@ -1048,6 +1098,7 @@
           "CMS headless documentos ilimitados",
           "cms",
           "platforms",
+          "cms",
           "headless",
           "documents",
           "content"
@@ -1077,6 +1128,7 @@
           "CMS headless con editor real-time",
           "cms",
           "platforms",
+          "cms",
           "headless",
           "realtime",
           "editor"
@@ -1116,10 +1168,14 @@
         "slug": "social-media-scraping-apis",
         "terms": [
           "social-media-scraping-apis",
+          "social-media-scraping-apis",
           "APIs para scraping social media",
           "utilities",
           "seo-scraping",
-          "utilidades-herramientas"
+          "utilities",
+          "seo-scraping",
+          "utilidades-herramientas",
+          "social-media-scraping-apis"
         ]
       },
       {
@@ -1131,6 +1187,7 @@
           "CMS headless open source",
           "cms",
           "platforms",
+          "cms",
           "headless",
           "open-source",
           "nodejs"
@@ -1175,8 +1232,11 @@
           "Testear OpenGraph desde CLI",
           "utilities",
           "dev-tools",
+          "utilities",
+          "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
+          "y-i-herramientas-dev",
+          "testing-opengraph"
         ]
       },
       {
@@ -1203,8 +1263,11 @@
           "Herramienta dev interfaz minimal",
           "utilities",
           "dev-tools",
+          "utilities",
+          "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
+          "y-i-herramientas-dev",
+          "tiks"
         ]
       },
       {
@@ -1216,6 +1279,7 @@
           "CMS git-based open source",
           "cms",
           "platforms",
+          "cms",
           "git",
           "open-source",
           "git-based"
@@ -1241,10 +1305,14 @@
         "slug": "toprank",
         "terms": [
           "toprank",
+          "toprank",
           "Herramienta SEO ranking web",
           "utilities",
           "seo-scraping",
-          "utilidades-herramientas"
+          "utilities",
+          "seo-scraping",
+          "utilidades-herramientas",
+          "toprank"
         ]
       },
       {
@@ -1286,7 +1354,10 @@
           "Descarga sitios web completos",
           "utilities",
           "seo-scraping",
-          "utilidades-herramientas"
+          "utilities",
+          "seo-scraping",
+          "utilidades-herramientas",
+          "website-downloader"
         ]
       },
       {
@@ -1298,6 +1369,7 @@
           "CMS y blogging plan gratis",
           "cms",
           "platforms",
+          "cms",
           "wordpress",
           "blogging",
           "free"
@@ -1312,8 +1384,91 @@
           "Comparador XML online gratuito",
           "utilities",
           "dev-tools",
+          "utilities",
+          "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
+          "y-i-herramientas-dev",
+          "xml-comparator"
+        ]
+      },
+      {
+        "id": "jam-dev",
+        "slug": "jam-dev",
+        "terms": [
+          "jam-dev",
+          "jam-dev",
+          "Captura y reporte de bugs visuales",
+          "cms",
+          "platforms",
+          "cms",
+          "platforms",
+          "bug-reporting",
+          "dev-tools",
+          "freemium"
+        ]
+      },
+      {
+        "id": "cliyerai-com",
+        "slug": "cliyerai-com",
+        "terms": [
+          "cliyerai-com",
+          "cliyerai-com",
+          "Herramienta IA para contenidos web",
+          "cms",
+          "platforms",
+          "cms",
+          "platforms",
+          "ai",
+          "content",
+          "web"
+        ]
+      },
+      {
+        "id": "party-in-the-permanent-underclass",
+        "slug": "party-in-the-permanent-underclass",
+        "terms": [
+          "party-in-the-permanent-underclass",
+          "party-in-the-permanent-underclass",
+          "Articulo sobre comunicacion digital",
+          "utilities",
+          "general-resources",
+          "utilities",
+          "general-resources",
+          "article",
+          "media",
+          "communication"
+        ]
+      },
+      {
+        "id": "iohjgamcilhbgmhbnllfolmkmmekfmci",
+        "slug": "iohjgamcilhbgmhbnllfolmkmmekfmci",
+        "terms": [
+          "iohjgamcilhbgmhbnllfolmkmmekfmci",
+          "iohjgamcilhbgmhbnllfolmkmmekfmci",
+          "Extension Jam para capturar bugs",
+          "utilities",
+          "dev-tools",
+          "utilities",
+          "dev-tools",
+          "chrome-extension",
+          "jam",
+          "debugging"
+        ]
+      },
+      {
+        "id": "fgpnklngaiahpcpjennhbcmkiahjohdk",
+        "slug": "fgpnklngaiahpcpjennhbcmkiahjohdk",
+        "terms": [
+          "fgpnklngaiahpcpjennhbcmkiahjohdk",
+          "fgpnklngaiahpcpjennhbcmkiahjohdk",
+          "Extension Shake para feedback",
+          "utilities",
+          "dev-tools",
+          "utilities",
+          "dev-tools",
+          "chrome-extension",
+          "feedback",
+          "testing"
         ]
       }
     ]
@@ -1330,6 +1485,7 @@
       "seo-scraping"
     ],
     "pricing": [
+      "custom",
       "free",
       "freemium"
     ],
@@ -1353,6 +1509,6 @@
     "dataset": "utilidades-2_cms",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 51
+    "resourceCount": 56
   }
 }

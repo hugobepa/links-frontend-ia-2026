@@ -4,7 +4,7 @@
       "id": "devops",
       "name": "Devops",
       "slug": "devops",
-      "resourceCount": 14,
+      "resourceCount": 21,
       "status": "active"
     },
     {
@@ -18,7 +18,7 @@
       "id": "translation",
       "name": "Translation",
       "slug": "translation",
-      "resourceCount": 6,
+      "resourceCount": 7,
       "status": "active"
     }
   ],
@@ -28,7 +28,7 @@
       "name": "Ci Cd",
       "slug": "ci-cd",
       "category": "devops",
-      "resourceCount": 6,
+      "resourceCount": 10,
       "status": "active"
     },
     {
@@ -36,7 +36,7 @@
       "name": "Containers",
       "slug": "containers",
       "category": "devops",
-      "resourceCount": 8,
+      "resourceCount": 11,
       "status": "active"
     },
     {
@@ -68,7 +68,7 @@
       "name": "Tools",
       "slug": "tools",
       "category": "translation",
-      "resourceCount": 2,
+      "resourceCount": 3,
       "status": "active"
     }
   ],
@@ -1319,6 +1319,302 @@
       "added": "2026-05-15",
       "verified": true,
       "noCreditCard": false
+    },
+    {
+      "id": "ubuntu-on-android",
+      "name": "ubuntu-on-android",
+      "slug": "ubuntu-on-android",
+      "description": "Ubuntu en Android con contenedor",
+      "url": "https://github.com/RandomCoderOrg/ubuntu-on-android",
+      "status": "active",
+      "tags": [
+        "devops",
+        "containers",
+        "android",
+        "linux",
+        "github"
+      ],
+      "searchIndex": [
+        "ubuntu-on-android",
+        "ubuntu-on-android",
+        "Ubuntu en Android con contenedor",
+        "devops",
+        "containers",
+        "devops",
+        "containers",
+        "android",
+        "linux",
+        "github"
+      ],
+      "category": "devops",
+      "subcategory": "containers",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "alumnium",
+      "name": "alumnium",
+      "slug": "alumnium",
+      "description": "Orquestacion de flujos DevOps",
+      "url": "https://github.com/alumnium-hq/alumnium",
+      "status": "active",
+      "tags": [
+        "devops",
+        "ci-cd",
+        "automation",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "alumnium",
+        "alumnium",
+        "Orquestacion de flujos DevOps",
+        "devops",
+        "ci-cd",
+        "devops",
+        "ci-cd",
+        "automation",
+        "github",
+        "open-source"
+      ],
+      "category": "devops",
+      "subcategory": "ci-cd",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "playtranslate",
+      "name": "playtranslate",
+      "slug": "playtranslate",
+      "description": "Traduccion continua para apps",
+      "url": "https://github.com/dominostars/playtranslate",
+      "status": "active",
+      "tags": [
+        "translation",
+        "tools",
+        "github",
+        "localization",
+        "automation"
+      ],
+      "searchIndex": [
+        "playtranslate",
+        "playtranslate",
+        "Traduccion continua para apps",
+        "translation",
+        "tools",
+        "translation",
+        "tools",
+        "github",
+        "localization",
+        "automation"
+      ],
+      "category": "translation",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-autonomous-vehicles",
+      "name": "awesome-autonomous-vehicles",
+      "slug": "awesome-autonomous-vehicles",
+      "description": "Recursos de vehiculos autonomos",
+      "url": "https://github.com/manfreddiaz/awesome-autonomous-vehicles",
+      "status": "active",
+      "tags": [
+        "devops",
+        "resources",
+        "awesome",
+        "github",
+        "autonomous"
+      ],
+      "searchIndex": [
+        "awesome-autonomous-vehicles",
+        "awesome-autonomous-vehicles",
+        "Recursos de vehiculos autonomos",
+        "devops",
+        "ci-cd",
+        "devops",
+        "resources",
+        "awesome",
+        "github",
+        "autonomous"
+      ],
+      "category": "devops",
+      "subcategory": "ci-cd",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "website-cloner",
+      "name": "website-cloner",
+      "slug": "website-cloner",
+      "description": "Clona sitios para pruebas locales",
+      "url": "https://github.com/samibajwaisking/website-cloner",
+      "status": "active",
+      "tags": [
+        "devops",
+        "tools",
+        "github",
+        "cloning",
+        "testing"
+      ],
+      "searchIndex": [
+        "website-cloner",
+        "website-cloner",
+        "Clona sitios para pruebas locales",
+        "devops",
+        "containers",
+        "devops",
+        "tools",
+        "github",
+        "cloning",
+        "testing"
+      ],
+      "category": "devops",
+      "subcategory": "containers",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "silicon-studio",
+      "name": "Silicon-Studio",
+      "slug": "silicon-studio",
+      "description": "IDE experimental para automatizar",
+      "url": "https://github.com/rileycleavenger/Silicon-Studio",
+      "status": "active",
+      "tags": [
+        "devops",
+        "ci-cd",
+        "ide",
+        "github",
+        "automation"
+      ],
+      "searchIndex": [
+        "Silicon-Studio",
+        "silicon-studio",
+        "IDE experimental para automatizar",
+        "devops",
+        "ci-cd",
+        "devops",
+        "ci-cd",
+        "ide",
+        "github",
+        "automation"
+      ],
+      "category": "devops",
+      "subcategory": "ci-cd",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "fc434091c6414acc098f58b18a0146d8-js",
+      "name": "fc434091c6414acc098f58b18a0146d8-js",
+      "slug": "fc434091c6414acc098f58b18a0146d8-js",
+      "description": "Snippet JS util para automatizacion",
+      "url": "https://gist.github.com/fc434091c6414acc098f58b18a0146d8",
+      "status": "active",
+      "tags": [
+        "devops",
+        "snippet",
+        "javascript",
+        "gist",
+        "automation"
+      ],
+      "searchIndex": [
+        "fc434091c6414acc098f58b18a0146d8-js",
+        "fc434091c6414acc098f58b18a0146d8-js",
+        "Snippet JS util para automatizacion",
+        "devops",
+        "ci-cd",
+        "devops",
+        "snippet",
+        "javascript",
+        "gist",
+        "automation"
+      ],
+      "category": "devops",
+      "subcategory": "ci-cd",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "zero",
+      "name": "zero",
+      "slug": "zero",
+      "description": "Base para apps edge y despliegue",
+      "url": "https://github.com/vercel-labs/zero",
+      "status": "active",
+      "tags": [
+        "devops",
+        "containers",
+        "edge",
+        "github",
+        "vercel"
+      ],
+      "searchIndex": [
+        "zero",
+        "zero",
+        "Base para apps edge y despliegue",
+        "devops",
+        "containers",
+        "devops",
+        "containers",
+        "edge",
+        "github",
+        "vercel"
+      ],
+      "category": "devops",
+      "subcategory": "containers",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
     }
   ]
 }

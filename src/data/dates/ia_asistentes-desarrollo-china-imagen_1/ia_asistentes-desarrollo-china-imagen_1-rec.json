@@ -3,7 +3,7 @@
     "id": "ai",
     "name": "Ai",
     "slug": "ai",
-    "resourceCount": 61,
+    "resourceCount": 73,
     "status": "active"
   },
   "subcategories": [
@@ -12,7 +12,7 @@
       "name": "Assistants",
       "slug": "assistants",
       "category": "ai",
-      "resourceCount": 18,
+      "resourceCount": 26,
       "status": "active"
     },
     {
@@ -28,7 +28,7 @@
       "name": "Development",
       "slug": "development",
       "category": "ai",
-      "resourceCount": 22,
+      "resourceCount": 24,
       "status": "active"
     },
     {
@@ -36,7 +36,7 @@
       "name": "Image Generation",
       "slug": "image-generation",
       "category": "ai",
-      "resourceCount": 12,
+      "resourceCount": 14,
       "status": "active"
     }
   ],
@@ -2205,6 +2205,450 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": false
+    },
+    {
+      "id": "superserve",
+      "name": "superserve",
+      "slug": "superserve",
+      "description": "Plataforma de agentes empresariales",
+      "url": "https://github.com/superserve-ai/superserve",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistants",
+        "github",
+        "open-source",
+        "agent"
+      ],
+      "searchIndex": [
+        "superserve",
+        "superserve",
+        "Plataforma de agentes empresariales",
+        "ai",
+        "assistants",
+        "ai",
+        "assistants",
+        "github",
+        "open-source",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "dark-moon",
+      "name": "Dark-Moon",
+      "slug": "dark-moon",
+      "description": "Asistente IA en entorno terminal",
+      "url": "https://github.com/ASCIT31/Dark-Moon",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistants",
+        "github",
+        "open-source",
+        "terminal"
+      ],
+      "searchIndex": [
+        "Dark-Moon",
+        "dark-moon",
+        "Asistente IA en entorno terminal",
+        "ai",
+        "assistants",
+        "ai",
+        "assistants",
+        "github",
+        "open-source",
+        "terminal"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "anansi",
+      "name": "anansi",
+      "slug": "anansi",
+      "description": "Framework para flujos de agentes",
+      "url": "https://github.com/mdowis/anansi",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistants",
+        "framework",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "anansi",
+        "anansi",
+        "Framework para flujos de agentes",
+        "ai",
+        "assistants",
+        "ai",
+        "assistants",
+        "framework",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "shadowbroker",
+      "name": "Shadowbroker",
+      "slug": "shadowbroker",
+      "description": "Asistente para automatizar tareas",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistants",
+        "automation",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Shadowbroker",
+        "shadowbroker",
+        "Asistente para automatizar tareas",
+        "ai",
+        "assistants",
+        "ai",
+        "assistants",
+        "automation",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "onyx",
+      "name": "onyx",
+      "slug": "onyx",
+      "description": "Buscador IA para equipos internos",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistants",
+        "search",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "onyx",
+        "onyx",
+        "Buscador IA para equipos internos",
+        "ai",
+        "assistants",
+        "ai",
+        "assistants",
+        "search",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "leann",
+      "name": "LEANN",
+      "slug": "leann",
+      "description": "Libreria para agentes eficientes",
+      "url": "https://github.com/yichuan-w/LEANN",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "agents",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "LEANN",
+        "leann",
+        "Libreria para agentes eficientes",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "agents",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "supertonic",
+      "name": "supertonic",
+      "slug": "supertonic",
+      "description": "Toolkit IA para voz y audio",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistants",
+        "audio",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "supertonic",
+        "supertonic",
+        "Toolkit IA para voz y audio",
+        "ai",
+        "assistants",
+        "ai",
+        "assistants",
+        "audio",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "versecrafter",
+      "name": "VerseCrafter",
+      "slug": "versecrafter",
+      "description": "Generacion de video con prompts",
+      "url": "https://github.com/TencentARC/VerseCrafter",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image-generation",
+        "video",
+        "github",
+        "tencent"
+      ],
+      "searchIndex": [
+        "VerseCrafter",
+        "versecrafter",
+        "Generacion de video con prompts",
+        "ai",
+        "image-generation",
+        "ai",
+        "image-generation",
+        "video",
+        "github",
+        "tencent"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "visomaster-fusion",
+      "name": "VisoMaster-Fusion",
+      "slug": "visomaster-fusion",
+      "description": "Suite de creacion visual IA",
+      "url": "https://github.com/VisoMasterFusion/VisoMaster-Fusion",
+      "status": "active",
+      "tags": [
+        "ai",
+        "image-generation",
+        "visual",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "VisoMaster-Fusion",
+        "visomaster-fusion",
+        "Suite de creacion visual IA",
+        "ai",
+        "image-generation",
+        "ai",
+        "image-generation",
+        "visual",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "mini-browser",
+      "name": "mini-browser",
+      "slug": "mini-browser",
+      "description": "Navegador mini para agentes web",
+      "url": "https://github.com/runablehq/mini-browser",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "browser",
+        "github",
+        "agent"
+      ],
+      "searchIndex": [
+        "mini-browser",
+        "mini-browser",
+        "Navegador mini para agentes web",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "browser",
+        "github",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "argus",
+      "name": "Argus",
+      "slug": "argus",
+      "description": "Agente para observabilidad LLM",
+      "url": "https://github.com/jasonxtn/Argus",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistants",
+        "observability",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Argus",
+        "argus",
+        "Agente para observabilidad LLM",
+        "ai",
+        "assistants",
+        "ai",
+        "assistants",
+        "observability",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "openguider",
+      "name": "OpenGuider",
+      "slug": "openguider",
+      "description": "Guia open source para agentes IA",
+      "url": "https://github.com/mo-tunn/OpenGuider",
+      "status": "active",
+      "tags": [
+        "ai",
+        "assistants",
+        "guides",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "OpenGuider",
+        "openguider",
+        "Guia open source para agentes IA",
+        "ai",
+        "assistants",
+        "ai",
+        "assistants",
+        "guides",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
     }
   ]
 }

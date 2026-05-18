@@ -11,14 +11,14 @@
       "id": "education-learning",
       "name": "Education Learning",
       "slug": "education-learning",
-      "resourceCount": 185,
+      "resourceCount": 192,
       "status": "active"
     },
     {
       "id": "security-vpn",
       "name": "Security Vpn",
       "slug": "security-vpn",
-      "resourceCount": 30,
+      "resourceCount": 31,
       "status": "active"
     }
   ],
@@ -52,7 +52,7 @@
       "name": "Programming Courses",
       "slug": "programming-courses",
       "category": "education-learning",
-      "resourceCount": 185,
+      "resourceCount": 192,
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
       "name": "Security Auth",
       "slug": "security-auth",
       "category": "security-vpn",
-      "resourceCount": 17,
+      "resourceCount": 18,
       "status": "active"
     },
     {
@@ -5289,7 +5289,7 @@
       "noCreditCard": false
     },
     {
-      "id": "neon-database",
+      "id": "neon-database-2",
       "name": "Neon Database",
       "slug": "neon-database",
       "description": "Neon postgres",
@@ -6728,7 +6728,7 @@
       "noCreditCard": false
     },
     {
-      "id": "sql-is-easy",
+      "id": "sql-is-easy-2",
       "name": "Sql Is Easy",
       "slug": "sql-is-easy",
       "description": "SQL y postgres",
@@ -6747,8 +6747,11 @@
         "SQL y postgres",
         "education-learning",
         "programming-courses",
+        "education-learning",
+        "programming-courses",
         "y-s-educacia-n-aprendizaje",
-        "canales-youtube"
+        "canales-youtube",
+        "sql-is-easy"
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
@@ -6834,7 +6837,7 @@
       "noCreditCard": false
     },
     {
-      "id": "sql-university",
+      "id": "sql-university-2",
       "name": "SQL University",
       "slug": "sql-university",
       "description": "SQL, Postgres y SQL server",
@@ -8104,6 +8107,302 @@
       "added": "2026-05-14",
       "verified": true,
       "noCreditCard": false
+    },
+    {
+      "id": "gospider",
+      "name": "gospider",
+      "slug": "gospider",
+      "description": "Crawler rapido para auditoria web",
+      "url": "https://github.com/jaeles-project/gospider",
+      "status": "active",
+      "tags": [
+        "security",
+        "crawler",
+        "github",
+        "open-source",
+        "recon"
+      ],
+      "searchIndex": [
+        "gospider",
+        "gospider",
+        "Crawler rapido para auditoria web",
+        "security-vpn",
+        "security-auth",
+        "security",
+        "crawler",
+        "github",
+        "open-source",
+        "recon"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "hands-on-modern-rl-v015",
+      "name": "hands-on-modern-rl-v015",
+      "slug": "hands-on-modern-rl-v015",
+      "description": "Release practica de RL moderno",
+      "url": "https://github.com/walkinglabs/hands-on-modern-rl/releases/tag/v0.1.5",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "rl",
+        "github",
+        "release"
+      ],
+      "searchIndex": [
+        "hands-on-modern-rl-v015",
+        "hands-on-modern-rl-v015",
+        "Release practica de RL moderno",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "rl",
+        "github",
+        "release"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "en",
+      "name": "en",
+      "slug": "en",
+      "description": "Portal tecnico de Walkinglabs",
+      "url": "https://walkinglabs.github.io/en",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "web",
+        "github-pages",
+        "resources"
+      ],
+      "searchIndex": [
+        "en",
+        "en",
+        "Portal tecnico de Walkinglabs",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "web",
+        "github-pages",
+        "resources"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "intro-neural-networks",
+      "name": "intro-neural-networks",
+      "slug": "intro-neural-networks",
+      "description": "Curso intro de redes neuronales",
+      "url": "https://brilliant.org/courses/intro-neural-networks",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "neural-networks",
+        "course",
+        "ai"
+      ],
+      "searchIndex": [
+        "intro-neural-networks",
+        "intro-neural-networks",
+        "Curso intro de redes neuronales",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "neural-networks",
+        "course",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "freemium",
+      "languages": [
+        "en"
+      ],
+      "limits": "plan gratis con limites",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "papers-arxiv-2026",
+      "name": "Papers-ArXiv-2026",
+      "slug": "papers-arxiv-2026",
+      "description": "Coleccion papers ArXiv 2025-2026",
+      "url": "https://arxiv.org/abs/2605.10741",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "arxiv",
+        "papers",
+        "research"
+      ],
+      "searchIndex": [
+        "Papers-ArXiv-2026",
+        "papers-arxiv-2026",
+        "Coleccion papers ArXiv 2025-2026",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "arxiv",
+        "papers",
+        "research"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-ai-software-engineering",
+      "name": "awesome-ai-software-engineering",
+      "slug": "awesome-ai-software-engineering",
+      "description": "Recursos IA para software eng",
+      "url": "https://github.com/dontriskit/awesome-ai-software-engineering",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "ai",
+        "github",
+        "research"
+      ],
+      "searchIndex": [
+        "awesome-ai-software-engineering",
+        "awesome-ai-software-engineering",
+        "Recursos IA para software eng",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "ai",
+        "github",
+        "research"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "ai-self-replication",
+      "name": "AI-self-replication",
+      "slug": "ai-self-replication",
+      "description": "Investigacion sobre autoreplicacion IA",
+      "url": "https://github.com/palisaderesearch/AI-self-replication",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "ai",
+        "github",
+        "research"
+      ],
+      "searchIndex": [
+        "AI-self-replication",
+        "ai-self-replication",
+        "Investigacion sobre autoreplicacion IA",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "ai",
+        "github",
+        "research"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "llm-engineering",
+      "name": "llm_engineering",
+      "slug": "llm-engineering",
+      "description": "Curso practico de LLM engineering",
+      "url": "https://github.com/ed-donner/llm_engineering",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "ai",
+        "github",
+        "research"
+      ],
+      "searchIndex": [
+        "llm_engineering",
+        "llm-engineering",
+        "Curso practico de LLM engineering",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "ai",
+        "github",
+        "research"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
     }
   ]
 }

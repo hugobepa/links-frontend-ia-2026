@@ -1,62 +1,52 @@
 {
   "tags": {
-    "accessibility": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta accessibility"
-    },
-    "ai": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta ai"
-    },
-    "ai-translation": {
-      "count": 1,
+    "testing": {
+      "count": 17,
       "color": "#4f46e5",
-      "description": "Etiqueta ai-translation"
+      "description": "Etiqueta testing"
     },
-    "all-in-one": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta all-in-one"
-    },
-    "api": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta api"
+    "load-testing": {
+      "count": 4,
+      "color": "#65a30d",
+      "description": "Etiqueta load-testing"
     },
     "artillery": {
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta artillery"
     },
-    "automated": {
+    "api": {
       "count": 1,
       "color": "#7c3aed",
-      "description": "Etiqueta automated"
+      "description": "Etiqueta api"
     },
-    "automation": {
-      "count": 5,
-      "color": "#ea580c",
-      "description": "Etiqueta automation"
-    },
-    "browsers": {
+    "microservices": {
       "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta browsers"
+      "color": "#4f46e5",
+      "description": "Etiqueta microservices"
+    },
+    "cross-browser": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta cross-browser"
     },
     "browserstack": {
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta browserstack"
     },
-    "ci": {
+    "testing-platform": {
+      "count": 3,
+      "color": "#2563eb",
+      "description": "Etiqueta testing-platform"
+    },
+    "browsers": {
       "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta ci"
+      "color": "#65a30d",
+      "description": "Etiqueta browsers"
     },
     "ci-cd": {
-      "count": 6,
+      "count": 8,
       "color": "#db2777",
       "description": "Etiqueta ci-cd"
     },
@@ -65,390 +55,410 @@
       "color": "#0891b2",
       "description": "Etiqueta cloud"
     },
-    "collaboration": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta collaboration"
-    },
-    "containers": {
-      "count": 4,
-      "color": "#db2777",
-      "description": "Etiqueta containers"
-    },
-    "cross-browser": {
-      "count": 2,
-      "color": "#059669",
-      "description": "Etiqueta cross-browser"
-    },
-    "crowdin": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta crowdin"
-    },
-    "daemonless": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta daemonless"
-    },
-    "deepl": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta deepl"
-    },
-    "deployment": {
-      "count": 1,
+    "automation": {
+      "count": 9,
       "color": "#ea580c",
-      "description": "Etiqueta deployment"
-    },
-    "development": {
-      "count": 2,
-      "color": "#65a30d",
-      "description": "Etiqueta development"
-    },
-    "devops": {
-      "count": 7,
-      "color": "#65a30d",
-      "description": "Etiqueta devops"
-    },
-    "devops-ci-cd": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta devops-ci-cd"
-    },
-    "docker": {
-      "count": 3,
-      "color": "#dc2626",
-      "description": "Etiqueta docker"
-    },
-    "docker-alternative": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta docker-alternative"
-    },
-    "e2e": {
-      "count": 2,
-      "color": "#dc2626",
-      "description": "Etiqueta e2e"
-    },
-    "edge": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta edge"
-    },
-    "enterprise": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta enterprise"
-    },
-    "facebook": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta facebook"
-    },
-    "fast": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta fast"
-    },
-    "frameworks": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta frameworks"
-    },
-    "free": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta free"
-    },
-    "frontend": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta frontend"
-    },
-    "github": {
-      "count": 3,
-      "color": "#d97706",
-      "description": "Etiqueta github"
-    },
-    "google": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta google"
-    },
-    "gui": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta gui"
-    },
-    "ide": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta ide"
-    },
-    "javascript": {
-      "count": 2,
-      "color": "#ea580c",
-      "description": "Etiqueta javascript"
-    },
-    "jest": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta jest"
-    },
-    "jest-compatible": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta jest-compatible"
-    },
-    "k6": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta k6"
-    },
-    "katalon": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta katalon"
-    },
-    "kite": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta kite"
-    },
-    "kubernetes": {
-      "count": 5,
-      "color": "#2563eb",
-      "description": "Etiqueta kubernetes"
-    },
-    "lambdatest": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta lambdatest"
-    },
-    "learning": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta learning"
-    },
-    "legacy": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta legacy"
-    },
-    "lightweight": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta lightweight"
-    },
-    "lightweight-k8s": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta lightweight-k8s"
-    },
-    "load-testing": {
-      "count": 4,
-      "color": "#65a30d",
-      "description": "Etiqueta load-testing"
-    },
-    "loader-io": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta loader-io"
-    },
-    "local": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta local"
-    },
-    "localization": {
-      "count": 4,
-      "color": "#ea580c",
-      "description": "Etiqueta localization"
-    },
-    "localization-platform": {
-      "count": 4,
-      "color": "#d97706",
-      "description": "Etiqueta localization-platform"
-    },
-    "locust": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta locust"
-    },
-    "lokalise": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta lokalise"
-    },
-    "management": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta management"
-    },
-    "microservices": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta microservices"
-    },
-    "microsoft": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta microsoft"
-    },
-    "multi-language": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta multi-language"
-    },
-    "open-source": {
-      "count": 5,
-      "color": "#4f46e5",
-      "description": "Etiqueta open-source"
-    },
-    "orchestration": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta orchestration"
-    },
-    "performance": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta performance"
+      "description": "Etiqueta automation"
     },
     "pipelines": {
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta pipelines"
     },
-    "plugins": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta plugins"
+    "devops": {
+      "count": 14,
+      "color": "#65a30d",
+      "description": "Etiqueta devops"
     },
-    "podman": {
-      "count": 1,
+    "translation": {
+      "count": 7,
       "color": "#ea580c",
-      "description": "Etiqueta podman"
+      "description": "Etiqueta translation"
     },
-    "poeditor": {
+    "localization": {
+      "count": 5,
+      "color": "#ea580c",
+      "description": "Etiqueta localization"
+    },
+    "crowdin": {
       "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta poeditor"
+      "color": "#db2777",
+      "description": "Etiqueta crowdin"
     },
-    "python": {
+    "collaboration": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta collaboration"
+    },
+    "localization-platform": {
+      "count": 4,
+      "color": "#d97706",
+      "description": "Etiqueta localization-platform"
+    },
+    "frontend": {
       "count": 1,
       "color": "#7c3aed",
-      "description": "Etiqueta python"
+      "description": "Etiqueta frontend"
     },
-    "qa": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta qa"
-    },
-    "react": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta react"
-    },
-    "releasebot": {
-      "count": 1,
+    "e2e": {
+      "count": 2,
       "color": "#dc2626",
-      "description": "Etiqueta releasebot"
+      "description": "Etiqueta e2e"
     },
-    "saucelabs": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta saucelabs"
-    },
-    "screenshot-pipeline-qa": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta screenshot-pipeline-qa"
-    },
-    "security": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta security"
-    },
-    "self-hosted": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta self-hosted"
-    },
-    "team": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta team"
-    },
-    "test-cases": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta test-cases"
-    },
-    "test-management": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta test-management"
-    },
-    "testing": {
-      "count": 16,
-      "color": "#4f46e5",
-      "description": "Etiqueta testing"
+    "javascript": {
+      "count": 3,
+      "color": "#ea580c",
+      "description": "Etiqueta javascript"
     },
     "testing-framework": {
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta testing-framework"
     },
-    "testing-library": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta testing-library"
-    },
-    "testing-platform": {
-      "count": 3,
-      "color": "#2563eb",
-      "description": "Etiqueta testing-platform"
-    },
-    "testing-tool": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta testing-tool"
-    },
-    "testrail": {
+    "ai": {
       "count": 1,
       "color": "#dc2626",
-      "description": "Etiqueta testrail"
+      "description": "Etiqueta ai"
     },
-    "transifex": {
+    "deepl": {
       "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta transifex"
-    },
-    "translation": {
-      "count": 6,
-      "color": "#ea580c",
-      "description": "Etiqueta translation"
-    },
-    "translation-management": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta translation-management"
+      "color": "#dc2626",
+      "description": "Etiqueta deepl"
     },
     "translation-tool": {
       "count": 2,
       "color": "#2563eb",
       "description": "Etiqueta translation-tool"
     },
+    "ai-translation": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta ai-translation"
+    },
+    "containers": {
+      "count": 6,
+      "color": "#db2777",
+      "description": "Etiqueta containers"
+    },
+    "docker": {
+      "count": 3,
+      "color": "#dc2626",
+      "description": "Etiqueta docker"
+    },
+    "deployment": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta deployment"
+    },
+    "github": {
+      "count": 10,
+      "color": "#d97706",
+      "description": "Etiqueta github"
+    },
+    "workflows": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta workflows"
+    },
+    "google": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta google"
+    },
+    "multi-language": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta multi-language"
+    },
+    "free": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta free"
+    },
+    "open-source": {
+      "count": 6,
+      "color": "#4f46e5",
+      "description": "Etiqueta open-source"
+    },
+    "self-hosted": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta self-hosted"
+    },
+    "plugins": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta plugins"
+    },
+    "jest": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta jest"
+    },
     "unit-testing": {
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta unit-testing"
     },
+    "facebook": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta facebook"
+    },
+    "kubernetes": {
+      "count": 5,
+      "color": "#2563eb",
+      "description": "Etiqueta kubernetes"
+    },
+    "lightweight": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta lightweight"
+    },
+    "edge": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta edge"
+    },
+    "lightweight-k8s": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta lightweight-k8s"
+    },
+    "k6": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta k6"
+    },
+    "performance": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta performance"
+    },
+    "katalon": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta katalon"
+    },
+    "all-in-one": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta all-in-one"
+    },
+    "testing-tool": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta testing-tool"
+    },
+    "development": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta development"
+    },
+    "y-devops-ci-cd": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta y-devops-ci-cd"
+    },
+    "kite": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta kite"
+    },
+    "orchestration": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta orchestration"
+    },
+    "lambdatest": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta lambdatest"
+    },
+    "ide": {
+      "count": 2,
+      "color": "#4f46e5",
+      "description": "Etiqueta ide"
+    },
+    "gui": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta gui"
+    },
+    "management": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta management"
+    },
+    "loader-io": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta loader-io"
+    },
+    "web-testing": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta web-testing"
+    },
+    "locust": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta locust"
+    },
+    "python": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta python"
+    },
+    "lokalise": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta lokalise"
+    },
+    "team": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta team"
+    },
+    "local": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta local"
+    },
+    "learning": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta learning"
+    },
+    "microsoft": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta microsoft"
+    },
+    "podman": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta podman"
+    },
+    "daemonless": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta daemonless"
+    },
+    "security": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta security"
+    },
+    "docker-alternative": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta docker-alternative"
+    },
+    "poeditor": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta poeditor"
+    },
+    "translation-management": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta translation-management"
+    },
+    "devops-ci-cd": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta devops-ci-cd"
+    },
+    "releasebot": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta releasebot"
+    },
+    "automated": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta automated"
+    },
+    "saucelabs": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta saucelabs"
+    },
+    "frameworks": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta frameworks"
+    },
+    "yz-testing-qa": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta yz-testing-qa"
+    },
+    "screenshot-pipeline-qa": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta screenshot-pipeline-qa"
+    },
+    "react": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta react"
+    },
+    "testing-library": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta testing-library"
+    },
+    "accessibility": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta accessibility"
+    },
     "user-testing": {
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta user-testing"
+    },
+    "test-management": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta test-management"
+    },
+    "testrail": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta testrail"
+    },
+    "qa": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta qa"
+    },
+    "test-cases": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta test-cases"
+    },
+    "transifex": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta transifex"
+    },
+    "enterprise": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta enterprise"
+    },
+    "ci": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta ci"
+    },
+    "legacy": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta legacy"
     },
     "vite": {
       "count": 1,
@@ -460,70 +470,81 @@
       "color": "#059669",
       "description": "Etiqueta vitest"
     },
-    "web-testing": {
+    "fast": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta fast"
+    },
+    "jest-compatible": {
       "count": 1,
       "color": "#ea580c",
-      "description": "Etiqueta web-testing"
+      "description": "Etiqueta jest-compatible"
     },
-    "workflows": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta workflows"
-    },
-    "y-devops-ci-cd": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta y-devops-ci-cd"
-    },
-    "yz-testing-qa": {
+    "android": {
       "count": 1,
       "color": "#ea580c",
-      "description": "Etiqueta yz-testing-qa"
+      "description": "Etiqueta android"
+    },
+    "linux": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta linux"
+    },
+    "tools": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta tools"
+    },
+    "resources": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta resources"
+    },
+    "awesome": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta awesome"
+    },
+    "autonomous": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta autonomous"
+    },
+    "cloning": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta cloning"
+    },
+    "snippet": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta snippet"
+    },
+    "gist": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta gist"
+    },
+    "vercel": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta vercel"
     }
   },
   "searchIndex": {
-    "fields": [
-      {
-        "name": "name",
-        "weight": 3,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "description",
-        "weight": 2,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "tags",
-        "weight": 2,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "category",
-        "weight": 1,
-        "encode": "forward",
-        "tokenize": "forward"
-      },
-      {
-        "name": "subcategory",
-        "weight": 1,
-        "encode": "forward",
-        "tokenize": "forward"
-      }
-    ],
-    "entries": [
+    "resources": [
       {
         "id": "artillery",
         "slug": "artillery",
         "terms": [
           "Artillery",
           "artillery",
-          "Load testing moderno para APIs y microservicios",
+          "Load testing moderno para APIs y microse",
           "testing",
           "load-testing",
+          "testing",
+          "load-testing",
+          "artillery",
           "api",
           "microservices"
         ]
@@ -534,10 +555,12 @@
         "terms": [
           "BrowserStack",
           "browserstack",
-          "Testing cross-browser en navegadores reales",
+          "Testing cross-browser en navegadores rea",
           "testing",
           "platforms",
+          "testing",
           "cross-browser",
+          "browserstack",
           "testing-platform",
           "browsers"
         ]
@@ -548,12 +571,14 @@
         "terms": [
           "CircleCI",
           "circleci",
-          "CI/CD cloud con plan gratuito para proyectos pequeños",
+          "CI/CD cloud con plan gratuito para proye",
           "devops",
+          "ci-cd",
           "ci-cd",
           "cloud",
           "automation",
-          "pipelines"
+          "pipelines",
+          "devops"
         ]
       },
       {
@@ -565,7 +590,9 @@
           "Plataforma de localización colaborativa",
           "translation",
           "platforms",
+          "translation",
           "localization",
+          "crowdin",
           "collaboration",
           "localization-platform"
         ]
@@ -576,9 +603,10 @@
         "terms": [
           "Cypress",
           "cypress",
-          "Testing frontend moderno con excelente DX",
+          "Testing frontend moderno con excelente D",
           "testing",
           "frameworks",
+          "testing",
           "frontend",
           "e2e",
           "javascript",
@@ -591,10 +619,12 @@
         "terms": [
           "DeepL",
           "deepl",
-          "Traductor IA de alta calidad con contexto",
+          "Traductor IA de alta calidad con context",
           "translation",
           "tools",
+          "translation",
           "ai",
+          "deepl",
           "translation-tool",
           "ai-translation"
         ]
@@ -605,9 +635,12 @@
         "terms": [
           "Docker",
           "docker",
-          "Plataforma de contenedores estándar de la industria",
+          "Plataforma de contenedores estándar de",
           "devops",
           "containers",
+          "containers",
+          "docker",
+          "devops",
           "deployment"
         ]
       },
@@ -617,12 +650,14 @@
         "terms": [
           "GitHub Actions",
           "github-actions",
-          "CI/CD integrado en GitHub con workflows automatizados",
+          "CI/CD integrado en GitHub con workflows",
           "devops",
+          "ci-cd",
           "ci-cd",
           "github",
           "automation",
-          "workflows"
+          "workflows",
+          "devops"
         ]
       },
       {
@@ -631,9 +666,10 @@
         "terms": [
           "Google Translate",
           "google-translate",
-          "Traducción automática gratuita multi-idioma",
+          "Traducción automática gratuita multi-i",
           "translation",
           "tools",
+          "translation",
           "google",
           "translation-tool",
           "multi-language",
@@ -646,8 +682,9 @@
         "terms": [
           "Jenkins",
           "jenkins",
-          "CI/CD open source self-hosted con plugins extensibles",
+          "CI/CD open source self-hosted con plugin",
           "devops",
+          "ci-cd",
           "ci-cd",
           "open-source",
           "self-hosted",
@@ -661,10 +698,12 @@
         "terms": [
           "Jest",
           "jest",
-          "Framework de testing JavaScript de Facebook",
+          "Framework de testing JavaScript de Faceb",
           "testing",
           "frameworks",
+          "testing",
           "javascript",
+          "jest",
           "unit-testing",
           "facebook"
         ]
@@ -675,7 +714,7 @@
         "terms": [
           "K3s",
           "k3s",
-          "Kubernetes ligero para edge y entornos con recursos limitados",
+          "Kubernetes ligero para edge y entornos c",
           "devops",
           "containers",
           "kubernetes",
@@ -689,9 +728,13 @@
         "slug": "k6",
         "terms": [
           "k6",
-          "Load testing open source para desarrolladores",
+          "k6",
+          "Load testing open source para desarrolla",
           "testing",
           "load-testing",
+          "testing",
+          "load-testing",
+          "k6",
           "open-source",
           "performance"
         ]
@@ -702,10 +745,12 @@
         "terms": [
           "Katalon",
           "katalon",
-          "Automatización testing todo-en-uno para web, mobile, API",
+          "Automatización testing todo-en-uno para",
           "testing",
           "platforms",
+          "testing",
           "automation",
+          "katalon",
           "all-in-one",
           "testing-tool"
         ]
@@ -716,7 +761,7 @@
         "terms": [
           "Kind",
           "kind",
-          "Kubernetes en Docker para desarrollo y testing local",
+          "Kubernetes en Docker para desarrollo y t",
           "devops",
           "containers",
           "kubernetes",
@@ -734,7 +779,10 @@
           "Dashboard Kubernetes con IA multi-cluste",
           "devops",
           "ci-cd",
-          "y-devops-ci-cd"
+          "devops",
+          "ci-cd",
+          "y-devops-ci-cd",
+          "kite"
         ]
       },
       {
@@ -758,10 +806,12 @@
         "terms": [
           "LambdaTest",
           "lambdatest",
-          "Testing cross-browser en 3000+ navegadores y dispositivos",
+          "Testing cross-browser en 3000+ navegador",
           "testing",
           "platforms",
+          "testing",
           "cross-browser",
+          "lambdatest",
           "cloud",
           "testing-platform"
         ]
@@ -772,7 +822,7 @@
         "terms": [
           "Lens",
           "lens",
-          "IDE para Kubernetes con interfaz gráfica intuitiva",
+          "IDE para Kubernetes con interfaz gráfic",
           "devops",
           "containers",
           "kubernetes",
@@ -787,9 +837,12 @@
         "terms": [
           "Loader.io",
           "loader-io",
-          "Load testing gratuito básico para aplicaciones web",
+          "Load testing gratuito básico para aplic",
           "testing",
           "load-testing",
+          "testing",
+          "load-testing",
+          "loader-io",
           "free",
           "web-testing"
         ]
@@ -800,9 +853,12 @@
         "terms": [
           "Locust",
           "locust",
-          "Load testing en Python escalable y distribuido",
+          "Load testing en Python escalable y distr",
           "testing",
           "load-testing",
+          "testing",
+          "load-testing",
+          "locust",
           "python",
           "performance"
         ]
@@ -816,7 +872,9 @@
           "Plataforma de localización para equipos",
           "translation",
           "platforms",
+          "translation",
           "localization",
+          "lokalise",
           "team",
           "localization-platform"
         ]
@@ -827,7 +885,7 @@
         "terms": [
           "Minikube",
           "minikube",
-          "Kubernetes local para desarrollo y aprendizaje",
+          "Kubernetes local para desarrollo y apren",
           "devops",
           "containers",
           "kubernetes",
@@ -842,9 +900,10 @@
         "terms": [
           "Playwright",
           "playwright",
-          "Testing E2E Microsoft open source multi-navegador",
+          "Testing E2E Microsoft open source multi-",
           "testing",
           "frameworks",
+          "testing",
           "e2e",
           "microsoft",
           "open-source",
@@ -857,9 +916,11 @@
         "terms": [
           "Podman",
           "podman",
-          "Alternativa Docker sin daemon con seguridad mejorada",
+          "Alternativa Docker sin daemon con seguri",
           "devops",
           "containers",
+          "containers",
+          "podman",
           "daemonless",
           "security",
           "docker-alternative"
@@ -871,10 +932,12 @@
         "terms": [
           "POEditor",
           "poeditor",
-          "Gestión de traducciones con interfaz intuitiva",
+          "Gestión de traducciones con interfaz in",
           "translation",
           "platforms",
+          "translation",
           "localization",
+          "poeditor",
           "translation-management",
           "localization-platform"
         ]
@@ -884,10 +947,14 @@
         "slug": "releasebot",
         "terms": [
           "releasebot",
+          "releasebot",
           "Automatiza releases y changelogs",
           "devops",
           "ci-cd",
-          "devops-ci-cd"
+          "devops",
+          "ci-cd",
+          "devops-ci-cd",
+          "releasebot"
         ]
       },
       {
@@ -896,9 +963,10 @@
         "terms": [
           "Sauce Labs",
           "sauce-labs",
-          "Testing automatizado en nube con múltiples navegadores",
+          "Testing automatizado en nube con múltip",
           "testing",
           "platforms",
+          "testing",
           "automated",
           "saucelabs",
           "cloud",
@@ -914,7 +982,10 @@
           "Pipeline automatizado screenshots para Q",
           "testing",
           "frameworks",
-          "yz-testing-qa"
+          "testing",
+          "frameworks",
+          "yz-testing-qa",
+          "screenshot-pipeline-qa"
         ]
       },
       {
@@ -923,10 +994,12 @@
         "terms": [
           "Testing Library",
           "testing-library",
-          "Utilidades de testing React enfocadas en el usuario",
+          "Utilidades de testing React enfocadas en",
           "testing",
           "frameworks",
+          "testing",
           "react",
+          "testing-library",
           "accessibility",
           "user-testing"
         ]
@@ -937,10 +1010,12 @@
         "terms": [
           "TestRail",
           "testrail",
-          "Gestión de casos de prueba y seguimiento de testing",
+          "Gestión de casos de prueba y seguimient",
           "testing",
           "platforms",
+          "testing",
           "test-management",
+          "testrail",
           "qa",
           "test-cases"
         ]
@@ -954,7 +1029,9 @@
           "Plataforma de localización enterprise",
           "translation",
           "platforms",
+          "translation",
           "localization",
+          "transifex",
           "enterprise",
           "localization-platform"
         ]
@@ -965,8 +1042,9 @@
         "terms": [
           "Travis CI",
           "travis-ci",
-          "CI/CD para proyectos open source con integración GitHub",
+          "CI/CD para proyectos open source con int",
           "devops",
+          "ci-cd",
           "ci-cd",
           "open-source",
           "github",
@@ -980,10 +1058,12 @@
         "terms": [
           "Vitest",
           "vitest",
-          "Testing framework rápido para Vite con compatibilidad Jest",
+          "Testing framework rápido para Vite con",
           "testing",
           "frameworks",
+          "testing",
           "vite",
+          "vitest",
           "fast",
           "jest-compatible"
         ]
@@ -997,9 +1077,139 @@
           "Contenedores Linux en Windows",
           "devops",
           "containers",
+          "devops",
+          "containers",
           "docker",
           "github",
           "open-source"
+        ]
+      },
+      {
+        "id": "ubuntu-on-android",
+        "slug": "ubuntu-on-android",
+        "terms": [
+          "ubuntu-on-android",
+          "ubuntu-on-android",
+          "Ubuntu en Android con contenedor",
+          "devops",
+          "containers",
+          "devops",
+          "containers",
+          "android",
+          "linux",
+          "github"
+        ]
+      },
+      {
+        "id": "alumnium",
+        "slug": "alumnium",
+        "terms": [
+          "alumnium",
+          "alumnium",
+          "Orquestacion de flujos DevOps",
+          "devops",
+          "ci-cd",
+          "devops",
+          "ci-cd",
+          "automation",
+          "github",
+          "open-source"
+        ]
+      },
+      {
+        "id": "playtranslate",
+        "slug": "playtranslate",
+        "terms": [
+          "playtranslate",
+          "playtranslate",
+          "Traduccion continua para apps",
+          "translation",
+          "tools",
+          "translation",
+          "tools",
+          "github",
+          "localization",
+          "automation"
+        ]
+      },
+      {
+        "id": "awesome-autonomous-vehicles",
+        "slug": "awesome-autonomous-vehicles",
+        "terms": [
+          "awesome-autonomous-vehicles",
+          "awesome-autonomous-vehicles",
+          "Recursos de vehiculos autonomos",
+          "devops",
+          "ci-cd",
+          "devops",
+          "resources",
+          "awesome",
+          "github",
+          "autonomous"
+        ]
+      },
+      {
+        "id": "website-cloner",
+        "slug": "website-cloner",
+        "terms": [
+          "website-cloner",
+          "website-cloner",
+          "Clona sitios para pruebas locales",
+          "devops",
+          "containers",
+          "devops",
+          "tools",
+          "github",
+          "cloning",
+          "testing"
+        ]
+      },
+      {
+        "id": "silicon-studio",
+        "slug": "silicon-studio",
+        "terms": [
+          "Silicon-Studio",
+          "silicon-studio",
+          "IDE experimental para automatizar",
+          "devops",
+          "ci-cd",
+          "devops",
+          "ci-cd",
+          "ide",
+          "github",
+          "automation"
+        ]
+      },
+      {
+        "id": "fc434091c6414acc098f58b18a0146d8-js",
+        "slug": "fc434091c6414acc098f58b18a0146d8-js",
+        "terms": [
+          "fc434091c6414acc098f58b18a0146d8-js",
+          "fc434091c6414acc098f58b18a0146d8-js",
+          "Snippet JS util para automatizacion",
+          "devops",
+          "ci-cd",
+          "devops",
+          "snippet",
+          "javascript",
+          "gist",
+          "automation"
+        ]
+      },
+      {
+        "id": "zero",
+        "slug": "zero",
+        "terms": [
+          "zero",
+          "zero",
+          "Base para apps edge y despliegue",
+          "devops",
+          "containers",
+          "devops",
+          "containers",
+          "edge",
+          "github",
+          "vercel"
         ]
       }
     ]
@@ -1042,6 +1252,6 @@
     "dataset": "dev-ops_testing_translation",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 35
+    "resourceCount": 43
   }
 }
