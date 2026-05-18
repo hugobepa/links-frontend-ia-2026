@@ -1229,9 +1229,9 @@
       "noCreditCard": true
     },
     {
-      "id": "notion",
+      "id": "notion-web",
       "name": "Notion",
-      "slug": "notion",
+      "slug": "notion-web",
       "description": "Workspace todo-en-uno gratis personal",
       "url": "https://www.notion.so",
       "status": "active",
@@ -1243,7 +1243,7 @@
       ],
       "searchIndex": [
         "Notion",
-        "notion",
+        "notion-web",
         "Workspace todo-en-uno gratis personal",
         "utilities",
         "productivity",
@@ -1264,9 +1264,9 @@
       "noCreditCard": true
     },
     {
-      "id": "npm-alternatives",
+      "id": "npm-alternatives-web",
       "name": "NPM Alternatives",
-      "slug": "npm-alternatives",
+      "slug": "npm-alternatives-web",
       "description": "npms.io, npmsearch.com",
       "url": "https://npmsearch.com/",
       "status": "active",
@@ -1278,7 +1278,7 @@
       ],
       "searchIndex": [
         "NPM Alternatives",
-        "npm-alternatives",
+        "npm-alternatives-web",
         "npms.io, npmsearch.com",
         "utilities",
         "productivity",
@@ -1989,9 +1989,9 @@
       "noCreditCard": true
     },
     {
-      "id": "it-tools",
+      "id": "it-tools-gh",
       "name": "it-tools",
-      "slug": "it-tools",
+      "slug": "it-tools-gh",
       "description": "Caja de herramientas para dev",
       "url": "https://github.com/CorentinTh/it-tools",
       "status": "active",
@@ -2004,7 +2004,7 @@
       ],
       "searchIndex": [
         "it-tools",
-        "it-tools",
+        "it-tools-gh",
         "Caja de herramientas para dev",
         "utilities",
         "productivity",

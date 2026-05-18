@@ -568,9 +568,9 @@
       "noCreditCard": true
     },
     {
-      "id": "firecrawl",
+      "id": "firecrawl-org",
       "name": "FireCrawl",
-      "slug": "firecrawl",
+      "slug": "firecrawl-org",
       "description": "API para buscar y scrapear web a escala",
       "url": "https://github.com/firecrawl",
       "status": "active",
@@ -582,7 +582,7 @@
       ],
       "searchIndex": [
         "FireCrawl",
-        "firecrawl",
+        "firecrawl-org",
         "API para buscar y scrapear web a escala",
         "utilities",
         "seo-scraping",
@@ -633,9 +633,9 @@
       "noCreditCard": false
     },
     {
-      "id": "free-for-dev",
+      "id": "free-for-dev-web",
       "name": "Free For Dev",
-      "slug": "free-for-dev",
+      "slug": "free-for-dev-web",
       "description": "Recursos gratis para devs",
       "url": "https://free-for.dev/",
       "status": "active",
@@ -647,7 +647,7 @@
       ],
       "searchIndex": [
         "Free For Dev",
-        "free-for-dev",
+        "free-for-dev-web",
         "Recursos gratis para devs",
         "utilities",
         "general-resources",
@@ -1203,9 +1203,9 @@
       "noCreditCard": true
     },
     {
-      "id": "sentry",
+      "id": "sentry-web",
       "name": "Sentry",
-      "slug": "sentry",
+      "slug": "sentry-web",
       "description": "control logs web live real",
       "url": "https://sentry.io/welcome/",
       "status": "active",
@@ -1216,7 +1216,7 @@
       ],
       "searchIndex": [
         "Sentry",
-        "sentry",
+        "sentry-web",
         "control logs web live real",
         "utilities",
         "dev-tools",

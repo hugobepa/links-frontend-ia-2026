@@ -1,149 +1,44 @@
 {
   "tags": {
-    "javascript": {
-      "count": 5,
-      "color": "#ea580c",
-      "description": "Etiqueta javascript"
-    },
-    "concepts": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta concepts"
-    },
-    "github": {
-      "count": 29,
-      "color": "#d97706",
-      "description": "Etiqueta github"
-    },
-    "learning": {
-      "count": 54,
-      "color": "#db2777",
-      "description": "Etiqueta learning"
-    },
-    "youtube": {
-      "count": 36,
-      "color": "#059669",
-      "description": "Etiqueta youtube"
-    },
-    "expo": {
+    "10gb": {
       "count": 2,
-      "color": "#7c3aed",
-      "description": "Etiqueta expo"
+      "color": "#db2777",
+      "description": "Etiqueta 10gb"
     },
-    "payload": {
+    "500mb": {
       "count": 1,
       "color": "#4f46e5",
-      "description": "Etiqueta payload"
-    },
-    "cms": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta cms"
-    },
-    "education-learning": {
-      "count": 40,
-      "color": "#ea580c",
-      "description": "Etiqueta education-learning"
-    },
-    "programming-courses": {
-      "count": 40,
-      "color": "#7c3aed",
-      "description": "Etiqueta programming-courses"
-    },
-    "educacion-aprendizaje": {
-      "count": 7,
-      "color": "#ea580c",
-      "description": "Etiqueta educacion-aprendizaje"
-    },
-    "cursos-programacion": {
-      "count": 6,
-      "color": "#db2777",
-      "description": "Etiqueta cursos-programacion"
+      "description": "Etiqueta 500mb"
     },
     "academic-research-skills": {
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta academic-research-skills"
     },
-    "eu": {
+    "academy": {
       "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta eu"
-    },
-    "courses": {
-      "count": 8,
-      "color": "#dc2626",
-      "description": "Etiqueta courses"
-    },
-    "official": {
-      "count": 10,
-      "color": "#ea580c",
-      "description": "Etiqueta official"
-    },
-    "various": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta various"
-    },
-    "y-s-educacia-n-aprendizaje": {
-      "count": 33,
-      "color": "#4f46e5",
-      "description": "Etiqueta y-s-educacia-n-aprendizaje"
-    },
-    "arta-culos-css-web": {
-      "count": 19,
-      "color": "#4f46e5",
-      "description": "Etiqueta arta-culos-css-web"
+      "color": "#7c3aed",
+      "description": "Etiqueta academy"
     },
     "accessibility-fixes": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta accessibility-fixes"
     },
-    "cursos-programacia-n": {
-      "count": 10,
-      "color": "#ea580c",
-      "description": "Etiqueta cursos-programacia-n"
-    },
     "accessible-browser-ext": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta accessible-browser-ext"
     },
-    "marketing": {
+    "aggregator": {
       "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta aggregator"
+    },
+    "ai": {
+      "count": 22,
       "color": "#dc2626",
-      "description": "Etiqueta marketing"
-    },
-    "finance": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta finance"
-    },
-    "business": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta business"
-    },
-    "dns": {
-      "count": 5,
-      "color": "#0891b2",
-      "description": "Etiqueta dns"
-    },
-    "dynamic": {
-      "count": 3,
-      "color": "#059669",
-      "description": "Etiqueta dynamic"
-    },
-    "subdomain": {
-      "count": 2,
-      "color": "#dc2626",
-      "description": "Etiqueta subdomain"
-    },
-    "community": {
-      "count": 5,
-      "color": "#65a30d",
-      "description": "Etiqueta community"
+      "description": "Etiqueta ai"
     },
     "aiengineeringfromscratch": {
       "count": 1,
@@ -155,65 +50,25 @@
       "color": "#7c3aed",
       "description": "Etiqueta algorithms-illinois"
     },
-    "hono": {
-      "count": 2,
-      "color": "#4f46e5",
-      "description": "Etiqueta hono"
-    },
-    "astro": {
+    "angular": {
       "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta angular"
+    },
+    "api": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta api"
+    },
+    "apple": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta apple"
+    },
+    "architecture": {
+      "count": 3,
       "color": "#d97706",
-      "description": "Etiqueta astro"
-    },
-    "htmx": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta htmx"
-    },
-    "ai": {
-      "count": 17,
-      "color": "#dc2626",
-      "description": "Etiqueta ai"
-    },
-    "research": {
-      "count": 19,
-      "color": "#0891b2",
-      "description": "Etiqueta research"
-    },
-    "coding": {
-      "count": 3,
-      "color": "#db2777",
-      "description": "Etiqueta coding"
-    },
-    "study": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta study"
-    },
-    "education": {
-      "count": 19,
-      "color": "#4f46e5",
-      "description": "Etiqueta education"
-    },
-    "programming": {
-      "count": 3,
-      "color": "#65a30d",
-      "description": "Etiqueta programming"
-    },
-    "sql": {
-      "count": 8,
-      "color": "#4f46e5",
-      "description": "Etiqueta sql"
-    },
-    "interactive": {
-      "count": 5,
-      "color": "#dc2626",
-      "description": "Etiqueta interactive"
-    },
-    "spanish": {
-      "count": 14,
-      "color": "#db2777",
-      "description": "Etiqueta spanish"
+      "description": "Etiqueta architecture"
     },
     "aria-roles-explained": {
       "count": 1,
@@ -225,20 +80,30 @@
       "color": "#dc2626",
       "description": "Etiqueta arquitectura-frontend-2026"
     },
-    "ml": {
-      "count": 5,
-      "color": "#65a30d",
-      "description": "Etiqueta ml"
+    "arta-culos-css-web": {
+      "count": 19,
+      "color": "#4f46e5",
+      "description": "Etiqueta arta-culos-css-web"
     },
-    "reading": {
-      "count": 4,
+    "articles": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta articles"
+    },
+    "articulos-css-web": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta articulos-css-web"
+    },
+    "arxiv": {
+      "count": 1,
       "color": "#2563eb",
-      "description": "Etiqueta reading"
+      "description": "Etiqueta arxiv"
     },
-    "reference": {
-      "count": 15,
+    "astro": {
+      "count": 1,
       "color": "#d97706",
-      "description": "Etiqueta reference"
+      "description": "Etiqueta astro"
     },
     "auth": {
       "count": 11,
@@ -250,225 +115,170 @@
       "color": "#7c3aed",
       "description": "Etiqueta authentication"
     },
-    "saas": {
-      "count": 2,
-      "color": "#7c3aed",
-      "description": "Etiqueta saas"
-    },
-    "identity": {
-      "count": 2,
-      "color": "#7c3aed",
-      "description": "Etiqueta identity"
-    },
-    "aws-ai-training": {
+    "automation": {
       "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta aws-ai-training"
+      "color": "#ea580c",
+      "description": "Etiqueta automation"
     },
     "aws": {
       "count": 2,
       "color": "#059669",
       "description": "Etiqueta aws"
     },
-    "cloud": {
-      "count": 5,
-      "color": "#0891b2",
-      "description": "Etiqueta cloud"
-    },
-    "training": {
-      "count": 3,
-      "color": "#2563eb",
-      "description": "Etiqueta training"
-    },
-    "certification": {
-      "count": 5,
-      "color": "#2563eb",
-      "description": "Etiqueta certification"
-    },
-    "cloudflare": {
-      "count": 6,
-      "color": "#65a30d",
-      "description": "Etiqueta cloudflare"
-    },
-    "tanstack": {
-      "count": 3,
-      "color": "#65a30d",
-      "description": "Etiqueta tanstack"
-    },
-    "dev": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta dev"
-    },
-    "english": {
-      "count": 8,
-      "color": "#4f46e5",
-      "description": "Etiqueta english"
-    },
-    "listening": {
+    "aws-ai-training": {
       "count": 1,
       "color": "#d97706",
-      "description": "Etiqueta listening"
+      "description": "Etiqueta aws-ai-training"
     },
-    "pronunciation": {
+    "azure": {
       "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta pronunciation"
+      "color": "#059669",
+      "description": "Etiqueta azure"
+    },
+    "b2b": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta b2b"
+    },
+    "backend": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta backend"
+    },
+    "basics": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta basics"
     },
     "bbc": {
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta bbc"
     },
-    "open-source": {
-      "count": 13,
-      "color": "#4f46e5",
-      "description": "Etiqueta open-source"
+    "beginner": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta beginner"
     },
-    "multi-tenant": {
+    "beginners": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta beginners"
+    },
+    "best-practices": {
+      "count": 3,
+      "color": "#d97706",
+      "description": "Etiqueta best-practices"
+    },
+    "betterauth": {
       "count": 1,
       "color": "#2563eb",
-      "description": "Etiqueta multi-tenant"
+      "description": "Etiqueta betterauth"
+    },
+    "blockchain": {
+      "count": 2,
+      "color": "#db2777",
+      "description": "Etiqueta blockchain"
+    },
+    "blog": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta blog"
+    },
+    "book": {
+      "count": 7,
+      "color": "#65a30d",
+      "description": "Etiqueta book"
     },
     "books": {
       "count": 10,
       "color": "#dc2626",
       "description": "Etiqueta books"
     },
-    "course": {
-      "count": 30,
-      "color": "#65a30d",
-      "description": "Etiqueta course"
-    },
     "box-shadow-vs-outline": {
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta box-shadow-vs-outline"
     },
-    "book": {
-      "count": 5,
-      "color": "#65a30d",
-      "description": "Etiqueta book"
-    },
-    "llm": {
-      "count": 2,
-      "color": "#0891b2",
-      "description": "Etiqueta llm"
-    },
-    "csharp": {
+    "business": {
       "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta csharp"
+      "color": "#4f46e5",
+      "description": "Etiqueta business"
     },
-    "microsoft": {
-      "count": 5,
-      "color": "#dc2626",
-      "description": "Etiqueta microsoft"
-    },
-    "dotnet": {
+    "c": {
       "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta dotnet"
+      "color": "#ea580c",
+      "description": "Etiqueta c"
     },
-    "tutorial": {
-      "count": 13,
-      "color": "#7c3aed",
-      "description": "Etiqueta tutorial"
-    },
-    "cpp": {
-      "count": 1,
+    "canales-youtube": {
+      "count": 4,
       "color": "#d97706",
-      "description": "Etiqueta cpp"
+      "description": "Etiqueta canales-youtube"
     },
-    "language": {
+    "career": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta career"
+    },
+    "certification": {
+      "count": 5,
+      "color": "#2563eb",
+      "description": "Etiqueta certification"
+    },
+    "challenges": {
       "count": 2,
       "color": "#4f46e5",
-      "description": "Etiqueta language"
-    },
-    "exams": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta exams"
-    },
-    "pdf": {
-      "count": 2,
-      "color": "#7c3aed",
-      "description": "Etiqueta pdf"
-    },
-    "development": {
-      "count": 5,
-      "color": "#65a30d",
-      "description": "Etiqueta development"
+      "description": "Etiqueta challenges"
     },
     "channel": {
       "count": 11,
       "color": "#ea580c",
       "description": "Etiqueta channel"
     },
-    "tutorials": {
-      "count": 6,
-      "color": "#ea580c",
-      "description": "Etiqueta tutorials"
+    "cheap": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta cheap"
     },
-    "security": {
-      "count": 21,
-      "color": "#db2777",
-      "description": "Etiqueta security"
-    },
-    "search": {
+    "cheatsheet": {
       "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta search"
+      "color": "#7c3aed",
+      "description": "Etiqueta cheatsheet"
     },
-    "aggregator": {
-      "count": 1,
+    "cisco": {
+      "count": 2,
       "color": "#ea580c",
-      "description": "Etiqueta aggregator"
+      "description": "Etiqueta cisco"
     },
-    "mooc": {
+    "claude": {
       "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta mooc"
+      "color": "#dc2626",
+      "description": "Etiqueta claude"
     },
     "clean-code": {
       "count": 2,
       "color": "#059669",
       "description": "Etiqueta clean-code"
     },
-    "style": {
-      "count": 2,
-      "color": "#059669",
-      "description": "Etiqueta style"
-    },
-    "python": {
-      "count": 8,
-      "color": "#7c3aed",
-      "description": "Etiqueta python"
-    },
     "clone-wars": {
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta clone-wars"
     },
-    "ddos": {
+    "cloud": {
+      "count": 5,
+      "color": "#0891b2",
+      "description": "Etiqueta cloud"
+    },
+    "cloudflare": {
+      "count": 6,
+      "color": "#65a30d",
+      "description": "Etiqueta cloudflare"
+    },
+    "cms": {
       "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta ddos"
-    },
-    "free": {
-      "count": 10,
-      "color": "#db2777",
-      "description": "Etiqueta free"
-    },
-    "vpn": {
-      "count": 7,
-      "color": "#2563eb",
-      "description": "Etiqueta vpn"
-    },
-    "warp": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta warp"
+      "color": "#d97706",
+      "description": "Etiqueta cms"
     },
     "cmu-reinforcement-learning": {
       "count": 1,
@@ -480,105 +290,100 @@
       "color": "#0891b2",
       "description": "Etiqueta codecademy-ai"
     },
-    "mongodb": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta mongodb"
-    },
-    "nextjs": {
-      "count": 6,
+    "coding": {
+      "count": 3,
       "color": "#db2777",
-      "description": "Etiqueta nextjs"
+      "description": "Etiqueta coding"
     },
-    "challenges": {
-      "count": 2,
-      "color": "#4f46e5",
-      "description": "Etiqueta challenges"
-    },
-    "practice": {
-      "count": 9,
-      "color": "#d97706",
-      "description": "Etiqueta practice"
-    },
-    "interview": {
-      "count": 4,
-      "color": "#ea580c",
-      "description": "Etiqueta interview"
-    },
-    "study-plan": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta study-plan"
+    "community": {
+      "count": 5,
+      "color": "#65a30d",
+      "description": "Etiqueta community"
     },
     "comprehensive": {
       "count": 2,
       "color": "#2563eb",
       "description": "Etiqueta comprehensive"
     },
-    "technology": {
-      "count": 2,
+    "computer-science": {
+      "count": 1,
       "color": "#7c3aed",
-      "description": "Etiqueta technology"
+      "description": "Etiqueta computer-science"
     },
-    "data": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta data"
-    },
-    "projects": {
-      "count": 3,
-      "color": "#7c3aed",
-      "description": "Etiqueta projects"
+    "concepts": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta concepts"
     },
     "constructable-stylesheets": {
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta constructable-stylesheets"
     },
-    "react": {
-      "count": 5,
+    "content": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta content"
+    },
+    "conversation": {
+      "count": 1,
       "color": "#65a30d",
-      "description": "Etiqueta react"
+      "description": "Etiqueta conversation"
     },
-    "blockchain": {
-      "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta blockchain"
-    },
-    "solidity": {
+    "copilot": {
       "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta solidity"
+      "color": "#dc2626",
+      "description": "Etiqueta copilot"
     },
-    "game": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta game"
+    "course": {
+      "count": 31,
+      "color": "#65a30d",
+      "description": "Etiqueta course"
     },
-    "harvard": {
+    "courses": {
+      "count": 8,
+      "color": "#dc2626",
+      "description": "Etiqueta courses"
+    },
+    "cpp": {
       "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta harvard"
+      "color": "#d97706",
+      "description": "Etiqueta cpp"
+    },
+    "crawler": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta crawler"
+    },
+    "crypto": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta crypto"
     },
     "cs50": {
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta cs50"
     },
-    "computer-science": {
+    "csharp": {
       "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta computer-science"
+      "color": "#059669",
+      "description": "Etiqueta csharp"
     },
-    "css-important-alternatives": {
+    "css": {
       "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta css-important-alternatives"
+      "color": "#ea580c",
+      "description": "Etiqueta css"
     },
     "css-containment": {
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta css-containment"
+    },
+    "css-important-alternatives": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta css-important-alternatives"
     },
     "css-recently-in-all-browsers": {
       "count": 1,
@@ -590,75 +395,95 @@
       "color": "#4f46e5",
       "description": "Etiqueta css-subgrid"
     },
-    "beginners": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta beginners"
-    },
     "cursor-learn": {
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta cursor-learn"
+    },
+    "cursos-programacia-n": {
+      "count": 10,
+      "color": "#ea580c",
+      "description": "Etiqueta cursos-programacia-n"
+    },
+    "cursos-programacion": {
+      "count": 6,
+      "color": "#db2777",
+      "description": "Etiqueta cursos-programacion"
+    },
+    "data": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta data"
+    },
+    "database": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta database"
+    },
+    "ddos": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta ddos"
+    },
+    "debugging": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta debugging"
+    },
+    "decentralized": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta decentralized"
+    },
+    "deep-dive": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta deep-dive"
     },
     "design-patterns": {
       "count": 2,
       "color": "#2563eb",
       "description": "Etiqueta design-patterns"
     },
-    "architecture": {
-      "count": 3,
-      "color": "#d97706",
-      "description": "Etiqueta architecture"
-    },
-    "blog": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta blog"
-    },
-    "articles": {
+    "designs": {
       "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta articles"
+      "color": "#ea580c",
+      "description": "Etiqueta designs"
+    },
+    "dev": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta dev"
     },
     "developers": {
       "count": 2,
       "color": "#059669",
       "description": "Etiqueta developers"
     },
-    "docs": {
-      "count": 3,
-      "color": "#0891b2",
-      "description": "Etiqueta docs"
-    },
-    "api": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta api"
-    },
-    "offline": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta offline"
-    },
-    "quality": {
-      "count": 1,
+    "development": {
+      "count": 5,
       "color": "#65a30d",
-      "description": "Etiqueta quality"
+      "description": "Etiqueta development"
+    },
+    "devops": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta devops"
+    },
+    "devsecops": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta devsecops"
     },
     "django": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta django"
     },
-    "framework": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta framework"
-    },
-    "web": {
-      "count": 7,
-      "color": "#db2777",
-      "description": "Etiqueta web"
+    "dns": {
+      "count": 5,
+      "color": "#0891b2",
+      "description": "Etiqueta dns"
     },
     "dns-domain": {
       "count": 1,
@@ -670,225 +495,220 @@
       "color": "#db2777",
       "description": "Etiqueta dns-services"
     },
-    "y-dns-domain": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta y-dns-domain"
-    },
-    "domains-dataset": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta domains-dataset"
-    },
-    "privacy": {
-      "count": 6,
-      "color": "#4f46e5",
-      "description": "Etiqueta privacy"
-    },
-    "basics": {
+    "docker": {
       "count": 2,
-      "color": "#ea580c",
-      "description": "Etiqueta basics"
-    },
-    "emoji": {
-      "count": 1,
       "color": "#dc2626",
-      "description": "Etiqueta emoji"
+      "description": "Etiqueta docker"
     },
-    "markdown": {
+    "docs": {
       "count": 3,
-      "color": "#65a30d",
-      "description": "Etiqueta markdown"
-    },
-    "writing": {
-      "count": 3,
-      "color": "#dc2626",
-      "description": "Etiqueta writing"
-    },
-    "vocabulary": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta vocabulary"
-    },
-    "lessons": {
-      "count": 1,
       "color": "#0891b2",
-      "description": "Etiqueta lessons"
+      "description": "Etiqueta docs"
     },
-    "instagram": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta instagram"
-    },
-    "claude": {
-      "count": 1,
+    "documentation": {
+      "count": 3,
       "color": "#dc2626",
-      "description": "Etiqueta claude"
-    },
-    "content": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta content"
-    },
-    "exercises": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta exercises"
-    },
-    "mentorship": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta mentorship"
-    },
-    "languages": {
-      "count": 2,
-      "color": "#059669",
-      "description": "Etiqueta languages"
-    },
-    "mobile": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta mobile"
-    },
-    "react-native": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta react-native"
-    },
-    "flask": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta flask"
-    },
-    "microframework": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta microframework"
-    },
-    "speaking": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta speaking"
-    },
-    "conversation": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta conversation"
+      "description": "Etiqueta documentation"
     },
     "domain": {
       "count": 5,
       "color": "#dc2626",
       "description": "Etiqueta domain"
     },
-    "tld": {
+    "domains-dataset": {
       "count": 1,
       "color": "#7c3aed",
-      "description": "Etiqueta tld"
+      "description": "Etiqueta domains-dataset"
+    },
+    "dotnet": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta dotnet"
+    },
+    "dynamic": {
+      "count": 3,
+      "color": "#059669",
+      "description": "Etiqueta dynamic"
+    },
+    "easy": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta easy"
+    },
+    "editor": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta editor"
+    },
+    "educacion-aprendizaje": {
+      "count": 7,
+      "color": "#ea580c",
+      "description": "Etiqueta educacion-aprendizaje"
+    },
+    "education": {
+      "count": 19,
+      "color": "#4f46e5",
+      "description": "Etiqueta education"
+    },
+    "education-learning": {
+      "count": 40,
+      "color": "#ea580c",
+      "description": "Etiqueta education-learning"
+    },
+    "emoji": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta emoji"
+    },
+    "encryption": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta encryption"
+    },
+    "engineering": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta engineering"
+    },
+    "english": {
+      "count": 8,
+      "color": "#4f46e5",
+      "description": "Etiqueta english"
+    },
+    "enterprise": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta enterprise"
+    },
+    "eu": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta eu"
+    },
+    "examples": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta examples"
+    },
+    "exams": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta exams"
+    },
+    "exercises": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta exercises"
+    },
+    "expo": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta expo"
+    },
+    "finance": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta finance"
+    },
+    "firebase": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta firebase"
+    },
+    "flask": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta flask"
+    },
+    "framework": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta framework"
+    },
+    "free": {
+      "count": 11,
+      "color": "#db2777",
+      "description": "Etiqueta free"
     },
     "frontend": {
       "count": 4,
       "color": "#7c3aed",
       "description": "Etiqueta frontend"
     },
-    "designs": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta designs"
-    },
     "fullstack": {
       "count": 2,
       "color": "#ea580c",
       "description": "Etiqueta fullstack"
     },
-    "mern": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta mern"
-    },
-    "university": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta university"
-    },
-    "resources": {
-      "count": 4,
-      "color": "#65a30d",
-      "description": "Etiqueta resources"
-    },
-    "security-vpn": {
-      "count": 7,
-      "color": "#d97706",
-      "description": "Etiqueta security-vpn"
-    },
-    "security-auth": {
-      "count": 7,
-      "color": "#65a30d",
-      "description": "Etiqueta security-auth"
-    },
-    "y-seguridad-vpn": {
-      "count": 5,
-      "color": "#d97706",
-      "description": "Etiqueta y-seguridad-vpn"
-    },
-    "seguridad-auth": {
-      "count": 7,
-      "color": "#059669",
-      "description": "Etiqueta seguridad-auth"
-    },
-    "ghostscan": {
+    "game": {
       "count": 1,
       "color": "#2563eb",
-      "description": "Etiqueta ghostscan"
-    },
-    "academy": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta academy"
-    },
-    "google-ai-learning": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta google-ai-learning"
+      "description": "Etiqueta game"
     },
     "gcp": {
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta gcp"
     },
+    "ghostscan": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta ghostscan"
+    },
+    "github": {
+      "count": 29,
+      "color": "#d97706",
+      "description": "Etiqueta github"
+    },
+    "github-pages": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta github-pages"
+    },
+    "go": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta go"
+    },
+    "golang": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta golang"
+    },
     "google": {
       "count": 5,
       "color": "#65a30d",
       "description": "Etiqueta google"
     },
-    "registrar": {
-      "count": 2,
-      "color": "#ea580c",
-      "description": "Etiqueta registrar"
-    },
-    "articulos-css-web": {
+    "google-ai-learning": {
       "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta articulos-css-web"
+      "color": "#65a30d",
+      "description": "Etiqueta google-ai-learning"
     },
     "google-drive-ml-folder": {
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta google-drive-ml-folder"
     },
-    "summary": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta summary"
+    "guide": {
+      "count": 9,
+      "color": "#4f46e5",
+      "description": "Etiqueta guide"
     },
-    "product": {
+    "guides": {
       "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta product"
+      "color": "#059669",
+      "description": "Etiqueta guides"
     },
-    "platform": {
+    "hardening": {
       "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta platform"
+      "color": "#7c3aed",
+      "description": "Etiqueta hardening"
+    },
+    "harvard": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta harvard"
     },
     "hetty": {
       "count": 1,
@@ -905,215 +725,170 @@
       "color": "#4f46e5",
       "description": "Etiqueta hexstrike-web"
     },
-    "10gb": {
+    "hono": {
       "count": 2,
-      "color": "#db2777",
-      "description": "Etiqueta 10gb"
+      "color": "#4f46e5",
+      "description": "Etiqueta hono"
     },
-    "locations": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta locations"
-    },
-    "linux": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta linux"
-    },
-    "server": {
+    "hostname": {
       "count": 1,
       "color": "#d97706",
-      "description": "Etiqueta server"
-    },
-    "hardening": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta hardening"
+      "description": "Etiqueta hostname"
     },
     "html": {
       "count": 3,
       "color": "#65a30d",
       "description": "Etiqueta html"
     },
-    "video": {
-      "count": 9,
-      "color": "#0891b2",
-      "description": "Etiqueta video"
-    },
-    "intro": {
+    "htmx": {
       "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta intro"
+      "color": "#ea580c",
+      "description": "Etiqueta htmx"
     },
     "ibm-skillsbuild": {
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta ibm-skillsbuild"
     },
+    "identity": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta identity"
+    },
+    "instagram": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta instagram"
+    },
+    "interactive": {
+      "count": 5,
+      "color": "#dc2626",
+      "description": "Etiqueta interactive"
+    },
     "interface-details": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta interface-details"
     },
-    "spa": {
+    "interview": {
+      "count": 4,
+      "color": "#ea580c",
+      "description": "Etiqueta interview"
+    },
+    "intro": {
       "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta spa"
+      "color": "#4f46e5",
+      "description": "Etiqueta intro"
+    },
+    "ios": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta ios"
     },
     "java": {
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta java"
     },
-    "oracle": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta oracle"
-    },
-    "modern": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta modern"
-    },
-    "canales-youtube": {
-      "count": 4,
-      "color": "#d97706",
-      "description": "Etiqueta canales-youtube"
+    "javascript": {
+      "count": 5,
+      "color": "#ea580c",
+      "description": "Etiqueta javascript"
     },
     "jelou-ai": {
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta jelou-ai"
     },
-    "validation": {
+    "junior": {
       "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta validation"
-    },
-    "devops": {
-      "count": 2,
-      "color": "#65a30d",
-      "description": "Etiqueta devops"
-    },
-    "docker": {
-      "count": 2,
-      "color": "#dc2626",
-      "description": "Etiqueta docker"
+      "color": "#d97706",
+      "description": "Etiqueta junior"
     },
     "kubernetes": {
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta kubernetes"
     },
-    "backend": {
-      "count": 2,
-      "color": "#dc2626",
-      "description": "Etiqueta backend"
-    },
     "labs": {
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta labs"
     },
-    "angular": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta angular"
-    },
-    "c": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta c"
-    },
-    "go": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta go"
-    },
-    "golang": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta golang"
-    },
-    "vue": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta vue"
-    },
-    "vuejs": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta vuejs"
-    },
-    "web3": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta web3"
-    },
-    "decentralized": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta decentralized"
-    },
-    "crypto": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta crypto"
-    },
-    "cheatsheet": {
+    "language": {
       "count": 2,
-      "color": "#7c3aed",
-      "description": "Etiqueta cheatsheet"
+      "color": "#4f46e5",
+      "description": "Etiqueta language"
     },
-    "quick": {
-      "count": 1,
+    "languages": {
+      "count": 2,
       "color": "#059669",
-      "description": "Etiqueta quick"
+      "description": "Etiqueta languages"
+    },
+    "learning": {
+      "count": 60,
+      "color": "#db2777",
+      "description": "Etiqueta learning"
     },
     "learning-atheros-ai": {
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta learning-atheros-ai"
     },
-    "problems": {
+    "lessons": {
       "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta problems"
+      "color": "#0891b2",
+      "description": "Etiqueta lessons"
     },
-    "css": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta css"
-    },
-    "guide": {
-      "count": 8,
-      "color": "#4f46e5",
-      "description": "Etiqueta guide"
-    },
-    "tech": {
-      "count": 1,
+    "linux": {
+      "count": 2,
       "color": "#2563eb",
-      "description": "Etiqueta tech"
+      "description": "Etiqueta linux"
     },
-    "sysadmin": {
+    "listening": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta listening"
+    },
+    "llm": {
+      "count": 2,
+      "color": "#0891b2",
+      "description": "Etiqueta llm"
+    },
+    "locations": {
       "count": 1,
       "color": "#dc2626",
-      "description": "Etiqueta sysadmin"
+      "description": "Etiqueta locations"
+    },
+    "macos": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta macos"
     },
     "magic-link-pitfalls": {
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta magic-link-pitfalls"
     },
+    "management": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta management"
+    },
+    "markdown": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta markdown"
+    },
+    "marketing": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta marketing"
+    },
     "marko": {
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta marko"
-    },
-    "examples": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta examples"
     },
     "mathematics-for-ml": {
       "count": 1,
@@ -1125,115 +900,125 @@
       "color": "#0891b2",
       "description": "Etiqueta matt-pocock-skills"
     },
-    "documentation": {
-      "count": 2,
-      "color": "#dc2626",
-      "description": "Etiqueta documentation"
-    },
-    "mozilla": {
-      "count": 2,
-      "color": "#2563eb",
-      "description": "Etiqueta mozilla"
-    },
-    "seguridad-vpn": {
-      "count": 2,
-      "color": "#65a30d",
-      "description": "Etiqueta seguridad-vpn"
-    },
     "medusa": {
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta medusa"
+    },
+    "mentorship": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta mentorship"
+    },
+    "mern": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta mern"
     },
     "meta-ai-resources": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta meta-ai-resources"
     },
+    "microframework": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta microframework"
+    },
+    "microsoft": {
+      "count": 5,
+      "color": "#dc2626",
+      "description": "Etiqueta microsoft"
+    },
     "microsoft-ai-training": {
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta microsoft-ai-training"
-    },
-    "azure": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta azure"
     },
     "mit-6-042-math-cs": {
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta mit-6-042-math-cs"
     },
-    "preparation": {
-      "count": 2,
-      "color": "#ea580c",
-      "description": "Etiqueta preparation"
+    "ml": {
+      "count": 5,
+      "color": "#65a30d",
+      "description": "Etiqueta ml"
     },
-    "roadmap": {
+    "mobile": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta mobile"
+    },
+    "modern": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta modern"
+    },
+    "mongodb": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta mongodb"
+    },
+    "mooc": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta mooc"
+    },
+    "movies": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta movies"
+    },
+    "mozilla": {
       "count": 2,
       "color": "#2563eb",
-      "description": "Etiqueta roadmap"
+      "description": "Etiqueta mozilla"
     },
-    "junior": {
+    "multi-tenant": {
       "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta junior"
+      "color": "#2563eb",
+      "description": "Etiqueta multi-tenant"
     },
-    "cheap": {
+    "n8n": {
       "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta cheap"
-    },
-    "neon-database": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta neon-database"
+      "color": "#4f46e5",
+      "description": "Etiqueta n8n"
     },
     "neon": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta neon"
     },
-    "postgresql": {
-      "count": 4,
+    "neon-database": {
+      "count": 1,
       "color": "#db2777",
-      "description": "Etiqueta postgresql"
+      "description": "Etiqueta neon-database"
     },
-    "database": {
-      "count": 3,
-      "color": "#059669",
-      "description": "Etiqueta database"
-    },
-    "cisco": {
-      "count": 2,
-      "color": "#ea580c",
-      "description": "Etiqueta cisco"
-    },
-    "betterauth": {
+    "neural-networks": {
       "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta betterauth"
+      "color": "#7c3aed",
+      "description": "Etiqueta neural-networks"
     },
-    "hostname": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta hostname"
+    "nextjs": {
+      "count": 6,
+      "color": "#db2777",
+      "description": "Etiqueta nextjs"
     },
     "node": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta node"
     },
-    "best-practices": {
-      "count": 3,
-      "color": "#d97706",
-      "description": "Etiqueta best-practices"
-    },
     "nomore403": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta nomore403"
+    },
+    "notepad": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta notepad"
     },
     "nth-letter-selector": {
       "count": 1,
@@ -1250,295 +1035,510 @@
       "color": "#7c3aed",
       "description": "Etiqueta nyu-ml-foundation"
     },
-    "engineering": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta engineering"
-    },
-    "enterprise": {
-      "count": 2,
+    "official": {
+      "count": 10,
       "color": "#ea580c",
-      "description": "Etiqueta enterprise"
+      "description": "Etiqueta official"
     },
-    "tokens": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta tokens"
-    },
-    "encryption": {
+    "offline": {
       "count": 1,
       "color": "#ea580c",
-      "description": "Etiqueta encryption"
+      "description": "Etiqueta offline"
     },
-    "firebase": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta firebase"
-    },
-    "php": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta php"
-    },
-    "movies": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta movies"
-    },
-    "phrases": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta phrases"
-    },
-    "postgres": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta postgres"
-    },
-    "practical": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta practical"
-    },
-    "unlimited": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta unlimited"
-    },
-    "visualizer": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta visualizer"
-    },
-    "debugging": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta debugging"
-    },
-    "n8n": {
-      "count": 1,
+    "open-source": {
+      "count": 13,
       "color": "#4f46e5",
-      "description": "Etiqueta n8n"
+      "description": "Etiqueta open-source"
     },
-    "automation": {
-      "count": 1,
-      "color": "#ea580c",
-      "description": "Etiqueta automation"
-    },
-    "refactoring": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta refactoring"
-    },
-    "refonte-learning": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta refonte-learning"
-    },
-    "copilot": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta copilot"
-    },
-    "devsecops": {
-      "count": 2,
-      "color": "#dc2626",
-      "description": "Etiqueta devsecops"
-    },
-    "career": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta career"
-    },
-    "rust": {
-      "count": 2,
-      "color": "#dc2626",
-      "description": "Etiqueta rust"
-    },
-    "scrimba": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta scrimba"
-    },
-    "sklearn-pipeline-doc": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta sklearn-pipeline-doc"
-    },
-    "sql-is-easy": {
+    "oracle": {
       "count": 1,
       "color": "#2563eb",
-      "description": "Etiqueta sql-is-easy"
-    },
-    "style-guide": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta style-guide"
-    },
-    "sql-university": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta sql-university"
-    },
-    "sql-server": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta sql-server"
-    },
-    "notepad": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta notepad"
-    },
-    "swift": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta swift"
-    },
-    "apple": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta apple"
-    },
-    "ios": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta ios"
-    },
-    "macos": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta macos"
+      "description": "Etiqueta oracle"
     },
     "oscp": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta oscp"
     },
+    "papers": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta papers"
+    },
+    "payload": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta payload"
+    },
+    "pdf": {
+      "count": 4,
+      "color": "#7c3aed",
+      "description": "Etiqueta pdf"
+    },
     "pentesting": {
       "count": 2,
       "color": "#ea580c",
       "description": "Etiqueta pentesting"
     },
-    "reporting": {
+    "php": {
       "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta reporting"
+      "color": "#db2777",
+      "description": "Etiqueta php"
     },
-    "technical": {
+    "phrases": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta phrases"
+    },
+    "platform": {
       "count": 1,
       "color": "#ea580c",
-      "description": "Etiqueta technical"
+      "description": "Etiqueta platform"
     },
-    "easy": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta easy"
-    },
-    "beginner": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta beginner"
-    },
-    "500mb": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta 500mb"
-    },
-    "typescript": {
-      "count": 2,
-      "color": "#059669",
-      "description": "Etiqueta typescript"
-    },
-    "vercel": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta vercel"
-    },
-    "management": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta management"
-    },
-    "visible-to-llms": {
+    "postgres": {
       "count": 1,
       "color": "#65a30d",
-      "description": "Etiqueta visible-to-llms"
+      "description": "Etiqueta postgres"
     },
-    "vscode": {
-      "count": 2,
-      "color": "#7c3aed",
-      "description": "Etiqueta vscode"
+    "postgresql": {
+      "count": 4,
+      "color": "#db2777",
+      "description": "Etiqueta postgresql"
     },
-    "editor": {
+    "practical": {
       "count": 1,
       "color": "#65a30d",
-      "description": "Etiqueta editor"
+      "description": "Etiqueta practical"
     },
-    "web-platform-libraries": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta web-platform-libraries"
+    "practice": {
+      "count": 9,
+      "color": "#d97706",
+      "description": "Etiqueta practice"
     },
-    "guides": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta guides"
+    "preparation": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta preparation"
     },
-    "sso": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta sso"
-    },
-    "b2b": {
-      "count": 1,
+    "privacy": {
+      "count": 6,
       "color": "#4f46e5",
-      "description": "Etiqueta b2b"
+      "description": "Etiqueta privacy"
     },
-    "deep-dive": {
+    "problems": {
       "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta deep-dive"
+      "color": "#db2777",
+      "description": "Etiqueta problems"
     },
-    "crawler": {
+    "product": {
       "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta crawler"
+      "color": "#ea580c",
+      "description": "Etiqueta product"
+    },
+    "programming": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta programming"
+    },
+    "programming-courses": {
+      "count": 40,
+      "color": "#7c3aed",
+      "description": "Etiqueta programming-courses"
+    },
+    "projects": {
+      "count": 3,
+      "color": "#7c3aed",
+      "description": "Etiqueta projects"
+    },
+    "pronunciation": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta pronunciation"
+    },
+    "python": {
+      "count": 8,
+      "color": "#7c3aed",
+      "description": "Etiqueta python"
+    },
+    "quality": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta quality"
+    },
+    "quick": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta quick"
+    },
+    "react": {
+      "count": 5,
+      "color": "#65a30d",
+      "description": "Etiqueta react"
+    },
+    "react-native": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta react-native"
+    },
+    "reading": {
+      "count": 4,
+      "color": "#2563eb",
+      "description": "Etiqueta reading"
     },
     "recon": {
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta recon"
     },
-    "rl": {
+    "refactoring": {
       "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta rl"
+      "color": "#dc2626",
+      "description": "Etiqueta refactoring"
+    },
+    "reference": {
+      "count": 16,
+      "color": "#d97706",
+      "description": "Etiqueta reference"
+    },
+    "refonte-learning": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta refonte-learning"
+    },
+    "registrar": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta registrar"
     },
     "release": {
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta release"
     },
-    "github-pages": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta github-pages"
-    },
-    "neural-networks": {
-      "count": 1,
-      "color": "#7c3aed",
-      "description": "Etiqueta neural-networks"
-    },
-    "arxiv": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta arxiv"
-    },
-    "papers": {
+    "reporting": {
       "count": 1,
       "color": "#4f46e5",
-      "description": "Etiqueta papers"
+      "description": "Etiqueta reporting"
+    },
+    "research": {
+      "count": 22,
+      "color": "#0891b2",
+      "description": "Etiqueta research"
+    },
+    "resources": {
+      "count": 4,
+      "color": "#65a30d",
+      "description": "Etiqueta resources"
+    },
+    "rl": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta rl"
+    },
+    "roadmap": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta roadmap"
+    },
+    "rust": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta rust"
+    },
+    "saas": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta saas"
+    },
+    "scrimba": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta scrimba"
+    },
+    "search": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta search"
+    },
+    "security": {
+      "count": 21,
+      "color": "#db2777",
+      "description": "Etiqueta security"
+    },
+    "security-auth": {
+      "count": 7,
+      "color": "#65a30d",
+      "description": "Etiqueta security-auth"
+    },
+    "security-vpn": {
+      "count": 7,
+      "color": "#d97706",
+      "description": "Etiqueta security-vpn"
+    },
+    "seguridad-auth": {
+      "count": 7,
+      "color": "#059669",
+      "description": "Etiqueta seguridad-auth"
+    },
+    "seguridad-vpn": {
+      "count": 2,
+      "color": "#65a30d",
+      "description": "Etiqueta seguridad-vpn"
+    },
+    "server": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta server"
+    },
+    "sklearn-pipeline-doc": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta sklearn-pipeline-doc"
+    },
+    "solidity": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta solidity"
+    },
+    "spa": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta spa"
+    },
+    "spanish": {
+      "count": 14,
+      "color": "#db2777",
+      "description": "Etiqueta spanish"
+    },
+    "speaking": {
+      "count": 2,
+      "color": "#2563eb",
+      "description": "Etiqueta speaking"
+    },
+    "sql": {
+      "count": 8,
+      "color": "#4f46e5",
+      "description": "Etiqueta sql"
+    },
+    "sql-is-easy": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta sql-is-easy"
+    },
+    "sql-server": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta sql-server"
+    },
+    "sql-university": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta sql-university"
+    },
+    "sso": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta sso"
+    },
+    "study": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta study"
+    },
+    "study-plan": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta study-plan"
+    },
+    "style": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta style"
+    },
+    "style-guide": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta style-guide"
+    },
+    "subdomain": {
+      "count": 2,
+      "color": "#dc2626",
+      "description": "Etiqueta subdomain"
+    },
+    "summary": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta summary"
+    },
+    "swift": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta swift"
+    },
+    "sysadmin": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta sysadmin"
+    },
+    "tanstack": {
+      "count": 3,
+      "color": "#65a30d",
+      "description": "Etiqueta tanstack"
+    },
+    "tech": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta tech"
+    },
+    "technical": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta technical"
+    },
+    "technology": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta technology"
+    },
+    "tld": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta tld"
+    },
+    "tokens": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta tokens"
+    },
+    "training": {
+      "count": 3,
+      "color": "#2563eb",
+      "description": "Etiqueta training"
+    },
+    "tutorial": {
+      "count": 13,
+      "color": "#7c3aed",
+      "description": "Etiqueta tutorial"
+    },
+    "tutorials": {
+      "count": 6,
+      "color": "#ea580c",
+      "description": "Etiqueta tutorials"
+    },
+    "typescript": {
+      "count": 2,
+      "color": "#059669",
+      "description": "Etiqueta typescript"
+    },
+    "university": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta university"
+    },
+    "unlimited": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta unlimited"
+    },
+    "validation": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta validation"
+    },
+    "various": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta various"
+    },
+    "vercel": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta vercel"
+    },
+    "video": {
+      "count": 9,
+      "color": "#0891b2",
+      "description": "Etiqueta video"
+    },
+    "visible-to-llms": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta visible-to-llms"
+    },
+    "visualizer": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta visualizer"
+    },
+    "vocabulary": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta vocabulary"
+    },
+    "vpn": {
+      "count": 7,
+      "color": "#2563eb",
+      "description": "Etiqueta vpn"
+    },
+    "vscode": {
+      "count": 2,
+      "color": "#7c3aed",
+      "description": "Etiqueta vscode"
+    },
+    "vue": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta vue"
+    },
+    "vuejs": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta vuejs"
+    },
+    "warp": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta warp"
+    },
+    "web": {
+      "count": 7,
+      "color": "#db2777",
+      "description": "Etiqueta web"
+    },
+    "web-platform-libraries": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta web-platform-libraries"
+    },
+    "web3": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta web3"
+    },
+    "writing": {
+      "count": 3,
+      "color": "#dc2626",
+      "description": "Etiqueta writing"
+    },
+    "y-dns-domain": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta y-dns-domain"
+    },
+    "y-s-educacia-n-aprendizaje": {
+      "count": 33,
+      "color": "#4f46e5",
+      "description": "Etiqueta y-s-educacia-n-aprendizaje"
+    },
+    "y-seguridad-vpn": {
+      "count": 5,
+      "color": "#d97706",
+      "description": "Etiqueta y-seguridad-vpn"
+    },
+    "youtube": {
+      "count": 36,
+      "color": "#059669",
+      "description": "Etiqueta youtube"
     }
   },
   "searchIndex": {
@@ -1578,15 +1578,11 @@
         "slug": "academic-research-skills",
         "terms": [
           "academic-research-skills",
-          "academic-research-skills",
           "Skills para investigación académica",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "educacion-aprendizaje",
-          "cursos-programacion",
-          "academic-research-skills"
+          "cursos-programacion"
         ]
       },
       {
@@ -1595,7 +1591,7 @@
         "terms": [
           "Academy Europa",
           "academy-europa",
-          "Academia de la Unión Europea con cursos",
+          "Academia de la Unión Europea con cursos variados",
           "education-learning",
           "programming-courses",
           "eu",
@@ -1613,11 +1609,8 @@
           "Aplicar fixes accesibilidad con discreci",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "accessibility-fixes"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -1629,11 +1622,8 @@
           "Guía diseñar extensiones accesibles",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "cursos-programacia-n",
-          "accessible-browser-ext"
+          "cursos-programacia-n"
         ]
       },
       {
@@ -1657,7 +1647,7 @@
         "terms": [
           "Afraid.org",
           "afraid-org",
-          "DNS dinámico y subdominios gratis con c",
+          "DNS dinámico y subdominios gratis con comunidad activa",
           "dns-domain",
           "dns-services",
           "dns",
@@ -1671,15 +1661,11 @@
         "slug": "aiengineeringfromscratch",
         "terms": [
           "aiengineeringfromscratch",
-          "aiengineeringfromscratch",
           "Ingeniería IA explicada desde cero",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "educacion-aprendizaje",
-          "cursos-programacion",
-          "aiengineeringfromscratch"
+          "cursos-programacion"
         ]
       },
       {
@@ -1691,11 +1677,8 @@
           "Libro algoritmos U. Illinois gratis",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "algorithms-illinois"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -1750,7 +1733,7 @@
         "terms": [
           "AprendeSQL.dev",
           "aprendesql-dev",
-          "Aprende SQL de forma interactiva y prác",
+          "Aprende SQL de forma interactiva y práctica",
           "education-learning",
           "programming-courses",
           "sql",
@@ -1768,11 +1751,8 @@
           "Guía práctica roles ARIA para devs",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "aria-roles-explained"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -1784,11 +1764,8 @@
           "Guía completa patrones arquitectura fro",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "arquitectura-frontend-2026"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -1845,7 +1822,7 @@
         "terms": [
           "Auth0",
           "auth0",
-          "Auth gestionado con 7k usuarios activos/",
+          "Auth gestionado con 7k usuarios activos/mes gratis",
           "security-vpn",
           "security-auth",
           "auth",
@@ -1863,11 +1840,8 @@
           "Cursos de IA de AWS",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "cursos-programacia-n",
-          "aws-ai-training"
+          "cursos-programacia-n"
         ]
       },
       {
@@ -1876,7 +1850,7 @@
         "terms": [
           "AWS Training",
           "aws-training",
-          "Formación oficial en la nube de Amazon",
+          "Formación oficial en la nube de Amazon AWS",
           "education-learning",
           "programming-courses",
           "aws",
@@ -1921,7 +1895,7 @@
         "terms": [
           "Better Auth",
           "better-auth",
-          "Auth moderno open source para SaaS multi",
+          "Auth moderno open source para SaaS multi-tenant",
           "security-vpn",
           "security-auth",
           "auth",
@@ -1955,11 +1929,8 @@
           "Box-shadow no es alternativa al outline",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "box-shadow-vs-outline"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -1984,7 +1955,7 @@
         "terms": [
           "C# Microsoft",
           "c-microsoft",
-          "Aprende C# con los tutoriales de Microso",
+          "Aprende C# con los tutoriales de Microsoft",
           "education-learning",
           "programming-courses",
           "csharp",
@@ -1999,7 +1970,7 @@
         "terms": [
           "C++ Tutorial",
           "c-tutorial",
-          "Tutorial completo de C++ para todos los",
+          "Tutorial completo de C++ para todos los niveles",
           "education-learning",
           "programming-courses",
           "cpp",
@@ -2059,7 +2030,7 @@
         "terms": [
           "Ciberseguridad 25h",
           "ciberseguridad-25h",
-          "19 capítulos de ciberseguridad en espa�",
+          "19 capítulos de ciberseguridad en español (YouTube)",
           "security-vpn",
           "cybersecurity-learning",
           "security",
@@ -2074,7 +2045,7 @@
         "terms": [
           "Class Central",
           "class-central",
-          "Buscador y agregador de cursos online de",
+          "Buscador y agregador de cursos online de múltiples plataformas",
           "education-learning",
           "programming-courses",
           "courses",
@@ -2122,11 +2093,8 @@
           "Clones open source de apps populares par",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "cursos-programacia-n",
-          "clone-wars"
+          "cursos-programacia-n"
         ]
       },
       {
@@ -2150,7 +2118,7 @@
         "terms": [
           "Cloudflare DNS",
           "cloudflare-dns",
-          "DNS gratuito con DDoS protection y 1.1.1",
+          "DNS gratuito con DDoS protection y 1.1.1.1",
           "dns-domain",
           "dns-services",
           "dns",
@@ -2166,7 +2134,7 @@
         "terms": [
           "Cloudflare WARP",
           "cloudflare-warp",
-          "VPN gratuito de Cloudflare para navegaci",
+          "VPN gratuito de Cloudflare para navegación segura",
           "security-vpn",
           "vpn-services",
           "vpn",
@@ -2184,11 +2152,8 @@
           "Libro seminal Aprendizaje por Refuerzo",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "cmu-reinforcement-learning"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -2196,15 +2161,11 @@
         "slug": "codecademy-ai",
         "terms": [
           "codecademy-ai",
-          "codecademy-ai",
           "Curso IA práctico en Codecademy",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "educacion-aprendizaje",
-          "cursos-programacion",
-          "codecademy-ai"
+          "cursos-programacion"
         ]
       },
       {
@@ -2228,7 +2189,7 @@
         "terms": [
           "Coding Challenges",
           "coding-challenges",
-          "Aprender desarrollo resolviendo retos de",
+          "Aprender desarrollo resolviendo retos de programación",
           "education-learning",
           "programming-courses",
           "challenges",
@@ -2243,7 +2204,7 @@
         "terms": [
           "Coding Interview University",
           "coding-interview-university",
-          "Plan de estudio completo para entrevista",
+          "Plan de estudio completo para entrevistas de desarrollo",
           "education-learning",
           "programming-courses",
           "interview",
@@ -2258,7 +2219,7 @@
         "terms": [
           "Cognitive Class",
           "cognitive-class",
-          "Cursos de tecnología y datos con proyec",
+          "Cursos de tecnología y datos con proyectos prácticos",
           "education-learning",
           "programming-courses",
           "course",
@@ -2273,7 +2234,7 @@
         "terms": [
           "Commit AWS",
           "commit-aws",
-          "Curso directo de AWS en español de Comm",
+          "Curso directo de AWS en español de Commit Academy",
           "education-learning",
           "programming-courses",
           "aws",
@@ -2291,11 +2252,8 @@
           "Adoptedstylesheets: un parse por shadow",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "constructable-stylesheets"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -2319,7 +2277,7 @@
         "terms": [
           "CryptoZombies",
           "cryptozombies",
-          "Aprende desarrollo blockchain creando ju",
+          "Aprende desarrollo blockchain creando juegos",
           "education-learning",
           "programming-courses",
           "blockchain",
@@ -2334,7 +2292,7 @@
         "terms": [
           "CS50 (edX)",
           "cs50-edx",
-          "Cursos Harvard CS50 de ciencias de la co",
+          "Cursos Harvard CS50 de ciencias de la computación",
           "education-learning",
           "programming-courses",
           "course",
@@ -2352,11 +2310,8 @@
           "Alternativas a la palabra clave !importa",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "css-important-alternatives"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -2368,11 +2323,8 @@
           "Qué es CSS containment y cómo usarlo",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "css-containment"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -2384,11 +2336,8 @@
           "Novedades CSS soportadas en todos los na",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "css-recently-in-all-browsers"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -2400,11 +2349,8 @@
           "CSS Subgrid es increíble para layouts",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "css-subgrid"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -2427,15 +2373,11 @@
         "slug": "cursor-learn",
         "terms": [
           "cursor-learn",
-          "cursor-learn",
           "Curso oficial de Cursor en español",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "educacion-aprendizaje",
-          "cursos-programacion",
-          "cursor-learn"
+          "cursos-programacion"
         ]
       },
       {
@@ -2459,7 +2401,7 @@
         "terms": [
           "Dev.to",
           "dev-to",
-          "Comunidad y blog para desarrolladores co",
+          "Comunidad y blog para desarrolladores con artículos",
           "education-learning",
           "programming-courses",
           "community",
@@ -2489,7 +2431,7 @@
         "terms": [
           "DevTalles",
           "devtalles",
-          "Cursos de programación en español de c",
+          "Cursos de programación en español de calidad",
           "education-learning",
           "programming-courses",
           "spanish",
@@ -2534,10 +2476,9 @@
         "terms": [
           "Django",
           "django",
-          "Framework web robusto de Python con tuto",
+          "Framework web robusto de Python con tutoriales",
           "education-learning",
           "programming-courses",
-          "django",
           "python",
           "framework",
           "web"
@@ -2552,10 +2493,7 @@
           "Dataset más grande de dominios internet",
           "dns-domain",
           "dns-services",
-          "dns-domain",
-          "dns-services",
-          "y-dns-domain",
-          "domains-dataset"
+          "y-dns-domain"
         ]
       },
       {
@@ -2580,7 +2518,7 @@
         "terms": [
           "DuckDNS",
           "duckdns",
-          "DNS dinámico gratuito para dominios .du",
+          "DNS dinámico gratuito para dominios .duckdns.org",
           "dns-domain",
           "dns-services",
           "dns",
@@ -2595,7 +2533,7 @@
         "terms": [
           "Elements of AI",
           "elements-of-ai",
-          "Curso gratuito de fundamentos de intelig",
+          "Curso gratuito de fundamentos de inteligencia artificial",
           "education-learning",
           "programming-courses",
           "ai",
@@ -2655,7 +2593,7 @@
         "terms": [
           "Exercism",
           "exercism",
-          "Aprender programación por ejercicios co",
+          "Aprender programación por ejercicios con mentoría en 81 lenguajes",
           "education-learning",
           "programming-courses",
           "exercises",
@@ -2700,10 +2638,9 @@
         "terms": [
           "Flask",
           "flask",
-          "Microframework web de Python con tutoria",
+          "Microframework web de Python con tutorial oficial",
           "education-learning",
           "programming-courses",
-          "flask",
           "python",
           "microframework",
           "web"
@@ -2730,7 +2667,7 @@
         "terms": [
           "freeCodeCamp",
           "freecodecamp",
-          "Cursos interactivos gratuitos con certif",
+          "Cursos interactivos gratuitos con certificaciones oficiales",
           "education-learning",
           "programming-courses",
           "course",
@@ -2759,7 +2696,7 @@
         "terms": [
           "Frontend Mentor",
           "frontend-mentor",
-          "Retos de frontend con diseños reales pa",
+          "Retos de frontend con diseños reales para practicar",
           "education-learning",
           "programming-courses",
           "frontend",
@@ -2774,7 +2711,7 @@
         "terms": [
           "FrontendHub",
           "frontendhub",
-          "Cursos, recursos y proyectos de React y",
+          "Cursos, recursos y proyectos de React y frontend",
           "education-learning",
           "programming-courses",
           "frontend",
@@ -2789,7 +2726,7 @@
         "terms": [
           "Full Stack Open",
           "full-stack-open",
-          "Curso universitario MERN completo de la",
+          "Curso universitario MERN completo de la Universidad de Helsinki",
           "education-learning",
           "programming-courses",
           "course",
@@ -2838,11 +2775,8 @@
           "Framework pentesting context-aware",
           "security-vpn",
           "security-auth",
-          "security-vpn",
-          "security-auth",
           "y-seguridad-vpn",
-          "seguridad-auth",
-          "ghostscan"
+          "seguridad-auth"
         ]
       },
       {
@@ -2851,7 +2785,7 @@
         "terms": [
           "Goetech Academy",
           "goetech-academy",
-          "Academia de tecnología con cursos varia",
+          "Academia de tecnología con cursos variados",
           "education-learning",
           "programming-courses",
           "technology",
@@ -2869,11 +2803,8 @@
           "Cursos y herramientas IA de Google",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "cursos-programacia-n",
-          "google-ai-learning"
+          "cursos-programacia-n"
         ]
       },
       {
@@ -2882,7 +2813,7 @@
         "terms": [
           "Google Cloud Skills",
           "google-cloud-skills",
-          "Formación en la nube de Google Cloud Pl",
+          "Formación en la nube de Google Cloud Platform",
           "education-learning",
           "programming-courses",
           "gcp",
@@ -2897,7 +2828,7 @@
         "terms": [
           "Google Domains",
           "google-domains",
-          "Registro de dominios de Google (migrando",
+          "Registro de dominios de Google (migrando a Squarespace)",
           "dns-domain",
           "domain-registrars",
           "domain",
@@ -2910,15 +2841,11 @@
         "slug": "google-drive-ml-folder",
         "terms": [
           "google-drive-ml-folder",
-          "google-drive-ml-folder",
           "Carpeta de recursos y documentos ML",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "educacion-aprendizaje",
-          "articulos-css-web",
-          "google-drive-ml-folder"
+          "articulos-css-web"
         ]
       },
       {
@@ -2942,7 +2869,7 @@
         "terms": [
           "Hashnode",
           "hashnode",
-          "Plataforma de blogging para desarrollado",
+          "Plataforma de blogging para desarrolladores con dominio propio",
           "education-learning",
           "programming-courses",
           "blog",
@@ -2960,11 +2887,8 @@
           "Proxy HTTP toolkit open source para prue",
           "security-vpn",
           "security-auth",
-          "security-vpn",
-          "security-auth",
           "y-seguridad-vpn",
-          "seguridad-auth",
-          "hetty"
+          "seguridad-auth"
         ]
       },
       {
@@ -2972,15 +2896,11 @@
         "slug": "hexstrike-gh",
         "terms": [
           "hexstrike-gh",
-          "hexstrike-gh",
           "Repo GitHub HexStrike ciberseg. IA",
           "security-vpn",
           "security-auth",
-          "security-vpn",
-          "security-auth",
           "y-seguridad-vpn",
-          "seguridad-auth",
-          "hexstrike-gh"
+          "seguridad-auth"
         ]
       },
       {
@@ -2988,15 +2908,11 @@
         "slug": "hexstrike-web",
         "terms": [
           "hexstrike-web",
-          "hexstrike-web",
           "Plataforma ciberseguridad con IA",
           "security-vpn",
           "security-auth",
-          "security-vpn",
-          "security-auth",
           "y-seguridad-vpn",
-          "seguridad-auth",
-          "hexstrike-web"
+          "seguridad-auth"
         ]
       },
       {
@@ -3036,7 +2952,7 @@
         "terms": [
           "How To Secure Linux Server",
           "how-to-secure-linux-server",
-          "Guía completa de hardening para servido",
+          "Guía completa de hardening para servidores Linux",
           "security-vpn",
           "cybersecurity-learning",
           "security",
@@ -3066,7 +2982,7 @@
         "terms": [
           "HTML.com",
           "html-com",
-          "Aprende la estructura y fundamentos de H",
+          "Aprende la estructura y fundamentos de HTML",
           "education-learning",
           "programming-courses",
           "html",
@@ -3099,11 +3015,8 @@
           "Cursos de tecnología de IBM",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "cursos-programacia-n",
-          "ibm-skillsbuild"
+          "cursos-programacia-n"
         ]
       },
       {
@@ -3115,11 +3028,8 @@
           "Detalles que hacen las interfaces mejore",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "interface-details"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -3158,7 +3068,7 @@
         "terms": [
           "JavaScript.info",
           "javascript-info",
-          "Tutorial moderno y completo de JavaScrip",
+          "Tutorial moderno y completo de JavaScript",
           "education-learning",
           "programming-courses",
           "javascript",
@@ -3168,19 +3078,16 @@
         ]
       },
       {
-        "id": "jelou-ai",
-        "slug": "jelou-ai",
+        "id": "jelou-ai-yt",
+        "slug": "jelou-ai-yt",
         "terms": [
           "Jelou AI",
-          "jelou-ai",
+          "jelou-ai-yt",
           "Canal YouTube oficial de Jelou AI",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "canales-youtube",
-          "jelou-ai"
+          "canales-youtube"
         ]
       },
       {
@@ -3189,7 +3096,7 @@
         "terms": [
           "Kaggle Learn",
           "kaggle-learn",
-          "Microcursos prácticos de Python, datos",
+          "Microcursos prácticos de Python, datos y machine learning",
           "education-learning",
           "programming-courses",
           "course",
@@ -3220,7 +3127,7 @@
         "terms": [
           "KodeKloud",
           "kodekloud",
-          "Cursos de backend, Docker y Kubernetes e",
+          "Cursos de backend, Docker y Kubernetes en inglés",
           "education-learning",
           "programming-courses",
           "devops",
@@ -3235,7 +3142,7 @@
         "terms": [
           "KodeKloud Labs",
           "kodekloud-labs",
-          "Laboratorios prácticos gratuitos de Dev",
+          "Laboratorios prácticos gratuitos de DevOps y cloud",
           "education-learning",
           "programming-courses",
           "labs",
@@ -3265,7 +3172,7 @@
         "terms": [
           "Learn Angular",
           "learn-angular",
-          "Tutoriales oficiales de Angular framewor",
+          "Tutoriales oficiales de Angular framework",
           "education-learning",
           "programming-courses",
           "angular",
@@ -3280,7 +3187,7 @@
         "terms": [
           "Learn C",
           "learn-c",
-          "Aprende el lenguaje de programación C i",
+          "Aprende el lenguaje de programación C interactivo",
           "education-learning",
           "programming-courses",
           "c",
@@ -3295,7 +3202,7 @@
         "terms": [
           "Learn Go",
           "learn-go",
-          "Aprende Go (Golang) con tutoriales de Go",
+          "Aprende Go (Golang) con tutoriales de Google",
           "education-learning",
           "programming-courses",
           "go",
@@ -3310,7 +3217,7 @@
         "terms": [
           "Learn Python",
           "learn-python",
-          "Aprende Python de forma interactiva y pr",
+          "Aprende Python de forma interactiva y práctica",
           "education-learning",
           "programming-courses",
           "python",
@@ -3325,7 +3232,7 @@
         "terms": [
           "Learn Vue",
           "learn-vue",
-          "Recursos y tutoriales para aprender Vue.",
+          "Recursos y tutoriales para aprender Vue.js",
           "education-learning",
           "programming-courses",
           "vue",
@@ -3340,7 +3247,7 @@
         "terms": [
           "Learn Web3",
           "learn-web3",
-          "Aprende desarrollo web3 y blockchain des",
+          "Aprende desarrollo web3 y blockchain descentralizada",
           "education-learning",
           "programming-courses",
           "web3",
@@ -3355,7 +3262,7 @@
         "terms": [
           "Learn X in Y Minutes",
           "learn-x-in-y-minutes",
-          "Cheatsheets rápidos de sintaxis de leng",
+          "Cheatsheets rápidos de sintaxis de lenguajes de programación",
           "education-learning",
           "programming-courses",
           "cheatsheet",
@@ -3369,15 +3276,11 @@
         "slug": "learning-atheros-ai",
         "terms": [
           "learning-atheros-ai",
-          "learning-atheros-ai",
           "Portal de aprendizaje técnico",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "educacion-aprendizaje",
-          "cursos-programacion",
-          "learning-atheros-ai"
+          "cursos-programacion"
         ]
       },
       {
@@ -3402,7 +3305,7 @@
         "terms": [
           "LeetCode",
           "leetcode",
-          "Plataforma de problemas de coding para e",
+          "Plataforma de problemas de coding para entrevistas técnicas",
           "education-learning",
           "programming-courses",
           "interview",
@@ -3477,7 +3380,7 @@
         "terms": [
           "Linux Journey",
           "linux-journey",
-          "Aprende Linux con tutoriales interactivo",
+          "Aprende Linux con tutoriales interactivos paso a paso",
           "education-learning",
           "programming-courses",
           "linux",
@@ -3495,11 +3398,8 @@
           "Problemas y peligros de los magic links",
           "security-vpn",
           "security-auth",
-          "security-vpn",
-          "security-auth",
           "y-seguridad-vpn",
-          "seguridad-auth",
-          "magic-link-pitfalls"
+          "seguridad-auth"
         ]
       },
       {
@@ -3556,11 +3456,8 @@
           "Libro matemáticas para machine learning",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "mathematics-for-ml"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -3572,11 +3469,8 @@
           "Skills interactivos TypeScript de Matt P",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "matt-pocock-skills"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -3585,7 +3479,7 @@
         "terms": [
           "MDN Web Docs",
           "mdn-web-docs",
-          "Documentación web oficial de Mozilla pa",
+          "Documentación web oficial de Mozilla para desarrolladores",
           "education-learning",
           "programming-courses",
           "documentation",
@@ -3599,15 +3493,11 @@
         "slug": "medusa",
         "terms": [
           "medusa",
-          "medusa",
           "Suite ofensiva para pentesting",
           "security-vpn",
           "security-auth",
-          "security-vpn",
-          "security-auth",
           "seguridad-vpn",
-          "seguridad-auth",
-          "medusa"
+          "seguridad-auth"
         ]
       },
       {
@@ -3619,11 +3509,8 @@
           "Recursos de IA de Meta",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "cursos-programacia-n",
-          "meta-ai-resources"
+          "cursos-programacia-n"
         ]
       },
       {
@@ -3635,11 +3522,8 @@
           "Cursos de IA de Microsoft",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "cursos-programacia-n",
-          "microsoft-ai-training"
+          "cursos-programacia-n"
         ]
       },
       {
@@ -3648,7 +3532,7 @@
         "terms": [
           "Microsoft Learn Azure",
           "microsoft-learn-azure",
-          "Formación oficial de Microsoft en Azure",
+          "Formación oficial de Microsoft en Azure cloud",
           "education-learning",
           "programming-courses",
           "azure",
@@ -3666,11 +3550,8 @@
           "Curso matemáticas computación MIT",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "mit-6-042-math-cs"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -3695,7 +3576,7 @@
         "terms": [
           "MoureDev",
           "mouredev",
-          "Portal de recursos de programación en e",
+          "Portal de recursos de programación en español",
           "education-learning",
           "programming-courses",
           "spanish",
@@ -3710,7 +3591,7 @@
         "terms": [
           "MoureDev Cursos",
           "mouredev-cursos",
-          "Portal de cursos de programación de Mou",
+          "Portal de cursos de programación de MoureDev",
           "education-learning",
           "programming-courses",
           "spanish",
@@ -3725,7 +3606,7 @@
         "terms": [
           "MoureDev Roadmap",
           "mouredev-roadmap",
-          "Guía de aprendizaje para programadores",
+          "Guía de aprendizaje para programadores junior",
           "education-learning",
           "programming-courses",
           "roadmap",
@@ -3740,7 +3621,7 @@
         "terms": [
           "MoureDev SQL",
           "mouredev-sql",
-          "Fundamentos de SQL en PDF descargable gr",
+          "Fundamentos de SQL en PDF descargable gratis",
           "education-learning",
           "programming-courses",
           "sql",
@@ -3755,7 +3636,7 @@
         "terms": [
           "Namecheap",
           "namecheap",
-          "Dominios económicos con DNS gratis incl",
+          "Dominios económicos con DNS gratis incluido",
           "dns-domain",
           "domain-registrars",
           "domain",
@@ -3773,11 +3654,8 @@
           "Neon postgres",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "canales-youtube",
-          "neon-database"
+          "canales-youtube"
         ]
       },
       {
@@ -3801,7 +3679,7 @@
         "terms": [
           "NetAcad",
           "netacad",
-          "Academia Cisco con cursos gratis de Pyth",
+          "Academia Cisco con cursos gratis de Python, JS y C",
           "education-learning",
           "programming-courses",
           "cisco",
@@ -3816,7 +3694,7 @@
         "terms": [
           "NetAcad Ciberseguridad",
           "netacad-ciberseguridad",
-          "Curso oficial Cisco de ciberseguridad gr",
+          "Curso oficial Cisco de ciberseguridad gratuito",
           "security-vpn",
           "cybersecurity-learning",
           "security",
@@ -3846,7 +3724,7 @@
         "terms": [
           "Next.js Course",
           "next-js-course",
-          "Curso oficial de Next.js con tutoriales",
+          "Curso oficial de Next.js con tutoriales interactivos",
           "education-learning",
           "programming-courses",
           "nextjs",
@@ -3905,15 +3783,11 @@
         "slug": "nomore403",
         "terms": [
           "nomore403",
-          "nomore403",
           "Bypass y diagnóstico de errores 403",
           "security-vpn",
           "security-auth",
-          "security-vpn",
-          "security-auth",
           "seguridad-vpn",
-          "seguridad-auth",
-          "nomore403"
+          "seguridad-auth"
         ]
       },
       {
@@ -3925,11 +3799,8 @@
           "Usando el selector nth-letter en CSS hoy",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "nth-letter-selector"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -3941,11 +3812,8 @@
           "Cursos de IA de NVIDIA",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "cursos-programacia-n",
-          "nvidia-ai-training"
+          "cursos-programacia-n"
         ]
       },
       {
@@ -3957,11 +3825,8 @@
           "Libro académico Machine Learning comple",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "nyu-ml-foundation"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -4002,7 +3867,7 @@
         "terms": [
           "Palo Alto Ciberseguridad",
           "palo-alto-ciberseguridad",
-          "Cursos gratuitos de ciberseguridad enter",
+          "Cursos gratuitos de ciberseguridad enterprise",
           "security-vpn",
           "cybersecurity-learning",
           "security",
@@ -4049,7 +3914,7 @@
         "terms": [
           "Paseto",
           "paseto",
-          "Tokens de auth modernos con firma y encr",
+          "Tokens de auth modernos con firma y encriptación",
           "security-vpn",
           "security-auth",
           "auth",
@@ -4095,7 +3960,7 @@
         "terms": [
           "PHP The Right Way",
           "php-the-right-way",
-          "Guía de mejores prácticas para desarro",
+          "Guía de mejores prácticas para desarrollo PHP",
           "education-learning",
           "programming-courses",
           "php",
@@ -4171,7 +4036,7 @@
         "terms": [
           "Project-Based Learning",
           "project-based-learning",
-          "Aprende programación construyendo proye",
+          "Aprende programación construyendo proyectos reales",
           "education-learning",
           "programming-courses",
           "projects",
@@ -4186,7 +4051,7 @@
         "terms": [
           "ProtonVPN",
           "protonvpn",
-          "VPN gratis sin límite de datos con serv",
+          "VPN gratis sin límite de datos con servidores en 3 países",
           "security-vpn",
           "vpn-services",
           "vpn",
@@ -4201,7 +4066,7 @@
         "terms": [
           "Python Tutor",
           "python-tutor",
-          "Visualiza paso a paso cómo se ejecuta c",
+          "Visualiza paso a paso cómo se ejecuta código web",
           "education-learning",
           "programming-courses",
           "python",
@@ -4216,7 +4081,7 @@
         "terms": [
           "Raiola n8n",
           "raiola-n8n",
-          "Curso de automatización con n8n en espa",
+          "Curso de automatización con n8n en español",
           "education-learning",
           "programming-courses",
           "n8n",
@@ -4249,11 +4114,8 @@
           "Internship y estudio frontend developmen",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "cursos-programacia-n",
-          "refonte-learning"
+          "cursos-programacia-n"
         ]
       },
       {
@@ -4277,7 +4139,7 @@
         "terms": [
           "Roadmap.sh",
           "roadmap-sh",
-          "Rutas de aprendizaje para desarrolladore",
+          "Rutas de aprendizaje para desarrolladores por tecnología",
           "education-learning",
           "programming-courses",
           "roadmap",
@@ -4292,7 +4154,7 @@
         "terms": [
           "Rust Lang",
           "rust-lang",
-          "Documentación oficial y tutoriales de R",
+          "Documentación oficial y tutoriales de Rust",
           "education-learning",
           "programming-courses",
           "rust",
@@ -4307,7 +4169,7 @@
         "terms": [
           "Rust Training",
           "rust-training",
-          "Curso oficial de Microsoft para aprender",
+          "Curso oficial de Microsoft para aprender Rust",
           "education-learning",
           "programming-courses",
           "rust",
@@ -4325,11 +4187,8 @@
           "Cursos interactivos con screencasts inte",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "cursos-programacia-n",
-          "scrimba"
+          "cursos-programacia-n"
         ]
       },
       {
@@ -4356,11 +4215,8 @@
           "Documentación Pipeline de sklearn",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "educacion-aprendizaje",
-          "cursos-programacion",
-          "sklearn-pipeline-doc"
+          "cursos-programacion"
         ]
       },
       {
@@ -4433,11 +4289,8 @@
           "SQL, Postgres y SQL server",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "canales-youtube",
-          "sql-university"
+          "canales-youtube"
         ]
       },
       {
@@ -4508,10 +4361,9 @@
         "terms": [
           "Swift",
           "swift",
-          "Aprende Swift para desarrollo en ecosist",
+          "Aprende Swift para desarrollo en ecosistema Apple",
           "education-learning",
           "programming-courses",
-          "swift",
           "apple",
           "ios",
           "macos"
@@ -4538,7 +4390,7 @@
         "terms": [
           "SysReptor OSCP",
           "sysreptor-oscp",
-          "Plantillas de reporte pentesting estilo",
+          "Plantillas de reporte pentesting estilo OSCP",
           "security-vpn",
           "cybersecurity-learning",
           "security",
@@ -4569,7 +4421,7 @@
         "terms": [
           "Tech Interview Handbook",
           "tech-interview-handbook",
-          "Preparación completa para entrevistas t",
+          "Preparación completa para entrevistas técnicas de desarrollo",
           "education-learning",
           "programming-courses",
           "interview",
@@ -4600,7 +4452,7 @@
         "terms": [
           "The Odin Project",
           "the-odin-project",
-          "Academia de desarrolladores full-stack e",
+          "Academia de desarrolladores full-stack en inglés",
           "education-learning",
           "programming-courses",
           "course",
@@ -4695,7 +4547,7 @@
         "terms": [
           "TryHackMe",
           "tryhackme",
-          "Plataforma práctica de seguridad con ro",
+          "Plataforma práctica de seguridad con rooms gratuitas",
           "security-vpn",
           "cybersecurity-learning",
           "security",
@@ -4740,7 +4592,7 @@
         "terms": [
           "TypeScriptLang",
           "typescriptlang",
-          "Documentación oficial y tutoriales de T",
+          "Documentación oficial y tutoriales de TypeScript",
           "education-learning",
           "programming-courses",
           "typescript",
@@ -4755,7 +4607,7 @@
         "terms": [
           "Vercel Domains",
           "vercel-domains",
-          "Buscador y gestión de dominios integrad",
+          "Buscador y gestión de dominios integrado con Vercel",
           "dns-domain",
           "domain-registrars",
           "domain",
@@ -4773,11 +4625,8 @@
           "Hacer tu web visible a los LLMs SEO",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "visible-to-llms"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -4801,7 +4650,7 @@
         "terms": [
           "VSCodeEdu",
           "vscodeedu",
-          "Recursos educativos de Python y desarrol",
+          "Recursos educativos de Python y desarrollo con VS Code",
           "education-learning",
           "programming-courses",
           "vscode",
@@ -4819,11 +4668,8 @@
           "Cómo las librerías influyen en la web",
           "education-learning",
           "programming-courses",
-          "education-learning",
-          "programming-courses",
           "y-s-educacia-n-aprendizaje",
-          "arta-culos-css-web",
-          "web-platform-libraries"
+          "arta-culos-css-web"
         ]
       },
       {
@@ -4832,7 +4678,7 @@
         "terms": [
           "Web.dev",
           "web-dev",
-          "Guías de Google para desarrollo web mod",
+          "Guías de Google para desarrollo web moderno y mejores prácticas",
           "education-learning",
           "programming-courses",
           "guides",
@@ -4847,7 +4693,7 @@
         "terms": [
           "Windscribe",
           "windscribe",
-          "VPN con 10GB/mes gratis y servidores en",
+          "VPN con 10GB/mes gratis y servidores en 10 países",
           "security-vpn",
           "vpn-services",
           "vpn",
@@ -4862,7 +4708,7 @@
         "terms": [
           "WorkOS",
           "workos",
-          "SSO empresarial listo para usar con plan",
+          "SSO empresarial listo para usar con plan free",
           "security-vpn",
           "security-auth",
           "auth",
@@ -5109,6 +4955,108 @@
           "github",
           "research"
         ]
+      },
+      {
+        "id": "course-fast-ai",
+        "slug": "course-fast-ai",
+        "terms": [
+          "Course Fast AI",
+          "course-fast-ai",
+          "Curso practico de deep learning",
+          "education-learning",
+          "programming-courses",
+          "course",
+          "learning",
+          "ai",
+          "free"
+        ]
+      },
+      {
+        "id": "nasa-systems-engineering-handbook-pdf",
+        "slug": "nasa-systems-engineering-handbook-pdf",
+        "terms": [
+          "Nasa Systems Engineering Handbook Pdf",
+          "nasa-systems-engineering-handbook-pdf",
+          "Manual NASA ingenieria sistemas",
+          "education-learning",
+          "programming-courses",
+          "book",
+          "pdf",
+          "engineering",
+          "documentation"
+        ]
+      },
+      {
+        "id": "arxiv-2512-24880",
+        "slug": "arxiv-2512-24880",
+        "terms": [
+          "Arxiv 2512 24880",
+          "arxiv-2512-24880",
+          "Paper de investigacion IA",
+          "education-learning",
+          "programming-courses",
+          "research",
+          "ai",
+          "learning"
+        ]
+      },
+      {
+        "id": "rl-for-finance-book-pdf",
+        "slug": "rl-for-finance-book-pdf",
+        "terms": [
+          "RL For Finance Book Pdf",
+          "rl-for-finance-book-pdf",
+          "Libro RL aplicado a finanzas",
+          "education-learning",
+          "programming-courses",
+          "book",
+          "pdf",
+          "finance",
+          "learning"
+        ]
+      },
+      {
+        "id": "arxiv-2605-06732",
+        "slug": "arxiv-2605-06732",
+        "terms": [
+          "Arxiv 2605 06732",
+          "arxiv-2605-06732",
+          "Paper de investigacion IA",
+          "education-learning",
+          "programming-courses",
+          "research",
+          "ai",
+          "learning"
+        ]
+      },
+      {
+        "id": "nature-s41598-025-99623-3",
+        "slug": "nature-s41598-025-99623-3",
+        "terms": [
+          "Nature S41598 025 99623 3",
+          "nature-s41598-025-99623-3",
+          "Articulo cientifico revisado",
+          "education-learning",
+          "programming-courses",
+          "research",
+          "ai",
+          "learning"
+        ]
+      },
+      {
+        "id": "transformers-laid-out-ref",
+        "slug": "transformers-laid-out-ref",
+        "terms": [
+          "Transformers Laid Out",
+          "transformers-laid-out-ref",
+          "Guia visual de Transformers",
+          "education-learning",
+          "programming-courses",
+          "reference",
+          "guide",
+          "ai",
+          "learning"
+        ]
       }
     ]
   },
@@ -5151,6 +5099,6 @@
     "dataset": "dns_seguridad_educacion",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 232
+    "resourceCount": 239
   }
 }

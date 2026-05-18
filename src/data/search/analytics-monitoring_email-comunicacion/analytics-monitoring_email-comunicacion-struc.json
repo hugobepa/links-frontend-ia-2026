@@ -11,7 +11,7 @@
       "description": "Etiqueta analytics"
     },
     "api": {
-      "count": 10,
+      "count": 12,
       "color": "#7c3aed",
       "description": "Etiqueta api"
     },
@@ -51,7 +51,7 @@
       "description": "Etiqueta cloud"
     },
     "communication": {
-      "count": 1,
+      "count": 2,
       "color": "#db2777",
       "description": "Etiqueta communication"
     },
@@ -71,7 +71,7 @@
       "description": "Etiqueta crawl"
     },
     "crawler": {
-      "count": 1,
+      "count": 3,
       "color": "#dc2626",
       "description": "Etiqueta crawler"
     },
@@ -191,7 +191,7 @@
       "description": "Etiqueta marketing"
     },
     "messaging": {
-      "count": 8,
+      "count": 10,
       "color": "#db2777",
       "description": "Etiqueta messaging"
     },
@@ -261,7 +261,7 @@
       "description": "Etiqueta on-call"
     },
     "open-source": {
-      "count": 7,
+      "count": 10,
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
     },
@@ -316,7 +316,7 @@
       "description": "Etiqueta scheduling"
     },
     "scraping": {
-      "count": 1,
+      "count": 3,
       "color": "#0891b2",
       "description": "Etiqueta scraping"
     },
@@ -396,7 +396,7 @@
       "description": "Etiqueta voice"
     },
     "web": {
-      "count": 4,
+      "count": 5,
       "color": "#db2777",
       "description": "Etiqueta web"
     },
@@ -416,7 +416,7 @@
       "description": "Etiqueta websockets"
     },
     "whatsapp": {
-      "count": 1,
+      "count": 3,
       "color": "#dc2626",
       "description": "Etiqueta whatsapp"
     },
@@ -829,11 +829,11 @@
         ]
       },
       {
-        "id": "onesignal",
-        "slug": "onesignal",
+        "id": "onesignal-web",
+        "slug": "onesignal-web",
         "terms": [
           "OneSignal",
-          "onesignal",
+          "onesignal-web",
           "Notificaciones push 10k usuarios",
           "email",
           "notifications-messaging",
@@ -974,11 +974,11 @@
         ]
       },
       {
-        "id": "rank-math",
-        "slug": "rank-math",
+        "id": "rank-math-web",
+        "slug": "rank-math-web",
         "terms": [
           "Rank Math",
-          "rank-math",
+          "rank-math-web",
           "Herramienta SEO para WordPress",
           "analytics",
           "seo-tools",
@@ -1219,6 +1219,65 @@
           "helpdesk",
           "crm"
         ]
+      },
+      {
+        "id": "llm-scraper-gh",
+        "slug": "llm-scraper-gh",
+        "terms": [
+          "LLM Scraper",
+          "llm-scraper-gh",
+          "Scraping web con LLM y Playwright",
+          "analytics",
+          "seo-tools",
+          "scraping",
+          "crawler",
+          "open-source"
+        ]
+      },
+      {
+        "id": "codegraph-gh",
+        "slug": "codegraph-gh",
+        "terms": [
+          "Codegraph",
+          "codegraph-gh",
+          "Crawler y grafo de codigo",
+          "analytics",
+          "seo-tools",
+          "crawler",
+          "scraping",
+          "open-source",
+          "web"
+        ]
+      },
+      {
+        "id": "whatsapp-business-platform-web",
+        "slug": "whatsapp-business-platform-web",
+        "terms": [
+          "Whatsapp Business Platform",
+          "whatsapp-business-platform-web",
+          "API oficial de WhatsApp Business",
+          "email",
+          "notifications-messaging",
+          "whatsapp",
+          "api",
+          "messaging",
+          "communication"
+        ]
+      },
+      {
+        "id": "evolution-api-gh",
+        "slug": "evolution-api-gh",
+        "terms": [
+          "Evolution API",
+          "evolution-api-gh",
+          "API WhatsApp multi-dispositivo",
+          "email",
+          "notifications-messaging",
+          "whatsapp",
+          "api",
+          "messaging",
+          "open-source"
+        ]
       }
     ]
   },
@@ -1239,7 +1298,8 @@
     ],
     "pricing": [
       "free",
-      "freemium"
+      "freemium",
+      "premium"
     ],
     "languages": [
       "en",
@@ -1260,6 +1320,6 @@
     "dataset": "analytics-monitoring_email-comunicacion",
     "title": "analytics-monitoring_email-comunicacion",
     "description": "Dataset analytics-monitoring_email-comunicacion",
-    "resourceCount": 52
+    "resourceCount": 56
   }
 }

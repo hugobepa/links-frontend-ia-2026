@@ -1,124 +1,70 @@
-# Links Insertados 15/05/2026
+# Links Insertados 18/05/2026 (Tarde)
 
-> Total insertados: 32
-> Base actualizada: links-general/link-general_15052026.md
-
----
-
-## 🔌 APIs & Datos
-
-### **Herramientas API**
-
-| **Nombre**            | **Descripción**                    | **Enlace**                                                                       | **Tipo** |
-| --------------------- | ---------------------------------- | -------------------------------------------------------------------------------- | -------- |
-| **surf**              | Cliente HTTP y toolkit API moderno | [github.com/enetx/surf](https://github.com/enetx/surf)                           | Free     |
-| **fingerprint-suite** | Fingerprinting anti-fraude y bots  | [github.com/apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) | Free     |
-
----
-
-## 🗄️ Bases de Datos
-
-### **Herramientas Database**
-
-| **Nombre**    | **Descripción**                   | **Enlace**                                                                   | **Estado** |
-| ------------- | --------------------------------- | ---------------------------------------------------------------------------- | ---------- |
-| **smallpond** | Framework ETL ligero sobre DuckDB | [github.com/deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) | ✅ Activo  |
-
----
-
-## 💻 Desarrollo & IDE
-
-### **Herramientas Dev Varias**
-
-| **Nombre**  | **Descripción**                       | **Enlace**                                                           |
-| ----------- | ------------------------------------- | -------------------------------------------------------------------- |
-| **winpodx** | Contenedores Linux ligeros en Windows | [github.com/kernalix7/winpodx](https://github.com/kernalix7/winpodx) |
-
----
-
-## 🤖 Inteligencia Artificial
-
-### **Generación de Imagen IA**
-
-| **Nombre**  | **Premium/Free** | **Descripción**                    | **Enlace**                                                               |
-| ----------- | ---------------- | ---------------------------------- | ------------------------------------------------------------------------ |
-| **CatVTON** | Free             | Try-on virtual con difusión ligera | [github.com/Zheng-Chong/CatVTON](https://github.com/Zheng-Chong/CatVTON) |
-
-### **IA Video & Audio**
-
-| **Nombre**                | **Descripción**                   | **Enlace**                                                                                 | **Estado** |
-| ------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------ | ---------- |
-| **Youtube-clipper-skill** | Clips YouTube con IA y subtítulos | [github.com/op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) | ✅ Activo  |
-
-### **IA Agentes & Automatización**
-
-| **Nombre**                 | **Descripción**                       | **Enlace**                                                                                                         | **Estado** |
-| -------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------- |
-| **ANUS**                   | Framework agéntico open source        | [github.com/anus-dev/ANUS](https://github.com/anus-dev/ANUS)                                                       | ✅ Activo  |
-| **Fusion**                 | Plataforma multiagente para flujos IA | [github.com/Runfusion/Fusion](https://github.com/Runfusion/Fusion)                                                 | ✅ Activo  |
-| **claude-code-agent-farm** | Orquesta 20+ agentes Claude paralelo  | [github.com/Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm) | ✅ Activo  |
-| **AutoTTS**                | Descubrimiento agéntico para LLMs     | [github.com/zhengkid/AutoTTS](https://github.com/zhengkid/AutoTTS)                                                 | ✅ Activo  |
-| **Interaction-Models**     | Colaboración humano-IA escalable      | [thinkingmachines.ai/blog/interaction-models](https://thinkingmachines.ai/blog/interaction-models)                 | ✅ Activo  |
-
-### **IA Cursos & Aprendizaje**
-
-| **Nombre**                           | **Descripción**                      | **Enlace**                                                                                                           | **Estado** |
-| ------------------------------------ | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ---------- |
-| **llm-engineer-toolkit**             | Colección curada de librerías LLM    | [github.com/KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)                 | ✅ Activo  |
-| **stanford-cs-229-machine-learning** | Apuntes y recursos Stanford CS229    | [github.com/afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) | ✅ Activo  |
-| **Anthropic-Fellows-Program**        | Fellowship investigación aplicada IA | [job-boards.greenhouse.io/anthropic/jobs/5023394008](https://job-boards.greenhouse.io/anthropic/jobs/5023394008)     | ✅ Activo  |
-
-### **IA Herramientas Especializadas**
-
-| **Nombre**        | **Descripción**                        | **Enlace**                                                                           | **Estado** |
-| ----------------- | -------------------------------------- | ------------------------------------------------------------------------------------ | ---------- |
-| **Dolphin**       | Parser visual para documentos y tablas | [github.com/bytedance/Dolphin](https://github.com/bytedance/Dolphin)                 | ✅ Activo  |
-| **Hyper-Extract** | Extracción inteligente de documentos   | [github.com/yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | ✅ Activo  |
-| **tracer**        | Reduce coste LLM en clasificación      | [github.com/adrida/tracer](https://github.com/adrida/tracer)                         | ✅ Activo  |
-
----
-
-## 🔐 Seguridad & VPN
-
-### **VPN**
-
-| **Nombre**   | **Descripción**                | **Enlace**                                                     |
-| ------------ | ------------------------------ | -------------------------------------------------------------- |
-| **pangolin** | Red privada self-hosted segura | [github.com/fosrl/pangolin](https://github.com/fosrl/pangolin) |
-| **dsvpn**    | VPN mínima y rápida en C       | [github.com/jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) |
-
-### **Seguridad & Auth**
-
-| **Nombre**            | **Descripción**                     | **Enlace**                                                                           |
-| --------------------- | ----------------------------------- | ------------------------------------------------------------------------------------ |
-| **tpotce**            | Honeypot telco para ciberdefensa    | [github.com/telekom-security/tpotce](https://github.com/telekom-security/tpotce)     |
-| **pentest-ai-agents** | Agentes IA para pentesting ofensivo | [github.com/0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) |
-| **portmaster**        | Firewall y privacidad de red local  | [github.com/safing/portmaster](https://github.com/safing/portmaster)                 |
-
----
-
-## 📚 Educación & Aprendizaje
-
-### **Libros & Documentación**
-
-| **Nombre**                                                 | **Descripción**                          | **Enlace**                                                                                                                                                             |
-| ---------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **diagrams**                                               | Diagramas científicos de física y ML     | [github.com/janosh/diagrams](https://github.com/janosh/diagrams)                                                                                                       |
-| **HLA**                                                    | Atención lineal de orden superior        | [github.com/yifanzhang-pro/HLA](https://github.com/yifanzhang-pro/HLA)                                                                                                 |
-| **Learning-Theory**                                        | Libro Cambridge teoría aprendizaje       | [www.cambridge.org/core/books/learning-theory/B39A58737BCA537565FDBC07014AE2B4](https://www.cambridge.org/core/books/learning-theory/B39A58737BCA537565FDBC07014AE2B4) |
-| **Statistics-IB**                                          | Notas curso estadística Cambridge        | [statslab.cam.ac.uk/~rrw1/stats/Sa4.pdf](https://www.statslab.cam.ac.uk/~rrw1/stats/Sa4.pdf)                                                                           |
-| **The-recessionary-pressures-of-generative-AI**            | Riesgos socioeconómicos de IA generativa | [arxiv.org/abs/2403.17405](https://arxiv.org/abs/2403.17405)                                                                                                           |
-| **The-Impact-of-Artificial-Intelligence-on-Human-Thought** | Efectos cognitivos, sociales y éticos    | [arxiv.org/abs/2508.16628](https://arxiv.org/abs/2508.16628)                                                                                                           |
-| **The-Deepfakes-We-Missed**                                | Amenazas reales y detección deepfakes    | [arxiv.org/abs/2605.12075](https://arxiv.org/abs/2605.12075)                                                                                                           |
-| **Geodesics-in-Quantum-Gravity**                           | Geodésicas cuánticas en gravedad         | [arxiv.org/pdf/2510.0117](https://arxiv.org/pdf/2510.0117)                                                                                                             |
-| **bioRxiv-preprint**                                       | Preprint científico en bioRxiv           | [biorxiv.org/content/10.110](https://www.biorxiv.org/content/10.110)                                                                                                   |
-
----
+Total insertados: 39
 
 ## 🧩 Utilidades & Herramientas
 
-### **🔍 SEO & Scraping**
+### 🔍 SEO & Scraping
 
-| **Nombre**   | **Descripción**                  | **Enlace**                                                             |
-| ------------ | -------------------------------- | ---------------------------------------------------------------------- |
-| **crawl4ai** | Crawl y extracción web para LLMs | [github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) |
+| Nombre         | Descripción                       | Link                                                     |
+| -------------- | --------------------------------- | -------------------------------------------------------- |
+| llm-scraper-gh | Scraping web con LLM y Playwright | [github.com](https://github.com/mishushakov/llm-scraper) |
+| codegraph-gh   | Crawler y grafo de código         | [github.com](https://github.com/colbymchenry/codegraph)  |
+
+## 📧 Email & Comunicación
+
+### Notificaciones & Messaging
+
+| Nombre                         | Descripción                      | Link                                                                             |
+| ------------------------------ | -------------------------------- | -------------------------------------------------------------------------------- |
+| whatsapp-business-platform-web | API oficial de WhatsApp Business | [whatsappbusiness.com](https://whatsappbusiness.com/products/business-platform/) |
+| evolution-api-gh               | API WhatsApp multi-dispositivo   | [github.com](https://github.com/evolution-foundation/evolution-api)              |
+
+## 🤖 Inteligencia Artificial
+
+### IA Cursos & Aprendizaje
+
+| Nombre                            | Descripción                           | Link                                                                             |
+| --------------------------------- | ------------------------------------- | -------------------------------------------------------------------------------- |
+| sutskever-30-implementations-gh   | 30 ideas IA para implementar          | [github.com](https://github.com/pageman/sutskever-30-implementations)            |
+| art-doing-anything-yt             | Hábitos para rendir al máximo         | [youtube.com](https://www.youtube.com/watch?v=r4IQopBxzOo)                       |
+| claude-design-complete-guide-yt   | Guía completa de Claude Design        | [youtube.com](https://www.youtube.com/watch?v=eXlSgQmz02E)                       |
+| andrew-ng-ai-agents-build-2024-yt | Andrew Ng sobre agentes IA            | [youtube.com](https://www.youtube.com/watch?v=KrRD7r7y7NY)                       |
+| rowboat-gh                        | Framework para agentes en navegadores | [github.com](https://github.com/rowboatlabs/rowboat)                             |
+| lightclaw-gh                      | Automatización con enfoque IA         | [github.com](https://github.com/zofrasca/lightclaw)                              |
+| turboquant-plus-gh                | Trading cuantitativo y backtesting    | [github.com](https://github.com/TheTom/turboquant_plus)                          |
+| llms-from-scratch-alt-gh          | Implementaciones LLM desde cero       | [github.com](https://github.com/analyticalrohit/llms-from-scratch)               |
+| paperetl-gh                       | ETL semántico para papers             | [github.com](https://github.com/neuml/paperetl)                                  |
+| train-llm-from-scratch-gh         | Entrenamiento LLM paso a paso         | [github.com](https://github.com/FareedKhan-dev/train-llm-from-scratch)           |
+| project-ideas-resources-gh        | Ideas y recursos para proyectos       | [github.com](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)     |
+| crawlee-python-gh                 | Web scraping escalable con Python     | [github.com](https://github.com/apify/crawlee-python)                            |
+| mlfinlab-gh                       | Librería de finanzas cuantitativas    | [github.com](https://github.com/hudson-and-thames/mlfinlab)                      |
+| fortnite-porting-gh               | Porting y tooling de assets           | [github.com](https://github.com/h4lfheart/FortnitePorting)                       |
+| playwright-computer-use-gh        | Control de navegador por agentes      | [github.com](https://github.com/invariantlabs-ai/playwright-computer-use)        |
+| openskills-gh                     | Rating bayesiano para emparejamientos | [github.com](https://github.com/numman-ali/openskills)                           |
+| metaclaw-gh                       | Framework de agentes autocontenidos   | [github.com](https://github.com/aiming-lab/MetaClaw)                             |
+| digital-chip-design-agents-gh     | Agentes para diseño de chips          | [github.com](https://github.com/chuanseng-ng/digital-chip-design-agents)         |
+| deepdiagram-gh                    | Diagramas técnicos asistidos por IA   | [github.com](https://github.com/LingyiChen-AI/DeepDiagram)                       |
+| trykimu-videoeditor-gh            | Editor de video con capacidades IA    | [github.com](https://github.com/trykimu/videoeditor)                             |
+| gemini-api-gh                     | Integración práctica de Gemini API    | [github.com](https://github.com/HanaokaYuzu/Gemini-API)                          |
+| yue-gh                            | Proyecto multimodal de audio/música   | [github.com](https://github.com/multimodal-art-projection/YuE)                   |
+| rl-course-materials-gh            | Materiales de curso de RL             | [github.com](https://github.com/upb-lea/reinforcement_learning_course_materials) |
+| mars-gh                           | Repositorio Microsoft MarS            | [github.com](https://github.com/microsoft/MarS)                                  |
+| redplanet-core-gh                 | Core framework para productos IA      | [github.com](https://github.com/RedPlanetHQ/core)                                |
+| open-design-gh                    | Recursos de diseño open source        | [github.com](https://github.com/nexu-io/open-design)                             |
+| ps5-linux-loader-gh               | Loader Linux para PS5                 | [github.com](https://github.com/ps5-linux/ps5-linux-loader)                      |
+| everything-claude-code-gh         | Recursos y notas Claude Code          | [github.com](https://github.com/affaan-m/everything-claude-code)                 |
+
+## 📚 Educación & Aprendizaje
+
+### Libros & Documentación
+
+| Nombre                                | Descripción                           | Link                                                                                                    |
+| ------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| course-fast-ai                        | Curso práctico de deep learning       | [course.fast.ai](https://course.fast.ai/)                                                               |
+| nasa-systems-engineering-handbook-pdf | Manual NASA de ingeniería de sistemas | [www.nasa.gov](https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf) |
+| arxiv-2512-24880                      | Paper de investigación IA             | [arxiv.org](https://arxiv.org/abs/2512.24880)                                                           |
+| rl-for-finance-book-pdf               | Libro RL aplicado a finanzas          | [stanford.edu](https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf)                                |
+| arxiv-2605-06732                      | Paper de investigación IA             | [arxiv.org](https://arxiv.org/abs/2605.06732)                                                           |
+| nature-s41598-025-99623-3             | Artículo científico revisado          | [www.nature.com](https://www.nature.com/articles/s41598-025-99623-3)                                    |
+| transformers-laid-out-ref             | Guía visual de Transformers           | [goyalpramod.github.io](https://goyalpramod.github.io/blogs/Transformers_laid_out/)                     |

@@ -171,7 +171,7 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 
 ## ES - Actualizacion v9 (18/05/2026)
 
-- Fuente procesada: `NUEVOS_44_LINKS.json` + listado validado.
+- Fuente procesada: lote validado de 44 enlaces.
 - Candidatos: 44 URLs.
 - Duplicados detectados y omitidos en insercion: 0.
 - Altas nuevas en `src/data`: 44.
@@ -199,7 +199,7 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 
 ## EN - v9 Update (2026-05-18)
 
-- Processed source: `NUEVOS_44_LINKS.json` + validated list.
+- Processed source: validated batch of 44 links.
 - Candidates: 44 URLs.
 - Duplicates skipped for insertion: 0.
 - New inserts in `src/data`: 44.
@@ -211,6 +211,45 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 - Regenerated `*-struc.json` (`tags`, `filters`, `searchIndex.resources`, `ui.resourceCount`).
 - Regenerated `nombre-links.json` with sorted unique names.
 - Current total resources in `src/data/dates`: **1192**.
+
+## ES - Actualizacion v10 (18/05/2026)
+
+- Fuente procesada: `preproyecto/links-insertados.md`.
+- Candidatos: 39 URLs.
+- Duplicados detectados y omitidos en insercion: 0.
+- Altas nuevas en `src/data`: 39.
+- Verificacion final: los 39 enlaces del lote existen en el dataset global.
+
+### Cambios aplicados v10
+
+| Dataset                                   | Antes | Nuevos | Total |
+| ----------------------------------------- | ----- | ------ | ----- |
+| `analytics-monitoring_email-comunicacion` | 52    | +4     | 56    |
+| `ia_asistentes-desarrollo-china-imagen_1` | 73    | +28    | 101   |
+| `dns_seguridad_educacion`                 | 232   | +7     | 239   |
+
+### Cobertura tecnica v10
+
+- Se actualizaron `*-rec.json` con recursos, `resourceCount` y `searchIndex`.
+- Se actualizaron `*-struc.json` con `tags`, `filters`, indice de busqueda y `ui.resourceCount`.
+- Se actualizaron `nombre-links.json` con nombres unicos ordenados.
+- Total actual de recursos en `src/data/dates`: **1231**.
+- Tiempo: **19:09 - 18/05/2026 (Madrid)**.
+
+## EN - v10 Update (2026-05-18)
+
+- Processed source: `preproyecto/links-insertados.md`.
+- Candidates: 39 URLs.
+- Duplicates skipped for insertion: 0.
+- New inserts in `src/data`: 39.
+- Final validation: all 39 links from this batch are present globally.
+
+### Technical coverage v10
+
+- Updated `*-rec.json` with resources, counters, and `searchIndex`.
+- Updated `*-struc.json` with `tags`, `filters`, search index and `ui.resourceCount`.
+- Updated `nombre-links.json` with sorted unique names.
+- Current total resources in `src/data/dates`: **1231**.
 
 ---
 
@@ -294,3 +333,4 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 | _7_       | **Fase 4** | Insercion y sync de 35 enlaces | Inserted and synced 35 links | 23:07 - 14/05/2026 |
 | _8_       | **Fase 4** | Insercion y sync de 32 enlaces | Inserted and synced 32 links | 11:50 - 15/05/2026 |
 | _9_       | **Fase 4** | Insercion y sync de 44 enlaces | Inserted and synced 44 links | 18:20 - 18/05/2026 |
+| _10_      | **Fase 4** | Insercion y sync de 39 enlaces | Inserted and synced 39 links | 19:09 - 18/05/2026 |

@@ -11,7 +11,7 @@
       "id": "education-learning",
       "name": "Education Learning",
       "slug": "education-learning",
-      "resourceCount": 192,
+      "resourceCount": 199,
       "status": "active"
     },
     {
@@ -52,7 +52,7 @@
       "name": "Programming Courses",
       "slug": "programming-courses",
       "category": "education-learning",
-      "resourceCount": 192,
+      "resourceCount": 199,
       "status": "active"
     },
     {
@@ -3858,9 +3858,9 @@
       "noCreditCard": true
     },
     {
-      "id": "jelou-ai",
+      "id": "jelou-ai-yt",
       "name": "Jelou AI",
-      "slug": "jelou-ai",
+      "slug": "jelou-ai-yt",
       "description": "Canal YouTube oficial de Jelou AI",
       "url": "https://www.youtube.com/@jelouai",
       "status": "active",
@@ -3873,7 +3873,7 @@
       ],
       "searchIndex": [
         "Jelou AI",
-        "jelou-ai",
+        "jelou-ai-yt",
         "Canal YouTube oficial de Jelou AI",
         "education-learning",
         "programming-courses",
@@ -8392,6 +8392,245 @@
         "ai",
         "github",
         "research"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "course-fast-ai",
+      "name": "Course Fast AI",
+      "slug": "course-fast-ai",
+      "description": "Curso practico de deep learning",
+      "url": "https://course.fast.ai/",
+      "status": "active",
+      "tags": [
+        "course",
+        "learning",
+        "ai",
+        "free"
+      ],
+      "searchIndex": [
+        "Course Fast AI",
+        "course-fast-ai",
+        "Curso practico de deep learning",
+        "education-learning",
+        "programming-courses",
+        "course",
+        "learning",
+        "ai",
+        "free"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "nasa-systems-engineering-handbook-pdf",
+      "name": "Nasa Systems Engineering Handbook Pdf",
+      "slug": "nasa-systems-engineering-handbook-pdf",
+      "description": "Manual NASA ingenieria sistemas",
+      "url": "https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf",
+      "status": "active",
+      "tags": [
+        "book",
+        "pdf",
+        "engineering",
+        "documentation"
+      ],
+      "searchIndex": [
+        "Nasa Systems Engineering Handbook Pdf",
+        "nasa-systems-engineering-handbook-pdf",
+        "Manual NASA ingenieria sistemas",
+        "education-learning",
+        "programming-courses",
+        "book",
+        "pdf",
+        "engineering",
+        "documentation"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-2512-24880",
+      "name": "Arxiv 2512 24880",
+      "slug": "arxiv-2512-24880",
+      "description": "Paper de investigacion IA",
+      "url": "https://arxiv.org/abs/2512.24880",
+      "status": "active",
+      "tags": [
+        "research",
+        "ai",
+        "learning"
+      ],
+      "searchIndex": [
+        "Arxiv 2512 24880",
+        "arxiv-2512-24880",
+        "Paper de investigacion IA",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "ai",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "rl-for-finance-book-pdf",
+      "name": "RL For Finance Book Pdf",
+      "slug": "rl-for-finance-book-pdf",
+      "description": "Libro RL aplicado a finanzas",
+      "url": "https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf",
+      "status": "active",
+      "tags": [
+        "book",
+        "pdf",
+        "finance",
+        "learning"
+      ],
+      "searchIndex": [
+        "RL For Finance Book Pdf",
+        "rl-for-finance-book-pdf",
+        "Libro RL aplicado a finanzas",
+        "education-learning",
+        "programming-courses",
+        "book",
+        "pdf",
+        "finance",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-2605-06732",
+      "name": "Arxiv 2605 06732",
+      "slug": "arxiv-2605-06732",
+      "description": "Paper de investigacion IA",
+      "url": "https://arxiv.org/abs/2605.06732",
+      "status": "active",
+      "tags": [
+        "research",
+        "ai",
+        "learning"
+      ],
+      "searchIndex": [
+        "Arxiv 2605 06732",
+        "arxiv-2605-06732",
+        "Paper de investigacion IA",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "ai",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "nature-s41598-025-99623-3",
+      "name": "Nature S41598 025 99623 3",
+      "slug": "nature-s41598-025-99623-3",
+      "description": "Articulo cientifico revisado",
+      "url": "https://www.nature.com/articles/s41598-025-99623-3",
+      "status": "active",
+      "tags": [
+        "research",
+        "ai",
+        "learning"
+      ],
+      "searchIndex": [
+        "Nature S41598 025 99623 3",
+        "nature-s41598-025-99623-3",
+        "Articulo cientifico revisado",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "ai",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "transformers-laid-out-ref",
+      "name": "Transformers Laid Out",
+      "slug": "transformers-laid-out-ref",
+      "description": "Guia visual de Transformers",
+      "url": "https://goyalpramod.github.io/blogs/Transformers_laid_out/",
+      "status": "active",
+      "tags": [
+        "reference",
+        "guide",
+        "ai",
+        "learning"
+      ],
+      "searchIndex": [
+        "Transformers Laid Out",
+        "transformers-laid-out-ref",
+        "Guia visual de Transformers",
+        "education-learning",
+        "programming-courses",
+        "reference",
+        "guide",
+        "ai",
+        "learning"
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",

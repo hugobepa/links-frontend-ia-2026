@@ -3,7 +3,7 @@
     "id": "ai",
     "name": "Ai",
     "slug": "ai",
-    "resourceCount": 73,
+    "resourceCount": 101,
     "status": "active"
   },
   "subcategories": [
@@ -12,7 +12,7 @@
       "name": "Assistants",
       "slug": "assistants",
       "category": "ai",
-      "resourceCount": 26,
+      "resourceCount": 32,
       "status": "active"
     },
     {
@@ -28,7 +28,7 @@
       "name": "Development",
       "slug": "development",
       "category": "ai",
-      "resourceCount": 24,
+      "resourceCount": 44,
       "status": "active"
     },
     {
@@ -36,7 +36,7 @@
       "name": "Image Generation",
       "slug": "image-generation",
       "category": "ai",
-      "resourceCount": 14,
+      "resourceCount": 16,
       "status": "active"
     }
   ],
@@ -2641,6 +2641,982 @@
       ],
       "category": "ai",
       "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "sutskever-30-implementations-gh",
+      "name": "Sutskever 30 Implementations",
+      "slug": "sutskever-30-implementations-gh",
+      "description": "30 ideas IA para implementar",
+      "url": "https://github.com/pageman/sutskever-30-implementations",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Sutskever 30 Implementations",
+        "sutskever-30-implementations-gh",
+        "30 ideas IA para implementar",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "art-doing-anything-yt",
+      "name": "Art Doing Anything",
+      "slug": "art-doing-anything-yt",
+      "description": "Habitos para rendir al maximo",
+      "url": "https://www.youtube.com/watch?v=r4IQopBxzOo",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "video",
+        "web"
+      ],
+      "searchIndex": [
+        "Art Doing Anything",
+        "art-doing-anything-yt",
+        "Habitos para rendir al maximo",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "video",
+        "web"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "claude-design-complete-guide-yt",
+      "name": "Claude Design Complete Guide",
+      "slug": "claude-design-complete-guide-yt",
+      "description": "Guia completa de Claude Design",
+      "url": "https://www.youtube.com/watch?v=eXlSgQmz02E",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "video",
+        "llm"
+      ],
+      "searchIndex": [
+        "Claude Design Complete Guide",
+        "claude-design-complete-guide-yt",
+        "Guia completa de Claude Design",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "video",
+        "llm"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "andrew-ng-ai-agents-build-2024-yt",
+      "name": "Andrew Ng AI Agents Build 2024",
+      "slug": "andrew-ng-ai-agents-build-2024-yt",
+      "description": "Andrew Ng sobre agentes IA",
+      "url": "https://www.youtube.com/watch?v=KrRD7r7y7NY",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "assistant",
+        "video"
+      ],
+      "searchIndex": [
+        "Andrew Ng AI Agents Build 2024",
+        "andrew-ng-ai-agents-build-2024-yt",
+        "Andrew Ng sobre agentes IA",
+        "ai",
+        "assistants",
+        "ai",
+        "agent",
+        "assistant",
+        "video"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "rowboat-gh",
+      "name": "Rowboat",
+      "slug": "rowboat-gh",
+      "description": "Framework para agentes browser",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Rowboat",
+        "rowboat-gh",
+        "Framework para agentes browser",
+        "ai",
+        "assistants",
+        "ai",
+        "agent",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "lightclaw-gh",
+      "name": "Lightclaw",
+      "slug": "lightclaw-gh",
+      "description": "Automatizacion con enfoque IA",
+      "url": "https://github.com/zofrasca/lightclaw",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Lightclaw",
+        "lightclaw-gh",
+        "Automatizacion con enfoque IA",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "turboquant-plus-gh",
+      "name": "Turboquant Plus",
+      "slug": "turboquant-plus-gh",
+      "description": "Trading cuantitativo backtesting",
+      "url": "https://github.com/TheTom/turboquant_plus",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Turboquant Plus",
+        "turboquant-plus-gh",
+        "Trading cuantitativo backtesting",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "llms-from-scratch-alt-gh",
+      "name": "Llms From Scratch Alt",
+      "slug": "llms-from-scratch-alt-gh",
+      "description": "Implementaciones LLM desde cero",
+      "url": "https://github.com/analyticalrohit/llms-from-scratch",
+      "status": "active",
+      "tags": [
+        "ai",
+        "llm",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Llms From Scratch Alt",
+        "llms-from-scratch-alt-gh",
+        "Implementaciones LLM desde cero",
+        "ai",
+        "development",
+        "ai",
+        "llm",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "paperetl-gh",
+      "name": "Paperetl",
+      "slug": "paperetl-gh",
+      "description": "ETL semantico para papers",
+      "url": "https://github.com/neuml/paperetl",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Paperetl",
+        "paperetl-gh",
+        "ETL semantico para papers",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "train-llm-from-scratch-gh",
+      "name": "Train LLM From Scratch",
+      "slug": "train-llm-from-scratch-gh",
+      "description": "Entrenamiento LLM paso a paso",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "status": "active",
+      "tags": [
+        "ai",
+        "llm",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Train LLM From Scratch",
+        "train-llm-from-scratch-gh",
+        "Entrenamiento LLM paso a paso",
+        "ai",
+        "development",
+        "ai",
+        "llm",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "project-ideas-resources-gh",
+      "name": "Project Ideas Resources",
+      "slug": "project-ideas-resources-gh",
+      "description": "Ideas y recursos para proyectos",
+      "url": "https://github.com/The-Cool-Coders/Project-Ideas-And-Resources",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Project Ideas Resources",
+        "project-ideas-resources-gh",
+        "Ideas y recursos para proyectos",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "crawlee-python-gh",
+      "name": "Crawlee Python",
+      "slug": "crawlee-python-gh",
+      "description": "Web scraping escalable Python",
+      "url": "https://github.com/apify/crawlee-python",
+      "status": "active",
+      "tags": [
+        "ai",
+        "scraping",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Crawlee Python",
+        "crawlee-python-gh",
+        "Web scraping escalable Python",
+        "ai",
+        "development",
+        "ai",
+        "scraping",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "mlfinlab-gh",
+      "name": "Mlfinlab",
+      "slug": "mlfinlab-gh",
+      "description": "Libreria de finanzas cuant",
+      "url": "https://github.com/hudson-and-thames/mlfinlab",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Mlfinlab",
+        "mlfinlab-gh",
+        "Libreria de finanzas cuant",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "fortnite-porting-gh",
+      "name": "Fortnite Porting",
+      "slug": "fortnite-porting-gh",
+      "description": "Porting y tooling de assets",
+      "url": "https://github.com/h4lfheart/FortnitePorting",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Fortnite Porting",
+        "fortnite-porting-gh",
+        "Porting y tooling de assets",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "playwright-computer-use-gh",
+      "name": "Playwright Computer Use",
+      "slug": "playwright-computer-use-gh",
+      "description": "Control browser por agentes",
+      "url": "https://github.com/invariantlabs-ai/playwright-computer-use",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Playwright Computer Use",
+        "playwright-computer-use-gh",
+        "Control browser por agentes",
+        "ai",
+        "assistants",
+        "ai",
+        "agent",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "openskills-gh",
+      "name": "Openskills",
+      "slug": "openskills-gh",
+      "description": "Rating bayesiano emparejamientos",
+      "url": "https://github.com/numman-ali/openskills",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Openskills",
+        "openskills-gh",
+        "Rating bayesiano emparejamientos",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "metaclaw-gh",
+      "name": "Metaclaw",
+      "slug": "metaclaw-gh",
+      "description": "Framework agentes autocontenidos",
+      "url": "https://github.com/aiming-lab/MetaClaw",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Metaclaw",
+        "metaclaw-gh",
+        "Framework agentes autocontenidos",
+        "ai",
+        "assistants",
+        "ai",
+        "agent",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "digital-chip-design-agents-gh",
+      "name": "Digital Chip Design Agents",
+      "slug": "digital-chip-design-agents-gh",
+      "description": "Agentes para diseno de chips",
+      "url": "https://github.com/chuanseng-ng/digital-chip-design-agents",
+      "status": "active",
+      "tags": [
+        "ai",
+        "agent",
+        "design",
+        "github"
+      ],
+      "searchIndex": [
+        "Digital Chip Design Agents",
+        "digital-chip-design-agents-gh",
+        "Agentes para diseno de chips",
+        "ai",
+        "assistants",
+        "ai",
+        "agent",
+        "design",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "deepdiagram-gh",
+      "name": "Deepdiagram",
+      "slug": "deepdiagram-gh",
+      "description": "Diagramas tecnicos con IA",
+      "url": "https://github.com/LingyiChen-AI/DeepDiagram",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "design",
+        "github"
+      ],
+      "searchIndex": [
+        "Deepdiagram",
+        "deepdiagram-gh",
+        "Diagramas tecnicos con IA",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "design",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "trykimu-videoeditor-gh",
+      "name": "Trykimu Videoeditor",
+      "slug": "trykimu-videoeditor-gh",
+      "description": "Editor de video con capacidades IA",
+      "url": "https://github.com/trykimu/videoeditor",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "editing",
+        "github"
+      ],
+      "searchIndex": [
+        "Trykimu Videoeditor",
+        "trykimu-videoeditor-gh",
+        "Editor de video con capacidades IA",
+        "ai",
+        "image-generation",
+        "ai",
+        "video",
+        "editing",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "gemini-api-gh",
+      "name": "Gemini API",
+      "slug": "gemini-api-gh",
+      "description": "Integracion practica Gemini API",
+      "url": "https://github.com/HanaokaYuzu/Gemini-API",
+      "status": "active",
+      "tags": [
+        "ai",
+        "google",
+        "github"
+      ],
+      "searchIndex": [
+        "Gemini API",
+        "gemini-api-gh",
+        "Integracion practica Gemini API",
+        "ai",
+        "development",
+        "ai",
+        "google",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "yue-gh",
+      "name": "Yue",
+      "slug": "yue-gh",
+      "description": "Proyecto multimodal audio musica",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "status": "active",
+      "tags": [
+        "ai",
+        "multimodal",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Yue",
+        "yue-gh",
+        "Proyecto multimodal audio musica",
+        "ai",
+        "image-generation",
+        "ai",
+        "multimodal",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "image-generation",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "rl-course-materials-gh",
+      "name": "RL Course Materials",
+      "slug": "rl-course-materials-gh",
+      "description": "Materiales de curso de RL",
+      "url": "https://github.com/upb-lea/reinforcement_learning_course_materials",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "RL Course Materials",
+        "rl-course-materials-gh",
+        "Materiales de curso de RL",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "mars-gh",
+      "name": "Mars",
+      "slug": "mars-gh",
+      "description": "Repositorio Microsoft MarS",
+      "url": "https://github.com/microsoft/MarS",
+      "status": "active",
+      "tags": [
+        "ai",
+        "microsoft",
+        "agent",
+        "github"
+      ],
+      "searchIndex": [
+        "Mars",
+        "mars-gh",
+        "Repositorio Microsoft MarS",
+        "ai",
+        "assistants",
+        "ai",
+        "microsoft",
+        "agent",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "assistants",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "redplanet-core-gh",
+      "name": "Redplanet Core",
+      "slug": "redplanet-core-gh",
+      "description": "Core framework para productos IA",
+      "url": "https://github.com/RedPlanetHQ/core",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Redplanet Core",
+        "redplanet-core-gh",
+        "Core framework para productos IA",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "open-design-gh",
+      "name": "Open Design",
+      "slug": "open-design-gh",
+      "description": "Recursos de diseno open source",
+      "url": "https://github.com/nexu-io/open-design",
+      "status": "active",
+      "tags": [
+        "ai",
+        "design",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Open Design",
+        "open-design-gh",
+        "Recursos de diseno open source",
+        "ai",
+        "development",
+        "ai",
+        "design",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "ps5-linux-loader-gh",
+      "name": "PS5 Linux Loader",
+      "slug": "ps5-linux-loader-gh",
+      "description": "Loader Linux para PS5",
+      "url": "https://github.com/ps5-linux/ps5-linux-loader",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "PS5 Linux Loader",
+        "ps5-linux-loader-gh",
+        "Loader Linux para PS5",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-05-18",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "everything-claude-code-gh",
+      "name": "Everything Claude Code",
+      "slug": "everything-claude-code-gh",
+      "description": "Recursos y notas Claude Code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "status": "active",
+      "tags": [
+        "ai",
+        "coding",
+        "github"
+      ],
+      "searchIndex": [
+        "Everything Claude Code",
+        "everything-claude-code-gh",
+        "Recursos y notas Claude Code",
+        "ai",
+        "development",
+        "ai",
+        "coding",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
       "pricing": "free",
       "languages": [
         "en"
