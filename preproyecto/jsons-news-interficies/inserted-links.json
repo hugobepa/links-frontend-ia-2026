@@ -3,488 +3,2296 @@
     "dataset": "dns_seguridad_educacion",
     "category": "education-learning",
     "subcategory": "programming-courses",
-    "name": "aiengineeringfromscratch",
-    "url": "https://aiengineeringfromscratch.com/",
-    "confidence": "high"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "cerebras-web",
-    "url": "https://cerebras.ai",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "dns_seguridad_educacion",
-    "category": "education-learning",
-    "subcategory": "programming-courses",
-    "name": "codecademy-ai",
-    "url": "https://www.codecademy.com/catalog/subject/artificial-intelligence",
-    "confidence": "high"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "codewiki-google",
-    "url": "https://codewiki.google",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "dns_seguridad_educacion",
-    "category": "education-learning",
-    "subcategory": "programming-courses",
-    "name": "cursor-learn",
-    "url": "https://cursor.com/es/learn",
+    "name": "annas-archive-gl",
+    "url": "https://annas-archive.gl",
     "confidence": "high"
   },
   {
     "dataset": "dns_seguridad_educacion",
     "category": "education-learning",
     "subcategory": "programming-courses",
-    "name": "google-drive-ml-folder",
-    "url": "https://drive.google.com/drive/mobile/folders/12Mvq6kE2HJDwN2CZhEGWizyWt87YunkU",
+    "name": "app-codecrafters-io",
+    "url": "https://app.codecrafters.io/pay",
     "confidence": "high"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "AI-ML-Roadmap-from-scratch",
-    "url": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "agent-skills-gh",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "claude-ads",
-    "url": "https://github.com/AgriciDaniel/claude-ads",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "utilidades-2_cms",
-    "category": "utilities",
-    "subcategory": "seo-scraping",
-    "name": "Website-downloader",
-    "url": "https://github.com/AhmadIbrahiim/Website-downloader",
-    "confidence": "high"
-  },
-  {
-    "dataset": "apis-data_databases",
-    "category": "version-control",
-    "subcategory": "resources",
-    "name": "ALucek-gh",
-    "url": "https://github.com/ALucek",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "reclip",
-    "url": "https://github.com/averygan/reclip",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "awesome-opencode",
-    "url": "https://github.com/awesome-opencode/awesome-opencode",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "agentic-inbox",
-    "url": "https://github.com/cloudflare/agentic-inbox",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "utilidades-2_cms",
-    "category": "utilities",
-    "subcategory": "seo-scraping",
-    "name": "social-media-scraping-apis",
-    "url": "https://github.com/cporter202/social-media-scraping-apis",
-    "confidence": "high"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "LibreChat",
-    "url": "https://github.com/danny-avila/LibreChat",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "second-brain-ai-assistant-course",
-    "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "DeepSeek-OCR",
-    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "dns_seguridad_educacion",
-    "category": "security-vpn",
-    "subcategory": "security-auth",
-    "name": "nomore403",
-    "url": "https://github.com/devploit/nomore403",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "utilidades-2_cms",
-    "category": "utilities",
-    "subcategory": "seo-scraping",
-    "name": "firecrawl-gh",
-    "url": "https://github.com/firecrawl/firecrawl",
-    "confidence": "high"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "OpenSpec",
-    "url": "https://github.com/Fission-AI/OpenSpec",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "floci",
-    "url": "https://github.com/floci-io/floci",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "andrej-karpathy-skills",
-    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "spec-kit",
-    "url": "https://github.com/github/spec-kit",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "Hands-On-Large-Language-Models",
-    "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "awesome-claude-code",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "iFixAi",
-    "url": "https://github.com/ifixai-ai/iFixAi",
-    "confidence": "medium"
   },
   {
     "dataset": "dns_seguridad_educacion",
     "category": "education-learning",
     "subcategory": "programming-courses",
-    "name": "academic-research-skills",
-    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "name": "app-diagrams-net",
+    "url": "https://app.diagrams.net",
     "confidence": "high"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "ironclaw",
-    "url": "https://github.com/JoasASantos/ironclaw",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "autoresearch",
-    "url": "https://github.com/karpathy/autoresearch",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "utilidades_1",
-    "category": "utilities",
-    "subcategory": "productivity",
-    "name": "linkwarden",
-    "url": "https://github.com/linkwarden/linkwarden",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "graphrag",
-    "url": "https://github.com/microsoft/graphrag",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "qlib",
-    "url": "https://github.com/microsoft/qlib",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "nanobot",
-    "url": "https://github.com/monkeys12341/nanobot",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "nanoclaw",
-    "url": "https://github.com/nickpourazima/nanoclaw",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "hermes-agent-gh",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "utilidades-2_cms",
-    "category": "utilities",
-    "subcategory": "seo-scraping",
-    "name": "toprank",
-    "url": "https://github.com/nowork-studio/toprank",
-    "confidence": "high"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "OpenJarvis",
-    "url": "https://github.com/open-jarvis/OpenJarvis",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "ide",
-    "name": "Open-LLM-VTuber",
-    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-    "confidence": "high"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "openclaw",
-    "url": "https://github.com/openclaw/openclaw",
-    "confidence": "medium"
   },
   {
     "dataset": "dns_seguridad_educacion",
-    "category": "security-vpn",
-    "subcategory": "security-auth",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "art-openpipe-ai",
+    "url": "https://art.openpipe.ai/getting-started/about",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-18",
+    "url": "https://arxiv.org/abs/2503.23923",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-16",
+    "url": "https://arxiv.org/abs/2507.02990",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-12",
+    "url": "https://arxiv.org/abs/2509.11391",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-17",
+    "url": "https://arxiv.org/abs/2511.15352v3",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-11",
+    "url": "https://arxiv.org/abs/2603.28052",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-7",
+    "url": "https://arxiv.org/abs/2604.02460",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-4",
+    "url": "https://arxiv.org/abs/2605.10938",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-14",
+    "url": "https://arxiv.org/abs/2605.11086",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-8",
+    "url": "https://arxiv.org/abs/2605.12484",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-2",
+    "url": "https://arxiv.org/abs/2605.12978",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-3",
+    "url": "https://arxiv.org/abs/2605.14389",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org",
+    "url": "https://arxiv.org/abs/2605.15309",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-21",
+    "url": "https://arxiv.org/abs/2605.16928v1",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-20",
+    "url": "https://arxiv.org/abs/2605.18643",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-5",
+    "url": "https://arxiv.org/abs/2605.18661",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-19",
+    "url": "https://arxiv.org/abs/2605.19932",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-22",
+    "url": "https://arxiv.org/abs/2605.22763v1",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-13",
+    "url": "https://arxiv.org/html/2504.19874v1",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-23",
+    "url": "https://arxiv.org/html/2605.22763v1",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-10",
+    "url": "https://arxiv.org/pdf/2309.11495",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-9",
+    "url": "https://arxiv.org/pdf/2510.01395",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-6",
+    "url": "https://arxiv.org/pdf/2605.17856",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arxiv-org-15",
+    "url": "https://arxiv.org/pdf/2605.19943",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "biorxiv-org",
+    "url": "https://www.biorxiv.org/content/10.1101/2025.09.12.675911v1.full.pdf",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "blog-cloudflare-com",
+    "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "buffer-com",
+    "url": "https://buffer.com",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "build-your-own-x-vercel-app",
+    "url": "https://build-your-own-x.vercel.app/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "coursera-org",
+    "url": "https://www.coursera.org/learn/building-rag-agents-with-langchain",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "creatoreconomy-so",
+    "url": "https://creatoreconomy.so/p/the-race-to-build-a-personal-ai-agent-openclaw-hermes-claude-codex-gemini",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "dan-bjorkegren-com",
+    "url": "https://dan.bjorkegren.com/blog/2026/04/the-intelligence-is-plenty-but-the-workers-are-few/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "deepmind-google",
+    "url": "https://deepmind.google/research/publications/231971/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "dergipark-org-tr",
+    "url": "https://dergipark.org.tr/en/pub/dtfd/article/1825194",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "dev-to",
+    "url": "https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?utm=midu",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "developer-chrome-com",
+    "url": "https://developer.chrome.com/docs/modern-web-guidance",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "dft-rosmine-ai",
+    "url": "https://dft.rosmine.ai",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "discoverthreejs-com",
+    "url": "https://discoverthreejs.com/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "docs-github-com",
+    "url": "https://docs.github.com/en/apps/creating-github-apps/about-creating-github-apps/about-creating-github-apps",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "drive-google-com",
+    "url": "https://drive.google.com/drive/mobile/folders/1if6MCeBCj8sxWwJIKhtgwU0GBuBW8uLx?",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "drive-google-com-3",
+    "url": "https://drive.google.com/file/d/13GEqfpf3o8BW3DT_8QV1GXPVFNUj0jdL/view?usp=drivesdk",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "drive-google-com-2",
+    "url": "https://drive.google.com/file/d/1H2_QWjauxlrj1UKO2nPd8jd7J8IkKpYm/view",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "expressjs-com",
+    "url": "https://expressjs.com/es/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "fast-ai",
+    "url": "https://Fast.ai",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "gemini-google",
+    "url": "https://gemini.google/overview/agent/spark/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "geminispark-ai",
+    "url": "https://geminispark.ai/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "codex-shim",
+    "url": "https://github.com/0xSero/codex-shim/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "pentest-ai-agents",
+    "url": "https://github.com/0xSteph/pentest-ai-agents.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "awesome-vibe-coding-resources",
+    "url": "https://github.com/acvnace/awesome-vibe-coding-resources",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "ai-inference-resources",
+    "url": "https://github.com/aerlabsAI/ai-inference-resources",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Ai-Engineering-Roadmap",
+    "url": "https://github.com/AgenticAiLabs/Ai-Engineering-Roadmap",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "hackingtool-plugin",
+    "url": "https://github.com/AKCodez/hackingtool-plugin.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "openevolve",
+    "url": "https://github.com/algorithmicsuperintelligence/openevolve",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "free-llm-api-keys",
+    "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "awesome-cuda-books",
+    "url": "https://github.com/alternbits/awesome-cuda-books",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "llm-internals",
+    "url": "https://github.com/amitshekhariitbhu/llm-internals",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "academic-job-search",
+    "url": "https://github.com/andrewgwagner/academic-job-search",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "prompt-eng-interactive-tutorial",
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "linkedin-content-generator",
+    "url": "https://github.com/anusky95/linkedin-content-generator",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Prompt-Engineering-Jumpstart",
+    "url": "https://github.com/arorarishi/Prompt-Engineering-Jumpstart",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "awesome-behavioral-interviews-2",
+    "url": "https://github.com/ashishpatel26/awesome-behavioral-interviews",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "awesome-",
+    "url": "https://github.com/ashishps1/awesome-",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "awesome-behavioral-interviews",
+    "url": "https://github.com/ashishps1/awesome-behavioral-interviews",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "awesome-system-design-resources",
+    "url": "https://github.com/ashishps1/awesome-system-design-resources",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "learn-ai-engineering",
+    "url": "https://github.com/ashishps1/learn-ai-engineering",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Xcode-Build-Optimization-Agent-Skill",
+    "url": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "code-review-skill",
+    "url": "https://github.com/awesome-skills/code-review-skill",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "voicelive-api-salescoach",
+    "url": "https://github.com/Azure-Samples/voicelive-api-salescoach",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "beelzebub",
+    "url": "https://github.com/beelzebub-labs/beelzebub",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "ejemplo-harness-subagentes",
+    "url": "https://github.com/betta-tech/ejemplo-harness-subagentes.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "blender",
+    "url": "https://github.com/blender/blender",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "awesome-linkedin",
+    "url": "https://github.com/brandonhimpfen/awesome-linkedin",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Awesome-Agent-Skills-for-Empirical-Research",
+    "url": "https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "plaid",
+    "url": "https://github.com/BuildGreatProducts/plaid",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "JobSpy",
+    "url": "https://github.com/Bunsly/JobSpy",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "oasis",
+    "url": "https://github.com/camel-ai/oasis",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "career-prompts",
+    "url": "https://github.com/career-prompts/career-prompts",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "CareerLaunch",
+    "url": "https://github.com/CareerLaunch/CareerLaunch",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "system-design-interview",
+    "url": "https://github.com/checkcheckzz/system-design-interview",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "dmls-book",
+    "url": "https://github.com/chiphuyen/dmls-book",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "machine-learning-systems-design",
+    "url": "https://github.com/chiphuyen/machine-learning-systems-design",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "awesome-deep-learning",
+    "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "osint_stuff_tool_collection",
+    "url": "https://github.com/cipher387/osint_stuff_tool_collection.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "clearml",
+    "url": "https://github.com/clearml/clearml",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "codebuff",
+    "url": "https://github.com/CodebuffAI/codebuff",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "codegraph",
+    "url": "https://github.com/colbymchenry/codegraph.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "awesome-codex-skills",
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "automate-faceless-content",
+    "url": "https://github.com/cporter202/automate-faceless-content.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "crowdsec",
+    "url": "https://github.com/crowdsecurity/crowdsec.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "ML-Course-Notes",
+    "url": "https://github.com/dair-ai/ML-Course-Notes",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "david-portfolio",
+    "url": "https://github.com/davidjpy/david-portfolio",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "jailbreak-autoresearch",
+    "url": "https://github.com/davidondrej/jailbreak-autoresearch",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "OmniVoice-Studio",
+    "url": "https://github.com/debpalash/OmniVoice-Studio",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "9router",
+    "url": "https://github.com/decolua/9router",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "guia-entrevistas-de-programacion",
+    "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "awesome-interview-questions",
+    "url": "https://github.com/DopplerHQ/awesome-interview-questions",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "awesome-vla-wam",
+    "url": "https://github.com/DravenALG/awesome-vla-wam",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "daedalOS",
+    "url": "https://github.com/DustinBrett/daedalOS.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Claude-BugHunter",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "skills",
+    "url": "https://github.com/elevenlabs/skills",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "awesome-research",
+    "url": "https://github.com/emptymalei/awesome-research",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "ThinkPython2-spanish",
+    "url": "https://github.com/espinoza/ThinkPython2-spanish/blob/master/book/thinkpython2-spanish.pdf",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "claude-code-from-scratch",
+    "url": "https://github.com/FareedKhan-dev/claude-code-from-scratch",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "CodexSaver",
+    "url": "https://github.com/fendouai/CodexSaver",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "alexandria-audiobook",
+    "url": "https://github.com/Finrandojin/alexandria-audiobook",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "J.A.R.V.I.S",
+    "url": "https://github.com/GauravSingh9356/J.A.R.V.I.S",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "engram",
+    "url": "https://github.com/Gentleman-Programming/engram.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "gentle-ai",
+    "url": "https://github.com/Gentleman-Programming/gentle-ai.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Gentleman.Dots",
+    "url": "https://github.com/Gentleman-Programming/Gentleman.Dots.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "how-to-build-a-coding-agent",
+    "url": "https://github.com/ghuntley/how-to-build-a-coding-agent",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "guide-2",
+    "url": "https://github.com/github-optimization/guide",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "copilot-billing-preview",
+    "url": "https://github.com/github/copilot-billing-preview",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "autocontext",
+    "url": "https://github.com/greyhaven-ai/autocontext",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "galactic-linkedin-profile-guide",
+    "url": "https://github.com/GuidoPenta/galactic-linkedin-profile-guide",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "sniffnet",
+    "url": "https://github.com/GyulyVGC/sniffnet.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "cs249r_book",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Compose-Examples",
+    "url": "https://github.com/Haxxnet/Compose-Examples",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "awesome-linkedin-2",
+    "url": "https://github.com/helenahartley/awesome-linkedin",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "maths-cs-ai-compendium",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "cli",
+    "url": "https://github.com/higgsfield-ai/cli",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "Research-Internships-for-Undergraduates",
+    "url": "https://github.com/himahuja/Research-Internships-for-Undergraduates",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "guide",
+    "url": "https://github.com/how-to-get-any-job/guide",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "AI-Infra-from-Zero-to-Hero",
+    "url": "https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "lerobot",
+    "url": "https://github.com/huggingface/lerobot",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "quarkdown",
+    "url": "https://github.com/iamgio/quarkdown",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "awesome-instagram",
+    "url": "https://github.com/instagram-devs/awesome-instagram",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Vane",
+    "url": "https://github.com/ItzCrazyKns/Vane",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "LLMFeeder",
+    "url": "https://github.com/jatinkrmalik/LLMFeeder",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "yt-short-clipper",
+    "url": "https://github.com/jipraks/yt-short-clipper",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "vmlx",
+    "url": "https://github.com/jjang-ai/vmlx",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "jobspy-2",
+    "url": "https://github.com/jobspy/jobspy",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "obsidian-memory-for-ai",
+    "url": "https://github.com/jrcruciani/obsidian-memory-for-ai",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "jsonresume",
+    "url": "https://github.com/jsonresume",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "awesome-productivity",
+    "url": "https://github.com/jyguyomarch/awesome-productivity",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "goal-ledger",
+    "url": "https://github.com/kingbootoshi/goal-ledger",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "macOS-on-VMWare",
+    "url": "https://github.com/kiraio-moe/macOS-on-VMWare",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "theHarvester",
+    "url": "https://github.com/laramies/theHarvester.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "Lettergen",
+    "url": "https://github.com/Lettergen/Lettergen",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "lcg",
+    "url": "https://github.com/linkedin-content-generator/lcg",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "cc-desktop-switch",
+    "url": "https://github.com/lonr-6/cc-desktop-switch",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "design-extract",
+    "url": "https://github.com/Manavarya09/design-extract",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "Recommendation-Letter-Template",
+    "url": "https://github.com/mchowdhay/Recommendation-Letter-Template",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "LongCat-Video",
+    "url": "https://github.com/meituan-longcat/LongCat-Video",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Acontext",
+    "url": "https://github.com/memodb-io/Acontext",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "mercury",
+    "url": "https://github.com/Mercury-Language/mercury",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "shimmy",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "rob501",
+    "url": "https://github.com/michiganrobotics/rob501",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "agent-governance-toolkit",
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "jscamp",
+    "url": "https://github.com/midudev/jscamp",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "llm-scraper",
+    "url": "https://github.com/mishushakov/llm-scraper.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "CF-Hero",
+    "url": "https://github.com/musana/CF-Hero.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "claude-code-router",
+    "url": "https://github.com/musistudio/claude-code-router",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "nango",
+    "url": "https://github.com/NangoHQ/nango",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "arkon",
+    "url": "https://github.com/nduckmink/arkon",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "claude-code-local",
+    "url": "https://github.com/nicedreamzapp/claude-code-local",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Agent_Memory_Techniques",
+    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Sana",
+    "url": "https://github.com/NVlabs/Sana",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "ai-system-design-guide",
+    "url": "https://github.com/ombharatiya/ai-system-design-guide",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "knowhere",
+    "url": "https://github.com/Ontos-AI/knowhere",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "OpenStock",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "clawless",
+    "url": "https://github.com/open-gitagent/clawless",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "opencti",
+    "url": "https://github.com/OpenCTI-Platform/opencti.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "qgis-gee-data-catalogs-plugin",
+    "url": "https://github.com/opengeos/qgis-gee-data-catalogs-plugin",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "MOSS-TTS-Nano",
+    "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "noir",
+    "url": "https://github.com/owasp-noir/noir.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "sutskever-30-implementations",
+    "url": "https://github.com/pageman/sutskever-30-implementations.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
     "name": "medusa",
-    "url": "https://github.com/Pantheon-Security/medusa",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "LLMs-from-scratch",
-    "url": "https://github.com/rasbt/LLMs-from-scratch",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "awesome-llb",
-    "url": "https://github.com/Shubhamsaboo/awesome-llb",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "awesome-llm-apps",
-    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "apis-data_databases_managed-db-tools-datasets",
-    "category": "apis",
-    "subcategory": "tools",
-    "name": "tabularis-gh",
-    "url": "https://github.com/TabularisDB/tabularis",
+    "url": "https://github.com/Pantheon-Security/medusa.git",
     "confidence": "high"
-  },
-  {
-    "dataset": "apis-data_databases_managed-db-tools-datasets",
-    "category": "apis",
-    "subcategory": "tools",
-    "name": "tabularis-readme-es",
-    "url": "https://github.com/TabularisDB/tabularis/blob/main/README.es.md",
-    "confidence": "high"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "tinyfish-cookbook",
-    "url": "https://github.com/tinyfish-io/tinyfish-cookbook",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "openclawgotchi",
-    "url": "https://github.com/turmyshevd/openclawgotchi",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "unsloth",
-    "url": "https://github.com/unslothai/unsloth",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "tinyclaw",
-    "url": "https://github.com/warengonzaga/tinyclaw",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "mlcourse-ai",
-    "url": "https://github.com/Yorko/mlcourse.ai",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "zeroclaw",
-    "url": "https://github.com/zeroclaw-labs/zeroclaw",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "kaggle-5-day-agents",
-    "url": "https://www.kaggle.com/learn-guide/5-day-agents",
-    "confidence": "medium"
   },
   {
     "dataset": "dns_seguridad_educacion",
     "category": "education-learning",
     "subcategory": "programming-courses",
-    "name": "learning-atheros-ai",
-    "url": "https://learning.atheros.ai/sign-in",
+    "name": "agents-from-scratch",
+    "url": "https://github.com/pguso/agents-from-scratch",
     "confidence": "high"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "lexis-mcp",
-    "url": "https://www.npmjs.com/package/lexis-mcp",
-    "confidence": "medium"
-  },
-  {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "react-stack",
-    "name": "react-doctor-ref",
-    "url": "https://www.npmjs.com/package/react-doctor",
-    "confidence": "high"
-  },
-  {
-    "dataset": "dev-ops_testing_translation",
-    "category": "devops",
-    "subcategory": "ci-cd",
-    "name": "releasebot",
-    "url": "https://releasebot.io/",
-    "confidence": "medium"
   },
   {
     "dataset": "dns_seguridad_educacion",
     "category": "education-learning",
     "subcategory": "programming-courses",
-    "name": "sklearn-Pipeline-doc",
-    "url": "https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html",
+    "name": "ai-agents-from-scratch",
+    "url": "https://github.com/pguso/ai-agents-from-scratch",
     "confidence": "high"
   },
   {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "skills-sh",
-    "url": "https://www.skills.sh/",
-    "confidence": "medium"
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "Repo2Resume",
+    "url": "https://github.com/PhongCT1105/Repo2Resume",
+    "confidence": "high"
   },
   {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "verdent",
-    "url": "https://www.verdent.ai/es",
-    "confidence": "medium"
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "confidence": "high"
   },
   {
-    "dataset": "diseno-ui-ux_desarrollo_ide",
-    "category": "development",
-    "subcategory": "tools",
-    "name": "zaya1-8b-ref",
-    "url": "https://zyphra.com/post/zaya1-8b",
-    "confidence": "medium"
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "OverlapNet",
+    "url": "https://github.com/PRBonn/OverlapNet",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "pursuit",
+    "url": "https://github.com/pursuit/pursuit",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "github-profile-readme-generator",
+    "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "how-to-train-your-gpt",
+    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "claude-smart",
+    "url": "https://github.com/ReflexioAI/claude-smart",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "galactic-linkedin-profile-guide-2",
+    "url": "https://github.com/rmartinramos/galactic-linkedin-profile-guide",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "pro-workflow",
+    "url": "https://github.com/rohitg00/pro-workflow",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "turbovec",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "HRM-Text",
+    "url": "https://github.com/sapientinc/HRM-Text",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "scenema-audio",
+    "url": "https://github.com/ScenemaAI/scenema-audio",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "search",
+    "url": "https://github.com/search?q=ai+research+jobs&type=repositories",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "serai",
+    "url": "https://github.com/serai-ai/serai",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "reconftw",
+    "url": "https://github.com/six2dez/reconftw.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "tugarecon",
+    "url": "https://github.com/skynet0x01/tugarecon.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "AgentHub",
+    "url": "https://github.com/Stanshy/AgentHub",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "dataset-viewer",
+    "url": "https://github.com/stardustai/dataset-viewer",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "three-js-tutorials",
+    "url": "https://github.com/SuboptimalEng/three-js-tutorials",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "KaliGPT",
+    "url": "https://github.com/SudoHopeX/KaliGPT",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "supertonic-py",
+    "url": "https://github.com/supertone-inc/supertonic-py",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "dbx",
+    "url": "https://github.com/t8y2/dbx",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "OpenClaude-Portable",
+    "url": "https://github.com/techjarves/OpenClaude-Portable",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "OpenCluely",
+    "url": "https://github.com/TechyCSR/OpenCluely",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "Repo2Resume-2",
+    "url": "https://github.com/tehZevo/Repo2Resume",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Hy-MT2",
+    "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Pixal3D",
+    "url": "https://github.com/TencentARC/Pixal3D",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "genai-llm-ml-case-studies",
+    "url": "https://github.com/themanojdesai/genai-llm-ml-case-studies",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "openui",
+    "url": "https://github.com/thesysdev/openui",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "MLJobSearch2025",
+    "url": "https://github.com/TidorP/MLJobSearch2025",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Awesome-LLM-Quantitative-Trading-Papers",
+    "url": "https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "job-applications",
+    "url": "https://github.com/topics/job-applications",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "jobapplication",
+    "url": "https://github.com/topics/jobapplication?o=asc&s=stars",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "portfolios",
+    "url": "https://github.com/topics/portfolios?o=desc&s=stars",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "TradeMaster",
+    "url": "https://github.com/TradeMaster-NTU/TradeMaster",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "awesome-job-boards",
+    "url": "https://github.com/trammell/awesome-job-boards",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "streambert",
+    "url": "https://github.com/truelockmc/streambert.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Pake",
+    "url": "https://github.com/tw93/Pake",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "unbrowse",
+    "url": "https://github.com/unbrowse-ai/unbrowse",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "memos",
+    "url": "https://github.com/usememos/memos.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "velobase-harness",
+    "url": "https://github.com/velobase/velobase-harness",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "book-to-skill",
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "memory-forge-rs",
+    "url": "https://github.com/voidcraft-dev/memory-forge-rs",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "Wan2.2",
+    "url": "https://github.com/Wan-Video/Wan2.2",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "Research-positions",
+    "url": "https://github.com/WeiTang114/Research-positions",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "xalgorix",
+    "url": "https://github.com/xalgord/xalgorix.git",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "repomix",
+    "url": "https://github.com/yamadashy/repomix",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "removerized",
+    "url": "https://github.com/yossTheDev/removerized",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "openpencil",
+    "url": "https://github.com/ZSeven-W/openpencil",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "glassdoor-com",
+    "url": "https://www.glassdoor.com",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "hackerrank-com",
+    "url": "https://www.hackerrank.com",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "halupedia-com",
+    "url": "https://halupedia.com/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "hf-co",
+    "url": "https://hf.co/learn/nlp-course",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "hootsuite-com",
+    "url": "https://www.hootsuite.com",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "huawei-com",
+    "url": "https://huawei.com/en/news/2026/5/ieee-iscas-tau-scaling",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "huggingface-co",
+    "url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "huggingface-co-3",
+    "url": "https://huggingface.co/learn/nlp-course",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "huggingface-co-2",
+    "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "ickma2311-github-io",
+    "url": "https://ickma2311.github.io/ML/HW-SW-codesign/efficient-ai-lecture-14-llm-post-training.html",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "indeed-com",
+    "url": "https://www.indeed.com",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "interviewing-io",
+    "url": "https://interviewing.io",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "kinso-ai",
+    "url": "https://www.kinso.ai/#landing",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "later-com",
+    "url": "https://later.com",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "libropython-es",
+    "url": "https://libropython.es/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "linkedin-com-3",
+    "url": "https://www.linkedin.com/jobs",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "linkedin-com",
+    "url": "https://www.linkedin.com/post-inspector/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "llama-cpp",
+    "url": "https://llama.cpp",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "magazine-sebastianraschka-com",
+    "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "math-hws-edu",
+    "url": "https://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.2_6x9.pdf",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "mattsheehan-substack-com",
+    "url": "https://mattsheehan.substack.com/p/china-is-getting-worried-about-ai",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "minisim-app",
+    "url": "https://www.minisim.app/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "mltut-com",
+    "url": "https://www.mltut.com/best-convolutional-neural-network-resources/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "nytimes-com",
+    "url": "https://www.nytimes.com/2025/08/18/opinion/chat-gpt-mental-health-suicide.html",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "ocw-mit-edu",
+    "url": "https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/pages/lecture-notes/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "opensourceprojects-dev",
+    "url": "https://www.opensourceprojects.dev/post/88da1ef6-0d98-48af-88cd-587126ed55bf",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "otta-com",
+    "url": "https://otta.com",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "overleaf-com",
+    "url": "https://www.overleaf.com",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "papers-ssrn-com",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3947905",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "pmc-ncbi-nlm-nih-gov",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11908302/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "repodir-com",
+    "url": "https://repodir.com/repo/nilbuild-developer-roadmap",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "rosencharts-com",
+    "url": "https://rosencharts.com",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "share-google",
+    "url": "https://share.google/ob2z7F8xeNXYpgaLV",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "share-google-2",
+    "url": "https://share.google/QUMhssLJCWUvvkntx",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "shields-io",
+    "url": "https://shields.io",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "simplify-jobs",
+    "url": "https://Simplify.jobs",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "stanford-edu",
+    "url": "https://stanford.edu/class/msande448/2021/Final_reports/gr1.pdf",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "store-steampowered-com",
+    "url": "https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced",
+    "confidence": "high"
+  },
+  {
+    "dataset": "pagos_game-dev_mobile",
+    "category": "payments",
+    "subcategory": "jobs",
+    "name": "taplio-com",
+    "url": "https://taplio.com",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "techspot-com",
+    "url": "https://www.techspot.com/news/112493-tech-layoffs-pass-100000-2026-tracker-points-ai.html",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "threejs-journey-com",
+    "url": "https://threejs-journey.com/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "threejs-tutorial-esp-readthedocs-io",
+    "url": "https://threejs-tutorial-esp.readthedocs.io/es/latest/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "transformer-circuits-pub",
+    "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "udlbook-github-io",
+    "url": "https://udlbook.github.io/udlbook/",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "vercel-com",
+    "url": "https://vercel.com/templates",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "youtube-video",
+    "url": "https://www.youtube.com/@BettaTech",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "youtube-video-3",
+    "url": "https://www.youtube.com/@stanfordonline/search?query=CS25%202025",
+    "confidence": "high"
+  },
+  {
+    "dataset": "dns_seguridad_educacion",
+    "category": "education-learning",
+    "subcategory": "programming-courses",
+    "name": "youtube-video-2",
+    "url": "https://www.youtube.com/results?search_query=LangChain+2025+tutorial",
+    "confidence": "high"
   }
 ]

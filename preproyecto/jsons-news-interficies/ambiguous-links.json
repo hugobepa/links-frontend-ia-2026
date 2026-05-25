@@ -1,32 +1,8 @@
 [
   {
-    "name": "FinceptTerminal",
-    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-    "section": "💳 Pagos & Monetización",
-    "subsection": "Monetización & Empleo",
-    "options": [
-      "utilidades_1 :: utilities/productivity",
-      "utilidades-2_cms :: utilities/general-resources",
-      "diseno-ui-ux_desarrollo_ide :: development/tools"
-    ],
-    "reason": "clasificacion de baja confianza"
-  },
-  {
-    "name": "Vibe-Trading",
-    "url": "https://github.com/HKUDS/Vibe-Trading",
-    "section": "💳 Pagos & Monetización",
-    "subsection": "Monetización & Empleo",
-    "options": [
-      "utilidades_1 :: utilities/productivity",
-      "utilidades-2_cms :: utilities/general-resources",
-      "diseno-ui-ux_desarrollo_ide :: development/tools"
-    ],
-    "reason": "clasificacion de baja confianza"
-  },
-  {
-    "name": "graphify",
-    "url": "https://github.com/safishamsi/graphify",
-    "section": "📊 Analytics & Monitoring",
+    "name": "annas-archive-gl",
+    "url": "https://annas-archive.gl",
+    "section": "Recursos GitHub",
     "subsection": "",
     "options": [
       "utilidades_1 :: utilities/productivity",
@@ -36,9 +12,9 @@
     "reason": "clasificacion de baja confianza"
   },
   {
-    "name": "rocket-insights",
-    "url": "https://wp-rocket.me/rocket-insights/",
-    "section": "📊 Analytics & Monitoring",
+    "name": "app-codecrafters-io",
+    "url": "https://app.codecrafters.io/pay",
+    "section": "Recursos GitHub",
     "subsection": "",
     "options": [
       "utilidades_1 :: utilities/productivity",
@@ -48,10 +24,3418 @@
     "reason": "clasificacion de baja confianza"
   },
   {
-    "name": "ycombinator-rfs",
-    "url": "https://www.ycombinator.com/rfs",
-    "section": "💳 Pagos & Monetización",
-    "subsection": "Monetización & Empleo",
+    "name": "app-diagrams-net",
+    "url": "https://app.diagrams.net",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "art-openpipe-ai",
+    "url": "https://art.openpipe.ai/getting-started/about",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-18",
+    "url": "https://arxiv.org/abs/2503.23923",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-16",
+    "url": "https://arxiv.org/abs/2507.02990",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-12",
+    "url": "https://arxiv.org/abs/2509.11391",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-17",
+    "url": "https://arxiv.org/abs/2511.15352v3",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-11",
+    "url": "https://arxiv.org/abs/2603.28052",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-7",
+    "url": "https://arxiv.org/abs/2604.02460",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-4",
+    "url": "https://arxiv.org/abs/2605.10938",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-14",
+    "url": "https://arxiv.org/abs/2605.11086",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-8",
+    "url": "https://arxiv.org/abs/2605.12484",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-2",
+    "url": "https://arxiv.org/abs/2605.12978",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-3",
+    "url": "https://arxiv.org/abs/2605.14389",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org",
+    "url": "https://arxiv.org/abs/2605.15309",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-21",
+    "url": "https://arxiv.org/abs/2605.16928v1",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-20",
+    "url": "https://arxiv.org/abs/2605.18643",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-5",
+    "url": "https://arxiv.org/abs/2605.18661",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-19",
+    "url": "https://arxiv.org/abs/2605.19932",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-22",
+    "url": "https://arxiv.org/abs/2605.22763v1",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-13",
+    "url": "https://arxiv.org/html/2504.19874v1",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-23",
+    "url": "https://arxiv.org/html/2605.22763v1",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-10",
+    "url": "https://arxiv.org/pdf/2309.11495",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-9",
+    "url": "https://arxiv.org/pdf/2510.01395",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-6",
+    "url": "https://arxiv.org/pdf/2605.17856",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arxiv-org-15",
+    "url": "https://arxiv.org/pdf/2605.19943",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "biorxiv-org",
+    "url": "https://www.biorxiv.org/content/10.1101/2025.09.12.675911v1.full.pdf",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "blog-cloudflare-com",
+    "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "buffer-com",
+    "url": "https://buffer.com",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "build-your-own-x-vercel-app",
+    "url": "https://build-your-own-x.vercel.app/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "coursera-org",
+    "url": "https://www.coursera.org/learn/building-rag-agents-with-langchain",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "creatoreconomy-so",
+    "url": "https://creatoreconomy.so/p/the-race-to-build-a-personal-ai-agent-openclaw-hermes-claude-codex-gemini",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "dan-bjorkegren-com",
+    "url": "https://dan.bjorkegren.com/blog/2026/04/the-intelligence-is-plenty-but-the-workers-are-few/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "deepmind-google",
+    "url": "https://deepmind.google/research/publications/231971/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "dergipark-org-tr",
+    "url": "https://dergipark.org.tr/en/pub/dtfd/article/1825194",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "dev-to",
+    "url": "https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?utm=midu",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "developer-chrome-com",
+    "url": "https://developer.chrome.com/docs/modern-web-guidance",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "dft-rosmine-ai",
+    "url": "https://dft.rosmine.ai",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "discoverthreejs-com",
+    "url": "https://discoverthreejs.com/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "docs-github-com",
+    "url": "https://docs.github.com/en/apps/creating-github-apps/about-creating-github-apps/about-creating-github-apps",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "drive-google-com",
+    "url": "https://drive.google.com/drive/mobile/folders/1if6MCeBCj8sxWwJIKhtgwU0GBuBW8uLx?",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "drive-google-com-3",
+    "url": "https://drive.google.com/file/d/13GEqfpf3o8BW3DT_8QV1GXPVFNUj0jdL/view?usp=drivesdk",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "drive-google-com-2",
+    "url": "https://drive.google.com/file/d/1H2_QWjauxlrj1UKO2nPd8jd7J8IkKpYm/view",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "expressjs-com",
+    "url": "https://expressjs.com/es/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "fast-ai",
+    "url": "https://Fast.ai",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "gemini-google",
+    "url": "https://gemini.google/overview/agent/spark/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "geminispark-ai",
+    "url": "https://geminispark.ai/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "codex-shim",
+    "url": "https://github.com/0xSero/codex-shim/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "pentest-ai-agents",
+    "url": "https://github.com/0xSteph/pentest-ai-agents.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-vibe-coding-resources",
+    "url": "https://github.com/acvnace/awesome-vibe-coding-resources",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "ai-inference-resources",
+    "url": "https://github.com/aerlabsAI/ai-inference-resources",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Ai-Engineering-Roadmap",
+    "url": "https://github.com/AgenticAiLabs/Ai-Engineering-Roadmap",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "hackingtool-plugin",
+    "url": "https://github.com/AKCodez/hackingtool-plugin.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "openevolve",
+    "url": "https://github.com/algorithmicsuperintelligence/openevolve",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "free-llm-api-keys",
+    "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "apis-data_databases_managed-db-tools-datasets :: apis/tools",
+      "apis-data_databases :: version-control/resources",
+      "utilidades-2_cms :: utilities/dev-tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-cuda-books",
+    "url": "https://github.com/alternbits/awesome-cuda-books",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "llm-internals",
+    "url": "https://github.com/amitshekhariitbhu/llm-internals",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "academic-job-search",
+    "url": "https://github.com/andrewgwagner/academic-job-search",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "prompt-eng-interactive-tutorial",
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "linkedin-content-generator",
+    "url": "https://github.com/anusky95/linkedin-content-generator",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Prompt-Engineering-Jumpstart",
+    "url": "https://github.com/arorarishi/Prompt-Engineering-Jumpstart",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-behavioral-interviews-2",
+    "url": "https://github.com/ashishpatel26/awesome-behavioral-interviews",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-",
+    "url": "https://github.com/ashishps1/awesome-",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-behavioral-interviews",
+    "url": "https://github.com/ashishps1/awesome-behavioral-interviews",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-system-design-resources",
+    "url": "https://github.com/ashishps1/awesome-system-design-resources",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "learn-ai-engineering",
+    "url": "https://github.com/ashishps1/learn-ai-engineering",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Xcode-Build-Optimization-Agent-Skill",
+    "url": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "code-review-skill",
+    "url": "https://github.com/awesome-skills/code-review-skill",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "voicelive-api-salescoach",
+    "url": "https://github.com/Azure-Samples/voicelive-api-salescoach",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "apis-data_databases_managed-db-tools-datasets :: apis/tools",
+      "apis-data_databases :: version-control/resources",
+      "utilidades-2_cms :: utilities/dev-tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "beelzebub",
+    "url": "https://github.com/beelzebub-labs/beelzebub",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "ejemplo-harness-subagentes",
+    "url": "https://github.com/betta-tech/ejemplo-harness-subagentes.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "blender",
+    "url": "https://github.com/blender/blender",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-linkedin",
+    "url": "https://github.com/brandonhimpfen/awesome-linkedin",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Awesome-Agent-Skills-for-Empirical-Research",
+    "url": "https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "plaid",
+    "url": "https://github.com/BuildGreatProducts/plaid",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "JobSpy",
+    "url": "https://github.com/Bunsly/JobSpy",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "oasis",
+    "url": "https://github.com/camel-ai/oasis",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "career-prompts",
+    "url": "https://github.com/career-prompts/career-prompts",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "CareerLaunch",
+    "url": "https://github.com/CareerLaunch/CareerLaunch",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "system-design-interview",
+    "url": "https://github.com/checkcheckzz/system-design-interview",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "dmls-book",
+    "url": "https://github.com/chiphuyen/dmls-book",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "machine-learning-systems-design",
+    "url": "https://github.com/chiphuyen/machine-learning-systems-design",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-deep-learning",
+    "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "osint_stuff_tool_collection",
+    "url": "https://github.com/cipher387/osint_stuff_tool_collection.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "clearml",
+    "url": "https://github.com/clearml/clearml",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "codebuff",
+    "url": "https://github.com/CodebuffAI/codebuff",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "codegraph",
+    "url": "https://github.com/colbymchenry/codegraph.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-codex-skills",
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "automate-faceless-content",
+    "url": "https://github.com/cporter202/automate-faceless-content.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "crowdsec",
+    "url": "https://github.com/crowdsecurity/crowdsec.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "ML-Course-Notes",
+    "url": "https://github.com/dair-ai/ML-Course-Notes",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "david-portfolio",
+    "url": "https://github.com/davidjpy/david-portfolio",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "jailbreak-autoresearch",
+    "url": "https://github.com/davidondrej/jailbreak-autoresearch",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "OmniVoice-Studio",
+    "url": "https://github.com/debpalash/OmniVoice-Studio",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "9router",
+    "url": "https://github.com/decolua/9router",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "guia-entrevistas-de-programacion",
+    "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-interview-questions",
+    "url": "https://github.com/DopplerHQ/awesome-interview-questions",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-vla-wam",
+    "url": "https://github.com/DravenALG/awesome-vla-wam",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "daedalOS",
+    "url": "https://github.com/DustinBrett/daedalOS.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Claude-BugHunter",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "skills",
+    "url": "https://github.com/elevenlabs/skills",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-research",
+    "url": "https://github.com/emptymalei/awesome-research",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "ThinkPython2-spanish",
+    "url": "https://github.com/espinoza/ThinkPython2-spanish/blob/master/book/thinkpython2-spanish.pdf",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "claude-code-from-scratch",
+    "url": "https://github.com/FareedKhan-dev/claude-code-from-scratch",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "CodexSaver",
+    "url": "https://github.com/fendouai/CodexSaver",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "alexandria-audiobook",
+    "url": "https://github.com/Finrandojin/alexandria-audiobook",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "J.A.R.V.I.S",
+    "url": "https://github.com/GauravSingh9356/J.A.R.V.I.S",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "engram",
+    "url": "https://github.com/Gentleman-Programming/engram.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "gentle-ai",
+    "url": "https://github.com/Gentleman-Programming/gentle-ai.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Gentleman.Dots",
+    "url": "https://github.com/Gentleman-Programming/Gentleman.Dots.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "how-to-build-a-coding-agent",
+    "url": "https://github.com/ghuntley/how-to-build-a-coding-agent",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "guide-2",
+    "url": "https://github.com/github-optimization/guide",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "copilot-billing-preview",
+    "url": "https://github.com/github/copilot-billing-preview",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "autocontext",
+    "url": "https://github.com/greyhaven-ai/autocontext",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "galactic-linkedin-profile-guide",
+    "url": "https://github.com/GuidoPenta/galactic-linkedin-profile-guide",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "sniffnet",
+    "url": "https://github.com/GyulyVGC/sniffnet.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "cs249r_book",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Compose-Examples",
+    "url": "https://github.com/Haxxnet/Compose-Examples",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-linkedin-2",
+    "url": "https://github.com/helenahartley/awesome-linkedin",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "maths-cs-ai-compendium",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "cli",
+    "url": "https://github.com/higgsfield-ai/cli",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Research-Internships-for-Undergraduates",
+    "url": "https://github.com/himahuja/Research-Internships-for-Undergraduates",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "guide",
+    "url": "https://github.com/how-to-get-any-job/guide",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "AI-Infra-from-Zero-to-Hero",
+    "url": "https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "lerobot",
+    "url": "https://github.com/huggingface/lerobot",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "quarkdown",
+    "url": "https://github.com/iamgio/quarkdown",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-instagram",
+    "url": "https://github.com/instagram-devs/awesome-instagram",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Vane",
+    "url": "https://github.com/ItzCrazyKns/Vane",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "LLMFeeder",
+    "url": "https://github.com/jatinkrmalik/LLMFeeder",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "yt-short-clipper",
+    "url": "https://github.com/jipraks/yt-short-clipper",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "vmlx",
+    "url": "https://github.com/jjang-ai/vmlx",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "jobspy-2",
+    "url": "https://github.com/jobspy/jobspy",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "obsidian-memory-for-ai",
+    "url": "https://github.com/jrcruciani/obsidian-memory-for-ai",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "jsonresume",
+    "url": "https://github.com/jsonresume",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-productivity",
+    "url": "https://github.com/jyguyomarch/awesome-productivity",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "goal-ledger",
+    "url": "https://github.com/kingbootoshi/goal-ledger",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "macOS-on-VMWare",
+    "url": "https://github.com/kiraio-moe/macOS-on-VMWare",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "theHarvester",
+    "url": "https://github.com/laramies/theHarvester.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Lettergen",
+    "url": "https://github.com/Lettergen/Lettergen",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "lcg",
+    "url": "https://github.com/linkedin-content-generator/lcg",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "cc-desktop-switch",
+    "url": "https://github.com/lonr-6/cc-desktop-switch",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "design-extract",
+    "url": "https://github.com/Manavarya09/design-extract",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Recommendation-Letter-Template",
+    "url": "https://github.com/mchowdhay/Recommendation-Letter-Template",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "LongCat-Video",
+    "url": "https://github.com/meituan-longcat/LongCat-Video",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Acontext",
+    "url": "https://github.com/memodb-io/Acontext",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "mercury",
+    "url": "https://github.com/Mercury-Language/mercury",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "shimmy",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "rob501",
+    "url": "https://github.com/michiganrobotics/rob501",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "agent-governance-toolkit",
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "jscamp",
+    "url": "https://github.com/midudev/jscamp",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "llm-scraper",
+    "url": "https://github.com/mishushakov/llm-scraper.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "CF-Hero",
+    "url": "https://github.com/musana/CF-Hero.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "claude-code-router",
+    "url": "https://github.com/musistudio/claude-code-router",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "nango",
+    "url": "https://github.com/NangoHQ/nango",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "arkon",
+    "url": "https://github.com/nduckmink/arkon",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "claude-code-local",
+    "url": "https://github.com/nicedreamzapp/claude-code-local",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Agent_Memory_Techniques",
+    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Sana",
+    "url": "https://github.com/NVlabs/Sana",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "ai-system-design-guide",
+    "url": "https://github.com/ombharatiya/ai-system-design-guide",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "knowhere",
+    "url": "https://github.com/Ontos-AI/knowhere",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "OpenStock",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "clawless",
+    "url": "https://github.com/open-gitagent/clawless",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "opencti",
+    "url": "https://github.com/OpenCTI-Platform/opencti.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "qgis-gee-data-catalogs-plugin",
+    "url": "https://github.com/opengeos/qgis-gee-data-catalogs-plugin",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "MOSS-TTS-Nano",
+    "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "noir",
+    "url": "https://github.com/owasp-noir/noir.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "sutskever-30-implementations",
+    "url": "https://github.com/pageman/sutskever-30-implementations.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "medusa",
+    "url": "https://github.com/Pantheon-Security/medusa.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "agents-from-scratch",
+    "url": "https://github.com/pguso/agents-from-scratch",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "ai-agents-from-scratch",
+    "url": "https://github.com/pguso/ai-agents-from-scratch",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Repo2Resume",
+    "url": "https://github.com/PhongCT1105/Repo2Resume",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "OverlapNet",
+    "url": "https://github.com/PRBonn/OverlapNet",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "pursuit",
+    "url": "https://github.com/pursuit/pursuit",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "github-profile-readme-generator",
+    "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "how-to-train-your-gpt",
+    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "claude-smart",
+    "url": "https://github.com/ReflexioAI/claude-smart",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "galactic-linkedin-profile-guide-2",
+    "url": "https://github.com/rmartinramos/galactic-linkedin-profile-guide",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "pro-workflow",
+    "url": "https://github.com/rohitg00/pro-workflow",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "turbovec",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "HRM-Text",
+    "url": "https://github.com/sapientinc/HRM-Text",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "scenema-audio",
+    "url": "https://github.com/ScenemaAI/scenema-audio",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "search",
+    "url": "https://github.com/search?q=ai+research+jobs&type=repositories",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "serai",
+    "url": "https://github.com/serai-ai/serai",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "reconftw",
+    "url": "https://github.com/six2dez/reconftw.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "tugarecon",
+    "url": "https://github.com/skynet0x01/tugarecon.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "AgentHub",
+    "url": "https://github.com/Stanshy/AgentHub",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "dataset-viewer",
+    "url": "https://github.com/stardustai/dataset-viewer",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "three-js-tutorials",
+    "url": "https://github.com/SuboptimalEng/three-js-tutorials",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "KaliGPT",
+    "url": "https://github.com/SudoHopeX/KaliGPT",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "supertonic-py",
+    "url": "https://github.com/supertone-inc/supertonic-py",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "dbx",
+    "url": "https://github.com/t8y2/dbx",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "apis-data_databases_managed-db-tools-datasets :: apis/tools",
+      "apis-data_databases :: version-control/resources",
+      "utilidades-2_cms :: utilities/dev-tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "OpenClaude-Portable",
+    "url": "https://github.com/techjarves/OpenClaude-Portable",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "OpenCluely",
+    "url": "https://github.com/TechyCSR/OpenCluely",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Repo2Resume-2",
+    "url": "https://github.com/tehZevo/Repo2Resume",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Hy-MT2",
+    "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Pixal3D",
+    "url": "https://github.com/TencentARC/Pixal3D",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "genai-llm-ml-case-studies",
+    "url": "https://github.com/themanojdesai/genai-llm-ml-case-studies",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "openui",
+    "url": "https://github.com/thesysdev/openui",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "MLJobSearch2025",
+    "url": "https://github.com/TidorP/MLJobSearch2025",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Awesome-LLM-Quantitative-Trading-Papers",
+    "url": "https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "job-applications",
+    "url": "https://github.com/topics/job-applications",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "jobapplication",
+    "url": "https://github.com/topics/jobapplication?o=asc&s=stars",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "portfolios",
+    "url": "https://github.com/topics/portfolios?o=desc&s=stars",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "TradeMaster",
+    "url": "https://github.com/TradeMaster-NTU/TradeMaster",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "awesome-job-boards",
+    "url": "https://github.com/trammell/awesome-job-boards",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "streambert",
+    "url": "https://github.com/truelockmc/streambert.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Pake",
+    "url": "https://github.com/tw93/Pake",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "unbrowse",
+    "url": "https://github.com/unbrowse-ai/unbrowse",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "memos",
+    "url": "https://github.com/usememos/memos.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "velobase-harness",
+    "url": "https://github.com/velobase/velobase-harness",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "book-to-skill",
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "memory-forge-rs",
+    "url": "https://github.com/voidcraft-dev/memory-forge-rs",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Wan2.2",
+    "url": "https://github.com/Wan-Video/Wan2.2",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "Research-positions",
+    "url": "https://github.com/WeiTang114/Research-positions",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "xalgorix",
+    "url": "https://github.com/xalgord/xalgorix.git",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "repomix",
+    "url": "https://github.com/yamadashy/repomix",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "removerized",
+    "url": "https://github.com/yossTheDev/removerized",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "openpencil",
+    "url": "https://github.com/ZSeven-W/openpencil",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "glassdoor-com",
+    "url": "https://www.glassdoor.com",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "hackerrank-com",
+    "url": "https://www.hackerrank.com",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "halupedia-com",
+    "url": "https://halupedia.com/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "hf-co",
+    "url": "https://hf.co/learn/nlp-course",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "hootsuite-com",
+    "url": "https://www.hootsuite.com",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "huawei-com",
+    "url": "https://huawei.com/en/news/2026/5/ieee-iscas-tau-scaling",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "huggingface-co",
+    "url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "huggingface-co-3",
+    "url": "https://huggingface.co/learn/nlp-course",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "huggingface-co-2",
+    "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "ickma2311-github-io",
+    "url": "https://ickma2311.github.io/ML/HW-SW-codesign/efficient-ai-lecture-14-llm-post-training.html",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "indeed-com",
+    "url": "https://www.indeed.com",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "interviewing-io",
+    "url": "https://interviewing.io",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "kinso-ai",
+    "url": "https://www.kinso.ai/#landing",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "later-com",
+    "url": "https://later.com",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "libropython-es",
+    "url": "https://libropython.es/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "linkedin-com-3",
+    "url": "https://www.linkedin.com/jobs",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "linkedin-com",
+    "url": "https://www.linkedin.com/post-inspector/",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "llama-cpp",
+    "url": "https://llama.cpp",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "magazine-sebastianraschka-com",
+    "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "math-hws-edu",
+    "url": "https://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.2_6x9.pdf",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "mattsheehan-substack-com",
+    "url": "https://mattsheehan.substack.com/p/china-is-getting-worried-about-ai",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "minisim-app",
+    "url": "https://www.minisim.app/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "mltut-com",
+    "url": "https://www.mltut.com/best-convolutional-neural-network-resources/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "nytimes-com",
+    "url": "https://www.nytimes.com/2025/08/18/opinion/chat-gpt-mental-health-suicide.html",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "ocw-mit-edu",
+    "url": "https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/pages/lecture-notes/",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "opensourceprojects-dev",
+    "url": "https://www.opensourceprojects.dev/post/88da1ef6-0d98-48af-88cd-587126ed55bf",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "otta-com",
+    "url": "https://otta.com",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "overleaf-com",
+    "url": "https://www.overleaf.com",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "papers-ssrn-com",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3947905",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "pmc-ncbi-nlm-nih-gov",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11908302/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "repodir-com",
+    "url": "https://repodir.com/repo/nilbuild-developer-roadmap",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "rosencharts-com",
+    "url": "https://rosencharts.com",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "share-google",
+    "url": "https://share.google/ob2z7F8xeNXYpgaLV",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "share-google-2",
+    "url": "https://share.google/QUMhssLJCWUvvkntx",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "shields-io",
+    "url": "https://shields.io",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "simplify-jobs",
+    "url": "https://Simplify.jobs",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "stanford-edu",
+    "url": "https://stanford.edu/class/msande448/2021/Final_reports/gr1.pdf",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "store-steampowered-com",
+    "url": "https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "taplio-com",
+    "url": "https://taplio.com",
+    "section": "Monetización & Empleo",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "techspot-com",
+    "url": "https://www.techspot.com/news/112493-tech-layoffs-pass-100000-2026-tracker-points-ai.html",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "threejs-journey-com",
+    "url": "https://threejs-journey.com/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "threejs-tutorial-esp-readthedocs-io",
+    "url": "https://threejs-tutorial-esp.readthedocs.io/es/latest/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "transformer-circuits-pub",
+    "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "udlbook-github-io",
+    "url": "https://udlbook.github.io/udlbook/",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "vercel-com",
+    "url": "https://vercel.com/templates",
+    "section": "Recursos GitHub",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "youtube-video",
+    "url": "https://www.youtube.com/@BettaTech",
+    "section": "Canales YouTube",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "youtube-video-3",
+    "url": "https://www.youtube.com/@stanfordonline/search?query=CS25%202025",
+    "section": "Cursos Programación",
+    "subsection": "",
+    "options": [
+      "utilidades_1 :: utilities/productivity",
+      "utilidades-2_cms :: utilities/general-resources",
+      "diseno-ui-ux_desarrollo_ide :: development/tools"
+    ],
+    "reason": "clasificacion de baja confianza"
+  },
+  {
+    "name": "youtube-video-2",
+    "url": "https://www.youtube.com/results?search_query=LangChain+2025+tutorial",
+    "section": "Cursos Programación",
+    "subsection": "",
     "options": [
       "utilidades_1 :: utilities/productivity",
       "utilidades-2_cms :: utilities/general-resources",

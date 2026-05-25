@@ -25,6 +25,11 @@
       "color": "#db2777",
       "description": "Etiqueta abstraction"
     },
+    "academic-job-search": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta academic-job-search"
+    },
     "adalo": {
       "count": 1,
       "color": "#d97706",
@@ -60,6 +65,66 @@
       "color": "#4f46e5",
       "description": "Etiqueta apps"
     },
+    "awesome-behavioral-interviews": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta awesome-behavioral-interviews"
+    },
+    "awesome-behavioral-interviews-2": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta awesome-behavioral-interviews-2"
+    },
+    "awesome-chatgpt-prompts": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta awesome-chatgpt-prompts"
+    },
+    "awesome-deep-learning": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta awesome-deep-learning"
+    },
+    "awesome-instagram": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta awesome-instagram"
+    },
+    "awesome-interview-questions": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta awesome-interview-questions"
+    },
+    "awesome-job-boards": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta awesome-job-boards"
+    },
+    "awesome-linkedin": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta awesome-linkedin"
+    },
+    "awesome-linkedin-2": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta awesome-linkedin-2"
+    },
+    "awesome-machine-learning": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta awesome-machine-learning"
+    },
+    "awesome-productivity": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta awesome-productivity"
+    },
+    "awesome-research": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta awesome-research"
+    },
     "babylon": {
       "count": 1,
       "color": "#d97706",
@@ -75,6 +140,11 @@
       "color": "#2563eb",
       "description": "Etiqueta bubble"
     },
+    "buffer-com": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta buffer-com"
+    },
     "builder": {
       "count": 1,
       "color": "#d97706",
@@ -84,6 +154,16 @@
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta capacitor"
+    },
+    "career-prompts": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta career-prompts"
+    },
+    "careerlaunch": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta careerlaunch"
     },
     "challenges": {
       "count": 1,
@@ -155,6 +235,16 @@
       "color": "#ea580c",
       "description": "Etiqueta fullstack"
     },
+    "galactic-linkedin-profile-guide": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta galactic-linkedin-profile-guide"
+    },
+    "galactic-linkedin-profile-guide-2": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta galactic-linkedin-profile-guide-2"
+    },
     "game-engine": {
       "count": 7,
       "color": "#0891b2",
@@ -164,6 +254,16 @@
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta gdevelop"
+    },
+    "github-profile-readme-generator": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta github-profile-readme-generator"
+    },
+    "glassdoor-com": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta glassdoor-com"
     },
     "glide": {
       "count": 1,
@@ -185,10 +285,30 @@
       "color": "#7c3aed",
       "description": "Etiqueta google-sheets"
     },
+    "guide": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta guide"
+    },
+    "guide-2": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta guide-2"
+    },
     "guided": {
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta guided"
+    },
+    "hackerrank-com": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta hackerrank-com"
+    },
+    "hootsuite-com": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta hootsuite-com"
     },
     "hybrid": {
       "count": 1,
@@ -200,10 +320,20 @@
       "color": "#db2777",
       "description": "Etiqueta ideas"
     },
+    "indeed-com": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta indeed-com"
+    },
     "interview": {
       "count": 3,
       "color": "#ea580c",
       "description": "Etiqueta interview"
+    },
+    "interviewing-io": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta interviewing-io"
     },
     "ios": {
       "count": 1,
@@ -216,19 +346,64 @@
       "description": "Etiqueta javascript"
     },
     "jobs": {
-      "count": 25,
+      "count": 75,
       "color": "#2563eb",
       "description": "Etiqueta jobs"
+    },
+    "jobspy": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta jobspy"
+    },
+    "jobspy-2": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta jobspy-2"
+    },
+    "jsonresume": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta jsonresume"
     },
     "latam": {
       "count": 3,
       "color": "#65a30d",
       "description": "Etiqueta latam"
     },
+    "later-com": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta later-com"
+    },
+    "lcg": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta lcg"
+    },
+    "lettergen": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta lettergen"
+    },
     "library": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta library"
+    },
+    "linkedin-com": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta linkedin-com"
+    },
+    "linkedin-com-3": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta linkedin-com-3"
+    },
+    "linkedin-content-generator": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta linkedin-content-generator"
     },
     "marketplace": {
       "count": 1,
@@ -249,6 +424,11 @@
       "count": 7,
       "color": "#dc2626",
       "description": "Etiqueta mobile"
+    },
+    "monetizacion-empleo": {
+      "count": 50,
+      "color": "#d97706",
+      "description": "Etiqueta monetizacion-empleo"
     },
     "monetization": {
       "count": 2,
@@ -280,10 +460,20 @@
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
     },
+    "otta-com": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta otta-com"
+    },
     "outsourcing": {
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta outsourcing"
+    },
+    "overleaf-com": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta overleaf-com"
     },
     "paid": {
       "count": 1,
@@ -291,7 +481,7 @@
       "description": "Etiqueta paid"
     },
     "payments": {
-      "count": 5,
+      "count": 55,
       "color": "#059669",
       "description": "Etiqueta payments"
     },
@@ -315,6 +505,11 @@
       "color": "#0891b2",
       "description": "Etiqueta project-based"
     },
+    "pursuit": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta pursuit"
+    },
     "react": {
       "count": 1,
       "color": "#65a30d",
@@ -325,6 +520,11 @@
       "color": "#ea580c",
       "description": "Etiqueta react-native"
     },
+    "recommendation-letter-template": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta recommendation-letter-template"
+    },
     "remote": {
       "count": 5,
       "color": "#dc2626",
@@ -334,6 +534,26 @@
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta remote-first"
+    },
+    "repo2resume": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta repo2resume"
+    },
+    "repo2resume-2": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta repo2resume-2"
+    },
+    "research-internships-for-undergraduates": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta research-internships-for-undergraduates"
+    },
+    "research-positions": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta research-positions"
     },
     "rigorous": {
       "count": 1,
@@ -346,7 +566,7 @@
       "description": "Etiqueta scale"
     },
     "search": {
-      "count": 1,
+      "count": 2,
       "color": "#2563eb",
       "description": "Etiqueta search"
     },
@@ -360,10 +580,25 @@
       "color": "#4f46e5",
       "description": "Etiqueta senior"
     },
+    "serai": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta serai"
+    },
+    "shields-io": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta shields-io"
+    },
     "simplified": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta simplified"
+    },
+    "simplify-jobs": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta simplify-jobs"
     },
     "spanish": {
       "count": 3,
@@ -390,6 +625,16 @@
       "color": "#dc2626",
       "description": "Etiqueta subscriptions"
     },
+    "system-design-interview": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta system-design-interview"
+    },
+    "taplio-com": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta taplio-com"
+    },
     "teams": {
       "count": 1,
       "color": "#db2777",
@@ -399,6 +644,11 @@
       "count": 3,
       "color": "#2563eb",
       "description": "Etiqueta tech"
+    },
+    "tech-interview-handbook": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta tech-interview-handbook"
     },
     "technical": {
       "count": 1,
@@ -506,6 +756,17 @@
     ],
     "entries": [
       {
+        "id": "academic-job-search",
+        "slug": "academic-job-search",
+        "terms": [
+          "academic-job-search",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
         "id": "adalo",
         "slug": "adalo",
         "terms": [
@@ -545,6 +806,138 @@
           "stripe",
           "abstraction",
           "simplified"
+        ]
+      },
+      {
+        "id": "awesome-behavioral-interviews",
+        "slug": "awesome-behavioral-interviews",
+        "terms": [
+          "awesome-behavioral-interviews",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "awesome-behavioral-interviews-2",
+        "slug": "awesome-behavioral-interviews-2",
+        "terms": [
+          "awesome-behavioral-interviews-2",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "awesome-chatgpt-prompts",
+        "slug": "awesome-chatgpt-prompts",
+        "terms": [
+          "awesome-chatgpt-prompts",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "awesome-deep-learning",
+        "slug": "awesome-deep-learning",
+        "terms": [
+          "awesome-deep-learning",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "awesome-instagram",
+        "slug": "awesome-instagram",
+        "terms": [
+          "awesome-instagram",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "awesome-interview-questions",
+        "slug": "awesome-interview-questions",
+        "terms": [
+          "awesome-interview-questions",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "awesome-job-boards",
+        "slug": "awesome-job-boards",
+        "terms": [
+          "awesome-job-boards",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "awesome-linkedin",
+        "slug": "awesome-linkedin",
+        "terms": [
+          "awesome-linkedin",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "awesome-linkedin-2",
+        "slug": "awesome-linkedin-2",
+        "terms": [
+          "awesome-linkedin-2",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "awesome-machine-learning",
+        "slug": "awesome-machine-learning",
+        "terms": [
+          "awesome-machine-learning",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "awesome-productivity",
+        "slug": "awesome-productivity",
+        "terms": [
+          "awesome-productivity",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "awesome-research",
+        "slug": "awesome-research",
+        "terms": [
+          "awesome-research",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
         ]
       },
       {
@@ -592,6 +985,17 @@
         ]
       },
       {
+        "id": "buffer-com",
+        "slug": "buffer-com",
+        "terms": [
+          "buffer-com",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
         "id": "capacitor",
         "slug": "capacitor",
         "terms": [
@@ -617,6 +1021,29 @@
           "ai",
           "agent",
           "search"
+        ]
+      },
+      {
+        "id": "career-prompts",
+        "slug": "career-prompts",
+        "terms": [
+          "career-prompts",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "careerlaunch",
+        "slug": "careerlaunch",
+        "terms": [
+          "CareerLaunch",
+          "careerlaunch",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
         ]
       },
       {
@@ -720,6 +1147,28 @@
         ]
       },
       {
+        "id": "galactic-linkedin-profile-guide",
+        "slug": "galactic-linkedin-profile-guide",
+        "terms": [
+          "galactic-linkedin-profile-guide",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "galactic-linkedin-profile-guide-2",
+        "slug": "galactic-linkedin-profile-guide-2",
+        "terms": [
+          "galactic-linkedin-profile-guide-2",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
         "id": "gdevelop",
         "slug": "gdevelop",
         "terms": [
@@ -731,6 +1180,28 @@
           "game-engine",
           "open-source",
           "2d"
+        ]
+      },
+      {
+        "id": "github-profile-readme-generator",
+        "slug": "github-profile-readme-generator",
+        "terms": [
+          "github-profile-readme-generator",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "glassdoor-com",
+        "slug": "glassdoor-com",
+        "terms": [
+          "glassdoor-com",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
         ]
       },
       {
@@ -777,6 +1248,28 @@
         ]
       },
       {
+        "id": "guide",
+        "slug": "guide",
+        "terms": [
+          "guide",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "guide-2",
+        "slug": "guide-2",
+        "terms": [
+          "guide-2",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
         "id": "gun-io",
         "slug": "gun-io",
         "terms": [
@@ -791,6 +1284,17 @@
         ]
       },
       {
+        "id": "hackerrank-com",
+        "slug": "hackerrank-com",
+        "terms": [
+          "hackerrank-com",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
         "id": "hired",
         "slug": "hired",
         "terms": [
@@ -802,6 +1306,17 @@
           "ai",
           "matching",
           "tech"
+        ]
+      },
+      {
+        "id": "hootsuite-com",
+        "slug": "hootsuite-com",
+        "terms": [
+          "hootsuite-com",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
         ]
       },
       {
@@ -820,6 +1335,28 @@
         ]
       },
       {
+        "id": "indeed-com",
+        "slug": "indeed-com",
+        "terms": [
+          "indeed-com",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "interviewing-io",
+        "slug": "interviewing-io",
+        "terms": [
+          "interviewing-io",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
         "id": "jobbers-io",
         "slug": "jobbers-io",
         "terms": [
@@ -834,6 +1371,62 @@
         ]
       },
       {
+        "id": "jobspy",
+        "slug": "jobspy",
+        "terms": [
+          "JobSpy",
+          "jobspy",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "jobspy-2",
+        "slug": "jobspy-2",
+        "terms": [
+          "jobspy-2",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "jsonresume",
+        "slug": "jsonresume",
+        "terms": [
+          "jsonresume",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "later-com",
+        "slug": "later-com",
+        "terms": [
+          "later-com",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "lcg",
+        "slug": "lcg",
+        "terms": [
+          "lcg",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
         "id": "leetcode-interview",
         "slug": "leetcode-interview",
         "terms": [
@@ -845,6 +1438,73 @@
           "interview",
           "preparation",
           "technical"
+        ]
+      },
+      {
+        "id": "lettergen",
+        "slug": "lettergen",
+        "terms": [
+          "Lettergen",
+          "lettergen",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "linkedin-com",
+        "slug": "linkedin-com",
+        "terms": [
+          "linkedin-com",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "linkedin-com-3",
+        "slug": "linkedin-com-3",
+        "terms": [
+          "linkedin-com-3",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "linkedin-content-generator",
+        "slug": "linkedin-content-generator",
+        "terms": [
+          "linkedin-content-generator",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "otta-com",
+        "slug": "otta-com",
+        "terms": [
+          "otta-com",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "overleaf-com",
+        "slug": "overleaf-com",
+        "terms": [
+          "overleaf-com",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
         ]
       },
       {
@@ -891,6 +1551,17 @@
         ]
       },
       {
+        "id": "pursuit",
+        "slug": "pursuit",
+        "terms": [
+          "pursuit",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
         "id": "react-jobs",
         "slug": "react-jobs",
         "terms": [
@@ -905,6 +1576,18 @@
         ]
       },
       {
+        "id": "recommendation-letter-template",
+        "slug": "recommendation-letter-template",
+        "terms": [
+          "Recommendation-Letter-Template",
+          "recommendation-letter-template",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
         "id": "remote-ok",
         "slug": "remote-ok",
         "terms": [
@@ -916,6 +1599,98 @@
           "remote",
           "tech",
           "global"
+        ]
+      },
+      {
+        "id": "repo2resume",
+        "slug": "repo2resume",
+        "terms": [
+          "Repo2Resume",
+          "repo2resume",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "repo2resume-2",
+        "slug": "repo2resume-2",
+        "terms": [
+          "Repo2Resume-2",
+          "repo2resume-2",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "research-internships-for-undergraduates",
+        "slug": "research-internships-for-undergraduates",
+        "terms": [
+          "Research-Internships-for-Undergraduates",
+          "research-internships-for-undergraduates",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "research-positions",
+        "slug": "research-positions",
+        "terms": [
+          "Research-positions",
+          "research-positions",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "search",
+        "slug": "search",
+        "terms": [
+          "search",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "serai",
+        "slug": "serai",
+        "terms": [
+          "serai",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "shields-io",
+        "slug": "shields-io",
+        "terms": [
+          "shields-io",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "simplify-jobs",
+        "slug": "simplify-jobs",
+        "terms": [
+          "simplify-jobs",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
         ]
       },
       {
@@ -944,6 +1719,39 @@
           "freelance",
           "spanish",
           "project-based"
+        ]
+      },
+      {
+        "id": "system-design-interview",
+        "slug": "system-design-interview",
+        "terms": [
+          "system-design-interview",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "taplio-com",
+        "slug": "taplio-com",
+        "terms": [
+          "taplio-com",
+          "Recurso técnico",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
+        ]
+      },
+      {
+        "id": "tech-interview-handbook",
+        "slug": "tech-interview-handbook",
+        "terms": [
+          "tech-interview-handbook",
+          "Repositorio GitHub",
+          "payments",
+          "jobs",
+          "monetizacion-empleo"
         ]
       },
       {
@@ -1153,6 +1961,6 @@
     "dataset": "pagos_game-dev_mobile",
     "title": "pagos_game-dev_mobile",
     "description": "Dataset pagos_game-dev_mobile",
-    "resourceCount": 43
+    "resourceCount": 93
   }
 }

@@ -127,6 +127,32 @@ function Get-MapDecision {
     $ss = ([string]$Subsection).ToLowerInvariant()
     $n = ([string]$Name).ToLowerInvariant()
 
+    # Secciones del flujo actual de links-insertados.
+    if ($s -match 'monetizacion|monetización|empleo|job') {
+        return @{ dataset='pagos_game-dev_mobile'; category='payments'; subcategory='jobs'; confidence='high' }
+    }
+
+    if ($s -match 'cursos|aprendizaje|educacion|educación' -or $s -match 'canales youtube') {
+        return @{ dataset='dns_seguridad_educacion'; category='education-learning'; subcategory='programming-courses'; confidence='high' }
+    }
+
+    if ($s -match 'recursos github') {
+        if ($n -match 'seo|serp|search console|sitemap|crawl|index') {
+            return @{ dataset='utilidades-2_cms'; category='utilities'; subcategory='seo-scraping'; confidence='high' }
+        }
+
+        return @{ dataset='utilidades-2_cms'; category='utilities'; subcategory='general-resources'; confidence='high' }
+    }
+
+    # Reglas por nombre cuando no hay subseccion explicita.
+    if ($n -match 'youtube|playlist|cs221|cs229|cs224|cs231|deep learning|machine learning|rag') {
+        return @{ dataset='dns_seguridad_educacion'; category='education-learning'; subcategory='programming-courses'; confidence='high' }
+    }
+
+    if ($n -match 'seo|serp|search console|sitemap|crawl|index') {
+        return @{ dataset='utilidades-2_cms'; category='utilities'; subcategory='seo-scraping'; confidence='high' }
+    }
+
     if ($s -match 'cloud|hosting|control de versiones|repositorios') {
         if ($ss -match 'learning|aprendizaje') { return @{ dataset='apis-data_databases'; category='version-control'; subcategory='learning'; confidence='high' } }
         if ($ss -match 'management|gestion') { return @{ dataset='apis-data_databases'; category='cloud'; subcategory='management'; confidence='high' } }

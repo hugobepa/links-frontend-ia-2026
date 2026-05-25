@@ -18,7 +18,7 @@
       "id": "payments",
       "name": "Payments",
       "slug": "payments",
-      "resourceCount": 28,
+      "resourceCount": 78,
       "status": "active"
     }
   ],
@@ -44,7 +44,7 @@
       "name": "Jobs",
       "slug": "jobs",
       "category": "payments",
-      "resourceCount": 26,
+      "resourceCount": 76,
       "status": "active"
     },
     {
@@ -57,6 +57,38 @@
     }
   ],
   "resources": [
+    {
+      "id": "academic-job-search",
+      "name": "academic-job-search",
+      "slug": "academic-job-search",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/andrewgwagner/academic-job-search",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "academic-job-search"
+      ],
+      "searchIndex": [
+        "academic-job-search",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
     {
       "id": "adalo",
       "name": "Adalo",
@@ -160,6 +192,390 @@
       ],
       "limits": "Según plan seleccionado",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-behavioral-interviews",
+      "name": "awesome-behavioral-interviews",
+      "slug": "awesome-behavioral-interviews",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ashishps1/awesome-behavioral-interviews",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "awesome-behavioral-interviews"
+      ],
+      "searchIndex": [
+        "awesome-behavioral-interviews",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-behavioral-interviews-2",
+      "name": "awesome-behavioral-interviews-2",
+      "slug": "awesome-behavioral-interviews-2",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ashishpatel26/awesome-behavioral-interviews",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "awesome-behavioral-interviews-2"
+      ],
+      "searchIndex": [
+        "awesome-behavioral-interviews-2",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-chatgpt-prompts",
+      "name": "awesome-chatgpt-prompts",
+      "slug": "awesome-chatgpt-prompts",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/f/awesome-chatgpt-prompts",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "awesome-chatgpt-prompts"
+      ],
+      "searchIndex": [
+        "awesome-chatgpt-prompts",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-deep-learning",
+      "name": "awesome-deep-learning",
+      "slug": "awesome-deep-learning",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "awesome-deep-learning"
+      ],
+      "searchIndex": [
+        "awesome-deep-learning",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-instagram",
+      "name": "awesome-instagram",
+      "slug": "awesome-instagram",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/instagram-devs/awesome-instagram",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "awesome-instagram"
+      ],
+      "searchIndex": [
+        "awesome-instagram",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-interview-questions",
+      "name": "awesome-interview-questions",
+      "slug": "awesome-interview-questions",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/DopplerHQ/awesome-interview-questions",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "awesome-interview-questions"
+      ],
+      "searchIndex": [
+        "awesome-interview-questions",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-job-boards",
+      "name": "awesome-job-boards",
+      "slug": "awesome-job-boards",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/trammell/awesome-job-boards",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "awesome-job-boards"
+      ],
+      "searchIndex": [
+        "awesome-job-boards",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-linkedin",
+      "name": "awesome-linkedin",
+      "slug": "awesome-linkedin",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/brandonhimpfen/awesome-linkedin",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "awesome-linkedin"
+      ],
+      "searchIndex": [
+        "awesome-linkedin",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-linkedin-2",
+      "name": "awesome-linkedin-2",
+      "slug": "awesome-linkedin-2",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/helenahartley/awesome-linkedin",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "awesome-linkedin-2"
+      ],
+      "searchIndex": [
+        "awesome-linkedin-2",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-machine-learning",
+      "name": "awesome-machine-learning",
+      "slug": "awesome-machine-learning",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/josephmisiti/awesome-machine-learning",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "awesome-machine-learning"
+      ],
+      "searchIndex": [
+        "awesome-machine-learning",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-productivity",
+      "name": "awesome-productivity",
+      "slug": "awesome-productivity",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/jyguyomarch/awesome-productivity",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "awesome-productivity"
+      ],
+      "searchIndex": [
+        "awesome-productivity",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-research",
+      "name": "awesome-research",
+      "slug": "awesome-research",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/emptymalei/awesome-research",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "awesome-research"
+      ],
+      "searchIndex": [
+        "awesome-research",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -273,6 +689,38 @@
       "noCreditCard": false
     },
     {
+      "id": "buffer-com",
+      "name": "buffer-com",
+      "slug": "buffer-com",
+      "description": "Recurso técnico",
+      "url": "https://buffer.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "buffer-com"
+      ],
+      "searchIndex": [
+        "buffer-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "capacitor",
       "name": "Capacitor",
       "slug": "capacitor",
@@ -342,6 +790,71 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "career-prompts",
+      "name": "career-prompts",
+      "slug": "career-prompts",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/career-prompts/career-prompts",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "career-prompts"
+      ],
+      "searchIndex": [
+        "career-prompts",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "careerlaunch",
+      "name": "CareerLaunch",
+      "slug": "careerlaunch",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/CareerLaunch/CareerLaunch",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "careerlaunch"
+      ],
+      "searchIndex": [
+        "CareerLaunch",
+        "careerlaunch",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "construct-3",
@@ -593,6 +1106,70 @@
       "noCreditCard": true
     },
     {
+      "id": "galactic-linkedin-profile-guide",
+      "name": "galactic-linkedin-profile-guide",
+      "slug": "galactic-linkedin-profile-guide",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/GuidoPenta/galactic-linkedin-profile-guide",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "galactic-linkedin-profile-guide"
+      ],
+      "searchIndex": [
+        "galactic-linkedin-profile-guide",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "galactic-linkedin-profile-guide-2",
+      "name": "galactic-linkedin-profile-guide-2",
+      "slug": "galactic-linkedin-profile-guide-2",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/rmartinramos/galactic-linkedin-profile-guide",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "galactic-linkedin-profile-guide-2"
+      ],
+      "searchIndex": [
+        "galactic-linkedin-profile-guide-2",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "gdevelop",
       "name": "GDevelop",
       "slug": "gdevelop",
@@ -626,6 +1203,70 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "github-profile-readme-generator",
+      "name": "github-profile-readme-generator",
+      "slug": "github-profile-readme-generator",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "github-profile-readme-generator"
+      ],
+      "searchIndex": [
+        "github-profile-readme-generator",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "glassdoor-com",
+      "name": "glassdoor-com",
+      "slug": "glassdoor-com",
+      "description": "Recurso técnico",
+      "url": "https://www.glassdoor.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "glassdoor-com"
+      ],
+      "searchIndex": [
+        "glassdoor-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "glide",
@@ -736,6 +1377,70 @@
       "noCreditCard": true
     },
     {
+      "id": "guide",
+      "name": "guide",
+      "slug": "guide",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/how-to-get-any-job/guide",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "guide"
+      ],
+      "searchIndex": [
+        "guide",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "guide-2",
+      "name": "guide-2",
+      "slug": "guide-2",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/github-optimization/guide",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "guide-2"
+      ],
+      "searchIndex": [
+        "guide-2",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "gun-io",
       "name": "Gun.io",
       "slug": "gun-io",
@@ -769,6 +1474,38 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "hackerrank-com",
+      "name": "hackerrank-com",
+      "slug": "hackerrank-com",
+      "description": "Recurso técnico",
+      "url": "https://www.hackerrank.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "hackerrank-com"
+      ],
+      "searchIndex": [
+        "hackerrank-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "hired",
@@ -806,6 +1543,38 @@
       "noCreditCard": true
     },
     {
+      "id": "hootsuite-com",
+      "name": "hootsuite-com",
+      "slug": "hootsuite-com",
+      "description": "Recurso técnico",
+      "url": "https://www.hootsuite.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "hootsuite-com"
+      ],
+      "searchIndex": [
+        "hootsuite-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "ideas-apps",
       "name": "Ideas Apps",
       "slug": "ideas-apps",
@@ -838,6 +1607,70 @@
       ],
       "limits": "unknown",
       "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "indeed-com",
+      "name": "indeed-com",
+      "slug": "indeed-com",
+      "description": "Recurso técnico",
+      "url": "https://www.indeed.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "indeed-com"
+      ],
+      "searchIndex": [
+        "indeed-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "interviewing-io",
+      "name": "interviewing-io",
+      "slug": "interviewing-io",
+      "description": "Recurso técnico",
+      "url": "https://interviewing.io",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "interviewing-io"
+      ],
+      "searchIndex": [
+        "interviewing-io",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -877,6 +1710,167 @@
       "noCreditCard": true
     },
     {
+      "id": "jobspy",
+      "name": "JobSpy",
+      "slug": "jobspy",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Bunsly/JobSpy",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "jobspy"
+      ],
+      "searchIndex": [
+        "JobSpy",
+        "jobspy",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "jobspy-2",
+      "name": "jobspy-2",
+      "slug": "jobspy-2",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/jobspy/jobspy",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "jobspy-2"
+      ],
+      "searchIndex": [
+        "jobspy-2",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "jsonresume",
+      "name": "jsonresume",
+      "slug": "jsonresume",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/jsonresume",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "jsonresume"
+      ],
+      "searchIndex": [
+        "jsonresume",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "later-com",
+      "name": "later-com",
+      "slug": "later-com",
+      "description": "Recurso técnico",
+      "url": "https://later.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "later-com"
+      ],
+      "searchIndex": [
+        "later-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "lcg",
+      "name": "lcg",
+      "slug": "lcg",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/linkedin-content-generator/lcg",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "lcg"
+      ],
+      "searchIndex": [
+        "lcg",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "leetcode-interview",
       "name": "LeetCode Interview",
       "slug": "leetcode-interview",
@@ -908,6 +1902,199 @@
       ],
       "limits": "Gratis con límites, premium disponible",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "lettergen",
+      "name": "Lettergen",
+      "slug": "lettergen",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Lettergen/Lettergen",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "lettergen"
+      ],
+      "searchIndex": [
+        "Lettergen",
+        "lettergen",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "linkedin-com",
+      "name": "linkedin-com",
+      "slug": "linkedin-com",
+      "description": "Recurso técnico",
+      "url": "https://www.linkedin.com/post-inspector/",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "linkedin-com"
+      ],
+      "searchIndex": [
+        "linkedin-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "linkedin-com-3",
+      "name": "linkedin-com-3",
+      "slug": "linkedin-com-3",
+      "description": "Recurso técnico",
+      "url": "https://www.linkedin.com/jobs",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "linkedin-com-3"
+      ],
+      "searchIndex": [
+        "linkedin-com-3",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "linkedin-content-generator",
+      "name": "linkedin-content-generator",
+      "slug": "linkedin-content-generator",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/anusky95/linkedin-content-generator",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "linkedin-content-generator"
+      ],
+      "searchIndex": [
+        "linkedin-content-generator",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "otta-com",
+      "name": "otta-com",
+      "slug": "otta-com",
+      "description": "Recurso técnico",
+      "url": "https://otta.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "otta-com"
+      ],
+      "searchIndex": [
+        "otta-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "overleaf-com",
+      "name": "overleaf-com",
+      "slug": "overleaf-com",
+      "description": "Recurso técnico",
+      "url": "https://www.overleaf.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "overleaf-com"
+      ],
+      "searchIndex": [
+        "overleaf-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -1019,6 +2206,38 @@
       "noCreditCard": false
     },
     {
+      "id": "pursuit",
+      "name": "pursuit",
+      "slug": "pursuit",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/pursuit/pursuit",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "pursuit"
+      ],
+      "searchIndex": [
+        "pursuit",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "react-jobs",
       "name": "React Jobs",
       "slug": "react-jobs",
@@ -1054,6 +2273,39 @@
       "noCreditCard": true
     },
     {
+      "id": "recommendation-letter-template",
+      "name": "Recommendation-Letter-Template",
+      "slug": "recommendation-letter-template",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/mchowdhay/Recommendation-Letter-Template",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "recommendation-letter-template"
+      ],
+      "searchIndex": [
+        "Recommendation-Letter-Template",
+        "recommendation-letter-template",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "remote-ok",
       "name": "Remote OK",
       "slug": "remote-ok",
@@ -1087,6 +2339,266 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "repo2resume",
+      "name": "Repo2Resume",
+      "slug": "repo2resume",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/PhongCT1105/Repo2Resume",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "repo2resume"
+      ],
+      "searchIndex": [
+        "Repo2Resume",
+        "repo2resume",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "repo2resume-2",
+      "name": "Repo2Resume-2",
+      "slug": "repo2resume-2",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/tehZevo/Repo2Resume",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "repo2resume-2"
+      ],
+      "searchIndex": [
+        "Repo2Resume-2",
+        "repo2resume-2",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "research-internships-for-undergraduates",
+      "name": "Research-Internships-for-Undergraduates",
+      "slug": "research-internships-for-undergraduates",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/himahuja/Research-Internships-for-Undergraduates",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "research-internships-for-undergraduates"
+      ],
+      "searchIndex": [
+        "Research-Internships-for-Undergraduates",
+        "research-internships-for-undergraduates",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "research-positions",
+      "name": "Research-positions",
+      "slug": "research-positions",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/WeiTang114/Research-positions",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "research-positions"
+      ],
+      "searchIndex": [
+        "Research-positions",
+        "research-positions",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "search",
+      "name": "search",
+      "slug": "search",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/search?q=ai+research+jobs&type=repositories",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "search"
+      ],
+      "searchIndex": [
+        "search",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "serai",
+      "name": "serai",
+      "slug": "serai",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/serai-ai/serai",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "serai"
+      ],
+      "searchIndex": [
+        "serai",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "shields-io",
+      "name": "shields-io",
+      "slug": "shields-io",
+      "description": "Recurso técnico",
+      "url": "https://shields.io",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "shields-io"
+      ],
+      "searchIndex": [
+        "shields-io",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "simplify-jobs",
+      "name": "simplify-jobs",
+      "slug": "simplify-jobs",
+      "description": "Recurso técnico",
+      "url": "https://Simplify.jobs",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "simplify-jobs"
+      ],
+      "searchIndex": [
+        "simplify-jobs",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "south",
@@ -1155,6 +2667,102 @@
       ],
       "limits": "Gratis con comisión por proyecto",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "system-design-interview",
+      "name": "system-design-interview",
+      "slug": "system-design-interview",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/checkcheckzz/system-design-interview",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "system-design-interview"
+      ],
+      "searchIndex": [
+        "system-design-interview",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "taplio-com",
+      "name": "taplio-com",
+      "slug": "taplio-com",
+      "description": "Recurso técnico",
+      "url": "https://taplio.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "taplio-com"
+      ],
+      "searchIndex": [
+        "taplio-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tech-interview-handbook",
+      "name": "tech-interview-handbook",
+      "slug": "tech-interview-handbook",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/yangshun/tech-interview-handbook",
+      "status": "active",
+      "tags": [
+        "payments",
+        "jobs",
+        "monetizacion-empleo",
+        "tech-interview-handbook"
+      ],
+      "searchIndex": [
+        "tech-interview-handbook",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetizacion-empleo"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },

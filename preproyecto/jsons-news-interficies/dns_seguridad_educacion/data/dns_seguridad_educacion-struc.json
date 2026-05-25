@@ -5,10 +5,20 @@
       "color": "#db2777",
       "description": "Etiqueta 10gb"
     },
+    "500-ai-machine-learning-deep-learning-computer-vision-nlp-projects-with-code": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta 500-ai-machine-learning-deep-learning-computer-vision-nlp-projects-with-code"
+    },
     "500mb": {
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta 500mb"
+    },
+    "9router": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta 9router"
     },
     "academic-research-skills": {
       "count": 1,
@@ -30,6 +40,31 @@
       "color": "#65a30d",
       "description": "Etiqueta accessible-browser-ext"
     },
+    "acontext": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta acontext"
+    },
+    "agent-governance-toolkit": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta agent-governance-toolkit"
+    },
+    "agent-memory-techniques": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta agent-memory-techniques"
+    },
+    "agenthub": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta agenthub"
+    },
+    "agents-from-scratch": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta agents-from-scratch"
+    },
     "aggregator": {
       "count": 1,
       "color": "#ea580c",
@@ -40,10 +75,45 @@
       "color": "#dc2626",
       "description": "Etiqueta ai"
     },
+    "ai-agents-from-scratch": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta ai-agents-from-scratch"
+    },
+    "ai-engineering-from-scratch": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta ai-engineering-from-scratch"
+    },
+    "ai-engineering-roadmap": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta ai-engineering-roadmap"
+    },
+    "ai-inference-resources": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta ai-inference-resources"
+    },
+    "ai-infra-from-zero-to-hero": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta ai-infra-from-zero-to-hero"
+    },
+    "ai-system-design-guide": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta ai-system-design-guide"
+    },
     "aiengineeringfromscratch": {
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta aiengineeringfromscratch"
+    },
+    "alexandria-audiobook": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta alexandria-audiobook"
     },
     "algorithms-illinois": {
       "count": 1,
@@ -55,10 +125,30 @@
       "color": "#4f46e5",
       "description": "Etiqueta angular"
     },
+    "annas-archive-gl": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta annas-archive-gl"
+    },
+    "anthropic-cybersecurity-skills": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta anthropic-cybersecurity-skills"
+    },
     "api": {
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta api"
+    },
+    "app-codecrafters-io": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta app-codecrafters-io"
+    },
+    "app-diagrams-net": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta app-diagrams-net"
     },
     "apple": {
       "count": 1,
@@ -75,10 +165,20 @@
       "color": "#4f46e5",
       "description": "Etiqueta aria-roles-explained"
     },
+    "arkon": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta arkon"
+    },
     "arquitectura-frontend-2026": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta arquitectura-frontend-2026"
+    },
+    "art-openpipe-ai": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta art-openpipe-ai"
     },
     "arta-culos-css-web": {
       "count": 19,
@@ -95,6 +195,121 @@
       "color": "#ea580c",
       "description": "Etiqueta articulos-css-web"
     },
+    "arxiv-org": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta arxiv-org"
+    },
+    "arxiv-org-10": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta arxiv-org-10"
+    },
+    "arxiv-org-11": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta arxiv-org-11"
+    },
+    "arxiv-org-12": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta arxiv-org-12"
+    },
+    "arxiv-org-13": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta arxiv-org-13"
+    },
+    "arxiv-org-14": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta arxiv-org-14"
+    },
+    "arxiv-org-15": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta arxiv-org-15"
+    },
+    "arxiv-org-16": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta arxiv-org-16"
+    },
+    "arxiv-org-17": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta arxiv-org-17"
+    },
+    "arxiv-org-18": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta arxiv-org-18"
+    },
+    "arxiv-org-19": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta arxiv-org-19"
+    },
+    "arxiv-org-2": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta arxiv-org-2"
+    },
+    "arxiv-org-20": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta arxiv-org-20"
+    },
+    "arxiv-org-21": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta arxiv-org-21"
+    },
+    "arxiv-org-22": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta arxiv-org-22"
+    },
+    "arxiv-org-23": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta arxiv-org-23"
+    },
+    "arxiv-org-3": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta arxiv-org-3"
+    },
+    "arxiv-org-4": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta arxiv-org-4"
+    },
+    "arxiv-org-5": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta arxiv-org-5"
+    },
+    "arxiv-org-6": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta arxiv-org-6"
+    },
+    "arxiv-org-7": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta arxiv-org-7"
+    },
+    "arxiv-org-8": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta arxiv-org-8"
+    },
+    "arxiv-org-9": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta arxiv-org-9"
+    },
     "astro": {
       "count": 1,
       "color": "#d97706",
@@ -110,10 +325,70 @@
       "color": "#7c3aed",
       "description": "Etiqueta authentication"
     },
+    "autocontext": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta autocontext"
+    },
+    "automate-faceless-content": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta automate-faceless-content"
+    },
     "automation": {
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta automation"
+    },
+    "awesome": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta awesome"
+    },
+    "awesome-agent-skills-for-empirical-research": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta awesome-agent-skills-for-empirical-research"
+    },
+    "awesome-codex-skills": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta awesome-codex-skills"
+    },
+    "awesome-cuda-books": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta awesome-cuda-books"
+    },
+    "awesome-gpt-image-2": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta awesome-gpt-image-2"
+    },
+    "awesome-hacking": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta awesome-hacking"
+    },
+    "awesome-llm-quantitative-trading-papers": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta awesome-llm-quantitative-trading-papers"
+    },
+    "awesome-system-design-resources": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta awesome-system-design-resources"
+    },
+    "awesome-vibe-coding-resources": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta awesome-vibe-coding-resources"
+    },
+    "awesome-vla-wam": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta awesome-vla-wam"
     },
     "aws": {
       "count": 2,
@@ -150,6 +425,11 @@
       "color": "#0891b2",
       "description": "Etiqueta bbc"
     },
+    "beelzebub": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta beelzebub"
+    },
     "beginner": {
       "count": 1,
       "color": "#dc2626",
@@ -170,6 +450,16 @@
       "color": "#2563eb",
       "description": "Etiqueta betterauth"
     },
+    "biorxiv-org": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta biorxiv-org"
+    },
+    "blender": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta blender"
+    },
     "blockchain": {
       "count": 2,
       "color": "#db2777",
@@ -180,10 +470,20 @@
       "color": "#2563eb",
       "description": "Etiqueta blog"
     },
+    "blog-cloudflare-com": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta blog-cloudflare-com"
+    },
     "book": {
       "count": 2,
       "color": "#65a30d",
       "description": "Etiqueta book"
+    },
+    "book-to-skill": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta book-to-skill"
     },
     "books": {
       "count": 2,
@@ -194,6 +494,16 @@
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta box-shadow-vs-outline"
+    },
+    "build-your-own-x": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta build-your-own-x"
+    },
+    "build-your-own-x-vercel-app": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta build-your-own-x-vercel-app"
     },
     "business": {
       "count": 1,
@@ -206,7 +516,7 @@
       "description": "Etiqueta c"
     },
     "canales-youtube": {
-      "count": 4,
+      "count": 5,
       "color": "#d97706",
       "description": "Etiqueta canales-youtube"
     },
@@ -215,10 +525,20 @@
       "color": "#4f46e5",
       "description": "Etiqueta career"
     },
+    "cc-desktop-switch": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta cc-desktop-switch"
+    },
     "certification": {
       "count": 4,
       "color": "#2563eb",
       "description": "Etiqueta certification"
+    },
+    "cf-hero": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta cf-hero"
     },
     "challenges": {
       "count": 2,
@@ -250,10 +570,50 @@
       "color": "#dc2626",
       "description": "Etiqueta claude"
     },
+    "claude-bughunter": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta claude-bughunter"
+    },
+    "claude-code-from-scratch": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta claude-code-from-scratch"
+    },
+    "claude-code-local": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta claude-code-local"
+    },
+    "claude-code-router": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta claude-code-router"
+    },
+    "claude-smart": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta claude-smart"
+    },
+    "clawless": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta clawless"
+    },
     "clean-code": {
       "count": 2,
       "color": "#059669",
       "description": "Etiqueta clean-code"
+    },
+    "clearml": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta clearml"
+    },
+    "cli": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta cli"
     },
     "clone-wars": {
       "count": 1,
@@ -280,10 +640,35 @@
       "color": "#4f46e5",
       "description": "Etiqueta cmu-reinforcement-learning"
     },
+    "code-review-skill": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta code-review-skill"
+    },
+    "codebuff": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta codebuff"
+    },
     "codecademy-ai": {
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta codecademy-ai"
+    },
+    "codegraph": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta codegraph"
+    },
+    "codex-shim": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta codex-shim"
+    },
+    "codexsaver": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta codexsaver"
     },
     "coding": {
       "count": 3,
@@ -294,6 +679,11 @@
       "count": 5,
       "color": "#65a30d",
       "description": "Etiqueta community"
+    },
+    "compose-examples": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta compose-examples"
     },
     "comprehensive": {
       "count": 2,
@@ -330,10 +720,20 @@
       "color": "#dc2626",
       "description": "Etiqueta copilot"
     },
+    "copilot-billing-preview": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta copilot-billing-preview"
+    },
     "course": {
       "count": 14,
       "color": "#65a30d",
       "description": "Etiqueta course"
+    },
+    "coursera-org": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta coursera-org"
     },
     "courses": {
       "count": 7,
@@ -345,10 +745,25 @@
       "color": "#d97706",
       "description": "Etiqueta cpp"
     },
+    "creatoreconomy-so": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta creatoreconomy-so"
+    },
+    "crowdsec": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta crowdsec"
+    },
     "crypto": {
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta crypto"
+    },
+    "cs249r-book": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta cs249r-book"
     },
     "cs50": {
       "count": 1,
@@ -396,9 +811,19 @@
       "description": "Etiqueta cursos-programacia-n"
     },
     "cursos-programacion": {
-      "count": 6,
+      "count": 34,
       "color": "#db2777",
       "description": "Etiqueta cursos-programacion"
+    },
+    "daedalos": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta daedalos"
+    },
+    "dan-bjorkegren-com": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta dan-bjorkegren-com"
     },
     "data": {
       "count": 2,
@@ -409,6 +834,21 @@
       "count": 3,
       "color": "#059669",
       "description": "Etiqueta database"
+    },
+    "dataset-viewer": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta dataset-viewer"
+    },
+    "david-portfolio": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta david-portfolio"
+    },
+    "dbx": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta dbx"
     },
     "ddos": {
       "count": 1,
@@ -430,6 +870,21 @@
       "color": "#d97706",
       "description": "Etiqueta deep-dive"
     },
+    "deepmind-google": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta deepmind-google"
+    },
+    "dergipark-org-tr": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta dergipark-org-tr"
+    },
+    "design-extract": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta design-extract"
+    },
     "design-patterns": {
       "count": 2,
       "color": "#2563eb",
@@ -444,6 +899,16 @@
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta dev"
+    },
+    "dev-to": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta dev-to"
+    },
+    "developer-chrome-com": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta developer-chrome-com"
     },
     "developers": {
       "count": 2,
@@ -465,10 +930,25 @@
       "color": "#dc2626",
       "description": "Etiqueta devsecops"
     },
+    "dft-rosmine-ai": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta dft-rosmine-ai"
+    },
+    "discoverthreejs-com": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta discoverthreejs-com"
+    },
     "django": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta django"
+    },
+    "dmls-book": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta dmls-book"
     },
     "dns": {
       "count": 5,
@@ -495,6 +975,11 @@
       "color": "#0891b2",
       "description": "Etiqueta docs"
     },
+    "docs-github-com": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta docs-github-com"
+    },
     "documentation": {
       "count": 2,
       "color": "#dc2626",
@@ -514,6 +999,21 @@
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta dotnet"
+    },
+    "drive-google-com": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta drive-google-com"
+    },
+    "drive-google-com-2": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta drive-google-com-2"
+    },
+    "drive-google-com-3": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta drive-google-com-3"
     },
     "dynamic": {
       "count": 3,
@@ -541,9 +1041,14 @@
       "description": "Etiqueta education"
     },
     "education-learning": {
-      "count": 40,
+      "count": 277,
       "color": "#ea580c",
       "description": "Etiqueta education-learning"
+    },
+    "ejemplo-harness-subagentes": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta ejemplo-harness-subagentes"
     },
     "emoji": {
       "count": 1,
@@ -559,6 +1064,11 @@
       "count": 8,
       "color": "#4f46e5",
       "description": "Etiqueta english"
+    },
+    "engram": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta engram"
     },
     "enterprise": {
       "count": 2,
@@ -590,6 +1100,16 @@
       "color": "#7c3aed",
       "description": "Etiqueta expo"
     },
+    "expressjs-com": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta expressjs-com"
+    },
+    "fast-ai": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta fast-ai"
+    },
     "finance": {
       "count": 1,
       "color": "#7c3aed",
@@ -615,6 +1135,16 @@
       "color": "#db2777",
       "description": "Etiqueta free"
     },
+    "free-llm-api-keys": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta free-llm-api-keys"
+    },
+    "freellmapi": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta freellmapi"
+    },
     "frontend": {
       "count": 4,
       "color": "#7c3aed",
@@ -635,6 +1165,31 @@
       "color": "#7c3aed",
       "description": "Etiqueta gcp"
     },
+    "gemini-google": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta gemini-google"
+    },
+    "geminispark-ai": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta geminispark-ai"
+    },
+    "genai-llm-ml-case-studies": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta genai-llm-ml-case-studies"
+    },
+    "gentle-ai": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta gentle-ai"
+    },
+    "gentleman-dots": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta gentleman-dots"
+    },
     "ghostscan": {
       "count": 1,
       "color": "#2563eb",
@@ -649,6 +1204,11 @@
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta go"
+    },
+    "goal-ledger": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta goal-ledger"
     },
     "golang": {
       "count": 1,
@@ -670,6 +1230,11 @@
       "color": "#d97706",
       "description": "Etiqueta google-drive-ml-folder"
     },
+    "guia-entrevistas-de-programacion": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta guia-entrevistas-de-programacion"
+    },
     "guide": {
       "count": 8,
       "color": "#4f46e5",
@@ -679,6 +1244,21 @@
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta guides"
+    },
+    "h4cker": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta h4cker"
+    },
+    "hackingtool-plugin": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta hackingtool-plugin"
+    },
+    "halupedia-com": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta halupedia-com"
     },
     "hardening": {
       "count": 1,
@@ -705,6 +1285,11 @@
       "color": "#4f46e5",
       "description": "Etiqueta hexstrike-web"
     },
+    "hf-co": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta hf-co"
+    },
     "hono": {
       "count": 2,
       "color": "#4f46e5",
@@ -714,6 +1299,21 @@
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta hostname"
+    },
+    "how-to-build-a-coding-agent": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta how-to-build-a-coding-agent"
+    },
+    "how-to-train-your-gpt": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta how-to-train-your-gpt"
+    },
+    "hrm-text": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta hrm-text"
     },
     "html": {
       "count": 3,
@@ -725,10 +1325,40 @@
       "color": "#ea580c",
       "description": "Etiqueta htmx"
     },
+    "huawei-com": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta huawei-com"
+    },
+    "huggingface-co": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta huggingface-co"
+    },
+    "huggingface-co-2": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta huggingface-co-2"
+    },
+    "huggingface-co-3": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta huggingface-co-3"
+    },
+    "hy-mt2": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta hy-mt2"
+    },
     "ibm-skillsbuild": {
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta ibm-skillsbuild"
+    },
+    "ickma2311-github-io": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta ickma2311-github-io"
     },
     "identity": {
       "count": 1,
@@ -765,6 +1395,16 @@
       "color": "#059669",
       "description": "Etiqueta ios"
     },
+    "j-a-r-v-i-s": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta j-a-r-v-i-s"
+    },
+    "jailbreak-autoresearch": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta jailbreak-autoresearch"
+    },
     "java": {
       "count": 1,
       "color": "#db2777",
@@ -780,10 +1420,45 @@
       "color": "#2563eb",
       "description": "Etiqueta jelou-ai"
     },
+    "job-applications": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta job-applications"
+    },
+    "jobapplication": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta jobapplication"
+    },
+    "jscamp": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta jscamp"
+    },
     "junior": {
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta junior"
+    },
+    "kaligpt": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta kaligpt"
+    },
+    "kinso-ai": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta kinso-ai"
+    },
+    "knowhere": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta knowhere"
+    },
+    "knowledge-work-plugins": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta knowledge-work-plugins"
     },
     "kubernetes": {
       "count": 1,
@@ -805,6 +1480,11 @@
       "color": "#059669",
       "description": "Etiqueta languages"
     },
+    "learn-ai-engineering": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta learn-ai-engineering"
+    },
     "learning": {
       "count": 25,
       "color": "#db2777",
@@ -815,10 +1495,20 @@
       "color": "#db2777",
       "description": "Etiqueta learning-atheros-ai"
     },
+    "lerobot": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta lerobot"
+    },
     "lessons": {
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta lessons"
+    },
+    "libropython-es": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta libropython-es"
     },
     "linux": {
       "count": 2,
@@ -830,15 +1520,55 @@
       "color": "#d97706",
       "description": "Etiqueta listening"
     },
+    "llama-cpp": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta llama-cpp"
+    },
+    "llm-internals": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta llm-internals"
+    },
+    "llm-scraper": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta llm-scraper"
+    },
+    "llmfeeder": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta llmfeeder"
+    },
     "locations": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta locations"
     },
+    "longcat-video": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta longcat-video"
+    },
+    "machine-learning-systems-design": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta machine-learning-systems-design"
+    },
     "macos": {
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta macos"
+    },
+    "macos-on-vmware": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta macos-on-vmware"
+    },
+    "magazine-sebastianraschka-com": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta magazine-sebastianraschka-com"
     },
     "magic-link-pitfalls": {
       "count": 1,
@@ -865,25 +1595,55 @@
       "color": "#db2777",
       "description": "Etiqueta marko"
     },
+    "math-hws-edu": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta math-hws-edu"
+    },
     "mathematics-for-ml": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta mathematics-for-ml"
+    },
+    "maths-cs-ai-compendium": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta maths-cs-ai-compendium"
     },
     "matt-pocock-skills": {
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta matt-pocock-skills"
     },
-    "medusa": {
+    "mattsheehan-substack-com": {
       "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta mattsheehan-substack-com"
+    },
+    "medusa": {
+      "count": 2,
       "color": "#ea580c",
       "description": "Etiqueta medusa"
+    },
+    "memory-forge-rs": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta memory-forge-rs"
+    },
+    "memos": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta memos"
     },
     "mentorship": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta mentorship"
+    },
+    "mercury": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta mercury"
     },
     "mern": {
       "count": 1,
@@ -910,6 +1670,16 @@
       "color": "#7c3aed",
       "description": "Etiqueta microsoft-ai-training"
     },
+    "minisim-app": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta minisim-app"
+    },
+    "mirofish": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta mirofish"
+    },
     "mit-6-042-math-cs": {
       "count": 1,
       "color": "#7c3aed",
@@ -919,6 +1689,21 @@
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta ml"
+    },
+    "ml-course-notes": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta ml-course-notes"
+    },
+    "mljobsearch2025": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta mljobsearch2025"
+    },
+    "mltut-com": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta mltut-com"
     },
     "mobile": {
       "count": 1,
@@ -940,6 +1725,11 @@
       "color": "#2563eb",
       "description": "Etiqueta mooc"
     },
+    "moss-tts-nano": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta moss-tts-nano"
+    },
     "movies": {
       "count": 1,
       "color": "#ea580c",
@@ -959,6 +1749,11 @@
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta n8n"
+    },
+    "nango": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta nango"
     },
     "neon": {
       "count": 1,
@@ -980,6 +1775,11 @@
       "color": "#dc2626",
       "description": "Etiqueta node"
     },
+    "noir": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta noir"
+    },
     "nomore403": {
       "count": 1,
       "color": "#65a30d",
@@ -1000,10 +1800,30 @@
       "color": "#65a30d",
       "description": "Etiqueta nvidia-ai-training"
     },
+    "nytimes-com": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta nytimes-com"
+    },
     "nyu-ml-foundation": {
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta nyu-ml-foundation"
+    },
+    "oasis": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta oasis"
+    },
+    "obsidian-memory-for-ai": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta obsidian-memory-for-ai"
+    },
+    "ocw-mit-edu": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta ocw-mit-edu"
     },
     "official": {
       "count": 10,
@@ -1015,10 +1835,55 @@
       "color": "#ea580c",
       "description": "Etiqueta offline"
     },
+    "omnivoice-studio": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta omnivoice-studio"
+    },
     "open-source": {
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
+    },
+    "openclaude-portable": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta openclaude-portable"
+    },
+    "opencluely": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta opencluely"
+    },
+    "opencti": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta opencti"
+    },
+    "openevolve": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta openevolve"
+    },
+    "openpencil": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta openpencil"
+    },
+    "opensourceprojects-dev": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta opensourceprojects-dev"
+    },
+    "openstock": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta openstock"
+    },
+    "openui": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta openui"
     },
     "oracle": {
       "count": 1,
@@ -1030,6 +1895,26 @@
       "color": "#65a30d",
       "description": "Etiqueta oscp"
     },
+    "osint-stuff-tool-collection": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta osint-stuff-tool-collection"
+    },
+    "overlapnet": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta overlapnet"
+    },
+    "pake": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta pake"
+    },
+    "papers-ssrn-com": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta papers-ssrn-com"
+    },
     "payload": {
       "count": 1,
       "color": "#4f46e5",
@@ -1039,6 +1924,11 @@
       "count": 2,
       "color": "#7c3aed",
       "description": "Etiqueta pdf"
+    },
+    "pentest-ai-agents": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta pentest-ai-agents"
     },
     "pentesting": {
       "count": 2,
@@ -1055,10 +1945,35 @@
       "color": "#db2777",
       "description": "Etiqueta phrases"
     },
+    "pixal3d": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta pixal3d"
+    },
+    "plaid": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta plaid"
+    },
     "platform": {
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta platform"
+    },
+    "pm-skills": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta pm-skills"
+    },
+    "pmc-ncbi-nlm-nih-gov": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta pmc-ncbi-nlm-nih-gov"
+    },
+    "portfolios": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta portfolios"
     },
     "postgres": {
       "count": 1,
@@ -1090,6 +2005,11 @@
       "color": "#4f46e5",
       "description": "Etiqueta privacy"
     },
+    "pro-workflow": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta pro-workflow"
+    },
     "problems": {
       "count": 1,
       "color": "#db2777",
@@ -1106,7 +2026,7 @@
       "description": "Etiqueta programming"
     },
     "programming-courses": {
-      "count": 40,
+      "count": 277,
       "color": "#7c3aed",
       "description": "Etiqueta programming-courses"
     },
@@ -1114,6 +2034,16 @@
       "count": 3,
       "color": "#7c3aed",
       "description": "Etiqueta projects"
+    },
+    "prompt-eng-interactive-tutorial": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta prompt-eng-interactive-tutorial"
+    },
+    "prompt-engineering-jumpstart": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta prompt-engineering-jumpstart"
     },
     "pronunciation": {
       "count": 1,
@@ -1125,10 +2055,25 @@
       "color": "#7c3aed",
       "description": "Etiqueta python"
     },
+    "python-training": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta python-training"
+    },
+    "qgis-gee-data-catalogs-plugin": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta qgis-gee-data-catalogs-plugin"
+    },
     "quality": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta quality"
+    },
+    "quarkdown": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta quarkdown"
     },
     "quick": {
       "count": 1,
@@ -1150,6 +2095,16 @@
       "color": "#2563eb",
       "description": "Etiqueta reading"
     },
+    "reconftw": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta reconftw"
+    },
+    "recursos-github": {
+      "count": 208,
+      "color": "#7c3aed",
+      "description": "Etiqueta recursos-github"
+    },
     "refactoring": {
       "count": 1,
       "color": "#dc2626",
@@ -1169,6 +2124,21 @@
       "count": 2,
       "color": "#ea580c",
       "description": "Etiqueta registrar"
+    },
+    "removerized": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta removerized"
+    },
+    "repodir-com": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta repodir-com"
+    },
+    "repomix": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta repomix"
     },
     "reporting": {
       "count": 1,
@@ -1190,6 +2160,16 @@
       "color": "#2563eb",
       "description": "Etiqueta roadmap"
     },
+    "rob501": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta rob501"
+    },
+    "rosencharts-com": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta rosencharts-com"
+    },
     "rust": {
       "count": 2,
       "color": "#dc2626",
@@ -1199,6 +2179,16 @@
       "count": 2,
       "color": "#7c3aed",
       "description": "Etiqueta saas"
+    },
+    "sana": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta sana"
+    },
+    "scenema-audio": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta scenema-audio"
     },
     "scrimba": {
       "count": 1,
@@ -1240,10 +2230,35 @@
       "color": "#d97706",
       "description": "Etiqueta server"
     },
+    "share-google": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta share-google"
+    },
+    "share-google-2": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta share-google-2"
+    },
+    "shimmy": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta shimmy"
+    },
+    "skills": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta skills"
+    },
     "sklearn-pipeline-doc": {
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta sklearn-pipeline-doc"
+    },
+    "sniffnet": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta sniffnet"
     },
     "solidity": {
       "count": 1,
@@ -1264,6 +2279,11 @@
       "count": 2,
       "color": "#2563eb",
       "description": "Etiqueta speaking"
+    },
+    "spiderfoot": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta spiderfoot"
     },
     "sql": {
       "count": 8,
@@ -1289,6 +2309,21 @@
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta sso"
+    },
+    "stanford-edu": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta stanford-edu"
+    },
+    "store-steampowered-com": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta store-steampowered-com"
+    },
+    "streambert": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta streambert"
     },
     "study": {
       "count": 1,
@@ -1320,6 +2355,16 @@
       "color": "#dc2626",
       "description": "Etiqueta summary"
     },
+    "supertonic-py": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta supertonic-py"
+    },
+    "sutskever-30-implementations": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta sutskever-30-implementations"
+    },
     "swift": {
       "count": 1,
       "color": "#65a30d",
@@ -1350,6 +2395,51 @@
       "color": "#7c3aed",
       "description": "Etiqueta technology"
     },
+    "techspot-com": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta techspot-com"
+    },
+    "text-to-cad": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta text-to-cad"
+    },
+    "the-book-of-secret-knowledge": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta the-book-of-secret-knowledge"
+    },
+    "theharvester": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta theharvester"
+    },
+    "thinkpython2-spanish": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta thinkpython2-spanish"
+    },
+    "three-js": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta three-js"
+    },
+    "three-js-tutorials": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta three-js-tutorials"
+    },
+    "threejs-journey-com": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta threejs-journey-com"
+    },
+    "threejs-tutorial-esp-readthedocs-io": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta threejs-tutorial-esp-readthedocs-io"
+    },
     "tld": {
       "count": 1,
       "color": "#7c3aed",
@@ -1360,10 +2450,30 @@
       "color": "#2563eb",
       "description": "Etiqueta tokens"
     },
+    "trademaster": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta trademaster"
+    },
     "training": {
       "count": 3,
       "color": "#2563eb",
       "description": "Etiqueta training"
+    },
+    "transformer-circuits-pub": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta transformer-circuits-pub"
+    },
+    "tugarecon": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta tugarecon"
+    },
+    "turbovec": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta turbovec"
     },
     "tutorial": {
       "count": 13,
@@ -1380,6 +2490,16 @@
       "color": "#059669",
       "description": "Etiqueta typescript"
     },
+    "udlbook-github-io": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta udlbook-github-io"
+    },
+    "unbrowse": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta unbrowse"
+    },
     "university": {
       "count": 1,
       "color": "#dc2626",
@@ -1390,20 +2510,40 @@
       "color": "#059669",
       "description": "Etiqueta unlimited"
     },
+    "vane": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta vane"
+    },
     "various": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta various"
+    },
+    "velobase-harness": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta velobase-harness"
     },
     "vercel": {
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta vercel"
     },
+    "vercel-com": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta vercel-com"
+    },
     "video": {
       "count": 3,
       "color": "#0891b2",
       "description": "Etiqueta video"
+    },
+    "video-use": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta video-use"
     },
     "visible-to-llms": {
       "count": 1,
@@ -1415,10 +2555,20 @@
       "color": "#dc2626",
       "description": "Etiqueta visualizer"
     },
+    "vmlx": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta vmlx"
+    },
     "vocabulary": {
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta vocabulary"
+    },
+    "voicelive-api-salescoach": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta voicelive-api-salescoach"
     },
     "vpn": {
       "count": 5,
@@ -1439,6 +2589,11 @@
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta vuejs"
+    },
+    "wan2-2": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta wan2-2"
     },
     "warp": {
       "count": 1,
@@ -1465,6 +2620,16 @@
       "color": "#dc2626",
       "description": "Etiqueta writing"
     },
+    "xalgorix": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta xalgorix"
+    },
+    "xcode-build-optimization-agent-skill": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta xcode-build-optimization-agent-skill"
+    },
     "y-dns-domain": {
       "count": 1,
       "color": "#db2777",
@@ -1484,6 +2649,26 @@
       "count": 30,
       "color": "#059669",
       "description": "Etiqueta youtube"
+    },
+    "youtube-video": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta youtube-video"
+    },
+    "youtube-video-2": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta youtube-video-2"
+    },
+    "youtube-video-3": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta youtube-video-3"
+    },
+    "yt-short-clipper": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta yt-short-clipper"
     }
   },
   "searchIndex": {
@@ -1533,6 +2718,29 @@
           "concepts",
           "github",
           "learning"
+        ]
+      },
+      {
+        "id": "500-ai-machine-learning-deep-learning-computer-vision-nlp-projects-with-code",
+        "slug": "500-ai-machine-learning-deep-learning-computer-vision-nlp-projects-with-code",
+        "terms": [
+          "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+          "500-ai-machine-learning-deep-learning-computer-vision-nlp-projects-with-code",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "9router",
+        "slug": "9router",
+        "terms": [
+          "9router",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -1604,6 +2812,18 @@
         ]
       },
       {
+        "id": "acontext",
+        "slug": "acontext",
+        "terms": [
+          "Acontext",
+          "acontext",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "adriansaenz",
         "slug": "adriansaenz",
         "terms": [
@@ -1634,6 +2854,120 @@
         ]
       },
       {
+        "id": "agent-memory-techniques",
+        "slug": "agent-memory-techniques",
+        "terms": [
+          "Agent_Memory_Techniques",
+          "agent-memory-techniques",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "agent-governance-toolkit",
+        "slug": "agent-governance-toolkit",
+        "terms": [
+          "agent-governance-toolkit",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "agenthub",
+        "slug": "agenthub",
+        "terms": [
+          "AgentHub",
+          "agenthub",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "agents-from-scratch",
+        "slug": "agents-from-scratch",
+        "terms": [
+          "agents-from-scratch",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "ai-agents-from-scratch",
+        "slug": "ai-agents-from-scratch",
+        "terms": [
+          "ai-agents-from-scratch",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "ai-engineering-from-scratch",
+        "slug": "ai-engineering-from-scratch",
+        "terms": [
+          "ai-engineering-from-scratch",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "ai-engineering-roadmap",
+        "slug": "ai-engineering-roadmap",
+        "terms": [
+          "Ai-Engineering-Roadmap",
+          "ai-engineering-roadmap",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "ai-inference-resources",
+        "slug": "ai-inference-resources",
+        "terms": [
+          "ai-inference-resources",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "ai-infra-from-zero-to-hero",
+        "slug": "ai-infra-from-zero-to-hero",
+        "terms": [
+          "AI-Infra-from-Zero-to-Hero",
+          "ai-infra-from-zero-to-hero",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "ai-system-design-guide",
+        "slug": "ai-system-design-guide",
+        "terms": [
+          "ai-system-design-guide",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "aiengineeringfromscratch",
         "slug": "aiengineeringfromscratch",
         "terms": [
@@ -1643,6 +2977,17 @@
           "programming-courses",
           "educacion-aprendizaje",
           "cursos-programacion"
+        ]
+      },
+      {
+        "id": "alexandria-audiobook",
+        "slug": "alexandria-audiobook",
+        "terms": [
+          "alexandria-audiobook",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -1674,6 +3019,17 @@
         ]
       },
       {
+        "id": "annas-archive-gl",
+        "slug": "annas-archive-gl",
+        "terms": [
+          "annas-archive-gl",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "anthropic-ai-coding",
         "slug": "anthropic-ai-coding",
         "terms": [
@@ -1686,6 +3042,40 @@
           "research",
           "coding",
           "study"
+        ]
+      },
+      {
+        "id": "anthropic-cybersecurity-skills",
+        "slug": "anthropic-cybersecurity-skills",
+        "terms": [
+          "Anthropic-Cybersecurity-Skills",
+          "anthropic-cybersecurity-skills",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "app-codecrafters-io",
+        "slug": "app-codecrafters-io",
+        "terms": [
+          "app-codecrafters-io",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "app-diagrams-net",
+        "slug": "app-diagrams-net",
+        "terms": [
+          "app-diagrams-net",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -1717,6 +3107,17 @@
         ]
       },
       {
+        "id": "arkon",
+        "slug": "arkon",
+        "terms": [
+          "arkon",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "arquitectura-frontend-2026",
         "slug": "arquitectura-frontend-2026",
         "terms": [
@@ -1727,6 +3128,270 @@
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
           "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "art-openpipe-ai",
+        "slug": "art-openpipe-ai",
+        "terms": [
+          "art-openpipe-ai",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "arxiv-org",
+        "slug": "arxiv-org",
+        "terms": [
+          "arxiv-org",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-10",
+        "slug": "arxiv-org-10",
+        "terms": [
+          "arxiv-org-10",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-11",
+        "slug": "arxiv-org-11",
+        "terms": [
+          "arxiv-org-11",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-12",
+        "slug": "arxiv-org-12",
+        "terms": [
+          "arxiv-org-12",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-13",
+        "slug": "arxiv-org-13",
+        "terms": [
+          "arxiv-org-13",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-14",
+        "slug": "arxiv-org-14",
+        "terms": [
+          "arxiv-org-14",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-15",
+        "slug": "arxiv-org-15",
+        "terms": [
+          "arxiv-org-15",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-16",
+        "slug": "arxiv-org-16",
+        "terms": [
+          "arxiv-org-16",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-17",
+        "slug": "arxiv-org-17",
+        "terms": [
+          "arxiv-org-17",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-18",
+        "slug": "arxiv-org-18",
+        "terms": [
+          "arxiv-org-18",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-19",
+        "slug": "arxiv-org-19",
+        "terms": [
+          "arxiv-org-19",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-2",
+        "slug": "arxiv-org-2",
+        "terms": [
+          "arxiv-org-2",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-20",
+        "slug": "arxiv-org-20",
+        "terms": [
+          "arxiv-org-20",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-21",
+        "slug": "arxiv-org-21",
+        "terms": [
+          "arxiv-org-21",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-22",
+        "slug": "arxiv-org-22",
+        "terms": [
+          "arxiv-org-22",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-23",
+        "slug": "arxiv-org-23",
+        "terms": [
+          "arxiv-org-23",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-3",
+        "slug": "arxiv-org-3",
+        "terms": [
+          "arxiv-org-3",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-4",
+        "slug": "arxiv-org-4",
+        "terms": [
+          "arxiv-org-4",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-5",
+        "slug": "arxiv-org-5",
+        "terms": [
+          "arxiv-org-5",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-6",
+        "slug": "arxiv-org-6",
+        "terms": [
+          "arxiv-org-6",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-7",
+        "slug": "arxiv-org-7",
+        "terms": [
+          "arxiv-org-7",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-8",
+        "slug": "arxiv-org-8",
+        "terms": [
+          "arxiv-org-8",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "arxiv-org-9",
+        "slug": "arxiv-org-9",
+        "terms": [
+          "arxiv-org-9",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
         ]
       },
       {
@@ -1742,6 +3407,142 @@
           "authentication",
           "saas",
           "identity"
+        ]
+      },
+      {
+        "id": "autocontext",
+        "slug": "autocontext",
+        "terms": [
+          "autocontext",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "automate-faceless-content",
+        "slug": "automate-faceless-content",
+        "terms": [
+          "automate-faceless-content",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome",
+        "slug": "awesome",
+        "terms": [
+          "awesome-",
+          "awesome",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-agent-skills-for-empirical-research",
+        "slug": "awesome-agent-skills-for-empirical-research",
+        "terms": [
+          "Awesome-Agent-Skills-for-Empirical-Research",
+          "awesome-agent-skills-for-empirical-research",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-codex-skills",
+        "slug": "awesome-codex-skills",
+        "terms": [
+          "awesome-codex-skills",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-cuda-books",
+        "slug": "awesome-cuda-books",
+        "terms": [
+          "awesome-cuda-books",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-gpt-image-2",
+        "slug": "awesome-gpt-image-2",
+        "terms": [
+          "awesome-gpt-image-2",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-hacking",
+        "slug": "awesome-hacking",
+        "terms": [
+          "Awesome-Hacking",
+          "awesome-hacking",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-llm-quantitative-trading-papers",
+        "slug": "awesome-llm-quantitative-trading-papers",
+        "terms": [
+          "Awesome-LLM-Quantitative-Trading-Papers",
+          "awesome-llm-quantitative-trading-papers",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-system-design-resources",
+        "slug": "awesome-system-design-resources",
+        "terms": [
+          "awesome-system-design-resources",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-vibe-coding-resources",
+        "slug": "awesome-vibe-coding-resources",
+        "terms": [
+          "awesome-vibe-coding-resources",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-vla-wam",
+        "slug": "awesome-vla-wam",
+        "terms": [
+          "awesome-vla-wam",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -1803,6 +3604,17 @@
         ]
       },
       {
+        "id": "beelzebub",
+        "slug": "beelzebub",
+        "terms": [
+          "beelzebub",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "better-auth",
         "slug": "better-auth",
         "terms": [
@@ -1818,6 +3630,50 @@
         ]
       },
       {
+        "id": "biorxiv-org",
+        "slug": "biorxiv-org",
+        "terms": [
+          "biorxiv-org",
+          "Paper y recurso de investigación",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "blender",
+        "slug": "blender",
+        "terms": [
+          "blender",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "blog-cloudflare-com",
+        "slug": "blog-cloudflare-com",
+        "terms": [
+          "blog-cloudflare-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "book-to-skill",
+        "slug": "book-to-skill",
+        "terms": [
+          "book-to-skill",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "box-shadow-vs-outline",
         "slug": "box-shadow-vs-outline",
         "terms": [
@@ -1828,6 +3684,28 @@
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
           "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "build-your-own-x",
+        "slug": "build-your-own-x",
+        "terms": [
+          "build-your-own-x",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "build-your-own-x-vercel-app",
+        "slug": "build-your-own-x-vercel-app",
+        "terms": [
+          "build-your-own-x-vercel-app",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -1891,6 +3769,17 @@
         ]
       },
       {
+        "id": "cc-desktop-switch",
+        "slug": "cc-desktop-switch",
+        "terms": [
+          "cc-desktop-switch",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "cdbrw-cloudflareono",
         "slug": "cdbrw-cloudflareono",
         "terms": [
@@ -1903,6 +3792,18 @@
           "channel",
           "tutorials",
           "cloudflare"
+        ]
+      },
+      {
+        "id": "cf-hero",
+        "slug": "cf-hero",
+        "terms": [
+          "CF-Hero",
+          "cf-hero",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -1936,6 +3837,73 @@
         ]
       },
       {
+        "id": "claude-bughunter",
+        "slug": "claude-bughunter",
+        "terms": [
+          "Claude-BugHunter",
+          "claude-bughunter",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "claude-code-from-scratch",
+        "slug": "claude-code-from-scratch",
+        "terms": [
+          "claude-code-from-scratch",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "claude-code-local",
+        "slug": "claude-code-local",
+        "terms": [
+          "claude-code-local",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "claude-code-router",
+        "slug": "claude-code-router",
+        "terms": [
+          "claude-code-router",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "claude-smart",
+        "slug": "claude-smart",
+        "terms": [
+          "claude-smart",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "clawless",
+        "slug": "clawless",
+        "terms": [
+          "clawless",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "clean-code-javascript",
         "slug": "clean-code-javascript",
         "terms": [
@@ -1963,6 +3931,28 @@
           "clean-code",
           "github",
           "style"
+        ]
+      },
+      {
+        "id": "clearml",
+        "slug": "clearml",
+        "terms": [
+          "clearml",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "cli",
+        "slug": "cli",
+        "terms": [
+          "cli",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2038,6 +4028,28 @@
         ]
       },
       {
+        "id": "code-review-skill",
+        "slug": "code-review-skill",
+        "terms": [
+          "code-review-skill",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "codebuff",
+        "slug": "codebuff",
+        "terms": [
+          "codebuff",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "codecademy-ai",
         "slug": "codecademy-ai",
         "terms": [
@@ -2047,6 +4059,17 @@
           "programming-courses",
           "educacion-aprendizaje",
           "cursos-programacion"
+        ]
+      },
+      {
+        "id": "codegraph",
+        "slug": "codegraph",
+        "terms": [
+          "codegraph",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2062,6 +4085,29 @@
           "mongodb",
           "nextjs",
           "tutorials"
+        ]
+      },
+      {
+        "id": "codex-shim",
+        "slug": "codex-shim",
+        "terms": [
+          "codex-shim",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "codexsaver",
+        "slug": "codexsaver",
+        "terms": [
+          "CodexSaver",
+          "codexsaver",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2125,6 +4171,18 @@
         ]
       },
       {
+        "id": "compose-examples",
+        "slug": "compose-examples",
+        "terms": [
+          "Compose-Examples",
+          "compose-examples",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "constructable-stylesheets",
         "slug": "constructable-stylesheets",
         "terms": [
@@ -2135,6 +4193,17 @@
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
           "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "copilot-billing-preview",
+        "slug": "copilot-billing-preview",
+        "terms": [
+          "copilot-billing-preview",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2153,6 +4222,39 @@
         ]
       },
       {
+        "id": "coursera-org",
+        "slug": "coursera-org",
+        "terms": [
+          "coursera-org",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "creatoreconomy-so",
+        "slug": "creatoreconomy-so",
+        "terms": [
+          "creatoreconomy-so",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "crowdsec",
+        "slug": "crowdsec",
+        "terms": [
+          "crowdsec",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "cryptozombies",
         "slug": "cryptozombies",
         "terms": [
@@ -2165,6 +4267,18 @@
           "solidity",
           "game",
           "learning"
+        ]
+      },
+      {
+        "id": "cs249r-book",
+        "slug": "cs249r-book",
+        "terms": [
+          "cs249r_book",
+          "cs249r-book",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2262,6 +4376,84 @@
         ]
       },
       {
+        "id": "daedalos",
+        "slug": "daedalos",
+        "terms": [
+          "daedalOS",
+          "daedalos",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "dan-bjorkegren-com",
+        "slug": "dan-bjorkegren-com",
+        "terms": [
+          "dan-bjorkegren-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "dataset-viewer",
+        "slug": "dataset-viewer",
+        "terms": [
+          "dataset-viewer",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "david-portfolio",
+        "slug": "david-portfolio",
+        "terms": [
+          "david-portfolio",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "dbx",
+        "slug": "dbx",
+        "terms": [
+          "dbx",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "deepmind-google",
+        "slug": "deepmind-google",
+        "terms": [
+          "deepmind-google",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "dergipark-org-tr",
+        "slug": "dergipark-org-tr",
+        "terms": [
+          "dergipark-org-tr",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "design-patterns-for-humans",
         "slug": "design-patterns-for-humans",
         "terms": [
@@ -2274,6 +4466,28 @@
           "architecture",
           "github",
           "learning"
+        ]
+      },
+      {
+        "id": "design-extract",
+        "slug": "design-extract",
+        "terms": [
+          "design-extract",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "dev-to",
+        "slug": "dev-to",
+        "terms": [
+          "dev-to",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2307,6 +4521,17 @@
         ]
       },
       {
+        "id": "developer-chrome-com",
+        "slug": "developer-chrome-com",
+        "terms": [
+          "developer-chrome-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "devtalles",
         "slug": "devtalles",
         "terms": [
@@ -2318,6 +4543,17 @@
           "spanish",
           "courses",
           "quality"
+        ]
+      },
+      {
+        "id": "dft-rosmine-ai",
+        "slug": "dft-rosmine-ai",
+        "terms": [
+          "dft-rosmine-ai",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2336,6 +4572,17 @@
         ]
       },
       {
+        "id": "discoverthreejs-com",
+        "slug": "discoverthreejs-com",
+        "terms": [
+          "discoverthreejs-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "django",
         "slug": "django",
         "terms": [
@@ -2347,6 +4594,28 @@
           "python",
           "framework",
           "web"
+        ]
+      },
+      {
+        "id": "dmls-book",
+        "slug": "dmls-book",
+        "terms": [
+          "dmls-book",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "docs-github-com",
+        "slug": "docs-github-com",
+        "terms": [
+          "docs-github-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2362,6 +4631,39 @@
         ]
       },
       {
+        "id": "drive-google-com",
+        "slug": "drive-google-com",
+        "terms": [
+          "drive-google-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "drive-google-com-2",
+        "slug": "drive-google-com-2",
+        "terms": [
+          "drive-google-com-2",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "drive-google-com-3",
+        "slug": "drive-google-com-3",
+        "terms": [
+          "drive-google-com-3",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "duckdns",
         "slug": "duckdns",
         "terms": [
@@ -2374,6 +4676,17 @@
           "dynamic",
           "free",
           "subdomain"
+        ]
+      },
+      {
+        "id": "ejemplo-harness-subagentes",
+        "slug": "ejemplo-harness-subagentes",
+        "terms": [
+          "ejemplo-harness-subagentes",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2404,6 +4717,17 @@
           "markdown",
           "reference",
           "writing"
+        ]
+      },
+      {
+        "id": "engram",
+        "slug": "engram",
+        "terms": [
+          "engram",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2467,6 +4791,28 @@
         ]
       },
       {
+        "id": "expressjs-com",
+        "slug": "expressjs-com",
+        "terms": [
+          "expressjs-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "fast-ai",
+        "slug": "fast-ai",
+        "terms": [
+          "fast-ai",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "faztcode",
         "slug": "faztcode",
         "terms": [
@@ -2493,6 +4839,17 @@
           "python",
           "microframework",
           "web"
+        ]
+      },
+      {
+        "id": "free-llm-api-keys",
+        "slug": "free-llm-api-keys",
+        "terms": [
+          "free-llm-api-keys",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2523,6 +4880,17 @@
           "free",
           "certification",
           "interactive"
+        ]
+      },
+      {
+        "id": "freellmapi",
+        "slug": "freellmapi",
+        "terms": [
+          "freellmapi",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2585,6 +4953,50 @@
         ]
       },
       {
+        "id": "gemini-google",
+        "slug": "gemini-google",
+        "terms": [
+          "gemini-google",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "geminispark-ai",
+        "slug": "geminispark-ai",
+        "terms": [
+          "geminispark-ai",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "genai-llm-ml-case-studies",
+        "slug": "genai-llm-ml-case-studies",
+        "terms": [
+          "genai-llm-ml-case-studies",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "gentle-ai",
+        "slug": "gentle-ai",
+        "terms": [
+          "gentle-ai",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "gentleman-programming",
         "slug": "gentleman-programming",
         "terms": [
@@ -2600,6 +5012,18 @@
         ]
       },
       {
+        "id": "gentleman-dots",
+        "slug": "gentleman-dots",
+        "terms": [
+          "Gentleman.Dots",
+          "gentleman-dots",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "ghostscan",
         "slug": "ghostscan",
         "terms": [
@@ -2610,6 +5034,17 @@
           "security-auth",
           "y-seguridad-vpn",
           "seguridad-auth"
+        ]
+      },
+      {
+        "id": "goal-ledger",
+        "slug": "goal-ledger",
+        "terms": [
+          "goal-ledger",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2697,6 +5132,50 @@
         ]
       },
       {
+        "id": "guia-entrevistas-de-programacion",
+        "slug": "guia-entrevistas-de-programacion",
+        "terms": [
+          "guia-entrevistas-de-programacion",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "h4cker",
+        "slug": "h4cker",
+        "terms": [
+          "h4cker",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "hackingtool-plugin",
+        "slug": "hackingtool-plugin",
+        "terms": [
+          "hackingtool-plugin",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "halupedia-com",
+        "slug": "halupedia-com",
+        "terms": [
+          "halupedia-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "hashnode",
         "slug": "hashnode",
         "terms": [
@@ -2749,6 +5228,17 @@
         ]
       },
       {
+        "id": "hf-co",
+        "slug": "hf-co",
+        "terms": [
+          "hf-co",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "hide-me",
         "slug": "hide-me",
         "terms": [
@@ -2776,6 +5266,40 @@
           "linux",
           "server",
           "hardening"
+        ]
+      },
+      {
+        "id": "how-to-build-a-coding-agent",
+        "slug": "how-to-build-a-coding-agent",
+        "terms": [
+          "how-to-build-a-coding-agent",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "how-to-train-your-gpt",
+        "slug": "how-to-train-your-gpt",
+        "terms": [
+          "how-to-train-your-gpt",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "hrm-text",
+        "slug": "hrm-text",
+        "terms": [
+          "HRM-Text",
+          "hrm-text",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2809,6 +5333,62 @@
         ]
       },
       {
+        "id": "huawei-com",
+        "slug": "huawei-com",
+        "terms": [
+          "huawei-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "huggingface-co",
+        "slug": "huggingface-co",
+        "terms": [
+          "huggingface-co",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "huggingface-co-2",
+        "slug": "huggingface-co-2",
+        "terms": [
+          "huggingface-co-2",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "huggingface-co-3",
+        "slug": "huggingface-co-3",
+        "terms": [
+          "huggingface-co-3",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "hy-mt2",
+        "slug": "hy-mt2",
+        "terms": [
+          "Hy-MT2",
+          "hy-mt2",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "ia-en-15min-yt",
         "slug": "ia-en-15min-yt",
         "terms": [
@@ -2837,6 +5417,17 @@
         ]
       },
       {
+        "id": "ickma2311-github-io",
+        "slug": "ickma2311-github-io",
+        "terms": [
+          "ickma2311-github-io",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "interface-details",
         "slug": "interface-details",
         "terms": [
@@ -2847,6 +5438,29 @@
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
           "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "j-a-r-v-i-s",
+        "slug": "j-a-r-v-i-s",
+        "terms": [
+          "J.A.R.V.I.S",
+          "j-a-r-v-i-s",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "jailbreak-autoresearch",
+        "slug": "jailbreak-autoresearch",
+        "terms": [
+          "jailbreak-autoresearch",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -2908,6 +5522,39 @@
         ]
       },
       {
+        "id": "job-applications",
+        "slug": "job-applications",
+        "terms": [
+          "job-applications",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "jobapplication",
+        "slug": "jobapplication",
+        "terms": [
+          "jobapplication",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "jscamp",
+        "slug": "jscamp",
+        "terms": [
+          "jscamp",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "kaggle-learn",
         "slug": "kaggle-learn",
         "terms": [
@@ -2920,6 +5567,51 @@
           "python",
           "data",
           "ml"
+        ]
+      },
+      {
+        "id": "kaligpt",
+        "slug": "kaligpt",
+        "terms": [
+          "KaliGPT",
+          "kaligpt",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "kinso-ai",
+        "slug": "kinso-ai",
+        "terms": [
+          "kinso-ai",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "knowhere",
+        "slug": "knowhere",
+        "terms": [
+          "knowhere",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "knowledge-work-plugins",
+        "slug": "knowledge-work-plugins",
+        "terms": [
+          "knowledge-work-plugins",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3073,6 +5765,17 @@
         ]
       },
       {
+        "id": "learn-ai-engineering",
+        "slug": "learn-ai-engineering",
+        "terms": [
+          "learn-ai-engineering",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "learning-atheros-ai",
         "slug": "learning-atheros-ai",
         "terms": [
@@ -3130,6 +5833,28 @@
         ]
       },
       {
+        "id": "lerobot",
+        "slug": "lerobot",
+        "terms": [
+          "lerobot",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "libropython-es",
+        "slug": "libropython-es",
+        "terms": [
+          "libropython-es",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "librosgratis-dev",
         "slug": "librosgratis-dev",
         "terms": [
@@ -3172,6 +5897,97 @@
           "sysadmin",
           "tutorial",
           "interactive"
+        ]
+      },
+      {
+        "id": "llama-cpp",
+        "slug": "llama-cpp",
+        "terms": [
+          "llama-cpp",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "llm-internals",
+        "slug": "llm-internals",
+        "terms": [
+          "llm-internals",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "llm-scraper",
+        "slug": "llm-scraper",
+        "terms": [
+          "llm-scraper",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "llmfeeder",
+        "slug": "llmfeeder",
+        "terms": [
+          "LLMFeeder",
+          "llmfeeder",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "longcat-video",
+        "slug": "longcat-video",
+        "terms": [
+          "LongCat-Video",
+          "longcat-video",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "machine-learning-systems-design",
+        "slug": "machine-learning-systems-design",
+        "terms": [
+          "machine-learning-systems-design",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "macos-on-vmware",
+        "slug": "macos-on-vmware",
+        "terms": [
+          "macOS-on-VMWare",
+          "macos-on-vmware",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "magazine-sebastianraschka-com",
+        "slug": "magazine-sebastianraschka-com",
+        "terms": [
+          "magazine-sebastianraschka-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3233,6 +6049,17 @@
         ]
       },
       {
+        "id": "math-hws-edu",
+        "slug": "math-hws-edu",
+        "terms": [
+          "math-hws-edu",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "mathematics-for-ml",
         "slug": "mathematics-for-ml",
         "terms": [
@@ -3246,6 +6073,17 @@
         ]
       },
       {
+        "id": "maths-cs-ai-compendium",
+        "slug": "maths-cs-ai-compendium",
+        "terms": [
+          "maths-cs-ai-compendium",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "matt-pocock-skills",
         "slug": "matt-pocock-skills",
         "terms": [
@@ -3256,6 +6094,17 @@
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
           "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "mattsheehan-substack-com",
+        "slug": "mattsheehan-substack-com",
+        "terms": [
+          "mattsheehan-substack-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3278,11 +6127,55 @@
         "slug": "medusa",
         "terms": [
           "medusa",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "medusa",
+        "slug": "medusa",
+        "terms": [
+          "medusa",
           "Suite ofensiva para pentesting",
           "security-vpn",
           "security-auth",
           "seguridad-vpn",
           "seguridad-auth"
+        ]
+      },
+      {
+        "id": "memory-forge-rs",
+        "slug": "memory-forge-rs",
+        "terms": [
+          "memory-forge-rs",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "memos",
+        "slug": "memos",
+        "terms": [
+          "memos",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "mercury",
+        "slug": "mercury",
+        "terms": [
+          "mercury",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3327,6 +6220,29 @@
         ]
       },
       {
+        "id": "minisim-app",
+        "slug": "minisim-app",
+        "terms": [
+          "minisim-app",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "mirofish",
+        "slug": "mirofish",
+        "terms": [
+          "MiroFish",
+          "mirofish",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "mit-6-042-math-cs",
         "slug": "mit-6-042-math-cs",
         "terms": [
@@ -3337,6 +6253,53 @@
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
           "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "ml-course-notes",
+        "slug": "ml-course-notes",
+        "terms": [
+          "ML-Course-Notes",
+          "ml-course-notes",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "mljobsearch2025",
+        "slug": "mljobsearch2025",
+        "terms": [
+          "MLJobSearch2025",
+          "mljobsearch2025",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "mltut-com",
+        "slug": "mltut-com",
+        "terms": [
+          "mltut-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "moss-tts-nano",
+        "slug": "moss-tts-nano",
+        "terms": [
+          "MOSS-TTS-Nano",
+          "moss-tts-nano",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3415,16 +6378,14 @@
         ]
       },
       {
-        "id": "neon-database",
-        "slug": "neon-database",
+        "id": "nango",
+        "slug": "nango",
         "terms": [
-          "Neon Database",
-          "neon-database",
-          "Neon postgres",
+          "nango",
+          "Repositorio GitHub",
           "education-learning",
           "programming-courses",
-          "y-s-educacia-n-aprendizaje",
-          "canales-youtube"
+          "recursos-github"
         ]
       },
       {
@@ -3440,6 +6401,19 @@
           "neon",
           "postgresql",
           "database"
+        ]
+      },
+      {
+        "id": "neon-database",
+        "slug": "neon-database",
+        "terms": [
+          "Neon Database",
+          "neon-database",
+          "Neon postgres",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "canales-youtube"
         ]
       },
       {
@@ -3548,6 +6522,17 @@
         ]
       },
       {
+        "id": "noir",
+        "slug": "noir",
+        "terms": [
+          "noir",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "nomore403",
         "slug": "nomore403",
         "terms": [
@@ -3586,6 +6571,17 @@
         ]
       },
       {
+        "id": "nytimes-com",
+        "slug": "nytimes-com",
+        "terms": [
+          "nytimes-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "nyu-ml-foundation",
         "slug": "nyu-ml-foundation",
         "terms": [
@@ -3596,6 +6592,178 @@
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
           "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "oasis",
+        "slug": "oasis",
+        "terms": [
+          "oasis",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "obsidian-memory-for-ai",
+        "slug": "obsidian-memory-for-ai",
+        "terms": [
+          "obsidian-memory-for-ai",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "ocw-mit-edu",
+        "slug": "ocw-mit-edu",
+        "terms": [
+          "ocw-mit-edu",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "omnivoice-studio",
+        "slug": "omnivoice-studio",
+        "terms": [
+          "OmniVoice-Studio",
+          "omnivoice-studio",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "openclaude-portable",
+        "slug": "openclaude-portable",
+        "terms": [
+          "OpenClaude-Portable",
+          "openclaude-portable",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "opencluely",
+        "slug": "opencluely",
+        "terms": [
+          "OpenCluely",
+          "opencluely",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "opencti",
+        "slug": "opencti",
+        "terms": [
+          "opencti",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "openevolve",
+        "slug": "openevolve",
+        "terms": [
+          "openevolve",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "openpencil",
+        "slug": "openpencil",
+        "terms": [
+          "openpencil",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "opensourceprojects-dev",
+        "slug": "opensourceprojects-dev",
+        "terms": [
+          "opensourceprojects-dev",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "openstock",
+        "slug": "openstock",
+        "terms": [
+          "OpenStock",
+          "openstock",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "openui",
+        "slug": "openui",
+        "terms": [
+          "openui",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "osint-stuff-tool-collection",
+        "slug": "osint-stuff-tool-collection",
+        "terms": [
+          "osint_stuff_tool_collection",
+          "osint-stuff-tool-collection",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "overlapnet",
+        "slug": "overlapnet",
+        "terms": [
+          "OverlapNet",
+          "overlapnet",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "pake",
+        "slug": "pake",
+        "terms": [
+          "Pake",
+          "pake",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3611,6 +6779,17 @@
           "enterprise",
           "course",
           "free"
+        ]
+      },
+      {
+        "id": "papers-ssrn-com",
+        "slug": "papers-ssrn-com",
+        "terms": [
+          "papers-ssrn-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3644,6 +6823,17 @@
         ]
       },
       {
+        "id": "pentest-ai-agents",
+        "slug": "pentest-ai-agents",
+        "terms": [
+          "pentest-ai-agents",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "phprightway",
         "slug": "php-the-right-way",
         "terms": [
@@ -3659,6 +6849,29 @@
         ]
       },
       {
+        "id": "pixal3d",
+        "slug": "pixal3d",
+        "terms": [
+          "Pixal3D",
+          "pixal3d",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "plaid",
+        "slug": "plaid",
+        "terms": [
+          "plaid",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "playphrase-me",
         "slug": "playphrase-me",
         "terms": [
@@ -3671,6 +6884,39 @@
           "movies",
           "phrases",
           "practice"
+        ]
+      },
+      {
+        "id": "pm-skills",
+        "slug": "pm-skills",
+        "terms": [
+          "pm-skills",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "pmc-ncbi-nlm-nih-gov",
+        "slug": "pmc-ncbi-nlm-nih-gov",
+        "terms": [
+          "pmc-ncbi-nlm-nih-gov",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "portfolios",
+        "slug": "portfolios",
+        "terms": [
+          "portfolios",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3704,6 +6950,17 @@
         ]
       },
       {
+        "id": "pro-workflow",
+        "slug": "pro-workflow",
+        "terms": [
+          "pro-workflow",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "project-based-learning",
         "slug": "project-based-learning",
         "terms": [
@@ -3716,6 +6973,29 @@
           "learning",
           "practical",
           "github"
+        ]
+      },
+      {
+        "id": "prompt-eng-interactive-tutorial",
+        "slug": "prompt-eng-interactive-tutorial",
+        "terms": [
+          "prompt-eng-interactive-tutorial",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "prompt-engineering-jumpstart",
+        "slug": "prompt-engineering-jumpstart",
+        "terms": [
+          "Prompt-Engineering-Jumpstart",
+          "prompt-engineering-jumpstart",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3749,6 +7029,39 @@
         ]
       },
       {
+        "id": "python-training",
+        "slug": "python-training",
+        "terms": [
+          "python-training",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "qgis-gee-data-catalogs-plugin",
+        "slug": "qgis-gee-data-catalogs-plugin",
+        "terms": [
+          "qgis-gee-data-catalogs-plugin",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "quarkdown",
+        "slug": "quarkdown",
+        "terms": [
+          "quarkdown",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "raiola-n8n",
         "slug": "raiola-n8n",
         "terms": [
@@ -3761,6 +7074,17 @@
           "automation",
           "spanish",
           "course"
+        ]
+      },
+      {
+        "id": "reconftw",
+        "slug": "reconftw",
+        "terms": [
+          "reconftw",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3789,6 +7113,39 @@
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
           "cursos-programacia-n"
+        ]
+      },
+      {
+        "id": "removerized",
+        "slug": "removerized",
+        "terms": [
+          "removerized",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "repodir-com",
+        "slug": "repodir-com",
+        "terms": [
+          "repodir-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "repomix",
+        "slug": "repomix",
+        "terms": [
+          "repomix",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3822,6 +7179,28 @@
         ]
       },
       {
+        "id": "rob501",
+        "slug": "rob501",
+        "terms": [
+          "rob501",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "rosencharts-com",
+        "slug": "rosencharts-com",
+        "terms": [
+          "rosencharts-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "rust-lang",
         "slug": "rust-lang",
         "terms": [
@@ -3849,6 +7228,29 @@
           "microsoft",
           "course",
           "official"
+        ]
+      },
+      {
+        "id": "sana",
+        "slug": "sana",
+        "terms": [
+          "Sana",
+          "sana",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "scenema-audio",
+        "slug": "scenema-audio",
+        "terms": [
+          "scenema-audio",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3880,6 +7282,50 @@
         ]
       },
       {
+        "id": "share-google",
+        "slug": "share-google",
+        "terms": [
+          "share-google",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "share-google-2",
+        "slug": "share-google-2",
+        "terms": [
+          "share-google-2",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "shimmy",
+        "slug": "shimmy",
+        "terms": [
+          "shimmy",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "skills",
+        "slug": "skills",
+        "terms": [
+          "skills",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "sklearn-pipeline-doc",
         "slug": "sklearn-pipeline-doc",
         "terms": [
@@ -3890,6 +7336,28 @@
           "programming-courses",
           "educacion-aprendizaje",
           "cursos-programacion"
+        ]
+      },
+      {
+        "id": "sniffnet",
+        "slug": "sniffnet",
+        "terms": [
+          "sniffnet",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "spiderfoot",
+        "slug": "spiderfoot",
+        "terms": [
+          "spiderfoot",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -3959,8 +7427,10 @@
           "SQL, Postgres y SQL server",
           "education-learning",
           "programming-courses",
-          "y-s-educacia-n-aprendizaje",
-          "canales-youtube"
+          "youtube",
+          "sql",
+          "postgresql",
+          "sql-server"
         ]
       },
       {
@@ -3972,10 +7442,19 @@
           "SQL, Postgres y SQL server",
           "education-learning",
           "programming-courses",
-          "youtube",
-          "sql",
-          "postgresql",
-          "sql-server"
+          "y-s-educacia-n-aprendizaje",
+          "canales-youtube"
+        ]
+      },
+      {
+        "id": "stanford-edu",
+        "slug": "stanford-edu",
+        "terms": [
+          "stanford-edu",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
         ]
       },
       {
@@ -3991,6 +7470,50 @@
           "sql",
           "notepad",
           "learning"
+        ]
+      },
+      {
+        "id": "store-steampowered-com",
+        "slug": "store-steampowered-com",
+        "terms": [
+          "store-steampowered-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "streambert",
+        "slug": "streambert",
+        "terms": [
+          "streambert",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "supertonic-py",
+        "slug": "supertonic-py",
+        "terms": [
+          "supertonic-py",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "sutskever-30-implementations",
+        "slug": "sutskever-30-implementations",
+        "terms": [
+          "sutskever-30-implementations",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -4053,6 +7576,28 @@
         ]
       },
       {
+        "id": "techspot-com",
+        "slug": "techspot-com",
+        "terms": [
+          "techspot-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "text-to-cad",
+        "slug": "text-to-cad",
+        "terms": [
+          "text-to-cad",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "the-odin-project",
         "slug": "the-odin-project",
         "terms": [
@@ -4065,6 +7610,109 @@
           "fullstack",
           "english",
           "community"
+        ]
+      },
+      {
+        "id": "the-book-of-secret-knowledge",
+        "slug": "the-book-of-secret-knowledge",
+        "terms": [
+          "the-book-of-secret-knowledge",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "theharvester",
+        "slug": "theharvester",
+        "terms": [
+          "theHarvester",
+          "theharvester",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "thinkpython2-spanish",
+        "slug": "thinkpython2-spanish",
+        "terms": [
+          "ThinkPython2-spanish",
+          "thinkpython2-spanish",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "three-js-tutorials",
+        "slug": "three-js-tutorials",
+        "terms": [
+          "three-js-tutorials",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "three-js",
+        "slug": "three-js",
+        "terms": [
+          "three.js",
+          "three-js",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "threejs-journey-com",
+        "slug": "threejs-journey-com",
+        "terms": [
+          "threejs-journey-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "threejs-tutorial-esp-readthedocs-io",
+        "slug": "threejs-tutorial-esp-readthedocs-io",
+        "terms": [
+          "threejs-tutorial-esp-readthedocs-io",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "trademaster",
+        "slug": "trademaster",
+        "terms": [
+          "TradeMaster",
+          "trademaster",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "transformer-circuits-pub",
+        "slug": "transformer-circuits-pub",
+        "terms": [
+          "transformer-circuits-pub",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -4083,6 +7731,17 @@
         ]
       },
       {
+        "id": "tugarecon",
+        "slug": "tugarecon",
+        "terms": [
+          "tugarecon",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "tunnelbear",
         "slug": "tunnelbear",
         "terms": [
@@ -4095,6 +7754,17 @@
           "easy",
           "beginner",
           "500mb"
+        ]
+      },
+      {
+        "id": "turbovec",
+        "slug": "turbovec",
+        "terms": [
+          "turbovec",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -4128,6 +7798,51 @@
         ]
       },
       {
+        "id": "udlbook-github-io",
+        "slug": "udlbook-github-io",
+        "terms": [
+          "udlbook-github-io",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "unbrowse",
+        "slug": "unbrowse",
+        "terms": [
+          "unbrowse",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "vane",
+        "slug": "vane",
+        "terms": [
+          "Vane",
+          "vane",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "velobase-harness",
+        "slug": "velobase-harness",
+        "terms": [
+          "velobase-harness",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "vercel-domains",
         "slug": "vercel-domains",
         "terms": [
@@ -4143,6 +7858,28 @@
         ]
       },
       {
+        "id": "vercel-com",
+        "slug": "vercel-com",
+        "terms": [
+          "vercel-com",
+          "Recurso técnico",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "video-use",
+        "slug": "video-use",
+        "terms": [
+          "video-use",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "visible-to-llms",
         "slug": "visible-to-llms",
         "terms": [
@@ -4153,6 +7890,28 @@
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
           "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "vmlx",
+        "slug": "vmlx",
+        "terms": [
+          "vmlx",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "voicelive-api-salescoach",
+        "slug": "voicelive-api-salescoach",
+        "terms": [
+          "voicelive-api-salescoach",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -4183,6 +7942,18 @@
           "python",
           "education",
           "microsoft"
+        ]
+      },
+      {
+        "id": "wan2-2",
+        "slug": "wan2-2",
+        "terms": [
+          "Wan2.2",
+          "wan2-2",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -4244,6 +8015,29 @@
         ]
       },
       {
+        "id": "xalgorix",
+        "slug": "xalgorix",
+        "terms": [
+          "xalgorix",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "xcode-build-optimization-agent-skill",
+        "slug": "xcode-build-optimization-agent-skill",
+        "terms": [
+          "Xcode-Build-Optimization-Agent-Skill",
+          "xcode-build-optimization-agent-skill",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "you-don-t-know-js",
         "slug": "you-don-t-know-js",
         "terms": [
@@ -4256,6 +8050,50 @@
           "books",
           "github",
           "deep-dive"
+        ]
+      },
+      {
+        "id": "youtube-video",
+        "slug": "youtube-video",
+        "terms": [
+          "youtube-video",
+          "Video educativo IA",
+          "education-learning",
+          "programming-courses",
+          "canales-youtube"
+        ]
+      },
+      {
+        "id": "youtube-video-2",
+        "slug": "youtube-video-2",
+        "terms": [
+          "youtube-video-2",
+          "LangChain Official – Videos 2025 (lista",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "youtube-video-3",
+        "slug": "youtube-video-3",
+        "terms": [
+          "youtube-video-3",
+          "Stanford CS25 – Grabaciones sueltas de 2",
+          "education-learning",
+          "programming-courses",
+          "cursos-programacion"
+        ]
+      },
+      {
+        "id": "yt-short-clipper",
+        "slug": "yt-short-clipper",
+        "terms": [
+          "yt-short-clipper",
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       }
     ]
@@ -4299,6 +8137,6 @@
     "dataset": "dns_seguridad_educacion",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 190
+    "resourceCount": 427
   }
 }

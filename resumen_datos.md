@@ -253,6 +253,45 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 
 ---
 
+## ES - Actualizacion v11 (25/05/2026)
+
+- Fuente procesada: `preproyecto/links-insertados.md`.
+- Candidatos: 289 URLs.
+- Duplicados detectados y omitidos en insercion: 2.
+- Altas nuevas en `src/data`: 287.
+- Verificacion final: lote insertado sin ambiguedades (`ambiguous=0`).
+
+### Cambios aplicados v11
+
+| Dataset                   | Antes | Nuevos | Total |
+| ------------------------- | ----- | ------ | ----- |
+| `dns_seguridad_educacion` | 190   | +237   | 427   |
+| `pagos_game-dev_mobile`   | 43    | +50    | 93    |
+
+### Cobertura tecnica v11
+
+- Se actualizaron `*-rec.json` con recursos, `resourceCount` y `searchIndex`.
+- Se actualizaron `*-struc.json` con `tags`, `filters`, `searchIndex.entries` y `ui.resourceCount`.
+- Se actualizaron `nombre-links.json` con nombres unicos ordenados.
+- YouTube nuevo clasificado en `education-learning/programming-courses`.
+
+## EN - v11 Update (2026-05-25)
+
+- Processed source: `preproyecto/links-insertados.md`.
+- Candidates: 289 URLs.
+- Duplicates skipped for insertion: 2.
+- New inserts in `src/data`: 287.
+- Final validation: inserted batch completed with no ambiguities (`ambiguous=0`).
+
+### Technical coverage v11
+
+- Updated `*-rec.json` with resources, counters, and `searchIndex`.
+- Updated `*-struc.json` with `tags`, `filters`, `searchIndex.entries`, and `ui.resourceCount`.
+- Updated `nombre-links.json` with sorted unique names.
+- New YouTube entries mapped to `education-learning/programming-courses`.
+
+---
+
 ## LINKS
 
 <!-- markdownlint-disable MD060 -->
@@ -323,14 +362,18 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 | **Geodesics-in-Quantum-Gravity**                           | Geodesicas cuanticas en gravedad     | [arxiv.org/pdf/2510.0117](https://arxiv.org/pdf/2510.0117)                                                                                           |
 | **bioRxiv-preprint**                                       | Preprint cientifico en bioRxiv       | [biorxiv.org/content/10.110](https://www.biorxiv.org/content/10.110)                                                                                 |
 | **crawl4ai**                                               | Crawl y extraccion web para LLM      | [github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)                                                                               |
+| **youtube-video**                                          | Video educativo IA                   | [youtube.com/@BettaTech](https://www.youtube.com/@BettaTech)                                                                                         |
+| **youtube-video-2**                                        | LangChain Official videos 2025       | [youtube.com/results?q=LangChain+2025](https://www.youtube.com/results?search_query=LangChain+2025+tutorial)                                         |
+| **jobspy-2**                                               | Busqueda de empleo tecnico           | [github.com/jobspy/jobspy](https://github.com/jobspy/jobspy)                                                                                         |
 
 <!-- markdownlint-enable MD060 -->
 
 ## VERSIONS
 
-| _Version_ | **Fase**   | Descripcion ES                 | Descripcion EN               | Hora Madrid        |
-| --------- | ---------- | ------------------------------ | ---------------------------- | ------------------ |
-| _7_       | **Fase 4** | Insercion y sync de 35 enlaces | Inserted and synced 35 links | 23:07 - 14/05/2026 |
-| _8_       | **Fase 4** | Insercion y sync de 32 enlaces | Inserted and synced 32 links | 11:50 - 15/05/2026 |
-| _9_       | **Fase 4** | Insercion y sync de 44 enlaces | Inserted and synced 44 links | 18:20 - 18/05/2026 |
-| _10_      | **Fase 4** | Insercion y sync de 39 enlaces | Inserted and synced 39 links | 19:09 - 18/05/2026 |
+| _Version_ | **Fase**   | Descripcion ES                  | Descripcion EN                | Hora Madrid        |
+| --------- | ---------- | ------------------------------- | ----------------------------- | ------------------ |
+| _7_       | **Fase 4** | Insercion y sync de 35 enlaces  | Inserted and synced 35 links  | 23:07 - 14/05/2026 |
+| _8_       | **Fase 4** | Insercion y sync de 32 enlaces  | Inserted and synced 32 links  | 11:50 - 15/05/2026 |
+| _9_       | **Fase 4** | Insercion y sync de 44 enlaces  | Inserted and synced 44 links  | 18:20 - 18/05/2026 |
+| _10_      | **Fase 4** | Insercion y sync de 39 enlaces  | Inserted and synced 39 links  | 19:09 - 18/05/2026 |
+| _11_      | **Fase 4** | Insercion y sync de 287 enlaces | Inserted and synced 287 links | 17:52 - 25/05/2026 |
