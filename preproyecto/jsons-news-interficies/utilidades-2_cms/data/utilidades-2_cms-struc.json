@@ -70,6 +70,11 @@
       "color": "#d97706",
       "description": "Etiqueta cms"
     },
+    "codegraph-gh": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta codegraph-gh"
+    },
     "codepen": {
       "count": 1,
       "color": "#7c3aed",
@@ -94,6 +99,16 @@
       "count": 2,
       "color": "#d97706",
       "description": "Etiqueta content"
+    },
+    "crawl4ai": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta crawl4ai"
+    },
+    "crawlee-python-gh": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta crawlee-python-gh"
     },
     "css": {
       "count": 2,
@@ -136,7 +151,7 @@
       "description": "Etiqueta dev"
     },
     "dev-tools": {
-      "count": 8,
+      "count": 9,
       "color": "#0891b2",
       "description": "Etiqueta dev-tools"
     },
@@ -220,6 +235,11 @@
       "color": "#d97706",
       "description": "Etiqueta github"
     },
+    "gospider": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta gospider"
+    },
     "government": {
       "count": 1,
       "color": "#d97706",
@@ -245,15 +265,30 @@
       "color": "#7c3aed",
       "description": "Etiqueta hosting"
     },
+    "ia-para-desarrollo": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta ia-para-desarrollo"
+    },
     "ip": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta ip"
     },
+    "it-tools": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta it-tools"
+    },
     "javascript": {
       "count": 4,
       "color": "#ea580c",
       "description": "Etiqueta javascript"
+    },
+    "jsoncrack": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta jsoncrack"
     },
     "latex": {
       "count": 1,
@@ -269,6 +304,11 @@
       "count": 2,
       "color": "#7c3aed",
       "description": "Etiqueta list"
+    },
+    "llm-scraper-gh": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta llm-scraper-gh"
     },
     "logs": {
       "count": 1,
@@ -401,7 +441,7 @@
       "description": "Etiqueta seo"
     },
     "seo-scraping": {
-      "count": 4,
+      "count": 10,
       "color": "#65a30d",
       "description": "Etiqueta seo-scraping"
     },
@@ -491,7 +531,7 @@
       "description": "Etiqueta utilidades-herramientas"
     },
     "utilities": {
-      "count": 12,
+      "count": 19,
       "color": "#db2777",
       "description": "Etiqueta utilities"
     },
@@ -550,13 +590,23 @@
       "color": "#65a30d",
       "description": "Etiqueta y-cms-content"
     },
+    "y-desarrollo-ide": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta y-desarrollo-ide"
+    },
     "y-i-herramientas-dev": {
-      "count": 8,
+      "count": 9,
       "color": "#d97706",
       "description": "Etiqueta y-i-herramientas-dev"
     },
+    "y-seo-scraping": {
+      "count": 5,
+      "color": "#d97706",
+      "description": "Etiqueta y-seo-scraping"
+    },
     "y-utilidades-herramientas": {
-      "count": 8,
+      "count": 14,
       "color": "#db2777",
       "description": "Etiqueta y-utilidades-herramientas"
     }
@@ -712,6 +762,18 @@
         ]
       },
       {
+        "id": "codegraph-gh",
+        "slug": "codegraph-gh",
+        "terms": [
+          "codegraph-gh",
+          "Crawler y grafo de cÃ³digo",
+          "utilities",
+          "seo-scraping",
+          "y-utilidades-herramientas",
+          "y-seo-scraping"
+        ]
+      },
+      {
         "id": "contentful",
         "slug": "contentful",
         "terms": [
@@ -723,6 +785,30 @@
           "headless",
           "saas",
           "content"
+        ]
+      },
+      {
+        "id": "crawl4ai",
+        "slug": "crawl4ai",
+        "terms": [
+          "crawl4ai",
+          "Crawl y extracciÃ³n web para LLMs",
+          "utilities",
+          "seo-scraping",
+          "y-utilidades-herramientas",
+          "y-seo-scraping"
+        ]
+      },
+      {
+        "id": "crawlee-python-gh",
+        "slug": "crawlee-python-gh",
+        "terms": [
+          "crawlee-python-gh",
+          "Web scraping escalable con Python",
+          "utilities",
+          "seo-scraping",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -864,6 +950,18 @@
         ]
       },
       {
+        "id": "gospider",
+        "slug": "gospider",
+        "terms": [
+          "gospider",
+          "Repositorio GitHub",
+          "utilities",
+          "seo-scraping",
+          "y-utilidades-herramientas",
+          "y-seo-scraping"
+        ]
+      },
+      {
         "id": "graphite",
         "slug": "graphite",
         "terms": [
@@ -921,6 +1019,43 @@
           "guide",
           "tutorial",
           "spanish"
+        ]
+      },
+      {
+        "id": "it-tools",
+        "slug": "it-tools",
+        "terms": [
+          "it-tools",
+          "Repositorio GitHub",
+          "utilities",
+          "seo-scraping",
+          "y-utilidades-herramientas",
+          "y-seo-scraping"
+        ]
+      },
+      {
+        "id": "jsoncrack",
+        "slug": "jsoncrack",
+        "terms": [
+          "JsonCrack",
+          "jsoncrack",
+          "Visualizador JSON estructuras datos",
+          "utilities",
+          "dev-tools",
+          "y-utilidades-herramientas",
+          "y-i-herramientas-dev"
+        ]
+      },
+      {
+        "id": "llm-scraper-gh",
+        "slug": "llm-scraper-gh",
+        "terms": [
+          "llm-scraper-gh",
+          "Scraping web con LLM y Playwright",
+          "utilities",
+          "seo-scraping",
+          "y-utilidades-herramientas",
+          "y-seo-scraping"
         ]
       },
       {
@@ -1338,6 +1473,6 @@
     "dataset": "utilidades-2_cms",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 50
+    "resourceCount": 57
   }
 }

@@ -1,5 +1,10 @@
 {
   "tags": {
+    "1-ur7kns9v3viuyppp0dtgbkdd1jozupx": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta 1-ur7kns9v3viuyppp0dtgbkdd1jozupx"
+    },
     "4m": {
       "count": 1,
       "color": "#059669",
@@ -9,6 +14,11 @@
       "count": 4,
       "color": "#dc2626",
       "description": "Etiqueta ai"
+    },
+    "almacenamiento-archivos": {
+      "count": 3,
+      "color": "#db2777",
+      "description": "Etiqueta almacenamiento-archivos"
     },
     "api": {
       "count": 3,
@@ -101,7 +111,7 @@
       "description": "Etiqueta database"
     },
     "datos-falsos-fake-data": {
-      "count": 1,
+      "count": 2,
       "color": "#ea580c",
       "description": "Etiqueta datos-falsos-fake-data"
     },
@@ -149,6 +159,16 @@
       "count": 2,
       "color": "#2563eb",
       "description": "Etiqueta fast"
+    },
+    "files-sdk": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta files-sdk"
+    },
+    "files-sdk-dev": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta files-sdk-dev"
     },
     "flexible": {
       "count": 2,
@@ -366,7 +386,7 @@
       "description": "Etiqueta productividad"
     },
     "productivity": {
-      "count": 24,
+      "count": 28,
       "color": "#7c3aed",
       "description": "Etiqueta productivity"
     },
@@ -394,6 +414,11 @@
       "count": 3,
       "color": "#059669",
       "description": "Etiqueta random"
+    },
+    "randomuser-us": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta randomuser-us"
     },
     "reccloud": {
       "count": 1,
@@ -511,7 +536,7 @@
       "description": "Etiqueta utilidades-herramientas"
     },
     "utilities": {
-      "count": 7,
+      "count": 11,
       "color": "#db2777",
       "description": "Etiqueta utilities"
     },
@@ -571,7 +596,7 @@
       "description": "Etiqueta y-recursos-generales"
     },
     "y-utilidades-herramientas": {
-      "count": 6,
+      "count": 10,
       "color": "#db2777",
       "description": "Etiqueta y-utilidades-herramientas"
     }
@@ -610,6 +635,19 @@
       }
     ],
     "entries": [
+      {
+        "id": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+        "slug": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+        "terms": [
+          "1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
+          "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+          "Recurso tecnico",
+          "utilities",
+          "productivity",
+          "y-utilidades-herramientas",
+          "almacenamiento-archivos"
+        ]
+      },
       {
         "id": "airtable",
         "slug": "airtable",
@@ -781,6 +819,30 @@
           "library",
           "generator",
           "npm"
+        ]
+      },
+      {
+        "id": "files-sdk",
+        "slug": "files-sdk",
+        "terms": [
+          "files-sdk",
+          "Repositorio GitHub",
+          "utilities",
+          "productivity",
+          "y-utilidades-herramientas",
+          "almacenamiento-archivos"
+        ]
+      },
+      {
+        "id": "files-sdk-dev",
+        "slug": "files-sdk-dev",
+        "terms": [
+          "files-sdk-dev",
+          "Herramienta de desarrollo",
+          "utilities",
+          "productivity",
+          "y-utilidades-herramientas",
+          "almacenamiento-archivos"
         ]
       },
       {
@@ -1241,6 +1303,19 @@
         ]
       },
       {
+        "id": "randomuser-us",
+        "slug": "randomuser-us",
+        "terms": [
+          "RandomUser US",
+          "randomuser-us",
+          "Usuarios aleatorios SSN, direcciÃ³n, tel",
+          "utilities",
+          "productivity",
+          "y-utilidades-herramientas",
+          "datos-falsos-fake-data"
+        ]
+      },
+      {
         "id": "reccloud",
         "slug": "reccloud",
         "terms": [
@@ -1418,6 +1493,6 @@
     "dataset": "utilidades_1",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 53
+    "resourceCount": 57
   }
 }

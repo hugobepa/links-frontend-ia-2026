@@ -3,7 +3,7 @@
     "id": "utilities",
     "name": "Utilities",
     "slug": "utilities",
-    "resourceCount": 53,
+    "resourceCount": 57,
     "status": "active"
   },
   "subcategories": [
@@ -28,11 +28,46 @@
       "name": "Productivity",
       "slug": "productivity",
       "category": "utilities",
-      "resourceCount": 24,
+      "resourceCount": 28,
       "status": "active"
     }
   ],
   "resources": [
+    {
+      "id": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+      "name": "1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
+      "slug": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+      "description": "Recurso tecnico",
+      "url": "https://drive.google.com/drive/mobile/folders/1_UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "almacenamiento-archivos",
+        "1-ur7kns9v3viuyppp0dtgbkdd1jozupx"
+      ],
+      "searchIndex": [
+        "1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
+        "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+        "Recurso tecnico",
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "almacenamiento-archivos"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
     {
       "id": "airtable",
       "name": "Airtable",
@@ -465,6 +500,74 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "files-sdk",
+      "name": "files-sdk",
+      "slug": "files-sdk",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/haydenbleasel/files-sdk",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "almacenamiento-archivos",
+        "files-sdk"
+      ],
+      "searchIndex": [
+        "files-sdk",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "almacenamiento-archivos"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "files-sdk-dev",
+      "name": "files-sdk-dev",
+      "slug": "files-sdk-dev",
+      "description": "Herramienta de desarrollo",
+      "url": "https://files-sdk.dev",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "almacenamiento-archivos",
+        "files-sdk-dev"
+      ],
+      "searchIndex": [
+        "files-sdk-dev",
+        "Herramienta de desarrollo",
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "almacenamiento-archivos"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "fillerama",
@@ -1593,6 +1696,41 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "randomuser-us",
+      "name": "RandomUser US",
+      "slug": "randomuser-us",
+      "description": "Usuarios aleatorios SSN, direcciÃ³n, tel",
+      "url": "https://randomuser.me/?results=10&nat=us",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "datos-falsos-fake-data",
+        "randomuser-us"
+      ],
+      "searchIndex": [
+        "RandomUser US",
+        "randomuser-us",
+        "Usuarios aleatorios SSN, direcciÃ³n, tel",
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "datos-falsos-fake-data"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "reccloud",

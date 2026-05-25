@@ -4,7 +4,7 @@
       "id": "cloud",
       "name": "Cloud",
       "slug": "cloud",
-      "resourceCount": 12,
+      "resourceCount": 15,
       "status": "active"
     },
     {
@@ -18,7 +18,7 @@
       "id": "version-control",
       "name": "Version Control",
       "slug": "version-control",
-      "resourceCount": 51,
+      "resourceCount": 76,
       "status": "active"
     }
   ],
@@ -44,7 +44,7 @@
       "name": "Management",
       "slug": "management",
       "category": "cloud",
-      "resourceCount": 5,
+      "resourceCount": 8,
       "status": "active"
     },
     {
@@ -68,7 +68,7 @@
       "name": "Resources",
       "slug": "resources",
       "category": "version-control",
-      "resourceCount": 36,
+      "resourceCount": 61,
       "status": "active"
     }
   ],
@@ -109,6 +109,41 @@
       "noCreditCard": false
     },
     {
+      "id": "ai-self-replication",
+      "name": "AI-self-replication",
+      "slug": "ai-self-replication",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/palisaderesearch/AI-self-replication",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "ai-self-replication"
+      ],
+      "searchIndex": [
+        "AI-self-replication",
+        "ai-self-replication",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "alucek-gh",
       "name": "ALucek-gh",
       "slug": "alucek-gh",
@@ -140,6 +175,143 @@
       ],
       "limits": "unknown",
       "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "alumnium",
+      "name": "alumnium",
+      "slug": "alumnium",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/alumnium-hq/alumnium",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "alumnium"
+      ],
+      "searchIndex": [
+        "alumnium",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "anansi",
+      "name": "anansi",
+      "slug": "anansi",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/mdowis/anansi",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "anansi"
+      ],
+      "searchIndex": [
+        "anansi",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "anthropics",
+      "name": "anthropics",
+      "slug": "anthropics",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/anthropics",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "anthropics"
+      ],
+      "searchIndex": [
+        "anthropics",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "argus",
+      "name": "Argus",
+      "slug": "argus",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/jasonxtn/Argus",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "argus"
+      ],
+      "searchIndex": [
+        "Argus",
+        "argus",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -531,6 +703,108 @@
       "noCreditCard": false
     },
     {
+      "id": "awesome-ai-software-engineering",
+      "name": "awesome-ai-software-engineering",
+      "slug": "awesome-ai-software-engineering",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/dontriskit/awesome-ai-software-engineering",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "awesome-ai-software-engineering"
+      ],
+      "searchIndex": [
+        "awesome-ai-software-engineering",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-autonomous-vehicles",
+      "name": "awesome-autonomous-vehicles",
+      "slug": "awesome-autonomous-vehicles",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/manfreddiaz/awesome-autonomous-vehicles",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "awesome-autonomous-vehicles"
+      ],
+      "searchIndex": [
+        "awesome-autonomous-vehicles",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "awesome-deep-trading",
+      "name": "awesome-deep-trading",
+      "slug": "awesome-deep-trading",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/cbailes/awesome-deep-trading",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "awesome-deep-trading"
+      ],
+      "searchIndex": [
+        "awesome-deep-trading",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "aws-free-tier",
       "name": "AWS Free Tier",
       "slug": "aws-free-tier",
@@ -684,6 +958,75 @@
       "added": "2026-01-25",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "bug-bounty",
+      "name": "Bug-Bounty",
+      "slug": "bug-bounty",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/AnLoMinus/Bug-Bounty",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "bug-bounty"
+      ],
+      "searchIndex": [
+        "Bug-Bounty",
+        "bug-bounty",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "build-nvidia-com",
+      "name": "build-nvidia-com",
+      "slug": "build-nvidia-com",
+      "description": "Recurso de IA",
+      "url": "https://build.nvidia.com",
+      "status": "active",
+      "tags": [
+        "cloud",
+        "management",
+        "a-i-cloud-hosting",
+        "cloud-management",
+        "build-nvidia-com"
+      ],
+      "searchIndex": [
+        "build-nvidia-com",
+        "Recurso de IA",
+        "cloud",
+        "management",
+        "a-i-cloud-hosting",
+        "cloud-management"
+      ],
+      "category": "cloud",
+      "subcategory": "management",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "cloud-66",
@@ -840,6 +1183,41 @@
       "noCreditCard": true
     },
     {
+      "id": "dark-moon",
+      "name": "Dark-Moon",
+      "slug": "dark-moon",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ASCIT31/Dark-Moon",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "dark-moon"
+      ],
+      "searchIndex": [
+        "Dark-Moon",
+        "dark-moon",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "deepsource-good-first",
       "name": "DeepSourceCorp Good First",
       "slug": "deepsourcecorp-good-first",
@@ -987,6 +1365,40 @@
       "noCreditCard": true
     },
     {
+      "id": "fc434091c6414acc098f58b18a0146d8-js",
+      "name": "fc434091c6414acc098f58b18a0146d8-js",
+      "slug": "fc434091c6414acc098f58b18a0146d8-js",
+      "description": "Repositorio GitHub",
+      "url": "https://gist.github.com/devinschumacher/fc434091c6414acc098f58b18a0146d8.js",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "fc434091c6414acc098f58b18a0146d8-js"
+      ],
+      "searchIndex": [
+        "fc434091c6414acc098f58b18a0146d8-js",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "first-contributions",
       "name": "First Contributions",
       "slug": "first-contributions",
@@ -1128,6 +1540,76 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "freecodecamp",
+      "name": "freeCodeCamp",
+      "slug": "freecodecamp",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "freecodecamp"
+      ],
+      "searchIndex": [
+        "freeCodeCamp",
+        "freecodecamp",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "gencad",
+      "name": "GenCAD",
+      "slug": "gencad",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ferdous-alam/GenCAD",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "gencad"
+      ],
+      "searchIndex": [
+        "GenCAD",
+        "gencad",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -1572,6 +2054,40 @@
       "noCreditCard": true
     },
     {
+      "id": "globalthreatmap",
+      "name": "globalthreatmap",
+      "slug": "globalthreatmap",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/unicodeveloper/globalthreatmap",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "globalthreatmap"
+      ],
+      "searchIndex": [
+        "globalthreatmap",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "good-first-issues",
       "name": "Good First Issues",
       "slug": "good-first-issues",
@@ -1795,6 +2311,40 @@
       "noCreditCard": false
     },
     {
+      "id": "integrate-api-nvidia-com",
+      "name": "integrate-api-nvidia-com",
+      "slug": "integrate-api-nvidia-com",
+      "description": "Recurso de IA",
+      "url": "https://integrate.api.nvidia.com",
+      "status": "active",
+      "tags": [
+        "cloud",
+        "management",
+        "a-i-cloud-hosting",
+        "cloud-management",
+        "integrate-api-nvidia-com"
+      ],
+      "searchIndex": [
+        "integrate-api-nvidia-com",
+        "Recurso de IA",
+        "cloud",
+        "management",
+        "a-i-cloud-hosting",
+        "cloud-management"
+      ],
+      "category": "cloud",
+      "subcategory": "management",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "koyeb",
       "name": "Koyeb",
       "slug": "koyeb",
@@ -1863,6 +2413,41 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "leann",
+      "name": "LEANN",
+      "slug": "leann",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/yichuan-w/LEANN",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "leann"
+      ],
+      "searchIndex": [
+        "LEANN",
+        "leann",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -1939,6 +2524,74 @@
       "noCreditCard": false
     },
     {
+      "id": "live-trade-bench",
+      "name": "live-trade-bench",
+      "slug": "live-trade-bench",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ulab-uiuc/live-trade-bench",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "live-trade-bench"
+      ],
+      "searchIndex": [
+        "live-trade-bench",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "localstack",
+      "name": "localstack",
+      "slug": "localstack",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/localstack/localstack",
+      "status": "active",
+      "tags": [
+        "cloud",
+        "management",
+        "a-i-cloud-hosting",
+        "cloud-management",
+        "localstack"
+      ],
+      "searchIndex": [
+        "localstack",
+        "Repositorio GitHub",
+        "cloud",
+        "management",
+        "a-i-cloud-hosting",
+        "cloud-management"
+      ],
+      "category": "cloud",
+      "subcategory": "management",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "netlify",
       "name": "Netlify",
       "slug": "netlify",
@@ -1975,6 +2628,75 @@
       "added": "2026-01-20",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "onyx",
+      "name": "onyx",
+      "slug": "onyx",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "onyx"
+      ],
+      "searchIndex": [
+        "onyx",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "openguider",
+      "name": "OpenGuider",
+      "slug": "openguider",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/mo-tunn/OpenGuider",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "openguider"
+      ],
+      "searchIndex": [
+        "OpenGuider",
+        "openguider",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "oracle-cloud-free",
@@ -2086,6 +2808,40 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "playtranslate",
+      "name": "playtranslate",
+      "slug": "playtranslate",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/dominostars/playtranslate",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "playtranslate"
+      ],
+      "searchIndex": [
+        "playtranslate",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "portless",
@@ -2269,6 +3025,40 @@
       "noCreditCard": false
     },
     {
+      "id": "reactive-resume",
+      "name": "reactive-resume",
+      "slug": "reactive-resume",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/amruthpillai/reactive-resume",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "reactive-resume"
+      ],
+      "searchIndex": [
+        "reactive-resume",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "realworld",
       "name": "RealWorld",
       "slug": "realworld",
@@ -2379,6 +3169,41 @@
       "noCreditCard": true
     },
     {
+      "id": "rppg-toolbox",
+      "name": "rPPG-Toolbox",
+      "slug": "rppg-toolbox",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ubicomplab/rPPG-Toolbox",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "rppg-toolbox"
+      ],
+      "searchIndex": [
+        "rPPG-Toolbox",
+        "rppg-toolbox",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "scalr",
       "name": "Scalr",
       "slug": "scalr",
@@ -2417,6 +3242,110 @@
       "noCreditCard": false
     },
     {
+      "id": "shadowbroker",
+      "name": "Shadowbroker",
+      "slug": "shadowbroker",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "shadowbroker"
+      ],
+      "searchIndex": [
+        "Shadowbroker",
+        "shadowbroker",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "silicon-studio",
+      "name": "Silicon-Studio",
+      "slug": "silicon-studio",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/rileycleavenger/Silicon-Studio",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "silicon-studio"
+      ],
+      "searchIndex": [
+        "Silicon-Studio",
+        "silicon-studio",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "superserve",
+      "name": "superserve",
+      "slug": "superserve",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/superserve-ai/superserve",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "superserve"
+      ],
+      "searchIndex": [
+        "superserve",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "system-design-primer",
       "name": "System Design Primer",
       "slug": "system-design-primer",
@@ -2449,6 +3378,110 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "timecapsulellm",
+      "name": "TimeCapsuleLLM",
+      "slug": "timecapsulellm",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "timecapsulellm"
+      ],
+      "searchIndex": [
+        "TimeCapsuleLLM",
+        "timecapsulellm",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ubuntu-on-android",
+      "name": "ubuntu-on-android",
+      "slug": "ubuntu-on-android",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/RandomCoderOrg/ubuntu-on-android",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "ubuntu-on-android"
+      ],
+      "searchIndex": [
+        "ubuntu-on-android",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "v0-1-5",
+      "name": "v0.1.5",
+      "slug": "v0-1-5",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/walkinglabs/hands-on-modern-rl/releases/tag/v0.1.5",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "v0-1-5"
+      ],
+      "searchIndex": [
+        "v0.1.5",
+        "v0-1-5",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -2528,6 +3561,40 @@
       "noCreditCard": false
     },
     {
+      "id": "website-cloner",
+      "name": "website-cloner",
+      "slug": "website-cloner",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/samibajwaisking/website-cloner",
+      "status": "active",
+      "tags": [
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github",
+        "website-cloner"
+      ],
+      "searchIndex": [
+        "website-cloner",
+        "Repositorio GitHub",
+        "version-control",
+        "resources",
+        "y-control-de-versiones-repositorios",
+        "recursos-github"
+      ],
+      "category": "version-control",
+      "subcategory": "resources",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "zoho-free",
       "name": "Zoho Free",
       "slug": "zoho-free",
@@ -2564,117 +3631,6 @@
       ],
       "limits": "5 usuarios, 5GB/usuario, límites por app",
       "added": "2026-01-15",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "awesome-deep-trading",
-      "name": "awesome-deep-trading",
-      "slug": "awesome-deep-trading",
-      "description": "Coleccion deep learning trading",
-      "url": "https://github.com/cbailes/awesome-deep-trading",
-      "status": "active",
-      "tags": [
-        "apis-data",
-        "trading",
-        "deep-learning",
-        "github",
-        "awesome"
-      ],
-      "searchIndex": [
-        "awesome-deep-trading",
-        "awesome-deep-trading",
-        "Coleccion deep learning trading",
-        "version-control",
-        "resources",
-        "apis-data",
-        "trading",
-        "deep-learning",
-        "github",
-        "awesome"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "live-trade-bench",
-      "name": "live-trade-bench",
-      "slug": "live-trade-bench",
-      "description": "Benchmark para trading en vivo",
-      "url": "https://github.com/ulab-uiuc/live-trade-bench",
-      "status": "active",
-      "tags": [
-        "apis-data",
-        "benchmark",
-        "trading",
-        "github",
-        "research"
-      ],
-      "searchIndex": [
-        "live-trade-bench",
-        "live-trade-bench",
-        "Benchmark para trading en vivo",
-        "version-control",
-        "resources",
-        "apis-data",
-        "benchmark",
-        "trading",
-        "github",
-        "research"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "rppg-toolbox",
-      "name": "rPPG-Toolbox",
-      "slug": "rppg-toolbox",
-      "description": "Toolbox de señales rPPG",
-      "url": "https://github.com/ubicomplab/rPPG-Toolbox",
-      "status": "active",
-      "tags": [
-        "apis-data",
-        "toolbox",
-        "signals",
-        "github",
-        "research"
-      ],
-      "searchIndex": [
-        "rPPG-Toolbox",
-        "rppg-toolbox",
-        "Toolbox de señales rPPG",
-        "version-control",
-        "resources",
-        "apis-data",
-        "toolbox",
-        "signals",
-        "github",
-        "research"
-      ],
-      "category": "version-control",
-      "subcategory": "resources",
-      "pricing": "free",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-18",
       "verified": true,
       "noCreditCard": true
     }

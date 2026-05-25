@@ -30,6 +30,11 @@
       "color": "#2563eb",
       "description": "Etiqueta 4950"
     },
+    "500-ai-agents-projects": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta 500-ai-agents-projects"
+    },
     "9000": {
       "count": 1,
       "color": "#059669",
@@ -65,6 +70,11 @@
       "color": "#dc2626",
       "description": "Etiqueta advanced"
     },
+    "after-effects-advanced-techniques": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta after-effects-advanced-techniques"
+    },
     "agency-agents": {
       "count": 1,
       "color": "#db2777",
@@ -85,6 +95,11 @@
       "color": "#dc2626",
       "description": "Etiqueta agent-skills-gh"
     },
+    "agentic-ai-developer": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta agentic-ai-developer"
+    },
     "agentic-inbox": {
       "count": 1,
       "color": "#2563eb",
@@ -95,6 +110,16 @@
       "color": "#dc2626",
       "description": "Etiqueta agentmemory"
     },
+    "agents-towards-production": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta agents-towards-production"
+    },
+    "agi": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta agi"
+    },
     "ai": {
       "count": 4,
       "color": "#dc2626",
@@ -104,6 +129,16 @@
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta ai-agents-for-beginners"
+    },
+    "ai-factory": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta ai-factory"
+    },
+    "ai-for-beginners": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta ai-for-beginners"
     },
     "ai-knowledge-graph": {
       "count": 1,
@@ -141,14 +176,24 @@
       "description": "Etiqueta alternative"
     },
     "andrej-karpathy-skills": {
-      "count": 1,
+      "count": 2,
       "color": "#7c3aed",
       "description": "Etiqueta andrej-karpathy-skills"
+    },
+    "andrew-ng-ai-agents-build-2024-yt": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta andrew-ng-ai-agents-build-2024-yt"
     },
     "animata": {
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta animata"
+    },
+    "animate-text": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta animate-text"
     },
     "animated": {
       "count": 1,
@@ -170,6 +215,26 @@
       "color": "#65a30d",
       "description": "Etiqueta anthropic-academy"
     },
+    "anthropic-agents-guide": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta anthropic-agents-guide"
+    },
+    "anthropic-engineering": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta anthropic-engineering"
+    },
+    "anthropic-fellows-program": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta anthropic-fellows-program"
+    },
+    "anus": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta anus"
+    },
     "anycrawl": {
       "count": 1,
       "color": "#0891b2",
@@ -185,10 +250,20 @@
       "color": "#65a30d",
       "description": "Etiqueta apollo"
     },
+    "apple-style-animation-guide": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta apple-style-animation-guide"
+    },
     "appypie": {
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta appypie"
+    },
+    "art-doing-anything-yt": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta art-doing-anything-yt"
     },
     "asistentes-ia-generales": {
       "count": 3,
@@ -234,6 +309,11 @@
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta autoskills"
+    },
+    "autotts": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta autotts"
     },
     "avatar": {
       "count": 1,
@@ -365,6 +445,11 @@
       "color": "#dc2626",
       "description": "Etiqueta categories"
     },
+    "catvton": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta catvton"
+    },
     "caveman": {
       "count": 1,
       "color": "#059669",
@@ -379,6 +464,16 @@
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta cerebras-web"
+    },
+    "chalie": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta chalie"
+    },
+    "chandra": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta chandra"
     },
     "charcuterie": {
       "count": 1,
@@ -430,6 +525,11 @@
       "color": "#ea580c",
       "description": "Etiqueta claude-agents"
     },
+    "claude-code-agent-farm": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta claude-code-agent-farm"
+    },
     "claude-code-game-studios": {
       "count": 1,
       "color": "#65a30d",
@@ -439,6 +539,16 @@
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta claude-code-in-action"
+    },
+    "claude-design-complete-guide-yt": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta claude-design-complete-guide-yt"
+    },
+    "claude-quickstarts": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta claude-quickstarts"
     },
     "claurst": {
       "count": 1,
@@ -571,7 +681,7 @@
       "description": "Etiqueta component"
     },
     "components": {
-      "count": 16,
+      "count": 19,
       "color": "#7c3aed",
       "description": "Etiqueta components"
     },
@@ -725,6 +835,11 @@
       "color": "#dc2626",
       "description": "Etiqueta deep-eye"
     },
+    "deepdiagram-gh": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta deepdiagram-gh"
+    },
     "deeplearning-ai-build-with-andrew": {
       "count": 1,
       "color": "#65a30d",
@@ -736,7 +851,7 @@
       "description": "Etiqueta deepseek-ocr"
     },
     "deepseek-tui": {
-      "count": 1,
+      "count": 2,
       "color": "#059669",
       "description": "Etiqueta deepseek-tui"
     },
@@ -761,7 +876,7 @@
       "description": "Etiqueta descript"
     },
     "design": {
-      "count": 37,
+      "count": 45,
       "color": "#7c3aed",
       "description": "Etiqueta design"
     },
@@ -781,7 +896,7 @@
       "description": "Etiqueta developer"
     },
     "development": {
-      "count": 227,
+      "count": 311,
       "color": "#65a30d",
       "description": "Etiqueta development"
     },
@@ -794,6 +909,11 @@
       "count": 2,
       "color": "#2563eb",
       "description": "Etiqueta diagrams"
+    },
+    "digital-chip-design-agents-gh": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta digital-chip-design-agents-gh"
     },
     "direct": {
       "count": 1,
@@ -815,10 +935,20 @@
       "color": "#65a30d",
       "description": "Etiqueta docext"
     },
+    "dolphin": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta dolphin"
+    },
     "drag-drop": {
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta drag-drop"
+    },
+    "dramabox": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta dramabox"
     },
     "drawing": {
       "count": 1,
@@ -905,10 +1035,20 @@
       "color": "#7c3aed",
       "description": "Etiqueta error"
     },
+    "es": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta es"
+    },
     "established": {
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta established"
+    },
+    "everything-claude-code-gh": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta everything-claude-code-gh"
     },
     "examples": {
       "count": 1,
@@ -926,7 +1066,7 @@
       "description": "Etiqueta extension"
     },
     "extensions": {
-      "count": 4,
+      "count": 5,
       "color": "#7c3aed",
       "description": "Etiqueta extensions"
     },
@@ -940,6 +1080,11 @@
       "color": "#ea580c",
       "description": "Etiqueta fancy-frame-generator"
     },
+    "fara-7": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta fara-7"
+    },
     "fast": {
       "count": 3,
       "color": "#2563eb",
@@ -949,6 +1094,11 @@
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta filtered"
+    },
+    "financial-services": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta financial-services"
     },
     "finder": {
       "count": 1,
@@ -1010,15 +1160,25 @@
       "color": "#059669",
       "description": "Etiqueta forms"
     },
+    "fortnite-porting-gh": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta fortnite-porting-gh"
+    },
     "framework": {
       "count": 9,
       "color": "#7c3aed",
       "description": "Etiqueta framework"
     },
     "frameworks": {
-      "count": 1,
+      "count": 2,
       "color": "#ea580c",
       "description": "Etiqueta frameworks"
+    },
+    "frameworks-librera-as": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta frameworks-librera-as"
     },
     "free": {
       "count": 11,
@@ -1060,10 +1220,20 @@
       "color": "#0891b2",
       "description": "Etiqueta functional"
     },
+    "fusion": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta fusion"
+    },
     "gallery": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta gallery"
+    },
+    "gemini-api-gh": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta gemini-api-gh"
     },
     "gemini-api-prompts": {
       "count": 1,
@@ -1086,7 +1256,7 @@
       "description": "Etiqueta genallai"
     },
     "generacia-n-de-imagen-ia": {
-      "count": 1,
+      "count": 2,
       "color": "#0891b2",
       "description": "Etiqueta generacia-n-de-imagen-ia"
     },
@@ -1104,6 +1274,11 @@
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta genspark"
+    },
+    "getting-started": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta getting-started"
     },
     "gist": {
       "count": 2,
@@ -1235,6 +1410,11 @@
       "color": "#65a30d",
       "description": "Etiqueta gsap"
     },
+    "gstack": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta gstack"
+    },
     "hands-on-large-language-models": {
       "count": 1,
       "color": "#2563eb",
@@ -1271,7 +1451,7 @@
       "description": "Etiqueta hermes-agent-gh"
     },
     "herramientas-dev-varias": {
-      "count": 18,
+      "count": 19,
       "color": "#db2777",
       "description": "Etiqueta herramientas-dev-varias"
     },
@@ -1330,13 +1510,23 @@
       "color": "#059669",
       "description": "Etiqueta hugging-face-llm-course"
     },
+    "huggingface-agents-course": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta huggingface-agents-course"
+    },
+    "hyper-extract": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta hyper-extract"
+    },
     "hyperframes-docs": {
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta hyperframes-docs"
     },
     "ia-agentes-automatizacia-n": {
-      "count": 32,
+      "count": 55,
       "color": "#db2777",
       "description": "Etiqueta ia-agentes-automatizacia-n"
     },
@@ -1351,22 +1541,22 @@
       "description": "Etiqueta ia-china"
     },
     "ia-cursos-aprendizaje": {
-      "count": 49,
+      "count": 63,
       "color": "#db2777",
       "description": "Etiqueta ia-cursos-aprendizaje"
     },
     "ia-herramientas-especializadas": {
-      "count": 17,
+      "count": 24,
       "color": "#ea580c",
       "description": "Etiqueta ia-herramientas-especializadas"
     },
     "ia-para-desarrollo": {
-      "count": 8,
+      "count": 39,
       "color": "#059669",
       "description": "Etiqueta ia-para-desarrollo"
     },
     "ia-video-audio": {
-      "count": 23,
+      "count": 27,
       "color": "#65a30d",
       "description": "Etiqueta ia-video-audio"
     },
@@ -1376,7 +1566,7 @@
       "description": "Etiqueta icons"
     },
     "ide": {
-      "count": 32,
+      "count": 36,
       "color": "#4f46e5",
       "description": "Etiqueta ide"
     },
@@ -1386,7 +1576,7 @@
       "description": "Etiqueta ide-editores"
     },
     "ide-extensions-tools": {
-      "count": 4,
+      "count": 5,
       "color": "#059669",
       "description": "Etiqueta ide-extensions-tools"
     },
@@ -1416,12 +1606,12 @@
       "description": "Etiqueta infinite-monitor"
     },
     "inspiracia-n-disea-o-ui-ux": {
-      "count": 6,
+      "count": 11,
       "color": "#dc2626",
       "description": "Etiqueta inspiracia-n-disea-o-ui-ux"
     },
     "inspiration": {
-      "count": 18,
+      "count": 23,
       "color": "#2563eb",
       "description": "Etiqueta inspiration"
     },
@@ -1434,6 +1624,11 @@
       "count": 2,
       "color": "#7c3aed",
       "description": "Etiqueta interaction"
+    },
+    "interaction-models": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta interaction-models"
     },
     "interactive": {
       "count": 1,
@@ -1454,6 +1649,11 @@
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta itf"
+    },
+    "jadx-mcp-server": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta jadx-mcp-server"
     },
     "javascript": {
       "count": 4,
@@ -1490,10 +1690,20 @@
       "color": "#65a30d",
       "description": "Etiqueta kaggle-5-day-agents"
     },
+    "kaggle-whitepaper-agent": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta kaggle-whitepaper-agent"
+    },
     "kill": {
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta kill"
+    },
+    "kronos": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta kronos"
     },
     "landing": {
       "count": 1,
@@ -1504,6 +1714,11 @@
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta langchain"
+    },
+    "lap": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta lap"
     },
     "largest": {
       "count": 1,
@@ -1556,7 +1771,7 @@
       "description": "Etiqueta librechat"
     },
     "librera-as-ui-componentes": {
-      "count": 7,
+      "count": 10,
       "color": "#059669",
       "description": "Etiqueta librera-as-ui-componentes"
     },
@@ -1564,6 +1779,11 @@
       "count": 2,
       "color": "#7c3aed",
       "description": "Etiqueta licenses"
+    },
+    "lightclaw-gh": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta lightclaw-gh"
     },
     "lightweight": {
       "count": 6,
@@ -1580,6 +1800,21 @@
       "color": "#ea580c",
       "description": "Etiqueta lists"
     },
+    "llm-course": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta llm-course"
+    },
+    "llm-engineer-toolkit": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta llm-engineer-toolkit"
+    },
+    "llm-engineering": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta llm-engineering"
+    },
     "llmfit": {
       "count": 1,
       "color": "#db2777",
@@ -1589,6 +1824,11 @@
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta llms-from-scratch"
+    },
+    "llms-from-scratch-alt-gh": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta llms-from-scratch-alt-gh"
     },
     "login": {
       "count": 1,
@@ -1614,6 +1854,11 @@
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta luma-labs"
+    },
+    "made-with-ml": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta made-with-ml"
     },
     "magicloops": {
       "count": 1,
@@ -1650,20 +1895,45 @@
       "color": "#dc2626",
       "description": "Etiqueta marketing"
     },
+    "mars-gh": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta mars-gh"
+    },
     "material": {
       "count": 2,
       "color": "#65a30d",
       "description": "Etiqueta material"
+    },
+    "material-3-skill": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta material-3-skill"
+    },
+    "mcp-toolbox": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta mcp-toolbox"
     },
     "mempalace": {
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta mempalace"
     },
+    "mercury-agent": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta mercury-agent"
+    },
     "merleau": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta merleau"
+    },
+    "metaclaw-gh": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta metaclaw-gh"
     },
     "metrics": {
       "count": 1,
@@ -1690,6 +1960,11 @@
       "color": "#65a30d",
       "description": "Etiqueta microsoft-mcp"
     },
+    "mini-browser": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta mini-browser"
+    },
     "minimalist": {
       "count": 3,
       "color": "#ea580c",
@@ -1704,6 +1979,11 @@
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta mlcourse-ai"
+    },
+    "mlfinlab-gh": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta mlfinlab-gh"
     },
     "mobile": {
       "count": 3,
@@ -1875,6 +2155,11 @@
       "color": "#4f46e5",
       "description": "Etiqueta open-codesign-repo"
     },
+    "open-design-gh": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta open-design-gh"
+    },
     "open-llm-vtuber": {
       "count": 1,
       "color": "#d97706",
@@ -1889,6 +2174,11 @@
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta open-webui"
+    },
+    "openai-agents-docs": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta openai-agents-docs"
     },
     "openclaw": {
       "count": 1,
@@ -1914,6 +2204,11 @@
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta openrouter-rankings"
+    },
+    "openskills-gh": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta openskills-gh"
     },
     "openspec": {
       "count": 1,
@@ -1945,6 +2240,11 @@
       "color": "#059669",
       "description": "Etiqueta packages"
     },
+    "paddlepaddle": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta paddlepaddle"
+    },
     "page": {
       "count": 1,
       "color": "#d97706",
@@ -1969,6 +2269,16 @@
       "count": 2,
       "color": "#4f46e5",
       "description": "Etiqueta palettes"
+    },
+    "paperclip": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta paperclip"
+    },
+    "paperetl-gh": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta paperetl-gh"
     },
     "patterns": {
       "count": 5,
@@ -2030,10 +2340,20 @@
       "color": "#4f46e5",
       "description": "Etiqueta plantillas-templates"
     },
+    "playwright-computer-use-gh": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta playwright-computer-use-gh"
+    },
     "plugin": {
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta plugin"
+    },
+    "pm-claude-skills": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta pm-claude-skills"
     },
     "pollo-ai": {
       "count": 1,
@@ -2065,6 +2385,11 @@
       "color": "#65a30d",
       "description": "Etiqueta premium"
     },
+    "presenton": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta presenton"
+    },
     "primitives": {
       "count": 1,
       "color": "#2563eb",
@@ -2090,6 +2415,11 @@
       "color": "#ea580c",
       "description": "Etiqueta progressive"
     },
+    "project-ideas-resources-gh": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta project-ideas-resources-gh"
+    },
     "projects": {
       "count": 1,
       "color": "#7c3aed",
@@ -2099,6 +2429,16 @@
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta prometheus-euniai"
+    },
+    "prompt-engineering-guide": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta prompt-engineering-guide"
+    },
+    "prompt-master": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta prompt-master"
     },
     "prompt-packs": {
       "count": 1,
@@ -2134,6 +2474,11 @@
       "count": 2,
       "color": "#db2777",
       "description": "Etiqueta proxy"
+    },
+    "ps5-linux-loader-gh": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta ps5-linux-loader-gh"
     },
     "python": {
       "count": 1,
@@ -2215,6 +2560,11 @@
       "color": "#ea580c",
       "description": "Etiqueta reclip"
     },
+    "redplanet-core-gh": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta redplanet-core-gh"
+    },
     "redux": {
       "count": 1,
       "color": "#dc2626",
@@ -2275,10 +2625,20 @@
       "color": "#65a30d",
       "description": "Etiqueta responsively-app"
     },
+    "rl-course-materials-gh": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta rl-course-materials-gh"
+    },
     "rocket": {
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta rocket"
+    },
+    "rowboat-gh": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta rowboat-gh"
     },
     "schema": {
       "count": 1,
@@ -2440,6 +2800,11 @@
       "color": "#d97706",
       "description": "Etiqueta stagehand"
     },
+    "stanford-cs-229-machine-learning": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta stanford-cs-229-machine-learning"
+    },
     "starter": {
       "count": 1,
       "color": "#d97706",
@@ -2490,10 +2855,25 @@
       "color": "#059669",
       "description": "Etiqueta superpowers"
     },
+    "supertonic": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta supertonic"
+    },
     "surfsense": {
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta surfsense"
+    },
+    "surya": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta surya"
+    },
+    "sutskever-30-implementations-gh": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta sutskever-30-implementations-gh"
     },
     "svg": {
       "count": 8,
@@ -2524,6 +2904,16 @@
       "count": 20,
       "color": "#2563eb",
       "description": "Etiqueta tailwind"
+    },
+    "taskie": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta taskie"
+    },
+    "template-string-converter": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta template-string-converter"
     },
     "templates": {
       "count": 11,
@@ -2581,14 +2971,24 @@
       "description": "Etiqueta toolbar"
     },
     "tools": {
-      "count": 199,
+      "count": 277,
       "color": "#059669",
       "description": "Etiqueta tools"
+    },
+    "tracer": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta tracer"
     },
     "tradingview-charts": {
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta tradingview-charts"
+    },
+    "train-llm-from-scratch-gh": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta train-llm-from-scratch-gh"
     },
     "transformers-js-v4": {
       "count": 1,
@@ -2600,10 +3000,20 @@
       "color": "#d97706",
       "description": "Etiqueta tripled-ui"
     },
+    "trykimu-videoeditor-gh": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta trykimu-videoeditor-gh"
+    },
     "tts-audio-suite": {
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta tts-audio-suite"
+    },
+    "turboquant-plus-gh": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta turboquant-plus-gh"
     },
     "tutoriales-css": {
       "count": 4,
@@ -2740,6 +3150,16 @@
       "color": "#2563eb",
       "description": "Etiqueta verdent"
     },
+    "versecrafter": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta versecrafter"
+    },
+    "vibe-coding-cn": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta vibe-coding-cn"
+    },
     "vidstudio": {
       "count": 1,
       "color": "#65a30d",
@@ -2779,6 +3199,11 @@
       "count": 2,
       "color": "#059669",
       "description": "Etiqueta virtualization"
+    },
+    "visomaster-fusion": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta visomaster-fusion"
     },
     "visual": {
       "count": 1,
@@ -2860,23 +3285,38 @@
       "color": "#0891b2",
       "description": "Etiqueta whiteboard"
     },
+    "winpodx": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta winpodx"
+    },
     "wiretext": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta wiretext"
+    },
+    "wm": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta wm"
     },
     "wrapper": {
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta wrapper"
     },
+    "www-beautiful-ai": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta www-beautiful-ai"
+    },
     "y-colecciones-prompts": {
-      "count": 11,
+      "count": 12,
       "color": "#ea580c",
       "description": "Etiqueta y-colecciones-prompts"
     },
     "y-desarrollo-ide": {
-      "count": 180,
+      "count": 264,
       "color": "#4f46e5",
       "description": "Etiqueta y-desarrollo-ide"
     },
@@ -2890,8 +3330,13 @@
       "color": "#7c3aed",
       "description": "Etiqueta y-y-ia-china"
     },
+    "yue-gh": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta yue-gh"
+    },
     "yz-disea-o-ui-ux": {
-      "count": 37,
+      "count": 45,
       "color": "#059669",
       "description": "Etiqueta yz-disea-o-ui-ux"
     },
@@ -2909,6 +3354,11 @@
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta zed"
+    },
+    "zero": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta zero"
     },
     "zeroclaw": {
       "count": 1,
@@ -3104,6 +3554,19 @@
         ]
       },
       {
+        "id": "500-ai-agents-projects",
+        "slug": "500-ai-agents-projects",
+        "terms": [
+          "500-AI-Agents-Projects",
+          "500-ai-agents-projects",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
         "id": "abacus",
         "slug": "abacus",
         "terms": [
@@ -3159,6 +3622,18 @@
         ]
       },
       {
+        "id": "after-effects-advanced-techniques",
+        "slug": "after-effects-advanced-techniques",
+        "terms": [
+          "after-effects-advanced-techniques",
+          "Recurso de diseno",
+          "design",
+          "inspiration",
+          "yz-disea-o-ui-ux",
+          "inspiracia-n-disea-o-ui-ux"
+        ]
+      },
+      {
         "id": "ag-grid-react",
         "slug": "ag-grid-react",
         "terms": [
@@ -3210,6 +3685,18 @@
         ]
       },
       {
+        "id": "agentic-ai-developer",
+        "slug": "agentic-ai-developer",
+        "terms": [
+          "agentic-ai-developer",
+          "Curso o recurso formativo",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
         "id": "agentic-inbox",
         "slug": "agentic-inbox",
         "terms": [
@@ -3228,6 +3715,30 @@
           "AgentMemory",
           "agentmemory",
           "Memoria persistente para agentes IA codi",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
+        "id": "agents-towards-production",
+        "slug": "agents-towards-production",
+        "terms": [
+          "agents-towards-production",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
+        "id": "agi",
+        "slug": "agi",
+        "terms": [
+          "agi",
+          "Repositorio GitHub",
           "development",
           "tools",
           "y-desarrollo-ide",
@@ -3287,6 +3798,31 @@
         ]
       },
       {
+        "id": "ai-factory",
+        "slug": "ai-factory",
+        "terms": [
+          "ai-factory",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
+        "id": "ai-for-beginners",
+        "slug": "ai-for-beginners",
+        "terms": [
+          "AI-For-Beginners",
+          "ai-for-beginners",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "ai-ml-roadmap-from-scratch",
         "slug": "ai-ml-roadmap-from-scratch",
         "terms": [
@@ -3342,6 +3878,30 @@
         ]
       },
       {
+        "id": "andrej-karpathy-skills",
+        "slug": "andrej-karpathy-skills",
+        "terms": [
+          "andrej-karpathy-skills",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
+        "id": "andrew-ng-ai-agents-build-2024-yt",
+        "slug": "andrew-ng-ai-agents-build-2024-yt",
+        "terms": [
+          "andrew-ng-ai-agents-build-2024-yt",
+          "Andrew Ng sobre agentes IA",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
+        ]
+      },
+      {
         "id": "angular",
         "slug": "angular",
         "terms": [
@@ -3370,6 +3930,30 @@
         ]
       },
       {
+        "id": "animate-text",
+        "slug": "animate-text",
+        "terms": [
+          "animate-text",
+          "N/A",
+          "design",
+          "components",
+          "yz-disea-o-ui-ux",
+          "librera-as-ui-componentes"
+        ]
+      },
+      {
+        "id": "animate-text",
+        "slug": "animate-text",
+        "terms": [
+          "animate-text",
+          "N/A",
+          "design",
+          "components",
+          "yz-disea-o-ui-ux",
+          "librera-as-ui-componentes"
+        ]
+      },
+      {
         "id": "anthropic-academy",
         "slug": "anthropic-academy",
         "terms": [
@@ -3380,6 +3964,58 @@
           "tools",
           "y-desarrollo-ide",
           "ia-cursos-aprendizaje"
+        ]
+      },
+      {
+        "id": "anthropic-agents-guide",
+        "slug": "anthropic-agents-guide",
+        "terms": [
+          "Anthropic-Agents-Guide",
+          "anthropic-agents-guide",
+          "GuÃ­a oficial Anthropic agentes efectivo",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
+        ]
+      },
+      {
+        "id": "anthropic-engineering",
+        "slug": "anthropic-engineering",
+        "terms": [
+          "Anthropic-Engineering",
+          "anthropic-engineering",
+          "PÃ¡gina engineering Anthropic publicacio",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
+        ]
+      },
+      {
+        "id": "anthropic-fellows-program",
+        "slug": "anthropic-fellows-program",
+        "terms": [
+          "Anthropic-Fellows-Program",
+          "anthropic-fellows-program",
+          "Fellowship investigaciÃ³n aplicada IA",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
+        ]
+      },
+      {
+        "id": "anus",
+        "slug": "anus",
+        "terms": [
+          "ANUS",
+          "anus",
+          "Framework agÃ©ntico open source",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
         ]
       },
       {
@@ -3424,6 +4060,18 @@
         ]
       },
       {
+        "id": "apple-style-animation-guide",
+        "slug": "apple-style-animation-guide",
+        "terms": [
+          "apple-style-animation-guide",
+          "Recurso de diseno",
+          "design",
+          "inspiration",
+          "yz-disea-o-ui-ux",
+          "inspiracia-n-disea-o-ui-ux"
+        ]
+      },
+      {
         "id": "appypie",
         "slug": "appypie",
         "terms": [
@@ -3449,6 +4097,18 @@
           "headless",
           "multi-framework",
           "components"
+        ]
+      },
+      {
+        "id": "art-doing-anything-yt",
+        "slug": "art-doing-anything-yt",
+        "terms": [
+          "art-doing-anything-yt",
+          "HÃ¡bitos para rendir al mÃ¡ximo",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
         ]
       },
       {
@@ -3561,6 +4221,19 @@
           "tools",
           "y-desarrollo-ide",
           "ia-herramientas-especializadas"
+        ]
+      },
+      {
+        "id": "autotts",
+        "slug": "autotts",
+        "terms": [
+          "AutoTTS",
+          "autotts",
+          "Descubrimiento agÃ©ntico para LLMs",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
         ]
       },
       {
@@ -3829,6 +4502,19 @@
         ]
       },
       {
+        "id": "catvton",
+        "slug": "catvton",
+        "terms": [
+          "CatVTON",
+          "catvton",
+          "Free",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "generacia-n-de-imagen-ia"
+        ]
+      },
+      {
         "id": "caveman",
         "slug": "caveman",
         "terms": [
@@ -3851,6 +4537,31 @@
           "tools",
           "desarrollo-ide",
           "ia-herramientas-especializadas"
+        ]
+      },
+      {
+        "id": "chalie",
+        "slug": "chalie",
+        "terms": [
+          "chalie",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
+        "id": "chandra",
+        "slug": "chandra",
+        "terms": [
+          "Chandra",
+          "chandra",
+          "Framework anÃ¡lisis datos con IA",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
         ]
       },
       {
@@ -3954,6 +4665,42 @@
           "tools",
           "desarrollo-ide",
           "ia-para-desarrollo"
+        ]
+      },
+      {
+        "id": "claude-code-agent-farm",
+        "slug": "claude-code-agent-farm",
+        "terms": [
+          "claude-code-agent-farm",
+          "Orquesta 20+ agentes Claude paralelo",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
+        "id": "claude-design-complete-guide-yt",
+        "slug": "claude-design-complete-guide-yt",
+        "terms": [
+          "claude-design-complete-guide-yt",
+          "GuÃ­a completa de Claude Design",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
+        ]
+      },
+      {
+        "id": "claude-quickstarts",
+        "slug": "claude-quickstarts",
+        "terms": [
+          "claude-quickstarts",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
         ]
       },
       {
@@ -4375,6 +5122,18 @@
         ]
       },
       {
+        "id": "deepdiagram-gh",
+        "slug": "deepdiagram-gh",
+        "terms": [
+          "deepdiagram-gh",
+          "Diagramas tÃ©cnicos asistidos por IA",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "deeplearning-ai-build-with-andrew",
         "slug": "deeplearning-ai-build-with-andrew",
         "terms": [
@@ -4411,6 +5170,19 @@
           "tools",
           "desarrollo-ide",
           "ia-china"
+        ]
+      },
+      {
+        "id": "deepseek-tui",
+        "slug": "deepseek-tui",
+        "terms": [
+          "DeepSeek-TUI",
+          "deepseek-tui",
+          "Interface TUI terminal API DeepSeek",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-herramientas-especializadas"
         ]
       },
       {
@@ -4466,6 +5238,18 @@
         ]
       },
       {
+        "id": "digital-chip-design-agents-gh",
+        "slug": "digital-chip-design-agents-gh",
+        "terms": [
+          "digital-chip-design-agents-gh",
+          "Agentes para diseÃ±o de chips",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "dither-image",
         "slug": "dither-image",
         "terms": [
@@ -4488,6 +5272,32 @@
           "tools",
           "y-desarrollo-ide",
           "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
+        "id": "dolphin",
+        "slug": "dolphin",
+        "terms": [
+          "Dolphin",
+          "dolphin",
+          "Parser visual para documentos y tablas",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-herramientas-especializadas"
+        ]
+      },
+      {
+        "id": "dramabox",
+        "slug": "dramabox",
+        "terms": [
+          "Dramabox",
+          "dramabox",
+          "Recurso de IA",
+          "development",
+          "ide",
+          "y-desarrollo-ide",
+          "ia-video-audio"
         ]
       },
       {
@@ -4624,6 +5434,30 @@
         ]
       },
       {
+        "id": "es",
+        "slug": "es",
+        "terms": [
+          "es",
+          "Recurso de diseno",
+          "design",
+          "inspiration",
+          "yz-disea-o-ui-ux",
+          "inspiracia-n-disea-o-ui-ux"
+        ]
+      },
+      {
+        "id": "everything-claude-code-gh",
+        "slug": "everything-claude-code-gh",
+        "terms": [
+          "everything-claude-code-gh",
+          "Recursos y notas Claude Code",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "excalidraw",
         "slug": "excalidraw",
         "terms": [
@@ -4652,6 +5486,19 @@
         ]
       },
       {
+        "id": "fara-7",
+        "slug": "fara-7",
+        "terms": [
+          "Fara-7",
+          "fara-7",
+          "Recurso de IA",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "feather-icons",
         "slug": "feather-icons",
         "terms": [
@@ -4663,6 +5510,18 @@
           "minimalist",
           "lightweight",
           "clean"
+        ]
+      },
+      {
+        "id": "financial-services",
+        "slug": "financial-services",
+        "terms": [
+          "financial-services",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
         ]
       },
       {
@@ -4858,6 +5717,18 @@
         ]
       },
       {
+        "id": "fortnite-porting-gh",
+        "slug": "fortnite-porting-gh",
+        "terms": [
+          "fortnite-porting-gh",
+          "Porting y tooling de assets",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "free-llm-api-resources",
         "slug": "free-llm-api-resources",
         "terms": [
@@ -4897,6 +5768,19 @@
         ]
       },
       {
+        "id": "fusion",
+        "slug": "fusion",
+        "terms": [
+          "Fusion",
+          "fusion",
+          "Plataforma multiagente para flujos IA",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
         "id": "gemini-api-prompts",
         "slug": "gemini-api-prompts",
         "terms": [
@@ -4920,6 +5804,18 @@
           "tools",
           "y-desarrollo-ide",
           "ia-cursos-aprendizaje"
+        ]
+      },
+      {
+        "id": "gemini-api-gh",
+        "slug": "gemini-api-gh",
+        "terms": [
+          "gemini-api-gh",
+          "IntegraciÃ³n prÃ¡ctica de Gemini API",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -4987,6 +5883,18 @@
           "svg",
           "separators",
           "backgrounds"
+        ]
+      },
+      {
+        "id": "getting-started",
+        "slug": "getting-started",
+        "terms": [
+          "getting-started",
+          "Recurso tecnico",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -5367,6 +6275,19 @@
         ]
       },
       {
+        "id": "gstack",
+        "slug": "gstack",
+        "terms": [
+          "Gstack",
+          "gstack",
+          "Framework",
+          "development",
+          "frameworks",
+          "y-desarrollo-ide",
+          "frameworks-librera-as"
+        ]
+      },
+      {
         "id": "haikei",
         "slug": "haikei",
         "terms": [
@@ -5661,6 +6582,32 @@
         ]
       },
       {
+        "id": "huggingface-agents-course",
+        "slug": "huggingface-agents-course",
+        "terms": [
+          "HuggingFace-Agents-Course",
+          "huggingface-agents-course",
+          "Curso oficial Hugging Face agentes IA",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
+        ]
+      },
+      {
+        "id": "hyper-extract",
+        "slug": "hyper-extract",
+        "terms": [
+          "Hyper-Extract",
+          "hyper-extract",
+          "ExtracciÃ³n inteligente de documentos",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-herramientas-especializadas"
+        ]
+      },
+      {
         "id": "hyperframes-docs",
         "slug": "hyperframes-docs",
         "terms": [
@@ -5799,6 +6746,19 @@
         ]
       },
       {
+        "id": "interaction-models",
+        "slug": "interaction-models",
+        "terms": [
+          "Interaction-Models",
+          "interaction-models",
+          "ColaboraciÃ³n humano-IA escalable",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
         "id": "ionicons",
         "slug": "ionicons",
         "terms": [
@@ -5836,6 +6796,18 @@
           "collection",
           "programming",
           "utility"
+        ]
+      },
+      {
+        "id": "jadx-mcp-server",
+        "slug": "jadx-mcp-server",
+        "terms": [
+          "jadx-mcp-server",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
         ]
       },
       {
@@ -5905,6 +6877,19 @@
         ]
       },
       {
+        "id": "kaggle-whitepaper-agent",
+        "slug": "kaggle-whitepaper-agent",
+        "terms": [
+          "Kaggle-Whitepaper-Agent",
+          "kaggle-whitepaper-agent",
+          "Agente IA anÃ¡lisis papers Kaggle",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
         "id": "kokonut-ui",
         "slug": "kokonutui",
         "terms": [
@@ -5920,12 +6905,38 @@
         ]
       },
       {
+        "id": "kronos",
+        "slug": "kronos",
+        "terms": [
+          "Kronos",
+          "kronos",
+          "Framework ML time-series predictions",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-herramientas-especializadas"
+        ]
+      },
+      {
         "id": "langchain",
         "slug": "langchain",
         "terms": [
           "LangChain",
           "langchain",
           "Desarrollo de apps basadas en LLM",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
+        "id": "lap",
+        "slug": "lap",
+        "terms": [
+          "LAP",
+          "lap",
+          "Repositorio GitHub",
           "development",
           "tools",
           "y-desarrollo-ide",
@@ -6010,6 +7021,18 @@
         ]
       },
       {
+        "id": "lightclaw-gh",
+        "slug": "lightclaw-gh",
+        "terms": [
+          "lightclaw-gh",
+          "AutomatizaciÃ³n con enfoque IA",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "liquid-glass",
         "slug": "liquid-glass",
         "terms": [
@@ -6020,6 +7043,44 @@
           "ui-libraries",
           "yz-disea-o-ui-ux",
           "canvas-graphics"
+        ]
+      },
+      {
+        "id": "llm-engineering",
+        "slug": "llm-engineering",
+        "terms": [
+          "llm_engineering",
+          "llm-engineering",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
+        "id": "llm-course",
+        "slug": "llm-course",
+        "terms": [
+          "LLM-Course",
+          "llm-course",
+          "Curso completo LLMs desde cero",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
+        ]
+      },
+      {
+        "id": "llm-engineer-toolkit",
+        "slug": "llm-engineer-toolkit",
+        "terms": [
+          "llm-engineer-toolkit",
+          "ColecciÃ³n curada de librerÃ­as LLM",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
         ]
       },
       {
@@ -6046,6 +7107,18 @@
           "tools",
           "desarrollo-ide",
           "ia-cursos-aprendizaje"
+        ]
+      },
+      {
+        "id": "llms-from-scratch-alt-gh",
+        "slug": "llms-from-scratch-alt-gh",
+        "terms": [
+          "llms-from-scratch-alt-gh",
+          "Implementaciones LLM desde cero",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -6114,6 +7187,19 @@
           "tools",
           "y-desarrollo-ide",
           "ia-herramientas-especializadas"
+        ]
+      },
+      {
+        "id": "made-with-ml",
+        "slug": "made-with-ml",
+        "terms": [
+          "Made-With-ML",
+          "made-with-ml",
+          "Plataforma completa ML engineering produ",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
         ]
       },
       {
@@ -6199,6 +7285,18 @@
         ]
       },
       {
+        "id": "mars-gh",
+        "slug": "mars-gh",
+        "terms": [
+          "mars-gh",
+          "Repositorio Microsoft MarS",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "material-icons",
         "slug": "material-icons",
         "terms": [
@@ -6227,12 +7325,48 @@
         ]
       },
       {
+        "id": "material-3-skill",
+        "slug": "material-3-skill",
+        "terms": [
+          "material-3-skill",
+          "N/A",
+          "design",
+          "components",
+          "yz-disea-o-ui-ux",
+          "librera-as-ui-componentes"
+        ]
+      },
+      {
+        "id": "mcp-toolbox",
+        "slug": "mcp-toolbox",
+        "terms": [
+          "mcp-toolbox",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
         "id": "mempalace",
         "slug": "mempalace",
         "terms": [
           "MemPalace",
           "mempalace",
           "Gestor memoria para IA",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
+        "id": "mercury-agent",
+        "slug": "mercury-agent",
+        "terms": [
+          "mercury-agent",
+          "Repositorio GitHub",
           "development",
           "tools",
           "y-desarrollo-ide",
@@ -6250,6 +7384,18 @@
           "tools",
           "y-desarrollo-ide",
           "y-y-ia-china"
+        ]
+      },
+      {
+        "id": "metaclaw-gh",
+        "slug": "metaclaw-gh",
+        "terms": [
+          "metaclaw-gh",
+          "Framework de agentes autocontenidos",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -6279,6 +7425,18 @@
         ]
       },
       {
+        "id": "mini-browser",
+        "slug": "mini-browser",
+        "terms": [
+          "mini-browser",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "mirofish",
         "slug": "mirofish",
         "terms": [
@@ -6301,6 +7459,18 @@
           "tools",
           "desarrollo-ide",
           "ia-cursos-aprendizaje"
+        ]
+      },
+      {
+        "id": "mlfinlab-gh",
+        "slug": "mlfinlab-gh",
+        "terms": [
+          "mlfinlab-gh",
+          "LibrerÃ­a de finanzas cuantitativas",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -6671,6 +7841,18 @@
         ]
       },
       {
+        "id": "open-design-gh",
+        "slug": "open-design-gh",
+        "terms": [
+          "open-design-gh",
+          "Recursos de diseÃ±o open source",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "open-llm-vtuber",
         "slug": "open-llm-vtuber",
         "terms": [
@@ -6681,6 +7863,19 @@
           "ide",
           "desarrollo-ide",
           "ia-video-audio"
+        ]
+      },
+      {
+        "id": "openai-agents-docs",
+        "slug": "openai-agents-docs",
+        "terms": [
+          "OpenAI-Agents-Docs",
+          "openai-agents-docs",
+          "DocumentaciÃ³n oficial agentes OpenAI",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
         ]
       },
       {
@@ -6747,6 +7942,18 @@
         ]
       },
       {
+        "id": "openskills-gh",
+        "slug": "openskills-gh",
+        "terms": [
+          "openskills-gh",
+          "Rating bayesiano para emparejamientos",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "openspec",
         "slug": "openspec",
         "terms": [
@@ -6773,6 +7980,19 @@
         ]
       },
       {
+        "id": "paddlepaddle",
+        "slug": "paddlepaddle",
+        "terms": [
+          "PaddlePaddle",
+          "paddlepaddle",
+          "Framework IA/ML chino alternativa Tensor",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-herramientas-especializadas"
+        ]
+      },
+      {
         "id": "pagina-author-gist",
         "slug": "pagina-author-gist",
         "terms": [
@@ -6785,6 +8005,30 @@
           "gist",
           "author",
           "page"
+        ]
+      },
+      {
+        "id": "paperclip",
+        "slug": "paperclip",
+        "terms": [
+          "paperclip",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
+        "id": "paperetl-gh",
+        "slug": "paperetl-gh",
+        "terms": [
+          "paperetl-gh",
+          "ETL semÃ¡ntico para papers",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -6868,6 +8112,30 @@
         ]
       },
       {
+        "id": "playwright-computer-use-gh",
+        "slug": "playwright-computer-use-gh",
+        "terms": [
+          "playwright-computer-use-gh",
+          "Control de navegador por agentes",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
+        "id": "pm-claude-skills",
+        "slug": "pm-claude-skills",
+        "terms": [
+          "pm-claude-skills",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
         "id": "pollo-ai",
         "slug": "pollo-ai",
         "terms": [
@@ -6939,6 +8207,18 @@
         ]
       },
       {
+        "id": "presenton",
+        "slug": "presenton",
+        "terms": [
+          "presenton",
+          "Repositorio GitHub",
+          "design",
+          "inspiration",
+          "yz-disea-o-ui-ux",
+          "inspiracia-n-disea-o-ui-ux"
+        ]
+      },
+      {
         "id": "profile-card-13",
         "slug": "profile-card-13",
         "terms": [
@@ -6969,6 +8249,18 @@
         ]
       },
       {
+        "id": "project-ideas-resources-gh",
+        "slug": "project-ideas-resources-gh",
+        "terms": [
+          "project-ideas-resources-gh",
+          "Ideas y recursos para proyectos",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "prometheus-euniai",
         "slug": "prometheus-euniai",
         "terms": [
@@ -6988,6 +8280,31 @@
           "Prompt Packs",
           "prompt-packs",
           "Plataforma",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "y-colecciones-prompts"
+        ]
+      },
+      {
+        "id": "prompt-engineering-guide",
+        "slug": "prompt-engineering-guide",
+        "terms": [
+          "Prompt-Engineering-Guide",
+          "prompt-engineering-guide",
+          "GuÃ­a ingenierÃ­a prompts para LLMs",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
+        ]
+      },
+      {
+        "id": "prompt-master",
+        "slug": "prompt-master",
+        "terms": [
+          "prompt-master",
+          "N/A",
           "development",
           "tools",
           "y-desarrollo-ide",
@@ -7057,6 +8374,18 @@
           "tools",
           "y-desarrollo-ide",
           "y-colecciones-prompts"
+        ]
+      },
+      {
+        "id": "ps5-linux-loader-gh",
+        "slug": "ps5-linux-loader-gh",
+        "terms": [
+          "ps5-linux-loader-gh",
+          "Loader Linux para PS5",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -7294,6 +8623,18 @@
         ]
       },
       {
+        "id": "redplanet-core-gh",
+        "slug": "redplanet-core-gh",
+        "terms": [
+          "redplanet-core-gh",
+          "Core framework para productos IA",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "refero",
         "slug": "refero",
         "terms": [
@@ -7418,6 +8759,18 @@
         ]
       },
       {
+        "id": "rl-course-materials-gh",
+        "slug": "rl-course-materials-gh",
+        "terms": [
+          "rl-course-materials-gh",
+          "Materiales de curso de RL",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "rocket",
         "slug": "rocket",
         "terms": [
@@ -7428,6 +8781,18 @@
           "tools",
           "y-desarrollo-ide",
           "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
+        "id": "rowboat-gh",
+        "slug": "rowboat-gh",
+        "terms": [
+          "rowboat-gh",
+          "Framework para agentes en navegadores",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -7786,6 +9151,18 @@
         ]
       },
       {
+        "id": "stanford-cs-229-machine-learning",
+        "slug": "stanford-cs-229-machine-learning",
+        "terms": [
+          "stanford-cs-229-machine-learning",
+          "Apuntes y recursos Stanford CS229",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
+        ]
+      },
+      {
         "id": "starterindex",
         "slug": "starterindex",
         "terms": [
@@ -7854,12 +9231,49 @@
         ]
       },
       {
+        "id": "supertonic",
+        "slug": "supertonic",
+        "terms": [
+          "supertonic",
+          "Repositorio GitHub",
+          "development",
+          "ide",
+          "y-desarrollo-ide",
+          "ia-video-audio"
+        ]
+      },
+      {
         "id": "surfsense",
         "slug": "surfsense",
         "terms": [
           "SurfSense",
           "surfsense",
           "Alternativa NotebookLM open source equip",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-cursos-aprendizaje"
+        ]
+      },
+      {
+        "id": "surya",
+        "slug": "surya",
+        "terms": [
+          "Surya",
+          "surya",
+          "OCR document intelligence multimodal",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-herramientas-especializadas"
+        ]
+      },
+      {
+        "id": "sutskever-30-implementations-gh",
+        "slug": "sutskever-30-implementations-gh",
+        "terms": [
+          "sutskever-30-implementations-gh",
+          "30 ideas IA para implementar",
           "development",
           "tools",
           "y-desarrollo-ide",
@@ -8056,6 +9470,31 @@
         ]
       },
       {
+        "id": "taskie",
+        "slug": "taskie",
+        "terms": [
+          "taskie",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-agentes-automatizacia-n"
+        ]
+      },
+      {
+        "id": "template-string-converter",
+        "slug": "template-string-converter",
+        "terms": [
+          "Template String Converter",
+          "template-string-converter",
+          "Convierte strings a template literals",
+          "development",
+          "extensions",
+          "y-desarrollo-ide",
+          "ide-extensions-tools"
+        ]
+      },
+      {
         "id": "templates-404",
         "slug": "templates-404",
         "terms": [
@@ -8094,6 +9533,18 @@
         ]
       },
       {
+        "id": "tracer",
+        "slug": "tracer",
+        "terms": [
+          "tracer",
+          "Reduce coste LLM en clasificaciÃ³n",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-herramientas-especializadas"
+        ]
+      },
+      {
         "id": "tradingview-charts",
         "slug": "tradingview-charts",
         "terms": [
@@ -8104,6 +9555,18 @@
           "tools",
           "y-desarrollo-ide",
           "herramientas-dev-varias"
+        ]
+      },
+      {
+        "id": "train-llm-from-scratch-gh",
+        "slug": "train-llm-from-scratch-gh",
+        "terms": [
+          "train-llm-from-scratch-gh",
+          "Entrenamiento LLM paso a paso",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -8148,6 +9611,18 @@
         ]
       },
       {
+        "id": "trykimu-videoeditor-gh",
+        "slug": "trykimu-videoeditor-gh",
+        "terms": [
+          "trykimu-videoeditor-gh",
+          "Editor de video con capacidades IA",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "tts-audio-suite",
         "slug": "tts-audio-suite",
         "terms": [
@@ -8158,6 +9633,18 @@
           "ide",
           "y-desarrollo-ide",
           "ia-video-audio"
+        ]
+      },
+      {
+        "id": "turboquant-plus-gh",
+        "slug": "turboquant-plus-gh",
+        "terms": [
+          "turboquant-plus-gh",
+          "Trading cuantitativo y backtesting",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -8319,6 +9806,31 @@
         ]
       },
       {
+        "id": "versecrafter",
+        "slug": "versecrafter",
+        "terms": [
+          "VerseCrafter",
+          "versecrafter",
+          "Repositorio GitHub",
+          "development",
+          "ide",
+          "y-desarrollo-ide",
+          "ia-video-audio"
+        ]
+      },
+      {
+        "id": "vibe-coding-cn",
+        "slug": "vibe-coding-cn",
+        "terms": [
+          "vibe-coding-cn",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
         "id": "vidstudio",
         "slug": "vidstudio",
         "terms": [
@@ -8394,6 +9906,19 @@
           "tools",
           "y-desarrollo-ide",
           "herramientas-dev-varias"
+        ]
+      },
+      {
+        "id": "visomaster-fusion",
+        "slug": "visomaster-fusion",
+        "terms": [
+          "VisoMaster-Fusion",
+          "visomaster-fusion",
+          "Repositorio GitHub",
+          "development",
+          "ide",
+          "y-desarrollo-ide",
+          "ia-video-audio"
         ]
       },
       {
@@ -8560,6 +10085,18 @@
         ]
       },
       {
+        "id": "winpodx",
+        "slug": "winpodx",
+        "terms": [
+          "winpodx",
+          "Contenedores Linux ligeros en Windows",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "herramientas-dev-varias"
+        ]
+      },
+      {
         "id": "wiretext",
         "slug": "wiretext",
         "terms": [
@@ -8570,6 +10107,43 @@
           "templates",
           "yz-disea-o-ui-ux",
           "plantillas-templates"
+        ]
+      },
+      {
+        "id": "wm",
+        "slug": "wm",
+        "terms": [
+          "WM",
+          "wm",
+          "Recurso tecnico",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ]
+      },
+      {
+        "id": "www-beautiful-ai",
+        "slug": "www-beautiful-ai",
+        "terms": [
+          "www-beautiful-ai",
+          "Recurso de diseno",
+          "design",
+          "inspiration",
+          "yz-disea-o-ui-ux",
+          "inspiracia-n-disea-o-ui-ux"
+        ]
+      },
+      {
+        "id": "yue-gh",
+        "slug": "yue-gh",
+        "terms": [
+          "yue-gh",
+          "Proyecto multimodal de audio/mÃºsica",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -8608,6 +10182,18 @@
           "ide",
           "y-desarrollo-ide",
           "ide-editores"
+        ]
+      },
+      {
+        "id": "zero",
+        "slug": "zero",
+        "terms": [
+          "zero",
+          "Repositorio GitHub",
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -8709,6 +10295,6 @@
     "dataset": "diseno-ui-ux_desarrollo_ide",
     "title": "diseno-ui-ux_desarrollo_ide",
     "description": "Dataset diseno-ui-ux_desarrollo_ide",
-    "resourceCount": 423
+    "resourceCount": 515
   }
 }

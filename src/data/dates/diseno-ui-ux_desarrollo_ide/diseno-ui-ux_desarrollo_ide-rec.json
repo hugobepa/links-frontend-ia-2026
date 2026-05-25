@@ -4,14 +4,14 @@
       "id": "design",
       "name": "Design",
       "slug": "design",
-      "resourceCount": 130,
+      "resourceCount": 136,
       "status": "active"
     },
     {
       "id": "development",
       "name": "Development",
       "slug": "development",
-      "resourceCount": 297,
+      "resourceCount": 379,
       "status": "active"
     }
   ],
@@ -29,7 +29,7 @@
       "name": "Components",
       "slug": "components",
       "category": "design",
-      "resourceCount": 15,
+      "resourceCount": 18,
       "status": "active"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Extensions",
       "slug": "extensions",
       "category": "development",
-      "resourceCount": 10,
+      "resourceCount": 11,
       "status": "active"
     },
     {
@@ -69,7 +69,7 @@
       "name": "Ide",
       "slug": "ide",
       "category": "development",
-      "resourceCount": 33,
+      "resourceCount": 37,
       "status": "active"
     },
     {
@@ -77,7 +77,7 @@
       "name": "Inspiration",
       "slug": "inspiration",
       "category": "design",
-      "resourceCount": 18,
+      "resourceCount": 22,
       "status": "active"
     },
     {
@@ -93,7 +93,7 @@
       "name": "Templates",
       "slug": "templates",
       "category": "design",
-      "resourceCount": 17,
+      "resourceCount": 16,
       "status": "active"
     },
     {
@@ -101,7 +101,7 @@
       "name": "Tools",
       "slug": "tools",
       "category": "development",
-      "resourceCount": 214,
+      "resourceCount": 291,
       "status": "active"
     },
     {
@@ -114,6 +114,330 @@
     }
   ],
   "resources": [
+    {
+      "id": "clerk",
+      "name": "@clerk/clerk-react",
+      "slug": "clerk-clerk-react",
+      "description": "Auth + gestión de usuarios, DX excelent",
+      "url": "https://clerk.com",
+      "status": "active",
+      "tags": [
+        "auth",
+        "users",
+        "dx",
+        "react"
+      ],
+      "searchIndex": [
+        "@clerk/clerk-react",
+        "clerk-clerk-react",
+        "Auth + gestión de usuarios, DX excelente",
+        "development",
+        "react-stack",
+        "auth",
+        "users",
+        "dx",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "lemonsqueezy-react",
+      "name": "@lemonsqueezy/lemonsqueezy.js",
+      "slug": "lemonsqueezy-lemonsqueezy-js",
+      "description": "Checkout + licencias + suscripciones",
+      "url": "https://lemonsqueezy.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "licenses",
+        "subscriptions",
+        "checkout"
+      ],
+      "searchIndex": [
+        "@lemonsqueezy/lemonsqueezy.js",
+        "lemonsqueezy-lemonsqueezy-js",
+        "Checkout + licencias + suscripciones",
+        "development",
+        "react-stack",
+        "payments",
+        "licenses",
+        "subscriptions",
+        "checkout"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "mui-data-grid",
+      "name": "@mui/x-data-grid",
+      "slug": "mui-x-data-grid",
+      "description": "DataGrid optimizado, integrado con MUI",
+      "url": "https://mui.com/x/react-data-grid/",
+      "status": "active",
+      "tags": [
+        "tables",
+        "mui",
+        "datagrid",
+        "optimized"
+      ],
+      "searchIndex": [
+        "@mui/x-data-grid",
+        "mui-x-data-grid",
+        "DataGrid optimizado, integrado con MUI",
+        "development",
+        "react-stack",
+        "tables",
+        "mui",
+        "datagrid",
+        "optimized"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "paypal-react",
+      "name": "@paypal/react-paypal-js",
+      "slug": "paypal-react-paypal-js",
+      "description": "Checkout PayPal/Venmo, SDK oficial",
+      "url": "https://www.paypal.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "paypal",
+        "checkout",
+        "react"
+      ],
+      "searchIndex": [
+        "@paypal/react-paypal-js",
+        "paypal-react-paypal-js",
+        "Checkout PayPal/Venmo, SDK oficial",
+        "development",
+        "react-stack",
+        "payments",
+        "paypal",
+        "checkout",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-pdf-renderer",
+      "name": "@react-pdf/renderer",
+      "slug": "react-pdf-renderer",
+      "description": "Genera PDFs usando componentes JSX/CSS-l",
+      "url": "https://react-pdf.org",
+      "status": "active",
+      "tags": [
+        "pdf",
+        "react",
+        "jsx",
+        "generator"
+      ],
+      "searchIndex": [
+        "@react-pdf/renderer",
+        "react-pdf-renderer",
+        "Genera PDFs usando componentes JSX/CSS-like",
+        "development",
+        "react-stack",
+        "pdf",
+        "react",
+        "jsx",
+        "generator"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "redux-toolkit",
+      "name": "@reduxjs/toolkit",
+      "slug": "reduxjs-toolkit",
+      "description": "Solución oficial de Redux, inmutabilida",
+      "url": "https://redux-toolkit.js.org",
+      "status": "active",
+      "tags": [
+        "state",
+        "redux",
+        "official",
+        "devtools"
+      ],
+      "searchIndex": [
+        "@reduxjs/toolkit",
+        "reduxjs-toolkit",
+        "Solución oficial de Redux, inmutabilidad + DevTools",
+        "development",
+        "react-stack",
+        "state",
+        "redux",
+        "official",
+        "devtools"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "stripe-react",
+      "name": "@stripe/react-stripe-js",
+      "slug": "stripe-react-stripe-js",
+      "description": "Elementos de pago seguros, SCA/3DS",
+      "url": "https://stripe.com",
+      "status": "active",
+      "tags": [
+        "payments",
+        "stripe",
+        "secure",
+        "react"
+      ],
+      "searchIndex": [
+        "@stripe/react-stripe-js",
+        "stripe-react-stripe-js",
+        "Elementos de pago seguros, SCA/3DS",
+        "development",
+        "react-stack",
+        "payments",
+        "stripe",
+        "secure",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "premium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tanstack-table",
+      "name": "@tanstack/react-table",
+      "slug": "tanstack-react-table",
+      "description": "Headless, máximo control sobre UI y ló",
+      "url": "https://tanstack.com/table",
+      "status": "active",
+      "tags": [
+        "tables",
+        "headless",
+        "control",
+        "react"
+      ],
+      "searchIndex": [
+        "@tanstack/react-table",
+        "tanstack-react-table",
+        "Headless, máximo control sobre UI y lógica",
+        "development",
+        "react-stack",
+        "tables",
+        "headless",
+        "control",
+        "react"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "tanstack-virtual",
+      "name": "@tanstack/react-virtual",
+      "slug": "tanstack-react-virtual",
+      "description": "Virtualización de listas/tablas para gr",
+      "url": "https://tanstack.com/virtual",
+      "status": "active",
+      "tags": [
+        "virtualization",
+        "lists",
+        "tables",
+        "performance"
+      ],
+      "searchIndex": [
+        "@tanstack/react-virtual",
+        "tanstack-react-virtual",
+        "Virtualización de listas/tablas para grandes datasets",
+        "development",
+        "react-stack",
+        "virtualization",
+        "lists",
+        "tables",
+        "performance"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
     {
       "id": "10k-chatbot-prompts",
       "name": "10K Chatbot Prompts",
@@ -146,6 +470,41 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "500-ai-agents-projects",
+      "name": "500-AI-Agents-Projects",
+      "slug": "500-ai-agents-projects",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "500-ai-agents-projects"
+      ],
+      "searchIndex": [
+        "500-AI-Agents-Projects",
+        "500-ai-agents-projects",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -291,6 +650,40 @@
       "noCreditCard": false
     },
     {
+      "id": "after-effects-advanced-techniques",
+      "name": "after-effects-advanced-techniques",
+      "slug": "after-effects-advanced-techniques",
+      "description": "Recurso de diseno",
+      "url": "https://trydemotion.com/blog/after-effects-advanced-techniques",
+      "status": "active",
+      "tags": [
+        "design",
+        "inspiration",
+        "yz-disea-o-ui-ux",
+        "inspiracia-n-disea-o-ui-ux",
+        "after-effects-advanced-techniques"
+      ],
+      "searchIndex": [
+        "after-effects-advanced-techniques",
+        "Recurso de diseno",
+        "design",
+        "inspiration",
+        "yz-disea-o-ui-ux",
+        "inspiracia-n-disea-o-ui-ux"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "ag-grid-react",
       "name": "ag-grid-react",
       "slug": "ag-grid-react",
@@ -429,6 +822,40 @@
       "noCreditCard": false
     },
     {
+      "id": "agentic-ai-developer",
+      "name": "agentic-ai-developer",
+      "slug": "agentic-ai-developer",
+      "description": "Curso o recurso formativo",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "agentic-ai-developer"
+      ],
+      "searchIndex": [
+        "agentic-ai-developer",
+        "Curso o recurso formativo",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "agentic-inbox",
       "name": "agentic-inbox",
       "slug": "agentic-inbox",
@@ -494,6 +921,74 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "agents-towards-production",
+      "name": "agents-towards-production",
+      "slug": "agents-towards-production",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/NirDiamant/agents-towards-production",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "agents-towards-production"
+      ],
+      "searchIndex": [
+        "agents-towards-production",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "agi",
+      "name": "agi",
+      "slug": "agi",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/hyperspaceai/agi",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "agi"
+      ],
+      "searchIndex": [
+        "agi",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -568,41 +1063,6 @@
       "noCreditCard": false
     },
     {
-      "id": "ai-ml-roadmap-from-scratch",
-      "name": "AI-ML-Roadmap-from-scratch",
-      "slug": "ai-ml-roadmap-from-scratch",
-      "description": "Ruta completa de AI/ML",
-      "url": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
-      "status": "active",
-      "tags": [
-        "development",
-        "tools",
-        "desarrollo-ide",
-        "ia-cursos-aprendizaje",
-        "ai-ml-roadmap-from-scratch"
-      ],
-      "searchIndex": [
-        "AI-ML-Roadmap-from-scratch",
-        "ai-ml-roadmap-from-scratch",
-        "Ruta completa de AI/ML",
-        "development",
-        "tools",
-        "desarrollo-ide",
-        "ia-cursos-aprendizaje"
-      ],
-      "category": "development",
-      "subcategory": "tools",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-14",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "ai-resources-tools",
       "name": "AI Resources & Tools",
       "slug": "ai-resources-tools",
@@ -669,6 +1129,110 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ai-factory",
+      "name": "ai-factory",
+      "slug": "ai-factory",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/lee-to/ai-factory",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "ai-factory"
+      ],
+      "searchIndex": [
+        "ai-factory",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ai-for-beginners",
+      "name": "AI-For-Beginners",
+      "slug": "ai-for-beginners",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "ai-for-beginners"
+      ],
+      "searchIndex": [
+        "AI-For-Beginners",
+        "ai-for-beginners",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ai-ml-roadmap-from-scratch",
+      "name": "AI-ML-Roadmap-from-scratch",
+      "slug": "ai-ml-roadmap-from-scratch",
+      "description": "Ruta completa de AI/ML",
+      "url": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "ai-ml-roadmap-from-scratch"
+      ],
+      "searchIndex": [
+        "AI-ML-Roadmap-from-scratch",
+        "ai-ml-roadmap-from-scratch",
+        "Ruta completa de AI/ML",
+        "development",
+        "tools",
+        "desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-14",
       "verified": true,
       "noCreditCard": false
     },
@@ -779,6 +1343,74 @@
       "noCreditCard": false
     },
     {
+      "id": "andrej-karpathy-skills",
+      "name": "andrej-karpathy-skills",
+      "slug": "andrej-karpathy-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "andrej-karpathy-skills"
+      ],
+      "searchIndex": [
+        "andrej-karpathy-skills",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "andrew-ng-ai-agents-build-2024-yt",
+      "name": "andrew-ng-ai-agents-build-2024-yt",
+      "slug": "andrew-ng-ai-agents-build-2024-yt",
+      "description": "Andrew Ng sobre agentes IA",
+      "url": "https://www.youtube.com/watch?v=KrRD7r7y7NY",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "andrew-ng-ai-agents-build-2024-yt"
+      ],
+      "searchIndex": [
+        "andrew-ng-ai-agents-build-2024-yt",
+        "Andrew Ng sobre agentes IA",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "angular",
       "name": "Angular",
       "slug": "angular",
@@ -850,6 +1482,74 @@
       "noCreditCard": false
     },
     {
+      "id": "animate-text",
+      "name": "animate-text",
+      "slug": "animate-text",
+      "description": "N/A",
+      "url": "https://github.com/pixel-point/animate-text",
+      "status": "active",
+      "tags": [
+        "design",
+        "components",
+        "yz-disea-o-ui-ux",
+        "librera-as-ui-componentes",
+        "animate-text"
+      ],
+      "searchIndex": [
+        "animate-text",
+        "N/A",
+        "design",
+        "components",
+        "yz-disea-o-ui-ux",
+        "librera-as-ui-componentes"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "animate-text",
+      "name": "animate-text",
+      "slug": "animate-text",
+      "description": "N/A",
+      "url": "https://pixelpoint.io/skills/animate-text",
+      "status": "active",
+      "tags": [
+        "design",
+        "components",
+        "yz-disea-o-ui-ux",
+        "librera-as-ui-componentes",
+        "animate-text"
+      ],
+      "searchIndex": [
+        "animate-text",
+        "N/A",
+        "design",
+        "components",
+        "yz-disea-o-ui-ux",
+        "librera-as-ui-componentes"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "anthropic-academy",
       "name": "Anthropic Academy",
       "slug": "anthropic-academy",
@@ -881,6 +1581,146 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "anthropic-agents-guide",
+      "name": "Anthropic-Agents-Guide",
+      "slug": "anthropic-agents-guide",
+      "description": "GuÃ­a oficial Anthropic agentes efectivo",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "anthropic-agents-guide"
+      ],
+      "searchIndex": [
+        "Anthropic-Agents-Guide",
+        "anthropic-agents-guide",
+        "GuÃ­a oficial Anthropic agentes efectivo",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "anthropic-engineering",
+      "name": "Anthropic-Engineering",
+      "slug": "anthropic-engineering",
+      "description": "PÃ¡gina engineering Anthropic publicacio",
+      "url": "https://www.anthropic.com/engineering",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "anthropic-engineering"
+      ],
+      "searchIndex": [
+        "Anthropic-Engineering",
+        "anthropic-engineering",
+        "PÃ¡gina engineering Anthropic publicacio",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "anthropic-fellows-program",
+      "name": "Anthropic-Fellows-Program",
+      "slug": "anthropic-fellows-program",
+      "description": "Fellowship investigaciÃ³n aplicada IA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "anthropic-fellows-program"
+      ],
+      "searchIndex": [
+        "Anthropic-Fellows-Program",
+        "anthropic-fellows-program",
+        "Fellowship investigaciÃ³n aplicada IA",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "anus",
+      "name": "ANUS",
+      "slug": "anus",
+      "description": "Framework agÃ©ntico open source",
+      "url": "https://github.com/anus-dev/ANUS",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "anus"
+      ],
+      "searchIndex": [
+        "ANUS",
+        "anus",
+        "Framework agÃ©ntico open source",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -991,6 +1831,40 @@
       "noCreditCard": false
     },
     {
+      "id": "apple-style-animation-guide",
+      "name": "apple-style-animation-guide",
+      "slug": "apple-style-animation-guide",
+      "description": "Recurso de diseno",
+      "url": "https://trydemotion.com/blog/apple-style-animation-guide",
+      "status": "active",
+      "tags": [
+        "design",
+        "inspiration",
+        "yz-disea-o-ui-ux",
+        "inspiracia-n-disea-o-ui-ux",
+        "apple-style-animation-guide"
+      ],
+      "searchIndex": [
+        "apple-style-animation-guide",
+        "Recurso de diseno",
+        "design",
+        "inspiration",
+        "yz-disea-o-ui-ux",
+        "inspiracia-n-disea-o-ui-ux"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "appypie",
       "name": "AppyPie",
       "slug": "appypie",
@@ -1058,6 +1932,40 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "art-doing-anything-yt",
+      "name": "art-doing-anything-yt",
+      "slug": "art-doing-anything-yt",
+      "description": "HÃ¡bitos para rendir al mÃ¡ximo",
+      "url": "https://www.youtube.com/watch?v=r4IQopBxzOo",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "art-doing-anything-yt"
+      ],
+      "searchIndex": [
+        "art-doing-anything-yt",
+        "HÃ¡bitos para rendir al mÃ¡ximo",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -1341,6 +2249,41 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "autotts",
+      "name": "AutoTTS",
+      "slug": "autotts",
+      "description": "Descubrimiento agÃ©ntico para LLMs",
+      "url": "https://github.com/zhengkid/AutoTTS",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "autotts"
+      ],
+      "searchIndex": [
+        "AutoTTS",
+        "autotts",
+        "Descubrimiento agÃ©ntico para LLMs",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -2044,6 +2987,41 @@
       "noCreditCard": false
     },
     {
+      "id": "catvton",
+      "name": "CatVTON",
+      "slug": "catvton",
+      "description": "Free",
+      "url": "https://github.com/Zheng-Chong/CatVTON",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "generacia-n-de-imagen-ia",
+        "catvton"
+      ],
+      "searchIndex": [
+        "CatVTON",
+        "catvton",
+        "Free",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "generacia-n-de-imagen-ia"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "caveman",
       "name": "Caveman",
       "slug": "caveman",
@@ -2109,6 +3087,75 @@
       ],
       "limits": "unknown",
       "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "chalie",
+      "name": "chalie",
+      "slug": "chalie",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/chalie-ai/chalie",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "chalie"
+      ],
+      "searchIndex": [
+        "chalie",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "chandra",
+      "name": "Chandra",
+      "slug": "chandra",
+      "description": "Framework anÃ¡lisis datos con IA",
+      "url": "https://github.com/datalab-to/chandra",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "chandra"
+      ],
+      "searchIndex": [
+        "Chandra",
+        "chandra",
+        "Framework anÃ¡lisis datos con IA",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -2253,40 +3300,6 @@
       "noCreditCard": false
     },
     {
-      "id": "claude-ads",
-      "name": "claude-ads",
-      "slug": "claude-ads",
-      "description": "Recursos Claude para desarrolladores",
-      "url": "https://github.com/AgriciDaniel/claude-ads",
-      "status": "active",
-      "tags": [
-        "development",
-        "tools",
-        "desarrollo-ide",
-        "ia-para-desarrollo",
-        "claude-ads"
-      ],
-      "searchIndex": [
-        "claude-ads",
-        "Recursos Claude para desarrolladores",
-        "development",
-        "tools",
-        "desarrollo-ide",
-        "ia-para-desarrollo"
-      ],
-      "category": "development",
-      "subcategory": "tools",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-14",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "claude-agents",
       "name": "Claude Agents",
       "slug": "claude-agents",
@@ -2392,6 +3405,142 @@
       "noCreditCard": false
     },
     {
+      "id": "claude-ads",
+      "name": "claude-ads",
+      "slug": "claude-ads",
+      "description": "Recursos Claude para desarrolladores",
+      "url": "https://github.com/AgriciDaniel/claude-ads",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "desarrollo-ide",
+        "ia-para-desarrollo",
+        "claude-ads"
+      ],
+      "searchIndex": [
+        "claude-ads",
+        "Recursos Claude para desarrolladores",
+        "development",
+        "tools",
+        "desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "claude-code-agent-farm",
+      "name": "claude-code-agent-farm",
+      "slug": "claude-code-agent-farm",
+      "description": "Orquesta 20+ agentes Claude paralelo",
+      "url": "https://github.com/Dicklesworthstone/claude_code_agent_farm",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "claude-code-agent-farm"
+      ],
+      "searchIndex": [
+        "claude-code-agent-farm",
+        "Orquesta 20+ agentes Claude paralelo",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "claude-design-complete-guide-yt",
+      "name": "claude-design-complete-guide-yt",
+      "slug": "claude-design-complete-guide-yt",
+      "description": "GuÃ­a completa de Claude Design",
+      "url": "https://www.youtube.com/watch?v=eXlSgQmz02E",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "claude-design-complete-guide-yt"
+      ],
+      "searchIndex": [
+        "claude-design-complete-guide-yt",
+        "GuÃ­a completa de Claude Design",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "claude-quickstarts",
+      "name": "claude-quickstarts",
+      "slug": "claude-quickstarts",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "claude-quickstarts"
+      ],
+      "searchIndex": [
+        "claude-quickstarts",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "claurst",
       "name": "Claurst",
       "slug": "claurst",
@@ -2423,42 +3572,6 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "clerk",
-      "name": "@clerk/clerk-react",
-      "slug": "clerk-clerk-react",
-      "description": "Auth + gestión de usuarios, DX excelent",
-      "url": "https://clerk.com",
-      "status": "active",
-      "tags": [
-        "auth",
-        "users",
-        "dx",
-        "react"
-      ],
-      "searchIndex": [
-        "@clerk/clerk-react",
-        "clerk-clerk-react",
-        "Auth + gestión de usuarios, DX excelente",
-        "development",
-        "react-stack",
-        "auth",
-        "users",
-        "dx",
-        "react"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
       "verified": true,
       "noCreditCard": false
     },
@@ -3516,6 +4629,40 @@
       "noCreditCard": false
     },
     {
+      "id": "deepdiagram-gh",
+      "name": "deepdiagram-gh",
+      "slug": "deepdiagram-gh",
+      "description": "Diagramas tÃ©cnicos asistidos por IA",
+      "url": "https://github.com/LingyiChen-AI/DeepDiagram",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "deepdiagram-gh"
+      ],
+      "searchIndex": [
+        "deepdiagram-gh",
+        "Diagramas tÃ©cnicos asistidos por IA",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "deeplearning-ai-build-with-andrew",
       "name": "DeepLearning.AI Build with Andrew",
       "slug": "deeplearning-ai-build-with-andrew",
@@ -3537,6 +4684,41 @@
         "tools",
         "y-desarrollo-ide",
         "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "deepseek-tui",
+      "name": "DeepSeek TUI",
+      "slug": "deepseek-tui",
+      "description": "Interface TUI terminal para API DeepSeek",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "y-y-ia-china",
+        "deepseek-tui"
+      ],
+      "searchIndex": [
+        "DeepSeek TUI",
+        "deepseek-tui",
+        "Interface TUI terminal para API DeepSeek",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "y-y-ia-china"
       ],
       "category": "development",
       "subcategory": "tools",
@@ -3587,26 +4769,26 @@
     },
     {
       "id": "deepseek-tui",
-      "name": "DeepSeek TUI",
+      "name": "DeepSeek-TUI",
       "slug": "deepseek-tui",
-      "description": "Interface TUI terminal para API DeepSeek",
-      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Interface TUI terminal API DeepSeek",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI.git",
       "status": "active",
       "tags": [
         "development",
         "tools",
         "y-desarrollo-ide",
-        "y-y-ia-china",
+        "ia-herramientas-especializadas",
         "deepseek-tui"
       ],
       "searchIndex": [
-        "DeepSeek TUI",
+        "DeepSeek-TUI",
         "deepseek-tui",
-        "Interface TUI terminal para API DeepSeek",
+        "Interface TUI terminal API DeepSeek",
         "development",
         "tools",
         "y-desarrollo-ide",
-        "y-y-ia-china"
+        "ia-herramientas-especializadas"
       ],
       "category": "development",
       "subcategory": "tools",
@@ -3616,7 +4798,7 @@
         "en"
       ],
       "limits": "unknown",
-      "added": "2026-05-11",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -3761,6 +4943,40 @@
       "noCreditCard": false
     },
     {
+      "id": "digital-chip-design-agents-gh",
+      "name": "digital-chip-design-agents-gh",
+      "slug": "digital-chip-design-agents-gh",
+      "description": "Agentes para diseÃ±o de chips",
+      "url": "https://github.com/chuanseng-ng/digital-chip-design-agents",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "digital-chip-design-agents-gh"
+      ],
+      "searchIndex": [
+        "digital-chip-design-agents-gh",
+        "Agentes para diseÃ±o de chips",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "dither-image",
       "name": "Dither Image",
       "slug": "dither-image",
@@ -3825,6 +5041,76 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "dolphin",
+      "name": "Dolphin",
+      "slug": "dolphin",
+      "description": "Parser visual para documentos y tablas",
+      "url": "https://github.com/bytedance/Dolphin",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-herramientas-especializadas",
+        "dolphin"
+      ],
+      "searchIndex": [
+        "Dolphin",
+        "dolphin",
+        "Parser visual para documentos y tablas",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-herramientas-especializadas"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "dramabox",
+      "name": "Dramabox",
+      "slug": "dramabox",
+      "description": "Recurso de IA",
+      "url": "https://huggingface.co/spaces/ResembleAI/Dramabox",
+      "status": "active",
+      "tags": [
+        "development",
+        "ide",
+        "y-desarrollo-ide",
+        "ia-video-audio",
+        "dramabox"
+      ],
+      "searchIndex": [
+        "Dramabox",
+        "dramabox",
+        "Recurso de IA",
+        "development",
+        "ide",
+        "y-desarrollo-ide",
+        "ia-video-audio"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -4180,6 +5466,74 @@
       "noCreditCard": false
     },
     {
+      "id": "es",
+      "name": "es",
+      "slug": "es",
+      "description": "Recurso de diseno",
+      "url": "https://gamma.app/es",
+      "status": "active",
+      "tags": [
+        "design",
+        "inspiration",
+        "yz-disea-o-ui-ux",
+        "inspiracia-n-disea-o-ui-ux",
+        "es"
+      ],
+      "searchIndex": [
+        "es",
+        "Recurso de diseno",
+        "design",
+        "inspiration",
+        "yz-disea-o-ui-ux",
+        "inspiracia-n-disea-o-ui-ux"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "everything-claude-code-gh",
+      "name": "everything-claude-code-gh",
+      "slug": "everything-claude-code-gh",
+      "description": "Recursos y notas Claude Code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "everything-claude-code-gh"
+      ],
+      "searchIndex": [
+        "everything-claude-code-gh",
+        "Recursos y notas Claude Code",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "excalidraw",
       "name": "Excalidraw",
       "slug": "excalidraw",
@@ -4251,6 +5605,41 @@
       "noCreditCard": false
     },
     {
+      "id": "fara-7",
+      "name": "Fara-7",
+      "slug": "fara-7",
+      "description": "Recurso de IA",
+      "url": "https://huggingface.co/microsoft/Fara-7",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "fara-7"
+      ],
+      "searchIndex": [
+        "Fara-7",
+        "fara-7",
+        "Recurso de IA",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "feather-icons",
       "name": "Feather Icons",
       "slug": "feather-icons",
@@ -4282,6 +5671,40 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "financial-services",
+      "name": "financial-services",
+      "slug": "financial-services",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/anthropics/financial-services",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "financial-services"
+      ],
+      "searchIndex": [
+        "financial-services",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -4777,6 +6200,40 @@
       "noCreditCard": false
     },
     {
+      "id": "fortnite-porting-gh",
+      "name": "fortnite-porting-gh",
+      "slug": "fortnite-porting-gh",
+      "description": "Porting y tooling de assets",
+      "url": "https://github.com/h4lfheart/FortnitePorting",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "fortnite-porting-gh"
+      ],
+      "searchIndex": [
+        "fortnite-porting-gh",
+        "Porting y tooling de assets",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "free-llm-api-resources",
       "name": "Free LLM API Resources",
       "slug": "free-llm-api-resources",
@@ -4882,6 +6339,41 @@
       "noCreditCard": false
     },
     {
+      "id": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "description": "Plataforma multiagente para flujos IA",
+      "url": "https://github.com/Runfusion/Fusion",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "fusion"
+      ],
+      "searchIndex": [
+        "Fusion",
+        "fusion",
+        "Plataforma multiagente para flujos IA",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "gemini-api-prompts",
       "name": "Gemini API Prompts",
       "slug": "gemini-api-prompts",
@@ -4948,6 +6440,40 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "gemini-api-gh",
+      "name": "gemini-api-gh",
+      "slug": "gemini-api-gh",
+      "description": "IntegraciÃ³n prÃ¡ctica de Gemini API",
+      "url": "https://github.com/HanaokaYuzu/Gemini-API",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "gemini-api-gh"
+      ],
+      "searchIndex": [
+        "gemini-api-gh",
+        "IntegraciÃ³n prÃ¡ctica de Gemini API",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -5124,6 +6650,40 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "getting-started",
+      "name": "getting-started",
+      "slug": "getting-started",
+      "description": "Recurso tecnico",
+      "url": "https://docs.openclaw.ai/start/getting-started",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "getting-started"
+      ],
+      "searchIndex": [
+        "getting-started",
+        "Recurso tecnico",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -6114,36 +7674,34 @@
       "id": "gstack",
       "name": "Gstack",
       "slug": "gstack",
-      "description": "Stack fullstack moderna",
+      "description": "Framework",
       "url": "https://github.com/garrytan/gstack",
       "status": "active",
       "tags": [
         "development",
-        "framework",
-        "fullstack",
-        "github",
-        "open-source"
+        "frameworks",
+        "y-desarrollo-ide",
+        "frameworks-librera-as",
+        "gstack"
       ],
       "searchIndex": [
         "Gstack",
         "gstack",
-        "Stack fullstack moderna",
+        "Framework",
         "development",
         "frameworks",
-        "development",
-        "framework",
-        "fullstack",
-        "github",
-        "open-source"
+        "y-desarrollo-ide",
+        "frameworks-librera-as"
       ],
       "category": "development",
       "subcategory": "frameworks",
       "pricing": "free",
       "languages": [
+        "es",
         "en"
       ],
-      "limits": "no-limits",
-      "added": "2026-05-14",
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -6566,7 +8124,7 @@
       "noCreditCard": false
     },
     {
-      "id": "heygen-hyperframes-2",
+      "id": "heygen-hyperframes",
       "name": "HeyGen Hyperframes",
       "slug": "heygen-hyperframes",
       "description": "Framework open source creación video HT",
@@ -6585,11 +8143,8 @@
         "Framework open source creación video HT",
         "development",
         "ide",
-        "development",
-        "ide",
         "y-desarrollo-ide",
-        "ia-video-audio",
-        "heygen-hyperframes"
+        "ia-video-audio"
       ],
       "category": "development",
       "subcategory": "ide",
@@ -6916,6 +8471,76 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "huggingface-agents-course",
+      "name": "HuggingFace-Agents-Course",
+      "slug": "huggingface-agents-course",
+      "description": "Curso oficial Hugging Face agentes IA",
+      "url": "https://huggingface.co/learn/agents-course",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "huggingface-agents-course"
+      ],
+      "searchIndex": [
+        "HuggingFace-Agents-Course",
+        "huggingface-agents-course",
+        "Curso oficial Hugging Face agentes IA",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "hyper-extract",
+      "name": "Hyper-Extract",
+      "slug": "hyper-extract",
+      "description": "ExtracciÃ³n inteligente de documentos",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-herramientas-especializadas",
+        "hyper-extract"
+      ],
+      "searchIndex": [
+        "Hyper-Extract",
+        "hyper-extract",
+        "ExtracciÃ³n inteligente de documentos",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-herramientas-especializadas"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -7272,6 +8897,41 @@
       "noCreditCard": false
     },
     {
+      "id": "interaction-models",
+      "name": "Interaction-Models",
+      "slug": "interaction-models",
+      "description": "ColaboraciÃ³n humano-IA escalable",
+      "url": "https://thinkingmachines.ai/blog/interaction-models",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "interaction-models"
+      ],
+      "searchIndex": [
+        "Interaction-Models",
+        "interaction-models",
+        "ColaboraciÃ³n humano-IA escalable",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "ionicons",
       "name": "Ionicons",
       "slug": "ionicons",
@@ -7372,6 +9032,40 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "jadx-mcp-server",
+      "name": "jadx-mcp-server",
+      "slug": "jadx-mcp-server",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/zinja-coder/jadx-mcp-server",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "jadx-mcp-server"
+      ],
+      "searchIndex": [
+        "jadx-mcp-server",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -7551,6 +9245,41 @@
       "noCreditCard": false
     },
     {
+      "id": "kaggle-whitepaper-agent",
+      "name": "Kaggle-Whitepaper-Agent",
+      "slug": "kaggle-whitepaper-agent",
+      "description": "Agente IA anÃ¡lisis papers Kaggle",
+      "url": "https://www.kaggle.com/whitepaper-agent",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "kaggle-whitepaper-agent"
+      ],
+      "searchIndex": [
+        "Kaggle-Whitepaper-Agent",
+        "kaggle-whitepaper-agent",
+        "Agente IA anÃ¡lisis papers Kaggle",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "kokonut-ui",
       "name": "KokonutUI",
       "slug": "kokonutui",
@@ -7587,6 +9316,41 @@
       "noCreditCard": false
     },
     {
+      "id": "kronos",
+      "name": "Kronos",
+      "slug": "kronos",
+      "description": "Framework ML time-series predictions",
+      "url": "https://github.com/shiyu-coder/Kronos.git",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-herramientas-especializadas",
+        "kronos"
+      ],
+      "searchIndex": [
+        "Kronos",
+        "kronos",
+        "Framework ML time-series predictions",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-herramientas-especializadas"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "langchain",
       "name": "LangChain",
       "slug": "langchain",
@@ -7618,6 +9382,41 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "lap",
+      "name": "LAP",
+      "slug": "lap",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Lap-Platform/LAP",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "lap"
+      ],
+      "searchIndex": [
+        "LAP",
+        "lap",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -7688,42 +9487,6 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "lemonsqueezy-react",
-      "name": "@lemonsqueezy/lemonsqueezy.js",
-      "slug": "lemonsqueezy-lemonsqueezy-js",
-      "description": "Checkout + licencias + suscripciones",
-      "url": "https://lemonsqueezy.com",
-      "status": "active",
-      "tags": [
-        "payments",
-        "licenses",
-        "subscriptions",
-        "checkout"
-      ],
-      "searchIndex": [
-        "@lemonsqueezy/lemonsqueezy.js",
-        "lemonsqueezy-lemonsqueezy-js",
-        "Checkout + licencias + suscripciones",
-        "development",
-        "react-stack",
-        "payments",
-        "licenses",
-        "subscriptions",
-        "checkout"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
       "verified": true,
       "noCreditCard": false
     },
@@ -7867,6 +9630,40 @@
       "noCreditCard": false
     },
     {
+      "id": "lightclaw-gh",
+      "name": "lightclaw-gh",
+      "slug": "lightclaw-gh",
+      "description": "AutomatizaciÃ³n con enfoque IA",
+      "url": "https://github.com/zofrasca/lightclaw",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "lightclaw-gh"
+      ],
+      "searchIndex": [
+        "lightclaw-gh",
+        "AutomatizaciÃ³n con enfoque IA",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "liquid-glass",
       "name": "Liquid Glass",
       "slug": "liquid-glass",
@@ -7898,6 +9695,110 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "llm-engineering",
+      "name": "llm_engineering",
+      "slug": "llm-engineering",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ed-donner/llm_engineering",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "llm-engineering"
+      ],
+      "searchIndex": [
+        "llm_engineering",
+        "llm-engineering",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "llm-course",
+      "name": "LLM-Course",
+      "slug": "llm-course",
+      "description": "Curso completo LLMs desde cero",
+      "url": "https://github.com/mlabonne/llm-course",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "llm-course"
+      ],
+      "searchIndex": [
+        "LLM-Course",
+        "llm-course",
+        "Curso completo LLMs desde cero",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "llm-engineer-toolkit",
+      "name": "llm-engineer-toolkit",
+      "slug": "llm-engineer-toolkit",
+      "description": "ColecciÃ³n curada de librerÃ­as LLM",
+      "url": "https://github.com/KalyanKS-NLP/llm-engineer-toolkit",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "llm-engineer-toolkit"
+      ],
+      "searchIndex": [
+        "llm-engineer-toolkit",
+        "ColecciÃ³n curada de librerÃ­as LLM",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -7968,6 +9869,40 @@
       ],
       "limits": "unknown",
       "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "llms-from-scratch-alt-gh",
+      "name": "llms-from-scratch-alt-gh",
+      "slug": "llms-from-scratch-alt-gh",
+      "description": "Implementaciones LLM desde cero",
+      "url": "https://github.com/analyticalrohit/llms-from-scratch",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "llms-from-scratch-alt-gh"
+      ],
+      "searchIndex": [
+        "llms-from-scratch-alt-gh",
+        "Implementaciones LLM desde cero",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -8144,6 +10079,41 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "made-with-ml",
+      "name": "Made-With-ML",
+      "slug": "made-with-ml",
+      "description": "Plataforma completa ML engineering produ",
+      "url": "https://madewithml.com",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "made-with-ml"
+      ],
+      "searchIndex": [
+        "Made-With-ML",
+        "made-with-ml",
+        "Plataforma completa ML engineering produ",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -8360,6 +10330,40 @@
       "noCreditCard": false
     },
     {
+      "id": "mars-gh",
+      "name": "mars-gh",
+      "slug": "mars-gh",
+      "description": "Repositorio Microsoft MarS",
+      "url": "https://github.com/microsoft/MarS",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "mars-gh"
+      ],
+      "searchIndex": [
+        "mars-gh",
+        "Repositorio Microsoft MarS",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "material-icons",
       "name": "Material Icons",
       "slug": "material-icons",
@@ -8430,6 +10434,74 @@
       "noCreditCard": false
     },
     {
+      "id": "material-3-skill",
+      "name": "material-3-skill",
+      "slug": "material-3-skill",
+      "description": "N/A",
+      "url": "https://github.com/hamen/material-3-skill",
+      "status": "active",
+      "tags": [
+        "design",
+        "components",
+        "yz-disea-o-ui-ux",
+        "librera-as-ui-componentes",
+        "material-3-skill"
+      ],
+      "searchIndex": [
+        "material-3-skill",
+        "N/A",
+        "design",
+        "components",
+        "yz-disea-o-ui-ux",
+        "librera-as-ui-componentes"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "mcp-toolbox",
+      "name": "mcp-toolbox",
+      "slug": "mcp-toolbox",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/googleapis/mcp-toolbox",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "mcp-toolbox"
+      ],
+      "searchIndex": [
+        "mcp-toolbox",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "mempalace",
       "name": "MemPalace",
       "slug": "mempalace",
@@ -8465,6 +10537,40 @@
       "noCreditCard": false
     },
     {
+      "id": "mercury-agent",
+      "name": "mercury-agent",
+      "slug": "mercury-agent",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/cosmicstack/mercury-agent",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "mercury-agent"
+      ],
+      "searchIndex": [
+        "mercury-agent",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "merleau",
       "name": "Merleau",
       "slug": "merleau",
@@ -8496,6 +10602,40 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "metaclaw-gh",
+      "name": "metaclaw-gh",
+      "slug": "metaclaw-gh",
+      "description": "Framework de agentes autocontenidos",
+      "url": "https://github.com/aiming-lab/MetaClaw",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "metaclaw-gh"
+      ],
+      "searchIndex": [
+        "metaclaw-gh",
+        "Framework de agentes autocontenidos",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -8570,6 +10710,40 @@
       "noCreditCard": false
     },
     {
+      "id": "mini-browser",
+      "name": "mini-browser",
+      "slug": "mini-browser",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/runablehq/mini-browser",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "mini-browser"
+      ],
+      "searchIndex": [
+        "mini-browser",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "mirofish",
       "name": "MiroFish",
       "slug": "mirofish",
@@ -8635,6 +10809,40 @@
       ],
       "limits": "unknown",
       "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "mlfinlab-gh",
+      "name": "mlfinlab-gh",
+      "slug": "mlfinlab-gh",
+      "description": "LibrerÃ­a de finanzas cuantitativas",
+      "url": "https://github.com/hudson-and-thames/mlfinlab",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "mlfinlab-gh"
+      ],
+      "searchIndex": [
+        "mlfinlab-gh",
+        "LibrerÃ­a de finanzas cuantitativas",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -8740,42 +10948,6 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "mui-data-grid",
-      "name": "@mui/x-data-grid",
-      "slug": "mui-x-data-grid",
-      "description": "DataGrid optimizado, integrado con MUI",
-      "url": "https://mui.com/x/react-data-grid/",
-      "status": "active",
-      "tags": [
-        "tables",
-        "mui",
-        "datagrid",
-        "optimized"
-      ],
-      "searchIndex": [
-        "@mui/x-data-grid",
-        "mui-x-data-grid",
-        "DataGrid optimizado, integrado con MUI",
-        "development",
-        "react-stack",
-        "tables",
-        "mui",
-        "datagrid",
-        "optimized"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
       "verified": true,
       "noCreditCard": false
     },
@@ -9590,6 +11762,75 @@
       "noCreditCard": false
     },
     {
+      "id": "open-webui",
+      "name": "Open WebUI",
+      "slug": "open-webui",
+      "description": "Interfaz web para LLMs locales",
+      "url": "https://github.com/open-webui/open-webui",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "open-webui"
+      ],
+      "searchIndex": [
+        "Open WebUI",
+        "open-webui",
+        "Interfaz web para LLMs locales",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "open-design-gh",
+      "name": "open-design-gh",
+      "slug": "open-design-gh",
+      "description": "Recursos de diseÃ±o open source",
+      "url": "https://github.com/nexu-io/open-design",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "open-design-gh"
+      ],
+      "searchIndex": [
+        "open-design-gh",
+        "Recursos de diseÃ±o open source",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "open-llm-vtuber",
       "name": "Open-LLM-VTuber",
       "slug": "open-llm-vtuber",
@@ -9625,27 +11866,27 @@
       "noCreditCard": false
     },
     {
-      "id": "open-webui",
-      "name": "Open WebUI",
-      "slug": "open-webui",
-      "description": "Interfaz web para LLMs locales",
-      "url": "https://github.com/open-webui/open-webui",
+      "id": "openai-agents-docs",
+      "name": "OpenAI-Agents-Docs",
+      "slug": "openai-agents-docs",
+      "description": "DocumentaciÃ³n oficial agentes OpenAI",
+      "url": "https://platform.openai.com/docs/guides/agents",
       "status": "active",
       "tags": [
         "development",
         "tools",
         "y-desarrollo-ide",
-        "ia-agentes-automatizacia-n",
-        "open-webui"
+        "ia-cursos-aprendizaje",
+        "openai-agents-docs"
       ],
       "searchIndex": [
-        "Open WebUI",
-        "open-webui",
-        "Interfaz web para LLMs locales",
+        "OpenAI-Agents-Docs",
+        "openai-agents-docs",
+        "DocumentaciÃ³n oficial agentes OpenAI",
         "development",
         "tools",
         "y-desarrollo-ide",
-        "ia-agentes-automatizacia-n"
+        "ia-cursos-aprendizaje"
       ],
       "category": "development",
       "subcategory": "tools",
@@ -9655,7 +11896,7 @@
         "en"
       ],
       "limits": "unknown",
-      "added": "2026-05-11",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -9833,6 +12074,40 @@
       "noCreditCard": false
     },
     {
+      "id": "openskills-gh",
+      "name": "openskills-gh",
+      "slug": "openskills-gh",
+      "description": "Rating bayesiano para emparejamientos",
+      "url": "https://github.com/numman-ali/openskills",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "openskills-gh"
+      ],
+      "searchIndex": [
+        "openskills-gh",
+        "Rating bayesiano para emparejamientos",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "openspec",
       "name": "OpenSpec",
       "slug": "openspec",
@@ -9903,6 +12178,41 @@
       "noCreditCard": false
     },
     {
+      "id": "paddlepaddle",
+      "name": "PaddlePaddle",
+      "slug": "paddlepaddle",
+      "description": "Framework IA/ML chino alternativa Tensor",
+      "url": "https://github.com/paddlepaddle",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-herramientas-especializadas",
+        "paddlepaddle"
+      ],
+      "searchIndex": [
+        "PaddlePaddle",
+        "paddlepaddle",
+        "Framework IA/ML chino alternativa Tensor",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-herramientas-especializadas"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "pagina-author-gist",
       "name": "Pagina Author Gist",
       "slug": "pagina-author-gist",
@@ -9939,38 +12249,70 @@
       "noCreditCard": false
     },
     {
-      "id": "paypal-react",
-      "name": "@paypal/react-paypal-js",
-      "slug": "paypal-react-paypal-js",
-      "description": "Checkout PayPal/Venmo, SDK oficial",
-      "url": "https://www.paypal.com",
+      "id": "paperclip",
+      "name": "paperclip",
+      "slug": "paperclip",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/paperclipai/paperclip",
       "status": "active",
       "tags": [
-        "payments",
-        "paypal",
-        "checkout",
-        "react"
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "paperclip"
       ],
       "searchIndex": [
-        "@paypal/react-paypal-js",
-        "paypal-react-paypal-js",
-        "Checkout PayPal/Venmo, SDK oficial",
+        "paperclip",
+        "Repositorio GitHub",
         "development",
-        "react-stack",
-        "payments",
-        "paypal",
-        "checkout",
-        "react"
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
       ],
       "category": "development",
-      "subcategory": "react-stack",
+      "subcategory": "tools",
       "pricing": "free",
       "languages": [
         "es",
         "en"
       ],
       "limits": "unknown",
-      "added": "2026-01-10",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "paperetl-gh",
+      "name": "paperetl-gh",
+      "slug": "paperetl-gh",
+      "description": "ETL semÃ¡ntico para papers",
+      "url": "https://github.com/neuml/paperetl",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "paperetl-gh"
+      ],
+      "searchIndex": [
+        "paperetl-gh",
+        "ETL semÃ¡ntico para papers",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -10185,6 +12527,74 @@
       "noCreditCard": false
     },
     {
+      "id": "playwright-computer-use-gh",
+      "name": "playwright-computer-use-gh",
+      "slug": "playwright-computer-use-gh",
+      "description": "Control de navegador por agentes",
+      "url": "https://github.com/invariantlabs-ai/playwright-computer-use",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "playwright-computer-use-gh"
+      ],
+      "searchIndex": [
+        "playwright-computer-use-gh",
+        "Control de navegador por agentes",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pm-claude-skills",
+      "name": "pm-claude-skills",
+      "slug": "pm-claude-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "pm-claude-skills"
+      ],
+      "searchIndex": [
+        "pm-claude-skills",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "pollo-ai",
       "name": "Pollo AI",
       "slug": "pollo-ai",
@@ -10363,6 +12773,40 @@
       "noCreditCard": false
     },
     {
+      "id": "presenton",
+      "name": "presenton",
+      "slug": "presenton",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/presenton/presenton",
+      "status": "active",
+      "tags": [
+        "design",
+        "inspiration",
+        "yz-disea-o-ui-ux",
+        "inspiracia-n-disea-o-ui-ux",
+        "presenton"
+      ],
+      "searchIndex": [
+        "presenton",
+        "Repositorio GitHub",
+        "design",
+        "inspiration",
+        "yz-disea-o-ui-ux",
+        "inspiracia-n-disea-o-ui-ux"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "profile-card-13",
       "name": "Profile Card 13",
       "slug": "profile-card-13",
@@ -10435,6 +12879,40 @@
       "noCreditCard": false
     },
     {
+      "id": "project-ideas-resources-gh",
+      "name": "project-ideas-resources-gh",
+      "slug": "project-ideas-resources-gh",
+      "description": "Ideas y recursos para proyectos",
+      "url": "https://github.com/The-Cool-Coders/Project-Ideas-And-Resources",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "project-ideas-resources-gh"
+      ],
+      "searchIndex": [
+        "project-ideas-resources-gh",
+        "Ideas y recursos para proyectos",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "prometheus-euniai",
       "name": "Prometheus EuniAI",
       "slug": "prometheus-euniai",
@@ -10501,6 +12979,75 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "prompt-engineering-guide",
+      "name": "Prompt-Engineering-Guide",
+      "slug": "prompt-engineering-guide",
+      "description": "GuÃ­a ingenierÃ­a prompts para LLMs",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "prompt-engineering-guide"
+      ],
+      "searchIndex": [
+        "Prompt-Engineering-Guide",
+        "prompt-engineering-guide",
+        "GuÃ­a ingenierÃ­a prompts para LLMs",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "prompt-master",
+      "name": "prompt-master",
+      "slug": "prompt-master",
+      "description": "N/A",
+      "url": "https://github.com/nidhinjs/prompt-master",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "y-colecciones-prompts",
+        "prompt-master"
+      ],
+      "searchIndex": [
+        "prompt-master",
+        "N/A",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "y-colecciones-prompts"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -10676,6 +13223,40 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "ps5-linux-loader-gh",
+      "name": "ps5-linux-loader-gh",
+      "slug": "ps5-linux-loader-gh",
+      "description": "Loader Linux para PS5",
+      "url": "https://github.com/ps5-linux/ps5-linux-loader",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "ps5-linux-loader-gh"
+      ],
+      "searchIndex": [
+        "ps5-linux-loader-gh",
+        "Loader Linux para PS5",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -10927,41 +13508,6 @@
       "noCreditCard": false
     },
     {
-      "id": "react-chartjs-2",
-      "name": "react-chartjs-2",
-      "slug": "react-chartjs-2",
-      "description": "Wrapper oficial de Chart.js",
-      "url": "https://react-chartjs-2.js.org",
-      "status": "active",
-      "tags": [
-        "charts",
-        "chartjs",
-        "wrapper",
-        "official"
-      ],
-      "searchIndex": [
-        "react-chartjs-2",
-        "Wrapper oficial de Chart.js",
-        "development",
-        "react-stack",
-        "charts",
-        "chartjs",
-        "wrapper",
-        "official"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "react-doctor",
       "name": "React Doctor",
       "slug": "react-doctor",
@@ -10998,40 +13544,6 @@
       "noCreditCard": false
     },
     {
-      "id": "react-doctor-ref",
-      "name": "react-doctor-ref",
-      "slug": "react-doctor-ref",
-      "description": "Herramienta Dev",
-      "url": "https://www.npmjs.com/package/react-doctor",
-      "status": "active",
-      "tags": [
-        "development",
-        "react-stack",
-        "desarrollo-ide",
-        "react-stack-libraries",
-        "react-doctor-ref"
-      ],
-      "searchIndex": [
-        "react-doctor-ref",
-        "Herramienta Dev",
-        "development",
-        "react-stack",
-        "desarrollo-ide",
-        "react-stack-libraries"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-14",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "react-hook-form",
       "name": "React Hook Form",
       "slug": "react-hook-form",
@@ -11054,41 +13566,6 @@
         "react",
         "performance",
         "refs"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "react-hot-toast",
-      "name": "react-hot-toast",
-      "slug": "react-hot-toast",
-      "description": "Ligero, API simple, muy estable",
-      "url": "https://react-hot-toast.com",
-      "status": "active",
-      "tags": [
-        "toasts",
-        "notifications",
-        "lightweight",
-        "stable"
-      ],
-      "searchIndex": [
-        "react-hot-toast",
-        "Ligero, API simple, muy estable",
-        "development",
-        "react-stack",
-        "toasts",
-        "notifications",
-        "lightweight",
-        "stable"
       ],
       "category": "development",
       "subcategory": "react-stack",
@@ -11138,28 +13615,96 @@
       "noCreditCard": false
     },
     {
-      "id": "react-pdf-renderer",
-      "name": "@react-pdf/renderer",
-      "slug": "react-pdf-renderer",
-      "description": "Genera PDFs usando componentes JSX/CSS-l",
-      "url": "https://react-pdf.org",
+      "id": "react-chartjs-2",
+      "name": "react-chartjs-2",
+      "slug": "react-chartjs-2",
+      "description": "Wrapper oficial de Chart.js",
+      "url": "https://react-chartjs-2.js.org",
       "status": "active",
       "tags": [
-        "pdf",
-        "react",
-        "jsx",
-        "generator"
+        "charts",
+        "chartjs",
+        "wrapper",
+        "official"
       ],
       "searchIndex": [
-        "@react-pdf/renderer",
-        "react-pdf-renderer",
-        "Genera PDFs usando componentes JSX/CSS-like",
+        "react-chartjs-2",
+        "Wrapper oficial de Chart.js",
         "development",
         "react-stack",
-        "pdf",
-        "react",
-        "jsx",
-        "generator"
+        "charts",
+        "chartjs",
+        "wrapper",
+        "official"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-doctor-ref",
+      "name": "react-doctor-ref",
+      "slug": "react-doctor-ref",
+      "description": "Herramienta Dev",
+      "url": "https://www.npmjs.com/package/react-doctor",
+      "status": "active",
+      "tags": [
+        "development",
+        "react-stack",
+        "desarrollo-ide",
+        "react-stack-libraries",
+        "react-doctor-ref"
+      ],
+      "searchIndex": [
+        "react-doctor-ref",
+        "Herramienta Dev",
+        "development",
+        "react-stack",
+        "desarrollo-ide",
+        "react-stack-libraries"
+      ],
+      "category": "development",
+      "subcategory": "react-stack",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "react-hot-toast",
+      "name": "react-hot-toast",
+      "slug": "react-hot-toast",
+      "description": "Ligero, API simple, muy estable",
+      "url": "https://react-hot-toast.com",
+      "status": "active",
+      "tags": [
+        "toasts",
+        "notifications",
+        "lightweight",
+        "stable"
+      ],
+      "searchIndex": [
+        "react-hot-toast",
+        "Ligero, API simple, muy estable",
+        "development",
+        "react-stack",
+        "toasts",
+        "notifications",
+        "lightweight",
+        "stable"
       ],
       "category": "development",
       "subcategory": "react-stack",
@@ -11312,38 +13857,36 @@
       "noCreditCard": false
     },
     {
-      "id": "redux-toolkit",
-      "name": "@reduxjs/toolkit",
-      "slug": "reduxjs-toolkit",
-      "description": "Solución oficial de Redux, inmutabilida",
-      "url": "https://redux-toolkit.js.org",
+      "id": "redplanet-core-gh",
+      "name": "redplanet-core-gh",
+      "slug": "redplanet-core-gh",
+      "description": "Core framework para productos IA",
+      "url": "https://github.com/RedPlanetHQ/core",
       "status": "active",
       "tags": [
-        "state",
-        "redux",
-        "official",
-        "devtools"
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "redplanet-core-gh"
       ],
       "searchIndex": [
-        "@reduxjs/toolkit",
-        "reduxjs-toolkit",
-        "Solución oficial de Redux, inmutabilidad + DevTools",
+        "redplanet-core-gh",
+        "Core framework para productos IA",
         "development",
-        "react-stack",
-        "state",
-        "redux",
-        "official",
-        "devtools"
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
       ],
       "category": "development",
-      "subcategory": "react-stack",
+      "subcategory": "tools",
       "pricing": "free",
       "languages": [
         "es",
         "en"
       ],
       "limits": "unknown",
-      "added": "2026-01-10",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -11665,6 +14208,40 @@
       "noCreditCard": false
     },
     {
+      "id": "rl-course-materials-gh",
+      "name": "rl-course-materials-gh",
+      "slug": "rl-course-materials-gh",
+      "description": "Materiales de curso de RL",
+      "url": "https://github.com/upb-lea/reinforcement_learning_course_materials",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "rl-course-materials-gh"
+      ],
+      "searchIndex": [
+        "rl-course-materials-gh",
+        "Materiales de curso de RL",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "rocket",
       "name": "Rocket",
       "slug": "rocket",
@@ -11696,6 +14273,40 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "rowboat-gh",
+      "name": "rowboat-gh",
+      "slug": "rowboat-gh",
+      "description": "Framework para agentes en navegadores",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "rowboat-gh"
+      ],
+      "searchIndex": [
+        "rowboat-gh",
+        "Framework para agentes en navegadores",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -12615,6 +15226,40 @@
       "noCreditCard": false
     },
     {
+      "id": "stanford-cs-229-machine-learning",
+      "name": "stanford-cs-229-machine-learning",
+      "slug": "stanford-cs-229-machine-learning",
+      "description": "Apuntes y recursos Stanford CS229",
+      "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "stanford-cs-229-machine-learning"
+      ],
+      "searchIndex": [
+        "stanford-cs-229-machine-learning",
+        "Apuntes y recursos Stanford CS229",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "starterindex",
       "name": "StarterIndex",
       "slug": "starterindex",
@@ -12721,42 +15366,6 @@
       "noCreditCard": false
     },
     {
-      "id": "stripe-react",
-      "name": "@stripe/react-stripe-js",
-      "slug": "stripe-react-stripe-js",
-      "description": "Elementos de pago seguros, SCA/3DS",
-      "url": "https://stripe.com",
-      "status": "active",
-      "tags": [
-        "payments",
-        "stripe",
-        "secure",
-        "react"
-      ],
-      "searchIndex": [
-        "@stripe/react-stripe-js",
-        "stripe-react-stripe-js",
-        "Elementos de pago seguros, SCA/3DS",
-        "development",
-        "react-stack",
-        "payments",
-        "stripe",
-        "secure",
-        "react"
-      ],
-      "category": "development",
-      "subcategory": "react-stack",
-      "pricing": "premium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "suno",
       "name": "Suno",
       "slug": "suno",
@@ -12827,6 +15436,40 @@
       "noCreditCard": false
     },
     {
+      "id": "supertonic",
+      "name": "supertonic",
+      "slug": "supertonic",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "status": "active",
+      "tags": [
+        "development",
+        "ide",
+        "y-desarrollo-ide",
+        "ia-video-audio",
+        "supertonic"
+      ],
+      "searchIndex": [
+        "supertonic",
+        "Repositorio GitHub",
+        "development",
+        "ide",
+        "y-desarrollo-ide",
+        "ia-video-audio"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "surfsense",
       "name": "SurfSense",
       "slug": "surfsense",
@@ -12858,6 +15501,75 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "surya",
+      "name": "Surya",
+      "slug": "surya",
+      "description": "OCR document intelligence multimodal",
+      "url": "https://github.com/datalab-to/surya",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-herramientas-especializadas",
+        "surya"
+      ],
+      "searchIndex": [
+        "Surya",
+        "surya",
+        "OCR document intelligence multimodal",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-herramientas-especializadas"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "sutskever-30-implementations-gh",
+      "name": "sutskever-30-implementations-gh",
+      "slug": "sutskever-30-implementations-gh",
+      "description": "30 ideas IA para implementar",
+      "url": "https://github.com/pageman/sutskever-30-implementations",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje",
+        "sutskever-30-implementations-gh"
+      ],
+      "searchIndex": [
+        "sutskever-30-implementations-gh",
+        "30 ideas IA para implementar",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-cursos-aprendizaje"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -13326,74 +16038,71 @@
       "noCreditCard": false
     },
     {
-      "id": "tanstack-table",
-      "name": "@tanstack/react-table",
-      "slug": "tanstack-react-table",
-      "description": "Headless, máximo control sobre UI y ló",
-      "url": "https://tanstack.com/table",
+      "id": "taskie",
+      "name": "taskie",
+      "slug": "taskie",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/chalie-ai/taskie",
       "status": "active",
       "tags": [
-        "tables",
-        "headless",
-        "control",
-        "react"
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n",
+        "taskie"
       ],
       "searchIndex": [
-        "@tanstack/react-table",
-        "tanstack-react-table",
-        "Headless, máximo control sobre UI y lógica",
+        "taskie",
+        "Repositorio GitHub",
         "development",
-        "react-stack",
-        "tables",
-        "headless",
-        "control",
-        "react"
+        "tools",
+        "y-desarrollo-ide",
+        "ia-agentes-automatizacia-n"
       ],
       "category": "development",
-      "subcategory": "react-stack",
+      "subcategory": "tools",
       "pricing": "free",
       "languages": [
         "es",
         "en"
       ],
       "limits": "unknown",
-      "added": "2026-01-10",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
     {
-      "id": "tanstack-virtual",
-      "name": "@tanstack/react-virtual",
-      "slug": "tanstack-react-virtual",
-      "description": "Virtualización de listas/tablas para gr",
-      "url": "https://tanstack.com/virtual",
+      "id": "template-string-converter",
+      "name": "Template String Converter",
+      "slug": "template-string-converter",
+      "description": "Convierte strings a template literals",
+      "url": "https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter",
       "status": "active",
       "tags": [
-        "virtualization",
-        "lists",
-        "tables",
-        "performance"
+        "development",
+        "extensions",
+        "y-desarrollo-ide",
+        "ide-extensions-tools",
+        "template-string-converter"
       ],
       "searchIndex": [
-        "@tanstack/react-virtual",
-        "tanstack-react-virtual",
-        "Virtualización de listas/tablas para grandes datasets",
+        "Template String Converter",
+        "template-string-converter",
+        "Convierte strings a template literals",
         "development",
-        "react-stack",
-        "virtualization",
-        "lists",
-        "tables",
-        "performance"
+        "extensions",
+        "y-desarrollo-ide",
+        "ide-extensions-tools"
       ],
       "category": "development",
-      "subcategory": "react-stack",
+      "subcategory": "extensions",
       "pricing": "free",
       "languages": [
         "es",
         "en"
       ],
       "limits": "unknown",
-      "added": "2026-01-10",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -13501,6 +16210,40 @@
       "noCreditCard": false
     },
     {
+      "id": "tracer",
+      "name": "tracer",
+      "slug": "tracer",
+      "description": "Reduce coste LLM en clasificaciÃ³n",
+      "url": "https://github.com/adrida/tracer",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-herramientas-especializadas",
+        "tracer"
+      ],
+      "searchIndex": [
+        "tracer",
+        "Reduce coste LLM en clasificaciÃ³n",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-herramientas-especializadas"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "tradingview-charts",
       "name": "TradingView Charts",
       "slug": "tradingview-charts",
@@ -13532,6 +16275,40 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "train-llm-from-scratch-gh",
+      "name": "train-llm-from-scratch-gh",
+      "slug": "train-llm-from-scratch-gh",
+      "description": "Entrenamiento LLM paso a paso",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "train-llm-from-scratch-gh"
+      ],
+      "searchIndex": [
+        "train-llm-from-scratch-gh",
+        "Entrenamiento LLM paso a paso",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -13642,6 +16419,40 @@
       "noCreditCard": false
     },
     {
+      "id": "trykimu-videoeditor-gh",
+      "name": "trykimu-videoeditor-gh",
+      "slug": "trykimu-videoeditor-gh",
+      "description": "Editor de video con capacidades IA",
+      "url": "https://github.com/trykimu/videoeditor",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "trykimu-videoeditor-gh"
+      ],
+      "searchIndex": [
+        "trykimu-videoeditor-gh",
+        "Editor de video con capacidades IA",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "tts-audio-suite",
       "name": "TTS-Audio-Suite",
       "slug": "tts-audio-suite",
@@ -13673,6 +16484,40 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "turboquant-plus-gh",
+      "name": "turboquant-plus-gh",
+      "slug": "turboquant-plus-gh",
+      "description": "Trading cuantitativo y backtesting",
+      "url": "https://github.com/TheTom/turboquant_plus",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "turboquant-plus-gh"
+      ],
+      "searchIndex": [
+        "turboquant-plus-gh",
+        "Trading cuantitativo y backtesting",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -14096,6 +16941,75 @@
       "noCreditCard": false
     },
     {
+      "id": "versecrafter",
+      "name": "VerseCrafter",
+      "slug": "versecrafter",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/TencentARC/VerseCrafter",
+      "status": "active",
+      "tags": [
+        "development",
+        "ide",
+        "y-desarrollo-ide",
+        "ia-video-audio",
+        "versecrafter"
+      ],
+      "searchIndex": [
+        "VerseCrafter",
+        "versecrafter",
+        "Repositorio GitHub",
+        "development",
+        "ide",
+        "y-desarrollo-ide",
+        "ia-video-audio"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "vibe-coding-cn",
+      "name": "vibe-coding-cn",
+      "slug": "vibe-coding-cn",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/tukuaiai/vibe-coding-cn",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "vibe-coding-cn"
+      ],
+      "searchIndex": [
+        "vibe-coding-cn",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "vidstudio",
       "name": "VidStudio",
       "slug": "vidstudio",
@@ -14306,6 +17220,41 @@
       "noCreditCard": false
     },
     {
+      "id": "visomaster-fusion",
+      "name": "VisoMaster-Fusion",
+      "slug": "visomaster-fusion",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/VisoMasterFusion/VisoMaster-Fusion",
+      "status": "active",
+      "tags": [
+        "development",
+        "ide",
+        "y-desarrollo-ide",
+        "ia-video-audio",
+        "visomaster-fusion"
+      ],
+      "searchIndex": [
+        "VisoMaster-Fusion",
+        "visomaster-fusion",
+        "Repositorio GitHub",
+        "development",
+        "ide",
+        "y-desarrollo-ide",
+        "ia-video-audio"
+      ],
+      "category": "development",
+      "subcategory": "ide",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "voicebox",
       "name": "Voicebox",
       "slug": "voicebox",
@@ -14376,41 +17325,6 @@
       "noCreditCard": false
     },
     {
-      "id": "vs-code-copilot-docs",
-      "name": "VS Code Copilot Docs",
-      "slug": "vs-code-copilot-docs",
-      "description": "Documentación oficial GitHub Copilot en",
-      "url": "https://code.visualstudio.com/docs/copilot/overview",
-      "status": "active",
-      "tags": [
-        "development",
-        "extensions",
-        "y-desarrollo-ide",
-        "ide-extensions-tools",
-        "vs-code-copilot-docs"
-      ],
-      "searchIndex": [
-        "VS Code Copilot Docs",
-        "vs-code-copilot-docs",
-        "Documentación oficial GitHub Copilot en",
-        "development",
-        "extensions",
-        "y-desarrollo-ide",
-        "ide-extensions-tools"
-      ],
-      "category": "development",
-      "subcategory": "extensions",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-11",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "vscode",
       "name": "VS Code",
       "slug": "vs-code",
@@ -14442,6 +17356,41 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "vs-code-copilot-docs",
+      "name": "VS Code Copilot Docs",
+      "slug": "vs-code-copilot-docs",
+      "description": "Documentación oficial GitHub Copilot en",
+      "url": "https://code.visualstudio.com/docs/copilot/overview",
+      "status": "active",
+      "tags": [
+        "development",
+        "extensions",
+        "y-desarrollo-ide",
+        "ide-extensions-tools",
+        "vs-code-copilot-docs"
+      ],
+      "searchIndex": [
+        "VS Code Copilot Docs",
+        "vs-code-copilot-docs",
+        "Documentación oficial GitHub Copilot en",
+        "development",
+        "extensions",
+        "y-desarrollo-ide",
+        "ide-extensions-tools"
+      ],
+      "category": "development",
+      "subcategory": "extensions",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-11",
       "verified": true,
       "noCreditCard": false
     },
@@ -14728,6 +17677,40 @@
       "noCreditCard": false
     },
     {
+      "id": "winpodx",
+      "name": "winpodx",
+      "slug": "winpodx",
+      "description": "Contenedores Linux ligeros en Windows",
+      "url": "https://github.com/kernalix7/winpodx",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "herramientas-dev-varias",
+        "winpodx"
+      ],
+      "searchIndex": [
+        "winpodx",
+        "Contenedores Linux ligeros en Windows",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "herramientas-dev-varias"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "wiretext",
       "name": "Wiretext",
       "slug": "wiretext",
@@ -14759,6 +17742,109 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "wm",
+      "name": "WM",
+      "slug": "wm",
+      "description": "Recurso tecnico",
+      "url": "https://nvlabs.github.io/Sana/WM",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "wm"
+      ],
+      "searchIndex": [
+        "WM",
+        "wm",
+        "Recurso tecnico",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "www-beautiful-ai",
+      "name": "www-beautiful-ai",
+      "slug": "www-beautiful-ai",
+      "description": "Recurso de diseno",
+      "url": "https://www.beautiful.ai",
+      "status": "active",
+      "tags": [
+        "design",
+        "inspiration",
+        "yz-disea-o-ui-ux",
+        "inspiracia-n-disea-o-ui-ux",
+        "www-beautiful-ai"
+      ],
+      "searchIndex": [
+        "www-beautiful-ai",
+        "Recurso de diseno",
+        "design",
+        "inspiration",
+        "yz-disea-o-ui-ux",
+        "inspiracia-n-disea-o-ui-ux"
+      ],
+      "category": "design",
+      "subcategory": "inspiration",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "yue-gh",
+      "name": "yue-gh",
+      "slug": "yue-gh",
+      "description": "Proyecto multimodal de audio/mÃºsica",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "yue-gh"
+      ],
+      "searchIndex": [
+        "yue-gh",
+        "Proyecto multimodal de audio/mÃºsica",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -14863,6 +17949,40 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "zero",
+      "name": "zero",
+      "slug": "zero",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/vercel-labs/zero",
+      "status": "active",
+      "tags": [
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "zero"
+      ],
+      "searchIndex": [
+        "zero",
+        "Repositorio GitHub",
+        "development",
+        "tools",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "development",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -15004,118 +18124,6 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "reactive-resume",
-      "name": "reactive-resume",
-      "slug": "reactive-resume",
-      "description": "Creador de CV visual open source",
-      "url": "https://github.com/amruthpillai/reactive-resume",
-      "status": "active",
-      "tags": [
-        "design",
-        "templates",
-        "github",
-        "open-source",
-        "resume"
-      ],
-      "searchIndex": [
-        "reactive-resume",
-        "reactive-resume",
-        "Creador de CV visual open source",
-        "design",
-        "templates",
-        "design",
-        "templates",
-        "github",
-        "open-source",
-        "resume"
-      ],
-      "category": "design",
-      "subcategory": "templates",
-      "pricing": "free",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "vibe-coding-cn",
-      "name": "vibe-coding-cn",
-      "slug": "vibe-coding-cn",
-      "description": "Guia de vibe coding en chino",
-      "url": "https://github.com/tukuaiai/vibe-coding-cn",
-      "status": "active",
-      "tags": [
-        "development",
-        "tools",
-        "github",
-        "coding",
-        "guide"
-      ],
-      "searchIndex": [
-        "vibe-coding-cn",
-        "vibe-coding-cn",
-        "Guia de vibe coding en chino",
-        "development",
-        "tools",
-        "development",
-        "tools",
-        "github",
-        "coding",
-        "guide"
-      ],
-      "category": "development",
-      "subcategory": "tools",
-      "pricing": "free",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "content-playbook",
-      "name": "content-playbook",
-      "slug": "content-playbook",
-      "description": "Playbook SEO para equipos de contenido",
-      "url": "https://searchable.com/es/content-playbook",
-      "status": "active",
-      "tags": [
-        "design",
-        "inspiration",
-        "content",
-        "seo",
-        "playbook"
-      ],
-      "searchIndex": [
-        "content-playbook",
-        "content-playbook",
-        "Playbook SEO para equipos de contenido",
-        "design",
-        "inspiration",
-        "design",
-        "inspiration",
-        "content",
-        "seo",
-        "playbook"
-      ],
-      "category": "design",
-      "subcategory": "inspiration",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "plan gratis con limites",
-      "added": "2026-05-18",
       "verified": true,
       "noCreditCard": false
     }

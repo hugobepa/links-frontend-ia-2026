@@ -11,14 +11,14 @@
       "id": "education-learning",
       "name": "Education Learning",
       "slug": "education-learning",
-      "resourceCount": 396,
+      "resourceCount": 443,
       "status": "active"
     },
     {
       "id": "security-vpn",
       "name": "Security Vpn",
       "slug": "security-vpn",
-      "resourceCount": 22,
+      "resourceCount": 48,
       "status": "active"
     }
   ],
@@ -52,7 +52,7 @@
       "name": "Programming Courses",
       "slug": "programming-courses",
       "category": "education-learning",
-      "resourceCount": 396,
+      "resourceCount": 443,
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
       "name": "Security Auth",
       "slug": "security-auth",
       "category": "security-vpn",
-      "resourceCount": 11,
+      "resourceCount": 35,
       "status": "active"
     },
     {
@@ -68,7 +68,7 @@
       "name": "Vpn Services",
       "slug": "vpn-services",
       "category": "security-vpn",
-      "resourceCount": 5,
+      "resourceCount": 7,
       "status": "active"
     }
   ],
@@ -279,6 +279,40 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "academy-openai-com",
+      "name": "academy-openai-com",
+      "slug": "academy-openai-com",
+      "description": "Recurso de IA",
+      "url": "https://academy.openai.com",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "academy-openai-com"
+      ],
+      "searchIndex": [
+        "academy-openai-com",
+        "Recurso de IA",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "accessibility-fixes",
@@ -917,6 +951,41 @@
       "noCreditCard": false
     },
     {
+      "id": "android-pin-bruteforce",
+      "name": "Android-PIN-Bruteforce",
+      "slug": "android-pin-bruteforce",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/urbanadventurer/Android-PIN-Bruteforce",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "android-pin-bruteforce"
+      ],
+      "searchIndex": [
+        "Android-PIN-Bruteforce",
+        "android-pin-bruteforce",
+        "Repositorio GitHub",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "annas-archive-gl",
       "name": "annas-archive-gl",
       "slug": "annas-archive-gl",
@@ -1068,6 +1137,40 @@
         "education-learning",
         "programming-courses",
         "recursos-github"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "apple-style-guide-animation",
+      "name": "apple-style-guide-animation",
+      "slug": "apple-style-guide-animation",
+      "description": "Video Apple Style Guide Animation",
+      "url": "https://youtu.be/5j4HmfgPCDI",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "apple-style-guide-animation"
+      ],
+      "searchIndex": [
+        "apple-style-guide-animation",
+        "Video Apple Style Guide Animation",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
@@ -1238,6 +1341,179 @@
         "education-learning",
         "programming-courses",
         "recursos-github"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "arxiv-2210-03629",
+      "name": "ArXiv-2210.03629",
+      "slug": "arxiv-2210-03629",
+      "description": "Paper investigaciÃ³n IA",
+      "url": "https://arxiv.org/abs/2210.03629",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "arxiv-2210-03629"
+      ],
+      "searchIndex": [
+        "ArXiv-2210.03629",
+        "arxiv-2210-03629",
+        "Paper investigaciÃ³n IA",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "arxiv-2302-04761",
+      "name": "ArXiv-2302.04761",
+      "slug": "arxiv-2302-04761",
+      "description": "Paper investigaciÃ³n IA",
+      "url": "https://arxiv.org/abs/2302.04761",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "arxiv-2302-04761"
+      ],
+      "searchIndex": [
+        "ArXiv-2302.04761",
+        "arxiv-2302-04761",
+        "Paper investigaciÃ³n IA",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "arxiv-2304-03442",
+      "name": "ArXiv-2304.03442",
+      "slug": "arxiv-2304-03442",
+      "description": "Paper investigaciÃ³n IA",
+      "url": "https://arxiv.org/abs/2304.03442",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "arxiv-2304-03442"
+      ],
+      "searchIndex": [
+        "ArXiv-2304.03442",
+        "arxiv-2304-03442",
+        "Paper investigaciÃ³n IA",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "arxiv-2512-24880",
+      "name": "arxiv-2512-24880",
+      "slug": "arxiv-2512-24880",
+      "description": "Paper de investigaciÃ³n IA",
+      "url": "https://arxiv.org/abs/2512.24880",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "arxiv-2512-24880"
+      ],
+      "searchIndex": [
+        "arxiv-2512-24880",
+        "Paper de investigaciÃ³n IA",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "arxiv-2605-06732",
+      "name": "arxiv-2605-06732",
+      "slug": "arxiv-2605-06732",
+      "description": "Paper de investigaciÃ³n IA",
+      "url": "https://arxiv.org/abs/2605.06732",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "arxiv-2605-06732"
+      ],
+      "searchIndex": [
+        "arxiv-2605-06732",
+        "Paper de investigaciÃ³n IA",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
@@ -2655,6 +2931,41 @@
       "noCreditCard": false
     },
     {
+      "id": "biorxiv-preprint",
+      "name": "bioRxiv-preprint",
+      "slug": "biorxiv-preprint",
+      "description": "Preprint cientÃ­fico en bioRxiv",
+      "url": "https://www.biorxiv.org/content/10.110",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "biorxiv-preprint"
+      ],
+      "searchIndex": [
+        "bioRxiv-preprint",
+        "biorxiv-preprint",
+        "Preprint cientÃ­fico en bioRxiv",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "blender",
       "name": "blender",
       "slug": "blender",
@@ -2782,6 +3093,41 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "build-llm-from-scratch",
+      "name": "Build-LLM-From-Scratch",
+      "slug": "build-llm-from-scratch",
+      "description": "Libro Manning construir LLM desde cero",
+      "url": "https://www.manning.com/books/build-a-large-language-model-from-scratch",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "build-llm-from-scratch"
+      ],
+      "searchIndex": [
+        "Build-LLM-From-Scratch",
+        "build-llm-from-scratch",
+        "Libro Manning construir LLM desde cero",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -3496,6 +3842,40 @@
       "noCreditCard": false
     },
     {
+      "id": "clients",
+      "name": "clients",
+      "slug": "clients",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/bitwarden/clients",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "clients"
+      ],
+      "searchIndex": [
+        "clients",
+        "Repositorio GitHub",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "clone-wars",
       "name": "Clone Wars",
       "slug": "clone-wars",
@@ -3639,6 +4019,108 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "cme295-lecture-4-llm-training",
+      "name": "cme295-lecture-4-llm-training",
+      "slug": "cme295-lecture-4-llm-training",
+      "description": "Masterclass 1:47h LLM training",
+      "url": "https://youtu.be/VlA_jt_3Qc4",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "cme295-lecture-4-llm-training"
+      ],
+      "searchIndex": [
+        "cme295-lecture-4-llm-training",
+        "Masterclass 1:47h LLM training",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "cme295-stanford-edu",
+      "name": "cme295-stanford-edu",
+      "slug": "cme295-stanford-edu",
+      "description": "Curso o recurso formativo",
+      "url": "https://cme295.stanford.edu",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "cme295-stanford-edu"
+      ],
+      "searchIndex": [
+        "cme295-stanford-edu",
+        "Curso o recurso formativo",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "cme295-transformers-llm",
+      "name": "cme295-transformers-llm",
+      "slug": "cme295-transformers-llm",
+      "description": "CME295: Transformers & LLM (Curso comple",
+      "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "cme295-transformers-llm"
+      ],
+      "searchIndex": [
+        "cme295-transformers-llm",
+        "CME295: Transformers & LLM (Curso comple",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "cmu-reinforcement-learning",
@@ -4187,6 +4669,40 @@
       "noCreditCard": false
     },
     {
+      "id": "course-fast-ai",
+      "name": "course-fast-ai",
+      "slug": "course-fast-ai",
+      "description": "Curso prÃ¡ctico de deep learning",
+      "url": "https://course.fast.ai/",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "course-fast-ai"
+      ],
+      "searchIndex": [
+        "course-fast-ai",
+        "Curso prÃ¡ctico de deep learning",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "coursera-org",
       "name": "coursera-org",
       "slug": "coursera-org",
@@ -4319,6 +4835,40 @@
       "noCreditCard": true
     },
     {
+      "id": "cs230-deep-learning-andrew-ng",
+      "name": "cs230-deep-learning-andrew-ng",
+      "slug": "cs230-deep-learning-andrew-ng",
+      "description": "CS230: Deep Learning con Andrew Ng",
+      "url": "https://youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X&si=NoBrL-9G8LuutQgJ",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "cs230-deep-learning-andrew-ng"
+      ],
+      "searchIndex": [
+        "cs230-deep-learning-andrew-ng",
+        "CS230: Deep Learning con Andrew Ng",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "cs249r-book",
       "name": "cs249r_book",
       "slug": "cs249r-book",
@@ -4338,6 +4888,74 @@
         "education-learning",
         "programming-courses",
         "recursos-github"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "cs25",
+      "name": "cs25",
+      "slug": "cs25",
+      "description": "Curso o recurso formativo",
+      "url": "https://web.stanford.edu/class/cs25",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "cs25"
+      ],
+      "searchIndex": [
+        "cs25",
+        "Curso o recurso formativo",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "cs25-transformers-united",
+      "name": "cs25-transformers-united",
+      "slug": "cs25-transformers-united",
+      "description": "CS25: Transformers United (Curso complet",
+      "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "cs25-transformers-united"
+      ],
+      "searchIndex": [
+        "cs25-transformers-united",
+        "CS25: Transformers United (Curso complet",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
@@ -4759,6 +5377,40 @@
       "noCreditCard": false
     },
     {
+      "id": "deeplearning-ai",
+      "name": "deeplearning-ai",
+      "slug": "deeplearning-ai",
+      "description": "Curso o recurso formativo",
+      "url": "https://deeplearning.ai",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "deeplearning-ai"
+      ],
+      "searchIndex": [
+        "deeplearning-ai",
+        "Curso o recurso formativo",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "deepmind-google",
       "name": "deepmind-google",
       "slug": "deepmind-google",
@@ -5093,6 +5745,40 @@
       "noCreditCard": false
     },
     {
+      "id": "diagrams",
+      "name": "diagrams",
+      "slug": "diagrams",
+      "description": "Diagramas cientÃ­ficos de fÃ­sica y ML",
+      "url": "https://github.com/janosh/diagrams",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "diagrams"
+      ],
+      "searchIndex": [
+        "diagrams",
+        "Diagramas cientÃ­ficos de fÃ­sica y ML",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "dipeshmalvia",
       "name": "DipeshMalvia",
       "slug": "dipeshmalvia",
@@ -5378,6 +6064,40 @@
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "dsvpn",
+      "name": "dsvpn",
+      "slug": "dsvpn",
+      "description": "VPN mÃ­nima y rÃ¡pida en C",
+      "url": "https://github.com/jedisct1/dsvpn",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "vpn-services",
+        "y-seguridad-vpn",
+        "vpn",
+        "dsvpn"
+      ],
+      "searchIndex": [
+        "dsvpn",
+        "VPN mÃ­nima y rÃ¡pida en C",
+        "security-vpn",
+        "vpn-services",
+        "y-seguridad-vpn",
+        "vpn"
+      ],
+      "category": "security-vpn",
+      "subcategory": "vpn-services",
       "pricing": "free",
       "languages": [
         "es",
@@ -6315,6 +7035,75 @@
       "noCreditCard": false
     },
     {
+      "id": "geodesics-in-quantum-gravity",
+      "name": "Geodesics-in-Quantum-Gravity",
+      "slug": "geodesics-in-quantum-gravity",
+      "description": "GeodÃ©sicas cuÃ¡nticas en gravedad",
+      "url": "https://arxiv.org/pdf/2510.0117",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "geodesics-in-quantum-gravity"
+      ],
+      "searchIndex": [
+        "Geodesics-in-Quantum-Gravity",
+        "geodesics-in-quantum-gravity",
+        "GeodÃ©sicas cuÃ¡nticas en gravedad",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "gh-developing-agentic-systems-1",
+      "name": "gh-developing-agentic-systems-1",
+      "slug": "gh-developing-agentic-systems-1",
+      "description": "Curso o recurso formativo Recurso de IA",
+      "url": "https://learn.microsoft.com/en-us/training/paths/gh-developing-agentic-systems-1",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "gh-developing-agentic-systems-1"
+      ],
+      "searchIndex": [
+        "gh-developing-agentic-systems-1",
+        "Curso o recurso formativo Recurso de IA",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "ghostscan",
       "name": "GhostScan",
       "slug": "ghostscan",
@@ -6928,6 +7717,41 @@
       "noCreditCard": true
     },
     {
+      "id": "hla",
+      "name": "HLA",
+      "slug": "hla",
+      "description": "AtenciÃ³n lineal de orden superior",
+      "url": "https://github.com/yifanzhang-pro/HLA",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "hla"
+      ],
+      "searchIndex": [
+        "HLA",
+        "hla",
+        "AtenciÃ³n lineal de orden superior",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "how-to-secure-linux",
       "name": "How To Secure Linux Server",
       "slug": "how-to-secure-linux-server",
@@ -7432,6 +8256,40 @@
       "noCreditCard": false
     },
     {
+      "id": "inventory",
+      "name": "inventory",
+      "slug": "inventory",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/trickest/inventory",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "inventory"
+      ],
+      "searchIndex": [
+        "inventory",
+        "Repositorio GitHub",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "j-a-r-v-i-s",
       "name": "J.A.R.V.I.S",
       "slug": "j-a-r-v-i-s",
@@ -7805,6 +8663,41 @@
       "noCreditCard": false
     },
     {
+      "id": "keyhacks",
+      "name": "KeyHacks",
+      "slug": "keyhacks",
+      "description": "ValidaciÃ³n API keys secretos scanning",
+      "url": "https://github.com/streaak/keyhacks.git",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "keyhacks"
+      ],
+      "searchIndex": [
+        "KeyHacks",
+        "keyhacks",
+        "ValidaciÃ³n API keys secretos scanning",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "kinso-ai",
       "name": "kinso-ai",
       "slug": "kinso-ai",
@@ -8005,6 +8898,40 @@
       ],
       "limits": "unknown",
       "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "learn",
+      "name": "learn",
+      "slug": "learn",
+      "description": "Curso o recurso formativo Recurso de IA",
+      "url": "https://huggingface.co/learn",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "learn"
+      ],
+      "searchIndex": [
+        "learn",
+        "Curso o recurso formativo Recurso de IA",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -8323,6 +9250,41 @@
       ],
       "limits": "unknown",
       "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "learning-theory",
+      "name": "Learning-Theory",
+      "slug": "learning-theory",
+      "description": "Libro Cambridge teorÃ­a aprendizaje",
+      "url": "https://www.cambridge.org/core/books/learning-theory/B39A58737BCA537565FDBC07014AE2B4",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "learning-theory"
+      ],
+      "searchIndex": [
+        "Learning-Theory",
+        "learning-theory",
+        "Libro Cambridge teorÃ­a aprendizaje",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -9214,38 +10176,6 @@
       "id": "medusa",
       "name": "medusa",
       "slug": "medusa",
-      "description": "Repositorio GitHub",
-      "url": "https://github.com/Pantheon-Security/medusa.git",
-      "status": "active",
-      "tags": [
-        "education-learning",
-        "programming-courses",
-        "recursos-github",
-        "medusa"
-      ],
-      "searchIndex": [
-        "medusa",
-        "Repositorio GitHub",
-        "education-learning",
-        "programming-courses",
-        "recursos-github"
-      ],
-      "category": "education-learning",
-      "subcategory": "programming-courses",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-25",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "medusa",
-      "name": "medusa",
-      "slug": "medusa",
       "description": "Suite ofensiva para pentesting",
       "url": "https://github.com/Pantheon-Security/medusa",
       "status": "active",
@@ -9273,6 +10203,38 @@
       ],
       "limits": "unknown",
       "added": "2026-05-14",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "medusa",
+      "name": "medusa",
+      "slug": "medusa",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Pantheon-Security/medusa.git",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "recursos-github",
+        "medusa"
+      ],
+      "searchIndex": [
+        "medusa",
+        "Repositorio GitHub",
+        "education-learning",
+        "programming-courses",
+        "recursos-github"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -9612,6 +10574,41 @@
       "noCreditCard": false
     },
     {
+      "id": "ml-interview",
+      "name": "ML-Interview",
+      "slug": "ml-interview",
+      "description": "PreparaciÃ³n entrevistas machine learnin",
+      "url": "https://github.com/khangich/machine-learning-interview",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "ml-interview"
+      ],
+      "searchIndex": [
+        "ML-Interview",
+        "ml-interview",
+        "PreparaciÃ³n entrevistas machine learnin",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "mljobsearch2025",
       "name": "MLJobSearch2025",
       "slug": "mljobsearch2025",
@@ -9663,6 +10660,40 @@
         "education-learning",
         "programming-courses",
         "recursos-github"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "modern-transformer-architecture",
+      "name": "modern-transformer-architecture",
+      "slug": "modern-transformer-architecture",
+      "description": "Modern Transformer Architecture Explaine",
+      "url": "https://www.youtube.com/playlist?list=PLdUcsPPD8lGzctkUXlvcmSBL1GeoErrd5",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "modern-transformer-architecture"
+      ],
+      "searchIndex": [
+        "modern-transformer-architecture",
+        "Modern Transformer Architecture Explaine",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
@@ -9922,28 +10953,26 @@
       "noCreditCard": false
     },
     {
-      "id": "neon-database",
-      "name": "Neon Database",
-      "slug": "neon-database",
-      "description": "Neon postgres",
-      "url": "https://www.youtube.com/@neondatabase",
+      "id": "nasa-systems-engineering-handbook-pdf",
+      "name": "nasa-systems-engineering-handbook-pdf",
+      "slug": "nasa-systems-engineering-handbook-pdf",
+      "description": "Manual NASA de ingenierÃ­a de sistemas",
+      "url": "https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf",
       "status": "active",
       "tags": [
-        "youtube",
-        "neon",
-        "postgresql",
-        "database"
-      ],
-      "searchIndex": [
-        "Neon Database",
-        "neon-database",
-        "Neon postgres",
         "education-learning",
         "programming-courses",
-        "youtube",
-        "neon",
-        "postgresql",
-        "database"
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "nasa-systems-engineering-handbook-pdf"
+      ],
+      "searchIndex": [
+        "nasa-systems-engineering-handbook-pdf",
+        "Manual NASA de ingenierÃ­a de sistemas",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
@@ -9953,7 +10982,41 @@
         "en"
       ],
       "limits": "unknown",
-      "added": "2026-04-29",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "nature-s41598-025-99623-3",
+      "name": "nature-s41598-025-99623-3",
+      "slug": "nature-s41598-025-99623-3",
+      "description": "ArtÃ­culo cientÃ­fico revisado",
+      "url": "https://www.nature.com/articles/s41598-025-99623-3",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "nature-s41598-025-99623-3"
+      ],
+      "searchIndex": [
+        "nature-s41598-025-99623-3",
+        "ArtÃ­culo cientÃ­fico revisado",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -9989,6 +11052,42 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "neon-database",
+      "name": "Neon Database",
+      "slug": "neon-database",
+      "description": "Neon postgres",
+      "url": "https://www.youtube.com/@neondatabase",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "neon",
+        "postgresql",
+        "database"
+      ],
+      "searchIndex": [
+        "Neon Database",
+        "neon-database",
+        "Neon postgres",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "neon",
+        "postgresql",
+        "database"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
       "verified": true,
       "noCreditCard": false
     },
@@ -10063,6 +11162,40 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "netgoat",
+      "name": "netgoat",
+      "slug": "netgoat",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/netgoat-xyz/netgoat",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "netgoat"
+      ],
+      "searchIndex": [
+        "netgoat",
+        "Repositorio GitHub",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "netninja",
@@ -10277,6 +11410,40 @@
       "noCreditCard": false
     },
     {
+      "id": "noir",
+      "name": "noir",
+      "slug": "noir",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/owasp-noir/noir",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "noir"
+      ],
+      "searchIndex": [
+        "noir",
+        "Repositorio GitHub",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "nomore403",
       "name": "nomore403",
       "slug": "nomore403",
@@ -10444,6 +11611,76 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "o-reilly-ai-engineering",
+      "name": "O-Reilly-AI-Engineering",
+      "slug": "o-reilly-ai-engineering",
+      "description": "Libro O'Reilly ingenierÃ­a IA producciÃ³",
+      "url": "https://www.oreilly.com/library/view/ai-engineering/9781098166291/",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "o-reilly-ai-engineering"
+      ],
+      "searchIndex": [
+        "O-Reilly-AI-Engineering",
+        "o-reilly-ai-engineering",
+        "Libro O'Reilly ingenierÃ­a IA producciÃ³",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "o-reilly-llm-engineering",
+      "name": "O-Reilly-LLM-Engineering",
+      "slug": "o-reilly-llm-engineering",
+      "description": "Libro O'Reilly ingenierÃ­a LLMs",
+      "url": "https://www.oreilly.com/library/view/llm-engineering/9781098167298/",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "o-reilly-llm-engineering"
+      ],
+      "searchIndex": [
+        "O-Reilly-LLM-Engineering",
+        "o-reilly-llm-engineering",
+        "Libro O'Reilly ingenierÃ­a LLMs",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -10675,6 +11912,40 @@
       "noCreditCard": false
     },
     {
+      "id": "opencti",
+      "name": "opencti",
+      "slug": "opencti",
+      "description": "Repo de seguridad",
+      "url": "https://github.com/OpenCTI-Platform/opencti",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "opencti"
+      ],
+      "searchIndex": [
+        "opencti",
+        "Repo de seguridad",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "openevolve",
       "name": "openevolve",
       "slug": "openevolve",
@@ -10836,6 +12107,74 @@
       "noCreditCard": false
     },
     {
+      "id": "openvpn",
+      "name": "openvpn",
+      "slug": "openvpn",
+      "description": "Repo de seguridad",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "openvpn"
+      ],
+      "searchIndex": [
+        "openvpn",
+        "Repo de seguridad",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "openvpn-install",
+      "name": "openvpn-install",
+      "slug": "openvpn-install",
+      "description": "Repo de seguridad",
+      "url": "https://github.com/angristan/openvpn-install",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "openvpn-install"
+      ],
+      "searchIndex": [
+        "openvpn-install",
+        "Repo de seguridad",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "osint-stuff-tool-collection",
       "name": "osint_stuff_tool_collection",
       "slug": "osint-stuff-tool-collection",
@@ -10971,6 +12310,75 @@
       "noCreditCard": true
     },
     {
+      "id": "palo-alto-cybersec",
+      "name": "Palo-Alto-Cybersec",
+      "slug": "palo-alto-cybersec",
+      "description": "Curso ciberseguridad gratis Palo Alto",
+      "url": "https://www.paloaltonetworks.es/cyberpedia/free-cybersecurity-education-course",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "palo-alto-cybersec"
+      ],
+      "searchIndex": [
+        "Palo-Alto-Cybersec",
+        "palo-alto-cybersec",
+        "Curso ciberseguridad gratis Palo Alto",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pangolin",
+      "name": "pangolin",
+      "slug": "pangolin",
+      "description": "Red privada self-hosted segura",
+      "url": "https://github.com/fosrl/pangolin",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "vpn-services",
+        "y-seguridad-vpn",
+        "vpn",
+        "pangolin"
+      ],
+      "searchIndex": [
+        "pangolin",
+        "Red privada self-hosted segura",
+        "security-vpn",
+        "vpn-services",
+        "y-seguridad-vpn",
+        "vpn"
+      ],
+      "category": "security-vpn",
+      "subcategory": "vpn-services",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "papers-ssrn-com",
       "name": "papers-ssrn-com",
       "slug": "papers-ssrn-com",
@@ -11075,6 +12483,74 @@
       "noCreditCard": false
     },
     {
+      "id": "pentest-agents",
+      "name": "pentest-agents",
+      "slug": "pentest-agents",
+      "description": "Repo de seguridad",
+      "url": "https://github.com/H-mmer/pentest-agents",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "pentest-agents"
+      ],
+      "searchIndex": [
+        "pentest-agents",
+        "Repo de seguridad",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pentest-ai-agents",
+      "name": "pentest-ai-agents",
+      "slug": "pentest-ai-agents",
+      "description": "Agentes IA para pentesting ofensivo",
+      "url": "https://github.com/0xSteph/pentest-ai-agents",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "pentest-ai-agents"
+      ],
+      "searchIndex": [
+        "pentest-ai-agents",
+        "Agentes IA para pentesting ofensivo",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "pentest-ai-agents",
       "name": "pentest-ai-agents",
       "slug": "pentest-ai-agents",
@@ -11096,6 +12572,74 @@
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pentest-copilot",
+      "name": "pentest-copilot",
+      "slug": "pentest-copilot",
+      "description": "Repo de seguridad",
+      "url": "https://github.com/bugbasesecurity/pentest-copilot",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "pentest-copilot"
+      ],
+      "searchIndex": [
+        "pentest-copilot",
+        "Repo de seguridad",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "pentesterlab-com",
+      "name": "pentesterlab-com",
+      "slug": "pentesterlab-com",
+      "description": "Recurso tecnico",
+      "url": "https://pentesterlab.com",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "pentesterlab-com"
+      ],
+      "searchIndex": [
+        "pentesterlab-com",
+        "Recurso tecnico",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
       "pricing": "free",
       "languages": [
         "es",
@@ -11141,6 +12685,40 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "pi-hole",
+      "name": "pi-hole",
+      "slug": "pi-hole",
+      "description": "Repo de seguridad",
+      "url": "https://github.com/pi-hole/pi-hole",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "pi-hole"
+      ],
+      "searchIndex": [
+        "pi-hole",
+        "Repo de seguridad",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "pixal3d",
@@ -11329,6 +12907,40 @@
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "portmaster",
+      "name": "portmaster",
+      "slug": "portmaster",
+      "description": "Firewall y privacidad de red local",
+      "url": "https://github.com/safing/portmaster",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "portmaster"
+      ],
+      "searchIndex": [
+        "portmaster",
+        "Firewall y privacidad de red local",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
       "pricing": "free",
       "languages": [
         "es",
@@ -11984,6 +13596,40 @@
       "noCreditCard": false
     },
     {
+      "id": "rl-for-finance-book-pdf",
+      "name": "rl-for-finance-book-pdf",
+      "slug": "rl-for-finance-book-pdf",
+      "description": "Libro RL aplicado a finanzas",
+      "url": "https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "rl-for-finance-book-pdf"
+      ],
+      "searchIndex": [
+        "rl-for-finance-book-pdf",
+        "Libro RL aplicado a finanzas",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "roadmap-sh",
       "name": "Roadmap.sh",
       "slug": "roadmap-sh",
@@ -12252,6 +13898,75 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "seeker",
+      "name": "seeker",
+      "slug": "seeker",
+      "description": "Repo de seguridad",
+      "url": "https://github.com/thewhiteh4t/seeker",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "seeker"
+      ],
+      "searchIndex": [
+        "seeker",
+        "Repo de seguridad",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "seeker-ngrok",
+      "name": "Seeker\\_-_Ngrok",
+      "slug": "seeker-ngrok",
+      "description": "Repo de seguridad",
+      "url": "https://github.com/z0s3r77/Seeker_-_Ngrok",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "seeker-ngrok"
+      ],
+      "searchIndex": [
+        "Seeker\\_-_Ngrok",
+        "seeker-ngrok",
+        "Repo de seguridad",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -12666,6 +14381,41 @@
       "name": "SQL University",
       "slug": "sql-university",
       "description": "SQL, Postgres y SQL server",
+      "url": "https://www.SQLUniversity.com",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube",
+        "sql-university"
+      ],
+      "searchIndex": [
+        "SQL University",
+        "sql-university",
+        "SQL, Postgres y SQL server",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "sql-university",
+      "name": "SQL University",
+      "slug": "sql-university",
+      "description": "SQL, Postgres y SQL server",
       "url": "https://www.youtube.com/@SQLUniversity",
       "status": "active",
       "tags": [
@@ -12694,41 +14444,6 @@
       ],
       "limits": "unknown",
       "added": "2026-04-29",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "sql-university",
-      "name": "SQL University",
-      "slug": "sql-university",
-      "description": "SQL, Postgres y SQL server",
-      "url": "https://www.SQLUniversity.com",
-      "status": "active",
-      "tags": [
-        "education-learning",
-        "programming-courses",
-        "y-s-educacia-n-aprendizaje",
-        "canales-youtube",
-        "sql-university"
-      ],
-      "searchIndex": [
-        "SQL University",
-        "sql-university",
-        "SQL, Postgres y SQL server",
-        "education-learning",
-        "programming-courses",
-        "y-s-educacia-n-aprendizaje",
-        "canales-youtube"
-      ],
-      "category": "education-learning",
-      "subcategory": "programming-courses",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-05-11",
       "verified": true,
       "noCreditCard": false
     },
@@ -12797,6 +14512,41 @@
       ],
       "limits": "unknown",
       "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "statistics-ib",
+      "name": "Statistics-IB",
+      "slug": "statistics-ib",
+      "description": "Notas curso estadÃ­stica Cambridge",
+      "url": "https://www.statslab.cam.ac.uk/~rrw1/stats/Sa4.pdf",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "statistics-ib"
+      ],
+      "searchIndex": [
+        "Statistics-IB",
+        "statistics-ib",
+        "Notas curso estadÃ­stica Cambridge",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -13036,6 +14786,41 @@
       "noCreditCard": true
     },
     {
+      "id": "system-design-notes",
+      "name": "System-Design-Notes",
+      "slug": "system-design-notes",
+      "description": "Notas diseÃ±o sistemas arquitectura",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "system-design-notes"
+      ],
+      "searchIndex": [
+        "System-Design-Notes",
+        "system-design-notes",
+        "Notas diseÃ±o sistemas arquitectura",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "tech-interview-handbook",
       "name": "Tech Interview Handbook",
       "slug": "tech-interview-handbook",
@@ -13093,6 +14878,41 @@
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "teleport",
+      "name": "Teleport",
+      "slug": "teleport",
+      "description": "Acceso SSH zero-trust security",
+      "url": "https://github.com/gravitational/teleport.git",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "teleport"
+      ],
+      "searchIndex": [
+        "Teleport",
+        "teleport",
+        "Acceso SSH zero-trust security",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
       "pricing": "free",
       "languages": [
         "es",
@@ -13190,6 +15010,111 @@
         "education-learning",
         "programming-courses",
         "recursos-github"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "the-deepfakes-we-missed",
+      "name": "The-Deepfakes-We-Missed",
+      "slug": "the-deepfakes-we-missed",
+      "description": "Amenazas reales y detecciÃ³n deepfakes",
+      "url": "https://arxiv.org/abs/2605.12075",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "the-deepfakes-we-missed"
+      ],
+      "searchIndex": [
+        "The-Deepfakes-We-Missed",
+        "the-deepfakes-we-missed",
+        "Amenazas reales y detecciÃ³n deepfakes",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "the-impact-of-artificial-intelligence-on-human-thought",
+      "name": "The-Impact-of-Artificial-Intelligence-on-Human-Thought",
+      "slug": "the-impact-of-artificial-intelligence-on-human-thought",
+      "description": "Efectos cognitivos, sociales y Ã©ticos",
+      "url": "https://arxiv.org/abs/2508.16628",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "the-impact-of-artificial-intelligence-on-human-thought"
+      ],
+      "searchIndex": [
+        "The-Impact-of-Artificial-Intelligence-on-Human-Thought",
+        "the-impact-of-artificial-intelligence-on-human-thought",
+        "Efectos cognitivos, sociales y Ã©ticos",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "the-recessionary-pressures-of-generative-ai",
+      "name": "The-recessionary-pressures-of-generative-AI",
+      "slug": "the-recessionary-pressures-of-generative-ai",
+      "description": "Riesgos socioeconÃ³micos de IA generativ",
+      "url": "https://arxiv.org/abs/2403.17405",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "the-recessionary-pressures-of-generative-ai"
+      ],
+      "searchIndex": [
+        "The-recessionary-pressures-of-generative-AI",
+        "the-recessionary-pressures-of-generative-ai",
+        "Riesgos socioeconÃ³micos de IA generativ",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
@@ -13399,6 +15324,40 @@
       "noCreditCard": false
     },
     {
+      "id": "tpotce",
+      "name": "tpotce",
+      "slug": "tpotce",
+      "description": "Honeypot telco para ciberdefensa",
+      "url": "https://github.com/telekom-security/tpotce",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "tpotce"
+      ],
+      "searchIndex": [
+        "tpotce",
+        "Honeypot telco para ciberdefensa",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "trademaster",
       "name": "TradeMaster",
       "slug": "trademaster",
@@ -13453,6 +15412,75 @@
       ],
       "category": "education-learning",
       "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "transformers-laid-out-ref",
+      "name": "transformers-laid-out-ref",
+      "slug": "transformers-laid-out-ref",
+      "description": "GuÃ­a visual de Transformers",
+      "url": "https://goyalpramod.github.io/blogs/Transformers_laid_out/",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web",
+        "transformers-laid-out-ref"
+      ],
+      "searchIndex": [
+        "transformers-laid-out-ref",
+        "GuÃ­a visual de Transformers",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "arta-culos-css-web"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "trufflehog",
+      "name": "TruffleHog",
+      "slug": "trufflehog",
+      "description": "Scanner secretos git repositories",
+      "url": "https://github.com/trufflesecurity/trufflehog.git",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "trufflehog"
+      ],
+      "searchIndex": [
+        "TruffleHog",
+        "trufflehog",
+        "Scanner secretos git repositories",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
       "pricing": "free",
       "languages": [
         "es",
@@ -14143,6 +16171,41 @@
       "id": "web-dev",
       "name": "Web.dev",
       "slug": "web-dev",
+      "description": "GuÃ­as Google desarrollo web",
+      "url": "https://web.dev/?hl=es-419",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "web-dev"
+      ],
+      "searchIndex": [
+        "Web.dev",
+        "web-dev",
+        "GuÃ­as Google desarrollo web",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "web-dev",
+      "name": "Web.dev",
+      "slug": "web-dev",
       "description": "Guías de Google para desarrollo web mod",
       "url": "https://web.dev",
       "status": "active",
@@ -14248,6 +16311,210 @@
       "noCreditCard": true
     },
     {
+      "id": "www-cybrary-it",
+      "name": "www-cybrary-it",
+      "slug": "www-cybrary-it",
+      "description": "Curso o recurso formativo",
+      "url": "https://www.cybrary.it",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "www-cybrary-it"
+      ],
+      "searchIndex": [
+        "www-cybrary-it",
+        "Curso o recurso formativo",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "www-echothrust-com",
+      "name": "www-echothrust-com",
+      "slug": "www-echothrust-com",
+      "description": "Recurso tecnico",
+      "url": "https://www.echothrust.com",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "www-echothrust-com"
+      ],
+      "searchIndex": [
+        "www-echothrust-com",
+        "Recurso tecnico",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "www-hackthebox-com",
+      "name": "www-hackthebox-com",
+      "slug": "www-hackthebox-com",
+      "description": "Recurso tecnico",
+      "url": "https://www.hackthebox.com",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "www-hackthebox-com"
+      ],
+      "searchIndex": [
+        "www-hackthebox-com",
+        "Recurso tecnico",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "www-pluralsight-com",
+      "name": "www-pluralsight-com",
+      "slug": "www-pluralsight-com",
+      "description": "Curso o recurso formativo",
+      "url": "https://www.pluralsight.com",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n",
+        "www-pluralsight-com"
+      ],
+      "searchIndex": [
+        "www-pluralsight-com",
+        "Curso o recurso formativo",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "cursos-programacia-n"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "www-rangeforce-com",
+      "name": "www-rangeforce-com",
+      "slug": "www-rangeforce-com",
+      "description": "Recurso tecnico",
+      "url": "https://www.rangeforce.com",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "www-rangeforce-com"
+      ],
+      "searchIndex": [
+        "www-rangeforce-com",
+        "Recurso tecnico",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "www-root-me-org",
+      "name": "www-root-me-org",
+      "slug": "www-root-me-org",
+      "description": "Recurso tecnico",
+      "url": "https://www.root-me.org",
+      "status": "active",
+      "tags": [
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth",
+        "www-root-me-org"
+      ],
+      "searchIndex": [
+        "www-root-me-org",
+        "Recurso tecnico",
+        "security-vpn",
+        "security-auth",
+        "y-seguridad-vpn",
+        "seguridad-auth"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "xalgorix",
       "name": "xalgorix",
       "slug": "xalgorix",
@@ -14345,6 +16612,251 @@
       ],
       "limits": "unknown",
       "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-video-1",
+      "name": "YouTube Video 1",
+      "slug": "youtube-video-1",
+      "description": "Video educativo seleccionado",
+      "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube",
+        "youtube-video-1"
+      ],
+      "searchIndex": [
+        "YouTube Video 1",
+        "youtube-video-1",
+        "Video educativo seleccionado",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-video-2",
+      "name": "YouTube Video 2",
+      "slug": "youtube-video-2",
+      "description": "Video educativo seleccionado",
+      "url": "https://www.youtube.com/watch?v=9vM4p9NN0Ts",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube",
+        "youtube-video-2"
+      ],
+      "searchIndex": [
+        "YouTube Video 2",
+        "youtube-video-2",
+        "Video educativo seleccionado",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-video-3",
+      "name": "YouTube Video 3",
+      "slug": "youtube-video-3",
+      "description": "Video educativo seleccionado",
+      "url": "https://www.youtube.com/watch?v=kJLiOGIe3Lw",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube",
+        "youtube-video-3"
+      ],
+      "searchIndex": [
+        "YouTube Video 3",
+        "youtube-video-3",
+        "Video educativo seleccionado",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-video-4",
+      "name": "YouTube Video 4",
+      "slug": "youtube-video-4",
+      "description": "Video educativo seleccionado",
+      "url": "https://www.youtube.com/watch?v=d5ElIXhbcfA",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube",
+        "youtube-video-4"
+      ],
+      "searchIndex": [
+        "YouTube Video 4",
+        "youtube-video-4",
+        "Video educativo seleccionado",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-video-5",
+      "name": "YouTube Video 5",
+      "slug": "youtube-video-5",
+      "description": "Video educativo seleccionado",
+      "url": "https://www.youtube.com/watch?v=D7_ipDqhtwk",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube",
+        "youtube-video-5"
+      ],
+      "searchIndex": [
+        "YouTube Video 5",
+        "youtube-video-5",
+        "Video educativo seleccionado",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-video-6",
+      "name": "YouTube Video 6",
+      "slug": "youtube-video-6",
+      "description": "Video educativo seleccionado",
+      "url": "https://www.youtube.com/watch?v=kQmXtrmQ5Zg",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube",
+        "youtube-video-6"
+      ],
+      "searchIndex": [
+        "YouTube Video 6",
+        "youtube-video-6",
+        "Video educativo seleccionado",
+        "education-learning",
+        "programming-courses",
+        "y-s-educacia-n-aprendizaje",
+        "canales-youtube"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "youtube-clipper-skill",
+      "name": "Youtube-clipper-skill",
+      "slug": "youtube-clipper-skill",
+      "description": "Clips YouTube con IA y subtÃ­tulos",
+      "url": "https://github.com/op7418/Youtube-clipper-skill",
+      "status": "active",
+      "tags": [
+        "education-learning",
+        "programming-courses",
+        "y-desarrollo-ide",
+        "ia-video-audio",
+        "youtube-clipper-skill"
+      ],
+      "searchIndex": [
+        "Youtube-clipper-skill",
+        "youtube-clipper-skill",
+        "Clips YouTube con IA y subtÃ­tulos",
+        "education-learning",
+        "programming-courses",
+        "y-desarrollo-ide",
+        "ia-video-audio"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },

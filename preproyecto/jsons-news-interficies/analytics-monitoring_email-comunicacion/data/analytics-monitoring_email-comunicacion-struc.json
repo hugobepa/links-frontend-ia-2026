@@ -96,7 +96,7 @@
       "description": "Etiqueta debugging"
     },
     "email": {
-      "count": 8,
+      "count": 10,
       "color": "#2563eb",
       "description": "Etiqueta email"
     },
@@ -119,6 +119,11 @@
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta events"
+    },
+    "evolution-api-gh": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta evolution-api-gh"
     },
     "firebase": {
       "count": 1,
@@ -235,13 +240,18 @@
       "color": "#d97706",
       "description": "Etiqueta nodejs"
     },
+    "notificaciones-messaging": {
+      "count": 2,
+      "color": "#ea580c",
+      "description": "Etiqueta notificaciones-messaging"
+    },
     "notifications": {
       "count": 4,
       "color": "#dc2626",
       "description": "Etiqueta notifications"
     },
     "notifications-messaging": {
-      "count": 2,
+      "count": 4,
       "color": "#0891b2",
       "description": "Etiqueta notifications-messaging"
     },
@@ -420,13 +430,18 @@
       "color": "#dc2626",
       "description": "Etiqueta whatsapp"
     },
+    "whatsapp-business-platform-web": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta whatsapp-business-platform-web"
+    },
     "wordpress": {
       "count": 3,
       "color": "#059669",
       "description": "Etiqueta wordpress"
     },
     "y-email-comunicacia-n": {
-      "count": 2,
+      "count": 4,
       "color": "#7c3aed",
       "description": "Etiqueta y-email-comunicacia-n"
     }
@@ -579,6 +594,18 @@
           "notifications-messaging",
           "y-email-comunicacia-n",
           "email-transaccional"
+        ]
+      },
+      {
+        "id": "evolution-api-gh",
+        "slug": "evolution-api-gh",
+        "terms": [
+          "evolution-api-gh",
+          "API WhatsApp multi-dispositivo",
+          "email",
+          "notifications-messaging",
+          "y-email-comunicacia-n",
+          "notificaciones-messaging"
         ]
       },
       {
@@ -822,10 +849,10 @@
           "Notificaciones push 10k usuarios",
           "email",
           "notifications-messaging",
-          "notifications",
           "push",
-          "mobile",
-          "web"
+          "notifications",
+          "messaging",
+          "email"
         ]
       },
       {
@@ -837,10 +864,10 @@
           "Notificaciones push 10k usuarios",
           "email",
           "notifications-messaging",
-          "push",
           "notifications",
-          "messaging",
-          "email"
+          "push",
+          "mobile",
+          "web"
         ]
       },
       {
@@ -1177,6 +1204,18 @@
         ]
       },
       {
+        "id": "whatsapp-business-platform-web",
+        "slug": "whatsapp-business-platform-web",
+        "terms": [
+          "whatsapp-business-platform-web",
+          "API oficial de WhatsApp Business",
+          "email",
+          "notifications-messaging",
+          "y-email-comunicacia-n",
+          "notificaciones-messaging"
+        ]
+      },
+      {
         "id": "worldmonitor",
         "slug": "worldmonitor",
         "terms": [
@@ -1260,6 +1299,6 @@
     "dataset": "analytics-monitoring_email-comunicacion",
     "title": "analytics-monitoring_email-comunicacion",
     "description": "Dataset analytics-monitoring_email-comunicacion",
-    "resourceCount": 52
+    "resourceCount": 54
   }
 }

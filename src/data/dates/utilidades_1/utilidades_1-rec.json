@@ -3,7 +3,7 @@
     "id": "utilities",
     "name": "Utilities",
     "slug": "utilities",
-    "resourceCount": 59,
+    "resourceCount": 57,
     "status": "active"
   },
   "subcategories": [
@@ -28,11 +28,46 @@
       "name": "Productivity",
       "slug": "productivity",
       "category": "utilities",
-      "resourceCount": 30,
+      "resourceCount": 28,
       "status": "active"
     }
   ],
   "resources": [
+    {
+      "id": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+      "name": "1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
+      "slug": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+      "description": "Recurso tecnico",
+      "url": "https://drive.google.com/drive/mobile/folders/1_UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "almacenamiento-archivos",
+        "1-ur7kns9v3viuyppp0dtgbkdd1jozupx"
+      ],
+      "searchIndex": [
+        "1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
+        "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+        "Recurso tecnico",
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "almacenamiento-archivos"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
     {
       "id": "airtable",
       "name": "Airtable",
@@ -465,6 +500,74 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "files-sdk",
+      "name": "files-sdk",
+      "slug": "files-sdk",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/haydenbleasel/files-sdk",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "almacenamiento-archivos",
+        "files-sdk"
+      ],
+      "searchIndex": [
+        "files-sdk",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "almacenamiento-archivos"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "files-sdk-dev",
+      "name": "files-sdk-dev",
+      "slug": "files-sdk-dev",
+      "description": "Herramienta de desarrollo",
+      "url": "https://files-sdk.dev",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "almacenamiento-archivos",
+        "files-sdk-dev"
+      ],
+      "searchIndex": [
+        "files-sdk-dev",
+        "Herramienta de desarrollo",
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "almacenamiento-archivos"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "fillerama",
@@ -902,43 +1005,6 @@
       "noCreditCard": false
     },
     {
-      "id": "jsoncrack",
-      "name": "JsonCrack",
-      "slug": "jsoncrack",
-      "description": "Visualizador de estructuras JSON",
-      "url": "https://github.com/AykutSarac/jsoncrack.com",
-      "status": "active",
-      "tags": [
-        "utilities",
-        "json",
-        "visualizer",
-        "open-source",
-        "github"
-      ],
-      "searchIndex": [
-        "JsonCrack",
-        "jsoncrack",
-        "Visualizador de estructuras JSON",
-        "utilities",
-        "productivity",
-        "utilities",
-        "json",
-        "visualizer",
-        "open-source",
-        "github"
-      ],
-      "category": "utilities",
-      "subcategory": "productivity",
-      "pricing": "free",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-14",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
       "id": "linktree",
       "name": "Linktree",
       "slug": "linktree",
@@ -1229,9 +1295,9 @@
       "noCreditCard": true
     },
     {
-      "id": "notion-web",
+      "id": "notion",
       "name": "Notion",
-      "slug": "notion-web",
+      "slug": "notion",
       "description": "Workspace todo-en-uno gratis personal",
       "url": "https://www.notion.so",
       "status": "active",
@@ -1243,7 +1309,7 @@
       ],
       "searchIndex": [
         "Notion",
-        "notion-web",
+        "notion",
         "Workspace todo-en-uno gratis personal",
         "utilities",
         "productivity",
@@ -1264,9 +1330,9 @@
       "noCreditCard": true
     },
     {
-      "id": "npm-alternatives-web",
+      "id": "npm-alternatives",
       "name": "NPM Alternatives",
-      "slug": "npm-alternatives-web",
+      "slug": "npm-alternatives",
       "description": "npms.io, npmsearch.com",
       "url": "https://npmsearch.com/",
       "status": "active",
@@ -1278,7 +1344,7 @@
       ],
       "searchIndex": [
         "NPM Alternatives",
-        "npm-alternatives-web",
+        "npm-alternatives",
         "npms.io, npmsearch.com",
         "utilities",
         "productivity",
@@ -1630,6 +1696,41 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "randomuser-us",
+      "name": "RandomUser US",
+      "slug": "randomuser-us",
+      "description": "Usuarios aleatorios SSN, direcciÃ³n, tel",
+      "url": "https://randomuser.me/?results=10&nat=us",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "datos-falsos-fake-data",
+        "randomuser-us"
+      ],
+      "searchIndex": [
+        "RandomUser US",
+        "randomuser-us",
+        "Usuarios aleatorios SSN, direcciÃ³n, tel",
+        "utilities",
+        "productivity",
+        "y-utilidades-herramientas",
+        "datos-falsos-fake-data"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "reccloud",
@@ -1987,191 +2088,6 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
-    },
-    {
-      "id": "it-tools-gh",
-      "name": "it-tools",
-      "slug": "it-tools-gh",
-      "description": "Caja de herramientas para dev",
-      "url": "https://github.com/CorentinTh/it-tools",
-      "status": "active",
-      "tags": [
-        "utilities",
-        "productivity",
-        "dev-tools",
-        "github",
-        "open-source"
-      ],
-      "searchIndex": [
-        "it-tools",
-        "it-tools-gh",
-        "Caja de herramientas para dev",
-        "utilities",
-        "productivity",
-        "utilities",
-        "productivity",
-        "dev-tools",
-        "github",
-        "open-source"
-      ],
-      "category": "utilities",
-      "subcategory": "productivity",
-      "pricing": "free",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "files-sdk",
-      "name": "files-sdk",
-      "slug": "files-sdk",
-      "description": "SDK para gestionar archivos web",
-      "url": "https://github.com/haydenbleasel/files-sdk",
-      "status": "active",
-      "tags": [
-        "utilities",
-        "productivity",
-        "sdk",
-        "github",
-        "files"
-      ],
-      "searchIndex": [
-        "files-sdk",
-        "files-sdk",
-        "SDK para gestionar archivos web",
-        "utilities",
-        "productivity",
-        "utilities",
-        "productivity",
-        "sdk",
-        "github",
-        "files"
-      ],
-      "category": "utilities",
-      "subcategory": "productivity",
-      "pricing": "free",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
-      "name": "1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
-      "slug": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
-      "description": "Documento compartido en Drive",
-      "url": "https://drive.google.com/file/d/1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx/view",
-      "status": "active",
-      "tags": [
-        "utilities",
-        "productivity",
-        "drive",
-        "documents",
-        "sharing"
-      ],
-      "searchIndex": [
-        "1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
-        "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
-        "Documento compartido en Drive",
-        "utilities",
-        "productivity",
-        "utilities",
-        "productivity",
-        "drive",
-        "documents",
-        "sharing"
-      ],
-      "category": "utilities",
-      "subcategory": "productivity",
-      "pricing": "free",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "files-sdk-dev",
-      "name": "files-sdk-dev",
-      "slug": "files-sdk-dev",
-      "description": "Documentacion oficial de Files SDK",
-      "url": "https://files-sdk.dev",
-      "status": "active",
-      "tags": [
-        "utilities",
-        "productivity",
-        "sdk",
-        "documentation",
-        "files"
-      ],
-      "searchIndex": [
-        "files-sdk-dev",
-        "files-sdk-dev",
-        "Documentacion oficial de Files SDK",
-        "utilities",
-        "productivity",
-        "utilities",
-        "productivity",
-        "sdk",
-        "documentation",
-        "files"
-      ],
-      "category": "utilities",
-      "subcategory": "productivity",
-      "pricing": "freemium",
-      "languages": [
-        "en"
-      ],
-      "limits": "plan gratis con limites",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "arc-kit",
-      "name": "arc-kit",
-      "slug": "arc-kit",
-      "description": "Kit de recursos tecnicos curados",
-      "url": "https://osp.fyi/arc-kit",
-      "status": "active",
-      "tags": [
-        "utilities",
-        "productivity",
-        "resources",
-        "toolkit",
-        "web"
-      ],
-      "searchIndex": [
-        "arc-kit",
-        "arc-kit",
-        "Kit de recursos tecnicos curados",
-        "utilities",
-        "productivity",
-        "utilities",
-        "productivity",
-        "resources",
-        "toolkit",
-        "web"
-      ],
-      "category": "utilities",
-      "subcategory": "productivity",
-      "pricing": "custom",
-      "languages": [
-        "en"
-      ],
-      "limits": "depende del proveedor",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": false
     }
   ]
 }

@@ -4,14 +4,14 @@
       "id": "cms",
       "name": "Cms",
       "slug": "cms",
-      "resourceCount": 11,
+      "resourceCount": 9,
       "status": "active"
     },
     {
       "id": "utilities",
       "name": "Utilities",
       "slug": "utilities",
-      "resourceCount": 45,
+      "resourceCount": 48,
       "status": "active"
     }
   ],
@@ -21,7 +21,7 @@
       "name": "Dev Tools",
       "slug": "dev-tools",
       "category": "utilities",
-      "resourceCount": 29,
+      "resourceCount": 28,
       "status": "active"
     },
     {
@@ -29,7 +29,7 @@
       "name": "General Resources",
       "slug": "general-resources",
       "category": "utilities",
-      "resourceCount": 9,
+      "resourceCount": 8,
       "status": "active"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Platforms",
       "slug": "platforms",
       "category": "cms",
-      "resourceCount": 11,
+      "resourceCount": 9,
       "status": "active"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Seo Scraping",
       "slug": "seo-scraping",
       "category": "utilities",
-      "resourceCount": 7,
+      "resourceCount": 12,
       "status": "active"
     }
   ],
@@ -325,6 +325,40 @@
       "noCreditCard": true
     },
     {
+      "id": "codegraph-gh",
+      "name": "codegraph-gh",
+      "slug": "codegraph-gh",
+      "description": "Crawler y grafo de cÃ³digo",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping",
+        "codegraph-gh"
+      ],
+      "searchIndex": [
+        "codegraph-gh",
+        "Crawler y grafo de cÃ³digo",
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping"
+      ],
+      "category": "utilities",
+      "subcategory": "seo-scraping",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "contentful",
       "name": "Contentful",
       "slug": "contentful",
@@ -360,38 +394,70 @@
       "noCreditCard": true
     },
     {
-      "id": "crawl4ai-gh",
+      "id": "crawl4ai",
       "name": "crawl4ai",
-      "slug": "crawl4ai-gh",
-      "description": "Crawl y extraccion web para LLM",
+      "slug": "crawl4ai",
+      "description": "Crawl y extracciÃ³n web para LLMs",
       "url": "https://github.com/unclecode/crawl4ai",
       "status": "active",
       "tags": [
-        "seo",
-        "scraping",
         "utilities",
-        "github",
-        "open-source"
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping",
+        "crawl4ai"
       ],
       "searchIndex": [
         "crawl4ai",
-        "crawl4ai-gh",
-        "Crawl y extraccion web para LLM",
+        "Crawl y extracciÃ³n web para LLMs",
         "utilities",
         "seo-scraping",
-        "seo",
-        "scraping",
-        "github",
-        "open-source"
+        "y-utilidades-herramientas",
+        "y-seo-scraping"
       ],
       "category": "utilities",
       "subcategory": "seo-scraping",
       "pricing": "free",
       "languages": [
+        "es",
         "en"
       ],
-      "limits": "no-limits",
-      "added": "2026-05-15",
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "crawlee-python-gh",
+      "name": "crawlee-python-gh",
+      "slug": "crawlee-python-gh",
+      "description": "Web scraping escalable con Python",
+      "url": "https://github.com/apify/crawlee-python",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "seo-scraping",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "crawlee-python-gh"
+      ],
+      "searchIndex": [
+        "crawlee-python-gh",
+        "Web scraping escalable con Python",
+        "utilities",
+        "seo-scraping",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "utilities",
+      "subcategory": "seo-scraping",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -568,9 +634,9 @@
       "noCreditCard": true
     },
     {
-      "id": "firecrawl-org",
+      "id": "firecrawl",
       "name": "FireCrawl",
-      "slug": "firecrawl-org",
+      "slug": "firecrawl",
       "description": "API para buscar y scrapear web a escala",
       "url": "https://github.com/firecrawl",
       "status": "active",
@@ -582,7 +648,7 @@
       ],
       "searchIndex": [
         "FireCrawl",
-        "firecrawl-org",
+        "firecrawl",
         "API para buscar y scrapear web a escala",
         "utilities",
         "seo-scraping",
@@ -633,9 +699,9 @@
       "noCreditCard": false
     },
     {
-      "id": "free-for-dev-web",
+      "id": "free-for-dev",
       "name": "Free For Dev",
-      "slug": "free-for-dev-web",
+      "slug": "free-for-dev",
       "description": "Recursos gratis para devs",
       "url": "https://free-for.dev/",
       "status": "active",
@@ -647,7 +713,7 @@
       ],
       "searchIndex": [
         "Free For Dev",
-        "free-for-dev-web",
+        "free-for-dev",
         "Recursos gratis para devs",
         "utilities",
         "general-resources",
@@ -731,6 +797,40 @@
       "added": "2026-04-27",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "gospider",
+      "name": "gospider",
+      "slug": "gospider",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/jaeles-project/gospider",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping",
+        "gospider"
+      ],
+      "searchIndex": [
+        "gospider",
+        "Repositorio GitHub",
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping"
+      ],
+      "category": "utilities",
+      "subcategory": "seo-scraping",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "graphite",
@@ -863,6 +963,109 @@
       "added": "2026-04-27",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "it-tools",
+      "name": "it-tools",
+      "slug": "it-tools",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/CorentinTh/it-tools",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping",
+        "it-tools"
+      ],
+      "searchIndex": [
+        "it-tools",
+        "Repositorio GitHub",
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping"
+      ],
+      "category": "utilities",
+      "subcategory": "seo-scraping",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "jsoncrack",
+      "name": "JsonCrack",
+      "slug": "jsoncrack",
+      "description": "Visualizador JSON estructuras datos",
+      "url": "https://github.com/AykutSarac/jsoncrack.com",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "dev-tools",
+        "y-utilidades-herramientas",
+        "y-i-herramientas-dev",
+        "jsoncrack"
+      ],
+      "searchIndex": [
+        "JsonCrack",
+        "jsoncrack",
+        "Visualizador JSON estructuras datos",
+        "utilities",
+        "dev-tools",
+        "y-utilidades-herramientas",
+        "y-i-herramientas-dev"
+      ],
+      "category": "utilities",
+      "subcategory": "dev-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "llm-scraper-gh",
+      "name": "llm-scraper-gh",
+      "slug": "llm-scraper-gh",
+      "description": "Scraping web con LLM y Playwright",
+      "url": "https://github.com/mishushakov/llm-scraper",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping",
+        "llm-scraper-gh"
+      ],
+      "searchIndex": [
+        "llm-scraper-gh",
+        "Scraping web con LLM y Playwright",
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping"
+      ],
+      "category": "utilities",
+      "subcategory": "seo-scraping",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "maxun",
@@ -1203,9 +1406,9 @@
       "noCreditCard": true
     },
     {
-      "id": "sentry-web",
+      "id": "sentry",
       "name": "Sentry",
-      "slug": "sentry-web",
+      "slug": "sentry",
       "description": "control logs web live real",
       "url": "https://sentry.io/welcome/",
       "status": "active",
@@ -1216,7 +1419,7 @@
       ],
       "searchIndex": [
         "Sentry",
-        "sentry-web",
+        "sentry",
         "control logs web live real",
         "utilities",
         "dev-tools",
@@ -1776,191 +1979,6 @@
       "added": "2026-05-11",
       "verified": true,
       "noCreditCard": false
-    },
-    {
-      "id": "jam-dev",
-      "name": "jam-dev",
-      "slug": "jam-dev",
-      "description": "Captura y reporte de bugs visuales",
-      "url": "https://jam.dev",
-      "status": "active",
-      "tags": [
-        "cms",
-        "platforms",
-        "bug-reporting",
-        "dev-tools",
-        "freemium"
-      ],
-      "searchIndex": [
-        "jam-dev",
-        "jam-dev",
-        "Captura y reporte de bugs visuales",
-        "cms",
-        "platforms",
-        "cms",
-        "platforms",
-        "bug-reporting",
-        "dev-tools",
-        "freemium"
-      ],
-      "category": "cms",
-      "subcategory": "platforms",
-      "pricing": "freemium",
-      "languages": [
-        "en"
-      ],
-      "limits": "plan gratis con limites",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "cliyerai-com",
-      "name": "cliyerai-com",
-      "slug": "cliyerai-com",
-      "description": "Herramienta IA para contenidos web",
-      "url": "https://cliyerai.com",
-      "status": "active",
-      "tags": [
-        "cms",
-        "platforms",
-        "ai",
-        "content",
-        "web"
-      ],
-      "searchIndex": [
-        "cliyerai-com",
-        "cliyerai-com",
-        "Herramienta IA para contenidos web",
-        "cms",
-        "platforms",
-        "cms",
-        "platforms",
-        "ai",
-        "content",
-        "web"
-      ],
-      "category": "cms",
-      "subcategory": "platforms",
-      "pricing": "custom",
-      "languages": [
-        "en"
-      ],
-      "limits": "depende del proveedor",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "party-in-the-permanent-underclass",
-      "name": "party-in-the-permanent-underclass",
-      "slug": "party-in-the-permanent-underclass",
-      "description": "Articulo sobre comunicacion digital",
-      "url": "https://jasmi.news/party-in-the-permanent-underclass",
-      "status": "active",
-      "tags": [
-        "utilities",
-        "general-resources",
-        "article",
-        "media",
-        "communication"
-      ],
-      "searchIndex": [
-        "party-in-the-permanent-underclass",
-        "party-in-the-permanent-underclass",
-        "Articulo sobre comunicacion digital",
-        "utilities",
-        "general-resources",
-        "utilities",
-        "general-resources",
-        "article",
-        "media",
-        "communication"
-      ],
-      "category": "utilities",
-      "subcategory": "general-resources",
-      "pricing": "custom",
-      "languages": [
-        "en"
-      ],
-      "limits": "depende del proveedor",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "iohjgamcilhbgmhbnllfolmkmmekfmci",
-      "name": "iohjgamcilhbgmhbnllfolmkmmekfmci",
-      "slug": "iohjgamcilhbgmhbnllfolmkmmekfmci",
-      "description": "Extension Jam para capturar bugs",
-      "url": "https://chromewebstore.google.com/detail/jam/iohjgamcilhbgmhbnllfolmkmmekfmci",
-      "status": "active",
-      "tags": [
-        "utilities",
-        "dev-tools",
-        "chrome-extension",
-        "jam",
-        "debugging"
-      ],
-      "searchIndex": [
-        "iohjgamcilhbgmhbnllfolmkmmekfmci",
-        "iohjgamcilhbgmhbnllfolmkmmekfmci",
-        "Extension Jam para capturar bugs",
-        "utilities",
-        "dev-tools",
-        "utilities",
-        "dev-tools",
-        "chrome-extension",
-        "jam",
-        "debugging"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "freemium",
-      "languages": [
-        "en"
-      ],
-      "limits": "plan gratis con limites",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "fgpnklngaiahpcpjennhbcmkiahjohdk",
-      "name": "fgpnklngaiahpcpjennhbcmkiahjohdk",
-      "slug": "fgpnklngaiahpcpjennhbcmkiahjohdk",
-      "description": "Extension Shake para feedback",
-      "url": "https://chromewebstore.google.com/detail/shake/fgpnklngaiahpcpjennhbcmkiahjohdk",
-      "status": "active",
-      "tags": [
-        "utilities",
-        "dev-tools",
-        "chrome-extension",
-        "feedback",
-        "testing"
-      ],
-      "searchIndex": [
-        "fgpnklngaiahpcpjennhbcmkiahjohdk",
-        "fgpnklngaiahpcpjennhbcmkiahjohdk",
-        "Extension Shake para feedback",
-        "utilities",
-        "dev-tools",
-        "utilities",
-        "dev-tools",
-        "chrome-extension",
-        "feedback",
-        "testing"
-      ],
-      "category": "utilities",
-      "subcategory": "dev-tools",
-      "pricing": "freemium",
-      "languages": [
-        "en"
-      ],
-      "limits": "plan gratis con limites",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": true
     }
   ]
 }

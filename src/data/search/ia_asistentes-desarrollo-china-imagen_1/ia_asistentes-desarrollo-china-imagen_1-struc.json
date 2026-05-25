@@ -11,17 +11,12 @@
       "description": "Etiqueta adobe"
     },
     "agent": {
-      "count": 20,
+      "count": 4,
       "color": "#65a30d",
       "description": "Etiqueta agent"
     },
-    "agents": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta agents"
-    },
     "ai": {
-      "count": 101,
+      "count": 38,
       "color": "#dc2626",
       "description": "Etiqueta ai"
     },
@@ -41,29 +36,14 @@
       "description": "Etiqueta animation"
     },
     "anthropic": {
-      "count": 3,
+      "count": 1,
       "color": "#db2777",
       "description": "Etiqueta anthropic"
     },
     "assistant": {
-      "count": 7,
+      "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta assistant"
-    },
-    "assistants": {
-      "count": 8,
-      "color": "#db2777",
-      "description": "Etiqueta assistants"
-    },
-    "audio": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta audio"
-    },
-    "automation": {
-      "count": 1,
-      "color": "#0891b2",
-      "description": "Etiqueta automation"
     },
     "automaton": {
       "count": 1,
@@ -84,11 +64,6 @@
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta benchmark"
-    },
-    "browser": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta browser"
     },
     "builder": {
       "count": 1,
@@ -116,7 +91,7 @@
       "description": "Etiqueta china"
     },
     "coding": {
-      "count": 3,
+      "count": 2,
       "color": "#db2777",
       "description": "Etiqueta coding"
     },
@@ -151,22 +126,22 @@
       "description": "Etiqueta copilot"
     },
     "data": {
-      "count": 3,
+      "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta data"
     },
     "design": {
-      "count": 4,
+      "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta design"
     },
     "development": {
-      "count": 32,
+      "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta development"
     },
     "editing": {
-      "count": 4,
+      "count": 3,
       "color": "#2563eb",
       "description": "Etiqueta editing"
     },
@@ -179,11 +154,6 @@
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta fast"
-    },
-    "framework": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta framework"
     },
     "free": {
       "count": 1,
@@ -206,19 +176,14 @@
       "description": "Etiqueta generation"
     },
     "github": {
-      "count": 54,
+      "count": 1,
       "color": "#d97706",
       "description": "Etiqueta github"
     },
     "google": {
-      "count": 2,
+      "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta google"
-    },
-    "guides": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta guides"
     },
     "hyperrealistic": {
       "count": 1,
@@ -226,14 +191,9 @@
       "description": "Etiqueta hyperrealistic"
     },
     "image": {
-      "count": 9,
+      "count": 8,
       "color": "#0891b2",
       "description": "Etiqueta image"
-    },
-    "image-generation": {
-      "count": 2,
-      "color": "#d97706",
-      "description": "Etiqueta image-generation"
     },
     "inflection": {
       "count": 1,
@@ -256,17 +216,17 @@
       "description": "Etiqueta integration"
     },
     "llm": {
-      "count": 16,
+      "count": 5,
       "color": "#0891b2",
       "description": "Etiqueta llm"
     },
     "microsoft": {
-      "count": 2,
+      "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta microsoft"
     },
     "model": {
-      "count": 7,
+      "count": 3,
       "color": "#ea580c",
       "description": "Etiqueta model"
     },
@@ -291,14 +251,9 @@
       "description": "Etiqueta multi-agent"
     },
     "multimodal": {
-      "count": 4,
+      "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta multimodal"
-    },
-    "observability": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta observability"
     },
     "offers": {
       "count": 1,
@@ -306,12 +261,12 @@
       "description": "Etiqueta offers"
     },
     "open-source": {
-      "count": 47,
+      "count": 4,
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
     },
     "openai": {
-      "count": 3,
+      "count": 2,
       "color": "#4f46e5",
       "description": "Etiqueta openai"
     },
@@ -346,24 +301,14 @@
       "description": "Etiqueta realtime"
     },
     "scraping": {
-      "count": 2,
+      "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta scraping"
     },
-    "search": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta search"
-    },
     "tencent": {
-      "count": 3,
+      "count": 2,
       "color": "#d97706",
       "description": "Etiqueta tencent"
-    },
-    "terminal": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta terminal"
     },
     "text": {
       "count": 1,
@@ -381,14 +326,9 @@
       "description": "Etiqueta typography"
     },
     "video": {
-      "count": 13,
+      "count": 7,
       "color": "#0891b2",
       "description": "Etiqueta video"
-    },
-    "visual": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta visual"
     },
     "vscode": {
       "count": 1,
@@ -396,7 +336,7 @@
       "description": "Etiqueta vscode"
     },
     "web": {
-      "count": 8,
+      "count": 1,
       "color": "#db2777",
       "description": "Etiqueta web"
     },
@@ -412,7 +352,39 @@
     }
   },
   "searchIndex": {
-    "resources": [
+    "fields": [
+      {
+        "name": "name",
+        "weight": 3,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "description",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "tags",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "category",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "subcategory",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      }
+    ],
+    "entries": [
       {
         "id": "adobe-firefly",
         "slug": "adobe-firefly",
@@ -443,38 +415,6 @@
         ]
       },
       {
-        "id": "anthropic-agents-guide",
-        "slug": "anthropic-agents-guide",
-        "terms": [
-          "Anthropic-Agents-Guide",
-          "anthropic-agents-guide",
-          "Guia oficial de agentes",
-          "ai",
-          "assistants",
-          "ai",
-          "anthropic",
-          "agent",
-          "llm",
-          "web"
-        ]
-      },
-      {
-        "id": "anthropic-engineering",
-        "slug": "anthropic-engineering",
-        "terms": [
-          "Anthropic-Engineering",
-          "anthropic-engineering",
-          "Publicaciones engineering IA",
-          "ai",
-          "development",
-          "ai",
-          "anthropic",
-          "llm",
-          "development",
-          "web"
-        ]
-      },
-      {
         "id": "antigravity",
         "slug": "antigravity",
         "terms": [
@@ -484,21 +424,6 @@
           "ai",
           "development",
           "tool"
-        ]
-      },
-      {
-        "id": "anus-gh",
-        "slug": "anus-gh",
-        "terms": [
-          "ANUS",
-          "anus-gh",
-          "Framework agentico open source",
-          "ai",
-          "assistants",
-          "assistant",
-          "agent",
-          "github",
-          "open-source"
         ]
       },
       {
@@ -526,51 +451,6 @@
           "comparison",
           "models",
           "benchmark"
-        ]
-      },
-      {
-        "id": "autotts-gh",
-        "slug": "autotts-gh",
-        "terms": [
-          "AutoTTS",
-          "autotts-gh",
-          "Descubrimiento agentico LLM",
-          "ai",
-          "assistants",
-          "assistant",
-          "agent",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "catvton-gh",
-        "slug": "catvton-gh",
-        "terms": [
-          "CatVTON",
-          "catvton-gh",
-          "Try-on virtual por difusion",
-          "ai",
-          "image-generation",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "chandra",
-        "slug": "chandra",
-        "terms": [
-          "Chandra",
-          "chandra",
-          "Framework IA para analisis",
-          "ai",
-          "assistants",
-          "ai",
-          "agent",
-          "data",
-          "open-source",
-          "github"
         ]
       },
       {
@@ -605,21 +485,6 @@
         ]
       },
       {
-        "id": "claude-code-agent-farm-gh",
-        "slug": "claude-code-agent-farm-gh",
-        "terms": [
-          "claude-code-agent-farm",
-          "claude-code-agent-farm-gh",
-          "Orquesta agentes Claude paralelo",
-          "ai",
-          "assistants",
-          "assistant",
-          "agent",
-          "github",
-          "open-source"
-        ]
-      },
-      {
         "id": "copilot",
         "slug": "copilot",
         "terms": [
@@ -648,19 +513,6 @@
         ]
       },
       {
-        "id": "dolphin-gh",
-        "slug": "dolphin-gh",
-        "terms": [
-          "Dolphin",
-          "dolphin-gh",
-          "Parser visual docs y tablas",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
         "id": "ernie-5-0",
         "slug": "ernie-5-0",
         "terms": [
@@ -671,21 +523,6 @@
           "china",
           "baidu",
           "model"
-        ]
-      },
-      {
-        "id": "fusion-gh",
-        "slug": "fusion-gh",
-        "terms": [
-          "Fusion",
-          "fusion-gh",
-          "Plataforma multiagente para IA",
-          "ai",
-          "assistants",
-          "assistant",
-          "agent",
-          "github",
-          "open-source"
         ]
       },
       {
@@ -774,22 +611,6 @@
         ]
       },
       {
-        "id": "huggingface-agents-course",
-        "slug": "huggingface-agents-course",
-        "terms": [
-          "HuggingFace-Agents-Course",
-          "huggingface-agents-course",
-          "Curso agentes de Hugging Face",
-          "ai",
-          "assistants",
-          "ai",
-          "agent",
-          "llm",
-          "multimodal",
-          "web"
-        ]
-      },
-      {
         "id": "hunyuan",
         "slug": "hunyuan",
         "terms": [
@@ -819,19 +640,6 @@
         ]
       },
       {
-        "id": "hyper-extract-gh",
-        "slug": "hyper-extract-gh",
-        "terms": [
-          "Hyper-Extract",
-          "hyper-extract-gh",
-          "Extraccion inteligente documentos",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
         "id": "ideogram",
         "slug": "ideogram",
         "terms": [
@@ -844,34 +652,6 @@
           "text",
           "typography",
           "freemium"
-        ]
-      },
-      {
-        "id": "interaction-models-web",
-        "slug": "interaction-models-web",
-        "terms": [
-          "Interaction-Models",
-          "interaction-models-web",
-          "Colaboracion humano-IA escalable",
-          "ai",
-          "development",
-          "open-source"
-        ]
-      },
-      {
-        "id": "kaggle-whitepaper-agent",
-        "slug": "kaggle-whitepaper-agent",
-        "terms": [
-          "Kaggle-Whitepaper-Agent",
-          "kaggle-whitepaper-agent",
-          "Agente Kaggle para papers",
-          "ai",
-          "assistants",
-          "ai",
-          "agent",
-          "llm",
-          "data",
-          "web"
         ]
       },
       {
@@ -901,67 +681,6 @@
           "video",
           "professional",
           "freemium"
-        ]
-      },
-      {
-        "id": "kronos",
-        "slug": "kronos",
-        "terms": [
-          "Kronos",
-          "kronos",
-          "ML para series temporales",
-          "ai",
-          "development",
-          "ai",
-          "model",
-          "development",
-          "open-source",
-          "github"
-        ]
-      },
-      {
-        "id": "llm-course",
-        "slug": "llm-course",
-        "terms": [
-          "LLM-Course",
-          "llm-course",
-          "Curso completo de LLM",
-          "ai",
-          "development",
-          "ai",
-          "llm",
-          "model",
-          "open-source",
-          "github"
-        ]
-      },
-      {
-        "id": "llm-engineer-toolkit-gh",
-        "slug": "llm-engineer-toolkit-gh",
-        "terms": [
-          "llm-engineer-toolkit",
-          "llm-engineer-toolkit-gh",
-          "Coleccion curada de librerias LLM",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "made-with-ml",
-        "slug": "made-with-ml",
-        "terms": [
-          "Made-With-ML",
-          "made-with-ml",
-          "Plataforma ML en produccion",
-          "ai",
-          "development",
-          "ai",
-          "llm",
-          "development",
-          "web",
-          "model"
         ]
       },
       {
@@ -1020,38 +739,6 @@
         ]
       },
       {
-        "id": "openai-agents-docs",
-        "slug": "openai-agents-docs",
-        "terms": [
-          "OpenAI-Agents-Docs",
-          "openai-agents-docs",
-          "Docs oficiales agentes OpenAI",
-          "ai",
-          "assistants",
-          "ai",
-          "openai",
-          "assistant",
-          "llm",
-          "web"
-        ]
-      },
-      {
-        "id": "paddlepaddle",
-        "slug": "paddlepaddle",
-        "terms": [
-          "PaddlePaddle",
-          "paddlepaddle",
-          "Framework ML open source",
-          "ai",
-          "development",
-          "ai",
-          "model",
-          "development",
-          "open-source",
-          "github"
-        ]
-      },
-      {
         "id": "page-agent",
         "slug": "page-agent",
         "terms": [
@@ -1091,22 +778,6 @@
           "video",
           "animation",
           "premium"
-        ]
-      },
-      {
-        "id": "prompt-engineering-guide",
-        "slug": "prompt-engineering-guide",
-        "terms": [
-          "Prompt-Engineering-Guide",
-          "prompt-engineering-guide",
-          "Guia de prompt engineering",
-          "ai",
-          "development",
-          "ai",
-          "llm",
-          "development",
-          "open-source",
-          "github"
         ]
       },
       {
@@ -1223,35 +894,6 @@
         ]
       },
       {
-        "id": "surya",
-        "slug": "surya",
-        "terms": [
-          "Surya",
-          "surya",
-          "OCR multimodal para documentos",
-          "ai",
-          "development",
-          "ai",
-          "multimodal",
-          "image",
-          "open-source",
-          "github"
-        ]
-      },
-      {
-        "id": "tracer-gh",
-        "slug": "tracer-gh",
-        "terms": [
-          "tracer",
-          "tracer-gh",
-          "Reduce coste LLM clasificacion",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
         "id": "wan-2-6",
         "slug": "wan-2-6",
         "terms": [
@@ -1262,20 +904,6 @@
           "china",
           "video",
           "generation"
-        ]
-      },
-      {
-        "id": "youtube-clipper-skill-gh",
-        "slug": "youtube-clipper-skill-gh",
-        "terms": [
-          "Youtube-clipper-skill",
-          "youtube-clipper-skill-gh",
-          "Clips YouTube con subtitulos IA",
-          "ai",
-          "development",
-          "video",
-          "github",
-          "open-source"
         ]
       },
       {
@@ -1291,616 +919,6 @@
           "alibaba",
           "fast",
           "freemium"
-        ]
-      },
-      {
-        "id": "superserve",
-        "slug": "superserve",
-        "terms": [
-          "superserve",
-          "superserve",
-          "Plataforma de agentes empresariales",
-          "ai",
-          "assistants",
-          "ai",
-          "assistants",
-          "github",
-          "open-source",
-          "agent"
-        ]
-      },
-      {
-        "id": "dark-moon",
-        "slug": "dark-moon",
-        "terms": [
-          "Dark-Moon",
-          "dark-moon",
-          "Asistente IA en entorno terminal",
-          "ai",
-          "assistants",
-          "ai",
-          "assistants",
-          "github",
-          "open-source",
-          "terminal"
-        ]
-      },
-      {
-        "id": "anansi",
-        "slug": "anansi",
-        "terms": [
-          "anansi",
-          "anansi",
-          "Framework para flujos de agentes",
-          "ai",
-          "assistants",
-          "ai",
-          "assistants",
-          "framework",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "shadowbroker",
-        "slug": "shadowbroker",
-        "terms": [
-          "Shadowbroker",
-          "shadowbroker",
-          "Asistente para automatizar tareas",
-          "ai",
-          "assistants",
-          "ai",
-          "assistants",
-          "automation",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "onyx",
-        "slug": "onyx",
-        "terms": [
-          "onyx",
-          "onyx",
-          "Buscador IA para equipos internos",
-          "ai",
-          "assistants",
-          "ai",
-          "assistants",
-          "search",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "leann",
-        "slug": "leann",
-        "terms": [
-          "LEANN",
-          "leann",
-          "Libreria para agentes eficientes",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "agents",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "supertonic",
-        "slug": "supertonic",
-        "terms": [
-          "supertonic",
-          "supertonic",
-          "Toolkit IA para voz y audio",
-          "ai",
-          "assistants",
-          "ai",
-          "assistants",
-          "audio",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "versecrafter",
-        "slug": "versecrafter",
-        "terms": [
-          "VerseCrafter",
-          "versecrafter",
-          "Generacion de video con prompts",
-          "ai",
-          "image-generation",
-          "ai",
-          "image-generation",
-          "video",
-          "github",
-          "tencent"
-        ]
-      },
-      {
-        "id": "visomaster-fusion",
-        "slug": "visomaster-fusion",
-        "terms": [
-          "VisoMaster-Fusion",
-          "visomaster-fusion",
-          "Suite de creacion visual IA",
-          "ai",
-          "image-generation",
-          "ai",
-          "image-generation",
-          "visual",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "mini-browser",
-        "slug": "mini-browser",
-        "terms": [
-          "mini-browser",
-          "mini-browser",
-          "Navegador mini para agentes web",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "browser",
-          "github",
-          "agent"
-        ]
-      },
-      {
-        "id": "argus",
-        "slug": "argus",
-        "terms": [
-          "Argus",
-          "argus",
-          "Agente para observabilidad LLM",
-          "ai",
-          "assistants",
-          "ai",
-          "assistants",
-          "observability",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "openguider",
-        "slug": "openguider",
-        "terms": [
-          "OpenGuider",
-          "openguider",
-          "Guia open source para agentes IA",
-          "ai",
-          "assistants",
-          "ai",
-          "assistants",
-          "guides",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "sutskever-30-implementations-gh",
-        "slug": "sutskever-30-implementations-gh",
-        "terms": [
-          "Sutskever 30 Implementations",
-          "sutskever-30-implementations-gh",
-          "30 ideas IA para implementar",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "art-doing-anything-yt",
-        "slug": "art-doing-anything-yt",
-        "terms": [
-          "Art Doing Anything",
-          "art-doing-anything-yt",
-          "Habitos para rendir al maximo",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "video",
-          "web"
-        ]
-      },
-      {
-        "id": "claude-design-complete-guide-yt",
-        "slug": "claude-design-complete-guide-yt",
-        "terms": [
-          "Claude Design Complete Guide",
-          "claude-design-complete-guide-yt",
-          "Guia completa de Claude Design",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "video",
-          "llm"
-        ]
-      },
-      {
-        "id": "andrew-ng-ai-agents-build-2024-yt",
-        "slug": "andrew-ng-ai-agents-build-2024-yt",
-        "terms": [
-          "Andrew Ng AI Agents Build 2024",
-          "andrew-ng-ai-agents-build-2024-yt",
-          "Andrew Ng sobre agentes IA",
-          "ai",
-          "assistants",
-          "ai",
-          "agent",
-          "assistant",
-          "video"
-        ]
-      },
-      {
-        "id": "rowboat-gh",
-        "slug": "rowboat-gh",
-        "terms": [
-          "Rowboat",
-          "rowboat-gh",
-          "Framework para agentes browser",
-          "ai",
-          "assistants",
-          "ai",
-          "agent",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "lightclaw-gh",
-        "slug": "lightclaw-gh",
-        "terms": [
-          "Lightclaw",
-          "lightclaw-gh",
-          "Automatizacion con enfoque IA",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "turboquant-plus-gh",
-        "slug": "turboquant-plus-gh",
-        "terms": [
-          "Turboquant Plus",
-          "turboquant-plus-gh",
-          "Trading cuantitativo backtesting",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "llms-from-scratch-alt-gh",
-        "slug": "llms-from-scratch-alt-gh",
-        "terms": [
-          "Llms From Scratch Alt",
-          "llms-from-scratch-alt-gh",
-          "Implementaciones LLM desde cero",
-          "ai",
-          "development",
-          "ai",
-          "llm",
-          "development",
-          "github"
-        ]
-      },
-      {
-        "id": "paperetl-gh",
-        "slug": "paperetl-gh",
-        "terms": [
-          "Paperetl",
-          "paperetl-gh",
-          "ETL semantico para papers",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "train-llm-from-scratch-gh",
-        "slug": "train-llm-from-scratch-gh",
-        "terms": [
-          "Train LLM From Scratch",
-          "train-llm-from-scratch-gh",
-          "Entrenamiento LLM paso a paso",
-          "ai",
-          "development",
-          "ai",
-          "llm",
-          "development",
-          "github"
-        ]
-      },
-      {
-        "id": "project-ideas-resources-gh",
-        "slug": "project-ideas-resources-gh",
-        "terms": [
-          "Project Ideas Resources",
-          "project-ideas-resources-gh",
-          "Ideas y recursos para proyectos",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "crawlee-python-gh",
-        "slug": "crawlee-python-gh",
-        "terms": [
-          "Crawlee Python",
-          "crawlee-python-gh",
-          "Web scraping escalable Python",
-          "ai",
-          "development",
-          "ai",
-          "scraping",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "mlfinlab-gh",
-        "slug": "mlfinlab-gh",
-        "terms": [
-          "Mlfinlab",
-          "mlfinlab-gh",
-          "Libreria de finanzas cuant",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "fortnite-porting-gh",
-        "slug": "fortnite-porting-gh",
-        "terms": [
-          "Fortnite Porting",
-          "fortnite-porting-gh",
-          "Porting y tooling de assets",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "playwright-computer-use-gh",
-        "slug": "playwright-computer-use-gh",
-        "terms": [
-          "Playwright Computer Use",
-          "playwright-computer-use-gh",
-          "Control browser por agentes",
-          "ai",
-          "assistants",
-          "ai",
-          "agent",
-          "development",
-          "github"
-        ]
-      },
-      {
-        "id": "openskills-gh",
-        "slug": "openskills-gh",
-        "terms": [
-          "Openskills",
-          "openskills-gh",
-          "Rating bayesiano emparejamientos",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "metaclaw-gh",
-        "slug": "metaclaw-gh",
-        "terms": [
-          "Metaclaw",
-          "metaclaw-gh",
-          "Framework agentes autocontenidos",
-          "ai",
-          "assistants",
-          "ai",
-          "agent",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "digital-chip-design-agents-gh",
-        "slug": "digital-chip-design-agents-gh",
-        "terms": [
-          "Digital Chip Design Agents",
-          "digital-chip-design-agents-gh",
-          "Agentes para diseno de chips",
-          "ai",
-          "assistants",
-          "ai",
-          "agent",
-          "design",
-          "github"
-        ]
-      },
-      {
-        "id": "deepdiagram-gh",
-        "slug": "deepdiagram-gh",
-        "terms": [
-          "Deepdiagram",
-          "deepdiagram-gh",
-          "Diagramas tecnicos con IA",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "design",
-          "github"
-        ]
-      },
-      {
-        "id": "trykimu-videoeditor-gh",
-        "slug": "trykimu-videoeditor-gh",
-        "terms": [
-          "Trykimu Videoeditor",
-          "trykimu-videoeditor-gh",
-          "Editor de video con capacidades IA",
-          "ai",
-          "image-generation",
-          "ai",
-          "video",
-          "editing",
-          "github"
-        ]
-      },
-      {
-        "id": "gemini-api-gh",
-        "slug": "gemini-api-gh",
-        "terms": [
-          "Gemini API",
-          "gemini-api-gh",
-          "Integracion practica Gemini API",
-          "ai",
-          "development",
-          "ai",
-          "google",
-          "github"
-        ]
-      },
-      {
-        "id": "yue-gh",
-        "slug": "yue-gh",
-        "terms": [
-          "Yue",
-          "yue-gh",
-          "Proyecto multimodal audio musica",
-          "ai",
-          "image-generation",
-          "ai",
-          "multimodal",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "rl-course-materials-gh",
-        "slug": "rl-course-materials-gh",
-        "terms": [
-          "RL Course Materials",
-          "rl-course-materials-gh",
-          "Materiales de curso de RL",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "mars-gh",
-        "slug": "mars-gh",
-        "terms": [
-          "Mars",
-          "mars-gh",
-          "Repositorio Microsoft MarS",
-          "ai",
-          "assistants",
-          "ai",
-          "microsoft",
-          "agent",
-          "github"
-        ]
-      },
-      {
-        "id": "redplanet-core-gh",
-        "slug": "redplanet-core-gh",
-        "terms": [
-          "Redplanet Core",
-          "redplanet-core-gh",
-          "Core framework para productos IA",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "open-design-gh",
-        "slug": "open-design-gh",
-        "terms": [
-          "Open Design",
-          "open-design-gh",
-          "Recursos de diseno open source",
-          "ai",
-          "development",
-          "ai",
-          "design",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "ps5-linux-loader-gh",
-        "slug": "ps5-linux-loader-gh",
-        "terms": [
-          "PS5 Linux Loader",
-          "ps5-linux-loader-gh",
-          "Loader Linux para PS5",
-          "ai",
-          "development",
-          "ai",
-          "development",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "everything-claude-code-gh",
-        "slug": "everything-claude-code-gh",
-        "terms": [
-          "Everything Claude Code",
-          "everything-claude-code-gh",
-          "Recursos y notas Claude Code",
-          "ai",
-          "development",
-          "ai",
-          "coding",
-          "github"
         ]
       }
     ]
@@ -1931,14 +949,13 @@
       true
     ],
     "noCreditCard": [
-      false,
-      true
+      false
     ]
   },
   "ui": {
     "dataset": "ia_asistentes-desarrollo-china-imagen_1",
     "title": "🤖 Inteligencia Artificial",
     "description": "@{totalResources=48; bySubcategory=; byPricing=; averagePopularity=88.5}",
-    "resourceCount": 101
+    "resourceCount": 38
   }
 }

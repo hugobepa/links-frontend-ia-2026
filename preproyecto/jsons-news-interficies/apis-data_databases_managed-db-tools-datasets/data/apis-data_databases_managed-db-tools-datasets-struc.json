@@ -41,7 +41,7 @@
       "description": "Etiqueta api-mega-list"
     },
     "apis": {
-      "count": 10,
+      "count": 15,
       "color": "#ea580c",
       "description": "Etiqueta apis"
     },
@@ -175,6 +175,11 @@
       "color": "#059669",
       "description": "Etiqueta database"
     },
+    "dataflow": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta dataflow"
+    },
     "dataset": {
       "count": 5,
       "color": "#dc2626",
@@ -270,6 +275,11 @@
       "color": "#059669",
       "description": "Etiqueta filters"
     },
+    "fingerprint-suite": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta fingerprint-suite"
+    },
     "firebase": {
       "count": 1,
       "color": "#d97706",
@@ -346,12 +356,12 @@
       "description": "Etiqueta gui"
     },
     "herramientas-api": {
-      "count": 1,
+      "count": 3,
       "color": "#dc2626",
       "description": "Etiqueta herramientas-api"
     },
     "herramientas-database": {
-      "count": 4,
+      "count": 7,
       "color": "#ea580c",
       "description": "Etiqueta herramientas-database"
     },
@@ -600,6 +610,11 @@
       "color": "#65a30d",
       "description": "Etiqueta postgres"
     },
+    "postgres-mcp": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta postgres-mcp"
+    },
     "postgresql": {
       "count": 3,
       "color": "#db2777",
@@ -730,6 +745,11 @@
       "color": "#dc2626",
       "description": "Etiqueta simpsons"
     },
+    "smallpond": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta smallpond"
+    },
     "soccer": {
       "count": 2,
       "color": "#ea580c",
@@ -744,6 +764,11 @@
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta sqlite"
+    },
+    "surf": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta surf"
     },
     "sync": {
       "count": 1,
@@ -781,7 +806,7 @@
       "description": "Etiqueta tool"
     },
     "tools": {
-      "count": 6,
+      "count": 11,
       "color": "#059669",
       "description": "Etiqueta tools"
     },
@@ -836,12 +861,12 @@
       "description": "Etiqueta web"
     },
     "y-apis-datos": {
-      "count": 2,
+      "count": 4,
       "color": "#ea580c",
       "description": "Etiqueta y-apis-datos"
     },
     "y-i-bases-de-datos": {
-      "count": 2,
+      "count": 5,
       "color": "#dc2626",
       "description": "Etiqueta y-i-bases-de-datos"
     }
@@ -1086,6 +1111,19 @@
         ]
       },
       {
+        "id": "dataflow",
+        "slug": "dataflow",
+        "terms": [
+          "DataFlow",
+          "dataflow",
+          "Repositorio GitHub",
+          "apis",
+          "tools",
+          "y-i-bases-de-datos",
+          "herramientas-database"
+        ]
+      },
+      {
         "id": "dbdesigner",
         "slug": "db-designer",
         "terms": [
@@ -1300,6 +1338,18 @@
           "mariadb",
           "free",
           "hosting"
+        ]
+      },
+      {
+        "id": "fingerprint-suite",
+        "slug": "fingerprint-suite",
+        "terms": [
+          "fingerprint-suite",
+          "Fingerprinting anti-fraude y bots",
+          "apis",
+          "tools",
+          "y-apis-datos",
+          "herramientas-api"
         ]
       },
       {
@@ -1936,6 +1986,18 @@
         ]
       },
       {
+        "id": "postgres-mcp",
+        "slug": "postgres-mcp",
+        "terms": [
+          "postgres-mcp",
+          "Repositorio GitHub",
+          "apis",
+          "tools",
+          "y-i-bases-de-datos",
+          "herramientas-database"
+        ]
+      },
+      {
         "id": "postgrest",
         "slug": "postgrest",
         "terms": [
@@ -2108,6 +2170,18 @@
         ]
       },
       {
+        "id": "smallpond",
+        "slug": "smallpond",
+        "terms": [
+          "smallpond",
+          "Framework ETL ligero sobre DuckDB",
+          "apis",
+          "tools",
+          "y-i-bases-de-datos",
+          "herramientas-database"
+        ]
+      },
+      {
         "id": "spacetimedb",
         "slug": "spacetimedb",
         "terms": [
@@ -2165,6 +2239,18 @@
           "postgresql",
           "auth",
           "realtime"
+        ]
+      },
+      {
+        "id": "surf",
+        "slug": "surf",
+        "terms": [
+          "surf",
+          "Cliente HTTP y toolkit API moderno",
+          "apis",
+          "tools",
+          "y-apis-datos",
+          "herramientas-api"
         ]
       },
       {
@@ -2450,6 +2536,6 @@
     "dataset": "apis-data_databases_managed-db-tools-datasets",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con recursos de APIs y bases de datos",
-    "resourceCount": 105
+    "resourceCount": 110
   }
 }

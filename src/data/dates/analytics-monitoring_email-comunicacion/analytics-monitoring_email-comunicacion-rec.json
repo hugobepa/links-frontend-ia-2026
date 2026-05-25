@@ -4,7 +4,7 @@
       "id": "analytics",
       "name": "Analytics",
       "slug": "analytics",
-      "resourceCount": 26,
+      "resourceCount": 24,
       "status": "active"
     },
     {
@@ -61,7 +61,7 @@
       "name": "Seo Tools",
       "slug": "seo-tools",
       "category": "analytics",
-      "resourceCount": 10,
+      "resourceCount": 8,
       "status": "active"
     },
     {
@@ -364,6 +364,40 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "evolution-api-gh",
+      "name": "evolution-api-gh",
+      "slug": "evolution-api-gh",
+      "description": "API WhatsApp multi-dispositivo",
+      "url": "https://github.com/evolution-foundation/evolution-api",
+      "status": "active",
+      "tags": [
+        "email",
+        "notifications-messaging",
+        "y-email-comunicacia-n",
+        "notificaciones-messaging",
+        "evolution-api-gh"
+      ],
+      "searchIndex": [
+        "evolution-api-gh",
+        "API WhatsApp multi-dispositivo",
+        "email",
+        "notifications-messaging",
+        "y-email-comunicacia-n",
+        "notificaciones-messaging"
+      ],
+      "category": "email",
+      "subcategory": "notifications-messaging",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -939,6 +973,42 @@
       "name": "OneSignal",
       "slug": "onesignal",
       "description": "Notificaciones push 10k usuarios",
+      "url": "https://onesignal.com/unlock-growth-ga-lp",
+      "status": "active",
+      "tags": [
+        "push",
+        "notifications",
+        "messaging",
+        "email"
+      ],
+      "searchIndex": [
+        "OneSignal",
+        "onesignal",
+        "Notificaciones push 10k usuarios",
+        "email",
+        "notifications-messaging",
+        "push",
+        "notifications",
+        "messaging",
+        "email"
+      ],
+      "category": "email",
+      "subcategory": "notifications-messaging",
+      "pricing": "freemium",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-04-29",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "onesignal",
+      "name": "OneSignal",
+      "slug": "onesignal",
+      "description": "Notificaciones push 10k usuarios",
       "url": "https://onesignal.com",
       "status": "active",
       "tags": [
@@ -969,42 +1039,6 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
-    },
-    {
-      "id": "onesignal-web",
-      "name": "OneSignal",
-      "slug": "onesignal-web",
-      "description": "Notificaciones push 10k usuarios",
-      "url": "https://onesignal.com/unlock-growth-ga-lp",
-      "status": "active",
-      "tags": [
-        "push",
-        "notifications",
-        "messaging",
-        "email"
-      ],
-      "searchIndex": [
-        "OneSignal",
-        "onesignal-web",
-        "Notificaciones push 10k usuarios",
-        "email",
-        "notifications-messaging",
-        "push",
-        "notifications",
-        "messaging",
-        "email"
-      ],
-      "category": "email",
-      "subcategory": "notifications-messaging",
-      "pricing": "freemium",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "unknown",
-      "added": "2026-04-29",
-      "verified": true,
-      "noCreditCard": false
     },
     {
       "id": "openseo",
@@ -1323,9 +1357,9 @@
       "noCreditCard": true
     },
     {
-      "id": "rank-math-web",
+      "id": "rank-math",
       "name": "Rank Math",
-      "slug": "rank-math-web",
+      "slug": "rank-math",
       "description": "Herramienta SEO para WordPress",
       "url": "https://rankmath.com/offer/?ref=javier+iniguez+gutierrez",
       "status": "active",
@@ -1337,7 +1371,7 @@
       ],
       "searchIndex": [
         "Rank Math",
-        "rank-math-web",
+        "rank-math",
         "Herramienta SEO para WordPress",
         "analytics",
         "seo-tools",
@@ -1818,6 +1852,40 @@
       "noCreditCard": true
     },
     {
+      "id": "whatsapp-business-platform-web",
+      "name": "whatsapp-business-platform-web",
+      "slug": "whatsapp-business-platform-web",
+      "description": "API oficial de WhatsApp Business",
+      "url": "https://whatsappbusiness.com/products/business-platform/",
+      "status": "active",
+      "tags": [
+        "email",
+        "notifications-messaging",
+        "y-email-comunicacia-n",
+        "notificaciones-messaging",
+        "whatsapp-business-platform-web"
+      ],
+      "searchIndex": [
+        "whatsapp-business-platform-web",
+        "API oficial de WhatsApp Business",
+        "email",
+        "notifications-messaging",
+        "y-email-comunicacia-n",
+        "notificaciones-messaging"
+      ],
+      "category": "email",
+      "subcategory": "notifications-messaging",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "worldmonitor",
       "name": "WorldMonitor",
       "slug": "worldmonitor",
@@ -1922,144 +1990,6 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": false
-    },
-    {
-      "id": "llm-scraper-gh",
-      "name": "LLM Scraper",
-      "slug": "llm-scraper-gh",
-      "description": "Scraping web con LLM y Playwright",
-      "url": "https://github.com/mishushakov/llm-scraper",
-      "status": "active",
-      "tags": [
-        "scraping",
-        "crawler",
-        "open-source"
-      ],
-      "searchIndex": [
-        "LLM Scraper",
-        "llm-scraper-gh",
-        "Scraping web con LLM y Playwright",
-        "analytics",
-        "seo-tools",
-        "scraping",
-        "crawler",
-        "open-source"
-      ],
-      "category": "analytics",
-      "subcategory": "seo-tools",
-      "pricing": "free",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "codegraph-gh",
-      "name": "Codegraph",
-      "slug": "codegraph-gh",
-      "description": "Crawler y grafo de codigo",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "status": "active",
-      "tags": [
-        "crawler",
-        "scraping",
-        "open-source",
-        "web"
-      ],
-      "searchIndex": [
-        "Codegraph",
-        "codegraph-gh",
-        "Crawler y grafo de codigo",
-        "analytics",
-        "seo-tools",
-        "crawler",
-        "scraping",
-        "open-source",
-        "web"
-      ],
-      "category": "analytics",
-      "subcategory": "seo-tools",
-      "pricing": "free",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "whatsapp-business-platform-web",
-      "name": "Whatsapp Business Platform",
-      "slug": "whatsapp-business-platform-web",
-      "description": "API oficial de WhatsApp Business",
-      "url": "https://whatsappbusiness.com/products/business-platform/",
-      "status": "active",
-      "tags": [
-        "whatsapp",
-        "api",
-        "messaging",
-        "communication"
-      ],
-      "searchIndex": [
-        "Whatsapp Business Platform",
-        "whatsapp-business-platform-web",
-        "API oficial de WhatsApp Business",
-        "email",
-        "notifications-messaging",
-        "whatsapp",
-        "api",
-        "messaging",
-        "communication"
-      ],
-      "category": "email",
-      "subcategory": "notifications-messaging",
-      "pricing": "premium",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": false
-    },
-    {
-      "id": "evolution-api-gh",
-      "name": "Evolution API",
-      "slug": "evolution-api-gh",
-      "description": "API WhatsApp multi-dispositivo",
-      "url": "https://github.com/evolution-foundation/evolution-api",
-      "status": "active",
-      "tags": [
-        "whatsapp",
-        "api",
-        "messaging",
-        "open-source"
-      ],
-      "searchIndex": [
-        "Evolution API",
-        "evolution-api-gh",
-        "API WhatsApp multi-dispositivo",
-        "email",
-        "notifications-messaging",
-        "whatsapp",
-        "api",
-        "messaging",
-        "open-source"
-      ],
-      "category": "email",
-      "subcategory": "notifications-messaging",
-      "pricing": "free",
-      "languages": [
-        "en"
-      ],
-      "limits": "no-limits",
-      "added": "2026-05-18",
-      "verified": true,
-      "noCreditCard": true
     }
   ]
 }

@@ -30,6 +30,11 @@
       "color": "#7c3aed",
       "description": "Etiqueta academy"
     },
+    "academy-openai-com": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta academy-openai-com"
+    },
     "accessibility-fixes": {
       "count": 1,
       "color": "#dc2626",
@@ -120,6 +125,11 @@
       "color": "#7c3aed",
       "description": "Etiqueta algorithms-illinois"
     },
+    "android-pin-bruteforce": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta android-pin-bruteforce"
+    },
     "angular": {
       "count": 1,
       "color": "#4f46e5",
@@ -155,6 +165,11 @@
       "color": "#2563eb",
       "description": "Etiqueta apple"
     },
+    "apple-style-guide-animation": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta apple-style-guide-animation"
+    },
     "architecture": {
       "count": 2,
       "color": "#d97706",
@@ -181,7 +196,7 @@
       "description": "Etiqueta art-openpipe-ai"
     },
     "arta-culos-css-web": {
-      "count": 19,
+      "count": 42,
       "color": "#4f46e5",
       "description": "Etiqueta arta-culos-css-web"
     },
@@ -194,6 +209,31 @@
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta articulos-css-web"
+    },
+    "arxiv-2210-03629": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta arxiv-2210-03629"
+    },
+    "arxiv-2302-04761": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta arxiv-2302-04761"
+    },
+    "arxiv-2304-03442": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta arxiv-2304-03442"
+    },
+    "arxiv-2512-24880": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta arxiv-2512-24880"
+    },
+    "arxiv-2605-06732": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta arxiv-2605-06732"
     },
     "arxiv-org": {
       "count": 1,
@@ -455,6 +495,11 @@
       "color": "#7c3aed",
       "description": "Etiqueta biorxiv-org"
     },
+    "biorxiv-preprint": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta biorxiv-preprint"
+    },
     "blender": {
       "count": 1,
       "color": "#dc2626",
@@ -495,6 +540,11 @@
       "color": "#059669",
       "description": "Etiqueta box-shadow-vs-outline"
     },
+    "build-llm-from-scratch": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta build-llm-from-scratch"
+    },
     "build-your-own-x": {
       "count": 1,
       "color": "#4f46e5",
@@ -516,7 +566,7 @@
       "description": "Etiqueta c"
     },
     "canales-youtube": {
-      "count": 5,
+      "count": 11,
       "color": "#d97706",
       "description": "Etiqueta canales-youtube"
     },
@@ -615,6 +665,11 @@
       "color": "#dc2626",
       "description": "Etiqueta cli"
     },
+    "clients": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta clients"
+    },
     "clone-wars": {
       "count": 1,
       "color": "#ea580c",
@@ -629,6 +684,21 @@
       "count": 6,
       "color": "#65a30d",
       "description": "Etiqueta cloudflare"
+    },
+    "cme295-lecture-4-llm-training": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta cme295-lecture-4-llm-training"
+    },
+    "cme295-stanford-edu": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta cme295-stanford-edu"
+    },
+    "cme295-transformers-llm": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta cme295-transformers-llm"
     },
     "cms": {
       "count": 1,
@@ -730,6 +800,11 @@
       "color": "#65a30d",
       "description": "Etiqueta course"
     },
+    "course-fast-ai": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta course-fast-ai"
+    },
     "coursera-org": {
       "count": 1,
       "color": "#059669",
@@ -760,10 +835,25 @@
       "color": "#d97706",
       "description": "Etiqueta crypto"
     },
+    "cs230-deep-learning-andrew-ng": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta cs230-deep-learning-andrew-ng"
+    },
     "cs249r-book": {
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta cs249r-book"
+    },
+    "cs25": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta cs25"
+    },
+    "cs25-transformers-united": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta cs25-transformers-united"
     },
     "cs50": {
       "count": 1,
@@ -806,7 +896,7 @@
       "description": "Etiqueta cursor-learn"
     },
     "cursos-programacia-n": {
-      "count": 10,
+      "count": 27,
       "color": "#ea580c",
       "description": "Etiqueta cursos-programacia-n"
     },
@@ -869,6 +959,11 @@
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta deep-dive"
+    },
+    "deeplearning-ai": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta deeplearning-ai"
     },
     "deepmind-google": {
       "count": 1,
@@ -934,6 +1029,11 @@
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta dft-rosmine-ai"
+    },
+    "diagrams": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta diagrams"
     },
     "discoverthreejs-com": {
       "count": 1,
@@ -1015,6 +1115,11 @@
       "color": "#2563eb",
       "description": "Etiqueta drive-google-com-3"
     },
+    "dsvpn": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta dsvpn"
+    },
     "dynamic": {
       "count": 3,
       "color": "#059669",
@@ -1041,7 +1146,7 @@
       "description": "Etiqueta education"
     },
     "education-learning": {
-      "count": 277,
+      "count": 324,
       "color": "#ea580c",
       "description": "Etiqueta education-learning"
     },
@@ -1190,6 +1295,16 @@
       "color": "#dc2626",
       "description": "Etiqueta gentleman-dots"
     },
+    "geodesics-in-quantum-gravity": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta geodesics-in-quantum-gravity"
+    },
+    "gh-developing-agentic-systems-1": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta gh-developing-agentic-systems-1"
+    },
     "ghostscan": {
       "count": 1,
       "color": "#2563eb",
@@ -1290,6 +1405,11 @@
       "color": "#059669",
       "description": "Etiqueta hf-co"
     },
+    "hla": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta hla"
+    },
     "hono": {
       "count": 2,
       "color": "#4f46e5",
@@ -1350,6 +1470,11 @@
       "color": "#0891b2",
       "description": "Etiqueta hy-mt2"
     },
+    "ia-video-audio": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta ia-video-audio"
+    },
     "ibm-skillsbuild": {
       "count": 1,
       "color": "#d97706",
@@ -1389,6 +1514,11 @@
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta intro"
+    },
+    "inventory": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta inventory"
     },
     "ios": {
       "count": 1,
@@ -1445,6 +1575,11 @@
       "color": "#db2777",
       "description": "Etiqueta kaligpt"
     },
+    "keyhacks": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta keyhacks"
+    },
     "kinso-ai": {
       "count": 1,
       "color": "#0891b2",
@@ -1480,6 +1615,11 @@
       "color": "#059669",
       "description": "Etiqueta languages"
     },
+    "learn": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta learn"
+    },
     "learn-ai-engineering": {
       "count": 1,
       "color": "#0891b2",
@@ -1494,6 +1634,11 @@
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta learning-atheros-ai"
+    },
+    "learning-theory": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta learning-theory"
     },
     "lerobot": {
       "count": 1,
@@ -1695,6 +1840,11 @@
       "color": "#65a30d",
       "description": "Etiqueta ml-course-notes"
     },
+    "ml-interview": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta ml-interview"
+    },
     "mljobsearch2025": {
       "count": 1,
       "color": "#d97706",
@@ -1714,6 +1864,11 @@
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta modern"
+    },
+    "modern-transformer-architecture": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta modern-transformer-architecture"
     },
     "mongodb": {
       "count": 1,
@@ -1755,6 +1910,16 @@
       "color": "#059669",
       "description": "Etiqueta nango"
     },
+    "nasa-systems-engineering-handbook-pdf": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta nasa-systems-engineering-handbook-pdf"
+    },
+    "nature-s41598-025-99623-3": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta nature-s41598-025-99623-3"
+    },
     "neon": {
       "count": 1,
       "color": "#dc2626",
@@ -1764,6 +1929,11 @@
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta neon-database"
+    },
+    "netgoat": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta netgoat"
     },
     "nextjs": {
       "count": 6,
@@ -1776,7 +1946,7 @@
       "description": "Etiqueta node"
     },
     "noir": {
-      "count": 1,
+      "count": 2,
       "color": "#2563eb",
       "description": "Etiqueta noir"
     },
@@ -1809,6 +1979,16 @@
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta nyu-ml-foundation"
+    },
+    "o-reilly-ai-engineering": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta o-reilly-ai-engineering"
+    },
+    "o-reilly-llm-engineering": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta o-reilly-llm-engineering"
     },
     "oasis": {
       "count": 1,
@@ -1856,7 +2036,7 @@
       "description": "Etiqueta opencluely"
     },
     "opencti": {
-      "count": 1,
+      "count": 2,
       "color": "#7c3aed",
       "description": "Etiqueta opencti"
     },
@@ -1885,6 +2065,16 @@
       "color": "#4f46e5",
       "description": "Etiqueta openui"
     },
+    "openvpn": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta openvpn"
+    },
+    "openvpn-install": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta openvpn-install"
+    },
     "oracle": {
       "count": 1,
       "color": "#2563eb",
@@ -1910,6 +2100,16 @@
       "color": "#65a30d",
       "description": "Etiqueta pake"
     },
+    "palo-alto-cybersec": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta palo-alto-cybersec"
+    },
+    "pangolin": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta pangolin"
+    },
     "papers-ssrn-com": {
       "count": 1,
       "color": "#7c3aed",
@@ -1925,10 +2125,25 @@
       "color": "#7c3aed",
       "description": "Etiqueta pdf"
     },
-    "pentest-ai-agents": {
+    "pentest-agents": {
       "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta pentest-agents"
+    },
+    "pentest-ai-agents": {
+      "count": 2,
       "color": "#0891b2",
       "description": "Etiqueta pentest-ai-agents"
+    },
+    "pentest-copilot": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta pentest-copilot"
+    },
+    "pentesterlab-com": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta pentesterlab-com"
     },
     "pentesting": {
       "count": 2,
@@ -1944,6 +2159,11 @@
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta phrases"
+    },
+    "pi-hole": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta pi-hole"
     },
     "pixal3d": {
       "count": 1,
@@ -1974,6 +2194,11 @@
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta portfolios"
+    },
+    "portmaster": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta portmaster"
     },
     "postgres": {
       "count": 1,
@@ -2026,7 +2251,7 @@
       "description": "Etiqueta programming"
     },
     "programming-courses": {
-      "count": 277,
+      "count": 324,
       "color": "#7c3aed",
       "description": "Etiqueta programming-courses"
     },
@@ -2155,6 +2380,11 @@
       "color": "#65a30d",
       "description": "Etiqueta resources"
     },
+    "rl-for-finance-book-pdf": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta rl-for-finance-book-pdf"
+    },
     "roadmap": {
       "count": 2,
       "color": "#2563eb",
@@ -2206,17 +2436,27 @@
       "description": "Etiqueta security"
     },
     "security-auth": {
-      "count": 7,
+      "count": 31,
       "color": "#65a30d",
       "description": "Etiqueta security-auth"
     },
     "security-vpn": {
-      "count": 7,
+      "count": 33,
       "color": "#d97706",
       "description": "Etiqueta security-vpn"
     },
+    "seeker": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta seeker"
+    },
+    "seeker-ngrok": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta seeker-ngrok"
+    },
     "seguridad-auth": {
-      "count": 7,
+      "count": 31,
       "color": "#059669",
       "description": "Etiqueta seguridad-auth"
     },
@@ -2315,6 +2555,11 @@
       "color": "#db2777",
       "description": "Etiqueta stanford-edu"
     },
+    "statistics-ib": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta statistics-ib"
+    },
     "store-steampowered-com": {
       "count": 1,
       "color": "#dc2626",
@@ -2375,6 +2620,11 @@
       "color": "#dc2626",
       "description": "Etiqueta sysadmin"
     },
+    "system-design-notes": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta system-design-notes"
+    },
     "tanstack": {
       "count": 3,
       "color": "#65a30d",
@@ -2400,6 +2650,11 @@
       "color": "#db2777",
       "description": "Etiqueta techspot-com"
     },
+    "teleport": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta teleport"
+    },
     "text-to-cad": {
       "count": 1,
       "color": "#4f46e5",
@@ -2409,6 +2664,21 @@
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta the-book-of-secret-knowledge"
+    },
+    "the-deepfakes-we-missed": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta the-deepfakes-we-missed"
+    },
+    "the-impact-of-artificial-intelligence-on-human-thought": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta the-impact-of-artificial-intelligence-on-human-thought"
+    },
+    "the-recessionary-pressures-of-generative-ai": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta the-recessionary-pressures-of-generative-ai"
     },
     "theharvester": {
       "count": 1,
@@ -2450,6 +2720,11 @@
       "color": "#2563eb",
       "description": "Etiqueta tokens"
     },
+    "tpotce": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta tpotce"
+    },
     "trademaster": {
       "count": 1,
       "color": "#2563eb",
@@ -2464,6 +2739,16 @@
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta transformer-circuits-pub"
+    },
+    "transformers-laid-out-ref": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta transformers-laid-out-ref"
+    },
+    "trufflehog": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta trufflehog"
     },
     "tugarecon": {
       "count": 1,
@@ -2571,9 +2856,14 @@
       "description": "Etiqueta voicelive-api-salescoach"
     },
     "vpn": {
-      "count": 5,
+      "count": 7,
       "color": "#2563eb",
       "description": "Etiqueta vpn"
+    },
+    "vpn-services": {
+      "count": 2,
+      "color": "#d97706",
+      "description": "Etiqueta vpn-services"
     },
     "vscode": {
       "count": 2,
@@ -2605,6 +2895,11 @@
       "color": "#db2777",
       "description": "Etiqueta web"
     },
+    "web-dev": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta web-dev"
+    },
     "web-platform-libraries": {
       "count": 1,
       "color": "#7c3aed",
@@ -2620,6 +2915,36 @@
       "color": "#dc2626",
       "description": "Etiqueta writing"
     },
+    "www-cybrary-it": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta www-cybrary-it"
+    },
+    "www-echothrust-com": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta www-echothrust-com"
+    },
+    "www-hackthebox-com": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta www-hackthebox-com"
+    },
+    "www-pluralsight-com": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta www-pluralsight-com"
+    },
+    "www-rangeforce-com": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta www-rangeforce-com"
+    },
+    "www-root-me-org": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta www-root-me-org"
+    },
     "xalgorix": {
       "count": 1,
       "color": "#db2777",
@@ -2630,18 +2955,23 @@
       "color": "#db2777",
       "description": "Etiqueta xcode-build-optimization-agent-skill"
     },
+    "y-desarrollo-ide": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta y-desarrollo-ide"
+    },
     "y-dns-domain": {
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta y-dns-domain"
     },
     "y-s-educacia-n-aprendizaje": {
-      "count": 33,
+      "count": 79,
       "color": "#4f46e5",
       "description": "Etiqueta y-s-educacia-n-aprendizaje"
     },
     "y-seguridad-vpn": {
-      "count": 5,
+      "count": 31,
       "color": "#d97706",
       "description": "Etiqueta y-seguridad-vpn"
     },
@@ -2650,20 +2980,45 @@
       "color": "#059669",
       "description": "Etiqueta youtube"
     },
+    "youtube-clipper-skill": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta youtube-clipper-skill"
+    },
     "youtube-video": {
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta youtube-video"
     },
-    "youtube-video-2": {
+    "youtube-video-1": {
       "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta youtube-video-1"
+    },
+    "youtube-video-2": {
+      "count": 2,
       "color": "#4f46e5",
       "description": "Etiqueta youtube-video-2"
     },
     "youtube-video-3": {
-      "count": 1,
+      "count": 2,
       "color": "#65a30d",
       "description": "Etiqueta youtube-video-3"
+    },
+    "youtube-video-4": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta youtube-video-4"
+    },
+    "youtube-video-5": {
+      "count": 1,
+      "color": "#ea580c",
+      "description": "Etiqueta youtube-video-5"
+    },
+    "youtube-video-6": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta youtube-video-6"
     },
     "yt-short-clipper": {
       "count": 1,
@@ -2783,6 +3138,18 @@
           "courses",
           "official",
           "various"
+        ]
+      },
+      {
+        "id": "academy-openai-com",
+        "slug": "academy-openai-com",
+        "terms": [
+          "academy-openai-com",
+          "Recurso de IA",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
         ]
       },
       {
@@ -3019,6 +3386,19 @@
         ]
       },
       {
+        "id": "android-pin-bruteforce",
+        "slug": "android-pin-bruteforce",
+        "terms": [
+          "Android-PIN-Bruteforce",
+          "android-pin-bruteforce",
+          "Repositorio GitHub",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
         "id": "annas-archive-gl",
         "slug": "annas-archive-gl",
         "terms": [
@@ -3076,6 +3456,18 @@
           "education-learning",
           "programming-courses",
           "recursos-github"
+        ]
+      },
+      {
+        "id": "apple-style-guide-animation",
+        "slug": "apple-style-guide-animation",
+        "terms": [
+          "apple-style-guide-animation",
+          "Video Apple Style Guide Animation",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
         ]
       },
       {
@@ -3139,6 +3531,69 @@
           "education-learning",
           "programming-courses",
           "recursos-github"
+        ]
+      },
+      {
+        "id": "arxiv-2210-03629",
+        "slug": "arxiv-2210-03629",
+        "terms": [
+          "ArXiv-2210.03629",
+          "arxiv-2210-03629",
+          "Paper investigaciÃ³n IA",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "arxiv-2302-04761",
+        "slug": "arxiv-2302-04761",
+        "terms": [
+          "ArXiv-2302.04761",
+          "arxiv-2302-04761",
+          "Paper investigaciÃ³n IA",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "arxiv-2304-03442",
+        "slug": "arxiv-2304-03442",
+        "terms": [
+          "ArXiv-2304.03442",
+          "arxiv-2304-03442",
+          "Paper investigaciÃ³n IA",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "arxiv-2512-24880",
+        "slug": "arxiv-2512-24880",
+        "terms": [
+          "arxiv-2512-24880",
+          "Paper de investigaciÃ³n IA",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "arxiv-2605-06732",
+        "slug": "arxiv-2605-06732",
+        "terms": [
+          "arxiv-2605-06732",
+          "Paper de investigaciÃ³n IA",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
         ]
       },
       {
@@ -3641,6 +4096,19 @@
         ]
       },
       {
+        "id": "biorxiv-preprint",
+        "slug": "biorxiv-preprint",
+        "terms": [
+          "bioRxiv-preprint",
+          "biorxiv-preprint",
+          "Preprint cientÃ­fico en bioRxiv",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
         "id": "blender",
         "slug": "blender",
         "terms": [
@@ -3680,6 +4148,19 @@
           "Box Shadow vs Outline",
           "box-shadow-vs-outline",
           "Box-shadow no es alternativa al outline",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "build-llm-from-scratch",
+        "slug": "build-llm-from-scratch",
+        "terms": [
+          "Build-LLM-From-Scratch",
+          "build-llm-from-scratch",
+          "Libro Manning construir LLM desde cero",
           "education-learning",
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
@@ -3956,6 +4437,18 @@
         ]
       },
       {
+        "id": "clients",
+        "slug": "clients",
+        "terms": [
+          "clients",
+          "Repositorio GitHub",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
         "id": "clone-wars",
         "slug": "clone-wars",
         "terms": [
@@ -4012,6 +4505,42 @@
           "cloudflare",
           "security",
           "warp"
+        ]
+      },
+      {
+        "id": "cme295-lecture-4-llm-training",
+        "slug": "cme295-lecture-4-llm-training",
+        "terms": [
+          "cme295-lecture-4-llm-training",
+          "Masterclass 1:47h LLM training",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
+        ]
+      },
+      {
+        "id": "cme295-stanford-edu",
+        "slug": "cme295-stanford-edu",
+        "terms": [
+          "cme295-stanford-edu",
+          "Curso o recurso formativo",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
+        ]
+      },
+      {
+        "id": "cme295-transformers-llm",
+        "slug": "cme295-transformers-llm",
+        "terms": [
+          "cme295-transformers-llm",
+          "CME295: Transformers & LLM (Curso comple",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
         ]
       },
       {
@@ -4222,6 +4751,18 @@
         ]
       },
       {
+        "id": "course-fast-ai",
+        "slug": "course-fast-ai",
+        "terms": [
+          "course-fast-ai",
+          "Curso prÃ¡ctico de deep learning",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
         "id": "coursera-org",
         "slug": "coursera-org",
         "terms": [
@@ -4270,6 +4811,18 @@
         ]
       },
       {
+        "id": "cs230-deep-learning-andrew-ng",
+        "slug": "cs230-deep-learning-andrew-ng",
+        "terms": [
+          "cs230-deep-learning-andrew-ng",
+          "CS230: Deep Learning con Andrew Ng",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
+        ]
+      },
+      {
         "id": "cs249r-book",
         "slug": "cs249r-book",
         "terms": [
@@ -4279,6 +4832,30 @@
           "education-learning",
           "programming-courses",
           "recursos-github"
+        ]
+      },
+      {
+        "id": "cs25",
+        "slug": "cs25",
+        "terms": [
+          "cs25",
+          "Curso o recurso formativo",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
+        ]
+      },
+      {
+        "id": "cs25-transformers-united",
+        "slug": "cs25-transformers-united",
+        "terms": [
+          "cs25-transformers-united",
+          "CS25: Transformers United (Curso complet",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
         ]
       },
       {
@@ -4432,6 +5009,18 @@
         ]
       },
       {
+        "id": "deeplearning-ai",
+        "slug": "deeplearning-ai",
+        "terms": [
+          "deeplearning-ai",
+          "Curso o recurso formativo",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
+        ]
+      },
+      {
         "id": "deepmind-google",
         "slug": "deepmind-google",
         "terms": [
@@ -4557,6 +5146,18 @@
         ]
       },
       {
+        "id": "diagrams",
+        "slug": "diagrams",
+        "terms": [
+          "diagrams",
+          "Diagramas cientÃ­ficos de fÃ­sica y ML",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
         "id": "dipeshmalvia",
         "slug": "dipeshmalvia",
         "terms": [
@@ -4661,6 +5262,18 @@
           "education-learning",
           "programming-courses",
           "recursos-github"
+        ]
+      },
+      {
+        "id": "dsvpn",
+        "slug": "dsvpn",
+        "terms": [
+          "dsvpn",
+          "VPN mÃ­nima y rÃ¡pida en C",
+          "security-vpn",
+          "vpn-services",
+          "y-seguridad-vpn",
+          "vpn"
         ]
       },
       {
@@ -5024,6 +5637,31 @@
         ]
       },
       {
+        "id": "geodesics-in-quantum-gravity",
+        "slug": "geodesics-in-quantum-gravity",
+        "terms": [
+          "Geodesics-in-Quantum-Gravity",
+          "geodesics-in-quantum-gravity",
+          "GeodÃ©sicas cuÃ¡nticas en gravedad",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "gh-developing-agentic-systems-1",
+        "slug": "gh-developing-agentic-systems-1",
+        "terms": [
+          "gh-developing-agentic-systems-1",
+          "Curso o recurso formativo Recurso de IA",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
+        ]
+      },
+      {
         "id": "ghostscan",
         "slug": "ghostscan",
         "terms": [
@@ -5254,6 +5892,19 @@
         ]
       },
       {
+        "id": "hla",
+        "slug": "hla",
+        "terms": [
+          "HLA",
+          "hla",
+          "AtenciÃ³n lineal de orden superior",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
         "id": "how-to-secure-linux",
         "slug": "how-to-secure-linux-server",
         "terms": [
@@ -5441,6 +6092,18 @@
         ]
       },
       {
+        "id": "inventory",
+        "slug": "inventory",
+        "terms": [
+          "inventory",
+          "Repositorio GitHub",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
         "id": "j-a-r-v-i-s",
         "slug": "j-a-r-v-i-s",
         "terms": [
@@ -5582,6 +6245,19 @@
         ]
       },
       {
+        "id": "keyhacks",
+        "slug": "keyhacks",
+        "terms": [
+          "KeyHacks",
+          "keyhacks",
+          "ValidaciÃ³n API keys secretos scanning",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
         "id": "kinso-ai",
         "slug": "kinso-ai",
         "terms": [
@@ -5657,6 +6333,18 @@
           "nextjs",
           "tanstack",
           "channel"
+        ]
+      },
+      {
+        "id": "learn",
+        "slug": "learn",
+        "terms": [
+          "learn",
+          "Curso o recurso formativo Recurso de IA",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
         ]
       },
       {
@@ -5785,6 +6473,19 @@
           "programming-courses",
           "educacion-aprendizaje",
           "cursos-programacion"
+        ]
+      },
+      {
+        "id": "learning-theory",
+        "slug": "learning-theory",
+        "terms": [
+          "Learning-Theory",
+          "learning-theory",
+          "Libro Cambridge teorÃ­a aprendizaje",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
         ]
       },
       {
@@ -6127,10 +6828,11 @@
         "slug": "medusa",
         "terms": [
           "medusa",
-          "Repositorio GitHub",
-          "education-learning",
-          "programming-courses",
-          "recursos-github"
+          "Suite ofensiva para pentesting",
+          "security-vpn",
+          "security-auth",
+          "seguridad-vpn",
+          "seguridad-auth"
         ]
       },
       {
@@ -6138,11 +6840,10 @@
         "slug": "medusa",
         "terms": [
           "medusa",
-          "Suite ofensiva para pentesting",
-          "security-vpn",
-          "security-auth",
-          "seguridad-vpn",
-          "seguridad-auth"
+          "Repositorio GitHub",
+          "education-learning",
+          "programming-courses",
+          "recursos-github"
         ]
       },
       {
@@ -6268,6 +6969,19 @@
         ]
       },
       {
+        "id": "ml-interview",
+        "slug": "ml-interview",
+        "terms": [
+          "ML-Interview",
+          "ml-interview",
+          "PreparaciÃ³n entrevistas machine learnin",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
+        ]
+      },
+      {
         "id": "mljobsearch2025",
         "slug": "mljobsearch2025",
         "terms": [
@@ -6288,6 +7002,18 @@
           "education-learning",
           "programming-courses",
           "recursos-github"
+        ]
+      },
+      {
+        "id": "modern-transformer-architecture",
+        "slug": "modern-transformer-architecture",
+        "terms": [
+          "modern-transformer-architecture",
+          "Modern Transformer Architecture Explaine",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
         ]
       },
       {
@@ -6389,18 +7115,27 @@
         ]
       },
       {
-        "id": "neon-database",
-        "slug": "neon-database",
+        "id": "nasa-systems-engineering-handbook-pdf",
+        "slug": "nasa-systems-engineering-handbook-pdf",
         "terms": [
-          "Neon Database",
-          "neon-database",
-          "Neon postgres",
+          "nasa-systems-engineering-handbook-pdf",
+          "Manual NASA de ingenierÃ­a de sistemas",
           "education-learning",
           "programming-courses",
-          "youtube",
-          "neon",
-          "postgresql",
-          "database"
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "nature-s41598-025-99623-3",
+        "slug": "nature-s41598-025-99623-3",
+        "terms": [
+          "nature-s41598-025-99623-3",
+          "ArtÃ­culo cientÃ­fico revisado",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
         ]
       },
       {
@@ -6414,6 +7149,21 @@
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
           "canales-youtube"
+        ]
+      },
+      {
+        "id": "neon-database",
+        "slug": "neon-database",
+        "terms": [
+          "Neon Database",
+          "neon-database",
+          "Neon postgres",
+          "education-learning",
+          "programming-courses",
+          "youtube",
+          "neon",
+          "postgresql",
+          "database"
         ]
       },
       {
@@ -6444,6 +7194,18 @@
           "cisco",
           "course",
           "certification"
+        ]
+      },
+      {
+        "id": "netgoat",
+        "slug": "netgoat",
+        "terms": [
+          "netgoat",
+          "Repositorio GitHub",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
         ]
       },
       {
@@ -6533,6 +7295,18 @@
         ]
       },
       {
+        "id": "noir",
+        "slug": "noir",
+        "terms": [
+          "noir",
+          "Repositorio GitHub",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
         "id": "nomore403",
         "slug": "nomore403",
         "terms": [
@@ -6588,6 +7362,32 @@
           "NYU ML Foundation",
           "nyu-ml-foundation",
           "Libro académico Machine Learning comple",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "o-reilly-ai-engineering",
+        "slug": "o-reilly-ai-engineering",
+        "terms": [
+          "O-Reilly-AI-Engineering",
+          "o-reilly-ai-engineering",
+          "Libro O'Reilly ingenierÃ­a IA producciÃ³",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "o-reilly-llm-engineering",
+        "slug": "o-reilly-llm-engineering",
+        "terms": [
+          "O-Reilly-LLM-Engineering",
+          "o-reilly-llm-engineering",
+          "Libro O'Reilly ingenierÃ­a LLMs",
           "education-learning",
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
@@ -6675,6 +7475,18 @@
         ]
       },
       {
+        "id": "opencti",
+        "slug": "opencti",
+        "terms": [
+          "opencti",
+          "Repo de seguridad",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
         "id": "openevolve",
         "slug": "openevolve",
         "terms": [
@@ -6731,6 +7543,30 @@
         ]
       },
       {
+        "id": "openvpn",
+        "slug": "openvpn",
+        "terms": [
+          "openvpn",
+          "Repo de seguridad",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
+        "id": "openvpn-install",
+        "slug": "openvpn-install",
+        "terms": [
+          "openvpn-install",
+          "Repo de seguridad",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
         "id": "osint-stuff-tool-collection",
         "slug": "osint-stuff-tool-collection",
         "terms": [
@@ -6782,6 +7618,31 @@
         ]
       },
       {
+        "id": "palo-alto-cybersec",
+        "slug": "palo-alto-cybersec",
+        "terms": [
+          "Palo-Alto-Cybersec",
+          "palo-alto-cybersec",
+          "Curso ciberseguridad gratis Palo Alto",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
+        ]
+      },
+      {
+        "id": "pangolin",
+        "slug": "pangolin",
+        "terms": [
+          "pangolin",
+          "Red privada self-hosted segura",
+          "security-vpn",
+          "vpn-services",
+          "y-seguridad-vpn",
+          "vpn"
+        ]
+      },
+      {
         "id": "papers-ssrn-com",
         "slug": "papers-ssrn-com",
         "terms": [
@@ -6823,6 +7684,30 @@
         ]
       },
       {
+        "id": "pentest-agents",
+        "slug": "pentest-agents",
+        "terms": [
+          "pentest-agents",
+          "Repo de seguridad",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
+        "id": "pentest-ai-agents",
+        "slug": "pentest-ai-agents",
+        "terms": [
+          "pentest-ai-agents",
+          "Agentes IA para pentesting ofensivo",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
         "id": "pentest-ai-agents",
         "slug": "pentest-ai-agents",
         "terms": [
@@ -6831,6 +7716,30 @@
           "education-learning",
           "programming-courses",
           "recursos-github"
+        ]
+      },
+      {
+        "id": "pentest-copilot",
+        "slug": "pentest-copilot",
+        "terms": [
+          "pentest-copilot",
+          "Repo de seguridad",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
+        "id": "pentesterlab-com",
+        "slug": "pentesterlab-com",
+        "terms": [
+          "pentesterlab-com",
+          "Recurso tecnico",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
         ]
       },
       {
@@ -6846,6 +7755,18 @@
           "best-practices",
           "guide",
           "community"
+        ]
+      },
+      {
+        "id": "pi-hole",
+        "slug": "pi-hole",
+        "terms": [
+          "pi-hole",
+          "Repo de seguridad",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
         ]
       },
       {
@@ -6917,6 +7838,18 @@
           "education-learning",
           "programming-courses",
           "recursos-github"
+        ]
+      },
+      {
+        "id": "portmaster",
+        "slug": "portmaster",
+        "terms": [
+          "portmaster",
+          "Firewall y privacidad de red local",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
         ]
       },
       {
@@ -7164,6 +8097,18 @@
         ]
       },
       {
+        "id": "rl-for-finance-book-pdf",
+        "slug": "rl-for-finance-book-pdf",
+        "terms": [
+          "rl-for-finance-book-pdf",
+          "Libro RL aplicado a finanzas",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
         "id": "roadmap-sh",
         "slug": "roadmap-sh",
         "terms": [
@@ -7264,6 +8209,31 @@
           "programming-courses",
           "y-s-educacia-n-aprendizaje",
           "cursos-programacia-n"
+        ]
+      },
+      {
+        "id": "seeker",
+        "slug": "seeker",
+        "terms": [
+          "seeker",
+          "Repo de seguridad",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
+        "id": "seeker-ngrok",
+        "slug": "seeker-ngrok",
+        "terms": [
+          "Seeker\\_-_Ngrok",
+          "seeker-ngrok",
+          "Repo de seguridad",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
         ]
       },
       {
@@ -7427,10 +8397,8 @@
           "SQL, Postgres y SQL server",
           "education-learning",
           "programming-courses",
-          "youtube",
-          "sql",
-          "postgresql",
-          "sql-server"
+          "y-s-educacia-n-aprendizaje",
+          "canales-youtube"
         ]
       },
       {
@@ -7442,8 +8410,10 @@
           "SQL, Postgres y SQL server",
           "education-learning",
           "programming-courses",
-          "y-s-educacia-n-aprendizaje",
-          "canales-youtube"
+          "youtube",
+          "sql",
+          "postgresql",
+          "sql-server"
         ]
       },
       {
@@ -7470,6 +8440,19 @@
           "sql",
           "notepad",
           "learning"
+        ]
+      },
+      {
+        "id": "statistics-ib",
+        "slug": "statistics-ib",
+        "terms": [
+          "Statistics-IB",
+          "statistics-ib",
+          "Notas curso estadÃ­stica Cambridge",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
         ]
       },
       {
@@ -7561,6 +8544,19 @@
         ]
       },
       {
+        "id": "system-design-notes",
+        "slug": "system-design-notes",
+        "terms": [
+          "System-Design-Notes",
+          "system-design-notes",
+          "Notas diseÃ±o sistemas arquitectura",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
         "id": "tech-interview-handbook",
         "slug": "tech-interview-handbook",
         "terms": [
@@ -7584,6 +8580,19 @@
           "education-learning",
           "programming-courses",
           "recursos-github"
+        ]
+      },
+      {
+        "id": "teleport",
+        "slug": "teleport",
+        "terms": [
+          "Teleport",
+          "teleport",
+          "Acceso SSH zero-trust security",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
         ]
       },
       {
@@ -7621,6 +8630,45 @@
           "education-learning",
           "programming-courses",
           "recursos-github"
+        ]
+      },
+      {
+        "id": "the-deepfakes-we-missed",
+        "slug": "the-deepfakes-we-missed",
+        "terms": [
+          "The-Deepfakes-We-Missed",
+          "the-deepfakes-we-missed",
+          "Amenazas reales y detecciÃ³n deepfakes",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "the-impact-of-artificial-intelligence-on-human-thought",
+        "slug": "the-impact-of-artificial-intelligence-on-human-thought",
+        "terms": [
+          "The-Impact-of-Artificial-Intelligence-on-Human-Thought",
+          "the-impact-of-artificial-intelligence-on-human-thought",
+          "Efectos cognitivos, sociales y Ã©ticos",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "the-recessionary-pressures-of-generative-ai",
+        "slug": "the-recessionary-pressures-of-generative-ai",
+        "terms": [
+          "The-recessionary-pressures-of-generative-AI",
+          "the-recessionary-pressures-of-generative-ai",
+          "Riesgos socioeconÃ³micos de IA generativ",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
         ]
       },
       {
@@ -7693,6 +8741,18 @@
         ]
       },
       {
+        "id": "tpotce",
+        "slug": "tpotce",
+        "terms": [
+          "tpotce",
+          "Honeypot telco para ciberdefensa",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
         "id": "trademaster",
         "slug": "trademaster",
         "terms": [
@@ -7713,6 +8773,31 @@
           "education-learning",
           "programming-courses",
           "recursos-github"
+        ]
+      },
+      {
+        "id": "transformers-laid-out-ref",
+        "slug": "transformers-laid-out-ref",
+        "terms": [
+          "transformers-laid-out-ref",
+          "GuÃ­a visual de Transformers",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "arta-culos-css-web"
+        ]
+      },
+      {
+        "id": "trufflehog",
+        "slug": "trufflehog",
+        "terms": [
+          "TruffleHog",
+          "trufflehog",
+          "Scanner secretos git repositories",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
         ]
       },
       {
@@ -7975,6 +9060,19 @@
         "terms": [
           "Web.dev",
           "web-dev",
+          "GuÃ­as Google desarrollo web",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
+        ]
+      },
+      {
+        "id": "web-dev",
+        "slug": "web-dev",
+        "terms": [
+          "Web.dev",
+          "web-dev",
           "Guías de Google para desarrollo web moderno y mejores prácticas",
           "education-learning",
           "programming-courses",
@@ -8015,6 +9113,78 @@
         ]
       },
       {
+        "id": "www-cybrary-it",
+        "slug": "www-cybrary-it",
+        "terms": [
+          "www-cybrary-it",
+          "Curso o recurso formativo",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
+        ]
+      },
+      {
+        "id": "www-echothrust-com",
+        "slug": "www-echothrust-com",
+        "terms": [
+          "www-echothrust-com",
+          "Recurso tecnico",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
+        "id": "www-hackthebox-com",
+        "slug": "www-hackthebox-com",
+        "terms": [
+          "www-hackthebox-com",
+          "Recurso tecnico",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
+        "id": "www-pluralsight-com",
+        "slug": "www-pluralsight-com",
+        "terms": [
+          "www-pluralsight-com",
+          "Curso o recurso formativo",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "cursos-programacia-n"
+        ]
+      },
+      {
+        "id": "www-rangeforce-com",
+        "slug": "www-rangeforce-com",
+        "terms": [
+          "www-rangeforce-com",
+          "Recurso tecnico",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
+        "id": "www-root-me-org",
+        "slug": "www-root-me-org",
+        "terms": [
+          "www-root-me-org",
+          "Recurso tecnico",
+          "security-vpn",
+          "security-auth",
+          "y-seguridad-vpn",
+          "seguridad-auth"
+        ]
+      },
+      {
         "id": "xalgorix",
         "slug": "xalgorix",
         "terms": [
@@ -8050,6 +9220,97 @@
           "books",
           "github",
           "deep-dive"
+        ]
+      },
+      {
+        "id": "youtube-video-1",
+        "slug": "youtube-video-1",
+        "terms": [
+          "YouTube Video 1",
+          "youtube-video-1",
+          "Video educativo seleccionado",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "canales-youtube"
+        ]
+      },
+      {
+        "id": "youtube-video-2",
+        "slug": "youtube-video-2",
+        "terms": [
+          "YouTube Video 2",
+          "youtube-video-2",
+          "Video educativo seleccionado",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "canales-youtube"
+        ]
+      },
+      {
+        "id": "youtube-video-3",
+        "slug": "youtube-video-3",
+        "terms": [
+          "YouTube Video 3",
+          "youtube-video-3",
+          "Video educativo seleccionado",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "canales-youtube"
+        ]
+      },
+      {
+        "id": "youtube-video-4",
+        "slug": "youtube-video-4",
+        "terms": [
+          "YouTube Video 4",
+          "youtube-video-4",
+          "Video educativo seleccionado",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "canales-youtube"
+        ]
+      },
+      {
+        "id": "youtube-video-5",
+        "slug": "youtube-video-5",
+        "terms": [
+          "YouTube Video 5",
+          "youtube-video-5",
+          "Video educativo seleccionado",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "canales-youtube"
+        ]
+      },
+      {
+        "id": "youtube-video-6",
+        "slug": "youtube-video-6",
+        "terms": [
+          "YouTube Video 6",
+          "youtube-video-6",
+          "Video educativo seleccionado",
+          "education-learning",
+          "programming-courses",
+          "y-s-educacia-n-aprendizaje",
+          "canales-youtube"
+        ]
+      },
+      {
+        "id": "youtube-clipper-skill",
+        "slug": "youtube-clipper-skill",
+        "terms": [
+          "Youtube-clipper-skill",
+          "youtube-clipper-skill",
+          "Clips YouTube con IA y subtÃ­tulos",
+          "education-learning",
+          "programming-courses",
+          "y-desarrollo-ide",
+          "ia-video-audio"
         ]
       },
       {
@@ -8137,6 +9398,6 @@
     "dataset": "dns_seguridad_educacion",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 427
+    "resourceCount": 500
   }
 }

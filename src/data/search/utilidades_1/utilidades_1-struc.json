@@ -1,5 +1,10 @@
 {
   "tags": {
+    "1-ur7kns9v3viuyppp0dtgbkdd1jozupx": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta 1-ur7kns9v3viuyppp0dtgbkdd1jozupx"
+    },
     "4m": {
       "count": 1,
       "color": "#059669",
@@ -9,6 +14,11 @@
       "count": 4,
       "color": "#dc2626",
       "description": "Etiqueta ai"
+    },
+    "almacenamiento-archivos": {
+      "count": 3,
+      "color": "#db2777",
+      "description": "Etiqueta almacenamiento-archivos"
     },
     "api": {
       "count": 3,
@@ -101,14 +111,9 @@
       "description": "Etiqueta database"
     },
     "datos-falsos-fake-data": {
-      "count": 1,
+      "count": 2,
       "color": "#ea580c",
       "description": "Etiqueta datos-falsos-fake-data"
-    },
-    "dev-tools": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta dev-tools"
     },
     "dictation": {
       "count": 1,
@@ -119,21 +124,6 @@
       "count": 2,
       "color": "#0891b2",
       "description": "Etiqueta dni"
-    },
-    "documentation": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta documentation"
-    },
-    "documents": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta documents"
-    },
-    "drive": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta drive"
     },
     "dummy": {
       "count": 1,
@@ -170,10 +160,15 @@
       "color": "#2563eb",
       "description": "Etiqueta fast"
     },
-    "files": {
-      "count": 2,
-      "color": "#0891b2",
-      "description": "Etiqueta files"
+    "files-sdk": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta files-sdk"
+    },
+    "files-sdk-dev": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta files-sdk-dev"
     },
     "flexible": {
       "count": 2,
@@ -209,11 +204,6 @@
       "count": 9,
       "color": "#65a30d",
       "description": "Etiqueta generator"
-    },
-    "github": {
-      "count": 3,
-      "color": "#d97706",
-      "description": "Etiqueta github"
     },
     "google": {
       "count": 1,
@@ -261,7 +251,7 @@
       "description": "Etiqueta javascript"
     },
     "json": {
-      "count": 2,
+      "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta json"
     },
@@ -361,7 +351,7 @@
       "description": "Etiqueta one-page"
     },
     "open-source": {
-      "count": 6,
+      "count": 4,
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
     },
@@ -396,7 +386,7 @@
       "description": "Etiqueta productividad"
     },
     "productivity": {
-      "count": 29,
+      "count": 28,
       "color": "#7c3aed",
       "description": "Etiqueta productivity"
     },
@@ -425,6 +415,11 @@
       "color": "#059669",
       "description": "Etiqueta random"
     },
+    "randomuser-us": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta randomuser-us"
+    },
     "reccloud": {
       "count": 1,
       "color": "#ea580c",
@@ -435,20 +430,10 @@
       "color": "#0891b2",
       "description": "Etiqueta research"
     },
-    "resources": {
-      "count": 1,
-      "color": "#db2777",
-      "description": "Etiqueta resources"
-    },
     "scheduling": {
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta scheduling"
-    },
-    "sdk": {
-      "count": 2,
-      "color": "#65a30d",
-      "description": "Etiqueta sdk"
     },
     "search": {
       "count": 1,
@@ -459,11 +444,6 @@
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta self-hosted"
-    },
-    "sharing": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta sharing"
     },
     "shopify": {
       "count": 1,
@@ -530,11 +510,6 @@
       "color": "#d97706",
       "description": "Etiqueta text"
     },
-    "toolkit": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta toolkit"
-    },
     "tv-shows": {
       "count": 1,
       "color": "#d97706",
@@ -561,7 +536,7 @@
       "description": "Etiqueta utilidades-herramientas"
     },
     "utilities": {
-      "count": 13,
+      "count": 11,
       "color": "#db2777",
       "description": "Etiqueta utilities"
     },
@@ -590,18 +565,13 @@
       "color": "#2563eb",
       "description": "Etiqueta vintage"
     },
-    "visualizer": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta visualizer"
-    },
     "voice": {
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta voice"
     },
     "web": {
-      "count": 2,
+      "count": 1,
       "color": "#db2777",
       "description": "Etiqueta web"
     },
@@ -626,13 +596,58 @@
       "description": "Etiqueta y-recursos-generales"
     },
     "y-utilidades-herramientas": {
-      "count": 6,
+      "count": 10,
       "color": "#db2777",
       "description": "Etiqueta y-utilidades-herramientas"
     }
   },
   "searchIndex": {
-    "resources": [
+    "fields": [
+      {
+        "name": "name",
+        "weight": 3,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "description",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "tags",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "category",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "subcategory",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      }
+    ],
+    "entries": [
+      {
+        "id": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+        "slug": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+        "terms": [
+          "1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
+          "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+          "Recurso tecnico",
+          "utilities",
+          "productivity",
+          "y-utilidades-herramientas",
+          "almacenamiento-archivos"
+        ]
+      },
       {
         "id": "airtable",
         "slug": "airtable",
@@ -804,6 +819,30 @@
           "library",
           "generator",
           "npm"
+        ]
+      },
+      {
+        "id": "files-sdk",
+        "slug": "files-sdk",
+        "terms": [
+          "files-sdk",
+          "Repositorio GitHub",
+          "utilities",
+          "productivity",
+          "y-utilidades-herramientas",
+          "almacenamiento-archivos"
+        ]
+      },
+      {
+        "id": "files-sdk-dev",
+        "slug": "files-sdk-dev",
+        "terms": [
+          "files-sdk-dev",
+          "Herramienta de desarrollo",
+          "utilities",
+          "productivity",
+          "y-utilidades-herramientas",
+          "almacenamiento-archivos"
         ]
       },
       {
@@ -982,22 +1021,6 @@
         ]
       },
       {
-        "id": "jsoncrack",
-        "slug": "jsoncrack",
-        "terms": [
-          "JsonCrack",
-          "jsoncrack",
-          "Visualizador de estructuras JSON",
-          "utilities",
-          "productivity",
-          "utilities",
-          "json",
-          "visualizer",
-          "open-source",
-          "github"
-        ]
-      },
-      {
         "id": "linktree",
         "slug": "linktree",
         "terms": [
@@ -1114,11 +1137,11 @@
         ]
       },
       {
-        "id": "notion-web",
-        "slug": "notion-web",
+        "id": "notion",
+        "slug": "notion",
         "terms": [
           "Notion",
-          "notion-web",
+          "notion",
           "Workspace todo-en-uno gratis personal",
           "utilities",
           "productivity",
@@ -1128,11 +1151,11 @@
         ]
       },
       {
-        "id": "npm-alternatives-web",
-        "slug": "npm-alternatives-web",
+        "id": "npm-alternatives",
+        "slug": "npm-alternatives",
         "terms": [
           "NPM Alternatives",
-          "npm-alternatives-web",
+          "npm-alternatives",
           "npms.io, npmsearch.com",
           "utilities",
           "productivity",
@@ -1280,6 +1303,19 @@
         ]
       },
       {
+        "id": "randomuser-us",
+        "slug": "randomuser-us",
+        "terms": [
+          "RandomUser US",
+          "randomuser-us",
+          "Usuarios aleatorios SSN, direcciÃ³n, tel",
+          "utilities",
+          "productivity",
+          "y-utilidades-herramientas",
+          "datos-falsos-fake-data"
+        ]
+      },
+      {
         "id": "reccloud",
         "slug": "reccloud",
         "terms": [
@@ -1421,86 +1457,6 @@
           "dictation",
           "ai"
         ]
-      },
-      {
-        "id": "it-tools-gh",
-        "slug": "it-tools-gh",
-        "terms": [
-          "it-tools",
-          "it-tools-gh",
-          "Caja de herramientas para dev",
-          "utilities",
-          "productivity",
-          "utilities",
-          "productivity",
-          "dev-tools",
-          "github",
-          "open-source"
-        ]
-      },
-      {
-        "id": "files-sdk",
-        "slug": "files-sdk",
-        "terms": [
-          "files-sdk",
-          "files-sdk",
-          "SDK para gestionar archivos web",
-          "utilities",
-          "productivity",
-          "utilities",
-          "productivity",
-          "sdk",
-          "github",
-          "files"
-        ]
-      },
-      {
-        "id": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
-        "slug": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
-        "terms": [
-          "1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
-          "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
-          "Documento compartido en Drive",
-          "utilities",
-          "productivity",
-          "utilities",
-          "productivity",
-          "drive",
-          "documents",
-          "sharing"
-        ]
-      },
-      {
-        "id": "files-sdk-dev",
-        "slug": "files-sdk-dev",
-        "terms": [
-          "files-sdk-dev",
-          "files-sdk-dev",
-          "Documentacion oficial de Files SDK",
-          "utilities",
-          "productivity",
-          "utilities",
-          "productivity",
-          "sdk",
-          "documentation",
-          "files"
-        ]
-      },
-      {
-        "id": "arc-kit",
-        "slug": "arc-kit",
-        "terms": [
-          "arc-kit",
-          "arc-kit",
-          "Kit de recursos tecnicos curados",
-          "utilities",
-          "productivity",
-          "utilities",
-          "productivity",
-          "resources",
-          "toolkit",
-          "web"
-        ]
       }
     ]
   },
@@ -1514,7 +1470,6 @@
       "productivity"
     ],
     "pricing": [
-      "custom",
       "free",
       "freemium",
       "premium"
@@ -1538,6 +1493,6 @@
     "dataset": "utilidades_1",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 59
+    "resourceCount": 57
   }
 }

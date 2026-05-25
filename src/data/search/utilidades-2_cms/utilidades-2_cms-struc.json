@@ -6,7 +6,7 @@
       "description": "Etiqueta 2025"
     },
     "ai": {
-      "count": 3,
+      "count": 2,
       "color": "#dc2626",
       "description": "Etiqueta ai"
     },
@@ -29,11 +29,6 @@
       "count": 3,
       "color": "#7c3aed",
       "description": "Etiqueta api"
-    },
-    "article": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta article"
     },
     "audio": {
       "count": 1,
@@ -65,25 +60,20 @@
       "color": "#4f46e5",
       "description": "Etiqueta bsky-comments"
     },
-    "bug-reporting": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta bug-reporting"
-    },
     "canvas": {
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta canvas"
     },
-    "chrome-extension": {
-      "count": 2,
-      "color": "#d97706",
-      "description": "Etiqueta chrome-extension"
-    },
     "cms": {
-      "count": 11,
+      "count": 9,
       "color": "#d97706",
       "description": "Etiqueta cms"
+    },
+    "codegraph-gh": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta codegraph-gh"
     },
     "codepen": {
       "count": 1,
@@ -94,11 +84,6 @@
       "count": 2,
       "color": "#db2777",
       "description": "Etiqueta collection"
-    },
-    "communication": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta communication"
     },
     "comparison": {
       "count": 1,
@@ -111,9 +96,19 @@
       "description": "Etiqueta components"
     },
     "content": {
-      "count": 3,
+      "count": 2,
       "color": "#d97706",
       "description": "Etiqueta content"
+    },
+    "crawl4ai": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta crawl4ai"
+    },
+    "crawlee-python-gh": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta crawlee-python-gh"
     },
     "css": {
       "count": 2,
@@ -141,7 +136,7 @@
       "description": "Etiqueta datatype"
     },
     "debugging": {
-      "count": 2,
+      "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta debugging"
     },
@@ -156,7 +151,7 @@
       "description": "Etiqueta dev"
     },
     "dev-tools": {
-      "count": 11,
+      "count": 9,
       "color": "#0891b2",
       "description": "Etiqueta dev-tools"
     },
@@ -200,11 +195,6 @@
       "color": "#ea580c",
       "description": "Etiqueta errors"
     },
-    "feedback": {
-      "count": 1,
-      "color": "#4f46e5",
-      "description": "Etiqueta feedback"
-    },
     "firecrawl-gh": {
       "count": 1,
       "color": "#059669",
@@ -220,20 +210,10 @@
       "color": "#db2777",
       "description": "Etiqueta free"
     },
-    "freemium": {
-      "count": 1,
-      "color": "#dc2626",
-      "description": "Etiqueta freemium"
-    },
     "frontend": {
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta frontend"
-    },
-    "general-resources": {
-      "count": 1,
-      "color": "#d97706",
-      "description": "Etiqueta general-resources"
     },
     "ghost": {
       "count": 1,
@@ -251,9 +231,14 @@
       "description": "Etiqueta git-based"
     },
     "github": {
-      "count": 7,
+      "count": 6,
       "color": "#d97706",
       "description": "Etiqueta github"
+    },
+    "gospider": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta gospider"
     },
     "government": {
       "count": 1,
@@ -280,20 +265,30 @@
       "color": "#7c3aed",
       "description": "Etiqueta hosting"
     },
+    "ia-para-desarrollo": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta ia-para-desarrollo"
+    },
     "ip": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta ip"
     },
-    "jam": {
+    "it-tools": {
       "count": 1,
       "color": "#65a30d",
-      "description": "Etiqueta jam"
+      "description": "Etiqueta it-tools"
     },
     "javascript": {
       "count": 4,
       "color": "#ea580c",
       "description": "Etiqueta javascript"
+    },
+    "jsoncrack": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta jsoncrack"
     },
     "latex": {
       "count": 1,
@@ -310,6 +305,11 @@
       "color": "#7c3aed",
       "description": "Etiqueta list"
     },
+    "llm-scraper-gh": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta llm-scraper-gh"
+    },
     "logs": {
       "count": 1,
       "color": "#65a30d",
@@ -324,11 +324,6 @@
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta mcp"
-    },
-    "media": {
-      "count": 1,
-      "color": "#65a30d",
-      "description": "Etiqueta media"
     },
     "modals": {
       "count": 1,
@@ -366,7 +361,7 @@
       "description": "Etiqueta npm"
     },
     "open-source": {
-      "count": 10,
+      "count": 9,
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
     },
@@ -386,7 +381,7 @@
       "description": "Etiqueta pdf"
     },
     "platforms": {
-      "count": 3,
+      "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta platforms"
     },
@@ -431,7 +426,7 @@
       "description": "Etiqueta saas"
     },
     "scraping": {
-      "count": 4,
+      "count": 3,
       "color": "#0891b2",
       "description": "Etiqueta scraping"
     },
@@ -441,12 +436,12 @@
       "description": "Etiqueta search"
     },
     "seo": {
-      "count": 2,
+      "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta seo"
     },
     "seo-scraping": {
-      "count": 4,
+      "count": 10,
       "color": "#65a30d",
       "description": "Etiqueta seo-scraping"
     },
@@ -484,11 +479,6 @@
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta templates"
-    },
-    "testing": {
-      "count": 1,
-      "color": "#2563eb",
-      "description": "Etiqueta testing"
     },
     "testing-opengraph": {
       "count": 1,
@@ -541,7 +531,7 @@
       "description": "Etiqueta utilidades-herramientas"
     },
     "utilities": {
-      "count": 16,
+      "count": 19,
       "color": "#db2777",
       "description": "Etiqueta utilities"
     },
@@ -569,11 +559,6 @@
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta vps"
-    },
-    "web": {
-      "count": 1,
-      "color": "#059669",
-      "description": "Etiqueta web"
     },
     "web-dev": {
       "count": 1,
@@ -605,19 +590,61 @@
       "color": "#65a30d",
       "description": "Etiqueta y-cms-content"
     },
+    "y-desarrollo-ide": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta y-desarrollo-ide"
+    },
     "y-i-herramientas-dev": {
-      "count": 8,
+      "count": 9,
       "color": "#d97706",
       "description": "Etiqueta y-i-herramientas-dev"
     },
+    "y-seo-scraping": {
+      "count": 5,
+      "color": "#d97706",
+      "description": "Etiqueta y-seo-scraping"
+    },
     "y-utilidades-herramientas": {
-      "count": 8,
+      "count": 14,
       "color": "#db2777",
       "description": "Etiqueta y-utilidades-herramientas"
     }
   },
   "searchIndex": {
-    "resources": [
+    "fields": [
+      {
+        "name": "name",
+        "weight": 3,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "description",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "tags",
+        "weight": 2,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "category",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      },
+      {
+        "name": "subcategory",
+        "weight": 1,
+        "encode": "forward",
+        "tokenize": "forward"
+      }
+    ],
+    "entries": [
       {
         "id": "5-best-ai-repos",
         "slug": "5-best-ai-repos",
@@ -735,6 +762,18 @@
         ]
       },
       {
+        "id": "codegraph-gh",
+        "slug": "codegraph-gh",
+        "terms": [
+          "codegraph-gh",
+          "Crawler y grafo de cÃ³digo",
+          "utilities",
+          "seo-scraping",
+          "y-utilidades-herramientas",
+          "y-seo-scraping"
+        ]
+      },
+      {
         "id": "contentful",
         "slug": "contentful",
         "terms": [
@@ -749,18 +788,27 @@
         ]
       },
       {
-        "id": "crawl4ai-gh",
-        "slug": "crawl4ai-gh",
+        "id": "crawl4ai",
+        "slug": "crawl4ai",
         "terms": [
           "crawl4ai",
-          "crawl4ai-gh",
-          "Crawl y extraccion web para LLM",
+          "Crawl y extracciÃ³n web para LLMs",
           "utilities",
           "seo-scraping",
-          "seo",
-          "scraping",
-          "github",
-          "open-source"
+          "y-utilidades-herramientas",
+          "y-seo-scraping"
+        ]
+      },
+      {
+        "id": "crawlee-python-gh",
+        "slug": "crawlee-python-gh",
+        "terms": [
+          "crawlee-python-gh",
+          "Web scraping escalable con Python",
+          "utilities",
+          "seo-scraping",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
         ]
       },
       {
@@ -833,11 +881,11 @@
         ]
       },
       {
-        "id": "firecrawl-org",
-        "slug": "firecrawl-org",
+        "id": "firecrawl",
+        "slug": "firecrawl",
         "terms": [
           "FireCrawl",
-          "firecrawl-org",
+          "firecrawl",
           "API para buscar y scrapear web a escala",
           "utilities",
           "seo-scraping",
@@ -859,11 +907,11 @@
         ]
       },
       {
-        "id": "free-for-dev-web",
-        "slug": "free-for-dev-web",
+        "id": "free-for-dev",
+        "slug": "free-for-dev",
         "terms": [
           "Free For Dev",
-          "free-for-dev-web",
+          "free-for-dev",
           "Recursos gratis para devs",
           "utilities",
           "general-resources",
@@ -899,6 +947,18 @@
           "platforms",
           "publishing",
           "modern"
+        ]
+      },
+      {
+        "id": "gospider",
+        "slug": "gospider",
+        "terms": [
+          "gospider",
+          "Repositorio GitHub",
+          "utilities",
+          "seo-scraping",
+          "y-utilidades-herramientas",
+          "y-seo-scraping"
         ]
       },
       {
@@ -959,6 +1019,43 @@
           "guide",
           "tutorial",
           "spanish"
+        ]
+      },
+      {
+        "id": "it-tools",
+        "slug": "it-tools",
+        "terms": [
+          "it-tools",
+          "Repositorio GitHub",
+          "utilities",
+          "seo-scraping",
+          "y-utilidades-herramientas",
+          "y-seo-scraping"
+        ]
+      },
+      {
+        "id": "jsoncrack",
+        "slug": "jsoncrack",
+        "terms": [
+          "JsonCrack",
+          "jsoncrack",
+          "Visualizador JSON estructuras datos",
+          "utilities",
+          "dev-tools",
+          "y-utilidades-herramientas",
+          "y-i-herramientas-dev"
+        ]
+      },
+      {
+        "id": "llm-scraper-gh",
+        "slug": "llm-scraper-gh",
+        "terms": [
+          "llm-scraper-gh",
+          "Scraping web con LLM y Playwright",
+          "utilities",
+          "seo-scraping",
+          "y-utilidades-herramientas",
+          "y-seo-scraping"
         ]
       },
       {
@@ -1106,11 +1203,11 @@
         ]
       },
       {
-        "id": "sentry-web",
-        "slug": "sentry-web",
+        "id": "sentry",
+        "slug": "sentry",
         "terms": [
           "Sentry",
-          "sentry-web",
+          "sentry",
           "control logs web live real",
           "utilities",
           "dev-tools",
@@ -1338,86 +1435,6 @@
           "y-utilidades-herramientas",
           "y-i-herramientas-dev"
         ]
-      },
-      {
-        "id": "jam-dev",
-        "slug": "jam-dev",
-        "terms": [
-          "jam-dev",
-          "jam-dev",
-          "Captura y reporte de bugs visuales",
-          "cms",
-          "platforms",
-          "cms",
-          "platforms",
-          "bug-reporting",
-          "dev-tools",
-          "freemium"
-        ]
-      },
-      {
-        "id": "cliyerai-com",
-        "slug": "cliyerai-com",
-        "terms": [
-          "cliyerai-com",
-          "cliyerai-com",
-          "Herramienta IA para contenidos web",
-          "cms",
-          "platforms",
-          "cms",
-          "platforms",
-          "ai",
-          "content",
-          "web"
-        ]
-      },
-      {
-        "id": "party-in-the-permanent-underclass",
-        "slug": "party-in-the-permanent-underclass",
-        "terms": [
-          "party-in-the-permanent-underclass",
-          "party-in-the-permanent-underclass",
-          "Articulo sobre comunicacion digital",
-          "utilities",
-          "general-resources",
-          "utilities",
-          "general-resources",
-          "article",
-          "media",
-          "communication"
-        ]
-      },
-      {
-        "id": "iohjgamcilhbgmhbnllfolmkmmekfmci",
-        "slug": "iohjgamcilhbgmhbnllfolmkmmekfmci",
-        "terms": [
-          "iohjgamcilhbgmhbnllfolmkmmekfmci",
-          "iohjgamcilhbgmhbnllfolmkmmekfmci",
-          "Extension Jam para capturar bugs",
-          "utilities",
-          "dev-tools",
-          "utilities",
-          "dev-tools",
-          "chrome-extension",
-          "jam",
-          "debugging"
-        ]
-      },
-      {
-        "id": "fgpnklngaiahpcpjennhbcmkiahjohdk",
-        "slug": "fgpnklngaiahpcpjennhbcmkiahjohdk",
-        "terms": [
-          "fgpnklngaiahpcpjennhbcmkiahjohdk",
-          "fgpnklngaiahpcpjennhbcmkiahjohdk",
-          "Extension Shake para feedback",
-          "utilities",
-          "dev-tools",
-          "utilities",
-          "dev-tools",
-          "chrome-extension",
-          "feedback",
-          "testing"
-        ]
       }
     ]
   },
@@ -1433,7 +1450,6 @@
       "seo-scraping"
     ],
     "pricing": [
-      "custom",
       "free",
       "freemium"
     ],
@@ -1457,6 +1473,6 @@
     "dataset": "utilidades-2_cms",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 56
+    "resourceCount": 57
   }
 }

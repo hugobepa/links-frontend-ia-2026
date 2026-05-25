@@ -11,7 +11,7 @@
       "id": "utilities",
       "name": "Utilities",
       "slug": "utilities",
-      "resourceCount": 41,
+      "resourceCount": 48,
       "status": "active"
     }
   ],
@@ -21,7 +21,7 @@
       "name": "Dev Tools",
       "slug": "dev-tools",
       "category": "utilities",
-      "resourceCount": 27,
+      "resourceCount": 28,
       "status": "active"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Seo Scraping",
       "slug": "seo-scraping",
       "category": "utilities",
-      "resourceCount": 6,
+      "resourceCount": 12,
       "status": "active"
     }
   ],
@@ -325,6 +325,40 @@
       "noCreditCard": true
     },
     {
+      "id": "codegraph-gh",
+      "name": "codegraph-gh",
+      "slug": "codegraph-gh",
+      "description": "Crawler y grafo de cÃ³digo",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping",
+        "codegraph-gh"
+      ],
+      "searchIndex": [
+        "codegraph-gh",
+        "Crawler y grafo de cÃ³digo",
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping"
+      ],
+      "category": "utilities",
+      "subcategory": "seo-scraping",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "contentful",
       "name": "Contentful",
       "slug": "contentful",
@@ -358,6 +392,74 @@
       "added": "2026-04-27",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "crawl4ai",
+      "name": "crawl4ai",
+      "slug": "crawl4ai",
+      "description": "Crawl y extracciÃ³n web para LLMs",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping",
+        "crawl4ai"
+      ],
+      "searchIndex": [
+        "crawl4ai",
+        "Crawl y extracciÃ³n web para LLMs",
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping"
+      ],
+      "category": "utilities",
+      "subcategory": "seo-scraping",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "crawlee-python-gh",
+      "name": "crawlee-python-gh",
+      "slug": "crawlee-python-gh",
+      "description": "Web scraping escalable con Python",
+      "url": "https://github.com/apify/crawlee-python",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "seo-scraping",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo",
+        "crawlee-python-gh"
+      ],
+      "searchIndex": [
+        "crawlee-python-gh",
+        "Web scraping escalable con Python",
+        "utilities",
+        "seo-scraping",
+        "y-desarrollo-ide",
+        "ia-para-desarrollo"
+      ],
+      "category": "utilities",
+      "subcategory": "seo-scraping",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "datagouv-mcp",
@@ -697,6 +799,40 @@
       "noCreditCard": true
     },
     {
+      "id": "gospider",
+      "name": "gospider",
+      "slug": "gospider",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/jaeles-project/gospider",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping",
+        "gospider"
+      ],
+      "searchIndex": [
+        "gospider",
+        "Repositorio GitHub",
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping"
+      ],
+      "category": "utilities",
+      "subcategory": "seo-scraping",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "graphite",
       "name": "Graphite",
       "slug": "graphite",
@@ -827,6 +963,109 @@
       "added": "2026-04-27",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "it-tools",
+      "name": "it-tools",
+      "slug": "it-tools",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/CorentinTh/it-tools",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping",
+        "it-tools"
+      ],
+      "searchIndex": [
+        "it-tools",
+        "Repositorio GitHub",
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping"
+      ],
+      "category": "utilities",
+      "subcategory": "seo-scraping",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "jsoncrack",
+      "name": "JsonCrack",
+      "slug": "jsoncrack",
+      "description": "Visualizador JSON estructuras datos",
+      "url": "https://github.com/AykutSarac/jsoncrack.com",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "dev-tools",
+        "y-utilidades-herramientas",
+        "y-i-herramientas-dev",
+        "jsoncrack"
+      ],
+      "searchIndex": [
+        "JsonCrack",
+        "jsoncrack",
+        "Visualizador JSON estructuras datos",
+        "utilities",
+        "dev-tools",
+        "y-utilidades-herramientas",
+        "y-i-herramientas-dev"
+      ],
+      "category": "utilities",
+      "subcategory": "dev-tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "llm-scraper-gh",
+      "name": "llm-scraper-gh",
+      "slug": "llm-scraper-gh",
+      "description": "Scraping web con LLM y Playwright",
+      "url": "https://github.com/mishushakov/llm-scraper",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping",
+        "llm-scraper-gh"
+      ],
+      "searchIndex": [
+        "llm-scraper-gh",
+        "Scraping web con LLM y Playwright",
+        "utilities",
+        "seo-scraping",
+        "y-utilidades-herramientas",
+        "y-seo-scraping"
+      ],
+      "category": "utilities",
+      "subcategory": "seo-scraping",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "maxun",

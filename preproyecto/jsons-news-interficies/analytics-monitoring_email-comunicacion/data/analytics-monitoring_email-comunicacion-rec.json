@@ -11,7 +11,7 @@
       "id": "email",
       "name": "Email",
       "slug": "email",
-      "resourceCount": 28,
+      "resourceCount": 30,
       "status": "active"
     }
   ],
@@ -45,7 +45,7 @@
       "name": "Notifications Messaging",
       "slug": "notifications-messaging",
       "category": "email",
-      "resourceCount": 16,
+      "resourceCount": 18,
       "status": "active"
     },
     {
@@ -364,6 +364,40 @@
       ],
       "limits": "unknown",
       "added": "2026-05-11",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "evolution-api-gh",
+      "name": "evolution-api-gh",
+      "slug": "evolution-api-gh",
+      "description": "API WhatsApp multi-dispositivo",
+      "url": "https://github.com/evolution-foundation/evolution-api",
+      "status": "active",
+      "tags": [
+        "email",
+        "notifications-messaging",
+        "y-email-comunicacia-n",
+        "notificaciones-messaging",
+        "evolution-api-gh"
+      ],
+      "searchIndex": [
+        "evolution-api-gh",
+        "API WhatsApp multi-dispositivo",
+        "email",
+        "notifications-messaging",
+        "y-email-comunicacia-n",
+        "notificaciones-messaging"
+      ],
+      "category": "email",
+      "subcategory": "notifications-messaging",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -939,42 +973,6 @@
       "name": "OneSignal",
       "slug": "onesignal",
       "description": "Notificaciones push 10k usuarios",
-      "url": "https://onesignal.com",
-      "status": "active",
-      "tags": [
-        "notifications",
-        "push",
-        "mobile",
-        "web"
-      ],
-      "searchIndex": [
-        "OneSignal",
-        "onesignal",
-        "Notificaciones push 10k usuarios",
-        "email",
-        "notifications-messaging",
-        "notifications",
-        "push",
-        "mobile",
-        "web"
-      ],
-      "category": "email",
-      "subcategory": "notifications-messaging",
-      "pricing": "free",
-      "languages": [
-        "es",
-        "en"
-      ],
-      "limits": "10k usuarios, notificaciones ilimitadas",
-      "added": "2026-01-10",
-      "verified": true,
-      "noCreditCard": true
-    },
-    {
-      "id": "onesignal",
-      "name": "OneSignal",
-      "slug": "onesignal",
-      "description": "Notificaciones push 10k usuarios",
       "url": "https://onesignal.com/unlock-growth-ga-lp",
       "status": "active",
       "tags": [
@@ -1005,6 +1003,42 @@
       "added": "2026-04-29",
       "verified": true,
       "noCreditCard": false
+    },
+    {
+      "id": "onesignal",
+      "name": "OneSignal",
+      "slug": "onesignal",
+      "description": "Notificaciones push 10k usuarios",
+      "url": "https://onesignal.com",
+      "status": "active",
+      "tags": [
+        "notifications",
+        "push",
+        "mobile",
+        "web"
+      ],
+      "searchIndex": [
+        "OneSignal",
+        "onesignal",
+        "Notificaciones push 10k usuarios",
+        "email",
+        "notifications-messaging",
+        "notifications",
+        "push",
+        "mobile",
+        "web"
+      ],
+      "category": "email",
+      "subcategory": "notifications-messaging",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "10k usuarios, notificaciones ilimitadas",
+      "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": true
     },
     {
       "id": "openseo",
@@ -1816,6 +1850,40 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": true
+    },
+    {
+      "id": "whatsapp-business-platform-web",
+      "name": "whatsapp-business-platform-web",
+      "slug": "whatsapp-business-platform-web",
+      "description": "API oficial de WhatsApp Business",
+      "url": "https://whatsappbusiness.com/products/business-platform/",
+      "status": "active",
+      "tags": [
+        "email",
+        "notifications-messaging",
+        "y-email-comunicacia-n",
+        "notificaciones-messaging",
+        "whatsapp-business-platform-web"
+      ],
+      "searchIndex": [
+        "whatsapp-business-platform-web",
+        "API oficial de WhatsApp Business",
+        "email",
+        "notifications-messaging",
+        "y-email-comunicacia-n",
+        "notificaciones-messaging"
+      ],
+      "category": "email",
+      "subcategory": "notifications-messaging",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
     },
     {
       "id": "worldmonitor",

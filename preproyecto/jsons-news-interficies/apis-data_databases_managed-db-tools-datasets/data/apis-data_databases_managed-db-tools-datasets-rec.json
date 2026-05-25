@@ -4,7 +4,7 @@
       "id": "apis",
       "name": "Apis",
       "slug": "apis",
-      "resourceCount": 74,
+      "resourceCount": 79,
       "status": "active"
     },
     {
@@ -61,7 +61,7 @@
       "name": "Tools",
       "slug": "tools",
       "category": "apis",
-      "resourceCount": 35,
+      "resourceCount": 40,
       "status": "active"
     }
   ],
@@ -564,6 +564,41 @@
       ],
       "limits": "unknown",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "dataflow",
+      "name": "DataFlow",
+      "slug": "dataflow",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/OpenDCAI/DataFlow",
+      "status": "active",
+      "tags": [
+        "apis",
+        "tools",
+        "y-i-bases-de-datos",
+        "herramientas-database",
+        "dataflow"
+      ],
+      "searchIndex": [
+        "DataFlow",
+        "dataflow",
+        "Repositorio GitHub",
+        "apis",
+        "tools",
+        "y-i-bases-de-datos",
+        "herramientas-database"
+      ],
+      "category": "apis",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -1091,6 +1126,40 @@
       ],
       "limits": "10MB gratis",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "fingerprint-suite",
+      "name": "fingerprint-suite",
+      "slug": "fingerprint-suite",
+      "description": "Fingerprinting anti-fraude y bots",
+      "url": "https://github.com/apify/fingerprint-suite",
+      "status": "active",
+      "tags": [
+        "apis",
+        "tools",
+        "y-apis-datos",
+        "herramientas-api",
+        "fingerprint-suite"
+      ],
+      "searchIndex": [
+        "fingerprint-suite",
+        "Fingerprinting anti-fraude y bots",
+        "apis",
+        "tools",
+        "y-apis-datos",
+        "herramientas-api"
+      ],
+      "category": "apis",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },
@@ -2625,6 +2694,40 @@
       "noCreditCard": false
     },
     {
+      "id": "postgres-mcp",
+      "name": "postgres-mcp",
+      "slug": "postgres-mcp",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/crystaldba/postgres-mcp",
+      "status": "active",
+      "tags": [
+        "apis",
+        "tools",
+        "y-i-bases-de-datos",
+        "herramientas-database",
+        "postgres-mcp"
+      ],
+      "searchIndex": [
+        "postgres-mcp",
+        "Repositorio GitHub",
+        "apis",
+        "tools",
+        "y-i-bases-de-datos",
+        "herramientas-database"
+      ],
+      "category": "apis",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "postgrest",
       "name": "PostgREST",
       "slug": "postgrest",
@@ -3045,6 +3148,40 @@
       "noCreditCard": false
     },
     {
+      "id": "smallpond",
+      "name": "smallpond",
+      "slug": "smallpond",
+      "description": "Framework ETL ligero sobre DuckDB",
+      "url": "https://github.com/deepseek-ai/smallpond",
+      "status": "active",
+      "tags": [
+        "apis",
+        "tools",
+        "y-i-bases-de-datos",
+        "herramientas-database",
+        "smallpond"
+      ],
+      "searchIndex": [
+        "smallpond",
+        "Framework ETL ligero sobre DuckDB",
+        "apis",
+        "tools",
+        "y-i-bases-de-datos",
+        "herramientas-database"
+      ],
+      "category": "apis",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
       "id": "spacetimedb",
       "name": "SpacetimeDB",
       "slug": "spacetimedb",
@@ -3185,6 +3322,40 @@
       ],
       "limits": "500MB + 5GB transfer",
       "added": "2026-01-10",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "surf",
+      "name": "surf",
+      "slug": "surf",
+      "description": "Cliente HTTP y toolkit API moderno",
+      "url": "https://github.com/enetx/surf",
+      "status": "active",
+      "tags": [
+        "apis",
+        "tools",
+        "y-apis-datos",
+        "herramientas-api",
+        "surf"
+      ],
+      "searchIndex": [
+        "surf",
+        "Cliente HTTP y toolkit API moderno",
+        "apis",
+        "tools",
+        "y-apis-datos",
+        "herramientas-api"
+      ],
+      "category": "apis",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "limits": "unknown",
+      "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
     },

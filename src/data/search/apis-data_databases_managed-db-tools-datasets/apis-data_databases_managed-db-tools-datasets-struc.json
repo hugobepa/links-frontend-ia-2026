@@ -16,7 +16,7 @@
       "description": "Etiqueta alternative"
     },
     "analytics": {
-      "count": 3,
+      "count": 1,
       "color": "#db2777",
       "description": "Etiqueta analytics"
     },
@@ -31,7 +31,7 @@
       "description": "Etiqueta answers"
     },
     "api": {
-      "count": 49,
+      "count": 47,
       "color": "#7c3aed",
       "description": "Etiqueta api"
     },
@@ -41,7 +41,7 @@
       "description": "Etiqueta api-mega-list"
     },
     "apis": {
-      "count": 11,
+      "count": 15,
       "color": "#ea580c",
       "description": "Etiqueta apis"
     },
@@ -171,9 +171,14 @@
       "description": "Etiqueta data"
     },
     "database": {
-      "count": 28,
+      "count": 27,
       "color": "#059669",
       "description": "Etiqueta database"
+    },
+    "dataflow": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta dataflow"
     },
     "dataset": {
       "count": 5,
@@ -270,6 +275,11 @@
       "color": "#059669",
       "description": "Etiqueta filters"
     },
+    "fingerprint-suite": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta fingerprint-suite"
+    },
     "firebase": {
       "count": 1,
       "color": "#d97706",
@@ -316,7 +326,7 @@
       "description": "Etiqueta geolocation"
     },
     "github": {
-      "count": 6,
+      "count": 3,
       "color": "#d97706",
       "description": "Etiqueta github"
     },
@@ -346,12 +356,12 @@
       "description": "Etiqueta gui"
     },
     "herramientas-api": {
-      "count": 1,
+      "count": 3,
       "color": "#dc2626",
       "description": "Etiqueta herramientas-api"
     },
     "herramientas-database": {
-      "count": 4,
+      "count": 7,
       "color": "#ea580c",
       "description": "Etiqueta herramientas-database"
     },
@@ -566,7 +576,7 @@
       "description": "Etiqueta open-data"
     },
     "open-source": {
-      "count": 6,
+      "count": 3,
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
     },
@@ -599,6 +609,11 @@
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta postgres"
+    },
+    "postgres-mcp": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta postgres-mcp"
     },
     "postgresql": {
       "count": 3,
@@ -730,6 +745,11 @@
       "color": "#dc2626",
       "description": "Etiqueta simpsons"
     },
+    "smallpond": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta smallpond"
+    },
     "soccer": {
       "count": 2,
       "color": "#ea580c",
@@ -744,6 +764,11 @@
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta sqlite"
+    },
+    "surf": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta surf"
     },
     "sync": {
       "count": 1,
@@ -781,7 +806,7 @@
       "description": "Etiqueta tool"
     },
     "tools": {
-      "count": 9,
+      "count": 11,
       "color": "#059669",
       "description": "Etiqueta tools"
     },
@@ -836,12 +861,12 @@
       "description": "Etiqueta web"
     },
     "y-apis-datos": {
-      "count": 2,
+      "count": 4,
       "color": "#ea580c",
       "description": "Etiqueta y-apis-datos"
     },
     "y-i-bases-de-datos": {
-      "count": 2,
+      "count": 5,
       "color": "#dc2626",
       "description": "Etiqueta y-i-bases-de-datos"
     }
@@ -1086,6 +1111,19 @@
         ]
       },
       {
+        "id": "dataflow",
+        "slug": "dataflow",
+        "terms": [
+          "DataFlow",
+          "dataflow",
+          "Repositorio GitHub",
+          "apis",
+          "tools",
+          "y-i-bases-de-datos",
+          "herramientas-database"
+        ]
+      },
+      {
         "id": "dbdesigner",
         "slug": "db-designer",
         "terms": [
@@ -1303,18 +1341,15 @@
         ]
       },
       {
-        "id": "fingerprint-suite-gh",
-        "slug": "fingerprint-suite-gh",
+        "id": "fingerprint-suite",
+        "slug": "fingerprint-suite",
         "terms": [
           "fingerprint-suite",
-          "fingerprint-suite-gh",
-          "Fingerprinting anti-fraude bots",
+          "Fingerprinting anti-fraude y bots",
           "apis",
           "tools",
-          "api",
-          "analytics",
-          "github",
-          "open-source"
+          "y-apis-datos",
+          "herramientas-api"
         ]
       },
       {
@@ -1951,6 +1986,18 @@
         ]
       },
       {
+        "id": "postgres-mcp",
+        "slug": "postgres-mcp",
+        "terms": [
+          "postgres-mcp",
+          "Repositorio GitHub",
+          "apis",
+          "tools",
+          "y-i-bases-de-datos",
+          "herramientas-database"
+        ]
+      },
+      {
         "id": "postgrest",
         "slug": "postgrest",
         "terms": [
@@ -2123,18 +2170,15 @@
         ]
       },
       {
-        "id": "smallpond-gh",
-        "slug": "smallpond-gh",
+        "id": "smallpond",
+        "slug": "smallpond",
         "terms": [
           "smallpond",
-          "smallpond-gh",
-          "Framework ETL ligero DuckDB",
-          "databases",
+          "Framework ETL ligero sobre DuckDB",
+          "apis",
           "tools",
-          "database",
-          "github",
-          "open-source",
-          "analytics"
+          "y-i-bases-de-datos",
+          "herramientas-database"
         ]
       },
       {
@@ -2198,17 +2242,15 @@
         ]
       },
       {
-        "id": "surf-gh",
-        "slug": "surf-gh",
+        "id": "surf",
+        "slug": "surf",
         "terms": [
           "surf",
-          "surf-gh",
-          "Cliente HTTP y toolkit API",
+          "Cliente HTTP y toolkit API moderno",
           "apis",
           "tools",
-          "api",
-          "github",
-          "open-source"
+          "y-apis-datos",
+          "herramientas-api"
         ]
       },
       {
@@ -2494,6 +2536,6 @@
     "dataset": "apis-data_databases_managed-db-tools-datasets",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con recursos de APIs y bases de datos",
-    "resourceCount": 108
+    "resourceCount": 110
   }
 }

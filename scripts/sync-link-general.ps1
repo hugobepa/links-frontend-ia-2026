@@ -42,7 +42,33 @@ function Normalize-CanonicalUrl {
         }
 
         $path = $uri.AbsolutePath.TrimEnd('/')
-        return ('https://{0}{1}' -f $hostName, $path)
+        $query = $uri.Query
+
+        # Preserve meaningful query parameters (e.g. YouTube watch/playlist ids, Marketplace itemName)
+        # while dropping common tracking parameters to avoid noisy duplicates.
+        if (-not [string]::IsNullOrWhiteSpace($query)) {
+            $pairs = @($query.TrimStart('?') -split '&' | Where-Object { $_ -and ($_ -match '=') })
+            $cleanPairs = @()
+
+            foreach ($pair in $pairs) {
+                $parts = $pair -split '=', 2
+                $key = [Uri]::UnescapeDataString($parts[0]).ToLowerInvariant()
+                if ($key -match '^(utm_|fbclid$|gclid$|igshid$|mc_cid$|mc_eid$|si$|ref$|ref_src$)$') {
+                    continue
+                }
+
+                $cleanPairs += $pair
+            }
+
+            if (@($cleanPairs).Count -gt 0) {
+                $query = '?' + (($cleanPairs | Sort-Object) -join '&')
+            }
+            else {
+                $query = ''
+            }
+        }
+
+        return ('https://{0}{1}{2}' -f $hostName, $path, $query)
     }
     catch {
         return $Url.ToLowerInvariant().TrimEnd('/')

@@ -6,7 +6,7 @@
       "description": "Etiqueta 12-months"
     },
     "a-i-cloud-hosting": {
-      "count": 1,
+      "count": 4,
       "color": "#4f46e5",
       "description": "Etiqueta a-i-cloud-hosting"
     },
@@ -14,6 +14,11 @@
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta ai"
+    },
+    "ai-self-replication": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta ai-self-replication"
     },
     "alternative": {
       "count": 1,
@@ -25,6 +30,11 @@
       "color": "#059669",
       "description": "Etiqueta alucek-gh"
     },
+    "alumnium": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta alumnium"
+    },
     "always-free": {
       "count": 2,
       "color": "#2563eb",
@@ -34,6 +44,16 @@
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta amazon"
+    },
+    "anansi": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta anansi"
+    },
+    "anthropics": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta anthropics"
     },
     "api": {
       "count": 1,
@@ -49,6 +69,11 @@
       "count": 1,
       "color": "#d97706",
       "description": "Etiqueta architecture"
+    },
+    "argus": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta argus"
     },
     "astro": {
       "count": 1,
@@ -69,6 +94,21 @@
       "count": 11,
       "color": "#d97706",
       "description": "Etiqueta awesome"
+    },
+    "awesome-ai-software-engineering": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta awesome-ai-software-engineering"
+    },
+    "awesome-autonomous-vehicles": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta awesome-autonomous-vehicles"
+    },
+    "awesome-deep-trading": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta awesome-deep-trading"
     },
     "awesome-open-source-ai": {
       "count": 1,
@@ -115,6 +155,16 @@
       "color": "#7c3aed",
       "description": "Etiqueta brands"
     },
+    "bug-bounty": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta bug-bounty"
+    },
+    "build-nvidia-com": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta build-nvidia-com"
+    },
     "career": {
       "count": 1,
       "color": "#4f46e5",
@@ -146,9 +196,14 @@
       "description": "Etiqueta cli"
     },
     "cloud": {
-      "count": 8,
+      "count": 11,
       "color": "#0891b2",
       "description": "Etiqueta cloud"
+    },
+    "cloud-management": {
+      "count": 3,
+      "color": "#d97706",
+      "description": "Etiqueta cloud-management"
     },
     "code": {
       "count": 1,
@@ -209,6 +264,11 @@
       "count": 2,
       "color": "#7c3aed",
       "description": "Etiqueta curated"
+    },
+    "dark-moon": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta dark-moon"
     },
     "database": {
       "count": 5,
@@ -310,6 +370,11 @@
       "color": "#7c3aed",
       "description": "Etiqueta fastapi"
     },
+    "fc434091c6414acc098f58b18a0146d8-js": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta fc434091c6414acc098f58b18a0146d8-js"
+    },
     "fedora": {
       "count": 1,
       "color": "#0891b2",
@@ -340,6 +405,11 @@
       "color": "#ea580c",
       "description": "Etiqueta free-tier"
     },
+    "freecodecamp": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta freecodecamp"
+    },
     "frontend": {
       "count": 1,
       "color": "#7c3aed",
@@ -359,6 +429,11 @@
       "count": 1,
       "color": "#7c3aed",
       "description": "Etiqueta gcp"
+    },
+    "gencad": {
+      "count": 1,
+      "color": "#2563eb",
+      "description": "Etiqueta gencad"
     },
     "gimp-mcp": {
       "count": 1,
@@ -384,6 +459,11 @@
       "count": 1,
       "color": "#0891b2",
       "description": "Etiqueta global"
+    },
+    "globalthreatmap": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta globalthreatmap"
     },
     "google": {
       "count": 1,
@@ -425,6 +505,11 @@
       "color": "#db2777",
       "description": "Etiqueta infra"
     },
+    "integrate-api-nvidia-com": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta integrate-api-nvidia-com"
+    },
     "interactive": {
       "count": 3,
       "color": "#dc2626",
@@ -450,6 +535,11 @@
       "color": "#dc2626",
       "description": "Etiqueta lazygit"
     },
+    "leann": {
+      "count": 1,
+      "color": "#4f46e5",
+      "description": "Etiqueta leann"
+    },
     "learning": {
       "count": 5,
       "color": "#db2777",
@@ -459,6 +549,21 @@
       "count": 2,
       "color": "#7c3aed",
       "description": "Etiqueta list"
+    },
+    "live-trade-bench": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta live-trade-bench"
+    },
+    "localstack": {
+      "count": 1,
+      "color": "#65a30d",
+      "description": "Etiqueta localstack"
+    },
+    "management": {
+      "count": 3,
+      "color": "#d97706",
+      "description": "Etiqueta management"
     },
     "mercurial": {
       "count": 1,
@@ -510,10 +615,20 @@
       "color": "#ea580c",
       "description": "Etiqueta official"
     },
+    "onyx": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta onyx"
+    },
     "open-source": {
       "count": 4,
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
+    },
+    "openguider": {
+      "count": 1,
+      "color": "#7c3aed",
+      "description": "Etiqueta openguider"
     },
     "oracle": {
       "count": 1,
@@ -539,6 +654,11 @@
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta pipelines"
+    },
+    "playtranslate": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta playtranslate"
     },
     "policies": {
       "count": 1,
@@ -585,13 +705,18 @@
       "color": "#65a30d",
       "description": "Etiqueta react"
     },
+    "reactive-resume": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta reactive-resume"
+    },
     "real-world": {
       "count": 1,
       "color": "#65a30d",
       "description": "Etiqueta real-world"
     },
     "recursos-github": {
-      "count": 6,
+      "count": 34,
       "color": "#7c3aed",
       "description": "Etiqueta recursos-github"
     },
@@ -616,7 +741,7 @@
       "description": "Etiqueta repos"
     },
     "resources": {
-      "count": 16,
+      "count": 44,
       "color": "#65a30d",
       "description": "Etiqueta resources"
     },
@@ -624,6 +749,11 @@
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta roadmap"
+    },
+    "rppg-toolbox": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta rppg-toolbox"
     },
     "security": {
       "count": 1,
@@ -639,6 +769,16 @@
       "count": 3,
       "color": "#dc2626",
       "description": "Etiqueta serverless"
+    },
+    "shadowbroker": {
+      "count": 1,
+      "color": "#059669",
+      "description": "Etiqueta shadowbroker"
+    },
+    "silicon-studio": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta silicon-studio"
     },
     "skills": {
       "count": 1,
@@ -685,6 +825,11 @@
       "color": "#7c3aed",
       "description": "Etiqueta suite"
     },
+    "superserve": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta superserve"
+    },
     "system-design": {
       "count": 1,
       "color": "#4f46e5",
@@ -709,6 +854,11 @@
       "count": 1,
       "color": "#4f46e5",
       "description": "Etiqueta terraform-alternative"
+    },
+    "timecapsulellm": {
+      "count": 1,
+      "color": "#0891b2",
+      "description": "Etiqueta timecapsulellm"
     },
     "topics": {
       "count": 1,
@@ -745,6 +895,11 @@
       "color": "#059669",
       "description": "Etiqueta typescript"
     },
+    "ubuntu-on-android": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta ubuntu-on-android"
+    },
     "ui": {
       "count": 1,
       "color": "#dc2626",
@@ -759,6 +914,11 @@
       "count": 1,
       "color": "#db2777",
       "description": "Etiqueta utilities"
+    },
+    "v0-1-5": {
+      "count": 1,
+      "color": "#db2777",
+      "description": "Etiqueta v0-1-5"
     },
     "vcs": {
       "count": 1,
@@ -776,7 +936,7 @@
       "description": "Etiqueta vercel-labs-skills"
     },
     "version-control": {
-      "count": 6,
+      "count": 34,
       "color": "#db2777",
       "description": "Etiqueta version-control"
     },
@@ -790,13 +950,18 @@
       "color": "#65a30d",
       "description": "Etiqueta vm"
     },
+    "website-cloner": {
+      "count": 1,
+      "color": "#d97706",
+      "description": "Etiqueta website-cloner"
+    },
     "workers": {
       "count": 1,
       "color": "#059669",
       "description": "Etiqueta workers"
     },
     "y-control-de-versiones-repositorios": {
-      "count": 5,
+      "count": 33,
       "color": "#059669",
       "description": "Etiqueta y-control-de-versiones-repositorios"
     }
@@ -850,6 +1015,19 @@
         ]
       },
       {
+        "id": "ai-self-replication",
+        "slug": "ai-self-replication",
+        "terms": [
+          "AI-self-replication",
+          "ai-self-replication",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "alucek-gh",
         "slug": "alucek-gh",
         "terms": [
@@ -859,6 +1037,55 @@
           "version-control",
           "resources",
           "control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "alumnium",
+        "slug": "alumnium",
+        "terms": [
+          "alumnium",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "anansi",
+        "slug": "anansi",
+        "terms": [
+          "anansi",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "anthropics",
+        "slug": "anthropics",
+        "terms": [
+          "anthropics",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "argus",
+        "slug": "argus",
+        "terms": [
+          "Argus",
+          "argus",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
           "recursos-github"
         ]
       },
@@ -1018,6 +1245,42 @@
         ]
       },
       {
+        "id": "awesome-ai-software-engineering",
+        "slug": "awesome-ai-software-engineering",
+        "terms": [
+          "awesome-ai-software-engineering",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-autonomous-vehicles",
+        "slug": "awesome-autonomous-vehicles",
+        "terms": [
+          "awesome-autonomous-vehicles",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "awesome-deep-trading",
+        "slug": "awesome-deep-trading",
+        "terms": [
+          "awesome-deep-trading",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "aws-free-tier",
         "slug": "aws-free-tier",
         "terms": [
@@ -1079,6 +1342,31 @@
           "visual",
           "terraform",
           "collaboration"
+        ]
+      },
+      {
+        "id": "bug-bounty",
+        "slug": "bug-bounty",
+        "terms": [
+          "Bug-Bounty",
+          "bug-bounty",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "build-nvidia-com",
+        "slug": "build-nvidia-com",
+        "terms": [
+          "build-nvidia-com",
+          "Recurso de IA",
+          "cloud",
+          "management",
+          "a-i-cloud-hosting",
+          "cloud-management"
         ]
       },
       {
@@ -1146,6 +1434,19 @@
         ]
       },
       {
+        "id": "dark-moon",
+        "slug": "dark-moon",
+        "terms": [
+          "Dark-Moon",
+          "dark-moon",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "deepsource-good-first",
         "slug": "deepsourcecorp-good-first",
         "terms": [
@@ -1207,6 +1508,18 @@
         ]
       },
       {
+        "id": "fc434091c6414acc098f58b18a0146d8-js",
+        "slug": "fc434091c6414acc098f58b18a0146d8-js",
+        "terms": [
+          "fc434091c6414acc098f58b18a0146d8-js",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "first-contributions",
         "slug": "first-contributions",
         "terms": [
@@ -1264,6 +1577,32 @@
           "free",
           "programming",
           "learning"
+        ]
+      },
+      {
+        "id": "freecodecamp",
+        "slug": "freecodecamp",
+        "terms": [
+          "freeCodeCamp",
+          "freecodecamp",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "gencad",
+        "slug": "gencad",
+        "terms": [
+          "GenCAD",
+          "gencad",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
         ]
       },
       {
@@ -1449,6 +1788,18 @@
         ]
       },
       {
+        "id": "globalthreatmap",
+        "slug": "globalthreatmap",
+        "terms": [
+          "globalthreatmap",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "good-first-issues",
         "slug": "good-first-issues",
         "terms": [
@@ -1540,6 +1891,18 @@
         ]
       },
       {
+        "id": "integrate-api-nvidia-com",
+        "slug": "integrate-api-nvidia-com",
+        "terms": [
+          "integrate-api-nvidia-com",
+          "Recurso de IA",
+          "cloud",
+          "management",
+          "a-i-cloud-hosting",
+          "cloud-management"
+        ]
+      },
+      {
         "id": "koyeb",
         "slug": "koyeb",
         "terms": [
@@ -1561,6 +1924,19 @@
           "Lazygit",
           "lazygit",
           "Terminal UI para Git con atajos intuitiv",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "leann",
+        "slug": "leann",
+        "terms": [
+          "LEANN",
+          "leann",
+          "Repositorio GitHub",
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
@@ -1598,6 +1974,30 @@
         ]
       },
       {
+        "id": "live-trade-bench",
+        "slug": "live-trade-bench",
+        "terms": [
+          "live-trade-bench",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "localstack",
+        "slug": "localstack",
+        "terms": [
+          "localstack",
+          "Repositorio GitHub",
+          "cloud",
+          "management",
+          "a-i-cloud-hosting",
+          "cloud-management"
+        ]
+      },
+      {
         "id": "netlify",
         "slug": "netlify",
         "terms": [
@@ -1610,6 +2010,31 @@
           "forms",
           "serverless",
           "functions"
+        ]
+      },
+      {
+        "id": "onyx",
+        "slug": "onyx",
+        "terms": [
+          "onyx",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "openguider",
+        "slug": "openguider",
+        "terms": [
+          "OpenGuider",
+          "openguider",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
         ]
       },
       {
@@ -1656,6 +2081,18 @@
           "distributed",
           "patches",
           "alternative"
+        ]
+      },
+      {
+        "id": "playtranslate",
+        "slug": "playtranslate",
+        "terms": [
+          "playtranslate",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
         ]
       },
       {
@@ -1731,6 +2168,18 @@
         ]
       },
       {
+        "id": "reactive-resume",
+        "slug": "reactive-resume",
+        "terms": [
+          "reactive-resume",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "realworld",
         "slug": "realworld",
         "terms": [
@@ -1776,6 +2225,19 @@
         ]
       },
       {
+        "id": "rppg-toolbox",
+        "slug": "rppg-toolbox",
+        "terms": [
+          "rPPG-Toolbox",
+          "rppg-toolbox",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "scalr",
         "slug": "scalr",
         "terms": [
@@ -1792,6 +2254,44 @@
         ]
       },
       {
+        "id": "shadowbroker",
+        "slug": "shadowbroker",
+        "terms": [
+          "Shadowbroker",
+          "shadowbroker",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "silicon-studio",
+        "slug": "silicon-studio",
+        "terms": [
+          "Silicon-Studio",
+          "silicon-studio",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "superserve",
+        "slug": "superserve",
+        "terms": [
+          "superserve",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
         "id": "system-design-primer",
         "slug": "system-design-primer",
         "terms": [
@@ -1804,6 +2304,44 @@
           "learning",
           "architecture",
           "interviews"
+        ]
+      },
+      {
+        "id": "timecapsulellm",
+        "slug": "timecapsulellm",
+        "terms": [
+          "TimeCapsuleLLM",
+          "timecapsulellm",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "ubuntu-on-android",
+        "slug": "ubuntu-on-android",
+        "terms": [
+          "ubuntu-on-android",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "v0-1-5",
+        "slug": "v0-1-5",
+        "terms": [
+          "v0.1.5",
+          "v0-1-5",
+          "Repositorio GitHub",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
         ]
       },
       {
@@ -1829,6 +2367,18 @@
           "Vercel Labs Skills",
           "vercel-labs-skills",
           "Colección de skills y templates oficial",
+          "version-control",
+          "resources",
+          "y-control-de-versiones-repositorios",
+          "recursos-github"
+        ]
+      },
+      {
+        "id": "website-cloner",
+        "slug": "website-cloner",
+        "terms": [
+          "website-cloner",
+          "Repositorio GitHub",
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
@@ -1892,6 +2442,6 @@
     "dataset": "apis-data_databases",
     "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
     "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 68
+    "resourceCount": 99
   }
 }
