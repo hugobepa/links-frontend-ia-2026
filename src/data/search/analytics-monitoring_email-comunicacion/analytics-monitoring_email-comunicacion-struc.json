@@ -482,782 +482,1133 @@
     "entries": [
       {
         "id": "ably",
+        "name": "Ably",
         "slug": "ably",
-        "terms": [
-          "Ably",
-          "ably",
-          "Infraestructura tiempo real 6M msgs",
-          "email",
-          "notifications-messaging",
+        "description": "Infraestructura tiempo real 6M msgs",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "real-time",
           "messaging",
           "infrastructure",
           "pubsub"
-        ]
+        ],
+        "url": "https://ably.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "ably ably infraestructura tiempo real 6m msgs email notifications-messaging real-time messaging infrastructure pubsub"
       },
       {
         "id": "aws-sns",
+        "name": "AWS SNS",
         "slug": "aws-sns",
-        "terms": [
-          "AWS SNS",
-          "aws-sns",
-          "Servicio SMS escalable de AWS",
-          "email",
-          "notifications-messaging",
+        "description": "Servicio SMS escalable de AWS",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "sms",
           "aws",
           "notifications",
           "cloud"
-        ]
+        ],
+        "url": "https://aws.amazon.com/sns",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "aws sns aws-sns servicio sms escalable de aws email notifications-messaging sms aws notifications cloud"
       },
       {
         "id": "better-stack",
+        "name": "Better Stack",
         "slug": "better-stack",
-        "terms": [
-          "Better Stack",
-          "better-stack",
-          "Monitoreo y on-call 10 checks",
-          "analytics",
-          "monitoring-uptime",
+        "description": "Monitoreo y on-call 10 checks",
+        "category": "analytics",
+        "subcategory": "monitoring-uptime",
+        "tags": [
           "monitoring",
           "on-call",
           "alerts",
           "logging"
-        ]
+        ],
+        "url": "https://betterstack.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "better stack better-stack monitoreo y on-call 10 checks analytics monitoring-uptime monitoring on-call alerts logging"
       },
       {
         "id": "create-email",
+        "name": "Create-Email",
         "slug": "create-email",
-        "terms": [
-          "Create-Email",
-          "create-email",
-          "Paquete npm oficial con CLI",
+        "description": "Paquete npm oficial con CLI",
+        "category": "email",
+        "subcategory": "transactional-email",
+        "tags": [
           "email",
-          "transactional-email",
           "npm",
           "cli",
           "react"
-        ]
+        ],
+        "url": "https://www.npmjs.com/package/create-email",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "create-email create-email paquete npm oficial con cli email transactional-email email npm cli react"
       },
       {
         "id": "crisp",
+        "name": "Crisp",
         "slug": "crisp",
-        "terms": [
-          "Crisp",
-          "crisp",
-          "Chat y messaging 2 seats gratis",
-          "email",
-          "chat-support",
+        "description": "Chat y messaging 2 seats gratis",
+        "category": "email",
+        "subcategory": "chat-support",
+        "tags": [
           "chat",
           "messaging",
           "support",
           "customer-service"
-        ]
+        ],
+        "url": "https://crisp.chat",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "crisp crisp chat y messaging 2 seats gratis email chat-support chat messaging support customer-service"
       },
       {
         "id": "datadog",
+        "name": "Datadog",
         "slug": "datadog",
-        "terms": [
-          "Datadog",
-          "datadog",
-          "Monitoring y analytics 14 días trial",
-          "analytics",
-          "performance-monitoring",
+        "description": "Monitoring y analytics 14 días trial",
+        "category": "analytics",
+        "subcategory": "performance-monitoring",
+        "tags": [
           "monitoring",
+          "analytics",
           "infrastructure",
           "logs"
-        ]
+        ],
+        "url": "https://datadoghq.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "datadog datadog monitoring y analytics 14 días trial analytics performance-monitoring monitoring analytics infrastructure logs"
       },
       {
         "id": "drift",
+        "name": "Drift",
         "slug": "drift",
-        "terms": [
-          "Drift",
-          "drift",
-          "Chat conversacional para ventas",
-          "email",
-          "chat-support",
+        "description": "Chat conversacional para ventas",
+        "category": "email",
+        "subcategory": "chat-support",
+        "tags": [
           "chat",
           "sales",
           "conversational",
           "marketing"
-        ]
+        ],
+        "url": "https://www.drift.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "drift drift chat conversacional para ventas email chat-support chat sales conversational marketing"
       },
       {
         "id": "email-obfuscation",
+        "name": "Email Obfuscation",
         "slug": "email-obfuscation",
-        "terms": [
-          "Email Obfuscation",
-          "email-obfuscation",
-          "Técnicas ofuscar emails contra spam",
+        "description": "Técnicas ofuscar emails contra spam",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "email",
           "notifications-messaging",
           "y-email-comunicacia-n",
-          "email-transaccional"
-        ]
+          "email-transaccional",
+          "email-obfuscation"
+        ],
+        "url": "https://spencermortensen.com/articles/email-obfuscation/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "email obfuscation email-obfuscation técnicas ofuscar emails contra spam email notifications-messaging email notifications-messaging y-email-comunicacia-n email-transaccional email-obfuscation"
       },
       {
         "id": "evolution-api-gh",
+        "name": "evolution-api-gh",
         "slug": "evolution-api-gh",
-        "terms": [
-          "evolution-api-gh",
-          "API WhatsApp multi-dispositivo",
+        "description": "API WhatsApp multi-dispositivo",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "email",
           "notifications-messaging",
           "y-email-comunicacia-n",
-          "notificaciones-messaging"
-        ]
+          "notificaciones-messaging",
+          "evolution-api-gh"
+        ],
+        "url": "https://github.com/evolution-foundation/evolution-api",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "evolution-api-gh evolution-api-gh api whatsapp multi-dispositivo email notifications-messaging email notifications-messaging y-email-comunicacia-n notificaciones-messaging evolution-api-gh"
       },
       {
         "id": "firebase-cloud-messaging",
+        "name": "Firebase Cloud Messaging",
         "slug": "firebase-cloud-messaging",
-        "terms": [
-          "Firebase Cloud Messaging",
-          "firebase-cloud-messaging",
-          "Notificaciones push gratis",
-          "email",
-          "notifications-messaging",
+        "description": "Notificaciones push gratis",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "notifications",
           "push",
           "firebase",
           "google",
           "free"
-        ]
+        ],
+        "url": "https://firebase.google.com/docs/cloud-messaging",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "firebase cloud messaging firebase-cloud-messaging notificaciones push gratis email notifications-messaging notifications push firebase google free"
       },
       {
         "id": "firecrawl",
+        "name": "FireCrawl",
         "slug": "firecrawl",
-        "terms": [
-          "FireCrawl",
-          "firecrawl",
-          "API para buscar y scrapear web a escala",
-          "analytics",
-          "seo-tools",
+        "description": "API para buscar y scrapear web a escala",
+        "category": "analytics",
+        "subcategory": "seo-tools",
+        "tags": [
           "seo",
           "scraping",
           "api",
           "crawl"
-        ]
+        ],
+        "url": "https://firecrawl.dev",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "firecrawl firecrawl api para buscar y scrapear web a escala analytics seo-tools seo scraping api crawl"
       },
       {
         "id": "google-analytics",
+        "name": "Google Analytics",
         "slug": "google-analytics",
-        "terms": [
-          "Google Analytics",
-          "google-analytics",
-          "Analítica web gratuita estándar industria",
+        "description": "Analítica web gratuita estándar indust",
+        "category": "analytics",
+        "subcategory": "web-analytics",
+        "tags": [
           "analytics",
-          "web-analytics",
           "google",
           "web",
           "tracking",
           "free"
-        ]
+        ],
+        "url": "https://analytics.google.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "google analytics google-analytics analítica web gratuita estándar indust analytics web-analytics analytics google web tracking free"
       },
       {
         "id": "grafana-cloud",
+        "name": "Grafana Cloud",
         "slug": "grafana-cloud",
-        "terms": [
-          "Grafana Cloud",
-          "grafana-cloud",
-          "Métricas y dashboards 10k series",
-          "analytics",
-          "performance-monitoring",
+        "description": "Métricas y dashboards 10k series",
+        "category": "analytics",
+        "subcategory": "performance-monitoring",
+        "tags": [
           "metrics",
           "dashboards",
           "monitoring",
           "open-source"
-        ]
+        ],
+        "url": "https://grafana.com/products/cloud",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "grafana cloud grafana-cloud métricas y dashboards 10k series analytics performance-monitoring metrics dashboards monitoring open-source"
       },
       {
         "id": "graphify",
+        "name": "graphify",
         "slug": "graphify",
-        "terms": [
-          "graphify",
-          "Visualizacion de grafos analiticos",
+        "description": "Visualizacion de grafos analiticos",
+        "category": "analytics",
+        "subcategory": "web-analytics",
+        "tags": [
           "analytics",
-          "web-analytics",
           "metrics",
           "monitoring",
           "web"
-        ]
+        ],
+        "url": "https://github.com/safishamsi/graphify",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "graphify graphify visualizacion de grafos analiticos analytics web-analytics analytics metrics monitoring web"
       },
       {
         "id": "help-scout",
+        "name": "Help Scout",
         "slug": "help-scout",
-        "terms": [
-          "Help Scout",
-          "help-scout",
-          "Soporte por email compartido",
-          "email",
-          "chat-support",
+        "description": "Soporte por email compartido",
+        "category": "email",
+        "subcategory": "chat-support",
+        "tags": [
           "support",
+          "email",
           "helpdesk",
           "shared-inbox"
-        ]
+        ],
+        "url": "https://www.helpscout.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "help scout help-scout soporte por email compartido email chat-support support email helpdesk shared-inbox"
       },
       {
         "id": "hook0",
+        "name": "Hook0",
         "slug": "hook0",
-        "terms": [
-          "Hook0",
-          "hook0",
-          "Webhooks-as-a-service open source",
-          "email",
-          "notifications-messaging",
+        "description": "Webhooks-as-a-service open source",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "webhooks",
           "open-source",
           "api",
           "messaging"
-        ]
+        ],
+        "url": "https://www.hook0.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "hook0 hook0 webhooks-as-a-service open source email notifications-messaging webhooks open-source api messaging"
       },
       {
         "id": "intercom",
+        "name": "Intercom",
         "slug": "intercom",
-        "terms": [
-          "Intercom",
-          "intercom",
-          "Chat y soporte 1 agente gratis",
-          "email",
-          "chat-support",
+        "description": "Chat y soporte 1 agente gratis",
+        "category": "email",
+        "subcategory": "chat-support",
+        "tags": [
           "chat",
           "support",
           "customer-service",
           "crm"
-        ]
+        ],
+        "url": "https://www.intercom.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "intercom intercom chat y soporte 1 agente gratis email chat-support chat support customer-service crm"
       },
       {
         "id": "librecrawl",
+        "name": "LibreCrawl",
         "slug": "librecrawl",
-        "terms": [
-          "LibreCrawl",
-          "librecrawl",
-          "Web crawler SEO analyzer y audit",
-          "analytics",
-          "seo-tools",
+        "description": "Web crawler SEO analyzer y audit",
+        "category": "analytics",
+        "subcategory": "seo-tools",
+        "tags": [
           "seo",
           "crawler",
           "open-source",
           "audit"
-        ]
+        ],
+        "url": "https://github.com/PhialsBasement/LibreCrawl",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "librecrawl librecrawl web crawler seo analyzer y audit analytics seo-tools seo crawler open-source audit"
       },
       {
         "id": "livechat",
+        "name": "LiveChat",
         "slug": "livechat",
-        "terms": [
-          "LiveChat",
-          "livechat",
-          "Chat en vivo 14 días trial",
-          "email",
-          "chat-support",
+        "description": "Chat en vivo 14 días trial",
+        "category": "email",
+        "subcategory": "chat-support",
+        "tags": [
           "chat",
           "live-chat",
           "support"
-        ]
+        ],
+        "url": "https://www.livechat.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "livechat livechat chat en vivo 14 días trial email chat-support chat live-chat support"
       },
       {
         "id": "logrocket",
+        "name": "LogRocket",
         "slug": "logrocket",
-        "terms": [
-          "LogRocket",
-          "logrocket",
-          "Session replay y logs 1k sesiones",
-          "analytics",
-          "error-tracking",
+        "description": "Session replay y logs 1k sesiones",
+        "category": "analytics",
+        "subcategory": "error-tracking",
+        "tags": [
           "session-recording",
           "logging",
           "debugging"
-        ]
+        ],
+        "url": "https://logrocket.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "logrocket logrocket session replay y logs 1k sesiones analytics error-tracking session-recording logging debugging"
       },
       {
         "id": "messagebird",
+        "name": "MessageBird",
         "slug": "messagebird",
-        "terms": [
-          "MessageBird",
-          "messagebird",
-          "API omnicanal, SMS y voz",
-          "email",
-          "notifications-messaging",
+        "description": "API omnicanal, SMS y voz",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "sms",
           "voice",
           "omnichannel",
           "api"
-        ]
+        ],
+        "url": "https://messagebird.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "messagebird messagebird api omnicanal, sms y voz email notifications-messaging sms voice omnichannel api"
       },
       {
         "id": "microsoft-clarity",
+        "name": "Microsoft Clarity",
         "slug": "microsoft-clarity",
-        "terms": [
-          "Microsoft Clarity",
-          "microsoft-clarity",
-          "Grabación de sesiones web gratis",
+        "description": "Grabación de sesiones web gratis",
+        "category": "analytics",
+        "subcategory": "web-analytics",
+        "tags": [
           "analytics",
-          "web-analytics",
           "microsoft",
           "session-recording",
           "heatmaps"
-        ]
+        ],
+        "url": "https://clarity.microsoft.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "microsoft clarity microsoft-clarity grabación de sesiones web gratis analytics web-analytics analytics microsoft session-recording heatmaps"
       },
       {
         "id": "mjml",
+        "name": "MJML",
         "slug": "mjml",
-        "terms": [
-          "MJML",
-          "mjml",
-          "Framework emails responsive cross-client",
+        "description": "Framework emails responsive cross-client",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "email",
           "notifications-messaging",
           "y-email-comunicacia-n",
-          "email-transaccional"
-        ]
+          "email-transaccional",
+          "mjml"
+        ],
+        "url": "https://mjml.io",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "mjml mjml framework emails responsive cross-client email notifications-messaging email notifications-messaging y-email-comunicacia-n email-transaccional mjml"
       },
       {
         "id": "new-relic",
+        "name": "New Relic",
         "slug": "new-relic",
-        "terms": [
-          "New Relic",
-          "new-relic",
-          "APM y monitoreo 100GB/mes gratis",
-          "analytics",
-          "performance-monitoring",
+        "description": "APM y monitoreo 100GB/mes gratis",
+        "category": "analytics",
+        "subcategory": "performance-monitoring",
+        "tags": [
           "apm",
           "monitoring",
           "performance",
           "infrastructure"
-        ]
+        ],
+        "url": "https://newrelic.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "new relic new-relic apm y monitoreo 100gb/mes gratis analytics performance-monitoring apm monitoring performance infrastructure"
       },
       {
         "id": "olark",
+        "name": "Olark",
         "slug": "olark",
-        "terms": [
-          "Olark",
-          "olark",
-          "Chat en vivo para websites",
-          "email",
-          "chat-support",
+        "description": "Chat en vivo para websites",
+        "category": "email",
+        "subcategory": "chat-support",
+        "tags": [
           "chat",
           "live-chat",
           "website"
-        ]
+        ],
+        "url": "https://www.olark.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "olark olark chat en vivo para websites email chat-support chat live-chat website"
       },
       {
         "id": "onesignal",
+        "name": "OneSignal",
         "slug": "onesignal",
-        "terms": [
-          "OneSignal",
-          "onesignal",
-          "Notificaciones push 10k usuarios",
-          "email",
-          "notifications-messaging",
+        "description": "Notificaciones push 10k usuarios",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "push",
           "notifications",
           "messaging",
           "email"
-        ]
+        ],
+        "url": "https://onesignal.com/unlock-growth-ga-lp",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "onesignal onesignal notificaciones push 10k usuarios email notifications-messaging push notifications messaging email"
       },
       {
-        "id": "onesignal",
-        "slug": "onesignal",
-        "terms": [
-          "OneSignal",
-          "onesignal",
-          "Notificaciones push 10k usuarios",
-          "email",
-          "notifications-messaging",
+        "id": "onesignal-2",
+        "name": "OneSignal",
+        "slug": "onesignal-2",
+        "description": "Notificaciones push 10k usuarios",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "notifications",
           "push",
           "mobile",
           "web"
-        ]
+        ],
+        "url": "https://onesignal.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "onesignal onesignal-2 notificaciones push 10k usuarios email notifications-messaging notifications push mobile web"
       },
       {
         "id": "openseo",
+        "name": "OpenSEO",
         "slug": "openseo",
-        "terms": [
-          "OpenSEO",
-          "openseo",
-          "Buscador SEO open source",
-          "analytics",
-          "seo-tools",
+        "description": "Buscador SEO open source",
+        "category": "analytics",
+        "subcategory": "seo-tools",
+        "tags": [
           "seo",
           "open-source",
           "audit"
-        ]
+        ],
+        "url": "https://openseo.so",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "openseo openseo buscador seo open source analytics seo-tools seo open-source audit"
       },
       {
         "id": "pingdom",
+        "name": "Pingdom",
         "slug": "pingdom",
-        "terms": [
-          "Pingdom",
-          "pingdom",
-          "Monitoreo rendimiento web",
-          "analytics",
-          "monitoring-uptime",
+        "description": "Monitoreo rendimiento web",
+        "category": "analytics",
+        "subcategory": "monitoring-uptime",
+        "tags": [
           "monitoring",
           "performance",
           "uptime"
-        ]
+        ],
+        "url": "https://pingdom.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pingdom pingdom monitoreo rendimiento web analytics monitoring-uptime monitoring performance uptime"
       },
       {
         "id": "plausible",
+        "name": "Plausible",
         "slug": "plausible",
-        "terms": [
-          "Plausible",
-          "plausible",
-          "Analytics privado y ligero sin cookies",
+        "description": "Analytics privado y ligero sin cookies",
+        "category": "analytics",
+        "subcategory": "web-analytics",
+        "tags": [
           "analytics",
-          "web-analytics",
           "privacy",
           "lightweight",
           "no-cookies"
-        ]
+        ],
+        "url": "https://plausible.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "plausible plausible analytics privado y ligero sin cookies analytics web-analytics analytics privacy lightweight no-cookies"
       },
       {
         "id": "posthog",
+        "name": "PostHog",
         "slug": "posthog",
-        "terms": [
-          "PostHog",
-          "posthog",
-          "Product analytics open source completo",
+        "description": "Product analytics open source completo",
+        "category": "analytics",
+        "subcategory": "web-analytics",
+        "tags": [
           "analytics",
-          "web-analytics",
           "open-source",
           "product",
           "privacy"
-        ]
+        ],
+        "url": "https://posthog.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "posthog posthog product analytics open source completo analytics web-analytics analytics open-source product privacy"
       },
       {
         "id": "posthook",
+        "name": "Posthook",
         "slug": "posthook",
-        "terms": [
-          "Posthook",
-          "posthook",
-          "Programa webhooks para futuro",
-          "email",
-          "notifications-messaging",
+        "description": "Programa webhooks para futuro",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "webhooks",
           "scheduling",
           "api",
           "messaging"
-        ]
+        ],
+        "url": "https://posthook.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "posthook posthook programa webhooks para futuro email notifications-messaging webhooks scheduling api messaging"
       },
       {
         "id": "prometheus",
+        "name": "Prometheus",
         "slug": "prometheus",
-        "terms": [
-          "Prometheus",
-          "prometheus",
-          "Monitoreo y alertas open source",
-          "analytics",
-          "performance-monitoring",
+        "description": "Monitoreo y alertas open source",
+        "category": "analytics",
+        "subcategory": "performance-monitoring",
+        "tags": [
           "monitoring",
           "alerts",
           "open-source",
           "metrics"
-        ]
+        ],
+        "url": "https://prometheus.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "prometheus prometheus monitoreo y alertas open source analytics performance-monitoring monitoring alerts open-source metrics"
       },
       {
         "id": "pubnub",
+        "name": "PubNub",
         "slug": "pubnub",
-        "terms": [
-          "PubNub",
-          "pubnub",
-          "API mensajería tiempo real",
-          "email",
-          "notifications-messaging",
+        "description": "API mensajería tiempo real",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "messaging",
           "real-time",
           "api",
           "pubsub"
-        ]
+        ],
+        "url": "https://www.pubnub.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pubnub pubnub api mensajería tiempo real email notifications-messaging messaging real-time api pubsub"
       },
       {
         "id": "pusher",
+        "name": "Pusher",
         "slug": "pusher",
-        "terms": [
-          "Pusher",
-          "pusher",
-          "WebSockets y eventos en tiempo real",
-          "email",
-          "notifications-messaging",
+        "description": "WebSockets y eventos en tiempo real",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "websockets",
           "real-time",
           "events",
           "messaging"
-        ]
+        ],
+        "url": "https://pusher.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pusher pusher websockets y eventos en tiempo real email notifications-messaging websockets real-time events messaging"
       },
       {
         "id": "rank-math",
+        "name": "Rank Math",
         "slug": "rank-math",
-        "terms": [
-          "Rank Math",
-          "rank-math",
-          "Herramienta SEO para WordPress",
-          "analytics",
-          "seo-tools",
+        "description": "Herramienta SEO para WordPress",
+        "category": "analytics",
+        "subcategory": "seo-tools",
+        "tags": [
           "seo",
           "wordpress",
           "optimization"
-        ]
+        ],
+        "url": "https://rankmath.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "rank math rank-math herramienta seo para wordpress analytics seo-tools seo wordpress optimization"
       },
       {
-        "id": "rank-math",
-        "slug": "rank-math",
-        "terms": [
-          "Rank Math",
-          "rank-math",
-          "Herramienta SEO para WordPress",
-          "analytics",
-          "seo-tools",
+        "id": "rank-math-2",
+        "name": "Rank Math",
+        "slug": "rank-math-2",
+        "description": "Herramienta SEO para WordPress",
+        "category": "analytics",
+        "subcategory": "seo-tools",
+        "tags": [
           "seo",
           "wordpress",
           "analytics",
           "marketing"
-        ]
+        ],
+        "url": "https://rankmath.com/offer/?ref=javier+iniguez+gutierrez",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "rank math rank-math-2 herramienta seo para wordpress analytics seo-tools seo wordpress analytics marketing"
       },
       {
         "id": "react-email",
+        "name": "React Email",
         "slug": "react-email",
-        "terms": [
-          "React Email",
-          "react-email",
-          "Framework crear emails con componentes React",
+        "description": "Framework crear emails con componentes R",
+        "category": "email",
+        "subcategory": "transactional-email",
+        "tags": [
           "email",
-          "transactional-email",
           "react",
           "components",
           "framework"
-        ]
+        ],
+        "url": "https://react.email",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "react email react-email framework crear emails con componentes r email transactional-email email react components framework"
       },
       {
         "id": "resend",
+        "name": "Resend",
         "slug": "resend",
-        "terms": [
-          "Resend",
-          "resend",
-          "Email transaccional moderno 100/mes",
+        "description": "Email transaccional moderno 100/mes",
+        "category": "email",
+        "subcategory": "transactional-email",
+        "tags": [
           "email",
-          "transactional-email",
           "transactional",
           "api",
           "modern"
-        ]
+        ],
+        "url": "https://resend.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "resend resend email transaccional moderno 100/mes email transactional-email email transactional api modern"
       },
       {
         "id": "rocket-insights",
+        "name": "rocket-insights",
         "slug": "rocket-insights",
-        "terms": [
-          "rocket-insights",
-          "Insights de rendimiento web",
+        "description": "Insights de rendimiento web",
+        "category": "analytics",
+        "subcategory": "performance-monitoring",
+        "tags": [
           "analytics",
-          "performance-monitoring",
           "performance",
           "monitoring",
           "web"
-        ]
+        ],
+        "url": "https://wp-rocket.me/rocket-insights/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "rocket-insights rocket-insights insights de rendimiento web analytics performance-monitoring analytics performance monitoring web"
       },
       {
         "id": "sendgrid",
+        "name": "SendGrid",
         "slug": "sendgrid",
-        "terms": [
-          "SendGrid",
-          "sendgrid",
-          "Email API 100 emails/día gratis",
+        "description": "Email API 100 emails/día gratis",
+        "category": "email",
+        "subcategory": "transactional-email",
+        "tags": [
           "email",
-          "transactional-email",
           "api",
           "transactional",
           "twilio"
-        ]
+        ],
+        "url": "https://sendgrid.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "sendgrid sendgrid email api 100 emails/día gratis email transactional-email email api transactional twilio"
       },
       {
         "id": "sentry",
+        "name": "Sentry",
         "slug": "sentry",
-        "terms": [
-          "Sentry",
-          "sentry",
-          "Error tracking 5k errores/mes gratis",
-          "analytics",
+        "description": "Error tracking 5k errores/mes gratis",
+        "category": "analytics",
+        "subcategory": "error-tracking",
+        "tags": [
           "error-tracking",
           "logging",
           "debugging",
           "monitoring"
-        ]
+        ],
+        "url": "https://sentry.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "sentry sentry error tracking 5k errores/mes gratis analytics error-tracking error-tracking logging debugging monitoring"
       },
       {
         "id": "socket-io",
+        "name": "Socket.io",
         "slug": "socket-io",
-        "terms": [
-          "Socket.io",
-          "socket-io",
-          "WebSockets para notificaciones",
-          "email",
-          "notifications-messaging",
+        "description": "WebSockets para notificaciones",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "websockets",
           "real-time",
           "open-source",
           "nodejs"
-        ]
+        ],
+        "url": "https://socket.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "socket.io socket-io websockets para notificaciones email notifications-messaging websockets real-time open-source nodejs"
       },
       {
         "id": "statuscake",
+        "name": "StatusCake",
         "slug": "statuscake",
-        "terms": [
-          "StatusCake",
-          "statuscake",
-          "Monitoreo uptime y páginas status",
-          "analytics",
-          "monitoring-uptime",
+        "description": "Monitoreo uptime y páginas status",
+        "category": "analytics",
+        "subcategory": "monitoring-uptime",
+        "tags": [
           "monitoring",
           "uptime",
           "status-pages"
-        ]
+        ],
+        "url": "https://statuscake.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "statuscake statuscake monitoreo uptime y páginas status analytics monitoring-uptime monitoring uptime status-pages"
       },
       {
         "id": "svix",
+        "name": "Svix",
         "slug": "svix",
-        "terms": [
-          "Svix",
-          "svix",
-          "Webhooks as a Service 50k msgs/mes",
-          "email",
-          "notifications-messaging",
+        "description": "Webhooks as a Service 50k msgs/mes",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "webhooks",
           "api",
           "messaging",
           "integration"
-        ]
+        ],
+        "url": "https://www.svix.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "svix svix webhooks as a service 50k msgs/mes email notifications-messaging webhooks api messaging integration"
       },
       {
         "id": "tawk-to",
+        "name": "Tawk.to",
         "slug": "tawk-to",
-        "terms": [
-          "Tawk.to",
-          "tawk-to",
-          "Chat en vivo 100% gratuito ilimitado",
-          "email",
-          "chat-support",
+        "description": "Chat en vivo 100% gratuito ilimitado",
+        "category": "email",
+        "subcategory": "chat-support",
+        "tags": [
           "chat",
           "support",
           "live-chat",
           "free"
-        ]
+        ],
+        "url": "https://www.tawk.to",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "tawk.to tawk-to chat en vivo 100% gratuito ilimitado email chat-support chat support live-chat free"
       },
       {
         "id": "twilio",
+        "name": "Twilio",
         "slug": "twilio",
-        "terms": [
-          "Twilio",
-          "twilio",
-          "API para SMS y WhatsApp empresarial",
-          "email",
-          "notifications-messaging",
+        "description": "API para SMS y WhatsApp empresarial",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "sms",
           "whatsapp",
           "api",
           "communication"
-        ]
+        ],
+        "url": "https://www.twilio.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "twilio twilio api para sms y whatsapp empresarial email notifications-messaging sms whatsapp api communication"
       },
       {
         "id": "uptime-robot",
+        "name": "Uptime Robot",
         "slug": "uptime-robot",
-        "terms": [
-          "Uptime Robot",
-          "uptime-robot",
-          "Monitoreo uptime 50 monitors gratis",
-          "analytics",
-          "monitoring-uptime",
+        "description": "Monitoreo uptime 50 monitors gratis",
+        "category": "analytics",
+        "subcategory": "monitoring-uptime",
+        "tags": [
           "monitoring",
           "uptime",
           "alerts",
           "free"
-        ]
+        ],
+        "url": "https://uptimerobot.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "uptime robot uptime-robot monitoreo uptime 50 monitors gratis analytics monitoring-uptime monitoring uptime alerts free"
       },
       {
         "id": "vonage",
+        "name": "Vonage",
         "slug": "vonage",
-        "terms": [
-          "Vonage",
-          "vonage",
-          "API SMS global con verificación",
-          "email",
-          "notifications-messaging",
+        "description": "API SMS global con verificación",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "sms",
           "verification",
           "api",
           "global"
-        ]
+        ],
+        "url": "https://vonage.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "vonage vonage api sms global con verificación email notifications-messaging sms verification api global"
       },
       {
         "id": "web-check",
+        "name": "Web-Check",
         "slug": "web-check",
-        "terms": [
-          "Web-Check",
-          "web-check",
-          "Comprobar seguridad web",
-          "analytics",
-          "seo-tools",
+        "description": "Comprobar seguridad web",
+        "category": "analytics",
+        "subcategory": "seo-tools",
+        "tags": [
           "seo",
           "security",
           "audit",
           "free"
-        ]
+        ],
+        "url": "https://web-check.xyz",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "web-check web-check comprobar seguridad web analytics seo-tools seo security audit free"
       },
       {
         "id": "whatsapp-business-platform-web",
+        "name": "whatsapp-business-platform-web",
         "slug": "whatsapp-business-platform-web",
-        "terms": [
-          "whatsapp-business-platform-web",
-          "API oficial de WhatsApp Business",
+        "description": "API oficial de WhatsApp Business",
+        "category": "email",
+        "subcategory": "notifications-messaging",
+        "tags": [
           "email",
           "notifications-messaging",
           "y-email-comunicacia-n",
-          "notificaciones-messaging"
-        ]
+          "notificaciones-messaging",
+          "whatsapp-business-platform-web"
+        ],
+        "url": "https://whatsappbusiness.com/products/business-platform/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "whatsapp-business-platform-web whatsapp-business-platform-web api oficial de whatsapp business email notifications-messaging email notifications-messaging y-email-comunicacia-n notificaciones-messaging whatsapp-business-platform-web"
       },
       {
         "id": "worldmonitor",
+        "name": "WorldMonitor",
         "slug": "worldmonitor",
-        "terms": [
-          "WorldMonitor",
-          "worldmonitor",
-          "Monitor estado mundial",
-          "analytics",
-          "seo-tools",
+        "description": "Monitor estado mundial",
+        "category": "analytics",
+        "subcategory": "seo-tools",
+        "tags": [
           "monitoring",
           "global",
           "status"
-        ]
+        ],
+        "url": "https://worldmonitor.app",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "worldmonitor worldmonitor monitor estado mundial analytics seo-tools monitoring global status"
       },
       {
         "id": "wp-rocket",
+        "name": "WP-Rocket",
         "slug": "wp-rocket",
-        "terms": [
-          "WP-Rocket",
-          "wp-rocket",
-          "Optimizar SEO y rendimiento web",
-          "analytics",
-          "seo-tools",
+        "description": "Optimizar SEO y rendimiento web",
+        "category": "analytics",
+        "subcategory": "seo-tools",
+        "tags": [
           "seo",
           "performance",
           "wordpress",
           "caching"
-        ]
+        ],
+        "url": "https://wp-rocket.me",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "wp-rocket wp-rocket optimizar seo y rendimiento web analytics seo-tools seo performance wordpress caching"
       },
       {
         "id": "zendesk",
+        "name": "Zendesk",
         "slug": "zendesk",
-        "terms": [
-          "Zendesk",
-          "zendesk",
-          "Soporte y ticketing 1 agente",
-          "email",
-          "chat-support",
+        "description": "Soporte y ticketing 1 agente",
+        "category": "email",
+        "subcategory": "chat-support",
+        "tags": [
           "support",
           "ticketing",
           "helpdesk",
           "crm"
-        ]
+        ],
+        "url": "https://www.zendesk.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "zendesk zendesk soporte y ticketing 1 agente email chat-support support ticketing helpdesk crm"
       }
     ]
   },

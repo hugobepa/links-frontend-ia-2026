@@ -4,7 +4,7 @@
       "id": "game-dev",
       "name": "Game Dev",
       "slug": "game-dev",
-      "resourceCount": 8,
+      "resourceCount": 27,
       "status": "active"
     },
     {
@@ -18,7 +18,7 @@
       "id": "payments",
       "name": "Payments",
       "slug": "payments",
-      "resourceCount": 78,
+      "resourceCount": 98,
       "status": "active"
     }
   ],
@@ -28,7 +28,7 @@
       "name": "Engines",
       "slug": "engines",
       "category": "game-dev",
-      "resourceCount": 8,
+      "resourceCount": 27,
       "status": "active"
     },
     {
@@ -44,7 +44,7 @@
       "name": "Jobs",
       "slug": "jobs",
       "category": "payments",
-      "resourceCount": 76,
+      "resourceCount": 96,
       "status": "active"
     },
     {
@@ -3186,6 +3186,1306 @@
       "limits": "Gratis para desarrolladores",
       "added": "2026-01-10",
       "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "skool-com",
+      "name": "skool-com",
+      "slug": "skool-com",
+      "description": "Recurso técnico",
+      "url": "https://www.skool.com/firstai/about",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "monetization"
+      ],
+      "searchIndex": [
+        "skool-com",
+        "skool-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "jobs",
+        "monetization"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "skillsmp-com",
+      "name": "skillsmp-com",
+      "slug": "skillsmp-com",
+      "description": "Recurso técnico",
+      "url": "https://skillsmp.com",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "monetization"
+      ],
+      "searchIndex": [
+        "skillsmp-com",
+        "skillsmp-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "jobs",
+        "monetization"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "lean",
+      "name": "Lean",
+      "slug": "lean",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/QuantConnect/Lean/",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "Lean",
+        "lean",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "project-ideas",
+      "name": "project-ideas",
+      "slug": "project-ideas",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/florinpop17/project-ideas",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "project-ideas",
+        "project-ideas",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ai-job-search",
+      "name": "ai-job-search",
+      "slug": "ai-job-search",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "ai-job-search",
+        "ai-job-search",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "unity-fluid-simulation",
+      "name": "unity-fluid-simulation",
+      "slug": "unity-fluid-simulation",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/aren227/unity-fluid-simulation",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "unity-fluid-simulation",
+        "unity-fluid-simulation",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "masfactory",
+      "name": "MASFactory",
+      "slug": "masfactory",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/BUPT-GAMMA/MASFactory",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "MASFactory",
+        "masfactory",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "startup-skill",
+      "name": "startup-skill",
+      "slug": "startup-skill",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ferdinandobons/startup-skill",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "startup-skill",
+        "startup-skill",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "cactus",
+      "name": "cactus",
+      "slug": "cactus",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/cactus-compute/cactus",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "cactus",
+        "cactus",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "developers-googleblog-com",
+      "name": "developers-googleblog-com",
+      "slug": "developers-googleblog-com",
+      "description": "Recurso técnico",
+      "url": "https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk/",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "monetization"
+      ],
+      "searchIndex": [
+        "developers-googleblog-com",
+        "developers-googleblog-com",
+        "Recurso técnico",
+        "payments",
+        "jobs",
+        "jobs",
+        "monetization"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "polymarket-bot",
+      "name": "Polymarket-bot",
+      "slug": "polymarket-bot",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/MrFadiAi/Polymarket-bot",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "Polymarket-bot",
+        "polymarket-bot",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ai-resume-analyzer",
+      "name": "ai-resume-analyzer",
+      "slug": "ai-resume-analyzer",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/adrianhajdin/ai-resume-analyzer",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "ai-resume-analyzer",
+        "ai-resume-analyzer",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "all-3r-slam-in-this-repo",
+      "name": "All-3R-SLAM-in-this-Repo",
+      "slug": "all-3r-slam-in-this-repo",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/3D-Vision-World/All-3R-SLAM-in-this-Repo",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "All-3R-SLAM-in-this-Repo",
+        "all-3r-slam-in-this-repo",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "solo-founder-superpowers",
+      "name": "solo-founder-superpowers",
+      "slug": "solo-founder-superpowers",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/whawkinsiv/solo-founder-superpowers",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "solo-founder-superpowers",
+        "solo-founder-superpowers",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "robocrew",
+      "name": "RoboCrew",
+      "slug": "robocrew",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Grigorij-Dudnik/RoboCrew",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "RoboCrew",
+        "robocrew",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "chatgarment",
+      "name": "ChatGarment",
+      "slug": "chatgarment",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/biansy000/ChatGarment",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "ChatGarment",
+        "chatgarment",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "algorithmvisualizer",
+      "name": "AlgorithmVisualizer",
+      "slug": "algorithmvisualizer",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/TamimEhsan/AlgorithmVisualizer",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "AlgorithmVisualizer",
+        "algorithmvisualizer",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "personalive",
+      "name": "PersonaLive",
+      "slug": "personalive",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/GVCLab/PersonaLive",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "PersonaLive",
+        "personalive",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "vibearound",
+      "name": "VibeAround",
+      "slug": "vibearound",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/jazzenchen/VibeAround",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "VibeAround",
+        "vibearound",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ai-avatar-system",
+      "name": "ai-avatar-system",
+      "slug": "ai-avatar-system",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/PunithVT/ai-avatar-system",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "ai-avatar-system",
+        "ai-avatar-system",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "sysmocap",
+      "name": "SysMocap",
+      "slug": "sysmocap",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/xianfei/SysMocap",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "SysMocap",
+        "sysmocap",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "openhuman",
+      "name": "openhuman",
+      "slug": "openhuman",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "openhuman",
+        "openhuman",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "finance-skills",
+      "name": "finance-skills",
+      "slug": "finance-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/himself65/finance-skills",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "finance-skills",
+        "finance-skills",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "machine-learning-for-trading",
+      "name": "machine-learning-for-trading",
+      "slug": "machine-learning-for-trading",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "machine-learning-for-trading",
+        "machine-learning-for-trading",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "roboos",
+      "name": "RoboOS",
+      "slug": "roboos",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/FlagOpen/RoboOS",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "RoboOS",
+        "roboos",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "freqtrade",
+      "name": "freqtrade",
+      "slug": "freqtrade",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/freqtrade/freqtrade",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "freqtrade",
+        "freqtrade",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "abot-manipulation",
+      "name": "ABot-Manipulation",
+      "slug": "abot-manipulation",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/amap-cvlab/ABot-Manipulation",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "ABot-Manipulation",
+        "abot-manipulation",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "quantdinger",
+      "name": "QuantDinger",
+      "slug": "quantdinger",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/brokermr810/QuantDinger",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "QuantDinger",
+        "quantdinger",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ai-marketing-claude",
+      "name": "ai-marketing-claude",
+      "slug": "ai-marketing-claude",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/zubair-trabzada/ai-marketing-claude",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "ai-marketing-claude",
+        "ai-marketing-claude",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "quant-mind",
+      "name": "quant-mind",
+      "slug": "quant-mind",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/LLMQuant/quant-mind",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "quant-mind",
+        "quant-mind",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "tradingagents",
+      "name": "TradingAgents",
+      "slug": "tradingagents",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "TradingAgents",
+        "tradingagents",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "robotics-coursework",
+      "name": "robotics-coursework",
+      "slug": "robotics-coursework",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/mithi/robotics-coursework",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "robotics-coursework",
+        "robotics-coursework",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "autojobapplierlinkedin",
+      "name": "AutojobapplierlinkedIn",
+      "slug": "autojobapplierlinkedin",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/GodsScion/Auto_job_applier_linkedIn",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "AutojobapplierlinkedIn",
+        "autojobapplierlinkedin",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "liveavatar",
+      "name": "LiveAvatar",
+      "slug": "liveavatar",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Alibaba-Quark/LiveAvatar",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "LiveAvatar",
+        "liveavatar",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "polymarket-btc-15-minute-trading-bot",
+      "name": "Polymarket-BTC-15-Minute-Trading-Bot",
+      "slug": "polymarket-btc-15-minute-trading-bot",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/aulekator/Polymarket-BTC-15-Minute-Trading-Bot",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "Polymarket-BTC-15-Minute-Trading-Bot",
+        "polymarket-btc-15-minute-trading-bot",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-finance-skills",
+      "name": "Awesome-finance-skills",
+      "slug": "awesome-finance-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/RKiding/Awesome-finance-skills",
+      "status": "active",
+      "tags": [
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "searchIndex": [
+        "Awesome-finance-skills",
+        "awesome-finance-skills",
+        "Repositorio GitHub",
+        "payments",
+        "jobs",
+        "monetization",
+        "jobs",
+        "github"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-humanoid-robot-learning",
+      "name": "awesome-humanoid-robot-learning",
+      "slug": "awesome-humanoid-robot-learning",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/YanjieZe/awesome-humanoid-robot-learning",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "awesome-humanoid-robot-learning",
+        "awesome-humanoid-robot-learning",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "manimml",
+      "name": "ManimML",
+      "slug": "manimml",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/helblazer811/ManimML",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "ManimML",
+        "manimml",
+        "Repositorio GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "michiganrobotics",
+      "name": "michiganrobotics",
+      "slug": "michiganrobotics",
+      "description": "Organización Michigan Robotics GitHub",
+      "url": "https://github.com/michiganrobotics",
+      "status": "active",
+      "tags": [
+        "game-dev",
+        "3d",
+        "github",
+        "engines"
+      ],
+      "searchIndex": [
+        "michiganrobotics",
+        "michiganrobotics",
+        "Organización Michigan Robotics GitHub",
+        "game-dev",
+        "engines",
+        "game-dev",
+        "3d",
+        "github"
+      ],
+      "category": "game-dev",
+      "subcategory": "engines",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
       "noCreditCard": true
     }
   ]

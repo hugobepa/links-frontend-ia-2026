@@ -11,14 +11,14 @@
       "id": "education-learning",
       "name": "Education Learning",
       "slug": "education-learning",
-      "resourceCount": 443,
+      "resourceCount": 647,
       "status": "active"
     },
     {
       "id": "security-vpn",
       "name": "Security Vpn",
       "slug": "security-vpn",
-      "resourceCount": 48,
+      "resourceCount": 53,
       "status": "active"
     }
   ],
@@ -52,7 +52,7 @@
       "name": "Programming Courses",
       "slug": "programming-courses",
       "category": "education-learning",
-      "resourceCount": 443,
+      "resourceCount": 647,
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
       "name": "Security Auth",
       "slug": "security-auth",
       "category": "security-vpn",
-      "resourceCount": 35,
+      "resourceCount": 40,
       "status": "active"
     },
     {
@@ -5575,9 +5575,9 @@
       "noCreditCard": false
     },
     {
-      "id": "dev-to",
+      "id": "dev-to-2",
       "name": "Dev.to",
-      "slug": "dev-to",
+      "slug": "dev-to-2",
       "description": "Comunidad y blog para desarrolladores co",
       "url": "https://dev.to",
       "status": "active",
@@ -5589,7 +5589,7 @@
       ],
       "searchIndex": [
         "Dev.to",
-        "dev-to",
+        "dev-to-2",
         "Comunidad y blog para desarrolladores con artículos",
         "education-learning",
         "programming-courses",
@@ -10207,9 +10207,9 @@
       "noCreditCard": false
     },
     {
-      "id": "medusa",
+      "id": "medusa-2",
       "name": "medusa",
-      "slug": "medusa",
+      "slug": "medusa-2",
       "description": "Repositorio GitHub",
       "url": "https://github.com/Pantheon-Security/medusa.git",
       "status": "active",
@@ -10220,7 +10220,7 @@
         "medusa"
       ],
       "searchIndex": [
-        "medusa",
+        "medusa-2",
         "Repositorio GitHub",
         "education-learning",
         "programming-courses",
@@ -11056,9 +11056,9 @@
       "noCreditCard": false
     },
     {
-      "id": "neon-database",
+      "id": "neon-database-2",
       "name": "Neon Database",
-      "slug": "neon-database",
+      "slug": "neon-database-2",
       "description": "Neon postgres",
       "url": "https://www.youtube.com/@neondatabase",
       "status": "active",
@@ -11070,7 +11070,7 @@
       ],
       "searchIndex": [
         "Neon Database",
-        "neon-database",
+        "neon-database-2",
         "Neon postgres",
         "education-learning",
         "programming-courses",
@@ -11410,9 +11410,9 @@
       "noCreditCard": false
     },
     {
-      "id": "noir",
+      "id": "noir-2",
       "name": "noir",
-      "slug": "noir",
+      "slug": "noir-2",
       "description": "Repositorio GitHub",
       "url": "https://github.com/owasp-noir/noir",
       "status": "active",
@@ -11424,7 +11424,7 @@
         "noir"
       ],
       "searchIndex": [
-        "noir",
+        "noir-2",
         "Repositorio GitHub",
         "security-vpn",
         "security-auth",
@@ -11912,9 +11912,9 @@
       "noCreditCard": false
     },
     {
-      "id": "opencti",
+      "id": "opencti-2",
       "name": "opencti",
-      "slug": "opencti",
+      "slug": "opencti-2",
       "description": "Repo de seguridad",
       "url": "https://github.com/OpenCTI-Platform/opencti",
       "status": "active",
@@ -11926,7 +11926,7 @@
         "opencti"
       ],
       "searchIndex": [
-        "opencti",
+        "opencti-2",
         "Repo de seguridad",
         "security-vpn",
         "security-auth",
@@ -12551,9 +12551,9 @@
       "noCreditCard": false
     },
     {
-      "id": "pentest-ai-agents",
+      "id": "pentest-ai-agents-2",
       "name": "pentest-ai-agents",
-      "slug": "pentest-ai-agents",
+      "slug": "pentest-ai-agents-2",
       "description": "Repositorio GitHub",
       "url": "https://github.com/0xSteph/pentest-ai-agents.git",
       "status": "active",
@@ -12564,7 +12564,7 @@
         "pentest-ai-agents"
       ],
       "searchIndex": [
-        "pentest-ai-agents",
+        "pentest-ai-agents-2",
         "Repositorio GitHub",
         "education-learning",
         "programming-courses",
@@ -14306,9 +14306,9 @@
       "noCreditCard": false
     },
     {
-      "id": "sql-is-easy",
+      "id": "sql-is-easy-2",
       "name": "Sql Is Easy",
-      "slug": "sql-is-easy",
+      "slug": "sql-is-easy-2",
       "description": "SQL y postgres",
       "url": "https://www.sqliseasy.com",
       "status": "active",
@@ -14321,7 +14321,7 @@
       ],
       "searchIndex": [
         "Sql Is Easy",
-        "sql-is-easy",
+        "sql-is-easy-2",
         "SQL y postgres",
         "education-learning",
         "programming-courses",
@@ -14412,9 +14412,9 @@
       "noCreditCard": false
     },
     {
-      "id": "sql-university",
+      "id": "sql-university-2",
       "name": "SQL University",
-      "slug": "sql-university",
+      "slug": "sql-university-2",
       "description": "SQL, Postgres y SQL server",
       "url": "https://www.youtube.com/@SQLUniversity",
       "status": "active",
@@ -14426,7 +14426,7 @@
       ],
       "searchIndex": [
         "SQL University",
-        "sql-university",
+        "sql-university-2",
         "SQL, Postgres y SQL server",
         "education-learning",
         "programming-courses",
@@ -16203,9 +16203,9 @@
       "noCreditCard": false
     },
     {
-      "id": "web-dev",
+      "id": "web-dev-2",
       "name": "Web.dev",
-      "slug": "web-dev",
+      "slug": "web-dev-2",
       "description": "Guías de Google para desarrollo web mod",
       "url": "https://web.dev",
       "status": "active",
@@ -16217,7 +16217,7 @@
       ],
       "searchIndex": [
         "Web.dev",
-        "web-dev",
+        "web-dev-2",
         "Guías de Google para desarrollo web moderno y mejores prácticas",
         "education-learning",
         "programming-courses",
@@ -16893,9 +16893,9 @@
       "noCreditCard": false
     },
     {
-      "id": "youtube-video-2",
+      "id": "youtube-video-2-2",
       "name": "youtube-video-2",
-      "slug": "youtube-video-2",
+      "slug": "youtube-video-2-2",
       "description": "LangChain Official – Videos 2025 (lista",
       "url": "https://www.youtube.com/results?search_query=LangChain+2025+tutorial",
       "status": "active",
@@ -16906,7 +16906,7 @@
         "youtube-video-2"
       ],
       "searchIndex": [
-        "youtube-video-2",
+        "youtube-video-2-2",
         "LangChain Official – Videos 2025 (lista",
         "education-learning",
         "programming-courses",
@@ -16925,9 +16925,9 @@
       "noCreditCard": false
     },
     {
-      "id": "youtube-video-3",
+      "id": "youtube-video-3-2",
       "name": "youtube-video-3",
-      "slug": "youtube-video-3",
+      "slug": "youtube-video-3-2",
       "description": "Stanford CS25 – Grabaciones sueltas de 2",
       "url": "https://www.youtube.com/@stanfordonline/search?query=CS25%202025",
       "status": "active",
@@ -16938,7 +16938,7 @@
         "youtube-video-3"
       ],
       "searchIndex": [
-        "youtube-video-3",
+        "youtube-video-3-2",
         "Stanford CS25 – Grabaciones sueltas de 2",
         "education-learning",
         "programming-courses",
@@ -16987,6 +16987,7155 @@
       "added": "2026-05-25",
       "verified": true,
       "noCreditCard": false
+    },
+    {
+      "id": "dailydoseofds-github-io",
+      "name": "dailydoseofds-github-io",
+      "slug": "dailydoseofds-github-io",
+      "description": "Recurso técnico",
+      "url": "https://dailydoseofds.github.io/ai-engg-book/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "dailydoseofds-github-io",
+        "dailydoseofds-github-io",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-org-2",
+      "name": "arxiv-org",
+      "slug": "arxiv-org-2",
+      "description": "Paper y recurso de investigación",
+      "url": "https://arxiv.org/pdf/2408.13296",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "arxiv-org-2",
+        "arxiv-org",
+        "Paper y recurso de investigación",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "hermes-agent-nousresearch-com",
+      "name": "hermes-agent-nousresearch-com",
+      "slug": "hermes-agent-nousresearch-com",
+      "description": "Recurso técnico",
+      "url": "https://hermes-agent.nousresearch.com/desktop",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "hermes-agent-nousresearch-com",
+        "hermes-agent-nousresearch-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "justinmath-com",
+      "name": "justinmath-com",
+      "slug": "justinmath-com",
+      "description": "Recurso técnico",
+      "url": "https://justinmath.com/files/introduction-to-algorithms-and-machine-learning.pdf",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "justinmath-com",
+        "justinmath-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "sebastianraschka-com",
+      "name": "sebastianraschka-com",
+      "slug": "sebastianraschka-com",
+      "description": "Recurso técnico",
+      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "sebastianraschka-com",
+        "sebastianraschka-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "drive-google-com-2-2",
+      "name": "drive-google-com-2",
+      "slug": "drive-google-com-2-2",
+      "description": "Recurso técnico",
+      "url": "https://drive.google.com/file/d/1949IkidExSJSLj091OO30eUQOAahptf8/view",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "drive-google-com-2-2",
+        "drive-google-com-2",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "sci-bot-ru",
+      "name": "sci-bot-ru",
+      "slug": "sci-bot-ru",
+      "description": "Recurso técnico",
+      "url": "https://sci-bot.ru/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "sci-bot-ru",
+        "sci-bot-ru",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "blink-new",
+      "name": "blink-new",
+      "slug": "blink-new",
+      "description": "Recurso técnico",
+      "url": "https://blink.new/es-ES",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "blink-new",
+        "blink-new",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "x-ai",
+      "name": "x-ai",
+      "slug": "x-ai",
+      "description": "Recurso técnico",
+      "url": "https://x.ai/cli",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "x-ai",
+        "x-ai",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-org-2-2",
+      "name": "arxiv-org-2",
+      "slug": "arxiv-org-2-2",
+      "description": "Paper y recurso de investigación",
+      "url": "https://arxiv.org/html/2602.24286v1",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "arxiv-org-2-2",
+        "arxiv-org-2",
+        "Paper y recurso de investigación",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ssrn-com",
+      "name": "ssrn-com",
+      "slug": "ssrn-com",
+      "description": "Recurso técnico",
+      "url": "https://ssrn.com/sol3/papers.cfm?abstract_id=6372438",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "ssrn-com",
+        "ssrn-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "gitreverse-com",
+      "name": "gitreverse-com",
+      "slug": "gitreverse-com",
+      "description": "Recurso técnico",
+      "url": "https://www.gitreverse.com/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "gitreverse-com",
+        "gitreverse-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "gitreverse-com-2",
+      "name": "gitreverse-com-2",
+      "slug": "gitreverse-com-2",
+      "description": "Recurso técnico",
+      "url": "https://www.gitreverse.com/unslothai/unsloth",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "gitreverse-com-2",
+        "gitreverse-com-2",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "docs-devin-ai",
+      "name": "docs-devin-ai",
+      "slug": "docs-devin-ai",
+      "description": "Recurso técnico",
+      "url": "https://docs.devin.ai/es/work-with-devin/deepwiki",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "docs-devin-ai",
+        "docs-devin-ai",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "openai-com",
+      "name": "openai-com",
+      "slug": "openai-com",
+      "description": "Recurso técnico",
+      "url": "https://openai.com/es-ES/form/codex-for-oss/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "openai-com",
+        "openai-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-org-3-2",
+      "name": "arxiv-org-3",
+      "slug": "arxiv-org-3-2",
+      "description": "Paper y recurso de investigación",
+      "url": "https://arxiv.org/abs/2511.18538",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "arxiv-org-3-2",
+        "arxiv-org-3",
+        "Paper y recurso de investigación",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "together-ai",
+      "name": "together-ai",
+      "slug": "together-ai",
+      "description": "Recurso técnico",
+      "url": "https://Together.ai",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "together-ai",
+        "together-ai",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "docs-factory-ai",
+      "name": "docs-factory-ai",
+      "slug": "docs-factory-ai",
+      "description": "Recurso técnico",
+      "url": "https://docs.factory.ai/cli/byok/overview",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "docs-factory-ai",
+        "docs-factory-ai",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "platform-openai-com",
+      "name": "platform-openai-com",
+      "slug": "platform-openai-com",
+      "description": "Recurso técnico",
+      "url": "https://platform.openai.com/settings/organization/data-controls/visibility",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "platform-openai-com",
+        "platform-openai-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-org-4-2",
+      "name": "arxiv-org-4",
+      "slug": "arxiv-org-4-2",
+      "description": "Paper y recurso de investigación",
+      "url": "https://arxiv.org/pdf/2312.17279",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "arxiv-org-4-2",
+        "arxiv-org-4",
+        "Paper y recurso de investigación",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "walkinglabs-github-io",
+      "name": "walkinglabs-github-io",
+      "slug": "walkinglabs-github-io",
+      "description": "Recurso técnico",
+      "url": "https://walkinglabs.github.io/learn-harness-engineering/en/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "walkinglabs-github-io",
+        "walkinglabs-github-io",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "pdos-csail-mit-edu",
+      "name": "pdos-csail-mit-edu",
+      "slug": "pdos-csail-mit-edu",
+      "description": "Recurso técnico",
+      "url": "https://pdos.csail.mit.edu/6.828/2025/xv6/book-riscv-rev5.pdf",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "pdos-csail-mit-edu",
+        "pdos-csail-mit-edu",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "eurekalert-org",
+      "name": "eurekalert-org",
+      "slug": "eurekalert-org",
+      "description": "Recurso técnico",
+      "url": "https://www.eurekalert.org/news-releases/1130328",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "eurekalert-org",
+        "eurekalert-org",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "sei-cmu-edu",
+      "name": "sei-cmu-edu",
+      "slug": "sei-cmu-edu",
+      "description": "Recurso técnico",
+      "url": "https://sei.cmu.edu/blog/a-hitchhikers-guide-to-ml-training-infrastructure/",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "sei-cmu-edu",
+        "sei-cmu-edu",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "patterns-dev",
+      "name": "patterns-dev",
+      "slug": "patterns-dev",
+      "description": "Recurso técnico",
+      "url": "https://patterns.dev",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "patterns-dev",
+        "patterns-dev",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "mdpi-com",
+      "name": "mdpi-com",
+      "slug": "mdpi-com",
+      "description": "Recurso técnico",
+      "url": "https://www.mdpi.com/2076-328X/13/2/89",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "mdpi-com",
+        "mdpi-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "anthropic-com",
+      "name": "anthropic-com",
+      "slug": "anthropic-com",
+      "description": "Recurso técnico",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "anthropic-com",
+        "anthropic-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "magenta-withgoogle-com",
+      "name": "magenta-withgoogle-com",
+      "slug": "magenta-withgoogle-com",
+      "description": "Recurso técnico",
+      "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "magenta-withgoogle-com",
+        "magenta-withgoogle-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-org-5-2",
+      "name": "arxiv-org-5",
+      "slug": "arxiv-org-5-2",
+      "description": "Paper y recurso de investigación",
+      "url": "https://arxiv.org/abs/2605.08083",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "arxiv-org-5-2",
+        "arxiv-org-5",
+        "Paper y recurso de investigación",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ickma2311-github-io-2",
+      "name": "ickma2311-github-io",
+      "slug": "ickma2311-github-io-2",
+      "description": "Recurso técnico",
+      "url": "https://ickma2311.github.io/ML/HW-SW-codesign/efficient-ai-lecture-18-diffusion-models.html",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "ickma2311-github-io-2",
+        "ickma2311-github-io",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-org-6-2",
+      "name": "arxiv-org-6",
+      "slug": "arxiv-org-6-2",
+      "description": "Paper y recurso de investigación",
+      "url": "https://arxiv.org/abs/2606.04455",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "arxiv-org-6-2",
+        "arxiv-org-6",
+        "Paper y recurso de investigación",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "en-algorithmica-org",
+      "name": "en-algorithmica-org",
+      "slug": "en-algorithmica-org",
+      "description": "Recurso técnico",
+      "url": "https://en.algorithmica.org/hpc/cpu-cache/",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "en-algorithmica-org",
+        "en-algorithmica-org",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "direct-mit-edu",
+      "name": "direct-mit-edu",
+      "slug": "direct-mit-edu",
+      "description": "Recurso técnico",
+      "url": "https://direct.mit.edu/books/oa-monograph-pdf/2111075/book_9780262374026.pdf",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "direct-mit-edu",
+        "direct-mit-edu",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-stdz6pzoanw",
+      "name": "youtube-sTdz6PZoAnw",
+      "slug": "youtube-stdz6pzoanw",
+      "description": "Lecture 7: Agentic Cod 01:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=sTdz6PZoAnw",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-sTdz6PZoAnw",
+        "youtube-stdz6pzoanw",
+        "Lecture 7: Agentic Cod 01:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-2",
+      "name": "youtube-video",
+      "slug": "youtube-video-2",
+      "description": "Video/playlist YouTube 00:00 tutorial IA",
+      "url": "https://www.youtube.com/@MissingSemester",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-2",
+        "youtube-video",
+        "Video/playlist YouTube 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-sq3fz1saqxi",
+      "name": "youtube-SQ3fZ1sAqXI",
+      "slug": "youtube-sq3fz1saqxi",
+      "description": "Language Modeling from 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-SQ3fZ1sAqXI",
+        "youtube-sq3fz1saqxi",
+        "Language Modeling from 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-2-3",
+      "name": "youtube-video-2",
+      "slug": "youtube-video-2-3",
+      "description": "Fine-Tuning Qwen 3.5 f 00:00 tutorial IA",
+      "url": "https://youtu.be/ui1zR5Pc4Q8?is=1M_NH-y0rlldlbse",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-2-3",
+        "youtube-video-2",
+        "Fine-Tuning Qwen 3.5 f 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-3-3",
+      "name": "youtube-video-3",
+      "slug": "youtube-video-3-3",
+      "description": "How we Claude Code 00:00 tutorial IA",
+      "url": "https://youtu.be/IlqJqcl8ONE?is=9y9uLUqdqA_KI-5W",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-3-3",
+        "youtube-video-3",
+        "How we Claude Code 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-4-2",
+      "name": "youtube-video-4",
+      "slug": "youtube-video-4-2",
+      "description": "Tool, skill, or subage 00:00 tutorial IA",
+      "url": "https://youtu.be/mWvtOHlZM-I?is=4L28tAfZxnFTPpqT",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-4-2",
+        "youtube-video-4",
+        "Tool, skill, or subage 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-5-2",
+      "name": "youtube-video-5",
+      "slug": "youtube-video-5-2",
+      "description": "Video/playlist YouTube 00:00 tutorial IA",
+      "url": "https://www.youtube.com/@claude",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-5-2",
+        "youtube-video-5",
+        "Video/playlist YouTube 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-6-2",
+      "name": "youtube-video-6",
+      "slug": "youtube-video-6-2",
+      "description": "Video/playlist YouTube 00:00 tutorial IA",
+      "url": "https://youtu.be/mR-WAvEPRwE?is=krjkMKTPi93RxMxi",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-6-2",
+        "youtube-video-6",
+        "Video/playlist YouTube 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-mr-waveprwe",
+      "name": "youtube-mR-WAvEPRwE",
+      "slug": "youtube-mr-waveprwe",
+      "description": "Anthropic Workshop: Bui 1:15 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=mR-WAvEPRwE",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-mR-WAvEPRwE",
+        "youtube-mr-waveprwe",
+        "Anthropic Workshop: Bui 1:15 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-7",
+      "name": "youtube-video-7",
+      "slug": "youtube-video-7",
+      "description": "Video/playlist YouTube 00:00 tutorial IA",
+      "url": "https://www.youtube.com/@aidotengineer",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-7",
+        "youtube-video-7",
+        "Video/playlist YouTube 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-inarbp4t57q",
+      "name": "youtube-iNaRBp4T57Q",
+      "slug": "youtube-inarbp4t57q",
+      "description": "Stanford University: 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=iNaRBp4T57Q",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-iNaRBp4T57Q",
+        "youtube-inarbp4t57q",
+        "Stanford University: 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-7hehnmlzxou",
+      "name": "youtube-7hEhnmLZxoU",
+      "slug": "youtube-7hehnmlzxou",
+      "description": "MIT: Transmisión en 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=7hEhnmLZxoU",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-7hEhnmLZxoU",
+        "youtube-7hehnmlzxou",
+        "MIT: Transmisión en 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-egriormjpeq",
+      "name": "youtube-eGrIOrmJPeQ",
+      "slug": "youtube-egriormjpeq",
+      "description": "Anthropic: Founders Pl 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=eGrIOrmJPeQ",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-eGrIOrmJPeQ",
+        "youtube-egriormjpeq",
+        "Anthropic: Founders Pl 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-8zicp5wlshw",
+      "name": "youtube-8zIcP5WlShw",
+      "slug": "youtube-8zicp5wlshw",
+      "description": "Stanford: Conferencia 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=8zIcP5WlShw",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-8zIcP5WlShw",
+        "youtube-8zicp5wlshw",
+        "Stanford: Conferencia 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-gmiwm5y90xa",
+      "name": "youtube-GMIWm5y90xA",
+      "slug": "youtube-gmiwm5y90xa",
+      "description": "Video/playlist YouTube 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=GMIWm5y90xA",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-GMIWm5y90xA",
+        "youtube-gmiwm5y90xa",
+        "Video/playlist YouTube 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-jfdh7n6bal0",
+      "name": "youtube-jFdH7n6BAl0",
+      "slug": "youtube-jfdh7n6bal0",
+      "description": "Stanford: CS25 Transfo 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=jFdH7n6BAl0",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-jFdH7n6BAl0",
+        "youtube-jfdh7n6bal0",
+        "Stanford: CS25 Transfo 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-msgoeumqumu",
+      "name": "youtube-MSgoeuMqUmU",
+      "slug": "youtube-msgoeumqumu",
+      "description": "MITmissing semeter IA 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=MSgoeuMqUmU&list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-MSgoeuMqUmU",
+        "youtube-msgoeumqumu",
+        "MITmissing semeter IA 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-tr-cupw-ck",
+      "name": "youtube-tr-CUpw--ck",
+      "slug": "youtube-tr-cupw-ck",
+      "description": "stanford Diffusion & L 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=tr-CUpw--ck&list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-tr-CUpw--ck",
+        "youtube-tr-cupw-ck",
+        "stanford Diffusion & L 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-ub3gofaucds",
+      "name": "youtube-Ub3GoFaUcds",
+      "slug": "youtube-ub3gofaucds",
+      "description": "Stanford CME295 Transf 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=Ub3GoFaUcds&list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-Ub3GoFaUcds",
+        "youtube-ub3gofaucds",
+        "Stanford CME295 Transf 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-juovzkpbikk",
+      "name": "youtube-JuoVZkPBiKk",
+      "slug": "youtube-juovzkpbikk",
+      "description": "Modelado de lenguaje d 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=JuoVZkPBiKk&list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-JuoVZkPBiKk",
+        "youtube-juovzkpbikk",
+        "Modelado de lenguaje d 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-8gtpgwru0wg",
+      "name": "youtube-8gTpgWru0Wg",
+      "slug": "youtube-8gtpgwru0wg",
+      "description": "Desarrollando agentes 00:27 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=8gTpgWru0Wg&list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-8gTpgWru0Wg",
+        "youtube-8gtpgwru0wg",
+        "Desarrollando agentes 00:27 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-gmiwm5y90xa-2",
+      "name": "youtube-GMIWm5y90xA-2",
+      "slug": "youtube-gmiwm5y90xa-2",
+      "description": "Code with Claude 2026: 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=GMIWm5y90xA&list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-GMIWm5y90xA-2",
+        "youtube-gmiwm5y90xa-2",
+        "Code with Claude 2026: 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-6amlo7i9xdg",
+      "name": "youtube-6amLO7I9xdg",
+      "slug": "youtube-6amlo7i9xdg",
+      "description": "Code with Claude, Lond 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=6amLO7I9xdg&list=PLmWCw1CzcFilPJdvw6scjHjbBripZWFps",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-6amLO7I9xdg",
+        "youtube-6amlo7i9xdg",
+        "Code with Claude, Lond 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-yspbxh0lpie",
+      "name": "youtube-ysPbXH0LpIE",
+      "slug": "youtube-yspbxh0lpie",
+      "description": "ncitación 101 00:24 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=ysPbXH0LpIE",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-ysPbXH0LpIE",
+        "youtube-yspbxh0lpie",
+        "ncitación 101 00:24 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-gv0whhkelse",
+      "name": "youtube-gv0WHhKelSE",
+      "slug": "youtube-gv0whhkelse",
+      "description": "Mejores prácticas de C 00:26 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=gv0WHhKelSE",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-gv0WHhKelSE",
+        "youtube-gv0whhkelse",
+        "Mejores prácticas de C 00:26 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-19hdq9hppoa",
+      "name": "youtube-19HDQ9HppOA",
+      "slug": "youtube-19hdq9hppoa",
+      "description": "Lanza tu primer agente 00:40 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=19HDQ9HppOA",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-19HDQ9HppOA",
+        "youtube-19hdq9hppoa",
+        "Lanza tu primer agente 00:40 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-tdhl4knzrpo",
+      "name": "youtube-TdHl4kNZrPo",
+      "slug": "youtube-tdhl4knzrpo",
+      "description": "ómo crear y lanzar tu 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=TdHl4kNZrPo&list=PLlJHGGklthGmxhd7YaNplr5fk7iUb87B_",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-TdHl4kNZrPo",
+        "youtube-tdhl4knzrpo",
+        "ómo crear y lanzar tu 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-wpkmo6gvoe8",
+      "name": "youtube-WpkMO6gvoE8",
+      "slug": "youtube-wpkmo6gvoe8",
+      "description": "CS50 Beyond 2019 ESP 1 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=WpkMO6gvoE8&list=PLhQjrBD2T381Q6R1jRxgXknYO7VuTYPBI",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-WpkMO6gvoE8",
+        "youtube-wpkmo6gvoe8",
+        "CS50 Beyond 2019 ESP 1 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-eulnsxkhe7i",
+      "name": "youtube-eulnSXkhE7I",
+      "slug": "youtube-eulnsxkhe7i",
+      "description": "Git y GitHub - CS50 má 01:30 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=eulnSXkhE7I",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-eulnSXkhE7I",
+        "youtube-eulnsxkhe7i",
+        "Git y GitHub - CS50 má 01:30 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-ilu-zdu6aq0",
+      "name": "youtube-IlU-zDU6aQ0",
+      "slug": "youtube-ilu-zdu6aq0",
+      "description": "Marty Lobdell - Study 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=IlU-zDU6aQ0",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-IlU-zDU6aQ0",
+        "youtube-ilu-zdu6aq0",
+        "Marty Lobdell - Study 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-loidyl5fdb8",
+      "name": "youtube-LOIDYl5fdb8",
+      "slug": "youtube-loidyl5fdb8",
+      "description": "Perfeccionando un mode 01:09 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=LOIDYl5fdb8",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-LOIDYl5fdb8",
+        "youtube-loidyl5fdb8",
+        "Perfeccionando un mode 01:09 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-emfjsmlske",
+      "name": "youtube-\\EMfJSmLSKE",
+      "slug": "youtube-emfjsmlske",
+      "description": "End-to-End (small) Vis 01:12 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=_EMfJSmLSKE",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-\\EMfJSmLSKE",
+        "youtube-emfjsmlske",
+        "End-to-End (small) Vis 01:12 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-00ik9apnccg",
+      "name": "youtube-00IK9apncCg",
+      "slug": "youtube-00ik9apnccg",
+      "description": "Lets fine tune a Visio 01:12 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=00IK9apncCg",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-00IK9apncCg",
+        "youtube-00ik9apnccg",
+        "Lets fine tune a Visio 01:12 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-pofcwcwtv3k",
+      "name": "youtube-pOFcwcwtv3k",
+      "slug": "youtube-pofcwcwtv3k",
+      "description": "Build a Small Language 02:48 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=pOFcwcwtv3k",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-pOFcwcwtv3k",
+        "youtube-pofcwcwtv3k",
+        "Build a Small Language 02:48 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-ly8vmkrfvew",
+      "name": "youtube-lY8vmKrFVew",
+      "slug": "youtube-ly8vmkrfvew",
+      "description": "mplementar y entrenar 01:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=lY8vmKrFVew",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-lY8vmKrFVew",
+        "youtube-ly8vmkrfvew",
+        "mplementar y entrenar 01:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-ik6nbajxlk4",
+      "name": "youtube-Ik6nbAjxLk4",
+      "slug": "youtube-ik6nbajxlk4",
+      "description": "Fine tune Gemma 3, Qwe 01:21 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=Ik6nbAjxLk4",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-Ik6nbAjxLk4",
+        "youtube-ik6nbajxlk4",
+        "Fine tune Gemma 3, Qwe 01:21 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-00q0g84kq3m",
+      "name": "youtube-00Q0G84kq3M",
+      "slug": "youtube-00q0g84kq3m",
+      "description": "RAG vs. Fine Tuning EN 00:09 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=00Q0G84kq3M",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-00Q0G84kq3M",
+        "youtube-00q0g84kq3m",
+        "RAG vs. Fine Tuning EN 00:09 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-xvo3zshdvio",
+      "name": "youtube-XVO3zsHdvio",
+      "slug": "youtube-xvo3zshdvio",
+      "description": "Construya todo con age 00:40 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=XVO3zsHdvio",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-XVO3zsHdvio",
+        "youtube-xvo3zshdvio",
+        "Construya todo con age 00:40 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-uabbyexbd4k",
+      "name": "youtube-UabBYexBD4k",
+      "slug": "youtube-uabbyexbd4k",
+      "description": "s RAG Still Needed? Ch 00:11 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=UabBYexBD4k",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-UabBYexBD4k",
+        "youtube-uabbyexbd4k",
+        "s RAG Still Needed? Ch 00:11 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-8",
+      "name": "youtube-video-8",
+      "slug": "youtube-video-8",
+      "description": "IBM CANAL YOUTUBE 00:00 tutorial IA",
+      "url": "https://www.youtube.com/@IBMTechnology",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-8",
+        "youtube-video-8",
+        "IBM CANAL YOUTUBE 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-vsfuqmh4hus",
+      "name": "youtube-VSFuqMh4hus",
+      "slug": "youtube-vsfuqmh4hus",
+      "description": "RAG EXPLAINED ENG 20 C 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=VSFuqMh4hus&list=PLOspHqNVtKADc8E1JLd_kBBPdEBDdmwsR",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-VSFuqMh4hus",
+        "youtube-vsfuqmh4hus",
+        "RAG EXPLAINED ENG 20 C 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-7j1t3uza1ty",
+      "name": "youtube-7j1t3UZA1TY",
+      "slug": "youtube-7j1t3uza1ty",
+      "description": "MCP explined eng cap 1 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=7j1t3UZA1TY&list=PLOspHqNVtKAAY8UCxA15eIK3lgE9BLc4n",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-7j1t3UZA1TY",
+        "youtube-7j1t3uza1ty",
+        "MCP explined eng cap 1 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-kykzi3oj2w4",
+      "name": "youtube-kYkZI3oj2W4",
+      "slug": "youtube-kykzi3oj2w4",
+      "description": "AI fundamentals cpa 50 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=kYkZI3oj2W4&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-kYkZI3oj2W4",
+        "youtube-kykzi3oj2w4",
+        "AI fundamentals cpa 50 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-f8nkvhkzzwi",
+      "name": "youtube-F8NKVhkZZWI",
+      "slug": "youtube-f8nkvhkzzwi",
+      "description": "AI agents explined cap 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=F8NKVhkZZWI&list=PLOspHqNVtKAB6AzNie7BrFhbg4dv4Gfz8",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-F8NKVhkZZWI",
+        "youtube-f8nkvhkzzwi",
+        "AI agents explined cap 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-jb2p5gk23vi",
+      "name": "youtube-JB2P5Gk23VI",
+      "slug": "youtube-jb2p5gk23vi",
+      "description": "RAGs Evolution: From S 00:09 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=JB2P5Gk23VI",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-JB2P5Gk23VI",
+        "youtube-jb2p5gk23vi",
+        "RAGs Evolution: From S 00:09 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-uasd9poiclg",
+      "name": "youtube-uAsd9pOIcLg",
+      "slug": "youtube-uasd9poiclg",
+      "description": "Qué es RAG? - Clase co 00:40 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=uAsd9pOIcLg",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-uAsd9pOIcLg",
+        "youtube-uasd9poiclg",
+        "Qué es RAG? - Clase co 00:40 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-56efnigy0k",
+      "name": "youtube--56EfNIGy0k",
+      "slug": "youtube-56efnigy0k",
+      "description": "Cómo evitar que la IA 00:35 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=-56EfNIGy0k",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube--56EfNIGy0k",
+        "youtube-56efnigy0k",
+        "Cómo evitar que la IA 00:35 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-mg3xowwaf0c",
+      "name": "youtube-Mg3xOWWaF0c",
+      "slug": "youtube-mg3xowwaf0c",
+      "description": "Crear una RAG App Efic 00:33 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=Mg3xOWWaF0c",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-Mg3xOWWaF0c",
+        "youtube-mg3xowwaf0c",
+        "Crear una RAG App Efic 00:33 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-9wnwqgmus14",
+      "name": "youtube-9WNWqGmuS14",
+      "slug": "youtube-9wnwqgmus14",
+      "description": "RAG ESTRUCTURADO DE VE 01:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=9WNWqGmuS14",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-9WNWqGmuS14",
+        "youtube-9wnwqgmus14",
+        "RAG ESTRUCTURADO DE VE 01:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-swvzksoeluc",
+      "name": "youtube-swvzKSOEluc",
+      "slug": "youtube-swvzksoeluc",
+      "description": "urso intensivo de RAG 00:58 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=swvzKSOEluc",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-swvzKSOEluc",
+        "youtube-swvzksoeluc",
+        "urso intensivo de RAG 00:58 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-hucixt1v0wu",
+      "name": "youtube-HUcIxt1v0wU",
+      "slug": "youtube-hucixt1v0wu",
+      "description": "LangChain: Domina los 00:43 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=HUcIxt1v0wU",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-HUcIxt1v0wU",
+        "youtube-hucixt1v0wu",
+        "LangChain: Domina los 00:43 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-ezdiolbuswg",
+      "name": "youtube-ezdIOLbUSWg",
+      "slug": "youtube-ezdiolbuswg",
+      "description": "fino del LLM explicado 07:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=ezdIOLbUSWg",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-ezdIOLbUSWg",
+        "youtube-ezdiolbuswg",
+        "fino del LLM explicado 07:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-iivoro248zs",
+      "name": "youtube-IIvORO248Zs",
+      "slug": "youtube-iivoro248zs",
+      "description": "Curso intensivo de aju 00:53 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=IIvORO248Zs",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-IIvORO248Zs",
+        "youtube-iivoro248zs",
+        "Curso intensivo de aju 00:53 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-ec6hd1hfvos",
+      "name": "youtube-eC6Hd1hFvos",
+      "slug": "youtube-ec6hd1hfvos",
+      "description": "juste fino de modelos 00:28 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=eC6Hd1hFvos",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-eC6Hd1hFvos",
+        "youtube-ec6hd1hfvos",
+        "juste fino de modelos 00:28 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-t1cadsmzwbk",
+      "name": "youtube-t1caDsMzWBk",
+      "slug": "youtube-t1cadsmzwbk",
+      "description": "loRA & QLoRA Fine-tuni 00:15 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=t1caDsMzWBk",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-t1caDsMzWBk",
+        "youtube-t1cadsmzwbk",
+        "loRA & QLoRA Fine-tuni 00:15 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-ctb29uxzis8",
+      "name": "youtube-Ctb29UxzIS8",
+      "slug": "youtube-ctb29uxzis8",
+      "description": "ajustar cualquier mode 00:16 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=Ctb29UxzIS8",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-Ctb29UxzIS8",
+        "youtube-ctb29uxzis8",
+        "ajustar cualquier mode 00:16 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-pu3-pebg0yu",
+      "name": "youtube-pu3-PeBG0YU",
+      "slug": "youtube-pu3-pebg0yu",
+      "description": "ne Tuning Large Langua 08:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=pu3-PeBG0YU",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-pu3-PeBG0YU",
+        "youtube-pu3-pebg0yu",
+        "ne Tuning Large Langua 08:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-wxh6qnsfaq",
+      "name": "youtube-Wxh6qNSfAQ",
+      "slug": "youtube-wxh6qnsfaq",
+      "description": "Fine-Tuning Local LLMs 00:22 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=W_xh6qNSfAQ",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-Wxh6qNSfAQ",
+        "youtube-wxh6qnsfaq",
+        "Fine-Tuning Local LLMs 00:22 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-87ag24kwvm8",
+      "name": "youtube-87aG24KWvM8",
+      "slug": "youtube-87ag24kwvm8",
+      "description": "Gemma con LoRA en Goog 00:04 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=87aG24KWvM8",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-87aG24KWvM8",
+        "youtube-87ag24kwvm8",
+        "Gemma con LoRA en Goog 00:04 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-bq9zqtjdsjg",
+      "name": "youtube-Bq9zqTJDsjg",
+      "slug": "youtube-bq9zqtjdsjg",
+      "description": "LoRA - ¡Explicado! eng 00:22 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=Bq9zqTJDsjg",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-Bq9zqTJDsjg",
+        "youtube-bq9zqtjdsjg",
+        "LoRA - ¡Explicado! eng 00:22 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-vl4mej0rbqi",
+      "name": "youtube-VL4MEj0rbqI",
+      "slug": "youtube-vl4mej0rbqi",
+      "description": "Fine Tuning: Qué es y 00:24 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=VL4MEj0rbqI",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-VL4MEj0rbqI",
+        "youtube-vl4mej0rbqi",
+        "Fine Tuning: Qué es y 00:24 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-fafjybttsc0",
+      "name": "youtube-fAFJYbtTsC0",
+      "slug": "youtube-fafjybttsc0",
+      "description": "juste de los LLM para 00:25 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=fAFJYbtTsC0",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-fAFJYbtTsC0",
+        "youtube-fafjybttsc0",
+        "juste de los LLM para 00:25 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-xmm66cnuvgw",
+      "name": "youtube-xMm66CnUVgw",
+      "slug": "youtube-xmm66cnuvgw",
+      "description": "fine-tuning de LLMs Op 00:23 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=xMm66CnUVgw",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-xMm66CnUVgw",
+        "youtube-xmm66cnuvgw",
+        "fine-tuning de LLMs Op 00:23 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-uikzs6y0qgi",
+      "name": "youtube-uikZs6y0qgI",
+      "slug": "youtube-uikzs6y0qgi",
+      "description": "LLM 💡 Ajuste fino de 00:23 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=uikZs6y0qgI",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-uikZs6y0qgI",
+        "youtube-uikzs6y0qgi",
+        "LLM 💡 Ajuste fino de 00:23 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-9",
+      "name": "youtube-video-9",
+      "slug": "youtube-video-9",
+      "description": "perfil 00:00 tutorial IA",
+      "url": "https://www.youtube.com/@PythonSimplified",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-9",
+        "youtube-video-9",
+        "perfil 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-f8rkstp2x8",
+      "name": "youtube-F8RKstP2X8",
+      "slug": "youtube-f8rkstp2x8",
+      "description": "crea un modelo de apre 00:34 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=F_8RKstP2X8",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-F8RKstP2X8",
+        "youtube-f8rkstp2x8",
+        "crea un modelo de apre 00:34 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-xdosvh9jjia",
+      "name": "youtube-XDOSVh9jJiA",
+      "slug": "youtube-xdosvh9jjia",
+      "description": "Fine-Tuning Local Mode 00:57 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=XDOSVh9jJiA",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-XDOSVh9jJiA",
+        "youtube-xdosvh9jjia",
+        "Fine-Tuning Local Mode 00:57 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-9mlzd997jsu",
+      "name": "youtube-9mLzD997JsU",
+      "slug": "youtube-9mlzd997jsu",
+      "description": "oding Local AI Agent i 00:50 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=9mLzD997JsU",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-9mLzD997JsU",
+        "youtube-9mlzd997jsu",
+        "oding Local AI Agent i 00:50 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-4mwixz3asui",
+      "name": "youtube-4MwIXZ3AsuI",
+      "slug": "youtube-4mwixz3asui",
+      "description": "earning How To Fine Tu 06:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=4MwIXZ3AsuI",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-4MwIXZ3AsuI",
+        "youtube-4mwixz3asui",
+        "earning How To Fine Tu 06:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-eizin2qut8u",
+      "name": "youtube-eIziN2QUt8U",
+      "slug": "youtube-eizin2qut8u",
+      "description": "Fine-tune Multi-modal 00:51 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=eIziN2QUt8U",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-eIziN2QUt8U",
+        "youtube-eizin2qut8u",
+        "Fine-tune Multi-modal 00:51 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-6zb940mj4bw",
+      "name": "youtube-6zb940Mj4bw",
+      "slug": "youtube-6zb940mj4bw",
+      "description": "Learning How To Fine T 05:37 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=6zb940Mj4bw",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-6zb940Mj4bw",
+        "youtube-6zb940mj4bw",
+        "Learning How To Fine T 05:37 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-esp7pltxny8",
+      "name": "youtube-eSP7PLTXNy8",
+      "slug": "youtube-esp7pltxny8",
+      "description": "rea un flujo de trabaj 01:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=eSP7PLTXNy8",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-eSP7PLTXNy8",
+        "youtube-esp7pltxny8",
+        "rea un flujo de trabaj 01:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-uvl-trga98g",
+      "name": "youtube-Uvl-tRga98g",
+      "slug": "youtube-uvl-trga98g",
+      "description": "iseñando con Claude: D 00:28 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=Uvl-tRga98g",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-Uvl-tRga98g",
+        "youtube-uvl-trga98g",
+        "iseñando con Claude: D 00:28 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-mwvtohlzm-i",
+      "name": "youtube-mWvtOHlZM-I",
+      "slug": "youtube-mwvtohlzm-i",
+      "description": "Decomposing an agent t 00:30 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=mWvtOHlZM-I",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-mWvtOHlZM-I",
+        "youtube-mwvtohlzm-i",
+        "Decomposing an agent t 00:30 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-6ebshblkun0",
+      "name": "youtube-6eBSHbLKuN0",
+      "slug": "youtube-6ebshblkun0",
+      "description": "Mastering Claude Code 00:00 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=6eBSHbLKuN0",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-6eBSHbLKuN0",
+        "youtube-6ebshblkun0",
+        "Mastering Claude Code 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-b6zbrbximy",
+      "name": "youtube-\\B6ZbRbxiMY",
+      "slug": "youtube-b6zbrbximy",
+      "description": "CUDA Mode Keynote 00:17 tutorial IA",
+      "url": "https://www.youtube.com/watch?v=_B6ZbRbxiMY",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-\\B6ZbRbxiMY",
+        "youtube-b6zbrbximy",
+        "CUDA Mode Keynote 00:17 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-list-plou2xlyxmsii9mzq-xxug4l2o04jbrklv",
+      "name": "youtube-list-PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV",
+      "slug": "youtube-list-plou2xlyxmsii9mzq-xxug4l2o04jbrklv",
+      "description": "Machine Learning Found 00:00 tutorial IA",
+      "url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-list-PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV",
+        "youtube-list-plou2xlyxmsii9mzq-xxug4l2o04jbrklv",
+        "Machine Learning Found 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-10",
+      "name": "youtube-video-10",
+      "slug": "youtube-video-10",
+      "description": "Video/playlist YouTube 00:00 tutorial IA",
+      "url": "https://www.youtube.com/@GoogleDevelopers",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-10",
+        "youtube-video-10",
+        "Video/playlist YouTube 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-org-7-2",
+      "name": "arxiv-org-7",
+      "slug": "arxiv-org-7-2",
+      "description": "Paper y recurso de investigación",
+      "url": "https://arxiv.org/abs/2606.02373",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "arxiv-org-7-2",
+        "arxiv-org-7",
+        "Paper y recurso de investigación",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-org-8-2",
+      "name": "arxiv-org-8",
+      "slug": "arxiv-org-8-2",
+      "description": "Paper y recurso de investigación",
+      "url": "https://arxiv.org/abs/2501.09223",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "arxiv-org-8-2",
+        "arxiv-org-8",
+        "Paper y recurso de investigación",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "web-stanford-edu",
+      "name": "web-stanford-edu",
+      "slug": "web-stanford-edu",
+      "description": "Recurso técnico",
+      "url": "https://web.stanford.edu/~jurafsky/slp3/A.pdf",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "web-stanford-edu",
+        "web-stanford-edu",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-11",
+      "name": "youtube-video-11",
+      "slug": "youtube-video-11",
+      "description": "calebwritescode 00:00 tutorial IA",
+      "url": "https://www.youtube.com/@CalebWritesCode",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-11",
+        "youtube-video-11",
+        "calebwritescode 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-list-plhh55mkq4oapwsczypl5hhgstjs9mz6m",
+      "name": "youtube-list-PLHh55MKq4OApWScZyPl5HhgsTJS9MZ6M",
+      "slug": "youtube-list-plhh55mkq4oapwsczypl5hhgstjs9mz6m",
+      "description": "Video/playlist YouTube 00:00 tutorial IA",
+      "url": "https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-list-PLHh55MKq4OApWScZyPl5HhgsTJS9MZ6M",
+        "youtube-list-plhh55mkq4oapwsczypl5hhgstjs9mz6m",
+        "Video/playlist YouTube 00:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "web-stanford-edu-2",
+      "name": "web-stanford-edu-2",
+      "slug": "web-stanford-edu-2",
+      "description": "Recurso técnico",
+      "url": "https://web.stanford.edu/~boyd/vmls/vmls.pdf",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "web-stanford-edu-2",
+        "web-stanford-edu-2",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "courses-csail-mit-edu",
+      "name": "courses-csail-mit-edu",
+      "slug": "courses-csail-mit-edu",
+      "description": "Recurso técnico",
+      "url": "https://courses.csail.mit.edu/6.851/spring21/",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "courses-csail-mit-edu",
+        "courses-csail-mit-edu",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ocw-mit-edu-2",
+      "name": "ocw-mit-edu",
+      "slug": "ocw-mit-edu-2",
+      "description": "Recurso técnico",
+      "url": "https://ocw.mit.edu/",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "ocw-mit-edu-2",
+        "ocw-mit-edu",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "online-stanford-edu",
+      "name": "online-stanford-edu",
+      "slug": "online-stanford-edu",
+      "description": "Recurso técnico",
+      "url": "https://online.stanford.edu/free-courses",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "online-stanford-edu",
+        "online-stanford-edu",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "web-stanford-edu-3",
+      "name": "web-stanford-edu-3",
+      "slug": "web-stanford-edu-3",
+      "description": "Recurso técnico",
+      "url": "https://web.stanford.edu/~jurafsky/slp3/7.pdf",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "web-stanford-edu-3",
+        "web-stanford-edu-3",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-org-9-2",
+      "name": "arxiv-org-9",
+      "slug": "arxiv-org-9-2",
+      "description": "Paper y recurso de investigación",
+      "url": "https://arxiv.org/abs/2106.10165",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "arxiv-org-9-2",
+        "arxiv-org-9",
+        "Paper y recurso de investigación",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-12",
+      "name": "youtube-video-12",
+      "slug": "youtube-video-12",
+      "description": "Stanford CS230 01:50 tutorial IA",
+      "url": "https://youtu.be/k1njvbBmfsw?is=pG3iwWPLKfr3IgpQ",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-12",
+        "youtube-video-12",
+        "Stanford CS230 01:50 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-video-13",
+      "name": "youtube-video-13",
+      "slug": "youtube-video-13",
+      "description": "Lecture 4: State Machi 01:22 tutorial IA",
+      "url": "https://youtu.be/gVdrFsnOo_s?is=uRnTzHd36S5mlUry",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-video-13",
+        "youtube-video-13",
+        "Lecture 4: State Machi 01:22 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "youtube-list-pl9d558d49ca734a02",
+      "name": "youtube-list-PL9D558D49CA734A02",
+      "slug": "youtube-list-pl9d558d49ca734a02",
+      "description": "Video/playlist YouTube 16:00 tutorial IA",
+      "url": "https://www.youtube.com/playlist?list=PL9D558D49CA734A02",
+      "status": "active",
+      "tags": [
+        "youtube",
+        "video",
+        "tutorial",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "youtube-list-PL9D558D49CA734A02",
+        "youtube-list-pl9d558d49ca734a02",
+        "Video/playlist YouTube 16:00 tutorial IA",
+        "education-learning",
+        "programming-courses",
+        "youtube",
+        "video",
+        "tutorial",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-org-10-2",
+      "name": "arxiv-org-10",
+      "slug": "arxiv-org-10-2",
+      "description": "Paper y recurso de investigación",
+      "url": "https://arxiv.org/pdf/2504.17033",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "arxiv-org-10-2",
+        "arxiv-org-10",
+        "Paper y recurso de investigación",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "web-stanford-edu-4",
+      "name": "web-stanford-edu-4",
+      "slug": "web-stanford-edu-4",
+      "description": "Recurso técnico",
+      "url": "https://web.stanford.edu/class/archive/cs/cs107/cs107.1266/",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "web-stanford-edu-4",
+        "web-stanford-edu-4",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "syntx-ai",
+      "name": "syntx-ai",
+      "slug": "syntx-ai",
+      "description": "Recurso técnico",
+      "url": "https://syntx.ai/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "syntx-ai",
+        "syntx-ai",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "redeszone-net",
+      "name": "redeszone-net",
+      "slug": "redeszone-net",
+      "description": "Recurso técnico",
+      "url": "https://www.redeszone.net/tutoriales/dominios/registrar-dominio-gratis-usar-cloudflare-gestion-dns/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "redeszone-net",
+        "redeszone-net",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "dash-domain-digitalplat-org",
+      "name": "dash-domain-digitalplat-org",
+      "slug": "dash-domain-digitalplat-org",
+      "description": "Recurso técnico",
+      "url": "https://dash.domain.digitalplat.org/auth/login",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "dash-domain-digitalplat-org",
+        "dash-domain-digitalplat-org",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "cs50-harvard-edu",
+      "name": "cs50-harvard-edu",
+      "slug": "cs50-harvard-edu",
+      "description": "Recurso técnico",
+      "url": "https://cs50.harvard.edu/x/",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "cs50-harvard-edu",
+        "cs50-harvard-edu",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "digitallearn-org",
+      "name": "digitallearn-org",
+      "slug": "digitallearn-org",
+      "description": "Recurso técnico",
+      "url": "https://www.digitallearn.org/",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "digitallearn-org",
+        "digitallearn-org",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "commoncraft-com",
+      "name": "commoncraft-com",
+      "slug": "commoncraft-com",
+      "description": "Recurso técnico",
+      "url": "https://commoncraft.com/video-library",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "commoncraft-com",
+        "commoncraft-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "drive-google-com-2",
+      "name": "drive-google-com",
+      "slug": "drive-google-com-2",
+      "description": "Recurso técnico",
+      "url": "https://drive.google.com/file/d/1SikCWxV8HfpuRwNk_DOYJBnXlHqL6i8p/view?usp=drivesdk",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "drive-google-com-2",
+        "drive-google-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "researchgate-net",
+      "name": "researchgate-net",
+      "slug": "researchgate-net",
+      "description": "Recurso técnico",
+      "url": "https://www.researchgate.net/profile/Arumugam-Raman/post/could_anyone_can_help_me_to_better_understanding_of_the_statistical_values_in_simple_way_If_any_reference_pls_suggest_me/attachment/59d6280379197b80779865cf/AS%3A328274824712194%401455278225385/download/Book2.pdf",
+      "status": "active",
+      "tags": [
+        "research",
+        "paper",
+        "ai",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "researchgate-net",
+        "researchgate-net",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "research",
+        "paper",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "databaseschool-com",
+      "name": "databaseschool-com",
+      "slug": "databaseschool-com",
+      "description": "Recurso técnico",
+      "url": "https://databaseschool.com/series/intro-to-postgres/videos/203",
+      "status": "active",
+      "tags": [
+        "sql",
+        "database",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "databaseschool-com",
+        "databaseschool-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "sql",
+        "database",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "microsoft-github-io",
+      "name": "microsoft-github-io",
+      "slug": "microsoft-github-io",
+      "description": "Recurso técnico",
+      "url": "https://microsoft.github.io/Webwright/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "microsoft-github-io",
+        "microsoft-github-io",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "transyncai-com",
+      "name": "transyncai-com",
+      "slug": "transyncai-com",
+      "description": "Recurso técnico",
+      "url": "https://www.transyncai.com/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "transyncai-com",
+        "transyncai-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "osf-io",
+      "name": "osf-io",
+      "slug": "osf-io",
+      "description": "Recurso técnico",
+      "url": "https://osf.io/preprints/thesiscommons/wehmg_v1",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "osf-io",
+        "osf-io",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "imgto-xyz",
+      "name": "imgto-xyz",
+      "slug": "imgto-xyz",
+      "description": "Recurso técnico",
+      "url": "https://imgto.xyz/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "imgto-xyz",
+        "imgto-xyz",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "docs-liquid-ai",
+      "name": "docs-liquid-ai",
+      "slug": "docs-liquid-ai",
+      "description": "Recurso técnico",
+      "url": "https://docs.liquid.ai/examples/customize-models/satellite-vlm",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "docs-liquid-ai",
+        "docs-liquid-ai",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "mulerun-com",
+      "name": "mulerun-com",
+      "slug": "mulerun-com",
+      "description": "Recurso técnico",
+      "url": "https://mulerun.com/es",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "mulerun-com",
+        "mulerun-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "radarr-video",
+      "name": "radarr-video",
+      "slug": "radarr-video",
+      "description": "Recurso técnico",
+      "url": "https://radarr.video",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "radarr-video",
+        "radarr-video",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "sonarr-tv",
+      "name": "sonarr-tv",
+      "slug": "sonarr-tv",
+      "description": "Recurso técnico",
+      "url": "https://sonarr.tv",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "sonarr-tv",
+        "sonarr-tv",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "cs241-cs-illinois-edu",
+      "name": "cs241-cs-illinois-edu",
+      "slug": "cs241-cs-illinois-edu",
+      "description": "Recurso técnico",
+      "url": "https://cs241.cs.illinois.edu/coursebook",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "cs241-cs-illinois-edu",
+        "cs241-cs-illinois-edu",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "clcoding-com",
+      "name": "clcoding-com",
+      "slug": "clcoding-com",
+      "description": "Recurso técnico",
+      "url": "https://www.clcoding.com/2023/11/hands-on-machine-learning-with-scikit.html",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "clcoding-com",
+        "clcoding-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "seekerclaw",
+      "name": "SeekerClaw",
+      "slug": "seekerclaw",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/sepivip/SeekerClaw",
+      "status": "active",
+      "tags": [
+        "security",
+        "github",
+        "security-auth"
+      ],
+      "searchIndex": [
+        "SeekerClaw",
+        "seekerclaw",
+        "Repositorio GitHub",
+        "security-vpn",
+        "security-auth",
+        "security",
+        "github"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "picrew-github-io",
+      "name": "picrew-github-io",
+      "slug": "picrew-github-io",
+      "description": "Recurso técnico",
+      "url": "https://picrew.github.io/LLM-Harness/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "picrew-github-io",
+        "picrew-github-io",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "turingpost-com",
+      "name": "turingpost-com",
+      "slug": "turingpost-com",
+      "description": "Recurso técnico",
+      "url": "https://www.turingpost.com/p/token",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "turingpost-com",
+        "turingpost-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "popularmechanics-com",
+      "name": "popularmechanics-com",
+      "slug": "popularmechanics-com",
+      "description": "Recurso técnico",
+      "url": "https://www.popularmechanics.com/space/rockets/a71443027/engineer-says-he-can-overcome-earths-gravity/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "popularmechanics-com",
+        "popularmechanics-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "playground-liquid-ai",
+      "name": "playground-liquid-ai",
+      "slug": "playground-liquid-ai",
+      "description": "Recurso técnico",
+      "url": "https://playground.liquid.ai/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "playground-liquid-ai",
+        "playground-liquid-ai",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "mltut-com-2",
+      "name": "mltut-com",
+      "slug": "mltut-com-2",
+      "description": "Recurso técnico",
+      "url": "https://www.mltut.com/best-advanced-deep-learning-courses/",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "mltut-com-2",
+        "mltut-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "devops-daily-com",
+      "name": "devops-daily-com",
+      "slug": "devops-daily-com",
+      "description": "Recurso técnico",
+      "url": "https://devops-daily.com/games/linux-terminal",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "devops-daily-com",
+        "devops-daily-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "kimi-com",
+      "name": "kimi-com",
+      "slug": "kimi-com",
+      "description": "Recurso técnico",
+      "url": "https://www.kimi.com/code/en",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "kimi-com",
+        "kimi-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "raw-githubusercontent-com",
+      "name": "raw-githubusercontent-com",
+      "slug": "raw-githubusercontent-com",
+      "description": "Recurso técnico",
+      "url": "https://raw.githubusercontent.com/dograh-hq/dograh/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "raw-githubusercontent-com",
+        "raw-githubusercontent-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "manning-com",
+      "name": "manning-com",
+      "slug": "manning-com",
+      "description": "Recurso técnico",
+      "url": "https://www.manning.com/books/deep-learning-with-pytorch-second-edition",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "manning-com",
+        "manning-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "clawd-rip",
+      "name": "clawd-rip",
+      "slug": "clawd-rip",
+      "description": "Recurso técnico",
+      "url": "https://clawd.rip",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "clawd-rip",
+        "clawd-rip",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "mlsysbook-ai",
+      "name": "mlsysbook-ai",
+      "slug": "mlsysbook-ai",
+      "description": "Recurso técnico",
+      "url": "https://mlsysbook.ai/vol1/assets/downloads/Machine-Learning-Systems-Vol1.pdf",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "mlsysbook-ai",
+        "mlsysbook-ai",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "mlsysbook-ai-2",
+      "name": "mlsysbook-ai-2",
+      "slug": "mlsysbook-ai-2",
+      "description": "Recurso técnico",
+      "url": "https://mlsysbook.ai/vol2/assets/downloads/Machine-Learning-Systems-Vol2.pdf",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "mlsysbook-ai-2",
+        "mlsysbook-ai-2",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "algorithmsbook-com",
+      "name": "algorithmsbook-com",
+      "slug": "algorithmsbook-com",
+      "description": "Recurso técnico",
+      "url": "https://algorithmsbook.com",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "algorithmsbook-com",
+        "algorithmsbook-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "deeplearningbook-org",
+      "name": "deeplearningbook-org",
+      "slug": "deeplearningbook-org",
+      "description": "Recurso técnico",
+      "url": "https://deeplearningbook.org",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "deeplearningbook-org",
+        "deeplearningbook-org",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "marl-book-com",
+      "name": "marl-book-com",
+      "slug": "marl-book-com",
+      "description": "Recurso técnico",
+      "url": "https://marl-book.com",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "marl-book-com",
+        "marl-book-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "watermark02-silverchair-com",
+      "name": "watermark02-silverchair-com",
+      "slug": "watermark02-silverchair-com",
+      "description": "Recurso técnico",
+      "url": "https://watermark02.silverchair.com/book_9780262380355.pdf",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "watermark02-silverchair-com",
+        "watermark02-silverchair-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "fairmlbook-org",
+      "name": "fairmlbook-org",
+      "slug": "fairmlbook-org",
+      "description": "Recurso técnico",
+      "url": "https://fairmlbook.org",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "fairmlbook-org",
+        "fairmlbook-org",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "probml-github-io",
+      "name": "probml-github-io",
+      "slug": "probml-github-io",
+      "description": "Recurso técnico",
+      "url": "https://probml.github.io/pml-book/book1.html",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "probml-github-io",
+        "probml-github-io",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "probml-github-io-2",
+      "name": "probml-github-io-2",
+      "slug": "probml-github-io-2",
+      "description": "Recurso técnico",
+      "url": "https://probml.github.io/pml-book/book2.html",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "probml-github-io-2",
+        "probml-github-io-2",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "openalex-org",
+      "name": "openalex-org",
+      "slug": "openalex-org",
+      "description": "Recurso técnico",
+      "url": "https://openalex.org/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "openalex-org",
+        "openalex-org",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "publish-obsidian-md",
+      "name": "publish-obsidian-md",
+      "slug": "publish-obsidian-md",
+      "description": "Recurso técnico",
+      "url": "https://publish.obsidian.md/simoneriflesso/Reference+notes/Libri/How+to+take+smart+notes+-+Ahrens",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "publish-obsidian-md",
+        "publish-obsidian-md",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "programming-25-mooc-fi",
+      "name": "programming-25-mooc-fi",
+      "slug": "programming-25-mooc-fi",
+      "description": "Recurso técnico",
+      "url": "https://programming-25.mooc.fi",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "programming-25-mooc-fi",
+        "programming-25-mooc-fi",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "webvm-io",
+      "name": "webvm-io",
+      "slug": "webvm-io",
+      "description": "Recurso técnico",
+      "url": "https://webvm.io",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "webvm-io",
+        "webvm-io",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "component-party-dev",
+      "name": "component-party-dev",
+      "slug": "component-party-dev",
+      "description": "Recurso técnico",
+      "url": "https://component-party.dev",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "component-party-dev",
+        "component-party-dev",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "colah-github-io",
+      "name": "colah-github-io",
+      "slug": "colah-github-io",
+      "description": "Recurso técnico",
+      "url": "https://colah.github.io/posts/2015-09-Visual-Information/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "colah-github-io",
+        "colah-github-io",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "makingsoftware-com",
+      "name": "makingsoftware-com",
+      "slug": "makingsoftware-com",
+      "description": "Recurso técnico",
+      "url": "https://www.makingsoftware.com/chapters/image-compression",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "makingsoftware-com",
+        "makingsoftware-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "masterdnsvpn",
+      "name": "MasterDnsVPN",
+      "slug": "masterdnsvpn",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "status": "active",
+      "tags": [
+        "security",
+        "github",
+        "security-auth"
+      ],
+      "searchIndex": [
+        "MasterDnsVPN",
+        "masterdnsvpn",
+        "Repositorio GitHub",
+        "security-vpn",
+        "security-auth",
+        "security",
+        "github"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "labs-google",
+      "name": "labs-google",
+      "slug": "labs-google",
+      "description": "Recurso técnico",
+      "url": "https://labs.google/lll/es",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "labs-google",
+        "labs-google",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "colab-research-google-com",
+      "name": "colab-research-google-com",
+      "slug": "colab-research-google-com",
+      "description": "Recurso técnico",
+      "url": "https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen3*5*(4B",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "colab-research-google-com",
+        "colab-research-google-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "vision-ipynb",
+      "name": "vision-ipynb",
+      "slug": "vision-ipynb",
+      "description": "Recurso técnico",
+      "url": "https://Vision.ipynb",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "vision-ipynb",
+        "vision-ipynb",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "walkinglabs-github-io-2",
+      "name": "walkinglabs-github-io-2",
+      "slug": "walkinglabs-github-io-2",
+      "description": "Recurso técnico",
+      "url": "https://walkinglabs.github.io/hands-on-modern-rl/preface/intro",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "walkinglabs-github-io-2",
+        "walkinglabs-github-io-2",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "stackoverflow-blog",
+      "name": "stackoverflow-blog",
+      "slug": "stackoverflow-blog",
+      "description": "Recurso técnico",
+      "url": "https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "stackoverflow-blog",
+        "stackoverflow-blog",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "whatsapp-web-reveng",
+      "name": "whatsapp-web-reveng",
+      "slug": "whatsapp-web-reveng",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/sigalor/whatsapp-web-reveng",
+      "status": "active",
+      "tags": [
+        "security",
+        "github",
+        "security-auth"
+      ],
+      "searchIndex": [
+        "whatsapp-web-reveng",
+        "whatsapp-web-reveng",
+        "Repositorio GitHub",
+        "security-vpn",
+        "security-auth",
+        "security",
+        "github"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "cdn-prod-website-files-com",
+      "name": "cdn-prod-website-files-com",
+      "slug": "cdn-prod-website-files-com",
+      "description": "Recurso técnico",
+      "url": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a1611a04085d7cd3dadc924_Claude-eBook-Zero-Trust-for-AI-Agents-05182026.pdf",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "cdn-prod-website-files-com",
+        "cdn-prod-website-files-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "cameronrwolfe-substack-com",
+      "name": "cameronrwolfe-substack-com",
+      "slug": "cameronrwolfe-substack-com",
+      "description": "Recurso técnico",
+      "url": "https://cameronrwolfe.substack.com/p/rl-scaling-laws",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "cameronrwolfe-substack-com",
+        "cameronrwolfe-substack-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "0xkato-xyz",
+      "name": "0xkato-xyz",
+      "slug": "0xkato-xyz",
+      "description": "Recurso técnico",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "0xkato-xyz",
+        "0xkato-xyz",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "bbycroft-net",
+      "name": "bbycroft-net",
+      "slug": "bbycroft-net",
+      "description": "Recurso técnico",
+      "url": "https://bbycroft.net/llm",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "bbycroft-net",
+        "bbycroft-net",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ppc-cs-aalto-fi",
+      "name": "ppc-cs-aalto-fi",
+      "slug": "ppc-cs-aalto-fi",
+      "description": "Recurso técnico",
+      "url": "https://ppc.cs.aalto.fi/",
+      "status": "active",
+      "tags": [
+        "education",
+        "university",
+        "learning",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "ppc-cs-aalto-fi",
+        "ppc-cs-aalto-fi",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "university",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "cstack-github-io",
+      "name": "cstack-github-io",
+      "slug": "cstack-github-io",
+      "description": "Recurso técnico",
+      "url": "https://cstack.github.io/db_tutorial/",
+      "status": "active",
+      "tags": [
+        "education",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "cstack-github-io",
+        "cstack-github-io",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "education",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "messenger-abeto-co",
+      "name": "messenger-abeto-co",
+      "slug": "messenger-abeto-co",
+      "description": "Recurso técnico",
+      "url": "https://messenger.abeto.co",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "messenger-abeto-co",
+        "messenger-abeto-co",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "gridlanes-webkit-org",
+      "name": "gridlanes-webkit-org",
+      "slug": "gridlanes-webkit-org",
+      "description": "Recurso técnico",
+      "url": "https://gridlanes.webkit.org/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "gridlanes-webkit-org",
+        "gridlanes-webkit-org",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "utell-ai",
+      "name": "utell-ai",
+      "slug": "utell-ai",
+      "description": "Recurso técnico",
+      "url": "https://utell.ai/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "utell-ai",
+        "utell-ai",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "academy-neosage-io",
+      "name": "academy-neosage-io",
+      "slug": "academy-neosage-io",
+      "description": "Recurso técnico",
+      "url": "https://academy.neosage.io",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "academy-neosage-io",
+        "academy-neosage-io",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "oblivion-desktop",
+      "name": "oblivion-desktop",
+      "slug": "oblivion-desktop",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/bepass-org/oblivion-desktop",
+      "status": "active",
+      "tags": [
+        "security",
+        "github",
+        "security-auth"
+      ],
+      "searchIndex": [
+        "oblivion-desktop",
+        "oblivion-desktop",
+        "Repositorio GitHub",
+        "security-vpn",
+        "security-auth",
+        "security",
+        "github"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "callmebot-com",
+      "name": "callmebot-com",
+      "slug": "callmebot-com",
+      "description": "Recurso técnico",
+      "url": "https://www.callmebot.com/blog/free-api-whatsapp-messages",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "callmebot-com",
+        "callmebot-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ui-skills-com",
+      "name": "ui-skills-com",
+      "slug": "ui-skills-com",
+      "description": "Recurso técnico",
+      "url": "https://ui-skills.com",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "ui-skills-com",
+        "ui-skills-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "shard",
+      "name": "shard",
+      "slug": "shard",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/leyten/shard",
+      "status": "active",
+      "tags": [
+        "security",
+        "github",
+        "security-auth"
+      ],
+      "searchIndex": [
+        "shard",
+        "shard",
+        "Repositorio GitHub",
+        "security-vpn",
+        "security-auth",
+        "security",
+        "github"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "filmora-wondershare-es",
+      "name": "filmora-wondershare-es",
+      "slug": "filmora-wondershare-es",
+      "description": "Recurso técnico",
+      "url": "https://filmora.wondershare.es/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "filmora-wondershare-es",
+        "filmora-wondershare-es",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "openevidence-com",
+      "name": "openevidence-com",
+      "slug": "openevidence-com",
+      "description": "Recurso técnico",
+      "url": "https://www.openevidence.com/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "openevidence-com",
+        "openevidence-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "digger-tools",
+      "name": "digger-tools",
+      "slug": "digger-tools",
+      "description": "Recurso técnico",
+      "url": "https://digger.tools",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "digger-tools",
+        "digger-tools",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "html-to-design",
+      "name": "html-to-design",
+      "slug": "html-to-design",
+      "description": "Recurso técnico",
+      "url": "https://html.to.design/home/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "html-to-design",
+        "html-to-design",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "readme-md",
+      "name": "readme-md",
+      "slug": "readme-md",
+      "description": "Recurso técnico",
+      "url": "https://README.md",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "readme-md",
+        "readme-md",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ui-skills-com-2",
+      "name": "ui-skills-com-2",
+      "slug": "ui-skills-com-2",
+      "description": "Recurso técnico",
+      "url": "https://www.ui-skills.com/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "ui-skills-com-2",
+        "ui-skills-com-2",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "textmotion-dev",
+      "name": "textmotion-dev",
+      "slug": "textmotion-dev",
+      "description": "Recurso técnico",
+      "url": "https://textmotion.dev/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "textmotion-dev",
+        "textmotion-dev",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "npmjs-com",
+      "name": "npmjs-com",
+      "slug": "npmjs-com",
+      "description": "Recurso técnico",
+      "url": "https://www.npmjs.com/package/slot-text",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "npmjs-com",
+        "npmjs-com",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "aprendesql-dev-2",
+      "name": "aprendesql-dev",
+      "slug": "aprendesql-dev-2",
+      "description": "Recurso técnico",
+      "url": "https://www.aprendesql.dev/",
+      "status": "active",
+      "tags": [
+        "sql",
+        "database",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "aprendesql-dev-2",
+        "aprendesql-dev",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "sql",
+        "database",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "callmebot-com-2",
+      "name": "callmebot-com-2",
+      "slug": "callmebot-com-2",
+      "description": "Recurso técnico",
+      "url": "https://callmebot.com/blog/free-api-whatsapp-messages/",
+      "status": "active",
+      "tags": [
+        "learning",
+        "resource",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "callmebot-com-2",
+        "callmebot-com-2",
+        "Recurso técnico",
+        "education-learning",
+        "programming-courses",
+        "learning",
+        "resource"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "sqlzoo",
+      "name": "sqlzoo",
+      "slug": "sqlzoo",
+      "description": "Tutorial interactivo de SQL",
+      "url": "https://sqlzoo.net/",
+      "status": "active",
+      "tags": [
+        "sql",
+        "database",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "sqlzoo",
+        "sqlzoo",
+        "Tutorial interactivo de SQL",
+        "education-learning",
+        "programming-courses",
+        "sql",
+        "database",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "datalemur",
+      "name": "datalemur",
+      "slug": "datalemur",
+      "description": "Entrevistas SQL y casos reales",
+      "url": "https://datalemur.com/",
+      "status": "active",
+      "tags": [
+        "sql",
+        "database",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "datalemur",
+        "datalemur",
+        "Entrevistas SQL y casos reales",
+        "education-learning",
+        "programming-courses",
+        "sql",
+        "database",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "sql-practice",
+      "name": "sql-practice",
+      "slug": "sql-practice",
+      "description": "Hospital SQL con datasets reales",
+      "url": "https://sql-practice.com/",
+      "status": "active",
+      "tags": [
+        "sql",
+        "database",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "sql-practice",
+        "sql-practice",
+        "Hospital SQL con datasets reales",
+        "education-learning",
+        "programming-courses",
+        "sql",
+        "database",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "sql-mystery",
+      "name": "sql-mystery",
+      "slug": "sql-mystery",
+      "description": "Juego detectivesco SQL Knight Lab",
+      "url": "https://mystery.knightlab.com/",
+      "status": "active",
+      "tags": [
+        "sql",
+        "database",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "sql-mystery",
+        "sql-mystery",
+        "Juego detectivesco SQL Knight Lab",
+        "education-learning",
+        "programming-courses",
+        "sql",
+        "database",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "sql-easy",
+      "name": "sql-easy",
+      "slug": "sql-easy",
+      "description": "SQL fácil en español paso a paso",
+      "url": "https://sql-easy.com/es/",
+      "status": "active",
+      "tags": [
+        "sql",
+        "database",
+        "learning",
+        "tutorial",
+        "programming-courses"
+      ],
+      "searchIndex": [
+        "sql-easy",
+        "sql-easy",
+        "SQL fácil en español paso a paso",
+        "education-learning",
+        "programming-courses",
+        "sql",
+        "database",
+        "learning",
+        "tutorial"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
     }
   ]
 }

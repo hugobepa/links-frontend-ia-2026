@@ -11,7 +11,7 @@
       "description": "Etiqueta 2d"
     },
     "3d": {
-      "count": 6,
+      "count": 25,
       "color": "#059669",
       "description": "Etiqueta 3d"
     },
@@ -346,7 +346,7 @@
       "description": "Etiqueta javascript"
     },
     "jobs": {
-      "count": 75,
+      "count": 95,
       "color": "#2563eb",
       "description": "Etiqueta jobs"
     },
@@ -431,7 +431,7 @@
       "description": "Etiqueta monetizacion-empleo"
     },
     "monetization": {
-      "count": 2,
+      "count": 22,
       "color": "#d97706",
       "description": "Etiqueta monetization"
     },
@@ -719,6 +719,21 @@
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta zero-commission"
+    },
+    "github": {
+      "count": 36,
+      "color": "#dc2626",
+      "description": "Etiqueta github"
+    },
+    "game-dev": {
+      "count": 19,
+      "color": "#2563eb",
+      "description": "Etiqueta game-dev"
+    },
+    "engines": {
+      "count": 19,
+      "color": "#059669",
+      "description": "Etiqueta engines"
     }
   },
   "searchIndex": {
@@ -757,1171 +772,2723 @@
     "entries": [
       {
         "id": "academic-job-search",
+        "name": "academic-job-search",
         "slug": "academic-job-search",
-        "terms": [
-          "academic-job-search",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "academic-job-search"
+        ],
+        "url": "https://github.com/andrewgwagner/academic-job-search",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "academic-job-search academic-job-search repositorio github payments jobs payments jobs monetizacion-empleo academic-job-search"
       },
       {
         "id": "adalo",
+        "name": "Adalo",
         "slug": "adalo",
-        "terms": [
-          "Adalo",
-          "adalo",
-          "Apps sin código 1 app gratis",
+        "description": "Apps sin código 1 app gratis",
+        "category": "mobile",
+        "subcategory": "frameworks",
+        "tags": [
           "mobile",
-          "frameworks",
+          "adalo",
           "no-code",
           "apps",
           "visual"
-        ]
+        ],
+        "url": "https://www.adalo.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "adalo adalo apps sin código 1 app gratis mobile frameworks mobile adalo no-code apps visual"
       },
       {
         "id": "arc-dev",
+        "name": "Arc.dev",
         "slug": "arc-dev",
-        "terms": [
-          "Arc.dev",
-          "arc-dev",
-          "Remoto para devs senior validados",
-          "payments",
+        "description": "Remoto para devs senior validados",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "remote",
           "senior",
           "validated"
-        ]
+        ],
+        "url": "https://arc.dev",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "arc.dev arc-dev remoto para devs senior validados payments jobs jobs remote senior validated"
       },
       {
         "id": "autumn",
+        "name": "Autumn",
         "slug": "autumn",
-        "terms": [
-          "Autumn",
-          "autumn",
-          "Abstracción simplificada de Stripe",
+        "description": "Abstracción simplificada de Stripe",
+        "category": "payments",
+        "subcategory": "processors",
+        "tags": [
           "payments",
-          "processors",
           "stripe",
           "abstraction",
           "simplified"
-        ]
+        ],
+        "url": "https://useautumn.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "autumn autumn abstracción simplificada de stripe payments processors payments stripe abstraction simplified"
       },
       {
         "id": "awesome-behavioral-interviews",
+        "name": "awesome-behavioral-interviews",
         "slug": "awesome-behavioral-interviews",
-        "terms": [
-          "awesome-behavioral-interviews",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "awesome-behavioral-interviews"
+        ],
+        "url": "https://github.com/ashishps1/awesome-behavioral-interviews",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-behavioral-interviews awesome-behavioral-interviews repositorio github payments jobs payments jobs monetizacion-empleo awesome-behavioral-interviews"
       },
       {
         "id": "awesome-behavioral-interviews-2",
+        "name": "awesome-behavioral-interviews-2",
         "slug": "awesome-behavioral-interviews-2",
-        "terms": [
-          "awesome-behavioral-interviews-2",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "awesome-behavioral-interviews-2"
+        ],
+        "url": "https://github.com/ashishpatel26/awesome-behavioral-interviews",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-behavioral-interviews-2 awesome-behavioral-interviews-2 repositorio github payments jobs payments jobs monetizacion-empleo awesome-behavioral-interviews-2"
       },
       {
         "id": "awesome-chatgpt-prompts",
+        "name": "awesome-chatgpt-prompts",
         "slug": "awesome-chatgpt-prompts",
-        "terms": [
-          "awesome-chatgpt-prompts",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "awesome-chatgpt-prompts"
+        ],
+        "url": "https://github.com/f/awesome-chatgpt-prompts",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-chatgpt-prompts awesome-chatgpt-prompts repositorio github payments jobs payments jobs monetizacion-empleo awesome-chatgpt-prompts"
       },
       {
         "id": "awesome-deep-learning",
+        "name": "awesome-deep-learning",
         "slug": "awesome-deep-learning",
-        "terms": [
-          "awesome-deep-learning",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "awesome-deep-learning"
+        ],
+        "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-deep-learning awesome-deep-learning repositorio github payments jobs payments jobs monetizacion-empleo awesome-deep-learning"
       },
       {
         "id": "awesome-instagram",
+        "name": "awesome-instagram",
         "slug": "awesome-instagram",
-        "terms": [
-          "awesome-instagram",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "awesome-instagram"
+        ],
+        "url": "https://github.com/instagram-devs/awesome-instagram",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-instagram awesome-instagram repositorio github payments jobs payments jobs monetizacion-empleo awesome-instagram"
       },
       {
         "id": "awesome-interview-questions",
+        "name": "awesome-interview-questions",
         "slug": "awesome-interview-questions",
-        "terms": [
-          "awesome-interview-questions",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "awesome-interview-questions"
+        ],
+        "url": "https://github.com/DopplerHQ/awesome-interview-questions",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-interview-questions awesome-interview-questions repositorio github payments jobs payments jobs monetizacion-empleo awesome-interview-questions"
       },
       {
         "id": "awesome-job-boards",
+        "name": "awesome-job-boards",
         "slug": "awesome-job-boards",
-        "terms": [
-          "awesome-job-boards",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "awesome-job-boards"
+        ],
+        "url": "https://github.com/trammell/awesome-job-boards",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-job-boards awesome-job-boards repositorio github payments jobs payments jobs monetizacion-empleo awesome-job-boards"
       },
       {
         "id": "awesome-linkedin",
+        "name": "awesome-linkedin",
         "slug": "awesome-linkedin",
-        "terms": [
-          "awesome-linkedin",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "awesome-linkedin"
+        ],
+        "url": "https://github.com/brandonhimpfen/awesome-linkedin",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-linkedin awesome-linkedin repositorio github payments jobs payments jobs monetizacion-empleo awesome-linkedin"
       },
       {
         "id": "awesome-linkedin-2",
+        "name": "awesome-linkedin-2",
         "slug": "awesome-linkedin-2",
-        "terms": [
-          "awesome-linkedin-2",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "awesome-linkedin-2"
+        ],
+        "url": "https://github.com/helenahartley/awesome-linkedin",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-linkedin-2 awesome-linkedin-2 repositorio github payments jobs payments jobs monetizacion-empleo awesome-linkedin-2"
       },
       {
         "id": "awesome-machine-learning",
+        "name": "awesome-machine-learning",
         "slug": "awesome-machine-learning",
-        "terms": [
-          "awesome-machine-learning",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "awesome-machine-learning"
+        ],
+        "url": "https://github.com/josephmisiti/awesome-machine-learning",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-machine-learning awesome-machine-learning repositorio github payments jobs payments jobs monetizacion-empleo awesome-machine-learning"
       },
       {
         "id": "awesome-productivity",
+        "name": "awesome-productivity",
         "slug": "awesome-productivity",
-        "terms": [
-          "awesome-productivity",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "awesome-productivity"
+        ],
+        "url": "https://github.com/jyguyomarch/awesome-productivity",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-productivity awesome-productivity repositorio github payments jobs payments jobs monetizacion-empleo awesome-productivity"
       },
       {
         "id": "awesome-research",
+        "name": "awesome-research",
         "slug": "awesome-research",
-        "terms": [
-          "awesome-research",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "awesome-research"
+        ],
+        "url": "https://github.com/emptymalei/awesome-research",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-research awesome-research repositorio github payments jobs payments jobs monetizacion-empleo awesome-research"
       },
       {
         "id": "babylon-js",
+        "name": "Babylon.js",
         "slug": "babylon-js",
-        "terms": [
-          "Babylon.js",
-          "babylon-js",
-          "Framework 3D web open source",
-          "game-dev",
-          "engines",
+        "description": "Framework 3D web open source",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
           "game-engine",
           "babylon",
           "3d",
           "web",
           "webgl"
-        ]
+        ],
+        "url": "https://www.babylonjs.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "babylon.js babylon-js framework 3d web open source game-dev engines game-engine babylon 3d web webgl"
       },
       {
         "id": "bairesdev",
+        "name": "BairesDev",
         "slug": "bairesdev",
-        "terms": [
-          "BairesDev",
-          "bairesdev",
-          "Talento LATAM externalización guiada",
-          "payments",
+        "description": "Talento LATAM externalización guiada",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "latam",
           "outsourcing",
           "guided"
-        ]
+        ],
+        "url": "https://bairesdev.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "bairesdev bairesdev talento latam externalización guiada payments jobs jobs latam outsourcing guided"
       },
       {
         "id": "bubble",
+        "name": "Bubble",
         "slug": "bubble",
-        "terms": [
-          "Bubble",
-          "bubble",
-          "Apps web sin código 1 app gratis",
+        "description": "Apps web sin código 1 app gratis",
+        "category": "mobile",
+        "subcategory": "frameworks",
+        "tags": [
           "mobile",
-          "frameworks",
+          "bubble",
           "no-code",
           "web-apps",
           "visual"
-        ]
+        ],
+        "url": "https://bubble.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "bubble bubble apps web sin código 1 app gratis mobile frameworks mobile bubble no-code web-apps visual"
       },
       {
         "id": "buffer-com",
+        "name": "buffer-com",
         "slug": "buffer-com",
-        "terms": [
-          "buffer-com",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "buffer-com"
+        ],
+        "url": "https://buffer.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "buffer-com buffer-com recurso técnico payments jobs payments jobs monetizacion-empleo buffer-com"
       },
       {
         "id": "capacitor",
+        "name": "Capacitor",
         "slug": "capacitor",
-        "terms": [
-          "Capacitor",
-          "capacitor",
-          "Apps nativas con web technologies",
+        "description": "Apps nativas con web technologies",
+        "category": "mobile",
+        "subcategory": "frameworks",
+        "tags": [
           "mobile",
-          "frameworks",
+          "capacitor",
           "native",
           "web",
           "hybrid"
-        ]
+        ],
+        "url": "https://capacitorjs.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "capacitor capacitor apps nativas con web technologies mobile frameworks mobile capacitor native web hybrid"
       },
       {
         "id": "career-ops",
+        "name": "Career-Ops",
         "slug": "career-ops",
-        "terms": [
-          "Career-Ops",
-          "career-ops",
-          "Agente IA búsqueda empleo",
-          "payments",
+        "description": "Agente IA búsqueda empleo",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "ai",
           "agent",
           "search"
-        ]
+        ],
+        "url": "https://github.com/santifer/career-ops",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "career-ops career-ops agente ia búsqueda empleo payments jobs jobs ai agent search"
       },
       {
         "id": "career-prompts",
+        "name": "career-prompts",
         "slug": "career-prompts",
-        "terms": [
-          "career-prompts",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "career-prompts"
+        ],
+        "url": "https://github.com/career-prompts/career-prompts",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "career-prompts career-prompts repositorio github payments jobs payments jobs monetizacion-empleo career-prompts"
       },
       {
         "id": "careerlaunch",
+        "name": "CareerLaunch",
         "slug": "careerlaunch",
-        "terms": [
-          "CareerLaunch",
-          "careerlaunch",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "careerlaunch"
+        ],
+        "url": "https://github.com/CareerLaunch/CareerLaunch",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "careerlaunch careerlaunch repositorio github payments jobs payments jobs monetizacion-empleo careerlaunch"
       },
       {
         "id": "construct-3",
+        "name": "Construct 3",
         "slug": "construct-3",
-        "terms": [
-          "Construct 3",
-          "construct-3",
-          "Motor 2D sin código 1 proyecto gratis",
-          "game-dev",
-          "engines",
+        "description": "Motor 2D sin código 1 proyecto gratis",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
           "game-engine",
           "construct",
           "2d",
           "no-code"
-        ]
+        ],
+        "url": "https://www.construct.net",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "construct 3 construct-3 motor 2d sin código 1 proyecto gratis game-dev engines game-engine construct 2d no-code"
       },
       {
         "id": "dynamite-jobs",
+        "name": "Dynamite Jobs",
         "slug": "dynamite-jobs",
-        "terms": [
-          "Dynamite Jobs",
-          "dynamite-jobs",
-          "Ofertas en empresas remote-first",
-          "payments",
+        "description": "Ofertas en empresas remote-first",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "remote",
           "remote-first",
           "startups"
-        ]
+        ],
+        "url": "https://dynamitejobs.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "dynamite jobs dynamite-jobs ofertas en empresas remote-first payments jobs jobs remote remote-first startups"
       },
       {
         "id": "expo",
+        "name": "Expo",
         "slug": "expo",
-        "terms": [
-          "Expo",
-          "expo",
-          "Framework React Native con tools",
+        "description": "Framework React Native con tools",
+        "category": "mobile",
+        "subcategory": "frameworks",
+        "tags": [
           "mobile",
-          "frameworks",
+          "expo",
           "react-native",
           "tools",
           "ios",
           "android"
-        ]
+        ],
+        "url": "https://expo.dev",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "expo expo framework react native con tools mobile frameworks mobile expo react-native tools ios android"
       },
       {
         "id": "finceptterminal",
+        "name": "FinceptTerminal",
         "slug": "finceptterminal",
-        "terms": [
-          "FinceptTerminal",
-          "finceptterminal",
-          "Terminal cuantitativa para trading",
-          "payments",
+        "description": "Terminal cuantitativa para trading",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
+          "payments",
           "tools",
           "ai"
-        ]
+        ],
+        "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "finceptterminal finceptterminal terminal cuantitativa para trading payments jobs jobs payments tools ai"
       },
       {
         "id": "flexjobs",
+        "name": "FlexJobs",
         "slug": "flexjobs",
-        "terms": [
-          "FlexJobs",
-          "flexjobs",
-          "Ofertas verificadas con suscripción",
-          "payments",
+        "description": "Ofertas verificadas con suscripción",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "verified",
           "subscription",
           "flexible"
-        ]
+        ],
+        "url": "https://flexjobs.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "flexjobs flexjobs ofertas verificadas con suscripción payments jobs jobs verified subscription flexible"
       },
       {
         "id": "flutterflow",
+        "name": "FlutterFlow",
         "slug": "flutterflow",
-        "terms": [
-          "FlutterFlow",
-          "flutterflow",
-          "Builder visual Flutter 3 proyectos",
+        "description": "Builder visual Flutter 3 proyectos",
+        "category": "mobile",
+        "subcategory": "frameworks",
+        "tags": [
           "mobile",
-          "frameworks",
           "flutter",
           "visual",
           "builder",
           "no-code"
-        ]
+        ],
+        "url": "https://flutterflow.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "flutterflow flutterflow builder visual flutter 3 proyectos mobile frameworks mobile flutter visual builder no-code"
       },
       {
         "id": "frontend-interview-handbook",
+        "name": "Frontend Interview Handbook",
         "slug": "frontend-interview-handbook",
-        "terms": [
-          "Frontend Interview Handbook",
-          "frontend-interview-handbook",
-          "Preparación entrevista frontend",
-          "payments",
+        "description": "Preparación entrevista frontend",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "interview",
           "frontend",
           "preparation"
-        ]
+        ],
+        "url": "https://www.frontendinterviewhandbook.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "frontend interview handbook frontend-interview-handbook preparación entrevista frontend payments jobs jobs interview frontend preparation"
       },
       {
         "id": "galactic-linkedin-profile-guide",
+        "name": "galactic-linkedin-profile-guide",
         "slug": "galactic-linkedin-profile-guide",
-        "terms": [
-          "galactic-linkedin-profile-guide",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "galactic-linkedin-profile-guide"
+        ],
+        "url": "https://github.com/GuidoPenta/galactic-linkedin-profile-guide",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "galactic-linkedin-profile-guide galactic-linkedin-profile-guide repositorio github payments jobs payments jobs monetizacion-empleo galactic-linkedin-profile-guide"
       },
       {
         "id": "galactic-linkedin-profile-guide-2",
+        "name": "galactic-linkedin-profile-guide-2",
         "slug": "galactic-linkedin-profile-guide-2",
-        "terms": [
-          "galactic-linkedin-profile-guide-2",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "galactic-linkedin-profile-guide-2"
+        ],
+        "url": "https://github.com/rmartinramos/galactic-linkedin-profile-guide",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "galactic-linkedin-profile-guide-2 galactic-linkedin-profile-guide-2 repositorio github payments jobs payments jobs monetizacion-empleo galactic-linkedin-profile-guide-2"
       },
       {
         "id": "gdevelop",
+        "name": "GDevelop",
         "slug": "gdevelop",
-        "terms": [
-          "GDevelop",
-          "gdevelop",
-          "Motor de juegos open source",
-          "game-dev",
-          "engines",
+        "description": "Motor de juegos open source",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
           "game-engine",
+          "gdevelop",
           "open-source",
           "2d"
-        ]
+        ],
+        "url": "https://gdevelop.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "gdevelop gdevelop motor de juegos open source game-dev engines game-engine gdevelop open-source 2d"
       },
       {
         "id": "github-profile-readme-generator",
+        "name": "github-profile-readme-generator",
         "slug": "github-profile-readme-generator",
-        "terms": [
-          "github-profile-readme-generator",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "github-profile-readme-generator"
+        ],
+        "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "github-profile-readme-generator github-profile-readme-generator repositorio github payments jobs payments jobs monetizacion-empleo github-profile-readme-generator"
       },
       {
         "id": "glassdoor-com",
+        "name": "glassdoor-com",
         "slug": "glassdoor-com",
-        "terms": [
-          "glassdoor-com",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "glassdoor-com"
+        ],
+        "url": "https://www.glassdoor.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "glassdoor-com glassdoor-com recurso técnico payments jobs payments jobs monetizacion-empleo glassdoor-com"
       },
       {
         "id": "glide",
+        "name": "Glide",
         "slug": "glide",
-        "terms": [
-          "Glide",
-          "glide",
-          "Apps desde Google Sheets gratis",
+        "description": "Apps desde Google Sheets gratis",
+        "category": "mobile",
+        "subcategory": "frameworks",
+        "tags": [
           "mobile",
-          "frameworks",
+          "glide",
           "google-sheets",
           "no-code",
           "apps"
-        ]
+        ],
+        "url": "https://www.glideapps.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "glide glide apps desde google sheets gratis mobile frameworks mobile glide google-sheets no-code apps"
       },
       {
         "id": "godot",
+        "name": "Godot",
         "slug": "godot",
-        "terms": [
-          "Godot",
-          "godot",
-          "Motor de juegos open source completo",
-          "game-dev",
-          "engines",
+        "description": "Motor de juegos open source completo",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
           "game-engine",
+          "godot",
           "open-source",
           "2d",
           "3d"
-        ]
+        ],
+        "url": "https://godotengine.org",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "godot godot motor de juegos open source completo game-dev engines game-engine godot open-source 2d 3d"
       },
       {
         "id": "guia-entrevistas-dev",
+        "name": "Guía Entrevistas Dev",
         "slug": "guia-entrevistas-dev",
-        "terms": [
-          "Guía Entrevistas Dev",
-          "guia-entrevistas-dev",
-          "Preparación entrevistas ES",
-          "payments",
+        "description": "Preparación entrevistas ES",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "interview",
           "spanish",
           "preparation"
-        ]
+        ],
+        "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "guía entrevistas dev guia-entrevistas-dev preparación entrevistas es payments jobs jobs interview spanish preparation"
       },
       {
         "id": "guide",
+        "name": "guide",
         "slug": "guide",
-        "terms": [
-          "guide",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "guide"
+        ],
+        "url": "https://github.com/how-to-get-any-job/guide",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "guide guide repositorio github payments jobs payments jobs monetizacion-empleo guide"
       },
       {
         "id": "guide-2",
+        "name": "guide-2",
         "slug": "guide-2",
-        "terms": [
-          "guide-2",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "guide-2"
+        ],
+        "url": "https://github.com/github-optimization/guide",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "guide-2 guide-2 repositorio github payments jobs payments jobs monetizacion-empleo guide-2"
       },
       {
         "id": "gun-io",
+        "name": "Gun.io",
         "slug": "gun-io",
-        "terms": [
-          "Gun.io",
-          "gun-io",
-          "Red boutique de ingenieros élite",
-          "payments",
+        "description": "Red boutique de ingenieros élite",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "elite",
           "boutique",
           "network"
-        ]
+        ],
+        "url": "https://gun.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "gun.io gun-io red boutique de ingenieros élite payments jobs jobs elite boutique network"
       },
       {
         "id": "hackerrank-com",
+        "name": "hackerrank-com",
         "slug": "hackerrank-com",
-        "terms": [
-          "hackerrank-com",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "hackerrank-com"
+        ],
+        "url": "https://www.hackerrank.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "hackerrank-com hackerrank-com recurso técnico payments jobs payments jobs monetizacion-empleo hackerrank-com"
       },
       {
         "id": "hired",
+        "name": "Hired",
         "slug": "hired",
-        "terms": [
-          "Hired",
-          "hired",
-          "IA empareja talento tech con empresas",
-          "payments",
+        "description": "IA empareja talento tech con empresas",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "ai",
           "matching",
           "tech"
-        ]
+        ],
+        "url": "https://hired.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "hired hired ia empareja talento tech con empresas payments jobs jobs ai matching tech"
       },
       {
         "id": "hootsuite-com",
+        "name": "hootsuite-com",
         "slug": "hootsuite-com",
-        "terms": [
-          "hootsuite-com",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "hootsuite-com"
+        ],
+        "url": "https://www.hootsuite.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "hootsuite-com hootsuite-com recurso técnico payments jobs payments jobs monetizacion-empleo hootsuite-com"
       },
       {
         "id": "ideas-apps",
+        "name": "Ideas Apps",
         "slug": "ideas-apps",
-        "terms": [
-          "Ideas Apps",
-          "ideas-apps",
-          "Ideas apps micro-SaaS MVP",
-          "payments",
-          "jobs",
+        "description": "Ideas apps micro-SaaS MVP",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "micro-saas",
           "mvp",
           "ideas",
           "monetization"
-        ]
+        ],
+        "url": "https://medium.com/@muhibuddin12/17-weekend-buildable-micro-saas-mvp-ideas-with-pricing-distribution-hypotheses-47733c9cf8e4",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "ideas apps ideas-apps ideas apps micro-saas mvp payments jobs micro-saas mvp ideas monetization"
       },
       {
         "id": "indeed-com",
+        "name": "indeed-com",
         "slug": "indeed-com",
-        "terms": [
-          "indeed-com",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "indeed-com"
+        ],
+        "url": "https://www.indeed.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "indeed-com indeed-com recurso técnico payments jobs payments jobs monetizacion-empleo indeed-com"
       },
       {
         "id": "interviewing-io",
+        "name": "interviewing-io",
         "slug": "interviewing-io",
-        "terms": [
-          "interviewing-io",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "interviewing-io"
+        ],
+        "url": "https://interviewing.io",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "interviewing-io interviewing-io recurso técnico payments jobs payments jobs monetizacion-empleo interviewing-io"
       },
       {
         "id": "jobbers-io",
+        "name": "Jobbers.io",
         "slug": "jobbers-io",
-        "terms": [
-          "Jobbers.io",
-          "jobbers-io",
-          "Modelo 0% comisión autogestión",
-          "payments",
+        "description": "Modelo 0% comisión autogestión",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "freelance",
           "zero-commission",
           "self-management"
-        ]
+        ],
+        "url": "https://jobbers.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "jobbers.io jobbers-io modelo 0% comisión autogestión payments jobs jobs freelance zero-commission self-management"
       },
       {
         "id": "jobspy",
+        "name": "JobSpy",
         "slug": "jobspy",
-        "terms": [
-          "JobSpy",
-          "jobspy",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "jobspy"
+        ],
+        "url": "https://github.com/Bunsly/JobSpy",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "jobspy jobspy repositorio github payments jobs payments jobs monetizacion-empleo jobspy"
       },
       {
         "id": "jobspy-2",
+        "name": "jobspy-2",
         "slug": "jobspy-2",
-        "terms": [
-          "jobspy-2",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "jobspy-2"
+        ],
+        "url": "https://github.com/jobspy/jobspy",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "jobspy-2 jobspy-2 repositorio github payments jobs payments jobs monetizacion-empleo jobspy-2"
       },
       {
         "id": "jsonresume",
+        "name": "jsonresume",
         "slug": "jsonresume",
-        "terms": [
-          "jsonresume",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "jsonresume"
+        ],
+        "url": "https://github.com/jsonresume",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "jsonresume jsonresume repositorio github payments jobs payments jobs monetizacion-empleo jsonresume"
       },
       {
         "id": "later-com",
+        "name": "later-com",
         "slug": "later-com",
-        "terms": [
-          "later-com",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "later-com"
+        ],
+        "url": "https://later.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "later-com later-com recurso técnico payments jobs payments jobs monetizacion-empleo later-com"
       },
       {
         "id": "lcg",
+        "name": "lcg",
         "slug": "lcg",
-        "terms": [
-          "lcg",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "lcg"
+        ],
+        "url": "https://github.com/linkedin-content-generator/lcg",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "lcg lcg repositorio github payments jobs payments jobs monetizacion-empleo lcg"
       },
       {
         "id": "leetcode-interview",
+        "name": "LeetCode Interview",
         "slug": "leetcode-interview",
-        "terms": [
-          "LeetCode Interview",
-          "leetcode-interview",
-          "Preparación entrevista técnicas",
-          "payments",
+        "description": "Preparación entrevista técnicas",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "interview",
           "preparation",
           "technical"
-        ]
+        ],
+        "url": "https://leetcode.com/interview",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "leetcode interview leetcode-interview preparación entrevista técnicas payments jobs jobs interview preparation technical"
       },
       {
         "id": "lettergen",
+        "name": "Lettergen",
         "slug": "lettergen",
-        "terms": [
-          "Lettergen",
-          "lettergen",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "lettergen"
+        ],
+        "url": "https://github.com/Lettergen/Lettergen",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "lettergen lettergen repositorio github payments jobs payments jobs monetizacion-empleo lettergen"
       },
       {
         "id": "linkedin-com",
+        "name": "linkedin-com",
         "slug": "linkedin-com",
-        "terms": [
-          "linkedin-com",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "linkedin-com"
+        ],
+        "url": "https://www.linkedin.com/post-inspector/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "linkedin-com linkedin-com recurso técnico payments jobs payments jobs monetizacion-empleo linkedin-com"
       },
       {
         "id": "linkedin-com-3",
+        "name": "linkedin-com-3",
         "slug": "linkedin-com-3",
-        "terms": [
-          "linkedin-com-3",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "linkedin-com-3"
+        ],
+        "url": "https://www.linkedin.com/jobs",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "linkedin-com-3 linkedin-com-3 recurso técnico payments jobs payments jobs monetizacion-empleo linkedin-com-3"
       },
       {
         "id": "linkedin-content-generator",
+        "name": "linkedin-content-generator",
         "slug": "linkedin-content-generator",
-        "terms": [
-          "linkedin-content-generator",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "linkedin-content-generator"
+        ],
+        "url": "https://github.com/anusky95/linkedin-content-generator",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "linkedin-content-generator linkedin-content-generator repositorio github payments jobs payments jobs monetizacion-empleo linkedin-content-generator"
       },
       {
         "id": "otta-com",
+        "name": "otta-com",
         "slug": "otta-com",
-        "terms": [
-          "otta-com",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "otta-com"
+        ],
+        "url": "https://otta.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "otta-com otta-com recurso técnico payments jobs payments jobs monetizacion-empleo otta-com"
       },
       {
         "id": "overleaf-com",
+        "name": "overleaf-com",
         "slug": "overleaf-com",
-        "terms": [
-          "overleaf-com",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "overleaf-com"
+        ],
+        "url": "https://www.overleaf.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "overleaf-com overleaf-com recurso técnico payments jobs payments jobs monetizacion-empleo overleaf-com"
       },
       {
         "id": "playcanvas",
+        "name": "PlayCanvas",
         "slug": "playcanvas",
-        "terms": [
-          "PlayCanvas",
-          "playcanvas",
-          "Motor de juegos 3D web",
-          "game-dev",
-          "engines",
+        "description": "Motor de juegos 3D web",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
           "game-engine",
+          "playcanvas",
           "3d",
           "web",
           "webgl"
-        ]
+        ],
+        "url": "https://playcanvas.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "playcanvas playcanvas motor de juegos 3d web game-dev engines game-engine playcanvas 3d web webgl"
       },
       {
         "id": "polar",
+        "name": "Polar",
         "slug": "polar",
-        "terms": [
-          "Polar",
-          "polar",
-          "Procesamiento de pagos global",
+        "description": "Procesamiento de pagos global",
+        "category": "payments",
+        "subcategory": "processors",
+        "tags": [
           "payments",
-          "processors",
           "global",
           "api",
           "subscriptions"
-        ]
+        ],
+        "url": "https://polar.sh",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "polar polar procesamiento de pagos global payments processors payments global api subscriptions"
       },
       {
         "id": "problem-hunts",
+        "name": "Problem Hunts",
         "slug": "problem-hunts",
-        "terms": [
-          "Problem Hunts",
-          "problem-hunts",
-          "Resolver problemas dev pagados",
-          "payments",
+        "description": "Resolver problemas dev pagados",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "problems",
           "paid",
           "challenges"
-        ]
+        ],
+        "url": "https://problemhunt.pro",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "problem hunts problem-hunts resolver problemas dev pagados payments jobs jobs problems paid challenges"
       },
       {
         "id": "pursuit",
+        "name": "pursuit",
         "slug": "pursuit",
-        "terms": [
-          "pursuit",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "pursuit"
+        ],
+        "url": "https://github.com/pursuit/pursuit",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pursuit pursuit repositorio github payments jobs payments jobs monetizacion-empleo pursuit"
       },
       {
         "id": "react-jobs",
+        "name": "React Jobs",
         "slug": "react-jobs",
-        "terms": [
-          "React Jobs",
-          "react-jobs",
-          "Agregador de ofertas React/TS",
-          "payments",
+        "description": "Agregador de ofertas React/TS",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "react",
           "typescript",
           "aggregator"
-        ]
+        ],
+        "url": "https://reactjobs.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "react jobs react-jobs agregador de ofertas react/ts payments jobs jobs react typescript aggregator"
       },
       {
         "id": "recommendation-letter-template",
+        "name": "Recommendation-Letter-Template",
         "slug": "recommendation-letter-template",
-        "terms": [
-          "Recommendation-Letter-Template",
-          "recommendation-letter-template",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "recommendation-letter-template"
+        ],
+        "url": "https://github.com/mchowdhay/Recommendation-Letter-Template",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "recommendation-letter-template recommendation-letter-template repositorio github payments jobs payments jobs monetizacion-empleo recommendation-letter-template"
       },
       {
         "id": "remote-ok",
+        "name": "Remote OK",
         "slug": "remote-ok",
-        "terms": [
-          "Remote OK",
-          "remote-ok",
-          "Bolsa global de empleo remoto tech",
-          "payments",
+        "description": "Bolsa global de empleo remoto tech",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "remote",
           "tech",
           "global"
-        ]
+        ],
+        "url": "https://remoteok.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "remote ok remote-ok bolsa global de empleo remoto tech payments jobs jobs remote tech global"
       },
       {
         "id": "repo2resume",
+        "name": "Repo2Resume",
         "slug": "repo2resume",
-        "terms": [
-          "Repo2Resume",
-          "repo2resume",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "repo2resume"
+        ],
+        "url": "https://github.com/PhongCT1105/Repo2Resume",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "repo2resume repo2resume repositorio github payments jobs payments jobs monetizacion-empleo repo2resume"
       },
       {
         "id": "repo2resume-2",
+        "name": "Repo2Resume-2",
         "slug": "repo2resume-2",
-        "terms": [
-          "Repo2Resume-2",
-          "repo2resume-2",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "repo2resume-2"
+        ],
+        "url": "https://github.com/tehZevo/Repo2Resume",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "repo2resume-2 repo2resume-2 repositorio github payments jobs payments jobs monetizacion-empleo repo2resume-2"
       },
       {
         "id": "research-internships-for-undergraduates",
+        "name": "Research-Internships-for-Undergraduates",
         "slug": "research-internships-for-undergraduates",
-        "terms": [
-          "Research-Internships-for-Undergraduates",
-          "research-internships-for-undergraduates",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "research-internships-for-undergraduates"
+        ],
+        "url": "https://github.com/himahuja/Research-Internships-for-Undergraduates",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "research-internships-for-undergraduates research-internships-for-undergraduates repositorio github payments jobs payments jobs monetizacion-empleo research-internships-for-undergraduates"
       },
       {
         "id": "research-positions",
+        "name": "Research-positions",
         "slug": "research-positions",
-        "terms": [
-          "Research-positions",
-          "research-positions",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "research-positions"
+        ],
+        "url": "https://github.com/WeiTang114/Research-positions",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "research-positions research-positions repositorio github payments jobs payments jobs monetizacion-empleo research-positions"
       },
       {
         "id": "search",
+        "name": "search",
         "slug": "search",
-        "terms": [
-          "search",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "search"
+        ],
+        "url": "https://github.com/search?q=ai+research+jobs&type=repositories",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "search search repositorio github payments jobs payments jobs monetizacion-empleo search"
       },
       {
         "id": "serai",
+        "name": "serai",
         "slug": "serai",
-        "terms": [
-          "serai",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "serai"
+        ],
+        "url": "https://github.com/serai-ai/serai",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "serai serai repositorio github payments jobs payments jobs monetizacion-empleo serai"
       },
       {
         "id": "shields-io",
+        "name": "shields-io",
         "slug": "shields-io",
-        "terms": [
-          "shields-io",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "shields-io"
+        ],
+        "url": "https://shields.io",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "shields-io shields-io recurso técnico payments jobs payments jobs monetizacion-empleo shields-io"
       },
       {
         "id": "simplify-jobs",
+        "name": "simplify-jobs",
         "slug": "simplify-jobs",
-        "terms": [
-          "simplify-jobs",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "simplify-jobs"
+        ],
+        "url": "https://Simplify.jobs",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "simplify-jobs simplify-jobs recurso técnico payments jobs payments jobs monetizacion-empleo simplify-jobs"
       },
       {
         "id": "south",
+        "name": "South",
         "slug": "south",
-        "terms": [
-          "South",
-          "south",
-          "Talento élite LATAM con filtro riguroso",
-          "payments",
+        "description": "Talento élite LATAM con filtro riguroso",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "latam",
           "elite",
           "rigorous"
-        ]
+        ],
+        "url": "https://south.work",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "south south talento élite latam con filtro riguroso payments jobs jobs latam elite rigorous"
       },
       {
         "id": "soyfreelancer",
+        "name": "SoyFreelancer",
         "slug": "soyfreelancer",
-        "terms": [
-          "SoyFreelancer",
-          "soyfreelancer",
-          "Freelance en español pago por proyecto",
-          "payments",
+        "description": "Freelance en español pago por proyecto",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "freelance",
           "spanish",
           "project-based"
-        ]
+        ],
+        "url": "https://soyfreelancer.com",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "soyfreelancer soyfreelancer freelance en español pago por proyecto payments jobs jobs freelance spanish project-based"
       },
       {
         "id": "system-design-interview",
+        "name": "system-design-interview",
         "slug": "system-design-interview",
-        "terms": [
-          "system-design-interview",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "system-design-interview"
+        ],
+        "url": "https://github.com/checkcheckzz/system-design-interview",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "system-design-interview system-design-interview repositorio github payments jobs payments jobs monetizacion-empleo system-design-interview"
       },
       {
         "id": "taplio-com",
+        "name": "taplio-com",
         "slug": "taplio-com",
-        "terms": [
-          "taplio-com",
-          "Recurso técnico",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "taplio-com"
+        ],
+        "url": "https://taplio.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "taplio-com taplio-com recurso técnico payments jobs payments jobs monetizacion-empleo taplio-com"
       },
       {
         "id": "tech-interview-handbook",
+        "name": "tech-interview-handbook",
         "slug": "tech-interview-handbook",
-        "terms": [
-          "tech-interview-handbook",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "payments",
           "jobs",
-          "monetizacion-empleo"
-        ]
+          "monetizacion-empleo",
+          "tech-interview-handbook"
+        ],
+        "url": "https://github.com/yangshun/tech-interview-handbook",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "tech-interview-handbook tech-interview-handbook repositorio github payments jobs payments jobs monetizacion-empleo tech-interview-handbook"
       },
       {
         "id": "three-js",
+        "name": "Three.js",
         "slug": "three-js",
-        "terms": [
-          "Three.js",
-          "three-js",
-          "Librería 3D para JavaScript",
-          "game-dev",
-          "engines",
+        "description": "Librería 3D para JavaScript",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
           "library",
           "threejs",
           "3d",
           "javascript",
           "webgl"
-        ]
+        ],
+        "url": "https://threejs.org",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "three.js three-js librería 3d para javascript game-dev engines library threejs 3d javascript webgl"
       },
       {
         "id": "thunkable",
+        "name": "Thunkable",
         "slug": "thunkable",
-        "terms": [
-          "Thunkable",
-          "thunkable",
-          "Apps móviles drag-and-drop",
+        "description": "Apps móviles drag-and-drop",
+        "category": "mobile",
+        "subcategory": "frameworks",
+        "tags": [
           "mobile",
-          "frameworks",
+          "thunkable",
           "drag-drop",
           "apps",
           "visual"
-        ]
+        ],
+        "url": "https://thunkable.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "thunkable thunkable apps móviles drag-and-drop mobile frameworks mobile thunkable drag-drop apps visual"
       },
       {
         "id": "turing",
+        "name": "Turing",
         "slug": "turing",
-        "terms": [
-          "Turing",
-          "turing",
-          "Talento global pre-evaluado full-stack",
-          "payments",
+        "description": "Talento global pre-evaluado full-stack",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "remote",
           "fullstack",
           "evaluated"
-        ]
+        ],
+        "url": "https://turing.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "turing turing talento global pre-evaluado full-stack payments jobs jobs remote fullstack evaluated"
       },
       {
         "id": "unity",
+        "name": "Unity",
         "slug": "unity",
-        "terms": [
-          "Unity",
-          "unity",
-          "Motor de juegos gratis hasta $100k ingresos",
-          "game-dev",
-          "engines",
+        "description": "Motor de juegos gratis hasta $100k ingre",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
           "game-engine",
+          "unity",
           "3d",
           "2d",
           "free-tier"
-        ]
+        ],
+        "url": "https://unity.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "unity unity motor de juegos gratis hasta $100k ingre game-dev engines game-engine unity 3d 2d free-tier"
       },
       {
         "id": "unreal-engine",
+        "name": "Unreal Engine",
         "slug": "unreal-engine",
-        "terms": [
-          "Unreal Engine",
-          "unreal-engine",
-          "Motor de juegos AAA gratuito",
-          "game-dev",
-          "engines",
+        "description": "Motor de juegos AAA gratuito",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
           "game-engine",
           "unreal",
           "aaa",
           "3d"
-        ]
+        ],
+        "url": "https://www.unrealengine.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "unreal engine unreal-engine motor de juegos aaa gratuito game-dev engines game-engine unreal aaa 3d"
       },
       {
         "id": "upwork",
+        "name": "Upwork",
         "slug": "upwork",
-        "terms": [
-          "Upwork",
-          "upwork",
-          "El mayor mercado freelance global",
-          "payments",
+        "description": "El mayor mercado freelance global",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "freelance",
           "global",
           "marketplace"
-        ]
+        ],
+        "url": "https://upwork.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "upwork upwork el mayor mercado freelance global payments jobs jobs freelance global marketplace"
       },
       {
         "id": "vibe-trading",
+        "name": "Vibe-Trading",
         "slug": "vibe-trading",
-        "terms": [
-          "Vibe-Trading",
-          "vibe-trading",
-          "Framework para trading algoritmico",
-          "payments",
+        "description": "Framework para trading algoritmico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
+          "payments",
           "tools",
           "ai"
-        ]
+        ],
+        "url": "https://github.com/HKUDS/Vibe-Trading",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "vibe-trading vibe-trading framework para trading algoritmico payments jobs jobs payments tools ai"
       },
       {
         "id": "we-work-remotely",
+        "name": "We Work Remotely",
         "slug": "we-work-remotely",
-        "terms": [
-          "We Work Remotely",
-          "we-work-remotely",
-          "Comunidad de ofertas 100% remotas",
-          "payments",
+        "description": "Comunidad de ofertas 100% remotas",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "remote",
           "community",
           "100-percent"
-        ]
+        ],
+        "url": "https://weworkremotely.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "we work remotely we-work-remotely comunidad de ofertas 100% remotas payments jobs jobs remote community 100-percent"
       },
       {
         "id": "wellfound",
+        "name": "Wellfound",
         "slug": "wellfound",
-        "terms": [
-          "Wellfound",
-          "wellfound",
-          "Conecta con startups tech directamente",
-          "payments",
+        "description": "Conecta con startups tech directamente",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "startups",
           "tech",
           "direct"
-        ]
+        ],
+        "url": "https://wellfound.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "wellfound wellfound conecta con startups tech directamente payments jobs jobs startups tech direct"
       },
       {
         "id": "workana",
+        "name": "Workana",
         "slug": "workana",
-        "terms": [
-          "Workana",
-          "workana",
-          "Líder freelance en LATAM español",
-          "payments",
+        "description": "Líder freelance en LATAM español",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "freelance",
           "latam",
           "spanish"
-        ]
+        ],
+        "url": "https://workana.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "workana workana líder freelance en latam español payments jobs jobs freelance latam spanish"
       },
       {
         "id": "ycombinator-rfs",
+        "name": "ycombinator-rfs",
         "slug": "ycombinator-rfs",
-        "terms": [
-          "ycombinator-rfs",
-          "Convocatorias YC para monetizacion",
-          "payments",
-          "jobs",
+        "description": "Convocatorias YC para monetizacion",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "monetization",
-          "startups"
-        ]
+          "startups",
+          "jobs",
+          "payments"
+        ],
+        "url": "https://www.ycombinator.com/rfs",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ycombinator-rfs ycombinator-rfs convocatorias yc para monetizacion payments jobs monetization startups jobs payments"
       },
       {
         "id": "youteam",
+        "name": "YouTeam",
         "slug": "youteam",
-        "terms": [
-          "YouTeam",
-          "youteam",
-          "Escala equipos con talento validado",
-          "payments",
+        "description": "Escala equipos con talento validado",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
           "jobs",
           "teams",
           "validated",
           "scale"
-        ]
+        ],
+        "url": "https://youteam.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "youteam youteam escala equipos con talento validado payments jobs jobs teams validated scale"
+      },
+      {
+        "id": "skool-com",
+        "name": "skool-com",
+        "slug": "skool-com",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "jobs",
+          "monetization"
+        ],
+        "url": "https://www.skool.com/firstai/about",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "skool-com skool-com recurso técnico payments jobs jobs monetization"
+      },
+      {
+        "id": "skillsmp-com",
+        "name": "skillsmp-com",
+        "slug": "skillsmp-com",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "jobs",
+          "monetization"
+        ],
+        "url": "https://skillsmp.com",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "skillsmp-com skillsmp-com recurso técnico payments jobs jobs monetization"
+      },
+      {
+        "id": "lean",
+        "name": "Lean",
+        "slug": "lean",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/QuantConnect/Lean/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "lean lean repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "project-ideas",
+        "name": "project-ideas",
+        "slug": "project-ideas",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/florinpop17/project-ideas",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "project-ideas project-ideas repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "ai-job-search",
+        "name": "ai-job-search",
+        "slug": "ai-job-search",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ai-job-search ai-job-search repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "unity-fluid-simulation",
+        "name": "unity-fluid-simulation",
+        "slug": "unity-fluid-simulation",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/aren227/unity-fluid-simulation",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "unity-fluid-simulation unity-fluid-simulation repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "masfactory",
+        "name": "MASFactory",
+        "slug": "masfactory",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/BUPT-GAMMA/MASFactory",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "masfactory masfactory repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "startup-skill",
+        "name": "startup-skill",
+        "slug": "startup-skill",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/ferdinandobons/startup-skill",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "startup-skill startup-skill repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "cactus",
+        "name": "cactus",
+        "slug": "cactus",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/cactus-compute/cactus",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "cactus cactus repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "developers-googleblog-com",
+        "name": "developers-googleblog-com",
+        "slug": "developers-googleblog-com",
+        "description": "Recurso técnico",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "jobs",
+          "monetization"
+        ],
+        "url": "https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "developers-googleblog-com developers-googleblog-com recurso técnico payments jobs jobs monetization"
+      },
+      {
+        "id": "polymarket-bot",
+        "name": "Polymarket-bot",
+        "slug": "polymarket-bot",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/MrFadiAi/Polymarket-bot",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "polymarket-bot polymarket-bot repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "ai-resume-analyzer",
+        "name": "ai-resume-analyzer",
+        "slug": "ai-resume-analyzer",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/adrianhajdin/ai-resume-analyzer",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ai-resume-analyzer ai-resume-analyzer repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "all-3r-slam-in-this-repo",
+        "name": "All-3R-SLAM-in-this-Repo",
+        "slug": "all-3r-slam-in-this-repo",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/3D-Vision-World/All-3R-SLAM-in-this-Repo",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "all-3r-slam-in-this-repo all-3r-slam-in-this-repo repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "solo-founder-superpowers",
+        "name": "solo-founder-superpowers",
+        "slug": "solo-founder-superpowers",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/whawkinsiv/solo-founder-superpowers",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "solo-founder-superpowers solo-founder-superpowers repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "robocrew",
+        "name": "RoboCrew",
+        "slug": "robocrew",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/Grigorij-Dudnik/RoboCrew",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "robocrew robocrew repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "chatgarment",
+        "name": "ChatGarment",
+        "slug": "chatgarment",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/biansy000/ChatGarment",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "chatgarment chatgarment repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "algorithmvisualizer",
+        "name": "AlgorithmVisualizer",
+        "slug": "algorithmvisualizer",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/TamimEhsan/AlgorithmVisualizer",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "algorithmvisualizer algorithmvisualizer repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "personalive",
+        "name": "PersonaLive",
+        "slug": "personalive",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/GVCLab/PersonaLive",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "personalive personalive repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "vibearound",
+        "name": "VibeAround",
+        "slug": "vibearound",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/jazzenchen/VibeAround",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "vibearound vibearound repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "ai-avatar-system",
+        "name": "ai-avatar-system",
+        "slug": "ai-avatar-system",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/PunithVT/ai-avatar-system",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ai-avatar-system ai-avatar-system repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "sysmocap",
+        "name": "SysMocap",
+        "slug": "sysmocap",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/xianfei/SysMocap",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "sysmocap sysmocap repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "openhuman",
+        "name": "openhuman",
+        "slug": "openhuman",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/tinyhumansai/openhuman",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "openhuman openhuman repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "finance-skills",
+        "name": "finance-skills",
+        "slug": "finance-skills",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/himself65/finance-skills",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "finance-skills finance-skills repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "machine-learning-for-trading",
+        "name": "machine-learning-for-trading",
+        "slug": "machine-learning-for-trading",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "machine-learning-for-trading machine-learning-for-trading repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "roboos",
+        "name": "RoboOS",
+        "slug": "roboos",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/FlagOpen/RoboOS",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "roboos roboos repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "freqtrade",
+        "name": "freqtrade",
+        "slug": "freqtrade",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/freqtrade/freqtrade",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "freqtrade freqtrade repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "abot-manipulation",
+        "name": "ABot-Manipulation",
+        "slug": "abot-manipulation",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/amap-cvlab/ABot-Manipulation",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "abot-manipulation abot-manipulation repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "quantdinger",
+        "name": "QuantDinger",
+        "slug": "quantdinger",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/brokermr810/QuantDinger",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "quantdinger quantdinger repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "ai-marketing-claude",
+        "name": "ai-marketing-claude",
+        "slug": "ai-marketing-claude",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/zubair-trabzada/ai-marketing-claude",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ai-marketing-claude ai-marketing-claude repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "quant-mind",
+        "name": "quant-mind",
+        "slug": "quant-mind",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/LLMQuant/quant-mind",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "quant-mind quant-mind repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "tradingagents",
+        "name": "TradingAgents",
+        "slug": "tradingagents",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "tradingagents tradingagents repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "robotics-coursework",
+        "name": "robotics-coursework",
+        "slug": "robotics-coursework",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/mithi/robotics-coursework",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "robotics-coursework robotics-coursework repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "autojobapplierlinkedin",
+        "name": "AutojobapplierlinkedIn",
+        "slug": "autojobapplierlinkedin",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/GodsScion/Auto_job_applier_linkedIn",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "autojobapplierlinkedin autojobapplierlinkedin repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "liveavatar",
+        "name": "LiveAvatar",
+        "slug": "liveavatar",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/Alibaba-Quark/LiveAvatar",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "liveavatar liveavatar repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "polymarket-btc-15-minute-trading-bot",
+        "name": "Polymarket-BTC-15-Minute-Trading-Bot",
+        "slug": "polymarket-btc-15-minute-trading-bot",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/aulekator/Polymarket-BTC-15-Minute-Trading-Bot",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "polymarket-btc-15-minute-trading-bot polymarket-btc-15-minute-trading-bot repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "awesome-finance-skills",
+        "name": "Awesome-finance-skills",
+        "slug": "awesome-finance-skills",
+        "description": "Repositorio GitHub",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "monetization",
+          "jobs",
+          "github"
+        ],
+        "url": "https://github.com/RKiding/Awesome-finance-skills",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "awesome-finance-skills awesome-finance-skills repositorio github payments jobs monetization jobs github"
+      },
+      {
+        "id": "awesome-humanoid-robot-learning",
+        "name": "awesome-humanoid-robot-learning",
+        "slug": "awesome-humanoid-robot-learning",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/YanjieZe/awesome-humanoid-robot-learning",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "awesome-humanoid-robot-learning awesome-humanoid-robot-learning repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "manimml",
+        "name": "ManimML",
+        "slug": "manimml",
+        "description": "Repositorio GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/helblazer811/ManimML",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "manimml manimml repositorio github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "michiganrobotics",
+        "name": "michiganrobotics",
+        "slug": "michiganrobotics",
+        "description": "Organización Michigan Robotics GitHub",
+        "category": "game-dev",
+        "subcategory": "engines",
+        "tags": [
+          "game-dev",
+          "3d",
+          "github",
+          "engines"
+        ],
+        "url": "https://github.com/michiganrobotics",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "michiganrobotics michiganrobotics organización michigan robotics github game-dev engines game-dev 3d github engines"
       }
     ]
   },
@@ -1947,20 +3514,23 @@
       "es"
     ],
     "status": [
-      "active"
+      "active",
+      "warning",
+      "deprecated"
     ],
     "verified": [
-      true
+      true,
+      false
     ],
     "noCreditCard": [
-      false,
-      true
+      true,
+      false
     ]
   },
   "ui": {
     "dataset": "pagos_game-dev_mobile",
-    "title": "pagos_game-dev_mobile",
-    "description": "Dataset pagos_game-dev_mobile",
-    "resourceCount": 93
+    "title": "Game Dev Resources - DevResources 2026",
+    "description": "Recursos de Game Dev para desarrolladores",
+    "resourceCount": 132
   }
 }

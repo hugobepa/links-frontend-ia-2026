@@ -4,7 +4,7 @@
       "id": "cms",
       "name": "Cms",
       "slug": "cms",
-      "resourceCount": 9,
+      "resourceCount": 13,
       "status": "active"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Platforms",
       "slug": "platforms",
       "category": "cms",
-      "resourceCount": 9,
+      "resourceCount": 13,
       "status": "active"
     },
     {
@@ -1979,6 +1979,142 @@
       "added": "2026-05-11",
       "verified": true,
       "noCreditCard": false
+    },
+    {
+      "id": "deepwiki-open",
+      "name": "deepwiki-open",
+      "slug": "deepwiki-open",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/AsyncFuncAI/deepwiki-open",
+      "status": "active",
+      "tags": [
+        "cms",
+        "content",
+        "github",
+        "platforms"
+      ],
+      "searchIndex": [
+        "deepwiki-open",
+        "deepwiki-open",
+        "Repositorio GitHub",
+        "cms",
+        "platforms",
+        "cms",
+        "content",
+        "github"
+      ],
+      "category": "cms",
+      "subcategory": "platforms",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "obsidian-wiki",
+      "name": "obsidian-wiki",
+      "slug": "obsidian-wiki",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Ar9av/obsidian-wiki",
+      "status": "active",
+      "tags": [
+        "cms",
+        "content",
+        "github",
+        "platforms"
+      ],
+      "searchIndex": [
+        "obsidian-wiki",
+        "obsidian-wiki",
+        "Repositorio GitHub",
+        "cms",
+        "platforms",
+        "cms",
+        "content",
+        "github"
+      ],
+      "category": "cms",
+      "subcategory": "platforms",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "pdfslick",
+      "name": "pdfslick",
+      "slug": "pdfslick",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/pdfslick/pdfslick",
+      "status": "active",
+      "tags": [
+        "cms",
+        "content",
+        "github",
+        "platforms"
+      ],
+      "searchIndex": [
+        "pdfslick",
+        "pdfslick",
+        "Repositorio GitHub",
+        "cms",
+        "platforms",
+        "cms",
+        "content",
+        "github"
+      ],
+      "category": "cms",
+      "subcategory": "platforms",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "open-pencil",
+      "name": "open-pencil",
+      "slug": "open-pencil",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/open-pencil/open-pencil.git",
+      "status": "active",
+      "tags": [
+        "cms",
+        "content",
+        "github",
+        "platforms"
+      ],
+      "searchIndex": [
+        "open-pencil",
+        "open-pencil",
+        "Repositorio GitHub",
+        "cms",
+        "platforms",
+        "cms",
+        "content",
+        "github"
+      ],
+      "category": "cms",
+      "subcategory": "platforms",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
     }
   ]
 }

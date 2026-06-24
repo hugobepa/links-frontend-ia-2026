@@ -339,6 +339,308 @@
 | **hf-co** | Recurso técnico | [hf.co/learn/nlp-course](https://hf.co/learn/nlp-course) |
 | **coursera-org** | Recurso técnico | [www.coursera.org/learn/building-rag-agents-with-langchain](https://www.coursera.org/learn/building-rag-agents-with-langchain) |
 | **fast-ai** | Recurso técnico | [Fast.ai](https://Fast.ai) |
+| **syntx-ai** | Recurso técnico | [syntx.ai/](https://syntx.ai/) |
+| **template0-com** | Recurso técnico | [template0.com/](https://template0.com/) |
+| **template0-com-2** | Recurso técnico | [template0.com/item/shipfree](https://template0.com/item/shipfree) |
+| **fullstack-start-template** | Repositorio GitHub | [github.com/CarlosZiegler/fullstack-start-template](https://github.com/CarlosZiegler/fullstack-start-template) |
+| **convex-dev** | Recurso técnico | [www.convex.dev/templates](https://www.convex.dev/templates) |
+| **astro-build** | Recurso técnico | [astro.build/themes/details/astroship/](https://astro.build/themes/details/astroship/) |
+| **redeszone-net** | Recurso técnico | [www.redeszone.net/tutoriales/dominios/registrar-dominio-gratis-usar-cloudflare-gestion-dns/](https://www.redeszone.net/tutoriales/dominios/registrar-dominio-gratis-usar-cloudflare-gestion-dns/) |
+| **Droidspaces-OSS** | Repositorio GitHub | [github.com/ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) |
+| **dash-domain-digitalplat-org** | Recurso técnico | [dash.domain.digitalplat.org/auth/login](https://dash.domain.digitalplat.org/auth/login) |
+| **codex-plugin-cc** | Repositorio GitHub | [github.com/openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) |
+| **voice-pro** | Repositorio GitHub | [github.com/abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) |
+| **hermes-desktop** | Repositorio GitHub | [github.com/fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) |
+| **Webwright** | Repositorio GitHub | [github.com/microsoft/Webwright.git](https://github.com/microsoft/Webwright.git) |
+| **cs50-harvard-edu** | Recurso técnico | [cs50.harvard.edu/x/](https://cs50.harvard.edu/x/) |
+| **digitallearn-org** | Recurso técnico | [www.digitallearn.org/](https://www.digitallearn.org/) |
+| **commoncraft-com** | Recurso técnico | [commoncraft.com/video-library](https://commoncraft.com/video-library) |
+| **ai-infra-engineer-learning** | Repositorio GitHub | [github.com/ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) |
+| **ai-infra-curriculum** | Repositorio GitHub | [github.com/ai-infra-curriculum](https://github.com/ai-infra-curriculum) |
+| **automaton** | Repositorio GitHub | [github.com/ConwayResearch/automaton](https://github.com/ConwayResearch/automaton) |
+| **automaton-2** | Repositorio GitHub | [github.com/Conway-Research/automaton](https://github.com/Conway-Research/automaton) |
+| **notebooklm-py** | Repositorio GitHub | [github.com/teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) |
+| **aicodeguide** | Repositorio GitHub | [github.com/automata/aicodeguide](https://github.com/automata/aicodeguide) |
+| **Falcon-Perception** | Repositorio GitHub | [github.com/tiiuae/Falcon-Perception](https://github.com/tiiuae/Falcon-Perception) |
+| **machine-learning-refined** | Repositorio GitHub | [github.com/neonwatty/machine-learning-refined](https://github.com/neonwatty/machine-learning-refined) |
+| **All-3R-SLAM-in-this-Repo** | Repositorio GitHub | [github.com/3D-Vision-World/All-3R-SLAM-in-this-Repo](https://github.com/3D-Vision-World/All-3R-SLAM-in-this-Repo) |
+| **drive-google-com** | Recurso técnico | [drive.google.com/file/d/1SikCWxV8HfpuRwNk_DOYJBnXlHqL6i8p/view?usp=drivesdk](https://drive.google.com/file/d/1SikCWxV8HfpuRwNk_DOYJBnXlHqL6i8p/view?usp=drivesdk) |
+| **open-claude-code** | Repositorio GitHub | [github.com/ruvnet/open-claude-code](https://github.com/ruvnet/open-claude-code) |
+| **solo-founder-superpowers** | Repositorio GitHub | [github.com/whawkinsiv/solo-founder-superpowers](https://github.com/whawkinsiv/solo-founder-superpowers) |
+| **RoboCrew** | Repositorio GitHub | [github.com/Grigorij-Dudnik/RoboCrew](https://github.com/Grigorij-Dudnik/RoboCrew) |
+| **agent-rules-books** | Repositorio GitHub | [github.com/ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books) |
+| **ChatGarment** | Repositorio GitHub | [github.com/biansy000/ChatGarment](https://github.com/biansy000/ChatGarment) |
+| **mercury-agent-skills** | Repositorio GitHub | [github.com/cosmicstack-labs/mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills) |
+| **GLM-OCR** | Repositorio GitHub | [github.com/zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) |
+| **AlgorithmVisualizer** | Repositorio GitHub | [github.com/TamimEhsan/AlgorithmVisualizer](https://github.com/TamimEhsan/AlgorithmVisualizer) |
+| **learn-claude-code** | Repositorio GitHub | [github.com/shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) |
+| **council-of-high-intelligence** | Repositorio GitHub | [github.com/0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) |
+| **bmad-module-creative-intelligence-suite** | Repositorio GitHub | [github.com/bmad-code-org/bmad-module-creative-intelligence-suite](https://github.com/bmad-code-org/bmad-module-creative-intelligence-suite) |
+| **researchgate-net** | Recurso técnico | [www.researchgate.net/profile/Arumugam-Raman/post/could_anyone_can_help_me_to_better_understanding_of_the_statistical_values_in_simple_way_If_any_reference_pls_suggest_me/attachment/59d6280379197b80779865cf/AS%3A328274824712194%401455278225385/download/Book2.pdf](https://www.researchgate.net/profile/Arumugam-Raman/post/could_anyone_can_help_me_to_better_understanding_of_the_statistical_values_in_simple_way_If_any_reference_pls_suggest_me/attachment/59d6280379197b80779865cf/AS%3A328274824712194%401455278225385/download/Book2.pdf) |
+| **GeminiWatermarkTool** | Repositorio GitHub | [github.com/allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) |
+| **omniparse** | Repositorio GitHub | [github.com/adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) |
+| **X-Voice** | Repositorio GitHub | [github.com/sunnyxrxrx/X-Voice](https://github.com/sunnyxrxrx/X-Voice) |
+| **make-pages-interactive** | Repositorio GitHub | [github.com/paraschopra/make-pages-interactive](https://github.com/paraschopra/make-pages-interactive) |
+| **facex** | Repositorio GitHub | [github.com/facex-engine/facex](https://github.com/facex-engine/facex) |
+| **server** | Repositorio GitHub | [github.com/Sync-in/server](https://github.com/Sync-in/server) |
+| **defending-code-reference-harness** | Repositorio GitHub | [github.com/anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) |
+| **openvid** | Repositorio GitHub | [github.com/CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) |
+| **databaseschool-com** | Recurso técnico | [databaseschool.com/series/intro-to-postgres/videos/203](https://databaseschool.com/series/intro-to-postgres/videos/203) |
+| **awesome-harness-engineering** | Repositorio GitHub | [github.com/ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) |
+| **microsoft-github-io** | Recurso técnico | [microsoft.github.io/Webwright/](https://microsoft.github.io/Webwright/) |
+| **awesome-roadmaps** | Repositorio GitHub | [github.com/liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) |
+| **transyncai-com** | Recurso técnico | [www.transyncai.com/](https://www.transyncai.com/) |
+| **freephdlabor** | Repositorio GitHub | [github.com/ltjed/freephdlabor](https://github.com/ltjed/freephdlabor) |
+| **vinci-clips** | Repositorio GitHub | [github.com/tryvinci/vinci-clips](https://github.com/tryvinci/vinci-clips) |
+| **claude-code-hooks** | Repositorio GitHub | [github.com/shanraisshan/claude-code-hooks](https://github.com/shanraisshan/claude-code-hooks) |
+| **SadTalker** | Repositorio GitHub | [github.com/OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) |
+| **whisper** | Repositorio GitHub | [github.com/openai/whisper](https://github.com/openai/whisper) |
+| **osf-io** | Recurso técnico | [osf.io/preprints/thesiscommons/wehmg_v1](https://osf.io/preprints/thesiscommons/wehmg_v1) |
+| **skyvern** | Repositorio GitHub | [github.com/Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) |
+| **roborev** | Repositorio GitHub | [github.com/kenn-io/roborev](https://github.com/kenn-io/roborev) |
+| **parallel-code** | Repositorio GitHub | [github.com/johannesjo/parallel-code](https://github.com/johannesjo/parallel-code) |
+| **awesome-agent-orchestrators** | Repositorio GitHub | [github.com/andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) |
+| **Awesome-LM-SSP** | Repositorio GitHub | [github.com/CryptoAILab/Awesome-LM-SSP](https://github.com/CryptoAILab/Awesome-LM-SSP) |
+| **logans-guide** | Repositorio GitHub | [github.com/loganthorneloe/logans-guide](https://github.com/loganthorneloe/logans-guide) |
+| **alphaclaw** | Repositorio GitHub | [github.com/chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) |
+| **imgto-xyz** | Recurso técnico | [imgto.xyz/](https://imgto.xyz/) |
+| **docs-liquid-ai** | Recurso técnico | [docs.liquid.ai/examples/customize-models/satellite-vlm](https://docs.liquid.ai/examples/customize-models/satellite-vlm) |
+| **alook** | Repositorio GitHub | [github.com/alookai/alook](https://github.com/alookai/alook) |
+| **sia** | Repositorio GitHub | [github.com/hexo-ai/sia](https://github.com/hexo-ai/sia) |
+| **mulerun-com** | Recurso técnico | [mulerun.com/es](https://mulerun.com/es) |
+| **openclaw-android** | Repositorio GitHub | [github.com/AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) |
+| **BrowserAI** | Repositorio GitHub | [github.com/sauravpanda/BrowserAI](https://github.com/sauravpanda/BrowserAI) |
+| **cookbook** | Repositorio GitHub | [github.com/Liquid4All/cookbook/tree/main/examples/browser-control](https://github.com/Liquid4All/cookbook/tree/main/examples/browser-control) |
+| **MiniCPM** | Repositorio GitHub | [github.com/OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) |
+| **radarr-video** | Recurso técnico | [radarr.video](https://radarr.video) |
+| **sonarr-tv** | Recurso técnico | [sonarr.tv](https://sonarr.tv) |
+| **tegaki** | Repositorio GitHub | [github.com/KurtGokhan/tegaki.git](https://github.com/KurtGokhan/tegaki.git) |
+| **cs241-cs-illinois-edu** | Recurso técnico | [cs241.cs.illinois.edu/coursebook](https://cs241.cs.illinois.edu/coursebook) |
+| **clcoding-com** | Recurso técnico | [www.clcoding.com/2023/11/hands-on-machine-learning-with-scikit.html](https://www.clcoding.com/2023/11/hands-on-machine-learning-with-scikit.html) |
+| **hallmark** | Repositorio GitHub | [github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark) |
+| **SeekerClaw** | Repositorio GitHub | [github.com/sepivip/SeekerClaw](https://github.com/sepivip/SeekerClaw) |
+| **scale-agentex** | Repositorio GitHub | [github.com/scaleapi/scale-agentex](https://github.com/scaleapi/scale-agentex) |
+| **ghost-ai** | Repositorio GitHub | [github.com/adrianhajdin/ghost-ai](https://github.com/adrianhajdin/ghost-ai) |
+| **PaddleOCR** | Repositorio GitHub | [github.com/PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) |
+| **picrew-github-io** | Recurso técnico | [picrew.github.io/LLM-Harness/](https://picrew.github.io/LLM-Harness/) |
+| **transformers-the-definitive-guide** | Repositorio GitHub | [github.com/Nicolepcx/transformers-the-definitive-guide](https://github.com/Nicolepcx/transformers-the-definitive-guide) |
+| **awesome-free-apps** | Repositorio GitHub | [github.com/Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) |
+| **MemMachine** | Repositorio GitHub | [github.com/MemMachine/MemMachine](https://github.com/MemMachine/MemMachine) |
+| **PersonaLive** | Repositorio GitHub | [github.com/GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) |
+| **openpi** | Repositorio GitHub | [github.com/Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) |
+| **VibeAround** | Repositorio GitHub | [github.com/jazzenchen/VibeAround](https://github.com/jazzenchen/VibeAround) |
+| **fara** | Repositorio GitHub | [github.com/microsoft/fara](https://github.com/microsoft/fara) |
+| **AgentLaboratory** | Repositorio GitHub | [github.com/SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) |
+| **ai-avatar-system** | Repositorio GitHub | [github.com/PunithVT/ai-avatar-system](https://github.com/PunithVT/ai-avatar-system) |
+| **best-of-ml-python** | Repositorio GitHub | [github.com/lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) |
+| **huggingface-co** | Recurso técnico | [huggingface.co/datalab-to/surya-ocr-2](https://huggingface.co/datalab-to/surya-ocr-2) |
+| **SysMocap** | Repositorio GitHub | [github.com/xianfei/SysMocap](https://github.com/xianfei/SysMocap) |
+| **turingpost-com** | Recurso técnico | [www.turingpost.com/p/token](https://www.turingpost.com/p/token) |
+| **popularmechanics-com** | Recurso técnico | [www.popularmechanics.com/space/rockets/a71443027/engineer-says-he-can-overcome-earths-gravity/](https://www.popularmechanics.com/space/rockets/a71443027/engineer-says-he-can-overcome-earths-gravity/) |
+| **playground-liquid-ai** | Recurso técnico | [playground.liquid.ai/](https://playground.liquid.ai/) |
+| **openhuman** | Repositorio GitHub | [github.com/tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) |
+| **SkillOpt** | Repositorio GitHub | [github.com/microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) |
+| **CodexGuide** | Repositorio GitHub | [github.com/freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) |
+| **Agenvoy** | Repositorio GitHub | [github.com/pardnchiu/Agenvoy](https://github.com/pardnchiu/Agenvoy) |
+| **SkillNet** | Repositorio GitHub | [github.com/zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) |
+| **Telegram-Drive** | Repositorio GitHub | [github.com/caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) |
+| **finance-skills** | Repositorio GitHub | [github.com/himself65/finance-skills](https://github.com/himself65/finance-skills) |
+| **agentwasp** | Repositorio GitHub | [github.com/agentwasp/agentwasp](https://github.com/agentwasp/agentwasp) |
+| **seo-geo-claude-skills** | Repositorio GitHub | [github.com/aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) |
+| **npxskillui** | Repositorio GitHub | [github.com/amaancoderx/npxskillui](https://github.com/amaancoderx/npxskillui) |
+| **project-nomad** | Repositorio GitHub | [github.com/Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) |
+| **machine-learning-for-trading** | Repositorio GitHub | [github.com/stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) |
+| **plugins** | Repositorio GitHub | [github.com/cursor/plugins](https://github.com/cursor/plugins) |
+| **mltut-com** | Recurso técnico | [www.mltut.com/best-advanced-deep-learning-courses/](https://www.mltut.com/best-advanced-deep-learning-courses/) |
+| **terax-ai** | Repositorio GitHub | [github.com/crynta/terax-ai](https://github.com/crynta/terax-ai) |
+| **ECC** | Repositorio GitHub | [github.com/affaan-m/ECC](https://github.com/affaan-m/ECC) |
+| **devops-daily-com** | Recurso técnico | [devops-daily.com/games/linux-terminal](https://devops-daily.com/games/linux-terminal) |
+| **RoboOS** | Repositorio GitHub | [github.com/FlagOpen/RoboOS](https://github.com/FlagOpen/RoboOS) |
+| **context7-skill** | Repositorio GitHub | [github.com/netresearch/context7-skill](https://github.com/netresearch/context7-skill) |
+| **kimi-com** | Recurso técnico | [www.kimi.com/code/en](https://www.kimi.com/code/en) |
+| **raw-githubusercontent-com** | Recurso técnico | [raw.githubusercontent.com/dograh-hq/dograh/](https://raw.githubusercontent.com/dograh-hq/dograh/) |
+| **science-skills** | Repositorio GitHub | [github.com/google-deepmind/science-skills](https://github.com/google-deepmind/science-skills) |
+| **skillspector** | Repositorio GitHub | [github.com/nvidia/skillspector](https://github.com/nvidia/skillspector) |
+| **OpenLogi** | Repositorio GitHub | [github.com/AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) |
+| **EpicStaff** | Repositorio GitHub | [github.com/EpicStaff/EpicStaff](https://github.com/EpicStaff/EpicStaff) |
+| **freqtrade** | Repositorio GitHub | [github.com/freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) |
+| **manning-com** | Recurso técnico | [www.manning.com/books/deep-learning-with-pytorch-second-edition](https://www.manning.com/books/deep-learning-with-pytorch-second-edition) |
+| **motion-diffusion-model** | Repositorio GitHub | [github.com/GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) |
+| **Graph-R1** | Repositorio GitHub | [github.com/LHRLAB/Graph-R1](https://github.com/LHRLAB/Graph-R1) |
+| **clawd-rip** | Recurso técnico | [clawd.rip](https://clawd.rip) |
+| **mlsysbook-ai** | Recurso técnico | [mlsysbook.ai/vol1/assets/downloads/Machine-Learning-Systems-Vol1.pdf](https://mlsysbook.ai/vol1/assets/downloads/Machine-Learning-Systems-Vol1.pdf) |
+| **mlsysbook-ai-2** | Recurso técnico | [mlsysbook.ai/vol2/assets/downloads/Machine-Learning-Systems-Vol2.pdf](https://mlsysbook.ai/vol2/assets/downloads/Machine-Learning-Systems-Vol2.pdf) |
+| **algorithmsbook-com** | Recurso técnico | [algorithmsbook.com](https://algorithmsbook.com) |
+| **deeplearningbook-org** | Recurso técnico | [deeplearningbook.org](https://deeplearningbook.org) |
+| **marl-book-com** | Recurso técnico | [marl-book.com](https://marl-book.com) |
+| **watermark02-silverchair-com** | Recurso técnico | [watermark02.silverchair.com/book_9780262380355.pdf](https://watermark02.silverchair.com/book_9780262380355.pdf) |
+| **fairmlbook-org** | Recurso técnico | [fairmlbook.org](https://fairmlbook.org) |
+| **probml-github-io** | Recurso técnico | [probml.github.io/pml-book/book1.html](https://probml.github.io/pml-book/book1.html) |
+| **probml-github-io-2** | Recurso técnico | [probml.github.io/pml-book/book2.html](https://probml.github.io/pml-book/book2.html) |
+| **claude-howto** | Repositorio GitHub | [github.com/luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) |
+| **awesome-claude-skills** | Repositorio GitHub | [github.com/travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) |
+| **Understand-Anything** | Repositorio GitHub | [github.com/Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) |
+| **TREK** | Repositorio GitHub | [github.com/mauriceboe/TREK](https://github.com/mauriceboe/TREK) |
+| **openalex-org** | Recurso técnico | [openalex.org/](https://openalex.org/) |
+| **Kwipu** | Repositorio GitHub | [github.com/benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) |
+| **ABot-Manipulation** | Repositorio GitHub | [github.com/amap-cvlab/ABot-Manipulation](https://github.com/amap-cvlab/ABot-Manipulation) |
+| **thuki** | Repositorio GitHub | [github.com/quiet-node/thuki](https://github.com/quiet-node/thuki) |
+| **agentic-ai-apis** | Repositorio GitHub | [github.com/cporter202/agentic-ai-apis](https://github.com/cporter202/agentic-ai-apis) |
+| **atlas-agents** | Repositorio GitHub | [github.com/agulli/atlas-agents](https://github.com/agulli/atlas-agents) |
+| **huggingface-co-7** | Recurso técnico | [huggingface.co/LiquidAI/LFM2.5-VL-450M-Extract](https://huggingface.co/LiquidAI/LFM2.5-VL-450M-Extract) |
+| **publish-obsidian-md** | Recurso técnico | [publish.obsidian.md/simoneriflesso/Reference+notes/Libri/How+to+take+smart+notes+-+Ahrens](https://publish.obsidian.md/simoneriflesso/Reference+notes/Libri/How+to+take+smart+notes+-+Ahrens) |
+| **programming-25-mooc-fi** | Recurso técnico | [programming-25.mooc.fi](https://programming-25.mooc.fi) |
+| **deepseek-desktop** | Repositorio GitHub | [github.com/doxdk/deepseek-desktop](https://github.com/doxdk/deepseek-desktop) |
+| **webvm-io** | Recurso técnico | [webvm.io](https://webvm.io) |
+| **espectre** | Repositorio GitHub | [github.com/francescopace/espectre](https://github.com/francescopace/espectre) |
+| **geo-seo-claude** | Repositorio GitHub | [github.com/zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) |
+| **medical-research-skills** | Repositorio GitHub | [github.com/aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) |
+| **awesome-ai-tools** | Repositorio GitHub | [github.com/eudk/awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) |
+| **get-it** | Repositorio GitHub | [github.com/beltromatti/get-it](https://github.com/beltromatti/get-it) |
+| **DeepScientist** | Repositorio GitHub | [github.com/ResearAI/DeepScientist](https://github.com/ResearAI/DeepScientist) |
+| **QuantDinger** | Repositorio GitHub | [github.com/brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) |
+| **component-party-dev** | Recurso técnico | [component-party.dev](https://component-party.dev) |
+| **EveryonesLLM** | Repositorio GitHub | [github.com/HayatoHongo/EveryonesLLM](https://github.com/HayatoHongo/EveryonesLLM) |
+| **Shannon** | Repositorio GitHub | [github.com/Kocoro-lab/Shannon](https://github.com/Kocoro-lab/Shannon) |
+| **opencode-mem** | Repositorio GitHub | [github.com/tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) |
+| **agentic-context-engine** | Repositorio GitHub | [github.com/kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) |
+| **colah-github-io** | Recurso técnico | [colah.github.io/posts/2015-09-Visual-Information/](https://colah.github.io/posts/2015-09-Visual-Information/) |
+| **last30days-skill** | Repositorio GitHub | [github.com/mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) |
+| **makingsoftware-com** | Recurso técnico | [www.makingsoftware.com/chapters/image-compression](https://www.makingsoftware.com/chapters/image-compression) |
+| **skales** | Repositorio GitHub | [github.com/skalesapp/skales](https://github.com/skalesapp/skales) |
+| **videos** | Repositorio GitHub | [github.com/3b1b/videos](https://github.com/3b1b/videos) |
+| **WindowsDeveloperConfig** | Repositorio GitHub | [github.com/microsoft/WindowsDeveloperConfig.git](https://github.com/microsoft/WindowsDeveloperConfig.git) |
+| **Statistics-Books** | Repositorio GitHub | [github.com/HamdaanMohideen/Statistics-Books.git](https://github.com/HamdaanMohideen/Statistics-Books.git) |
+| **MasterDnsVPN** | Repositorio GitHub | [github.com/masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) |
+| **labs-google** | Recurso técnico | [labs.google/lll/es](https://labs.google/lll/es) |
+| **huggingface-co-8** | Recurso técnico | [huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF](https://huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF) |
+| **guppylm** | Repositorio GitHub | [github.com/arman-bd/guppylm](https://github.com/arman-bd/guppylm) |
+| **OpenClaw-Medical-Skills** | Repositorio GitHub | [github.com/FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) |
+| **fireworks-tech-graph** | Repositorio GitHub | [github.com/yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) |
+| **claude-seo** | Repositorio GitHub | [github.com/AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) |
+| **mnemosyne** | Repositorio GitHub | [github.com/28naem-del/mnemosyne](https://github.com/28naem-del/mnemosyne) |
+| **OpenClaw-RL** | Repositorio GitHub | [github.com/Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) |
+| **ai-marketing-claude** | Repositorio GitHub | [github.com/zubair-trabzada/ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude) |
+| **colab-research-google-com** | Recurso técnico | [colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen3*5*(4B](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen3*5*(4B) |
+| **vision-ipynb** | Recurso técnico | [Vision.ipynb](https://Vision.ipynb) |
+| **opensquilla** | Repositorio GitHub | [github.com/opensquilla/opensquilla/tree/integration/dev-rollup-20260528](https://github.com/opensquilla/opensquilla/tree/integration/dev-rollup-20260528) |
+| **walkinglabs-github-io-2** | Recurso técnico | [walkinglabs.github.io/hands-on-modern-rl/preface/intro](https://walkinglabs.github.io/hands-on-modern-rl/preface/intro) |
+| **hands-on-modern-rl** | Repositorio GitHub | [github.com/walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) |
+| **LuxTTS** | Repositorio GitHub | [github.com/ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) |
+| **httpmemes** | Repositorio GitHub | [github.com/keijeizei/httpmemes.git](https://github.com/keijeizei/httpmemes.git) |
+| **web-quality-skills** | Repositorio GitHub | [github.com/addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) |
+| **blossom-carousel** | Repositorio GitHub | [github.com/jespervos/blossom-carousel.git](https://github.com/jespervos/blossom-carousel.git) |
+| **quant-mind** | Repositorio GitHub | [github.com/LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) |
+| **full-stack-ai-agent-template** | Repositorio GitHub | [github.com/vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) |
+| **Clone-Wars** | Repositorio GitHub | [github.com/GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) |
+| **stackoverflow-blog** | Recurso técnico | [stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/](https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/) |
+| **dflash** | Repositorio GitHub | [github.com/z-lab/dflash](https://github.com/z-lab/dflash) |
+| **dllm** | Repositorio GitHub | [github.com/ZHZisZZ/dllm](https://github.com/ZHZisZZ/dllm) |
+| **webclaw** | Repositorio GitHub | [github.com/0xMassi/webclaw](https://github.com/0xMassi/webclaw) |
+| **container** | Repositorio GitHub | [github.com/apple/container.git](https://github.com/apple/container.git) |
+| **TradingAgents** | Repositorio GitHub | [github.com/TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) |
+| **claude-code-video-toolkit** | Repositorio GitHub | [github.com/digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) |
+| **antigravity-awesome-skills** | Repositorio GitHub | [github.com/sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) |
+| **AI-Research-SKILLs** | Repositorio GitHub | [github.com/Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) |
+| **LLMs-local** | Repositorio GitHub | [github.com/0xSojalSec/LLMs-local](https://github.com/0xSojalSec/LLMs-local) |
+| **video2x** | Repositorio GitHub | [github.com/k4yt3x/video2x](https://github.com/k4yt3x/video2x) |
+| **Memento-Skills** | Repositorio GitHub | [github.com/Memento-Teams/Memento-Skills](https://github.com/Memento-Teams/Memento-Skills) |
+| **Viper** | Repositorio GitHub | [github.com/FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) |
+| **whatsapp-web-reveng** | Repositorio GitHub | [github.com/sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) |
+| **cuda-course** | Repositorio GitHub | [github.com/Infatoshi/cuda-course](https://github.com/Infatoshi/cuda-course) |
+| **ai-engineering-interview-questions** | Repositorio GitHub | [github.com/amitshekhariitbhu/ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) |
+| **awesome-agent-skills** | Repositorio GitHub | [github.com/heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) |
+| **easy-agent** | Repositorio GitHub | [github.com/ConardLi/easy-agent](https://github.com/ConardLi/easy-agent) |
+| **every-programmer-should-know** | Repositorio GitHub | [github.com/mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) |
+| **computer-science** | Repositorio GitHub | [github.com/ossu/computer-science](https://github.com/ossu/computer-science) |
+| **ANE** | Repositorio GitHub | [github.com/maderix/ANE](https://github.com/maderix/ANE) |
+| **Portable-AI-USB** | Repositorio GitHub | [github.com/techjarves/Portable-AI-USB](https://github.com/techjarves/Portable-AI-USB) |
+| **tradememory-protocol** | Repositorio GitHub | [github.com/mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) |
+| **huggingface-co-9** | Recurso técnico | [huggingface.co/MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) |
+| **cdn-prod-website-files-com** | Recurso técnico | [cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a1611a04085d7cd3dadc924_Claude-eBook-Zero-Trust-for-AI-Agents-05182026.pdf](https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a1611a04085d7cd3dadc924_Claude-eBook-Zero-Trust-for-AI-Agents-05182026.pdf) |
+| **huggingface-co-10** | Recurso técnico | [huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2) |
+| **omnilingual-asr** | Repositorio GitHub | [github.com/facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr) |
+| **QuantaAlpha** | Repositorio GitHub | [github.com/QuantaAlpha/QuantaAlpha](https://github.com/QuantaAlpha/QuantaAlpha) |
+| **designing-multiagent-systems** | Repositorio GitHub | [github.com/victordibia/designing-multiagent-systems](https://github.com/victordibia/designing-multiagent-systems) |
+| **cameronrwolfe-substack-com** | Recurso técnico | [cameronrwolfe.substack.com/p/rl-scaling-laws](https://cameronrwolfe.substack.com/p/rl-scaling-laws) |
+| **huggingface-co-11** | Recurso técnico | [huggingface.co/datasets/Glint-Research/Fable-5-traces](https://huggingface.co/datasets/Glint-Research/Fable-5-traces) |
+| **deep-searcher** | Repositorio GitHub | [github.com/zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) |
+| **obsidian-wiki** | Repositorio GitHub | [github.com/Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) |
+| **opendev** | Repositorio GitHub | [github.com/opendev-to/opendev](https://github.com/opendev-to/opendev) |
+| **viewer** | Repositorio GitHub | [github.com/zetane/viewer](https://github.com/zetane/viewer) |
+| **awesome_ai_agents** | Repositorio GitHub | [github.com/jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) |
+| **knowledge-catalog** | Repositorio GitHub | [github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) |
+| **drawio-skill** | Repositorio GitHub | [github.com/Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) |
+| **cua** | Repositorio GitHub | [github.com/trycua/cua](https://github.com/trycua/cua) |
+| **TencentDB-Agent-Memory** | Repositorio GitHub | [github.com/TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
+| **opentabs** | Repositorio GitHub | [github.com/opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs) |
+| **0xkato-xyz** | Recurso técnico | [www.0xkato.xyz/how-llms-actually-work](https://www.0xkato.xyz/how-llms-actually-work) |
+| **bbycroft-net** | Recurso técnico | [bbycroft.net/llm](https://bbycroft.net/llm) |
+| **ppc-cs-aalto-fi** | Recurso técnico | [ppc.cs.aalto.fi/](https://ppc.cs.aalto.fi/) |
+| **coursebook** | Repositorio GitHub | [github.com/illinois-cs241/coursebook](https://github.com/illinois-cs241/coursebook) |
+| **cstack-github-io** | Recurso técnico | [cstack.github.io/db_tutorial/](https://cstack.github.io/db_tutorial/) |
+| **ponytail** | Repositorio GitHub | [github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
+| **learn-harness-engineering** | Repositorio GitHub | [github.com/walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) |
+| **gist-github-com** | Recurso técnico | [gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95) |
+| **fusion-fable** | Repositorio GitHub | [github.com/duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable) |
+| **pdfslick** | Repositorio GitHub | [github.com/pdfslick/pdfslick](https://github.com/pdfslick/pdfslick) |
+| **WaterCrawl** | Repositorio GitHub | [github.com/watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl) |
+| **messenger-abeto-co** | Recurso técnico | [messenger.abeto.co](https://messenger.abeto.co) |
+| **Win11Debloat** | Repositorio GitHub | [github.com/Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) |
+| **gridlanes-webkit-org** | Recurso técnico | [gridlanes.webkit.org/](https://gridlanes.webkit.org/) |
+| **narrator-ai-cli-skill** | Repositorio GitHub | [github.com/NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) |
+| **NeoLabH** | Repositorio GitHub | [github.com/NeoLabH](https://github.com/NeoLabH) |
+| **cocoindex-code** | Repositorio GitHub | [github.com/cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) |
+| **meta-harness** | Repositorio GitHub | [github.com/stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) |
+| **generative-ai** | Repositorio GitHub | [github.com/genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) |
+| **harness-100** | Repositorio GitHub | [github.com/revfactory/harness-100](https://github.com/revfactory/harness-100) |
+| **CircleToSearch** | Repositorio GitHub | [github.com/AKS-Labs/CircleToSearch](https://github.com/AKS-Labs/CircleToSearch) |
+| **flowkit** | Repositorio GitHub | [github.com/crisng95/flowkit](https://github.com/crisng95/flowkit) |
+| **PraisonAI** | Repositorio GitHub | [github.com/MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) |
+| **SWE-AF** | Repositorio GitHub | [github.com/Agent-Field/SWE-AF](https://github.com/Agent-Field/SWE-AF) |
+| **mnemory** | Repositorio GitHub | [github.com/fpytloun/mnemory](https://github.com/fpytloun/mnemory) |
+| **robotics-coursework** | Repositorio GitHub | [github.com/mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) |
+| **gortex** | Repositorio GitHub | [github.com/zzet/gortex](https://github.com/zzet/gortex) |
+| **future-agi** | Repositorio GitHub | [github.com/future-agi/future-agi](https://github.com/future-agi/future-agi) |
+| **claude-supermemory** | Repositorio GitHub | [github.com/supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory) |
+| **rushdb** | Repositorio GitHub | [github.com/rush-db/rushdb](https://github.com/rush-db/rushdb) |
+| **zvec** | Repositorio GitHub | [github.com/alibaba/zvec](https://github.com/alibaba/zvec) |
+| **priompt** | Repositorio GitHub | [github.com/anysphere/priompt](https://github.com/anysphere/priompt) |
+| **twenty** | Repositorio GitHub | [github.com/twentyhq/twenty](https://github.com/twentyhq/twenty) |
+| **utell-ai** | Recurso técnico | [utell.ai/](https://utell.ai/) |
+| **academy-neosage-io** | Recurso técnico | [academy.neosage.io](https://academy.neosage.io) |
+| **litellm-agent-control-plane** | Repositorio GitHub | [github.com/LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) |
+| **Auto_job_applier_linkedIn** | Repositorio GitHub | [github.com/GodsScion/Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) |
+| **oblivion-desktop** | Repositorio GitHub | [github.com/bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) |
+| **callmebot-com** | Recurso técnico | [www.callmebot.com/blog/free-api-whatsapp-messages](https://www.callmebot.com/blog/free-api-whatsapp-messages) |
+| **ui-skills-com** | Recurso técnico | [ui-skills.com](https://ui-skills.com) |
+| **headroom** | Repositorio GitHub | [github.com/chopratejas/headroom](https://github.com/chopratejas/headroom) |
+| **LiveAvatar** | Repositorio GitHub | [github.com/Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar) |
+| **OpenSearch-VL** | Repositorio GitHub | [github.com/shawn0728/OpenSearch-VL](https://github.com/shawn0728/OpenSearch-VL) |
+| **Polymarket-BTC-15-Minute-Trading-Bot** | Repositorio GitHub | [github.com/aulekator/Polymarket-BTC-15-Minute-Trading-Bot](https://github.com/aulekator/Polymarket-BTC-15-Minute-Trading-Bot) |
+| **Awesome-finance-skills** | Repositorio GitHub | [github.com/RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) |
+| **awesome-humanoid-robot-learning** | Repositorio GitHub | [github.com/YanjieZe/awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) |
+| **ManimML** | Repositorio GitHub | [github.com/helblazer811/ManimML](https://github.com/helblazer811/ManimML) |
+| **dograh** | Repositorio GitHub | [github.com/dograh-hq/dograh](https://github.com/dograh-hq/dograh) |
+| **product-mode** | Repositorio GitHub | [github.com/sohaibt/product-mode](https://github.com/sohaibt/product-mode) |
+| **governor** | Repositorio GitHub | [github.com/0xhimanshu/governor](https://github.com/0xhimanshu/governor) |
+| **All-In-One-Free-SEO-Tool** | Repositorio GitHub | [github.com/IamRamgarhia/All-In-One-Free-SEO-Tool.git](https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool.git) |
+| **shard** | Repositorio GitHub | [github.com/leyten/shard](https://github.com/leyten/shard) |
+| **filmora-wondershare-es** | Recurso técnico | [filmora.wondershare.es/](https://filmora.wondershare.es/) |
+| **open-pencil** | Repositorio GitHub | [github.com/open-pencil/open-pencil.git](https://github.com/open-pencil/open-pencil.git) |
+| **huggingface-co-12** | Recurso técnico | [huggingface.co/Mia-AiLab/Gemmable-4-12B-MTP-GGUF](https://huggingface.co/Mia-AiLab/Gemmable-4-12B-MTP-GGUF) |
+| **openevidence-com** | Recurso técnico | [www.openevidence.com/](https://www.openevidence.com/) |
+| **digger-tools** | Recurso técnico | [digger.tools](https://digger.tools) |
+| **html-to-design** | Recurso técnico | [html.to.design/home/](https://html.to.design/home/) |
+| **readme-md** | Recurso técnico | [README.md](https://README.md) |
+| **ui-skills-com-2** | Recurso técnico | [www.ui-skills.com/](https://www.ui-skills.com/) |
+| **vllm** | Repositorio GitHub | [github.com/vllm-project/vllm.git](https://github.com/vllm-project/vllm.git) |
+| **textmotion-dev** | Recurso técnico | [textmotion.dev/](https://textmotion.dev/) |
+| **npmjs-com** | Recurso técnico | [www.npmjs.com/package/slot-text](https://www.npmjs.com/package/slot-text) |
+| **sileo** | Repositorio GitHub | [github.com/hiaaryan/sileo](https://github.com/hiaaryan/sileo) |
+| **aprendesql-dev** | Recurso técnico | [www.aprendesql.dev/](https://www.aprendesql.dev/) |
+| **callmebot-com-2** | Recurso técnico | [callmebot.com/blog/free-api-whatsapp-messages/](https://callmebot.com/blog/free-api-whatsapp-messages/) |
+| **michiganrobotics** | Organización Michigan Robotics GitHub | [github.com/michiganrobotics](https://github.com/michiganrobotics) |
 
 ### **Aprendizaje Git**
 
@@ -1236,6 +1538,7 @@
 | **Surya**               | OCR document intelligence multimodal                | [github.com/datalab-to/surya](https://github.com/datalab-to/surya)                                                             | âœ… Activo |
 | **Kronos**              | Framework ML time-series predictions                | [github.com/shiyu-coder/Kronos.git](https://github.com/shiyu-coder/Kronos.git)                                                 | âœ… Activo |
 | **DeepSeek-TUI**        | Interface TUI terminal API DeepSeek                 | [github.com/Hmbown/DeepSeek-TUI.git](https://github.com/Hmbown/DeepSeek-TUI.git)                                               | âœ… Activo |
+| **kimi-k2-gguf** | Modelo Kimi K2.7 Code GGUF | [huggingface.co/unsloth/Kimi-K2.7-Code-GGUF](https://huggingface.co/unsloth/Kimi-K2.7-Code-GGUF) |
 
 ---
 
@@ -1579,6 +1882,11 @@
 | **modern-transformer-architecture** | Modern Transformer Architecture Explained          | [www.youtube.com](https://www.youtube.com/playlist?list=PLdUcsPPD8lGzctkUXlvcmSBL1GeoErrd5)                                                                  |
 | **www-cybrary-it**                  | Curso o recurso formativo                          | [www.cybrary.it](https://www.cybrary.it)                                                                                                                     |
 | **www-pluralsight-com**             | Curso o recurso formativo                          | [www.pluralsight.com](https://www.pluralsight.com)                                                                                                           |
+| **sqlzoo** | Tutorial interactivo de SQL | [sqlzoo.net/](https://sqlzoo.net/) |
+| **datalemur** | Entrevistas SQL y casos reales | [datalemur.com/](https://datalemur.com/) |
+| **sql-practice** | Hospital SQL con datasets reales | [sql-practice.com/](https://sql-practice.com/) |
+| **sql-mystery** | Juego detectivesco SQL Knight Lab | [mystery.knightlab.com/](https://mystery.knightlab.com/) |
+| **sql-easy** | SQL fácil en español paso a paso | [sql-easy.com/es/](https://sql-easy.com/es/) |
 
 ### **ArtÃ­culos CSS & Web**
 
@@ -1736,6 +2044,7 @@
 | **Spoki**         | Marketing WhatsApp Business API       | [spoki.com/en](https://spoki.com/en)                                         | âœ… Activo |
 | **RecCloud**      | Resumir videos YouTube con IA         | [reccloud.com](https://reccloud.com)                                         | âœ… Activo |
 | **linkwarden**    | Gestor self-hosted de marcadores      | [github.com/linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) | âœ… Activo |
+| **fmhy** | Free media and tools megathread | [fmhy.net/](https://fmhy.net/) |
 
 ### **ImÃ¡genes & Placeholders**
 
@@ -2015,6 +2324,12 @@
 
 | **VersiÃ³n** | **Fecha**  | **Links Totales** | **Links AÃ±adidos** | **DescripciÃ³n**                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------ | ---------- | ----------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **v18**      | 24/06/2026 | 1904              | 5                 | Añadidos 5 enlaces: SQL(7), Libros(10), más |
+| **v17**      | 24/06/2026 | 1899              | 5                 | Añadidos 5 enlaces: SQL(7), Libros(10), más |
+| **v16**      | 24/06/2026 | 1899              | 6                 | Añadidos 6 enlaces: SQL(7), Libros(10), más |
+| **v15**      | 24/06/2026 | 1898              | 6                 | Añadidos 6 enlaces: SQL(7), Libros(10), más |
+| **v14**      | 24/06/2026 | 1898              | 8                 | Añadidos 8 enlaces: SQL(7), Libros(10), más |
+| **v13** | 24/06/2026 | 2208 | 481 | Añadidos 481 enlaces automáticos |
 | **v12** | 25/05/2026 | 1727 | 310 | Añadidos 310 enlaces automáticos |
 | **v11**      | 18/05/2026 | 1417              | 31                  | AÃ±adidos 31 enlaces: IA(24), EducaciÃ³n(7)                                                                                                                                                                                                                                                                                                                                                       |
 | **v10**      | 18/05/2026 | 1386              | 8                   | AÃ±adidos 8 enlaces: IA(4), SEO(2), WhatsApp(2)                                                                                                                                                                                                                                                                                                                                                   |
@@ -2033,14 +2348,14 @@
 ### ðŸŒ³ Estructura de CategorÃ­as
 
 ```
-ðŸ“š Knowledge Base (~1588 recursos)
+ðŸ“š Knowledge Base (~2069 recursos)
 â”œâ”€â”€ â˜ï¸  Cloud & Hosting (~19)
 â”‚   â”œâ”€â”€ Proveedores Cloud Gratuitos (7)
 â”‚   â”œâ”€â”€ Hosting & Deploy (7)
 â”‚   â””â”€â”€ Cloud Management (5)
 â”œâ”€â”€ ðŸ“¦ Control de Versiones & Repos (~31)
 â”‚   â”œâ”€â”€ Plataformas Git (10)
-â”‚   â”œâ”€â”€ Recursos GitHub (224)
+â”‚   â”œâ”€â”€ Recursos GitHub (525)
 â”‚   â””â”€â”€ Aprendizaje Git (5)
 â”œâ”€â”€ ðŸ”Œ APIs & Datos (~72)
 â”‚   â”œâ”€â”€ APIs PÃºblicas (25)
@@ -2084,7 +2399,7 @@
 â”‚   â””â”€â”€ Email Templates (1)
 â”œâ”€â”€ ðŸ’³ Pagos & MonetizaciÃ³n (~30)
 â”‚   â”œâ”€â”€ Procesadores de Pago (5)
-â”‚   â””â”€â”€ Monetización & Empleo (77)
+â”‚   â””â”€â”€ Monetización & Empleo (162)
 â”œâ”€â”€ ðŸŽ® Game Dev (~8)
 â”œâ”€â”€ ðŸ“± Mobile & PWA (~7)
 â”œâ”€â”€ ðŸŒ DNS & Domain (~9)
@@ -2095,7 +2410,7 @@
 â”‚   â”œâ”€â”€ VPN (7)
 â”‚   â””â”€â”€ Seguridad & Auth (23)
 â”œâ”€â”€ ðŸ“š EducaciÃ³n & Aprendizaje (~173)
-â”‚   â”œâ”€â”€ Cursos Programación (117)
+â”‚   â”œâ”€â”€ Cursos Programación (212)
 â”‚   â”œâ”€â”€ Libros & DocumentaciÃ³n (44)
 â”‚   â”œâ”€â”€ Canales YouTube (31)
 â”‚   â”œâ”€â”€ Aprendizaje de InglÃ©s (7)

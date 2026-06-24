@@ -66,7 +66,7 @@
       "description": "Etiqueta canvas"
     },
     "cms": {
-      "count": 9,
+      "count": 13,
       "color": "#d97706",
       "description": "Etiqueta cms"
     },
@@ -96,7 +96,7 @@
       "description": "Etiqueta components"
     },
     "content": {
-      "count": 2,
+      "count": 6,
       "color": "#d97706",
       "description": "Etiqueta content"
     },
@@ -231,7 +231,7 @@
       "description": "Etiqueta git-based"
     },
     "github": {
-      "count": 6,
+      "count": 10,
       "color": "#d97706",
       "description": "Etiqueta github"
     },
@@ -381,7 +381,7 @@
       "description": "Etiqueta pdf"
     },
     "platforms": {
-      "count": 1,
+      "count": 5,
       "color": "#7c3aed",
       "description": "Etiqueta platforms"
     },
@@ -647,794 +647,1222 @@
     "entries": [
       {
         "id": "5-best-ai-repos",
+        "name": "5 Best AI Repos",
         "slug": "5-best-ai-repos",
-        "terms": [
-          "5 Best AI Repos",
-          "5-best-ai-repos",
-          "Top 5 repos IA",
-          "utilities",
-          "general-resources",
+        "description": "Top 5 repos IA",
+        "category": "utilities",
+        "subcategory": "general-resources",
+        "tags": [
           "ai",
           "github",
           "repos",
           "top"
-        ]
+        ],
+        "url": "https://dev.to/kumarmanish/5-best-github-ai-repos-to-master-ai-like-a-pro-4o82",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "5 best ai repos 5-best-ai-repos top 5 repos ia utilities general-resources ai github repos top"
       },
       {
         "id": "animation-css",
+        "name": "Animation CSS",
         "slug": "animation-css",
-        "terms": [
-          "Animation CSS",
-          "animation-css",
-          "Vanilla CSS animation",
-          "utilities",
-          "dev-tools",
+        "description": "Vanilla CSS animation",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "css",
           "animation",
           "vanilla",
           "codepen"
-        ]
+        ],
+        "url": "https://codepen.io/giana/pen/BabdgjB",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "animation css animation-css vanilla css animation utilities dev-tools css animation vanilla codepen"
       },
       {
         "id": "awesome-cv",
+        "name": "Awesome CV",
         "slug": "awesome-cv",
-        "terms": [
-          "Awesome CV",
-          "awesome-cv",
-          "Plantillas CV LaTeX",
-          "utilities",
-          "dev-tools",
+        "description": "Plantillas CV LaTeX",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "cv",
           "latex",
           "templates",
           "resume"
-        ]
+        ],
+        "url": "https://github.com/posquit0/Awesome-CV",
+        "pricing": "free",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "searchText": "awesome cv awesome-cv plantillas cv latex utilities dev-tools cv latex templates resume"
       },
       {
         "id": "bearnie-dev",
+        "name": "Bearnie Dev",
         "slug": "bearnie-dev",
-        "terms": [
-          "Bearnie Dev",
-          "bearnie-dev",
-          "Recursos y herramientas dev",
+        "description": "Recursos y herramientas dev",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "utilities",
           "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
-        ]
+          "y-i-herramientas-dev",
+          "bearnie-dev"
+        ],
+        "url": "https://bearnie.dev/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "bearnie dev bearnie-dev recursos y herramientas dev utilities dev-tools utilities dev-tools y-utilidades-herramientas y-i-herramientas-dev bearnie-dev"
       },
       {
         "id": "boneyard",
+        "name": "Boneyard",
         "slug": "boneyard",
-        "terms": [
-          "Boneyard",
-          "boneyard",
-          "Skeleton components",
-          "utilities",
-          "dev-tools",
+        "description": "Skeleton components",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "skeleton",
           "components",
           "react",
           "github"
-        ]
+        ],
+        "url": "https://github.com/0xGF/boneyard",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "boneyard boneyard skeleton components utilities dev-tools skeleton components react github"
       },
       {
         "id": "bsky-comments",
+        "name": "Bsky Comments",
         "slug": "bsky-comments",
-        "terms": [
-          "Bsky Comments",
-          "bsky-comments",
-          "Comentarios con Bluesky en web",
+        "description": "Comentarios con Bluesky en web",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "utilities",
           "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
-        ]
+          "y-i-herramientas-dev",
+          "bsky-comments"
+        ],
+        "url": "https://github.com/florianschepp/bsky-comments",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "bsky comments bsky-comments comentarios con bluesky en web utilities dev-tools utilities dev-tools y-utilidades-herramientas y-i-herramientas-dev bsky-comments"
       },
       {
         "id": "buzz-whisper",
+        "name": "Buzz Whisper",
         "slug": "buzz-whisper",
-        "terms": [
-          "Buzz Whisper",
-          "buzz-whisper",
-          "Transcripción audio/video",
-          "utilities",
-          "dev-tools",
+        "description": "Transcripción audio/video",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "transcription",
           "audio",
           "video",
           "whisper"
-        ]
+        ],
+        "url": "https://github.com/chidiwilliams/buzz",
+        "pricing": "free",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "searchText": "buzz whisper buzz-whisper transcripción audio/video utilities dev-tools transcription audio video whisper"
       },
       {
         "id": "canvas-confetti",
+        "name": "Canvas Confetti",
         "slug": "canvas-confetti",
-        "terms": [
-          "Canvas Confetti",
-          "canvas-confetti",
-          "Efectos confetti en canvas",
-          "utilities",
-          "dev-tools",
+        "description": "Efectos confetti en canvas",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "canvas",
           "effects",
           "npm",
           "javascript"
-        ]
+        ],
+        "url": "https://www.npmjs.com/package/canvas-confetti",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "canvas confetti canvas-confetti efectos confetti en canvas utilities dev-tools canvas effects npm javascript"
       },
       {
         "id": "codegraph-gh",
+        "name": "codegraph-gh",
         "slug": "codegraph-gh",
-        "terms": [
-          "codegraph-gh",
-          "Crawler y grafo de cÃ³digo",
+        "description": "Crawler y grafo de cÃ³digo",
+        "category": "utilities",
+        "subcategory": "seo-scraping",
+        "tags": [
           "utilities",
           "seo-scraping",
           "y-utilidades-herramientas",
-          "y-seo-scraping"
-        ]
+          "y-seo-scraping",
+          "codegraph-gh"
+        ],
+        "url": "https://github.com/colbymchenry/codegraph",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "codegraph-gh codegraph-gh crawler y grafo de cã³digo utilities seo-scraping utilities seo-scraping y-utilidades-herramientas y-seo-scraping codegraph-gh"
       },
       {
         "id": "contentful",
+        "name": "Contentful",
         "slug": "contentful",
-        "terms": [
-          "Contentful",
-          "contentful",
-          "CMS headless 5 usuarios gratis",
+        "description": "CMS headless 5 usuarios gratis",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
           "cms",
-          "platforms",
           "headless",
           "saas",
           "content"
-        ]
+        ],
+        "url": "https://www.contentful.com",
+        "pricing": "freemium",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "searchText": "contentful contentful cms headless 5 usuarios gratis cms platforms cms headless saas content"
       },
       {
         "id": "crawl4ai",
+        "name": "crawl4ai",
         "slug": "crawl4ai",
-        "terms": [
-          "crawl4ai",
-          "Crawl y extracciÃ³n web para LLMs",
+        "description": "Crawl y extracciÃ³n web para LLMs",
+        "category": "utilities",
+        "subcategory": "seo-scraping",
+        "tags": [
           "utilities",
           "seo-scraping",
           "y-utilidades-herramientas",
-          "y-seo-scraping"
-        ]
+          "y-seo-scraping",
+          "crawl4ai"
+        ],
+        "url": "https://github.com/unclecode/crawl4ai",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "crawl4ai crawl4ai crawl y extracciã³n web para llms utilities seo-scraping utilities seo-scraping y-utilidades-herramientas y-seo-scraping crawl4ai"
       },
       {
         "id": "crawlee-python-gh",
+        "name": "crawlee-python-gh",
         "slug": "crawlee-python-gh",
-        "terms": [
-          "crawlee-python-gh",
-          "Web scraping escalable con Python",
+        "description": "Web scraping escalable con Python",
+        "category": "utilities",
+        "subcategory": "seo-scraping",
+        "tags": [
           "utilities",
           "seo-scraping",
           "y-desarrollo-ide",
-          "ia-para-desarrollo"
-        ]
+          "ia-para-desarrollo",
+          "crawlee-python-gh"
+        ],
+        "url": "https://github.com/apify/crawlee-python",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "crawlee-python-gh crawlee-python-gh web scraping escalable con python utilities seo-scraping utilities seo-scraping y-desarrollo-ide ia-para-desarrollo crawlee-python-gh"
       },
       {
         "id": "datagouv-mcp",
+        "name": "Datagouv MCP",
         "slug": "datagouv-mcp",
-        "terms": [
-          "Datagouv MCP",
-          "datagouv-mcp",
-          "MCP datos gobierno francés",
-          "utilities",
-          "dev-tools",
+        "description": "MCP datos gobierno francés",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "mcp",
           "data",
           "government",
           "france"
-        ]
+        ],
+        "url": "https://github.com/datagouv/datagouv-mcp",
+        "pricing": "free",
+        "languages": [
+          "fr",
+          "en"
+        ],
+        "searchText": "datagouv mcp datagouv-mcp mcp datos gobierno francés utilities dev-tools mcp data government france"
       },
       {
         "id": "datatype",
+        "name": "DataType",
         "slug": "datatype",
-        "terms": [
-          "DataType",
-          "datatype",
-          "Visualizador tipos datos interactivo",
+        "description": "Visualizador tipos datos interactivo",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "utilities",
           "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
-        ]
+          "y-i-herramientas-dev",
+          "datatype"
+        ],
+        "url": "https://franktisellano.github.io/datatype/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "datatype datatype visualizador tipos datos interactivo utilities dev-tools utilities dev-tools y-utilidades-herramientas y-i-herramientas-dev datatype"
       },
       {
         "id": "directus",
+        "name": "Directus",
         "slug": "directus",
-        "terms": [
-          "Directus",
-          "directus",
-          "CMS y backend open source",
+        "description": "CMS y backend open source",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
           "cms",
-          "platforms",
           "backend",
           "open-source",
           "headless"
-        ]
+        ],
+        "url": "https://directus.io",
+        "pricing": "freemium",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "searchText": "directus directus cms y backend open source cms platforms cms backend open-source headless"
       },
       {
         "id": "emdash",
+        "name": "Emdash",
         "slug": "emdash",
-        "terms": [
-          "Emdash",
-          "emdash",
-          "CMS headless moderno open source",
+        "description": "CMS headless moderno open source",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
           "cms",
           "platforms",
-          "y-cms-content"
-        ]
+          "y-cms-content",
+          "emdash"
+        ],
+        "url": "https://github.com/emdash-cms/emdash",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "emdash emdash cms headless moderno open source cms platforms cms platforms y-cms-content emdash"
       },
       {
         "id": "evershop",
+        "name": "EverShop",
         "slug": "evershop",
-        "terms": [
-          "EverShop",
-          "evershop",
-          "eCommerce plantilla React",
-          "utilities",
-          "dev-tools",
+        "description": "eCommerce plantilla React",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "ecommerce",
           "react",
           "template",
           "open-source"
-        ]
+        ],
+        "url": "https://github.com/evershopcommerce/evershop",
+        "pricing": "freemium",
+        "languages": "en",
+        "searchText": "evershop evershop ecommerce plantilla react utilities dev-tools ecommerce react template open-source"
       },
       {
         "id": "firecrawl",
+        "name": "FireCrawl",
         "slug": "firecrawl",
-        "terms": [
-          "FireCrawl",
-          "firecrawl",
-          "API para buscar y scrapear web a escala",
-          "utilities",
-          "seo-scraping",
+        "description": "API para buscar y scrapear web a escala",
+        "category": "utilities",
+        "subcategory": "seo-scraping",
+        "tags": [
           "api",
           "scraping",
           "search",
           "open-source"
-        ]
+        ],
+        "url": "https://github.com/firecrawl",
+        "pricing": "freemium",
+        "languages": "en",
+        "searchText": "firecrawl firecrawl api para buscar y scrapear web a escala utilities seo-scraping api scraping search open-source"
       },
       {
         "id": "firecrawl-gh",
+        "name": "firecrawl-gh",
         "slug": "firecrawl-gh",
-        "terms": [
-          "firecrawl-gh",
-          "Repo oficial Firecrawl en GitHub",
+        "description": "Repo oficial Firecrawl en GitHub",
+        "category": "utilities",
+        "subcategory": "seo-scraping",
+        "tags": [
           "utilities",
           "seo-scraping",
-          "utilidades-herramientas"
-        ]
+          "utilidades-herramientas",
+          "firecrawl-gh"
+        ],
+        "url": "https://github.com/firecrawl/firecrawl",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "firecrawl-gh firecrawl-gh repo oficial firecrawl en github utilities seo-scraping utilities seo-scraping utilidades-herramientas firecrawl-gh"
       },
       {
         "id": "free-for-dev",
+        "name": "Free For Dev",
         "slug": "free-for-dev",
-        "terms": [
-          "Free For Dev",
-          "free-for-dev",
-          "Recursos gratis para devs",
-          "utilities",
-          "general-resources",
+        "description": "Recursos gratis para devs",
+        "category": "utilities",
+        "subcategory": "general-resources",
+        "tags": [
           "free",
           "dev",
           "resources",
           "list"
-        ]
+        ],
+        "url": "https://free-for.dev/",
+        "pricing": "freemium",
+        "languages": "en",
+        "searchText": "free for dev free-for-dev recursos gratis para devs utilities general-resources free dev resources list"
       },
       {
         "id": "frontend-resources",
+        "name": "Frontend Resources",
         "slug": "frontend-resources",
-        "terms": [
-          "Frontend Resources",
-          "frontend-resources",
-          "Recursos frontend GitHub",
-          "utilities",
-          "general-resources",
+        "description": "Recursos frontend GitHub",
+        "category": "utilities",
+        "subcategory": "general-resources",
+        "tags": [
           "frontend",
           "resources",
           "github",
           "collection"
-        ]
+        ],
+        "url": "https://github.com/mrcodedev/frontend-developer-resources",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "frontend resources frontend-resources recursos frontend github utilities general-resources frontend resources github collection"
       },
       {
         "id": "ghost",
+        "name": "Ghost",
         "slug": "ghost",
-        "terms": [
-          "Ghost",
-          "ghost",
-          "Plataforma publishing moderna",
+        "description": "Plataforma publishing moderna",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
           "cms",
-          "platforms",
+          "ghost",
           "publishing",
           "modern"
-        ]
+        ],
+        "url": "https://ghost.org",
+        "pricing": "freemium",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "searchText": "ghost ghost plataforma publishing moderna cms platforms cms ghost publishing modern"
       },
       {
         "id": "gospider",
+        "name": "gospider",
         "slug": "gospider",
-        "terms": [
-          "gospider",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "seo-scraping",
+        "tags": [
           "utilities",
           "seo-scraping",
           "y-utilidades-herramientas",
-          "y-seo-scraping"
-        ]
+          "y-seo-scraping",
+          "gospider"
+        ],
+        "url": "https://github.com/jaeles-project/gospider",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "gospider gospider repositorio github utilities seo-scraping utilities seo-scraping y-utilidades-herramientas y-seo-scraping gospider"
       },
       {
         "id": "graphite",
+        "name": "Graphite",
         "slug": "graphite",
-        "terms": [
-          "Graphite",
-          "graphite",
-          "Errores comunes Next.js",
-          "utilities",
-          "dev-tools",
+        "description": "Errores comunes Next.js",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "nextjs",
           "errors",
           "debugging",
           "react"
-        ]
+        ],
+        "url": "https://graphite.com",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "graphite graphite errores comunes next.js utilities dev-tools nextjs errors debugging react"
       },
       {
         "id": "gridstack",
+        "name": "GridStack",
         "slug": "gridstack",
-        "terms": [
-          "GridStack",
-          "gridstack",
-          "Creador plantilla Grid",
-          "utilities",
-          "dev-tools",
+        "description": "Creador plantilla Grid",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "grid",
           "layout",
           "npm",
           "javascript"
-        ]
+        ],
+        "url": "https://www.npmjs.com/package/gridstack",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "gridstack gridstack creador plantilla grid utilities dev-tools grid layout npm javascript"
       },
       {
         "id": "ipquery-io",
+        "name": "ipquery.io",
         "slug": "ipquery-io",
-        "terms": [
-          "ipquery.io",
-          "ipquery-io",
-          "API gratuita extraer info de una IP",
-          "utilities",
-          "dev-tools",
+        "description": "API gratuita extraer info de una IP",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "api",
           "ip",
           "free",
           "lookup"
-        ]
+        ],
+        "url": "https://ipquery.io/",
+        "pricing": "freemium",
+        "languages": "en",
+        "searchText": "ipquery.io ipquery-io api gratuita extraer info de una ip utilities dev-tools api ip free lookup"
       },
       {
         "id": "israel-casado-vps",
+        "name": "Israel Casado VPS",
         "slug": "israel-casado-vps",
-        "terms": [
-          "Israel Casado VPS",
-          "israel-casado-vps",
-          "Guía crear VPS propio",
-          "utilities",
-          "general-resources",
+        "description": "Guía crear VPS propio",
+        "category": "utilities",
+        "subcategory": "general-resources",
+        "tags": [
           "vps",
           "guide",
           "tutorial",
           "spanish"
-        ]
+        ],
+        "url": "https://www.israelcasado.net/createVps/",
+        "pricing": "free",
+        "languages": "es",
+        "searchText": "israel casado vps israel-casado-vps guía crear vps propio utilities general-resources vps guide tutorial spanish"
       },
       {
         "id": "it-tools",
+        "name": "it-tools",
         "slug": "it-tools",
-        "terms": [
-          "it-tools",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "seo-scraping",
+        "tags": [
           "utilities",
           "seo-scraping",
           "y-utilidades-herramientas",
-          "y-seo-scraping"
-        ]
+          "y-seo-scraping",
+          "it-tools"
+        ],
+        "url": "https://github.com/CorentinTh/it-tools",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "it-tools it-tools repositorio github utilities seo-scraping utilities seo-scraping y-utilidades-herramientas y-seo-scraping it-tools"
       },
       {
         "id": "jsoncrack",
+        "name": "JsonCrack",
         "slug": "jsoncrack",
-        "terms": [
-          "JsonCrack",
-          "jsoncrack",
-          "Visualizador JSON estructuras datos",
+        "description": "Visualizador JSON estructuras datos",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "utilities",
           "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
-        ]
+          "y-i-herramientas-dev",
+          "jsoncrack"
+        ],
+        "url": "https://github.com/AykutSarac/jsoncrack.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "jsoncrack jsoncrack visualizador json estructuras datos utilities dev-tools utilities dev-tools y-utilidades-herramientas y-i-herramientas-dev jsoncrack"
       },
       {
         "id": "llm-scraper-gh",
+        "name": "llm-scraper-gh",
         "slug": "llm-scraper-gh",
-        "terms": [
-          "llm-scraper-gh",
-          "Scraping web con LLM y Playwright",
+        "description": "Scraping web con LLM y Playwright",
+        "category": "utilities",
+        "subcategory": "seo-scraping",
+        "tags": [
           "utilities",
           "seo-scraping",
           "y-utilidades-herramientas",
-          "y-seo-scraping"
-        ]
+          "y-seo-scraping",
+          "llm-scraper-gh"
+        ],
+        "url": "https://github.com/mishushakov/llm-scraper",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "llm-scraper-gh llm-scraper-gh scraping web con llm y playwright utilities seo-scraping utilities seo-scraping y-utilidades-herramientas y-seo-scraping llm-scraper-gh"
       },
       {
         "id": "maxun",
+        "name": "Maxun",
         "slug": "maxun",
-        "terms": [
-          "Maxun",
-          "maxun",
-          "Website a API estructurada",
-          "utilities",
-          "dev-tools",
+        "description": "Website a API estructurada",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "api",
           "scraping",
           "automation",
           "open-source"
-        ]
+        ],
+        "url": "https://github.com/getmaxun/maxun",
+        "pricing": "freemium",
+        "languages": "en",
+        "searchText": "maxun maxun website a api estructurada utilities dev-tools api scraping automation open-source"
       },
       {
         "id": "monosketch",
+        "name": "MonoSketch",
         "slug": "monosketch",
-        "terms": [
-          "MonoSketch",
-          "monosketch",
-          "Herramienta diagramas ASCII online",
+        "description": "Herramienta diagramas ASCII online",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "utilities",
           "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
-        ]
+          "y-i-herramientas-dev",
+          "monosketch"
+        ],
+        "url": "https://monosketch.io",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "monosketch monosketch herramienta diagramas ascii online utilities dev-tools utilities dev-tools y-utilidades-herramientas y-i-herramientas-dev monosketch"
       },
       {
         "id": "npm-alternatives",
+        "name": "NPM Alternatives",
         "slug": "npm-alternatives",
-        "terms": [
-          "NPM Alternatives",
-          "npm-alternatives",
-          "npms.io, npmsearch.com",
-          "utilities",
-          "general-resources",
+        "description": "npms.io, npmsearch.com",
+        "category": "utilities",
+        "subcategory": "general-resources",
+        "tags": [
           "npm",
           "alternatives",
           "packages",
           "search"
-        ]
+        ],
+        "url": "https://npms.io/",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "npm alternatives npm-alternatives npms.io, npmsearch.com utilities general-resources npm alternatives packages search"
       },
       {
         "id": "openmontage",
+        "name": "OpenMontage",
         "slug": "openmontage",
-        "terms": [
-          "OpenMontage",
-          "openmontage",
-          "Edición video agéntico",
-          "utilities",
-          "dev-tools",
+        "description": "Edición video agéntico",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "video",
           "editing",
           "ai",
           "open-source"
-        ]
+        ],
+        "url": "https://github.com/calesthio/OpenMontage",
+        "pricing": "freemium",
+        "languages": "en",
+        "searchText": "openmontage openmontage edición video agéntico utilities dev-tools video editing ai open-source"
       },
       {
         "id": "openseo-github",
+        "name": "OpenSEO GitHub",
         "slug": "openseo-github",
-        "terms": [
-          "OpenSEO GitHub",
-          "openseo-github",
-          "Buscador SEO open source repo",
-          "utilities",
-          "seo-scraping",
+        "description": "Buscador SEO open source repo",
+        "category": "utilities",
+        "subcategory": "seo-scraping",
+        "tags": [
           "seo",
           "scraping",
           "open-source",
           "github"
-        ]
+        ],
+        "url": "https://github.com/every-app/open-seo",
+        "pricing": "freemium",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "searchText": "openseo github openseo-github buscador seo open source repo utilities seo-scraping seo scraping open-source github"
       },
       {
         "id": "pdfx",
+        "name": "PDFX",
         "slug": "pdfx",
-        "terms": [
-          "PDFX",
-          "pdfx",
-          "React PDF rápido y moderno",
-          "utilities",
-          "dev-tools",
+        "description": "React PDF rápido y moderno",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "pdf",
           "react",
           "viewer",
           "modern"
-        ]
+        ],
+        "url": "https://pdfx.akashpise.dev/",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "pdfx pdfx react pdf rápido y moderno utilities dev-tools pdf react viewer modern"
       },
       {
         "id": "pretext",
+        "name": "Pretext",
         "slug": "pretext",
-        "terms": [
-          "Pretext",
-          "pretext",
-          "Preprocessor texto ligero para web",
+        "description": "Preprocessor texto ligero para web",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "utilities",
           "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
-        ]
+          "y-i-herramientas-dev",
+          "pretext"
+        ],
+        "url": "https://github.com/chenglou/pretext",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pretext pretext preprocessor texto ligero para web utilities dev-tools utilities dev-tools y-utilidades-herramientas y-i-herramientas-dev pretext"
       },
       {
         "id": "prismic",
+        "name": "Prismic",
         "slug": "prismic",
-        "terms": [
-          "Prismic",
-          "prismic",
-          "CMS headless documentos ilimitados",
+        "description": "CMS headless documentos ilimitados",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
           "cms",
-          "platforms",
           "headless",
           "documents",
           "content"
-        ]
+        ],
+        "url": "https://prismic.io",
+        "pricing": "free",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "searchText": "prismic prismic cms headless documentos ilimitados cms platforms cms headless documents content"
       },
       {
         "id": "punits-vercel-alternatives",
+        "name": "Punits Vercel Alternatives",
         "slug": "punits-vercel-alternatives",
-        "terms": [
-          "Punits Vercel Alternatives",
-          "punits-vercel-alternatives",
-          "Alternativas hosting Vercel",
-          "utilities",
-          "general-resources",
+        "description": "Alternativas hosting Vercel",
+        "category": "utilities",
+        "subcategory": "general-resources",
+        "tags": [
           "hosting",
           "vercel",
           "alternatives",
           "comparison"
-        ]
+        ],
+        "url": "https://punits.dev/blog/vercel-hosting-when-to-use-and-alternatives/",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "punits vercel alternatives punits-vercel-alternatives alternativas hosting vercel utilities general-resources hosting vercel alternatives comparison"
       },
       {
         "id": "sanity",
+        "name": "Sanity",
         "slug": "sanity",
-        "terms": [
-          "Sanity",
-          "sanity",
-          "CMS headless con editor real-time",
+        "description": "CMS headless con editor real-time",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
           "cms",
-          "platforms",
           "headless",
           "realtime",
           "editor"
-        ]
+        ],
+        "url": "https://sanity.io",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "sanity sanity cms headless con editor real-time cms platforms cms headless realtime editor"
       },
       {
         "id": "sentry",
+        "name": "Sentry",
         "slug": "sentry",
-        "terms": [
-          "Sentry",
-          "sentry",
-          "control logs web live real",
-          "utilities",
-          "dev-tools",
+        "description": "control logs web live real",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "monitoring",
           "logs",
           "errors"
-        ]
+        ],
+        "url": "https://sentry.io/welcome/",
+        "pricing": "free",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "searchText": "sentry sentry control logs web live real utilities dev-tools monitoring logs errors"
       },
       {
         "id": "simple-parallax",
+        "name": "Simple Parallax",
         "slug": "simple-parallax",
-        "terms": [
-          "Simple Parallax",
-          "simple-parallax",
-          "Efecto parallax simple",
-          "utilities",
-          "dev-tools",
+        "description": "Efecto parallax simple",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "parallax",
           "effects",
           "javascript",
           "simple"
-        ]
+        ],
+        "url": "https://simpleparallax.com/",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "simple parallax simple-parallax efecto parallax simple utilities dev-tools parallax effects javascript simple"
       },
       {
         "id": "social-media-scraping-apis",
+        "name": "social-media-scraping-apis",
         "slug": "social-media-scraping-apis",
-        "terms": [
-          "social-media-scraping-apis",
-          "APIs para scraping social media",
+        "description": "APIs para scraping social media",
+        "category": "utilities",
+        "subcategory": "seo-scraping",
+        "tags": [
           "utilities",
           "seo-scraping",
-          "utilidades-herramientas"
-        ]
+          "utilidades-herramientas",
+          "social-media-scraping-apis"
+        ],
+        "url": "https://github.com/cporter202/social-media-scraping-apis",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "social-media-scraping-apis social-media-scraping-apis apis para scraping social media utilities seo-scraping utilities seo-scraping utilidades-herramientas social-media-scraping-apis"
       },
       {
         "id": "strapi",
+        "name": "Strapi",
         "slug": "strapi",
-        "terms": [
-          "Strapi",
-          "strapi",
-          "CMS headless open source",
+        "description": "CMS headless open source",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
           "cms",
-          "platforms",
           "headless",
           "open-source",
           "nodejs"
-        ]
+        ],
+        "url": "https://strapi.io",
+        "pricing": "freemium",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "searchText": "strapi strapi cms headless open source cms platforms cms headless open-source nodejs"
       },
       {
         "id": "stremio-web",
+        "name": "Stremio Web",
         "slug": "stremio-web",
-        "terms": [
-          "Stremio Web",
-          "stremio-web",
-          "Netflix open source",
-          "utilities",
-          "dev-tools",
+        "description": "Netflix open source",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "streaming",
           "open-source",
           "react",
           "entertainment"
-        ]
+        ],
+        "url": "https://github.com/Stremio/stremio-web",
+        "pricing": "freemium",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "searchText": "stremio web stremio-web netflix open source utilities dev-tools streaming open-source react entertainment"
       },
       {
         "id": "sweetalert2",
+        "name": "SweetAlert2",
         "slug": "sweetalert2",
-        "terms": [
-          "SweetAlert2",
-          "sweetalert2",
-          "Modales bonitos y personalizables",
-          "utilities",
-          "dev-tools",
+        "description": "Modales bonitos y personalizables",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "modals",
           "alerts",
           "npm",
           "javascript"
-        ]
+        ],
+        "url": "https://www.npmjs.com/package/sweetalert2",
+        "pricing": "free",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "searchText": "sweetalert2 sweetalert2 modales bonitos y personalizables utilities dev-tools modals alerts npm javascript"
       },
       {
         "id": "testing-opengraph",
+        "name": "Testing OpenGraph",
         "slug": "testing-opengraph",
-        "terms": [
-          "Testing OpenGraph",
-          "testing-opengraph",
-          "Testear OpenGraph desde CLI",
+        "description": "Testear OpenGraph desde CLI",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "utilities",
           "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
-        ]
+          "y-i-herramientas-dev",
+          "testing-opengraph"
+        ],
+        "url": "https://simonhartcher.com/posts/2026-04-15-testing-opengraph-on-localhost-from-the-cli/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "testing opengraph testing-opengraph testear opengraph desde cli utilities dev-tools utilities dev-tools y-utilidades-herramientas y-i-herramientas-dev testing-opengraph"
       },
       {
         "id": "theme-toggle",
+        "name": "Theme Toggle",
         "slug": "theme-toggle",
-        "terms": [
-          "Theme Toggle",
-          "theme-toggle",
-          "Transición modo oscuro/día",
-          "utilities",
-          "dev-tools",
+        "description": "Transición modo oscuro/día",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "theme",
           "dark-mode",
           "toggle",
           "ui"
-        ]
+        ],
+        "url": "https://theme-toggle.rdsx.dev/",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "theme toggle theme-toggle transición modo oscuro/día utilities dev-tools theme dark-mode toggle ui"
       },
       {
         "id": "tiks",
+        "name": "Tiks",
         "slug": "tiks",
-        "terms": [
-          "Tiks",
-          "tiks",
-          "Herramienta dev interfaz minimal",
+        "description": "Herramienta dev interfaz minimal",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "utilities",
           "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
-        ]
+          "y-i-herramientas-dev",
+          "tiks"
+        ],
+        "url": "https://rexa-developer.github.io/tiks/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "tiks tiks herramienta dev interfaz minimal utilities dev-tools utilities dev-tools y-utilidades-herramientas y-i-herramientas-dev tiks"
       },
       {
         "id": "tinacms",
+        "name": "TinaCMS",
         "slug": "tinacms",
-        "terms": [
-          "TinaCMS",
-          "tinacms",
-          "CMS git-based open source",
+        "description": "CMS git-based open source",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
           "cms",
-          "platforms",
           "git",
           "open-source",
           "git-based"
-        ]
+        ],
+        "url": "https://tinacms.org",
+        "pricing": "freemium",
+        "languages": "en",
+        "searchText": "tinacms tinacms cms git-based open source cms platforms cms git open-source git-based"
       },
       {
         "id": "top-10-repos-2025",
+        "name": "Top 10 Repos 2025",
         "slug": "top-10-repos-2025",
-        "terms": [
-          "Top 10 Repos 2025",
-          "top-10-repos-2025",
-          "Top 10 repos web dev",
-          "utilities",
-          "general-resources",
+        "description": "Top 10 repos web dev",
+        "category": "utilities",
+        "subcategory": "general-resources",
+        "tags": [
           "github",
           "repos",
           "top",
           "2025"
-        ]
+        ],
+        "url": "https://dev.to/shayy/top-10-github-repositories-every-web-developer-should-know-in-2025-41nm",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "top 10 repos 2025 top-10-repos-2025 top 10 repos web dev utilities general-resources github repos top 2025"
       },
       {
         "id": "toprank",
+        "name": "toprank",
         "slug": "toprank",
-        "terms": [
-          "toprank",
-          "Herramienta SEO ranking web",
+        "description": "Herramienta SEO ranking web",
+        "category": "utilities",
+        "subcategory": "seo-scraping",
+        "tags": [
           "utilities",
           "seo-scraping",
-          "utilidades-herramientas"
-        ]
+          "utilidades-herramientas",
+          "toprank"
+        ],
+        "url": "https://github.com/nowork-studio/toprank",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "toprank toprank herramienta seo ranking web utilities seo-scraping utilities seo-scraping utilidades-herramientas toprank"
       },
       {
         "id": "vanilla-css",
+        "name": "Vanilla CSS",
         "slug": "vanilla-css",
-        "terms": [
-          "Vanilla CSS",
-          "vanilla-css",
-          "Vanilla CSS design system",
-          "utilities",
-          "dev-tools",
+        "description": "Vanilla CSS design system",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "css",
           "design-system",
           "vanilla",
           "github"
-        ]
+        ],
+        "url": "https://github.com/pattespatte/vanilla-css-design-system.git",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "vanilla css vanilla-css vanilla css design system utilities dev-tools css design-system vanilla github"
       },
       {
         "id": "web-dev-resources",
+        "name": "Web Dev Resources",
         "slug": "web-dev-resources",
-        "terms": [
-          "Web Dev Resources",
-          "web-dev-resources",
-          "Lista recursos web dev",
-          "utilities",
-          "general-resources",
+        "description": "Lista recursos web dev",
+        "category": "utilities",
+        "subcategory": "general-resources",
+        "tags": [
           "resources",
           "web-dev",
           "list",
           "collection"
-        ]
+        ],
+        "url": "https://web-dev-resources.com/list/",
+        "pricing": "free",
+        "languages": "en",
+        "searchText": "web dev resources web-dev-resources lista recursos web dev utilities general-resources resources web-dev list collection"
       },
       {
         "id": "website-downloader",
+        "name": "Website-downloader",
         "slug": "website-downloader",
-        "terms": [
-          "Website-downloader",
-          "website-downloader",
-          "Descarga sitios web completos",
+        "description": "Descarga sitios web completos",
+        "category": "utilities",
+        "subcategory": "seo-scraping",
+        "tags": [
           "utilities",
           "seo-scraping",
-          "utilidades-herramientas"
-        ]
+          "utilidades-herramientas",
+          "website-downloader"
+        ],
+        "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "website-downloader website-downloader descarga sitios web completos utilities seo-scraping utilities seo-scraping utilidades-herramientas website-downloader"
       },
       {
         "id": "wordpress-com",
+        "name": "WordPress.com",
         "slug": "wordpress-com",
-        "terms": [
-          "WordPress.com",
-          "wordpress-com",
-          "CMS y blogging plan gratis",
+        "description": "CMS y blogging plan gratis",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
           "cms",
-          "platforms",
           "wordpress",
           "blogging",
           "free"
-        ]
+        ],
+        "url": "https://wordpress.com",
+        "pricing": "freemium",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "searchText": "wordpress.com wordpress-com cms y blogging plan gratis cms platforms cms wordpress blogging free"
       },
       {
         "id": "xml-comparator",
+        "name": "XML Comparator",
         "slug": "xml-comparator",
-        "terms": [
-          "XML Comparator",
-          "xml-comparator",
-          "Comparador XML online gratuito",
+        "description": "Comparador XML online gratuito",
+        "category": "utilities",
+        "subcategory": "dev-tools",
+        "tags": [
           "utilities",
           "dev-tools",
           "y-utilidades-herramientas",
-          "y-i-herramientas-dev"
-        ]
+          "y-i-herramientas-dev",
+          "xml-comparator"
+        ],
+        "url": "https://www.xmlcomparator.xyz/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "xml comparator xml-comparator comparador xml online gratuito utilities dev-tools utilities dev-tools y-utilidades-herramientas y-i-herramientas-dev xml-comparator"
+      },
+      {
+        "id": "deepwiki-open",
+        "name": "deepwiki-open",
+        "slug": "deepwiki-open",
+        "description": "Repositorio GitHub",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
+          "cms",
+          "content",
+          "github",
+          "platforms"
+        ],
+        "url": "https://github.com/AsyncFuncAI/deepwiki-open",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "deepwiki-open deepwiki-open repositorio github cms platforms cms content github platforms"
+      },
+      {
+        "id": "obsidian-wiki",
+        "name": "obsidian-wiki",
+        "slug": "obsidian-wiki",
+        "description": "Repositorio GitHub",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
+          "cms",
+          "content",
+          "github",
+          "platforms"
+        ],
+        "url": "https://github.com/Ar9av/obsidian-wiki",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "obsidian-wiki obsidian-wiki repositorio github cms platforms cms content github platforms"
+      },
+      {
+        "id": "pdfslick",
+        "name": "pdfslick",
+        "slug": "pdfslick",
+        "description": "Repositorio GitHub",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
+          "cms",
+          "content",
+          "github",
+          "platforms"
+        ],
+        "url": "https://github.com/pdfslick/pdfslick",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "pdfslick pdfslick repositorio github cms platforms cms content github platforms"
+      },
+      {
+        "id": "open-pencil",
+        "name": "open-pencil",
+        "slug": "open-pencil",
+        "description": "Repositorio GitHub",
+        "category": "cms",
+        "subcategory": "platforms",
+        "tags": [
+          "cms",
+          "content",
+          "github",
+          "platforms"
+        ],
+        "url": "https://github.com/open-pencil/open-pencil.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "open-pencil open-pencil repositorio github cms platforms cms content github platforms"
       }
     ]
   },
@@ -1459,20 +1887,23 @@
       "fr"
     ],
     "status": [
-      "active"
+      "active",
+      "warning",
+      "deprecated"
     ],
     "verified": [
-      true
+      true,
+      false
     ],
     "noCreditCard": [
-      false,
-      true
+      true,
+      false
     ]
   },
   "ui": {
     "dataset": "utilidades-2_cms",
-    "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
-    "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 57
+    "title": "CMS Resources - DevResources 2026",
+    "description": "Recursos de CMS para desarrolladores",
+    "resourceCount": 61
   }
 }

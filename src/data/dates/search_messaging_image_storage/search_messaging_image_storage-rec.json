@@ -25,7 +25,7 @@
       "id": "search",
       "name": "Search",
       "slug": "search",
-      "resourceCount": 5,
+      "resourceCount": 15,
       "status": "active"
     }
   ],
@@ -1065,6 +1065,336 @@
       "limits": "10GB máximo, encriptación end-to-end",
       "added": "2026-01-10",
       "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "glm-ocr",
+      "name": "GLM-OCR",
+      "slug": "glm-ocr",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/zai-org/GLM-OCR",
+      "status": "active",
+      "tags": [
+        "search",
+        "messaging",
+        "github"
+      ],
+      "searchIndex": [
+        "GLM-OCR",
+        "glm-ocr",
+        "Repositorio GitHub",
+        "search",
+        "search",
+        "search",
+        "messaging",
+        "github"
+      ],
+      "category": "search",
+      "subcategory": "search",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "geminiwatermarktool",
+      "name": "GeminiWatermarkTool",
+      "slug": "geminiwatermarktool",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/allenk/GeminiWatermarkTool",
+      "status": "active",
+      "tags": [
+        "search",
+        "messaging",
+        "github"
+      ],
+      "searchIndex": [
+        "GeminiWatermarkTool",
+        "geminiwatermarktool",
+        "Repositorio GitHub",
+        "search",
+        "search",
+        "search",
+        "messaging",
+        "github"
+      ],
+      "category": "search",
+      "subcategory": "search",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "omniparse",
+      "name": "omniparse",
+      "slug": "omniparse",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/adithya-s-k/omniparse",
+      "status": "active",
+      "tags": [
+        "search",
+        "messaging",
+        "github"
+      ],
+      "searchIndex": [
+        "omniparse",
+        "omniparse",
+        "Repositorio GitHub",
+        "search",
+        "search",
+        "search",
+        "messaging",
+        "github"
+      ],
+      "category": "search",
+      "subcategory": "search",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "paddleocr",
+      "name": "PaddleOCR",
+      "slug": "paddleocr",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "status": "active",
+      "tags": [
+        "search",
+        "messaging",
+        "github"
+      ],
+      "searchIndex": [
+        "PaddleOCR",
+        "paddleocr",
+        "Repositorio GitHub",
+        "search",
+        "search",
+        "search",
+        "messaging",
+        "github"
+      ],
+      "category": "search",
+      "subcategory": "search",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "telegram-drive",
+      "name": "Telegram-Drive",
+      "slug": "telegram-drive",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/caamer20/Telegram-Drive",
+      "status": "active",
+      "tags": [
+        "search",
+        "messaging",
+        "github"
+      ],
+      "searchIndex": [
+        "Telegram-Drive",
+        "telegram-drive",
+        "Repositorio GitHub",
+        "search",
+        "search",
+        "search",
+        "messaging",
+        "github"
+      ],
+      "category": "search",
+      "subcategory": "search",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "medical-research-skills",
+      "name": "medical-research-skills",
+      "slug": "medical-research-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/aipoch/medical-research-skills",
+      "status": "active",
+      "tags": [
+        "search",
+        "messaging",
+        "github"
+      ],
+      "searchIndex": [
+        "medical-research-skills",
+        "medical-research-skills",
+        "Repositorio GitHub",
+        "search",
+        "search",
+        "search",
+        "messaging",
+        "github"
+      ],
+      "category": "search",
+      "subcategory": "search",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ai-research-skills",
+      "name": "AI-Research-SKILLs",
+      "slug": "ai-research-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+      "status": "active",
+      "tags": [
+        "search",
+        "messaging",
+        "github"
+      ],
+      "searchIndex": [
+        "AI-Research-SKILLs",
+        "ai-research-skills",
+        "Repositorio GitHub",
+        "search",
+        "search",
+        "search",
+        "messaging",
+        "github"
+      ],
+      "category": "search",
+      "subcategory": "search",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "deep-searcher",
+      "name": "deep-searcher",
+      "slug": "deep-searcher",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/zilliztech/deep-searcher",
+      "status": "active",
+      "tags": [
+        "search",
+        "messaging",
+        "github"
+      ],
+      "searchIndex": [
+        "deep-searcher",
+        "deep-searcher",
+        "Repositorio GitHub",
+        "search",
+        "search",
+        "search",
+        "messaging",
+        "github"
+      ],
+      "category": "search",
+      "subcategory": "search",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "circletosearch",
+      "name": "CircleToSearch",
+      "slug": "circletosearch",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/AKS-Labs/CircleToSearch",
+      "status": "active",
+      "tags": [
+        "search",
+        "messaging",
+        "github"
+      ],
+      "searchIndex": [
+        "CircleToSearch",
+        "circletosearch",
+        "Repositorio GitHub",
+        "search",
+        "search",
+        "search",
+        "messaging",
+        "github"
+      ],
+      "category": "search",
+      "subcategory": "search",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "opensearch-vl",
+      "name": "OpenSearch-VL",
+      "slug": "opensearch-vl",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/shawn0728/OpenSearch-VL",
+      "status": "active",
+      "tags": [
+        "search",
+        "messaging",
+        "github"
+      ],
+      "searchIndex": [
+        "OpenSearch-VL",
+        "opensearch-vl",
+        "Repositorio GitHub",
+        "search",
+        "search",
+        "search",
+        "messaging",
+        "github"
+      ],
+      "category": "search",
+      "subcategory": "search",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
       "noCreditCard": true
     }
   ]

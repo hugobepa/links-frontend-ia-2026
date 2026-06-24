@@ -106,7 +106,7 @@
       "description": "Etiqueta media"
     },
     "messaging": {
-      "count": 2,
+      "count": 12,
       "color": "#db2777",
       "description": "Etiqueta messaging"
     },
@@ -181,7 +181,7 @@
       "description": "Etiqueta saas"
     },
     "search": {
-      "count": 5,
+      "count": 15,
       "color": "#2563eb",
       "description": "Etiqueta search"
     },
@@ -254,6 +254,11 @@
       "count": 1,
       "color": "#dc2626",
       "description": "Etiqueta websockets"
+    },
+    "github": {
+      "count": 10,
+      "color": "#dc2626",
+      "description": "Etiqueta github"
     }
   },
   "searchIndex": {
@@ -292,400 +297,775 @@
     "entries": [
       {
         "id": "algolia",
+        "name": "Algolia",
         "slug": "algolia",
-        "terms": [
-          "Algolia",
-          "algolia",
-          "Búsqueda instantánea 10k docs/mes gratis",
+        "description": "Búsqueda instantánea 10k docs/mes grat",
+        "category": "search",
+        "subcategory": "engines",
+        "tags": [
           "search",
-          "engines",
           "instant",
           "saas",
           "freemium"
-        ]
+        ],
+        "url": "https://www.algolia.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "algolia algolia búsqueda instantánea 10k docs/mes grat search engines search instant saas freemium"
       },
       {
         "id": "backblaze-b2",
+        "name": "Backblaze B2",
         "slug": "backblaze-b2",
-        "terms": [
-          "Backblaze B2",
-          "backblaze-b2",
-          "Storage S3-compatible 10GB gratis",
-          "file-storage",
-          "cloud-storage",
+        "description": "Storage S3-compatible 10GB gratis",
+        "category": "file-storage",
+        "subcategory": "cloud-storage",
+        "tags": [
           "storage",
           "s3",
           "compatible",
           "backup"
-        ]
+        ],
+        "url": "https://www.backblaze.com/b2",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "backblaze b2 backblaze-b2 storage s3-compatible 10gb gratis file-storage cloud-storage storage s3 compatible backup"
       },
       {
         "id": "centrifugo",
+        "name": "Centrifugo",
         "slug": "centrifugo",
-        "terms": [
-          "Centrifugo",
-          "centrifugo",
-          "Server WebSocket open source",
+        "description": "Server WebSocket open source",
+        "category": "messaging",
+        "subcategory": "realtime",
+        "tags": [
           "messaging",
-          "realtime",
           "websockets",
-          "open-source"
-        ]
+          "open-source",
+          "realtime"
+        ],
+        "url": "https://centrifugal.dev",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "centrifugo centrifugo server websocket open source messaging realtime messaging websockets open-source realtime"
       },
       {
         "id": "cloudamqp",
+        "name": "CloudAMQP",
         "slug": "cloudamqp",
-        "terms": [
-          "CloudAMQP",
-          "cloudamqp",
-          "RabbitMQ como servicio 1M msgs/mes",
+        "description": "RabbitMQ como servicio 1M msgs/mes",
+        "category": "messaging",
+        "subcategory": "services",
+        "tags": [
           "messaging",
-          "services",
           "rabbitmq",
           "queue"
-        ]
+        ],
+        "url": "https://www.cloudamqp.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "cloudamqp cloudamqp rabbitmq como servicio 1m msgs/mes messaging services messaging rabbitmq queue"
       },
       {
         "id": "cloudimage",
+        "name": "Cloudimage",
         "slug": "cloudimage",
-        "terms": [
-          "Cloudimage",
-          "cloudimage",
-          "Optimización y CDN de imágenes",
-          "image-video",
-          "cdn",
+        "description": "Optimización y CDN de imágenes",
+        "category": "image-video",
+        "subcategory": "cdn",
+        "tags": [
           "image",
+          "cdn",
           "optimization"
-        ]
+        ],
+        "url": "https://www.cloudimage.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "cloudimage cloudimage optimización y cdn de imágenes image-video cdn image cdn optimization"
       },
       {
         "id": "cloudinary",
+        "name": "Cloudinary",
         "slug": "cloudinary",
-        "terms": [
-          "Cloudinary",
-          "cloudinary",
-          "CDN y optimización de imágenes",
-          "image-video",
-          "cdn",
+        "description": "CDN y optimización de imágenes",
+        "category": "image-video",
+        "subcategory": "cdn",
+        "tags": [
           "image",
+          "cdn",
           "optimization",
           "media"
-        ]
+        ],
+        "url": "https://cloudinary.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "cloudinary cloudinary cdn y optimización de imágenes image-video cdn image cdn optimization media"
       },
       {
         "id": "elastic-cloud",
+        "name": "Elastic Cloud",
         "slug": "elastic-cloud",
-        "terms": [
-          "Elastic Cloud",
-          "elastic-cloud",
-          "Elasticsearch gestionado 1GB gratis",
+        "description": "Elasticsearch gestionado 1GB gratis",
+        "category": "search",
+        "subcategory": "engines",
+        "tags": [
           "search",
-          "engines",
           "elasticsearch",
           "managed",
           "elastic"
-        ]
+        ],
+        "url": "https://www.elastic.co/cloud",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "elastic cloud elastic-cloud elasticsearch gestionado 1gb gratis search engines search elasticsearch managed elastic"
       },
       {
         "id": "file-io",
+        "name": "File.io",
         "slug": "file-io",
-        "terms": [
-          "File.io",
-          "file-io",
-          "Comparte archivos auto-destruibles",
-          "file-storage",
-          "file-transfer",
+        "description": "Comparte archivos auto-destruibles",
+        "category": "file-storage",
+        "subcategory": "file-transfer",
+        "tags": [
           "file",
           "transfer",
           "temporary",
           "sharing"
-        ]
+        ],
+        "url": "https://www.file.io",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "file.io file-io comparte archivos auto-destruibles file-storage file-transfer file transfer temporary sharing"
       },
       {
         "id": "filestack",
+        "name": "Filestack",
         "slug": "filestack",
-        "terms": [
-          "Filestack",
-          "filestack",
-          "Subida y transformación de archivos",
-          "image-video",
-          "cdn",
+        "description": "Subida y transformación de archivos",
+        "category": "image-video",
+        "subcategory": "cdn",
+        "tags": [
           "file",
           "upload",
-          "transformation"
-        ]
+          "transformation",
+          "cdn"
+        ],
+        "url": "https://www.filestack.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "filestack filestack subida y transformación de archivos image-video cdn file upload transformation cdn"
       },
       {
         "id": "icedrive",
+        "name": "Icedrive",
         "slug": "icedrive",
-        "terms": [
-          "Icedrive",
-          "icedrive",
-          "Cloud storage con encriptación",
-          "file-storage",
-          "cloud-storage",
+        "description": "Cloud storage con encriptación",
+        "category": "file-storage",
+        "subcategory": "cloud-storage",
+        "tags": [
           "storage",
           "cloud",
           "encrypted"
-        ]
+        ],
+        "url": "https://icedrive.net",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "icedrive icedrive cloud storage con encriptación file-storage cloud-storage storage cloud encrypted"
       },
       {
         "id": "imageengine",
+        "name": "ImageEngine",
         "slug": "imageengine",
-        "terms": [
-          "ImageEngine",
-          "imageengine",
-          "CDN de imágenes con optimización",
-          "image-video",
-          "cdn",
+        "description": "CDN de imágenes con optimización",
+        "category": "image-video",
+        "subcategory": "cdn",
+        "tags": [
           "image",
+          "cdn",
           "optimization",
           "performance"
-        ]
+        ],
+        "url": "https://imageengine.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "imageengine imageengine cdn de imágenes con optimización image-video cdn image cdn optimization performance"
       },
       {
         "id": "imagekit",
+        "name": "ImageKit",
         "slug": "imagekit",
-        "terms": [
-          "ImageKit",
-          "imagekit",
-          "Optimización y CDN de imágenes",
-          "image-video",
-          "cdn",
+        "description": "Optimización y CDN de imágenes",
+        "category": "image-video",
+        "subcategory": "cdn",
+        "tags": [
           "image",
+          "cdn",
           "optimization",
           "transformation"
-        ]
+        ],
+        "url": "https://imagekit.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "imagekit imagekit optimización y cdn de imágenes image-video cdn image cdn optimization transformation"
       },
       {
         "id": "imgix",
+        "name": "Imgix",
         "slug": "imgix",
-        "terms": [
-          "Imgix",
-          "imgix",
-          "Transformación de imágenes CDN",
-          "image-video",
-          "cdn",
+        "description": "Transformación de imágenes CDN",
+        "category": "image-video",
+        "subcategory": "cdn",
+        "tags": [
           "image",
+          "cdn",
           "transformation",
           "optimization"
-        ]
+        ],
+        "url": "https://imgix.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "imgix imgix transformación de imágenes cdn image-video cdn image cdn transformation optimization"
       },
       {
         "id": "mega",
+        "name": "MEGA",
         "slug": "mega",
-        "terms": [
-          "MEGA",
-          "mega",
-          "Almacenamiento cloud 20GB gratis",
-          "file-storage",
-          "cloud-storage",
+        "description": "Almacenamiento cloud 20GB gratis",
+        "category": "file-storage",
+        "subcategory": "cloud-storage",
+        "tags": [
           "storage",
           "cloud",
           "encrypted"
-        ]
+        ],
+        "url": "https://mega.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "mega mega almacenamiento cloud 20gb gratis file-storage cloud-storage storage cloud encrypted"
       },
       {
         "id": "meilisearch",
+        "name": "Meilisearch",
         "slug": "meilisearch",
-        "terms": [
-          "Meilisearch",
-          "meilisearch",
-          "Búsqueda instantánea open source",
+        "description": "Búsqueda instantánea open source",
+        "category": "search",
+        "subcategory": "engines",
+        "tags": [
           "search",
-          "engines",
           "open-source",
           "instant",
           "rust"
-        ]
+        ],
+        "url": "https://www.meilisearch.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "meilisearch meilisearch búsqueda instantánea open source search engines search open-source instant rust"
       },
       {
         "id": "pcloud",
+        "name": "pCloud",
         "slug": "pcloud",
-        "terms": [
-          "pCloud",
-          "pcloud",
-          "Almacenamiento cloud seguro",
-          "file-storage",
-          "cloud-storage",
+        "description": "Almacenamiento cloud seguro",
+        "category": "file-storage",
+        "subcategory": "cloud-storage",
+        "tags": [
           "storage",
           "cloud",
           "secure"
-        ]
+        ],
+        "url": "https://www.pcloud.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pcloud pcloud almacenamiento cloud seguro file-storage cloud-storage storage cloud secure"
       },
       {
         "id": "pinata-ipfs",
+        "name": "Pinata IPFS",
         "slug": "pinata-ipfs",
-        "terms": [
-          "Pinata IPFS",
-          "pinata-ipfs",
-          "Almacenamiento IPFS 1GB gratis",
-          "image-video",
-          "video-hosting",
+        "description": "Almacenamiento IPFS 1GB gratis",
+        "category": "image-video",
+        "subcategory": "video-hosting",
+        "tags": [
           "ipfs",
           "storage",
           "decentralized"
-        ]
+        ],
+        "url": "https://pinata.cloud",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pinata ipfs pinata-ipfs almacenamiento ipfs 1gb gratis image-video video-hosting ipfs storage decentralized"
       },
       {
         "id": "proton-drive",
+        "name": "Proton Drive",
         "slug": "proton-drive",
-        "terms": [
-          "Proton Drive",
-          "proton-drive",
-          "Almacenamiento encriptado 5GB gratis",
-          "file-storage",
-          "cloud-storage",
+        "description": "Almacenamiento encriptado 5GB gratis",
+        "category": "file-storage",
+        "subcategory": "cloud-storage",
+        "tags": [
           "storage",
           "cloud",
           "encrypted",
           "privacy"
-        ]
+        ],
+        "url": "https://proton.me/drive",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "proton drive proton-drive almacenamiento encriptado 5gb gratis file-storage cloud-storage storage cloud encrypted privacy"
       },
       {
         "id": "searchly",
+        "name": "Searchly",
         "slug": "searchly",
-        "terms": [
-          "Searchly",
-          "searchly",
-          "Elasticsearch como servicio",
+        "description": "Elasticsearch como servicio",
+        "category": "search",
+        "subcategory": "engines",
+        "tags": [
           "search",
-          "engines",
           "elasticsearch",
           "saas",
           "hosted"
-        ]
+        ],
+        "url": "https://www.searchly.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "searchly searchly elasticsearch como servicio search engines search elasticsearch saas hosted"
       },
       {
         "id": "sirv",
+        "name": "Sirv",
         "slug": "sirv",
-        "terms": [
-          "Sirv",
-          "sirv",
-          "CDN multimedia con IA",
-          "image-video",
-          "cdn",
+        "description": "CDN multimedia con IA",
+        "category": "image-video",
+        "subcategory": "cdn",
+        "tags": [
           "image",
+          "cdn",
           "ai",
           "optimization"
-        ]
+        ],
+        "url": "https://sirv.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "sirv sirv cdn multimedia con ia image-video cdn image cdn ai optimization"
       },
       {
         "id": "storj",
+        "name": "Storj",
         "slug": "storj",
-        "terms": [
-          "Storj",
-          "storj",
-          "Storage descentralizado 25GB gratis",
-          "file-storage",
-          "cloud-storage",
+        "description": "Storage descentralizado 25GB gratis",
+        "category": "file-storage",
+        "subcategory": "cloud-storage",
+        "tags": [
           "storage",
           "decentralized",
           "encrypted",
           "blockchain"
-        ]
+        ],
+        "url": "https://storj.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "storj storj storage descentralizado 25gb gratis file-storage cloud-storage storage decentralized encrypted blockchain"
       },
       {
         "id": "transfer-sh",
+        "name": "Transfer.sh",
         "slug": "transfer-sh",
-        "terms": [
-          "Transfer.sh",
-          "transfer-sh",
-          "Comparte archivos desde terminal",
-          "file-storage",
-          "file-transfer",
+        "description": "Comparte archivos desde terminal",
+        "category": "file-storage",
+        "subcategory": "file-transfer",
+        "tags": [
           "file",
           "transfer",
           "terminal",
           "cli"
-        ]
+        ],
+        "url": "https://transfer.sh",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "transfer.sh transfer-sh comparte archivos desde terminal file-storage file-transfer file transfer terminal cli"
       },
       {
         "id": "typesense",
+        "name": "Typesense",
         "slug": "typesense",
-        "terms": [
-          "Typesense",
-          "typesense",
-          "Motor búsqueda open source rápido",
+        "description": "Motor búsqueda open source rápido",
+        "category": "search",
+        "subcategory": "engines",
+        "tags": [
           "search",
-          "engines",
           "open-source",
           "fast",
           "self-hosted"
-        ]
+        ],
+        "url": "https://typesense.org",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "typesense typesense motor búsqueda open source rápido search engines search open-source fast self-hosted"
       },
       {
         "id": "uploadcare",
+        "name": "Uploadcare",
         "slug": "uploadcare",
-        "terms": [
-          "Uploadcare",
-          "uploadcare",
-          "Subida y procesamiento de archivos",
-          "image-video",
-          "cdn",
+        "description": "Subida y procesamiento de archivos",
+        "category": "image-video",
+        "subcategory": "cdn",
+        "tags": [
           "image",
           "upload",
-          "processing"
-        ]
+          "processing",
+          "cdn"
+        ],
+        "url": "https://uploadcare.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "uploadcare uploadcare subida y procesamiento de archivos image-video cdn image upload processing cdn"
       },
       {
         "id": "uppy",
+        "name": "Uppy",
         "slug": "uppy",
-        "terms": [
-          "Uppy",
-          "uppy",
-          "Carga con reanudación y UI completa",
-          "file-storage",
-          "file-transfer",
+        "description": "Carga con reanudación y UI completa",
+        "category": "file-storage",
+        "subcategory": "file-transfer",
+        "tags": [
           "file",
           "upload",
           "resumable",
           "ui"
-        ]
+        ],
+        "url": "https://uppy.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "uppy uppy carga con reanudación y ui completa file-storage file-transfer file upload resumable ui"
       },
       {
         "id": "vimeo",
+        "name": "Vimeo",
         "slug": "vimeo",
-        "terms": [
-          "Vimeo",
-          "vimeo",
-          "Hosting video 500MB/semana gratis",
-          "image-video",
-          "video-hosting",
+        "description": "Hosting video 500MB/semana gratis",
+        "category": "image-video",
+        "subcategory": "video-hosting",
+        "tags": [
           "video",
           "hosting",
-          "streaming"
-        ]
+          "streaming",
+          "video-hosting"
+        ],
+        "url": "https://vimeo.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "vimeo vimeo hosting video 500mb/semana gratis image-video video-hosting video hosting streaming video-hosting"
       },
       {
         "id": "wasabi",
+        "name": "Wasabi",
         "slug": "wasabi",
-        "terms": [
-          "Wasabi",
-          "wasabi",
-          "Hot cloud storage sin egress fees",
-          "file-storage",
-          "cloud-storage",
+        "description": "Hot cloud storage sin egress fees",
+        "category": "file-storage",
+        "subcategory": "cloud-storage",
+        "tags": [
           "storage",
           "s3",
           "compatible",
           "no-egress"
-        ]
+        ],
+        "url": "https://wasabi.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "wasabi wasabi hot cloud storage sin egress fees file-storage cloud-storage storage s3 compatible no-egress"
       },
       {
         "id": "wormhole",
+        "name": "Wormhole",
         "slug": "wormhole",
-        "terms": [
-          "Wormhole",
-          "wormhole",
-          "Transferencia archivos encriptada",
-          "file-storage",
-          "file-transfer",
+        "description": "Transferencia archivos encriptada",
+        "category": "file-storage",
+        "subcategory": "file-transfer",
+        "tags": [
           "file",
           "transfer",
           "encrypted",
           "p2p"
-        ]
+        ],
+        "url": "https://wormhole.app",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "wormhole wormhole transferencia archivos encriptada file-storage file-transfer file transfer encrypted p2p"
+      },
+      {
+        "id": "glm-ocr",
+        "name": "GLM-OCR",
+        "slug": "glm-ocr",
+        "description": "Repositorio GitHub",
+        "category": "search",
+        "subcategory": "search",
+        "tags": [
+          "search",
+          "messaging",
+          "github"
+        ],
+        "url": "https://github.com/zai-org/GLM-OCR",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "glm-ocr glm-ocr repositorio github search search search messaging github"
+      },
+      {
+        "id": "geminiwatermarktool",
+        "name": "GeminiWatermarkTool",
+        "slug": "geminiwatermarktool",
+        "description": "Repositorio GitHub",
+        "category": "search",
+        "subcategory": "search",
+        "tags": [
+          "search",
+          "messaging",
+          "github"
+        ],
+        "url": "https://github.com/allenk/GeminiWatermarkTool",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "geminiwatermarktool geminiwatermarktool repositorio github search search search messaging github"
+      },
+      {
+        "id": "omniparse",
+        "name": "omniparse",
+        "slug": "omniparse",
+        "description": "Repositorio GitHub",
+        "category": "search",
+        "subcategory": "search",
+        "tags": [
+          "search",
+          "messaging",
+          "github"
+        ],
+        "url": "https://github.com/adithya-s-k/omniparse",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "omniparse omniparse repositorio github search search search messaging github"
+      },
+      {
+        "id": "paddleocr",
+        "name": "PaddleOCR",
+        "slug": "paddleocr",
+        "description": "Repositorio GitHub",
+        "category": "search",
+        "subcategory": "search",
+        "tags": [
+          "search",
+          "messaging",
+          "github"
+        ],
+        "url": "https://github.com/PaddlePaddle/PaddleOCR",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "paddleocr paddleocr repositorio github search search search messaging github"
+      },
+      {
+        "id": "telegram-drive",
+        "name": "Telegram-Drive",
+        "slug": "telegram-drive",
+        "description": "Repositorio GitHub",
+        "category": "search",
+        "subcategory": "search",
+        "tags": [
+          "search",
+          "messaging",
+          "github"
+        ],
+        "url": "https://github.com/caamer20/Telegram-Drive",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "telegram-drive telegram-drive repositorio github search search search messaging github"
+      },
+      {
+        "id": "medical-research-skills",
+        "name": "medical-research-skills",
+        "slug": "medical-research-skills",
+        "description": "Repositorio GitHub",
+        "category": "search",
+        "subcategory": "search",
+        "tags": [
+          "search",
+          "messaging",
+          "github"
+        ],
+        "url": "https://github.com/aipoch/medical-research-skills",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "medical-research-skills medical-research-skills repositorio github search search search messaging github"
+      },
+      {
+        "id": "ai-research-skills",
+        "name": "AI-Research-SKILLs",
+        "slug": "ai-research-skills",
+        "description": "Repositorio GitHub",
+        "category": "search",
+        "subcategory": "search",
+        "tags": [
+          "search",
+          "messaging",
+          "github"
+        ],
+        "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ai-research-skills ai-research-skills repositorio github search search search messaging github"
+      },
+      {
+        "id": "deep-searcher",
+        "name": "deep-searcher",
+        "slug": "deep-searcher",
+        "description": "Repositorio GitHub",
+        "category": "search",
+        "subcategory": "search",
+        "tags": [
+          "search",
+          "messaging",
+          "github"
+        ],
+        "url": "https://github.com/zilliztech/deep-searcher",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "deep-searcher deep-searcher repositorio github search search search messaging github"
+      },
+      {
+        "id": "circletosearch",
+        "name": "CircleToSearch",
+        "slug": "circletosearch",
+        "description": "Repositorio GitHub",
+        "category": "search",
+        "subcategory": "search",
+        "tags": [
+          "search",
+          "messaging",
+          "github"
+        ],
+        "url": "https://github.com/AKS-Labs/CircleToSearch",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "circletosearch circletosearch repositorio github search search search messaging github"
+      },
+      {
+        "id": "opensearch-vl",
+        "name": "OpenSearch-VL",
+        "slug": "opensearch-vl",
+        "description": "Repositorio GitHub",
+        "category": "search",
+        "subcategory": "search",
+        "tags": [
+          "search",
+          "messaging",
+          "github"
+        ],
+        "url": "https://github.com/shawn0728/OpenSearch-VL",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "opensearch-vl opensearch-vl repositorio github search search search messaging github"
       }
     ]
   },
@@ -702,6 +1082,7 @@
       "engines",
       "file-transfer",
       "realtime",
+      "search",
       "services",
       "video-hosting"
     ],
@@ -714,20 +1095,23 @@
       "es"
     ],
     "status": [
-      "active"
+      "active",
+      "warning",
+      "deprecated"
     ],
     "verified": [
-      true
+      true,
+      false
     ],
     "noCreditCard": [
-      false,
-      true
+      true,
+      false
     ]
   },
   "ui": {
     "dataset": "search_messaging_image_storage",
-    "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
-    "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 28
+    "title": "file-storage Resources - DevResources 2026",
+    "description": "Recursos de file-storage para desarrolladores",
+    "resourceCount": 38
   }
 }

@@ -271,7 +271,7 @@
       "description": "Etiqueta dark-moon"
     },
     "database": {
-      "count": 5,
+      "count": 8,
       "color": "#059669",
       "description": "Etiqueta database"
     },
@@ -446,7 +446,7 @@
       "description": "Etiqueta git"
     },
     "github": {
-      "count": 11,
+      "count": 14,
       "color": "#d97706",
       "description": "Etiqueta github"
     },
@@ -541,7 +541,7 @@
       "description": "Etiqueta leann"
     },
     "learning": {
-      "count": 5,
+      "count": 8,
       "color": "#db2777",
       "description": "Etiqueta learning"
     },
@@ -1002,1411 +1002,2226 @@
     "entries": [
       {
         "id": "30-seconds-of-code",
+        "name": "30-seconds-of-code",
         "slug": "30-seconds-of-code",
-        "terms": [
-          "30-seconds-of-code",
-          "Snippets de código útiles",
-          "version-control",
-          "resources",
+        "description": "Snippets de código útiles",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "snippets",
           "code",
           "utilities",
           "javascript"
-        ]
+        ],
+        "url": "https://github.com/30-seconds/30-seconds-of-code",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "30-seconds-of-code 30-seconds-of-code snippets de código útiles version-control resources snippets code utilities javascript"
       },
       {
         "id": "ai-self-replication",
+        "name": "AI-self-replication",
         "slug": "ai-self-replication",
-        "terms": [
-          "AI-self-replication",
-          "ai-self-replication",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "ai-self-replication"
+        ],
+        "url": "https://github.com/palisaderesearch/AI-self-replication",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "ai-self-replication ai-self-replication repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github ai-self-replication"
       },
       {
         "id": "alucek-gh",
+        "name": "ALucek-gh",
         "slug": "alucek-gh",
-        "terms": [
-          "ALucek-gh",
-          "alucek-gh",
-          "Perfil GitHub con recursos dev",
+        "description": "Perfil GitHub con recursos dev",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "alucek-gh"
+        ],
+        "url": "https://github.com/ALucek",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "alucek-gh alucek-gh perfil github con recursos dev version-control resources version-control resources control-de-versiones-repositorios recursos-github alucek-gh"
       },
       {
         "id": "alumnium",
+        "name": "alumnium",
         "slug": "alumnium",
-        "terms": [
-          "alumnium",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "alumnium"
+        ],
+        "url": "https://github.com/alumnium-hq/alumnium",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "alumnium alumnium repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github alumnium"
       },
       {
         "id": "anansi",
+        "name": "anansi",
         "slug": "anansi",
-        "terms": [
-          "anansi",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "anansi"
+        ],
+        "url": "https://github.com/mdowis/anansi",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "anansi anansi repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github anansi"
       },
       {
         "id": "anthropics",
+        "name": "anthropics",
         "slug": "anthropics",
-        "terms": [
-          "anthropics",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "anthropics"
+        ],
+        "url": "https://github.com/anthropics",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "anthropics anthropics repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github anthropics"
       },
       {
         "id": "argus",
+        "name": "Argus",
         "slug": "argus",
-        "terms": [
-          "Argus",
-          "argus",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "argus"
+        ],
+        "url": "https://github.com/jasonxtn/Argus",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "argus argus repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github argus"
       },
       {
         "id": "awesome-astro",
+        "name": "Awesome Astro",
         "slug": "awesome-astro",
-        "terms": [
-          "Awesome Astro",
-          "awesome-astro",
-          "Temas y herramientas para Astro",
-          "version-control",
-          "resources",
+        "description": "Temas y herramientas para Astro",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "astro",
           "static-site",
-          "awesome"
-        ]
+          "awesome",
+          "resources"
+        ],
+        "url": "https://github.com/one-aalam/awesome-astro",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome astro awesome-astro temas y herramientas para astro version-control resources astro static-site awesome resources"
       },
       {
         "id": "awesome-copilot",
+        "name": "Awesome Copilot",
         "slug": "awesome-copilot",
-        "terms": [
-          "Awesome Copilot",
-          "awesome-copilot",
-          "Colección de recursos y extensiones Copilot",
-          "version-control",
-          "resources",
+        "description": "Colección de recursos y extensiones Cop",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "github",
           "copilot",
           "awesome",
           "extensions"
-        ]
+        ],
+        "url": "https://awesome-copilot.github.com/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome copilot awesome-copilot colección de recursos y extensiones cop version-control resources github copilot awesome extensions"
       },
       {
         "id": "awesome-design-md",
+        "name": "Awesome Design MD",
         "slug": "awesome-design-md",
-        "terms": [
-          "Awesome Design MD",
-          "awesome-design-md",
-          "Diseño 55 web importantes de marca",
-          "version-control",
-          "resources",
+        "description": "Diseño 55 web importantes de marca",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "design",
           "awesome",
           "brands",
           "ui"
-        ]
+        ],
+        "url": "https://github.com/VoltAgent/awesome-design-md",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome design md awesome-design-md diseño 55 web importantes de marca version-control resources design awesome brands ui"
       },
       {
         "id": "awesome-fastapi",
+        "name": "Awesome FastAPI",
         "slug": "awesome-fastapi",
-        "terms": [
-          "Awesome FastAPI",
-          "awesome-fastapi",
-          "Recursos FastAPI",
-          "version-control",
-          "resources",
+        "description": "Recursos FastAPI",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "fastapi",
           "python",
-          "awesome"
-        ]
+          "awesome",
+          "resources"
+        ],
+        "url": "https://github.com/mjhea0/awesome-fastapi",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome fastapi awesome-fastapi recursos fastapi version-control resources fastapi python awesome resources"
       },
       {
         "id": "awesome-nestjs",
+        "name": "Awesome NestJS",
         "slug": "awesome-nestjs",
-        "terms": [
-          "Awesome NestJS",
-          "awesome-nestjs",
-          "Recursos NestJS",
-          "version-control",
-          "resources",
+        "description": "Recursos NestJS",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "nestjs",
           "nodejs",
-          "awesome"
-        ]
+          "awesome",
+          "resources"
+        ],
+        "url": "https://github.com/juliandavidmr/awesome-nestjs",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome nestjs awesome-nestjs recursos nestjs version-control resources nestjs nodejs awesome resources"
       },
       {
         "id": "awesome-nextjs",
+        "name": "Awesome Next.js",
         "slug": "awesome-next-js",
-        "terms": [
-          "Awesome Next.js",
-          "awesome-next-js",
-          "Recursos y ejemplos Next.js",
-          "version-control",
-          "resources",
+        "description": "Recursos y ejemplos Next.js",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "nextjs",
           "react",
-          "awesome"
-        ]
+          "awesome",
+          "resources"
+        ],
+        "url": "https://github.com/unicodeveloper/awesome-nextjs",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome next.js awesome-next-js recursos y ejemplos next.js version-control resources nextjs react awesome resources"
       },
       {
         "id": "awesome-open-source-ai",
+        "name": "Awesome Open Source AI",
         "slug": "awesome-open-source-ai",
-        "terms": [
-          "Awesome Open Source AI",
-          "awesome-open-source-ai",
-          "Lista curada proyectos IA open source",
+        "description": "Lista curada proyectos IA open source",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "awesome-open-source-ai"
+        ],
+        "url": "https://github.com/alvinreal/awesome-opensource-ai",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome open source ai awesome-open-source-ai lista curada proyectos ia open source version-control resources version-control resources y-control-de-versiones-repositorios recursos-github awesome-open-source-ai"
       },
       {
         "id": "awesome-postgresql",
+        "name": "Awesome PostgreSQL",
         "slug": "awesome-postgresql",
-        "terms": [
-          "Awesome PostgreSQL",
-          "awesome-postgresql",
-          "Recursos PostgreSQL",
-          "version-control",
-          "resources",
+        "description": "Recursos PostgreSQL",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "postgresql",
           "database",
-          "awesome"
-        ]
+          "awesome",
+          "resources"
+        ],
+        "url": "https://github.com/dhamaniasg/awesome-postgres",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome postgresql awesome-postgresql recursos postgresql version-control resources postgresql database awesome resources"
       },
       {
         "id": "awesome-python",
+        "name": "Awesome Python",
         "slug": "awesome-python",
-        "terms": [
-          "Awesome Python",
-          "awesome-python",
-          "Recursos curados para Python",
-          "version-control",
-          "resources",
+        "description": "Recursos curados para Python",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "python",
           "awesome",
-          "curated"
-        ]
+          "curated",
+          "resources"
+        ],
+        "url": "https://github.com/vinta/awesome-python",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome python awesome-python recursos curados para python version-control resources python awesome curated resources"
       },
       {
         "id": "awesome-react",
+        "name": "Awesome React",
         "slug": "awesome-react",
-        "terms": [
-          "Awesome React",
-          "awesome-react",
-          "Componentes y tools React",
-          "version-control",
-          "resources",
+        "description": "Componentes y tools React",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "react",
           "components",
-          "awesome"
-        ]
+          "awesome",
+          "resources"
+        ],
+        "url": "https://github.com/enaqx/awesome-react",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome react awesome-react componentes y tools react version-control resources react components awesome resources"
       },
       {
         "id": "awesome-typescript",
+        "name": "Awesome TypeScript",
         "slug": "awesome-typescript",
-        "terms": [
-          "Awesome TypeScript",
-          "awesome-typescript",
-          "Recursos seleccionados para TS",
-          "version-control",
-          "resources",
+        "description": "Recursos seleccionados para TS",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "typescript",
           "awesome",
+          "resources",
           "typed"
-        ]
+        ],
+        "url": "https://github.com/brookshi/awesome-typescript",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome typescript awesome-typescript recursos seleccionados para ts version-control resources typescript awesome resources typed"
       },
       {
         "id": "awesome-ai-software-engineering",
+        "name": "awesome-ai-software-engineering",
         "slug": "awesome-ai-software-engineering",
-        "terms": [
-          "awesome-ai-software-engineering",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "awesome-ai-software-engineering"
+        ],
+        "url": "https://github.com/dontriskit/awesome-ai-software-engineering",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-ai-software-engineering awesome-ai-software-engineering repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github awesome-ai-software-engineering"
       },
       {
         "id": "awesome-autonomous-vehicles",
+        "name": "awesome-autonomous-vehicles",
         "slug": "awesome-autonomous-vehicles",
-        "terms": [
-          "awesome-autonomous-vehicles",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "awesome-autonomous-vehicles"
+        ],
+        "url": "https://github.com/manfreddiaz/awesome-autonomous-vehicles",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-autonomous-vehicles awesome-autonomous-vehicles repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github awesome-autonomous-vehicles"
       },
       {
         "id": "awesome-deep-trading",
+        "name": "awesome-deep-trading",
         "slug": "awesome-deep-trading",
-        "terms": [
-          "awesome-deep-trading",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "awesome-deep-trading"
+        ],
+        "url": "https://github.com/cbailes/awesome-deep-trading",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "awesome-deep-trading awesome-deep-trading repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github awesome-deep-trading"
       },
       {
         "id": "aws-free-tier",
+        "name": "AWS Free Tier",
         "slug": "aws-free-tier",
-        "terms": [
-          "AWS Free Tier",
-          "aws-free-tier",
-          "Capa gratuita AWS durante 12 meses con límites mensuales",
+        "description": "Capa gratuita AWS durante 12 meses con l",
+        "category": "cloud",
+        "subcategory": "providers",
+        "tags": [
           "cloud",
-          "providers",
           "aws",
           "amazon",
           "free-tier",
           "12-months",
           "backend",
           "trial"
-        ]
+        ],
+        "url": "https://aws.amazon.com/free/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "aws free tier aws-free-tier capa gratuita aws durante 12 meses con l cloud providers cloud aws amazon free-tier 12-months backend trial"
       },
       {
         "id": "azure-free",
+        "name": "Azure Free",
         "slug": "azure-free",
-        "terms": [
-          "Azure Free",
-          "azure-free",
-          "Servicios gratis Microsoft Azure con crédito inicial",
+        "description": "Servicios gratis Microsoft Azure con cr�",
+        "category": "cloud",
+        "subcategory": "providers",
+        "tags": [
           "cloud",
-          "providers",
           "azure",
           "microsoft",
           "credit",
           "backend",
           "trial"
-        ]
+        ],
+        "url": "https://azure.microsoft.com/free/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "azure free azure-free servicios gratis microsoft azure con cr� cloud providers cloud azure microsoft credit backend trial"
       },
       {
         "id": "bitbucket",
+        "name": "Bitbucket",
         "slug": "bitbucket",
-        "terms": [
-          "Bitbucket",
-          "bitbucket",
-          "Repos privados + pipelines gratis hasta 5 usuarios",
-          "version-control",
-          "platforms",
+        "description": "Repos privados + pipelines gratis hasta",
+        "category": "version-control",
+        "subcategory": "platforms",
+        "tags": [
           "git",
           "repos",
           "pipelines",
           "atlassian",
           "team"
-        ]
+        ],
+        "url": "https://bitbucket.org",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "bitbucket bitbucket repos privados + pipelines gratis hasta version-control platforms git repos pipelines atlassian team"
       },
       {
         "id": "brainboard",
+        "name": "Brainboard",
         "slug": "brainboard",
-        "terms": [
-          "Brainboard",
-          "brainboard",
-          "Infraestructura cloud visual con drag-and-drop",
+        "description": "Infraestructura cloud visual con drag-an",
+        "category": "cloud",
+        "subcategory": "management",
+        "tags": [
           "cloud",
-          "management",
           "iac",
           "visual",
           "terraform",
           "collaboration"
-        ]
+        ],
+        "url": "https://www.brainboard.co/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "brainboard brainboard infraestructura cloud visual con drag-an cloud management cloud iac visual terraform collaboration"
       },
       {
         "id": "bug-bounty",
+        "name": "Bug-Bounty",
         "slug": "bug-bounty",
-        "terms": [
-          "Bug-Bounty",
-          "bug-bounty",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "bug-bounty"
+        ],
+        "url": "https://github.com/AnLoMinus/Bug-Bounty",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "bug-bounty bug-bounty repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github bug-bounty"
       },
       {
         "id": "build-nvidia-com",
+        "name": "build-nvidia-com",
         "slug": "build-nvidia-com",
-        "terms": [
-          "build-nvidia-com",
-          "Recurso de IA",
+        "description": "Recurso de IA",
+        "category": "cloud",
+        "subcategory": "management",
+        "tags": [
           "cloud",
           "management",
           "a-i-cloud-hosting",
-          "cloud-management"
-        ]
+          "cloud-management",
+          "build-nvidia-com"
+        ],
+        "url": "https://build.nvidia.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "build-nvidia-com build-nvidia-com recurso de ia cloud management cloud management a-i-cloud-hosting cloud-management build-nvidia-com"
       },
       {
         "id": "cloud-66",
+        "name": "Cloud 66",
         "slug": "cloud-66",
-        "terms": [
-          "Cloud 66",
-          "cloud-66",
-          "Deploy apps en cualquier cloud gratis",
-          "cloud",
-          "management",
+        "description": "Deploy apps en cualquier cloud gratis",
+        "category": "cloud",
+        "subcategory": "management",
+        "tags": [
           "deploy",
           "multi-cloud",
           "automation",
           "paas"
-        ]
+        ],
+        "url": "https://www.cloud66.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "cloud 66 cloud-66 deploy apps en cualquier cloud gratis cloud management deploy multi-cloud automation paas"
       },
       {
         "id": "cloudflare-free",
+        "name": "Cloudflare Free",
         "slug": "cloudflare-free",
-        "terms": [
-          "Cloudflare Free",
-          "cloudflare-free",
-          "DNS, CDN, Workers y SSL gratis sin tarjeta de crédito",
+        "description": "DNS, CDN, Workers y SSL gratis sin tarje",
+        "category": "cloud",
+        "subcategory": "providers",
+        "tags": [
           "cloud",
-          "providers",
           "cdn",
           "dns",
           "workers",
           "ssl",
           "security",
           "no-cc"
-        ]
+        ],
+        "url": "https://www.cloudflare.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "cloudflare free cloudflare-free dns, cdn, workers y ssl gratis sin tarje cloud providers cloud cdn dns workers ssl security no-cc"
       },
       {
         "id": "cloudflare-pages",
+        "name": "Cloudflare Pages",
         "slug": "cloudflare-pages",
-        "terms": [
-          "Cloudflare Pages",
-          "cloudflare-pages",
-          "Hosting estático global gratis con edge functions",
+        "description": "Hosting estático global gratis con edge",
+        "category": "hosting",
+        "subcategory": "deploy",
+        "tags": [
           "hosting",
-          "deploy",
           "static",
           "edge",
           "functions",
           "global",
           "cdn"
-        ]
+        ],
+        "url": "https://pages.cloudflare.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "cloudflare pages cloudflare-pages hosting estático global gratis con edge hosting deploy hosting static edge functions global cdn"
       },
       {
         "id": "codeberg",
+        "name": "Codeberg",
         "slug": "codeberg",
-        "terms": [
-          "Codeberg",
-          "codeberg",
-          "Git libre con CI integrado y comunidad FOSS",
-          "version-control",
-          "platforms",
+        "description": "Git libre con CI integrado y comunidad F",
+        "category": "version-control",
+        "subcategory": "platforms",
+        "tags": [
           "git",
           "foss",
           "open-source",
           "ci",
           "community"
-        ]
+        ],
+        "url": "https://codeberg.org",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "codeberg codeberg git libre con ci integrado y comunidad f version-control platforms git foss open-source ci community"
       },
       {
         "id": "dark-moon",
+        "name": "Dark-Moon",
         "slug": "dark-moon",
-        "terms": [
-          "Dark-Moon",
-          "dark-moon",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "dark-moon"
+        ],
+        "url": "https://github.com/ASCIT31/Dark-Moon",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "dark-moon dark-moon repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github dark-moon"
       },
       {
         "id": "deepsource-good-first",
+        "name": "DeepSourceCorp Good First",
         "slug": "deepsourcecorp-good-first",
-        "terms": [
-          "DeepSourceCorp Good First",
-          "deepsourcecorp-good-first",
-          "Issues para principiantes",
-          "version-control",
-          "resources",
+        "description": "Issues para principiantes",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "github",
           "issues",
           "beginners",
           "open-source"
-        ]
+        ],
+        "url": "https://github.com/DeepSourceCorp/good-first-issue",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "deepsourcecorp good first deepsourcecorp-good-first issues para principiantes version-control resources github issues beginners open-source"
       },
       {
         "id": "deployment-io",
+        "name": "deployment.io",
         "slug": "deployment-io",
-        "terms": [
-          "deployment.io",
-          "deployment-io",
-          "Automatiza despliegues en AWS con políticas",
-          "cloud",
-          "management",
+        "description": "Automatiza despliegues en AWS con polít",
+        "category": "cloud",
+        "subcategory": "management",
+        "tags": [
           "aws",
           "deployment",
           "automation",
           "policies",
           "devops"
-        ]
+        ],
+        "url": "https://deployment.io/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "deployment.io deployment-io automatiza despliegues en aws con polít cloud management aws deployment automation policies devops"
       },
       {
         "id": "developer-roadmap",
+        "name": "Developer Roadmap",
         "slug": "developer-roadmap",
-        "terms": [
-          "Developer Roadmap",
-          "developer-roadmap",
-          "Guías de aprendizaje para devs",
-          "version-control",
-          "resources",
+        "description": "Guías de aprendizaje para devs",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "roadmap",
           "learning",
           "career",
           "guides"
-        ]
+        ],
+        "url": "https://github.com/kamranahmedse/developer-roadmap",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "developer roadmap developer-roadmap guías de aprendizaje para devs version-control resources roadmap learning career guides"
       },
       {
         "id": "dokploy",
+        "name": "Dokploy",
         "slug": "dokploy",
-        "terms": [
-          "Dokploy",
-          "dokploy",
-          "Servidor open source tipo Vercel self-hosted",
+        "description": "Servidor open source tipo Vercel self-ho",
+        "category": "hosting",
+        "subcategory": "deploy",
+        "tags": [
           "hosting",
-          "deploy",
           "open-source",
           "self-hosted",
           "vercel-alternative",
           "docker"
-        ]
+        ],
+        "url": "https://github.com/Dokploy/dokploy",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "dokploy dokploy servidor open source tipo vercel self-ho hosting deploy hosting open-source self-hosted vercel-alternative docker"
       },
       {
         "id": "fc434091c6414acc098f58b18a0146d8-js",
+        "name": "fc434091c6414acc098f58b18a0146d8-js",
         "slug": "fc434091c6414acc098f58b18a0146d8-js",
-        "terms": [
-          "fc434091c6414acc098f58b18a0146d8-js",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "fc434091c6414acc098f58b18a0146d8-js"
+        ],
+        "url": "https://gist.github.com/devinschumacher/fc434091c6414acc098f58b18a0146d8.js",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "fc434091c6414acc098f58b18a0146d8-js fc434091c6414acc098f58b18a0146d8-js repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github fc434091c6414acc098f58b18a0146d8-js"
       },
       {
         "id": "first-contributions",
+        "name": "First Contributions",
         "slug": "first-contributions",
-        "terms": [
-          "First Contributions",
-          "first-contributions",
-          "Tu primera contribución GitHub",
-          "version-control",
-          "resources",
+        "description": "Tu primera contribución GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "github",
           "contributions",
           "beginners",
           "tutorial"
-        ]
+        ],
+        "url": "https://github.com/firstcontributions/first-contributions",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "first contributions first-contributions tu primera contribución github version-control resources github contributions beginners tutorial"
       },
       {
         "id": "framagit",
+        "name": "Framagit",
         "slug": "framagit",
-        "terms": [
-          "Framagit",
-          "framagit",
-          "Forge GitLab con CI y páginas estáticas gratis",
-          "version-control",
-          "platforms",
+        "description": "Forge GitLab con CI y páginas estática",
+        "category": "version-control",
+        "subcategory": "platforms",
+        "tags": [
           "git",
           "gitlab",
           "ci",
           "pages",
           "foss"
-        ]
+        ],
+        "url": "https://framagit.org",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "framagit framagit forge gitlab con ci y páginas estática version-control platforms git gitlab ci pages foss"
       },
       {
         "id": "free-for-dev",
+        "name": "Free For Dev",
         "slug": "free-for-dev",
-        "terms": [
-          "Free For Dev",
-          "free-for-dev",
-          "Recursos gratis para devs",
-          "version-control",
-          "resources",
+        "description": "Recursos gratis para devs",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "free",
           "dev-tools",
+          "resources",
           "list"
-        ]
+        ],
+        "url": "https://github.com/ripienaar/free-for-dev",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "free for dev free-for-dev recursos gratis para devs version-control resources free dev-tools resources list"
       },
       {
         "id": "free-programming-books",
+        "name": "Free Programming Books",
         "slug": "free-programming-books",
-        "terms": [
-          "Free Programming Books",
-          "free-programming-books",
-          "Libros de programación gratis",
-          "version-control",
-          "resources",
+        "description": "Libros de programación gratis",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "books",
           "free",
           "programming",
           "learning"
-        ]
+        ],
+        "url": "https://github.com/EbookFoundation/free-programming-books",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "free programming books free-programming-books libros de programación gratis version-control resources books free programming learning"
       },
       {
         "id": "freecodecamp",
+        "name": "freeCodeCamp",
         "slug": "freecodecamp",
-        "terms": [
-          "freeCodeCamp",
-          "freecodecamp",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "freecodecamp"
+        ],
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "freecodecamp freecodecamp repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github freecodecamp"
       },
       {
         "id": "gencad",
+        "name": "GenCAD",
         "slug": "gencad",
-        "terms": [
-          "GenCAD",
-          "gencad",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "gencad"
+        ],
+        "url": "https://github.com/ferdous-alam/GenCAD",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "gencad gencad repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github gencad"
       },
       {
         "id": "gimp-mcp",
+        "name": "GIMP MCP",
         "slug": "gimp-mcp",
-        "terms": [
-          "GIMP MCP",
-          "gimp-mcp",
-          "Servidor MCP para control conversacional",
+        "description": "Servidor MCP para control conversacional",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "gimp-mcp"
+        ],
+        "url": "https://github.com/maorcc/gimp-mcp",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "gimp mcp gimp-mcp servidor mcp para control conversacional version-control resources version-control resources y-control-de-versiones-repositorios recursos-github gimp-mcp"
       },
       {
         "id": "git-scm",
+        "name": "Git SCM",
         "slug": "git-scm",
-        "terms": [
-          "Git SCM",
-          "git-scm",
-          "Sitio web oficial con documentación completa",
-          "version-control",
-          "learning",
+        "description": "Sitio web oficial con documentación com",
+        "category": "version-control",
+        "subcategory": "learning",
+        "tags": [
           "git",
           "documentation",
           "official",
           "reference"
-        ]
+        ],
+        "url": "https://git-scm.com/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "git scm git-scm sitio web oficial con documentación com version-control learning git documentation official reference"
       },
       {
         "id": "gitgud",
+        "name": "GitGud",
         "slug": "gitgud",
-        "terms": [
-          "GitGud",
-          "gitgud",
-          "GitLab con CI/CD y registry sin límites estrictos",
-          "version-control",
-          "platforms",
+        "description": "GitLab con CI/CD y registry sin límites",
+        "category": "version-control",
+        "subcategory": "platforms",
+        "tags": [
           "git",
           "gitlab",
           "ci-cd",
           "registry"
-        ]
+        ],
+        "url": "https://gitgud.io",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "gitgud gitgud gitlab con ci/cd y registry sin límites version-control platforms git gitlab ci-cd registry"
       },
       {
         "id": "github",
+        "name": "GitHub",
         "slug": "github",
-        "terms": [
-          "GitHub",
-          "github",
-          "Repos ilimitados + CI/CD + Copilot AI integrado",
-          "version-control",
-          "platforms",
+        "description": "Repos ilimitados + CI/CD + Copilot AI in",
+        "category": "version-control",
+        "subcategory": "platforms",
+        "tags": [
           "git",
           "repos",
           "ci-cd",
           "copilot",
           "ai",
           "collaboration"
-        ]
+        ],
+        "url": "https://github.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "github github repos ilimitados + ci/cd + copilot ai in version-control platforms git repos ci-cd copilot ai collaboration"
       },
       {
         "id": "github-awesome",
+        "name": "GitHub Awesome",
         "slug": "github-awesome",
-        "terms": [
-          "GitHub Awesome",
-          "github-awesome",
-          "Repositorio más popular de recursos curados",
-          "version-control",
-          "resources",
+        "description": "Repositorio más popular de recursos cur",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "github",
           "awesome",
-          "curated"
-        ]
+          "curated",
+          "resources"
+        ],
+        "url": "https://github.com/sindresorhus/awesome",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "github awesome github-awesome repositorio más popular de recursos cur version-control resources github awesome curated resources"
       },
       {
         "id": "github-copilot-cli",
+        "name": "GitHub Copilot CLI",
         "slug": "github-copilot-cli",
-        "terms": [
-          "GitHub Copilot CLI",
-          "github-copilot-cli",
-          "Curso CLI GitHub Copilot para principiantes",
-          "version-control",
-          "resources",
+        "description": "Curso CLI GitHub Copilot para principian",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "github",
           "copilot",
           "cli",
           "course",
           "beginners"
-        ]
+        ],
+        "url": "https://github.com/github/copilot-cli-for-beginners",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "github copilot cli github-copilot-cli curso cli github copilot para principian version-control resources github copilot cli course beginners"
       },
       {
         "id": "github-education",
+        "name": "GitHub Education",
         "slug": "github-education",
-        "terms": [
-          "GitHub Education",
-          "github-education",
-          "Recursos gratis para estudiantes verificados",
-          "version-control",
-          "resources",
+        "description": "Recursos gratis para estudiantes verific",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "github",
           "education",
           "students",
           "free-pack"
-        ]
+        ],
+        "url": "https://education.github.com/pack",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "github education github-education recursos gratis para estudiantes verific version-control resources github education students free-pack"
       },
       {
         "id": "github-skills",
+        "name": "GitHub Skills",
         "slug": "github-skills",
-        "terms": [
-          "GitHub Skills",
-          "github-skills",
-          "Cursos interactivos oficiales GitHub con feedback",
-          "version-control",
-          "resources",
+        "description": "Cursos interactivos oficiales GitHub con",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "github",
           "learning",
           "courses",
           "interactive"
-        ]
+        ],
+        "url": "https://learn.github.com/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "github skills github-skills cursos interactivos oficiales github con version-control resources github learning courses interactive"
       },
       {
         "id": "github-skills-intro",
+        "name": "GitHub Skills Introduction",
         "slug": "github-skills-introduction",
-        "terms": [
-          "GitHub Skills Introduction",
-          "github-skills-introduction",
-          "Cursos interactivos oficiales de GitHub con feedback automatizado",
-          "version-control",
-          "learning",
+        "description": "Cursos interactivos oficiales de GitHub",
+        "category": "version-control",
+        "subcategory": "learning",
+        "tags": [
           "github",
           "skills",
           "course",
           "interactive"
-        ]
+        ],
+        "url": "https://github.com/skills/introduction-to-git",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "github skills introduction github-skills-introduction cursos interactivos oficiales de github version-control learning github skills course interactive"
       },
       {
         "id": "github-topics",
+        "name": "GitHub Topics",
         "slug": "github-topics",
-        "terms": [
-          "GitHub Topics",
-          "github-topics",
-          "Explorar repos por temas y tecnologías",
-          "version-control",
-          "resources",
+        "description": "Explorar repos por temas y tecnologías",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "github",
           "topics",
           "discovery",
           "tags"
-        ]
+        ],
+        "url": "https://github.com/topics",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "github topics github-topics explorar repos por temas y tecnologías version-control resources github topics discovery tags"
       },
       {
         "id": "github-trending",
+        "name": "GitHub Trending",
         "slug": "github-trending",
-        "terms": [
-          "GitHub Trending",
-          "github-trending",
-          "Repositorios GitHub trending actualizados diariamente",
-          "version-control",
-          "resources",
+        "description": "Repositorios GitHub trending actualizado",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "github",
           "trending",
           "discovery",
           "repos"
-        ]
+        ],
+        "url": "https://github.com/trending",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "github trending github-trending repositorios github trending actualizado version-control resources github trending discovery repos"
       },
       {
         "id": "gitlab",
+        "name": "GitLab",
         "slug": "gitlab",
-        "terms": [
-          "GitLab",
-          "gitlab",
-          "Repos + CI/CD + registry container integrado",
-          "version-control",
-          "platforms",
+        "description": "Repos + CI/CD + registry container integ",
+        "category": "version-control",
+        "subcategory": "platforms",
+        "tags": [
           "git",
           "repos",
           "ci-cd",
           "registry",
           "devops",
           "container"
-        ]
+        ],
+        "url": "https://gitlab.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "gitlab gitlab repos + ci/cd + registry container integ version-control platforms git repos ci-cd registry devops container"
       },
       {
         "id": "globalthreatmap",
+        "name": "globalthreatmap",
         "slug": "globalthreatmap",
-        "terms": [
-          "globalthreatmap",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "globalthreatmap"
+        ],
+        "url": "https://github.com/unicodeveloper/globalthreatmap",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "globalthreatmap globalthreatmap repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github globalthreatmap"
       },
       {
         "id": "good-first-issues",
+        "name": "Good First Issues",
         "slug": "good-first-issues",
-        "terms": [
-          "Good First Issues",
-          "good-first-issues",
-          "Issues fáciles para principiantes en open source",
-          "version-control",
-          "resources",
+        "description": "Issues fáciles para principiantes en op",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "github",
           "issues",
           "beginners",
           "open-source"
-        ]
+        ],
+        "url": "https://goodfirstissues.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "good first issues good-first-issues issues fáciles para principiantes en op version-control resources github issues beginners open-source"
       },
       {
         "id": "google-cloud-free",
+        "name": "Google Cloud Free",
         "slug": "google-cloud-free",
-        "terms": [
-          "Google Cloud Free",
-          "google-cloud-free",
-          "Capas gratuitas GCP siempre activas para servicios seleccionados",
+        "description": "Capas gratuitas GCP siempre activas para",
+        "category": "cloud",
+        "subcategory": "providers",
+        "tags": [
           "cloud",
-          "providers",
           "gcp",
           "google",
           "free-tier",
           "backend",
           "infra",
           "always-free"
-        ]
+        ],
+        "url": "https://cloud.google.com/free",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "google cloud free google-cloud-free capas gratuitas gcp siempre activas para cloud providers cloud gcp google free-tier backend infra always-free"
       },
       {
         "id": "ground-station",
+        "name": "Ground Station",
         "slug": "ground-station",
-        "terms": [
-          "Ground Station",
-          "ground-station",
-          "Suite monitoreo satélites open source",
+        "description": "Suite monitoreo satélites open source",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "ground-station"
+        ],
+        "url": "https://github.com/sgoudelis/ground-station",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "ground station ground-station suite monitoreo satélites open source version-control resources version-control resources y-control-de-versiones-repositorios recursos-github ground-station"
       },
       {
         "id": "hello-git-mouredev",
+        "name": "Hello Git (MoureDev)",
         "slug": "hello-git-mouredev",
-        "terms": [
-          "Hello Git (MoureDev)",
-          "hello-git-mouredev",
-          "Curso completo de Git y GitHub desde cero en español",
-          "version-control",
-          "learning",
+        "description": "Curso completo de Git y GitHub desde cer",
+        "category": "version-control",
+        "subcategory": "learning",
+        "tags": [
           "git",
           "course",
           "spanish",
           "beginners"
-        ]
+        ],
+        "url": "https://github.com/mouredev/hello-git",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "hello git (mouredev) hello-git-mouredev curso completo de git y github desde cer version-control learning git course spanish beginners"
       },
       {
         "id": "heptapod",
+        "name": "Heptapod",
         "slug": "heptapod",
-        "terms": [
-          "Heptapod",
-          "heptapod",
-          "GitLab + Mercurial soporte dual",
-          "version-control",
-          "platforms",
+        "description": "GitLab + Mercurial soporte dual",
+        "category": "version-control",
+        "subcategory": "platforms",
+        "tags": [
           "git",
           "mercurial",
           "gitlab",
           "dual-vcs"
-        ]
+        ],
+        "url": "https://heptapod.net",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "heptapod heptapod gitlab + mercurial soporte dual version-control platforms git mercurial gitlab dual-vcs"
       },
       {
         "id": "ibm-cloud-free",
+        "name": "IBM Cloud Free",
         "slug": "ibm-cloud-free",
-        "terms": [
-          "IBM Cloud Free",
-          "ibm-cloud-free",
-          "DB, API Connect y monitoreo gratis con límites",
+        "description": "DB, API Connect y monitoreo gratis con l",
+        "category": "cloud",
+        "subcategory": "providers",
+        "tags": [
           "cloud",
-          "providers",
           "ibm",
           "database",
           "api",
           "monitoring",
           "free-tier"
-        ]
+        ],
+        "url": "https://www.ibm.com/cloud/free/",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "ibm cloud free ibm-cloud-free db, api connect y monitoreo gratis con l cloud providers cloud ibm database api monitoring free-tier"
       },
       {
         "id": "integrate-api-nvidia-com",
+        "name": "integrate-api-nvidia-com",
         "slug": "integrate-api-nvidia-com",
-        "terms": [
-          "integrate-api-nvidia-com",
-          "Recurso de IA",
+        "description": "Recurso de IA",
+        "category": "cloud",
+        "subcategory": "management",
+        "tags": [
           "cloud",
           "management",
           "a-i-cloud-hosting",
-          "cloud-management"
-        ]
+          "cloud-management",
+          "integrate-api-nvidia-com"
+        ],
+        "url": "https://integrate.api.nvidia.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "integrate-api-nvidia-com integrate-api-nvidia-com recurso de ia cloud management cloud management a-i-cloud-hosting cloud-management integrate-api-nvidia-com"
       },
       {
         "id": "koyeb",
+        "name": "Koyeb",
         "slug": "koyeb",
-        "terms": [
-          "Koyeb",
-          "koyeb",
-          "Postgres 1GB gratis + 5h ejecución",
+        "description": "Postgres 1GB gratis + 5h ejecución",
+        "category": "hosting",
+        "subcategory": "deploy",
+        "tags": [
           "hosting",
-          "deploy",
           "postgres",
           "database",
           "serverless",
           "edge"
-        ]
+        ],
+        "url": "https://koyeb.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "koyeb koyeb postgres 1gb gratis + 5h ejecución hosting deploy hosting postgres database serverless edge"
       },
       {
         "id": "lazygit",
+        "name": "Lazygit",
         "slug": "lazygit",
-        "terms": [
-          "Lazygit",
-          "lazygit",
-          "Terminal UI para Git con atajos intuitiv",
+        "description": "Terminal UI para Git con atajos intuitiv",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "lazygit"
+        ],
+        "url": "https://github.com/jesseduffield/lazygit",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "lazygit lazygit terminal ui para git con atajos intuitiv version-control resources version-control resources y-control-de-versiones-repositorios recursos-github lazygit"
       },
       {
         "id": "leann",
+        "name": "LEANN",
         "slug": "leann",
-        "terms": [
-          "LEANN",
-          "leann",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "leann"
+        ],
+        "url": "https://github.com/yichuan-w/LEANN",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "leann leann repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github leann"
       },
       {
         "id": "learn-git-branching",
+        "name": "Learn Git Branching",
         "slug": "learn-git-branching",
-        "terms": [
-          "Learn Git Branching",
-          "learn-git-branching",
-          "Tutorial visual e interactivo para branching",
-          "version-control",
-          "learning",
+        "description": "Tutorial visual e interactivo para branc",
+        "category": "version-control",
+        "subcategory": "learning",
+        "tags": [
           "git",
           "branching",
           "tutorial",
           "interactive"
-        ]
+        ],
+        "url": "https://learngitbranching.js.org/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "learn git branching learn-git-branching tutorial visual e interactivo para branc version-control learning git branching tutorial interactive"
       },
       {
         "id": "libros-programacion-gratis",
+        "name": "Libros Programación Gratis",
         "slug": "libros-programacion-gratis",
-        "terms": [
-          "Libros Programación Gratis",
-          "libros-programacion-gratis",
-          "Repositorio midudev libros",
-          "version-control",
-          "resources",
+        "description": "Repositorio midudev libros",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "books",
           "free",
           "spanish",
           "midudev"
-        ]
+        ],
+        "url": "https://github.com/midudev/libros-programacion-gratis",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "libros programación gratis libros-programacion-gratis repositorio midudev libros version-control resources books free spanish midudev"
       },
       {
         "id": "live-trade-bench",
+        "name": "live-trade-bench",
         "slug": "live-trade-bench",
-        "terms": [
-          "live-trade-bench",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "live-trade-bench"
+        ],
+        "url": "https://github.com/ulab-uiuc/live-trade-bench",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "live-trade-bench live-trade-bench repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github live-trade-bench"
       },
       {
         "id": "localstack",
+        "name": "localstack",
         "slug": "localstack",
-        "terms": [
-          "localstack",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "cloud",
+        "subcategory": "management",
+        "tags": [
           "cloud",
           "management",
           "a-i-cloud-hosting",
-          "cloud-management"
-        ]
+          "cloud-management",
+          "localstack"
+        ],
+        "url": "https://github.com/localstack/localstack",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "localstack localstack repositorio github cloud management cloud management a-i-cloud-hosting cloud-management localstack"
       },
       {
         "id": "netlify",
+        "name": "Netlify",
         "slug": "netlify",
-        "terms": [
-          "Netlify",
-          "netlify",
-          "Hosting estático con forms y functions serverless",
+        "description": "Hosting estático con forms y functions",
+        "category": "hosting",
+        "subcategory": "deploy",
+        "tags": [
           "hosting",
-          "deploy",
           "static",
           "forms",
           "serverless",
-          "functions"
-        ]
+          "functions",
+          "deploy"
+        ],
+        "url": "https://netlify.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "netlify netlify hosting estático con forms y functions hosting deploy hosting static forms serverless functions deploy"
       },
       {
         "id": "onyx",
+        "name": "onyx",
         "slug": "onyx",
-        "terms": [
-          "onyx",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "onyx"
+        ],
+        "url": "https://github.com/onyx-dot-app/onyx",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "onyx onyx repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github onyx"
       },
       {
         "id": "openguider",
+        "name": "OpenGuider",
         "slug": "openguider",
-        "terms": [
-          "OpenGuider",
-          "openguider",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "openguider"
+        ],
+        "url": "https://github.com/mo-tunn/OpenGuider",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "openguider openguider repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github openguider"
       },
       {
         "id": "oracle-cloud-free",
+        "name": "Oracle Cloud Free",
         "slug": "oracle-cloud-free",
-        "terms": [
-          "Oracle Cloud Free",
-          "oracle-cloud-free",
-          "VMs, storage y DB gratis Oracle siempre activos",
+        "description": "VMs, storage y DB gratis Oracle siempre",
+        "category": "cloud",
+        "subcategory": "providers",
+        "tags": [
           "cloud",
-          "providers",
           "oracle",
           "vm",
           "storage",
           "database",
           "always-free"
-        ]
+        ],
+        "url": "https://www.oracle.com/cloud/free/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "oracle cloud free oracle-cloud-free vms, storage y db gratis oracle siempre cloud providers cloud oracle vm storage database always-free"
       },
       {
         "id": "pagure",
+        "name": "Pagure",
         "slug": "pagure",
-        "terms": [
-          "Pagure",
-          "pagure",
-          "Plataforma colaboración código FOSS",
-          "version-control",
-          "platforms",
+        "description": "Plataforma colaboración código FOSS",
+        "category": "version-control",
+        "subcategory": "platforms",
+        "tags": [
           "git",
           "foss",
           "collaboration",
           "fedora"
-        ]
+        ],
+        "url": "https://pagure.io",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pagure pagure plataforma colaboración código foss version-control platforms git foss collaboration fedora"
       },
       {
         "id": "pijul",
+        "name": "Pijul",
         "slug": "pijul",
-        "terms": [
-          "Pijul",
-          "pijul",
-          "VCS distribuido basado en teoría patches",
-          "version-control",
-          "platforms",
+        "description": "VCS distribuido basado en teoría patche",
+        "category": "version-control",
+        "subcategory": "platforms",
+        "tags": [
           "vcs",
           "distributed",
           "patches",
           "alternative"
-        ]
+        ],
+        "url": "https://pijul.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pijul pijul vcs distribuido basado en teoría patche version-control platforms vcs distributed patches alternative"
       },
       {
         "id": "playtranslate",
+        "name": "playtranslate",
         "slug": "playtranslate",
-        "terms": [
-          "playtranslate",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "playtranslate"
+        ],
+        "url": "https://github.com/dominostars/playtranslate",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "playtranslate playtranslate repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github playtranslate"
       },
       {
         "id": "portless",
+        "name": "Portless",
         "slug": "portless",
-        "terms": [
-          "Portless",
-          "portless",
-          "Deploy sin puertos expuestos Vercel Labs",
+        "description": "Deploy sin puertos expuestos Vercel Labs",
+        "category": "hosting",
+        "subcategory": "deploy",
+        "tags": [
           "hosting",
           "deploy",
           "a-i-cloud-hosting",
-          "hosting-deploy"
-        ]
+          "hosting-deploy",
+          "portless"
+        ],
+        "url": "https://github.com/vercel-labs/portless",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "portless portless deploy sin puertos expuestos vercel labs hosting deploy hosting deploy a-i-cloud-hosting hosting-deploy portless"
       },
       {
         "id": "pro-git-book",
+        "name": "Pro Git Book",
         "slug": "pro-git-book",
-        "terms": [
-          "Pro Git Book",
-          "pro-git-book",
-          "Libro oficial de Git, segunda edición gratuito",
-          "version-control",
-          "learning",
+        "description": "Libro oficial de Git, segunda edición g",
+        "category": "version-control",
+        "subcategory": "learning",
+        "tags": [
           "git",
           "book",
+          "learning",
           "official"
-        ]
+        ],
+        "url": "https://github.com/progit/progit2",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pro git book pro-git-book libro oficial de git, segunda edición g version-control learning git book learning official"
       },
       {
         "id": "public-apis",
+        "name": "Public APIs",
         "slug": "public-apis",
-        "terms": [
-          "Public APIs",
-          "public-apis",
-          "Lista de APIs públicas gratis",
-          "version-control",
-          "resources",
+        "description": "Lista de APIs públicas gratis",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "apis",
           "public",
           "free",
           "list"
-        ]
+        ],
+        "url": "https://github.com/public-apis/public-apis",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "public apis public-apis lista de apis públicas gratis version-control resources apis public free list"
       },
       {
         "id": "pulumi",
+        "name": "Pulumi",
         "slug": "pulumi",
-        "terms": [
-          "Pulumi",
-          "pulumi",
-          "Infraestructura como código con JS/TS/Python",
-          "cloud",
-          "management",
+        "description": "Infraestructura como código con JS/TS/P",
+        "category": "cloud",
+        "subcategory": "management",
+        "tags": [
           "iac",
           "typescript",
           "python",
+          "cloud",
           "terraform-alternative"
-        ]
+        ],
+        "url": "https://www.pulumi.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pulumi pulumi infraestructura como código con js/ts/p cloud management iac typescript python cloud terraform-alternative"
       },
       {
         "id": "railway",
+        "name": "Railway",
         "slug": "railway",
-        "terms": [
-          "Railway",
-          "railway",
-          "Deploy apps con $5 crédito inicial mensual",
+        "description": "Deploy apps con $5 crédito inicial mens",
+        "category": "hosting",
+        "subcategory": "deploy",
+        "tags": [
           "hosting",
-          "deploy",
           "backend",
           "credit",
+          "deploy",
           "docker",
           "database"
-        ]
+        ],
+        "url": "https://railway.app",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "railway railway deploy apps con $5 crédito inicial mens hosting deploy hosting backend credit deploy docker database"
       },
       {
         "id": "reactive-resume",
+        "name": "reactive-resume",
         "slug": "reactive-resume",
-        "terms": [
-          "reactive-resume",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "reactive-resume"
+        ],
+        "url": "https://github.com/amruthpillai/reactive-resume",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "reactive-resume reactive-resume repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github reactive-resume"
       },
       {
         "id": "realworld",
+        "name": "RealWorld",
         "slug": "realworld",
-        "terms": [
-          "RealWorld",
-          "realworld",
-          "Ejemplos fullstack reales",
-          "version-control",
-          "resources",
+        "description": "Ejemplos fullstack reales",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "fullstack",
           "examples",
           "real-world",
           "tutorials"
-        ]
+        ],
+        "url": "https://github.com/gothinkster/realworld",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "realworld realworld ejemplos fullstack reales version-control resources fullstack examples real-world tutorials"
       },
       {
         "id": "render",
+        "name": "Render",
         "slug": "render",
-        "terms": [
-          "Render",
-          "render",
-          "Backend y static sites con free tier generoso",
+        "description": "Backend y static sites con free tier gen",
+        "category": "hosting",
+        "subcategory": "deploy",
+        "tags": [
           "hosting",
-          "deploy",
           "backend",
           "static",
           "postgres",
-          "redis"
-        ]
+          "redis",
+          "deploy"
+        ],
+        "url": "https://render.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "render render backend y static sites con free tier gen hosting deploy hosting backend static postgres redis deploy"
       },
       {
         "id": "rocketgit",
+        "name": "RocketGit",
         "slug": "rocketgit",
-        "terms": [
-          "RocketGit",
-          "rocketgit",
-          "Hosting repos Git ilimitados",
-          "version-control",
-          "platforms",
+        "description": "Hosting repos Git ilimitados",
+        "category": "version-control",
+        "subcategory": "platforms",
+        "tags": [
           "git",
           "hosting",
           "repos",
           "unlimited"
-        ]
+        ],
+        "url": "https://rocketgit.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "rocketgit rocketgit hosting repos git ilimitados version-control platforms git hosting repos unlimited"
       },
       {
         "id": "rppg-toolbox",
+        "name": "rPPG-Toolbox",
         "slug": "rppg-toolbox",
-        "terms": [
-          "rPPG-Toolbox",
-          "rppg-toolbox",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "rppg-toolbox"
+        ],
+        "url": "https://github.com/ubicomplab/rPPG-Toolbox",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "rppg-toolbox rppg-toolbox repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github rppg-toolbox"
       },
       {
         "id": "scalr",
+        "name": "Scalr",
         "slug": "scalr",
-        "terms": [
-          "Scalr",
-          "scalr",
-          "Terraform Automation colaborativa enterprise",
-          "cloud",
-          "management",
+        "description": "Terraform Automation colaborativa enterp",
+        "category": "cloud",
+        "subcategory": "management",
+        "tags": [
           "terraform",
           "automation",
           "enterprise",
           "iac",
           "collaboration"
-        ]
+        ],
+        "url": "https://www.scalr.com/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "scalr scalr terraform automation colaborativa enterp cloud management terraform automation enterprise iac collaboration"
       },
       {
         "id": "shadowbroker",
+        "name": "Shadowbroker",
         "slug": "shadowbroker",
-        "terms": [
-          "Shadowbroker",
-          "shadowbroker",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "shadowbroker"
+        ],
+        "url": "https://github.com/BigBodyCobain/Shadowbroker",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "shadowbroker shadowbroker repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github shadowbroker"
       },
       {
         "id": "silicon-studio",
+        "name": "Silicon-Studio",
         "slug": "silicon-studio",
-        "terms": [
-          "Silicon-Studio",
-          "silicon-studio",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "silicon-studio"
+        ],
+        "url": "https://github.com/rileycleavenger/Silicon-Studio",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "silicon-studio silicon-studio repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github silicon-studio"
       },
       {
         "id": "superserve",
+        "name": "superserve",
         "slug": "superserve",
-        "terms": [
-          "superserve",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "superserve"
+        ],
+        "url": "https://github.com/superserve-ai/superserve",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "superserve superserve repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github superserve"
       },
       {
         "id": "system-design-primer",
+        "name": "System Design Primer",
         "slug": "system-design-primer",
-        "terms": [
-          "System Design Primer",
-          "system-design-primer",
-          "Aprende diseño de sistemas",
-          "version-control",
-          "resources",
+        "description": "Aprende diseño de sistemas",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "system-design",
           "learning",
           "architecture",
           "interviews"
-        ]
+        ],
+        "url": "https://github.com/donnemartin/system-design-primer",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "system design primer system-design-primer aprende diseño de sistemas version-control resources system-design learning architecture interviews"
       },
       {
         "id": "timecapsulellm",
+        "name": "TimeCapsuleLLM",
         "slug": "timecapsulellm",
-        "terms": [
-          "TimeCapsuleLLM",
-          "timecapsulellm",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "timecapsulellm"
+        ],
+        "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "timecapsulellm timecapsulellm repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github timecapsulellm"
       },
       {
         "id": "ubuntu-on-android",
+        "name": "ubuntu-on-android",
         "slug": "ubuntu-on-android",
-        "terms": [
-          "ubuntu-on-android",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "ubuntu-on-android"
+        ],
+        "url": "https://github.com/RandomCoderOrg/ubuntu-on-android",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "ubuntu-on-android ubuntu-on-android repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github ubuntu-on-android"
       },
       {
         "id": "v0-1-5",
+        "name": "v0.1.5",
         "slug": "v0-1-5",
-        "terms": [
-          "v0.1.5",
-          "v0-1-5",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "v0-1-5"
+        ],
+        "url": "https://github.com/walkinglabs/hands-on-modern-rl/releases/tag/v0.1.5",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "v0.1.5 v0-1-5 repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github v0-1-5"
       },
       {
         "id": "vercel",
+        "name": "Vercel",
         "slug": "vercel",
-        "terms": [
-          "Vercel",
-          "vercel",
-          "Deploy frontend con SSL y CDN global automático",
+        "description": "Deploy frontend con SSL y CDN global aut",
+        "category": "hosting",
+        "subcategory": "deploy",
+        "tags": [
           "hosting",
-          "deploy",
           "frontend",
           "nextjs",
           "ssl",
           "cdn",
+          "deploy",
           "serverless"
-        ]
+        ],
+        "url": "https://vercel.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "vercel vercel deploy frontend con ssl y cdn global aut hosting deploy hosting frontend nextjs ssl cdn deploy serverless"
       },
       {
         "id": "vercel-labs-skills",
+        "name": "Vercel Labs Skills",
         "slug": "vercel-labs-skills",
-        "terms": [
-          "Vercel Labs Skills",
-          "vercel-labs-skills",
-          "Colección de skills y templates oficial",
+        "description": "Colección de skills y templates oficial",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "vercel-labs-skills"
+        ],
+        "url": "https://github.com/vercel-labs/skills",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "vercel labs skills vercel-labs-skills colección de skills y templates oficial version-control resources version-control resources y-control-de-versiones-repositorios recursos-github vercel-labs-skills"
       },
       {
         "id": "website-cloner",
+        "name": "website-cloner",
         "slug": "website-cloner",
-        "terms": [
-          "website-cloner",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "version-control",
+        "subcategory": "resources",
+        "tags": [
           "version-control",
           "resources",
           "y-control-de-versiones-repositorios",
-          "recursos-github"
-        ]
+          "recursos-github",
+          "website-cloner"
+        ],
+        "url": "https://github.com/samibajwaisking/website-cloner",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "website-cloner website-cloner repositorio github version-control resources version-control resources y-control-de-versiones-repositorios recursos-github website-cloner"
       },
       {
         "id": "zoho-free",
+        "name": "Zoho Free",
         "slug": "zoho-free",
-        "terms": [
-          "Zoho Free",
-          "zoho-free",
-          "Suite productividad: email, docs, chat gratis",
-          "cloud",
-          "providers",
+        "description": "Suite productividad: email, docs, chat g",
+        "category": "cloud",
+        "subcategory": "providers",
+        "tags": [
           "productivity",
           "email",
           "docs",
           "chat",
           "suite",
           "free"
-        ]
+        ],
+        "url": "https://www.zoho.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "zoho free zoho-free suite productividad: email, docs, chat g cloud providers productivity email docs chat suite free"
+      },
+      {
+        "id": "tencentdb-agent-memory",
+        "name": "TencentDB-Agent-Memory",
+        "slug": "tencentdb-agent-memory",
+        "description": "Repositorio GitHub",
+        "category": "databases",
+        "subcategory": "learning",
+        "tags": [
+          "database",
+          "github",
+          "learning"
+        ],
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "tencentdb-agent-memory tencentdb-agent-memory repositorio github databases learning database github learning"
+      },
+      {
+        "id": "cocoindex-code",
+        "name": "cocoindex-code",
+        "slug": "cocoindex-code",
+        "description": "Repositorio GitHub",
+        "category": "databases",
+        "subcategory": "learning",
+        "tags": [
+          "database",
+          "github",
+          "learning"
+        ],
+        "url": "https://github.com/cocoindex-io/cocoindex-code",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "cocoindex-code cocoindex-code repositorio github databases learning database github learning"
+      },
+      {
+        "id": "rushdb",
+        "name": "rushdb",
+        "slug": "rushdb",
+        "description": "Repositorio GitHub",
+        "category": "databases",
+        "subcategory": "learning",
+        "tags": [
+          "database",
+          "github",
+          "learning"
+        ],
+        "url": "https://github.com/rush-db/rushdb",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "rushdb rushdb repositorio github databases learning database github learning"
       }
     ]
   },
   "filters": {
     "categories": [
       "cloud",
+      "databases",
       "hosting",
       "version-control"
     ],
@@ -2428,20 +3243,23 @@
       "es"
     ],
     "status": [
-      "active"
+      "active",
+      "warning",
+      "deprecated"
     ],
     "verified": [
-      true
+      true,
+      false
     ],
     "noCreditCard": [
-      false,
-      true
+      true,
+      false
     ]
   },
   "ui": {
     "dataset": "apis-data_databases",
-    "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
-    "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 99
+    "title": "cloud Resources - DevResources 2026",
+    "description": "Recursos de cloud para desarrolladores",
+    "resourceCount": 102
   }
 }

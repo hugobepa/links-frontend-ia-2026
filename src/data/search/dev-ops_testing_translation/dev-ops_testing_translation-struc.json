@@ -106,7 +106,7 @@
       "description": "Etiqueta development"
     },
     "devops": {
-      "count": 6,
+      "count": 7,
       "color": "#65a30d",
       "description": "Etiqueta devops"
     },
@@ -166,7 +166,7 @@
       "description": "Etiqueta frontend"
     },
     "github": {
-      "count": 2,
+      "count": 3,
       "color": "#d97706",
       "description": "Etiqueta github"
     },
@@ -479,6 +479,11 @@
       "count": 1,
       "color": "#ea580c",
       "description": "Etiqueta yz-testing-qa"
+    },
+    "tools": {
+      "count": 1,
+      "color": "#dc2626",
+      "description": "Etiqueta tools"
     }
   },
   "searchIndex": {
@@ -517,476 +522,761 @@
     "entries": [
       {
         "id": "artillery",
+        "name": "Artillery",
         "slug": "artillery",
-        "terms": [
-          "Artillery",
-          "artillery",
-          "Load testing moderno para APIs y microservicios",
+        "description": "Load testing moderno para APIs y microse",
+        "category": "testing",
+        "subcategory": "load-testing",
+        "tags": [
           "testing",
           "load-testing",
+          "artillery",
           "api",
           "microservices"
-        ]
+        ],
+        "url": "https://artillery.io/",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "artillery artillery load testing moderno para apis y microse testing load-testing testing load-testing artillery api microservices"
       },
       {
         "id": "browserstack",
+        "name": "BrowserStack",
         "slug": "browserstack",
-        "terms": [
-          "BrowserStack",
-          "browserstack",
-          "Testing cross-browser en navegadores reales",
+        "description": "Testing cross-browser en navegadores rea",
+        "category": "testing",
+        "subcategory": "platforms",
+        "tags": [
           "testing",
-          "platforms",
           "cross-browser",
+          "browserstack",
           "testing-platform",
           "browsers"
-        ]
+        ],
+        "url": "https://www.browserstack.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "browserstack browserstack testing cross-browser en navegadores rea testing platforms testing cross-browser browserstack testing-platform browsers"
       },
       {
         "id": "circleci",
+        "name": "CircleCI",
         "slug": "circleci",
-        "terms": [
-          "CircleCI",
-          "circleci",
-          "CI/CD cloud con plan gratuito para proyectos pequeños",
-          "devops",
+        "description": "CI/CD cloud con plan gratuito para proye",
+        "category": "devops",
+        "subcategory": "ci-cd",
+        "tags": [
           "ci-cd",
           "cloud",
           "automation",
-          "pipelines"
-        ]
+          "pipelines",
+          "devops"
+        ],
+        "url": "https://circleci.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "circleci circleci ci/cd cloud con plan gratuito para proye devops ci-cd ci-cd cloud automation pipelines devops"
       },
       {
         "id": "crowdin",
+        "name": "Crowdin",
         "slug": "crowdin",
-        "terms": [
-          "Crowdin",
-          "crowdin",
-          "Plataforma de localización colaborativa",
+        "description": "Plataforma de localización colaborativa",
+        "category": "translation",
+        "subcategory": "platforms",
+        "tags": [
           "translation",
-          "platforms",
           "localization",
+          "crowdin",
           "collaboration",
           "localization-platform"
-        ]
+        ],
+        "url": "https://crowdin.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "crowdin crowdin plataforma de localización colaborativa translation platforms translation localization crowdin collaboration localization-platform"
       },
       {
         "id": "cypress",
+        "name": "Cypress",
         "slug": "cypress",
-        "terms": [
-          "Cypress",
-          "cypress",
-          "Testing frontend moderno con excelente DX",
+        "description": "Testing frontend moderno con excelente D",
+        "category": "testing",
+        "subcategory": "frameworks",
+        "tags": [
           "testing",
-          "frameworks",
           "frontend",
           "e2e",
           "javascript",
           "testing-framework"
-        ]
+        ],
+        "url": "https://www.cypress.io/",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "cypress cypress testing frontend moderno con excelente d testing frameworks testing frontend e2e javascript testing-framework"
       },
       {
         "id": "deepl",
+        "name": "DeepL",
         "slug": "deepl",
-        "terms": [
-          "DeepL",
-          "deepl",
-          "Traductor IA de alta calidad con contexto",
+        "description": "Traductor IA de alta calidad con context",
+        "category": "translation",
+        "subcategory": "tools",
+        "tags": [
           "translation",
-          "tools",
           "ai",
+          "deepl",
           "translation-tool",
           "ai-translation"
-        ]
+        ],
+        "url": "https://www.deepl.com/",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "deepl deepl traductor ia de alta calidad con context translation tools translation ai deepl translation-tool ai-translation"
       },
       {
         "id": "docker",
+        "name": "Docker",
         "slug": "docker",
-        "terms": [
-          "Docker",
-          "docker",
-          "Plataforma de contenedores estándar de la industria",
-          "devops",
+        "description": "Plataforma de contenedores estándar de",
+        "category": "devops",
+        "subcategory": "containers",
+        "tags": [
           "containers",
+          "docker",
+          "devops",
           "deployment"
-        ]
+        ],
+        "url": "https://docker.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "docker docker plataforma de contenedores estándar de devops containers containers docker devops deployment"
       },
       {
         "id": "github-actions",
+        "name": "GitHub Actions",
         "slug": "github-actions",
-        "terms": [
-          "GitHub Actions",
-          "github-actions",
-          "CI/CD integrado en GitHub con workflows automatizados",
-          "devops",
+        "description": "CI/CD integrado en GitHub con workflows",
+        "category": "devops",
+        "subcategory": "ci-cd",
+        "tags": [
           "ci-cd",
           "github",
           "automation",
-          "workflows"
-        ]
+          "workflows",
+          "devops"
+        ],
+        "url": "https://github.com/features/actions",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "github actions github-actions ci/cd integrado en github con workflows devops ci-cd ci-cd github automation workflows devops"
       },
       {
         "id": "google-translate",
+        "name": "Google Translate",
         "slug": "google-translate",
-        "terms": [
-          "Google Translate",
-          "google-translate",
-          "Traducción automática gratuita multi-idioma",
+        "description": "Traducción automática gratuita multi-i",
+        "category": "translation",
+        "subcategory": "tools",
+        "tags": [
           "translation",
-          "tools",
           "google",
           "translation-tool",
           "multi-language",
           "free"
-        ]
+        ],
+        "url": "https://translate.google.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "google translate google-translate traducción automática gratuita multi-i translation tools translation google translation-tool multi-language free"
       },
       {
         "id": "jenkins",
+        "name": "Jenkins",
         "slug": "jenkins",
-        "terms": [
-          "Jenkins",
-          "jenkins",
-          "CI/CD open source self-hosted con plugins extensibles",
-          "devops",
+        "description": "CI/CD open source self-hosted con plugin",
+        "category": "devops",
+        "subcategory": "ci-cd",
+        "tags": [
           "ci-cd",
           "open-source",
           "self-hosted",
           "automation",
           "plugins"
-        ]
+        ],
+        "url": "https://www.jenkins.io/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "jenkins jenkins ci/cd open source self-hosted con plugin devops ci-cd ci-cd open-source self-hosted automation plugins"
       },
       {
         "id": "jest",
+        "name": "Jest",
         "slug": "jest",
-        "terms": [
-          "Jest",
-          "jest",
-          "Framework de testing JavaScript de Facebook",
+        "description": "Framework de testing JavaScript de Faceb",
+        "category": "testing",
+        "subcategory": "frameworks",
+        "tags": [
           "testing",
-          "frameworks",
           "javascript",
+          "jest",
           "unit-testing",
           "facebook"
-        ]
+        ],
+        "url": "https://jestjs.io/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "jest jest framework de testing javascript de faceb testing frameworks testing javascript jest unit-testing facebook"
       },
       {
         "id": "k3s",
+        "name": "K3s",
         "slug": "k3s",
-        "terms": [
-          "K3s",
-          "k3s",
-          "Kubernetes ligero para edge y entornos con recursos limitados",
-          "devops",
-          "containers",
+        "description": "Kubernetes ligero para edge y entornos c",
+        "category": "devops",
+        "subcategory": "containers",
+        "tags": [
           "kubernetes",
           "lightweight",
           "edge",
           "lightweight-k8s"
-        ]
+        ],
+        "url": "https://k3s.io/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "k3s k3s kubernetes ligero para edge y entornos c devops containers kubernetes lightweight edge lightweight-k8s"
       },
       {
         "id": "k6",
+        "name": "k6",
         "slug": "k6",
-        "terms": [
-          "k6",
-          "Load testing open source para desarrolladores",
+        "description": "Load testing open source para desarrolla",
+        "category": "testing",
+        "subcategory": "load-testing",
+        "tags": [
           "testing",
           "load-testing",
+          "k6",
           "open-source",
           "performance"
-        ]
+        ],
+        "url": "https://k6.io/",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "k6 k6 load testing open source para desarrolla testing load-testing testing load-testing k6 open-source performance"
       },
       {
         "id": "katalon",
+        "name": "Katalon",
         "slug": "katalon",
-        "terms": [
-          "Katalon",
-          "katalon",
-          "Automatización testing todo-en-uno para web, mobile, API",
+        "description": "Automatización testing todo-en-uno para",
+        "category": "testing",
+        "subcategory": "platforms",
+        "tags": [
           "testing",
-          "platforms",
           "automation",
+          "katalon",
           "all-in-one",
           "testing-tool"
-        ]
+        ],
+        "url": "https://katalon.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "katalon katalon automatización testing todo-en-uno para testing platforms testing automation katalon all-in-one testing-tool"
       },
       {
         "id": "kind",
+        "name": "Kind",
         "slug": "kind",
-        "terms": [
-          "Kind",
-          "kind",
-          "Kubernetes en Docker para desarrollo y testing local",
-          "devops",
-          "containers",
+        "description": "Kubernetes en Docker para desarrollo y t",
+        "category": "devops",
+        "subcategory": "containers",
+        "tags": [
           "kubernetes",
           "docker",
           "testing",
           "development"
-        ]
+        ],
+        "url": "https://kind.sigs.k8s.io/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "kind kind kubernetes en docker para desarrollo y t devops containers kubernetes docker testing development"
       },
       {
         "id": "kite",
+        "name": "Kite",
         "slug": "kite",
-        "terms": [
-          "Kite",
-          "kite",
-          "Dashboard Kubernetes con IA multi-cluste",
+        "description": "Dashboard Kubernetes con IA multi-cluste",
+        "category": "devops",
+        "subcategory": "ci-cd",
+        "tags": [
           "devops",
           "ci-cd",
-          "y-devops-ci-cd"
-        ]
+          "y-devops-ci-cd",
+          "kite"
+        ],
+        "url": "https://github.com/kite-org/kite",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "kite kite dashboard kubernetes con ia multi-cluste devops ci-cd devops ci-cd y-devops-ci-cd kite"
       },
       {
         "id": "kubernetes",
+        "name": "Kubernetes",
         "slug": "kubernetes",
-        "terms": [
-          "Kubernetes",
-          "kubernetes",
-          "Orquestacion de contenedores",
-          "devops",
-          "containers",
+        "description": "Orquestacion de contenedores",
+        "category": "devops",
+        "subcategory": "containers",
+        "tags": [
           "kubernetes",
           "containers",
           "orchestration",
           "devops"
-        ]
+        ],
+        "url": "https://kubernetes.io/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "kubernetes kubernetes orquestacion de contenedores devops containers kubernetes containers orchestration devops"
       },
       {
         "id": "lambdatest",
+        "name": "LambdaTest",
         "slug": "lambdatest",
-        "terms": [
-          "LambdaTest",
-          "lambdatest",
-          "Testing cross-browser en 3000+ navegadores y dispositivos",
+        "description": "Testing cross-browser en 3000+ navegador",
+        "category": "testing",
+        "subcategory": "platforms",
+        "tags": [
           "testing",
-          "platforms",
           "cross-browser",
+          "lambdatest",
           "cloud",
           "testing-platform"
-        ]
+        ],
+        "url": "https://www.lambdatest.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "lambdatest lambdatest testing cross-browser en 3000+ navegador testing platforms testing cross-browser lambdatest cloud testing-platform"
       },
       {
         "id": "lens",
+        "name": "Lens",
         "slug": "lens",
-        "terms": [
-          "Lens",
-          "lens",
-          "IDE para Kubernetes con interfaz gráfica intuitiva",
-          "devops",
-          "containers",
+        "description": "IDE para Kubernetes con interfaz gráfic",
+        "category": "devops",
+        "subcategory": "containers",
+        "tags": [
           "kubernetes",
           "ide",
           "gui",
           "management"
-        ]
+        ],
+        "url": "https://k8slens.dev/",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "lens lens ide para kubernetes con interfaz gráfic devops containers kubernetes ide gui management"
       },
       {
         "id": "loader-io",
+        "name": "Loader.io",
         "slug": "loader-io",
-        "terms": [
-          "Loader.io",
-          "loader-io",
-          "Load testing gratuito básico para aplicaciones web",
+        "description": "Load testing gratuito básico para aplic",
+        "category": "testing",
+        "subcategory": "load-testing",
+        "tags": [
           "testing",
           "load-testing",
+          "loader-io",
           "free",
           "web-testing"
-        ]
+        ],
+        "url": "https://loader.io/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "loader.io loader-io load testing gratuito básico para aplic testing load-testing testing load-testing loader-io free web-testing"
       },
       {
         "id": "locust",
+        "name": "Locust",
         "slug": "locust",
-        "terms": [
-          "Locust",
-          "locust",
-          "Load testing en Python escalable y distribuido",
+        "description": "Load testing en Python escalable y distr",
+        "category": "testing",
+        "subcategory": "load-testing",
+        "tags": [
           "testing",
           "load-testing",
+          "locust",
           "python",
           "performance"
-        ]
+        ],
+        "url": "https://locust.io/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "locust locust load testing en python escalable y distr testing load-testing testing load-testing locust python performance"
       },
       {
         "id": "lokalise",
+        "name": "Lokalise",
         "slug": "lokalise",
-        "terms": [
-          "Lokalise",
-          "lokalise",
-          "Plataforma de localización para equipos",
+        "description": "Plataforma de localización para equipos",
+        "category": "translation",
+        "subcategory": "platforms",
+        "tags": [
           "translation",
-          "platforms",
           "localization",
+          "lokalise",
           "team",
           "localization-platform"
-        ]
+        ],
+        "url": "https://lokalise.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "lokalise lokalise plataforma de localización para equipos translation platforms translation localization lokalise team localization-platform"
       },
       {
         "id": "minikube",
+        "name": "Minikube",
         "slug": "minikube",
-        "terms": [
-          "Minikube",
-          "minikube",
-          "Kubernetes local para desarrollo y aprendizaje",
-          "devops",
-          "containers",
+        "description": "Kubernetes local para desarrollo y apren",
+        "category": "devops",
+        "subcategory": "containers",
+        "tags": [
           "kubernetes",
           "local",
           "development",
           "learning"
-        ]
+        ],
+        "url": "https://minikube.sigs.k8s.io/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "minikube minikube kubernetes local para desarrollo y apren devops containers kubernetes local development learning"
       },
       {
         "id": "playwright",
+        "name": "Playwright",
         "slug": "playwright",
-        "terms": [
-          "Playwright",
-          "playwright",
-          "Testing E2E Microsoft open source multi-navegador",
+        "description": "Testing E2E Microsoft open source multi-",
+        "category": "testing",
+        "subcategory": "frameworks",
+        "tags": [
           "testing",
-          "frameworks",
           "e2e",
           "microsoft",
           "open-source",
           "automation"
-        ]
+        ],
+        "url": "https://playwright.dev/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "playwright playwright testing e2e microsoft open source multi- testing frameworks testing e2e microsoft open-source automation"
       },
       {
         "id": "podman",
+        "name": "Podman",
         "slug": "podman",
-        "terms": [
-          "Podman",
-          "podman",
-          "Alternativa Docker sin daemon con seguridad mejorada",
-          "devops",
+        "description": "Alternativa Docker sin daemon con seguri",
+        "category": "devops",
+        "subcategory": "containers",
+        "tags": [
           "containers",
+          "podman",
           "daemonless",
           "security",
           "docker-alternative"
-        ]
+        ],
+        "url": "https://podman.io/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "podman podman alternativa docker sin daemon con seguri devops containers containers podman daemonless security docker-alternative"
       },
       {
         "id": "poeditor",
+        "name": "POEditor",
         "slug": "poeditor",
-        "terms": [
-          "POEditor",
-          "poeditor",
-          "Gestión de traducciones con interfaz intuitiva",
+        "description": "Gestión de traducciones con interfaz in",
+        "category": "translation",
+        "subcategory": "platforms",
+        "tags": [
           "translation",
-          "platforms",
           "localization",
+          "poeditor",
           "translation-management",
           "localization-platform"
-        ]
+        ],
+        "url": "https://poeditor.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "poeditor poeditor gestión de traducciones con interfaz in translation platforms translation localization poeditor translation-management localization-platform"
       },
       {
         "id": "releasebot",
+        "name": "releasebot",
         "slug": "releasebot",
-        "terms": [
-          "releasebot",
-          "Automatiza releases y changelogs",
+        "description": "Automatiza releases y changelogs",
+        "category": "devops",
+        "subcategory": "ci-cd",
+        "tags": [
           "devops",
           "ci-cd",
-          "devops-ci-cd"
-        ]
+          "devops-ci-cd",
+          "releasebot"
+        ],
+        "url": "https://releasebot.io/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "releasebot releasebot automatiza releases y changelogs devops ci-cd devops ci-cd devops-ci-cd releasebot"
       },
       {
         "id": "saucelabs",
+        "name": "Sauce Labs",
         "slug": "sauce-labs",
-        "terms": [
-          "Sauce Labs",
-          "sauce-labs",
-          "Testing automatizado en nube con múltiples navegadores",
+        "description": "Testing automatizado en nube con múltip",
+        "category": "testing",
+        "subcategory": "platforms",
+        "tags": [
           "testing",
-          "platforms",
           "automated",
           "saucelabs",
           "cloud",
           "testing-platform"
-        ]
+        ],
+        "url": "https://saucelabs.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "sauce labs sauce-labs testing automatizado en nube con múltip testing platforms testing automated saucelabs cloud testing-platform"
       },
       {
         "id": "screenshot-pipeline-qa",
+        "name": "Screenshot Pipeline QA",
         "slug": "screenshot-pipeline-qa",
-        "terms": [
-          "Screenshot Pipeline QA",
-          "screenshot-pipeline-qa",
-          "Pipeline automatizado screenshots para Q",
+        "description": "Pipeline automatizado screenshots para Q",
+        "category": "testing",
+        "subcategory": "frameworks",
+        "tags": [
           "testing",
           "frameworks",
-          "yz-testing-qa"
-        ]
+          "yz-testing-qa",
+          "screenshot-pipeline-qa"
+        ],
+        "url": "https://calibreapp.com/blog/screenshot-pipeline-qa-review",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "screenshot pipeline qa screenshot-pipeline-qa pipeline automatizado screenshots para q testing frameworks testing frameworks yz-testing-qa screenshot-pipeline-qa"
       },
       {
         "id": "testing-library",
+        "name": "Testing Library",
         "slug": "testing-library",
-        "terms": [
-          "Testing Library",
-          "testing-library",
-          "Utilidades de testing React enfocadas en el usuario",
+        "description": "Utilidades de testing React enfocadas en",
+        "category": "testing",
+        "subcategory": "frameworks",
+        "tags": [
           "testing",
-          "frameworks",
           "react",
+          "testing-library",
           "accessibility",
           "user-testing"
-        ]
+        ],
+        "url": "https://testing-library.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "testing library testing-library utilidades de testing react enfocadas en testing frameworks testing react testing-library accessibility user-testing"
       },
       {
         "id": "testrail",
+        "name": "TestRail",
         "slug": "testrail",
-        "terms": [
-          "TestRail",
-          "testrail",
-          "Gestión de casos de prueba y seguimiento de testing",
+        "description": "Gestión de casos de prueba y seguimient",
+        "category": "testing",
+        "subcategory": "platforms",
+        "tags": [
           "testing",
-          "platforms",
           "test-management",
+          "testrail",
           "qa",
           "test-cases"
-        ]
+        ],
+        "url": "https://www.gurock.com/testrail",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "testrail testrail gestión de casos de prueba y seguimient testing platforms testing test-management testrail qa test-cases"
       },
       {
         "id": "transifex",
+        "name": "Transifex",
         "slug": "transifex",
-        "terms": [
-          "Transifex",
-          "transifex",
-          "Plataforma de localización enterprise",
+        "description": "Plataforma de localización enterprise",
+        "category": "translation",
+        "subcategory": "platforms",
+        "tags": [
           "translation",
-          "platforms",
           "localization",
+          "transifex",
           "enterprise",
           "localization-platform"
-        ]
+        ],
+        "url": "https://www.transifex.com/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "transifex transifex plataforma de localización enterprise translation platforms translation localization transifex enterprise localization-platform"
       },
       {
         "id": "travis-ci",
+        "name": "Travis CI",
         "slug": "travis-ci",
-        "terms": [
-          "Travis CI",
-          "travis-ci",
-          "CI/CD para proyectos open source con integración GitHub",
-          "devops",
+        "description": "CI/CD para proyectos open source con int",
+        "category": "devops",
+        "subcategory": "ci-cd",
+        "tags": [
           "ci-cd",
           "open-source",
           "github",
           "ci",
           "legacy"
-        ]
+        ],
+        "url": "https://travis-ci.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "travis ci travis-ci ci/cd para proyectos open source con int devops ci-cd ci-cd open-source github ci legacy"
       },
       {
         "id": "vitest",
+        "name": "Vitest",
         "slug": "vitest",
-        "terms": [
-          "Vitest",
-          "vitest",
-          "Testing framework rápido para Vite con compatibilidad Jest",
+        "description": "Testing framework rápido para Vite con",
+        "category": "testing",
+        "subcategory": "frameworks",
+        "tags": [
           "testing",
-          "frameworks",
           "vite",
+          "vitest",
           "fast",
           "jest-compatible"
-        ]
+        ],
+        "url": "https://vitest.dev/",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "vitest vitest testing framework rápido para vite con testing frameworks testing vite vitest fast jest-compatible"
+      },
+      {
+        "id": "container",
+        "name": "container",
+        "slug": "container",
+        "description": "Repositorio GitHub",
+        "category": "devops",
+        "subcategory": "tools",
+        "tags": [
+          "devops",
+          "github",
+          "tools"
+        ],
+        "url": "https://github.com/apple/container.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "container container repositorio github devops tools devops github tools"
       }
     ]
   },
@@ -1014,20 +1304,23 @@
       "es"
     ],
     "status": [
-      "active"
+      "active",
+      "warning",
+      "deprecated"
     ],
     "verified": [
-      true
+      true,
+      false
     ],
     "noCreditCard": [
-      false,
-      true
+      true,
+      false
     ]
   },
   "ui": {
     "dataset": "dev-ops_testing_translation",
-    "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
-    "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 34
+    "title": "DevOps Resources - DevResources 2026",
+    "description": "Recursos de DevOps para desarrolladores",
+    "resourceCount": 35
   }
 }

@@ -1005,9 +1005,9 @@
       "noCreditCard": false
     },
     {
-      "id": "onesignal",
+      "id": "onesignal-2",
       "name": "OneSignal",
-      "slug": "onesignal",
+      "slug": "onesignal-2",
       "description": "Notificaciones push 10k usuarios",
       "url": "https://onesignal.com",
       "status": "active",
@@ -1019,7 +1019,7 @@
       ],
       "searchIndex": [
         "OneSignal",
-        "onesignal",
+        "onesignal-2",
         "Notificaciones push 10k usuarios",
         "email",
         "notifications-messaging",
@@ -1357,9 +1357,9 @@
       "noCreditCard": true
     },
     {
-      "id": "rank-math",
+      "id": "rank-math-2",
       "name": "Rank Math",
-      "slug": "rank-math",
+      "slug": "rank-math-2",
       "description": "Herramienta SEO para WordPress",
       "url": "https://rankmath.com/offer/?ref=javier+iniguez+gutierrez",
       "status": "active",
@@ -1371,7 +1371,7 @@
       ],
       "searchIndex": [
         "Rank Math",
-        "rank-math",
+        "rank-math-2",
         "Herramienta SEO para WordPress",
         "analytics",
         "seo-tools",

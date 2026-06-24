@@ -36,7 +36,7 @@
       "name": "Learning",
       "slug": "learning",
       "category": "version-control",
-      "resourceCount": 5,
+      "resourceCount": 8,
       "status": "active"
     },
     {
@@ -3632,6 +3632,102 @@
       "limits": "5 usuarios, 5GB/usuario, límites por app",
       "added": "2026-01-15",
       "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "tencentdb-agent-memory",
+      "name": "TencentDB-Agent-Memory",
+      "slug": "tencentdb-agent-memory",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "status": "active",
+      "tags": [
+        "database",
+        "github",
+        "learning"
+      ],
+      "searchIndex": [
+        "TencentDB-Agent-Memory",
+        "tencentdb-agent-memory",
+        "Repositorio GitHub",
+        "databases",
+        "learning",
+        "database",
+        "github"
+      ],
+      "category": "databases",
+      "subcategory": "learning",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "cocoindex-code",
+      "name": "cocoindex-code",
+      "slug": "cocoindex-code",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/cocoindex-io/cocoindex-code",
+      "status": "active",
+      "tags": [
+        "database",
+        "github",
+        "learning"
+      ],
+      "searchIndex": [
+        "cocoindex-code",
+        "cocoindex-code",
+        "Repositorio GitHub",
+        "databases",
+        "learning",
+        "database",
+        "github"
+      ],
+      "category": "databases",
+      "subcategory": "learning",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "rushdb",
+      "name": "rushdb",
+      "slug": "rushdb",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/rush-db/rushdb",
+      "status": "active",
+      "tags": [
+        "database",
+        "github",
+        "learning"
+      ],
+      "searchIndex": [
+        "rushdb",
+        "rushdb",
+        "Repositorio GitHub",
+        "databases",
+        "learning",
+        "database",
+        "github"
+      ],
+      "category": "databases",
+      "subcategory": "learning",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
       "noCreditCard": true
     }
   ]

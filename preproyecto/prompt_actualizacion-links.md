@@ -11,6 +11,11 @@ Actualizar y añadir links a la página `https://hugobepa.github.io/links-fronte
 <contexto>
 
 - **Sin duplicados**: verificar que el link no exista en `archivos_datos_link` antes de insertar.
+- **Normalización URL semántica (obligatoria)**:
+  - No eliminar querystrings funcionales al deduplicar (`?list=`, `?v=`, `?itemName=`, `?hl=`, etc.).
+  - Sí eliminar solo parámetros de tracking (`utm_*`, `fbclid`, `gclid`, `si`) cuando no cambian el recurso.
+  - En YouTube, tratar como válidos y distintos: `https://www.youtube.com/playlist?list=...` y `https://www.youtube.com/watch?v=...`.
+  - Si aparece `playlist?lits=...`, corregirlo a `playlist?list=...` antes de validar e insertar.
 - **Categorías, subcategorías, tags y types**: usar solo los existentes.
   - Consensuar la información con los términos más adecuados disponibles.
   - Prohibido crear nuevas categorías, subcategorías, tags o etiquetas.

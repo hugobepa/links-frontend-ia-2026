@@ -292,6 +292,56 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 
 ---
 
+## ES - Actualizacion v12 (24/06/2026)
+
+- Fuente procesada: `preproyecto/links-insertados.md`.
+- Candidatos: 489 URLs.
+- Duplicados detectados y omitidos en insercion: 1.
+- Altas nuevas en `src/data`: 488.
+- Verificacion final: los 488 enlaces del lote existen en el dataset global.
+
+### Cambios aplicados v12
+
+| Dataset                                   | Antes | Nuevos | Total |
+| ----------------------------------------- | ----- | ------ | ----- |
+| `dns_seguridad_educacion`                 | 500   | +209   | 709   |
+| `ia_asistentes-desarrollo-china-imagen_1` | 38    | +196   | 234   |
+| `pagos_game-dev_mobile`                   | 93    | +39    | 132   |
+| `utilidades_1`                            | 57    | +14    | 71    |
+| `diseno-ui-ux_desarrollo_ide`             | 515   | +12    | 527   |
+| `search_messaging_image_storage`          | 28    | +10    | 38    |
+| `utilidades-2_cms`                        | 57    | +4     | 61    |
+| `apis-data_databases`                     | 99    | +3     | 102   |
+| `dev-ops_testing_translation`             | 34    | +1     | 35    |
+
+### Cobertura tecnica v12
+
+- Se actualizaron `*-rec.json` con recursos, `resourceCount` y `searchIndex`.
+- Se regeneraron `*-struc.json` con `tags`, `filters`, `searchIndex.entries` y `ui.resourceCount`.
+- Se regeneraron `nombre-links.json` con nombres unicos ordenados.
+- YouTube (83), arXiv/papers (10) y universidades (12) → `education-learning/programming-courses`.
+- GitHub AI/agents/skills (174) y HuggingFace (13) → `ia_asistentes-desarrollo-china-imagen_1/development`.
+- Total actual de recursos en `src/data/dates`: **2073**.
+
+## EN - v12 Update (2026-06-24)
+
+- Processed source: `preproyecto/links-insertados.md`.
+- Candidates: 489 URLs.
+- Duplicates skipped for insertion: 1.
+- New inserts in `src/data`: 488.
+- Final validation: all 488 links from this batch are present globally.
+
+### Technical coverage v12
+
+- Updated `*-rec.json` with resources, counters, and `searchIndex`.
+- Regenerated `*-struc.json` with `tags`, `filters`, `searchIndex.entries`, and `ui.resourceCount`.
+- Regenerated `nombre-links.json` with sorted unique names.
+- YouTube (83), arXiv/papers (10), university resources (12) → `education-learning/programming-courses`.
+- GitHub AI/agents/skills (174), HuggingFace (13) → `ia_asistentes-desarrollo-china-imagen_1/development`.
+- Current total resources in `src/data/dates`: **2073**.
+
+---
+
 ## LINKS
 
 <!-- markdownlint-disable MD060 -->
@@ -377,3 +427,4 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 | _9_       | **Fase 4** | Insercion y sync de 44 enlaces  | Inserted and synced 44 links  | 18:20 - 18/05/2026 |
 | _10_      | **Fase 4** | Insercion y sync de 39 enlaces  | Inserted and synced 39 links  | 19:09 - 18/05/2026 |
 | _11_      | **Fase 4** | Insercion y sync de 287 enlaces | Inserted and synced 287 links | 17:52 - 25/05/2026 |
+| _12_      | **Fase 4** | Insercion y sync de 488 enlaces | Inserted and synced 488 links | 18:35 - 24/06/2026 |

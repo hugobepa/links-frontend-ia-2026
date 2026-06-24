@@ -3,7 +3,7 @@
     "id": "utilities",
     "name": "Utilities",
     "slug": "utilities",
-    "resourceCount": 57,
+    "resourceCount": 71,
     "status": "active"
   },
   "subcategories": [
@@ -28,7 +28,7 @@
       "name": "Productivity",
       "slug": "productivity",
       "category": "utilities",
-      "resourceCount": 28,
+      "resourceCount": 42,
       "status": "active"
     }
   ],
@@ -2087,6 +2087,479 @@
       "limits": "Limitado en plan gratis",
       "added": "2026-01-10",
       "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "openclaw-windows-node",
+      "name": "openclaw-windows-node",
+      "slug": "openclaw-windows-node",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/openclaw/openclaw-windows-node.git",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "openclaw-windows-node",
+        "openclaw-windows-node",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "browserai",
+      "name": "BrowserAI",
+      "slug": "browserai",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/sauravpanda/BrowserAI",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "BrowserAI",
+        "browserai",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-free-apps",
+      "name": "awesome-free-apps",
+      "slug": "awesome-free-apps",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Axorax/awesome-free-apps",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "awesome-free-apps",
+        "awesome-free-apps",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-ai-tools",
+      "name": "awesome-ai-tools",
+      "slug": "awesome-ai-tools",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/eudk/awesome-ai-tools",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "awesome-ai-tools",
+        "awesome-ai-tools",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "get-it",
+      "name": "get-it",
+      "slug": "get-it",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/beltromatti/get-it",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "get-it",
+        "get-it",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "skales",
+      "name": "skales",
+      "slug": "skales",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/skalesapp/skales",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "skales",
+        "skales",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "windowsdeveloperconfig",
+      "name": "WindowsDeveloperConfig",
+      "slug": "windowsdeveloperconfig",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/microsoft/WindowsDeveloperConfig.git",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "WindowsDeveloperConfig",
+        "windowsdeveloperconfig",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "clone-wars",
+      "name": "Clone-Wars",
+      "slug": "clone-wars",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/GorvGoyl/Clone-Wars",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "Clone-Wars",
+        "clone-wars",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "every-programmer-should-know",
+      "name": "every-programmer-should-know",
+      "slug": "every-programmer-should-know",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/mtdvio/every-programmer-should-know",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "every-programmer-should-know",
+        "every-programmer-should-know",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "portable-ai-usb",
+      "name": "Portable-AI-USB",
+      "slug": "portable-ai-usb",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/techjarves/Portable-AI-USB",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "Portable-AI-USB",
+        "portable-ai-usb",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "opentabs",
+      "name": "opentabs",
+      "slug": "opentabs",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/opentabs-dev/opentabs",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "opentabs",
+        "opentabs",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "win11debloat",
+      "name": "Win11Debloat",
+      "slug": "win11debloat",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "Win11Debloat",
+        "win11debloat",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "all-in-one-free-seo-tool",
+      "name": "All-In-One-Free-SEO-Tool",
+      "slug": "all-in-one-free-seo-tool",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool.git",
+      "status": "active",
+      "tags": [
+        "utilities",
+        "tools",
+        "github",
+        "productivity"
+      ],
+      "searchIndex": [
+        "All-In-One-Free-SEO-Tool",
+        "all-in-one-free-seo-tool",
+        "Repositorio GitHub",
+        "utilities",
+        "productivity",
+        "utilities",
+        "tools",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "fmhy",
+      "name": "fmhy",
+      "slug": "fmhy",
+      "description": "Free media and tools megathread",
+      "url": "https://fmhy.net/",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "utilities"
+      ],
+      "searchIndex": [
+        "fmhy",
+        "fmhy",
+        "Free media and tools megathread",
+        "utilities",
+        "productivity",
+        "productivity",
+        "utilities"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
       "noCreditCard": true
     }
   ]

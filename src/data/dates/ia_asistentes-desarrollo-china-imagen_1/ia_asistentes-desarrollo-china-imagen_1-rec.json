@@ -3,7 +3,7 @@
     "id": "ai",
     "name": "Ai",
     "slug": "ai",
-    "resourceCount": 38,
+    "resourceCount": 234,
     "status": "active"
   },
   "subcategories": [
@@ -28,7 +28,7 @@
       "name": "Development",
       "slug": "development",
       "category": "ai",
-      "resourceCount": 9,
+      "resourceCount": 205,
       "status": "active"
     },
     {
@@ -1385,6 +1385,6555 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": false
+    },
+    {
+      "id": "odysseus",
+      "name": "odysseus",
+      "slug": "odysseus",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "odysseus",
+        "odysseus",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "claude-mem",
+      "name": "claude-mem",
+      "slug": "claude-mem",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "claude-mem",
+        "claude-mem",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "songgeneration",
+      "name": "SongGeneration",
+      "slug": "songgeneration",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/tencent-ailab/SongGeneration",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "SongGeneration",
+        "songgeneration",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "hy-motion-1-0",
+      "name": "HY-Motion-1.0",
+      "slug": "hy-motion-1-0",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "HY-Motion-1.0",
+        "hy-motion-1-0",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "agentcore-samples",
+      "name": "agentcore-samples",
+      "slug": "agentcore-samples",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/awslabs/agentcore-samples",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "agentcore-samples",
+        "agentcore-samples",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "opendataloader-pdf",
+      "name": "opendataloader-pdf",
+      "slug": "opendataloader-pdf",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "opendataloader-pdf",
+        "opendataloader-pdf",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ppt-master",
+      "name": "ppt-master",
+      "slug": "ppt-master",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "ppt-master",
+        "ppt-master",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "claude-code-from-sources",
+      "name": "claude-code-from-sources",
+      "slug": "claude-code-from-sources",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/alejandrobalderas/claude-code-from-sources",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "claude-code-from-sources",
+        "claude-code-from-sources",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "30-days-of-python",
+      "name": "30-Days-Of-Python",
+      "slug": "30-days-of-python",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "30-Days-Of-Python",
+        "30-days-of-python",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ml-for-beginners",
+      "name": "ML-For-Beginners",
+      "slug": "ml-for-beginners",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "ML-For-Beginners",
+        "ml-for-beginners",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "scibot",
+      "name": "SciBot",
+      "slug": "scibot",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/CFN-softbio/SciBot",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "SciBot",
+        "scibot",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "huggingface-co-2",
+      "name": "huggingface-co-2",
+      "slug": "huggingface-co-2",
+      "description": "Recurso técnico",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-VL-450M",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "huggingface-co-2",
+        "huggingface-co-2",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "scarf",
+      "name": "scarf",
+      "slug": "scarf",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/awizemann/scarf",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "scarf",
+        "scarf",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "open-notebook",
+      "name": "open-notebook",
+      "slug": "open-notebook",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/lfnovo/open-notebook.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "open-notebook",
+        "open-notebook",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "huggingface-co-3",
+      "name": "huggingface-co-3",
+      "slug": "huggingface-co-3",
+      "description": "Recurso técnico",
+      "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "huggingface-co-3",
+        "huggingface-co-3",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "gpt-image2-skill",
+      "name": "GPT-Image2-Skill",
+      "slug": "gpt-image2-skill",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "GPT-Image2-Skill",
+        "gpt-image2-skill",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "vibe-coding",
+      "name": "vibe-coding",
+      "slug": "vibe-coding",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/EnzeD/vibe-coding",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "vibe-coding",
+        "vibe-coding",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "nn-zero-to-hero",
+      "name": "nn-zero-to-hero",
+      "slug": "nn-zero-to-hero",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "nn-zero-to-hero",
+        "nn-zero-to-hero",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "audiobookmaker",
+      "name": "audiobookmaker",
+      "slug": "audiobookmaker",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/JarodMica/audiobook_maker",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "audiobookmaker",
+        "audiobookmaker",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "agentic-ai-landscape",
+      "name": "agentic-ai-landscape",
+      "slug": "agentic-ai-landscape",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/antgroup/agentic-ai-landscape",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "agentic-ai-landscape",
+        "agentic-ai-landscape",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "clypra",
+      "name": "Clypra",
+      "slug": "clypra",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/AIEraDev/Clypra",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Clypra",
+        "clypra",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "biniou",
+      "name": "biniou",
+      "slug": "biniou",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Woolverine94/biniou",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "biniou",
+        "biniou",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "huggingface-co-4",
+      "name": "huggingface-co-4",
+      "slug": "huggingface-co-4",
+      "description": "Recurso técnico",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "huggingface-co-4",
+        "huggingface-co-4",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "hermes-webui",
+      "name": "hermes-webui",
+      "slug": "hermes-webui",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "hermes-webui",
+        "hermes-webui",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "kvarn",
+      "name": "KVarN",
+      "slug": "kvarn",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "KVarN",
+        "kvarn",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "huggingface-co-5",
+      "name": "huggingface-co-5",
+      "slug": "huggingface-co-5",
+      "description": "Recurso técnico",
+      "url": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "huggingface-co-5",
+        "huggingface-co-5",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "visionary",
+      "name": "visionary",
+      "slug": "visionary",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Visionary-Laboratory/visionary",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "visionary",
+        "visionary",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "claude-red",
+      "name": "Claude-Red",
+      "slug": "claude-red",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Claude-Red",
+        "claude-red",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "stirrup",
+      "name": "Stirrup",
+      "slug": "stirrup",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ArtificialAnalysis/Stirrup",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Stirrup",
+        "stirrup",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ai-hub-models",
+      "name": "ai-hub-models",
+      "slug": "ai-hub-models",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/qualcomm/ai-hub-models",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "ai-hub-models",
+        "ai-hub-models",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "memanto",
+      "name": "memanto",
+      "slug": "memanto",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/moorcheh-ai/memanto",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "memanto",
+        "memanto",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "huggingface-co-6",
+      "name": "huggingface-co-6",
+      "slug": "huggingface-co-6",
+      "description": "Recurso técnico",
+      "url": "https://huggingface.co/collections/unsloth/gemma-4-qat",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "huggingface-co-6",
+        "huggingface-co-6",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "freetube",
+      "name": "FreeTube",
+      "slug": "freetube",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/FreeTubeApp/FreeTube",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "FreeTube",
+        "freetube",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "dify",
+      "name": "dify",
+      "slug": "dify",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/langgenius/dify",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "dify",
+        "dify",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "gaianet-node",
+      "name": "gaianet-node",
+      "slug": "gaianet-node",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/GaiaNet-AI/gaianet-node",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "gaianet-node",
+        "gaianet-node",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "financial-machine-learning",
+      "name": "financial-machine-learning",
+      "slug": "financial-machine-learning",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/firmai/financial-machine-learning",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "financial-machine-learning",
+        "financial-machine-learning",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "codeflow",
+      "name": "codeflow",
+      "slug": "codeflow",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/braedonsaunders/codeflow",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "codeflow",
+        "codeflow",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "droidspaces-oss",
+      "name": "Droidspaces-OSS",
+      "slug": "droidspaces-oss",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ravindu644/Droidspaces-OSS",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Droidspaces-OSS",
+        "droidspaces-oss",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "codex-plugin-cc",
+      "name": "codex-plugin-cc",
+      "slug": "codex-plugin-cc",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "codex-plugin-cc",
+        "codex-plugin-cc",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "voice-pro",
+      "name": "voice-pro",
+      "slug": "voice-pro",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/abus-aikorea/voice-pro",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "voice-pro",
+        "voice-pro",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "hermes-desktop",
+      "name": "hermes-desktop",
+      "slug": "hermes-desktop",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/fathah/hermes-desktop",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "hermes-desktop",
+        "hermes-desktop",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "webwright",
+      "name": "Webwright",
+      "slug": "webwright",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/microsoft/Webwright.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Webwright",
+        "webwright",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ai-infra-engineer-learning",
+      "name": "ai-infra-engineer-learning",
+      "slug": "ai-infra-engineer-learning",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ai-infra-curriculum/ai-infra-engineer-learning",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "ai-infra-engineer-learning",
+        "ai-infra-engineer-learning",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ai-infra-curriculum",
+      "name": "ai-infra-curriculum",
+      "slug": "ai-infra-curriculum",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ai-infra-curriculum",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "ai-infra-curriculum",
+        "ai-infra-curriculum",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "automaton",
+      "name": "automaton",
+      "slug": "automaton",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ConwayResearch/automaton",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "automaton",
+        "automaton",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "automaton-2",
+      "name": "automaton-2",
+      "slug": "automaton-2",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Conway-Research/automaton",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "automaton-2",
+        "automaton-2",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "notebooklm-py",
+      "name": "notebooklm-py",
+      "slug": "notebooklm-py",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "notebooklm-py",
+        "notebooklm-py",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "aicodeguide",
+      "name": "aicodeguide",
+      "slug": "aicodeguide",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/automata/aicodeguide",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "aicodeguide",
+        "aicodeguide",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "falcon-perception",
+      "name": "Falcon-Perception",
+      "slug": "falcon-perception",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/tiiuae/Falcon-Perception",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Falcon-Perception",
+        "falcon-perception",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "machine-learning-refined",
+      "name": "machine-learning-refined",
+      "slug": "machine-learning-refined",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/neonwatty/machine-learning-refined",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "machine-learning-refined",
+        "machine-learning-refined",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "open-claude-code",
+      "name": "open-claude-code",
+      "slug": "open-claude-code",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ruvnet/open-claude-code",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "open-claude-code",
+        "open-claude-code",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "agent-rules-books",
+      "name": "agent-rules-books",
+      "slug": "agent-rules-books",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ciembor/agent-rules-books",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "agent-rules-books",
+        "agent-rules-books",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "mercury-agent-skills",
+      "name": "mercury-agent-skills",
+      "slug": "mercury-agent-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "mercury-agent-skills",
+        "mercury-agent-skills",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "learn-claude-code",
+      "name": "learn-claude-code",
+      "slug": "learn-claude-code",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "learn-claude-code",
+        "learn-claude-code",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "council-of-high-intelligence",
+      "name": "council-of-high-intelligence",
+      "slug": "council-of-high-intelligence",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "council-of-high-intelligence",
+        "council-of-high-intelligence",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "bmad-module-creative-intelligence-suite",
+      "name": "bmad-module-creative-intelligence-suite",
+      "slug": "bmad-module-creative-intelligence-suite",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/bmad-code-org/bmad-module-creative-intelligence-suite",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "bmad-module-creative-intelligence-suite",
+        "bmad-module-creative-intelligence-suite",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "x-voice",
+      "name": "X-Voice",
+      "slug": "x-voice",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/sunnyxrxrx/X-Voice",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "X-Voice",
+        "x-voice",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "make-pages-interactive",
+      "name": "make-pages-interactive",
+      "slug": "make-pages-interactive",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "make-pages-interactive",
+        "make-pages-interactive",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "facex",
+      "name": "facex",
+      "slug": "facex",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/facex-engine/facex",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "facex",
+        "facex",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "server",
+      "name": "server",
+      "slug": "server",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Sync-in/server",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "server",
+        "server",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "defending-code-reference-harness",
+      "name": "defending-code-reference-harness",
+      "slug": "defending-code-reference-harness",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "defending-code-reference-harness",
+        "defending-code-reference-harness",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "openvid",
+      "name": "openvid",
+      "slug": "openvid",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/CristianOlivera1/openvid",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "openvid",
+        "openvid",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-harness-engineering",
+      "name": "awesome-harness-engineering",
+      "slug": "awesome-harness-engineering",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ai-boost/awesome-harness-engineering",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "awesome-harness-engineering",
+        "awesome-harness-engineering",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-roadmaps",
+      "name": "awesome-roadmaps",
+      "slug": "awesome-roadmaps",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/liuchong/awesome-roadmaps",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "awesome-roadmaps",
+        "awesome-roadmaps",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "freephdlabor",
+      "name": "freephdlabor",
+      "slug": "freephdlabor",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ltjed/freephdlabor",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "freephdlabor",
+        "freephdlabor",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "vinci-clips",
+      "name": "vinci-clips",
+      "slug": "vinci-clips",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/tryvinci/vinci-clips",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "vinci-clips",
+        "vinci-clips",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "claude-code-hooks",
+      "name": "claude-code-hooks",
+      "slug": "claude-code-hooks",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/shanraisshan/claude-code-hooks",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "claude-code-hooks",
+        "claude-code-hooks",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "sadtalker",
+      "name": "SadTalker",
+      "slug": "sadtalker",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/OpenTalker/SadTalker",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "SadTalker",
+        "sadtalker",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "whisper",
+      "name": "whisper",
+      "slug": "whisper",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/openai/whisper",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "whisper",
+        "whisper",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "skyvern",
+      "name": "skyvern",
+      "slug": "skyvern",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Skyvern-AI/skyvern",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "skyvern",
+        "skyvern",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "roborev",
+      "name": "roborev",
+      "slug": "roborev",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/kenn-io/roborev",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "roborev",
+        "roborev",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "parallel-code",
+      "name": "parallel-code",
+      "slug": "parallel-code",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/johannesjo/parallel-code",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "parallel-code",
+        "parallel-code",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-agent-orchestrators",
+      "name": "awesome-agent-orchestrators",
+      "slug": "awesome-agent-orchestrators",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/andyrewlee/awesome-agent-orchestrators",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "awesome-agent-orchestrators",
+        "awesome-agent-orchestrators",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-lm-ssp",
+      "name": "Awesome-LM-SSP",
+      "slug": "awesome-lm-ssp",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/CryptoAILab/Awesome-LM-SSP",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Awesome-LM-SSP",
+        "awesome-lm-ssp",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "logans-guide",
+      "name": "logans-guide",
+      "slug": "logans-guide",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/loganthorneloe/logans-guide",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "logans-guide",
+        "logans-guide",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "alphaclaw",
+      "name": "alphaclaw",
+      "slug": "alphaclaw",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/chrysb/alphaclaw",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "alphaclaw",
+        "alphaclaw",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "alook",
+      "name": "alook",
+      "slug": "alook",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/alookai/alook",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "alook",
+        "alook",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "sia",
+      "name": "sia",
+      "slug": "sia",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/hexo-ai/sia",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "sia",
+        "sia",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "openclaw-android",
+      "name": "openclaw-android",
+      "slug": "openclaw-android",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/AidanPark/openclaw-android",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "openclaw-android",
+        "openclaw-android",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "cookbook",
+      "name": "cookbook",
+      "slug": "cookbook",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Liquid4All/cookbook/tree/main/examples/browser-control",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "cookbook",
+        "cookbook",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "minicpm",
+      "name": "MiniCPM",
+      "slug": "minicpm",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/OpenBMB/MiniCPM",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "MiniCPM",
+        "minicpm",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "tegaki",
+      "name": "tegaki",
+      "slug": "tegaki",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/KurtGokhan/tegaki.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "tegaki",
+        "tegaki",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "hallmark",
+      "name": "hallmark",
+      "slug": "hallmark",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Nutlope/hallmark",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "hallmark",
+        "hallmark",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "scale-agentex",
+      "name": "scale-agentex",
+      "slug": "scale-agentex",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/scaleapi/scale-agentex",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "scale-agentex",
+        "scale-agentex",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ghost-ai",
+      "name": "ghost-ai",
+      "slug": "ghost-ai",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/adrianhajdin/ghost-ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "ghost-ai",
+        "ghost-ai",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "transformers-the-definitive-guide",
+      "name": "transformers-the-definitive-guide",
+      "slug": "transformers-the-definitive-guide",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Nicolepcx/transformers-the-definitive-guide",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "transformers-the-definitive-guide",
+        "transformers-the-definitive-guide",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "memmachine",
+      "name": "MemMachine",
+      "slug": "memmachine",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/MemMachine/MemMachine",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "MemMachine",
+        "memmachine",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "openpi",
+      "name": "openpi",
+      "slug": "openpi",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Physical-Intelligence/openpi",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "openpi",
+        "openpi",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "fara",
+      "name": "fara",
+      "slug": "fara",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/microsoft/fara",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "fara",
+        "fara",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "agentlaboratory",
+      "name": "AgentLaboratory",
+      "slug": "agentlaboratory",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/SamuelSchmidgall/AgentLaboratory",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "AgentLaboratory",
+        "agentlaboratory",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "best-of-ml-python",
+      "name": "best-of-ml-python",
+      "slug": "best-of-ml-python",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/lukasmasuch/best-of-ml-python",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "best-of-ml-python",
+        "best-of-ml-python",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "huggingface-co",
+      "name": "huggingface-co",
+      "slug": "huggingface-co",
+      "description": "Recurso técnico",
+      "url": "https://huggingface.co/datalab-to/surya-ocr-2",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "huggingface-co",
+        "huggingface-co",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "skillopt",
+      "name": "SkillOpt",
+      "slug": "skillopt",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/microsoft/SkillOpt",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "SkillOpt",
+        "skillopt",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "codexguide",
+      "name": "CodexGuide",
+      "slug": "codexguide",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/freestylefly/CodexGuide",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "CodexGuide",
+        "codexguide",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "agenvoy",
+      "name": "Agenvoy",
+      "slug": "agenvoy",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/pardnchiu/Agenvoy",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Agenvoy",
+        "agenvoy",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "skillnet",
+      "name": "SkillNet",
+      "slug": "skillnet",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/zjunlp/SkillNet",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "SkillNet",
+        "skillnet",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "agentwasp",
+      "name": "agentwasp",
+      "slug": "agentwasp",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/agentwasp/agentwasp",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "agentwasp",
+        "agentwasp",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "seo-geo-claude-skills",
+      "name": "seo-geo-claude-skills",
+      "slug": "seo-geo-claude-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "seo-geo-claude-skills",
+        "seo-geo-claude-skills",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "project-nomad",
+      "name": "project-nomad",
+      "slug": "project-nomad",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "project-nomad",
+        "project-nomad",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "plugins",
+      "name": "plugins",
+      "slug": "plugins",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/cursor/plugins",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "plugins",
+        "plugins",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "terax-ai",
+      "name": "terax-ai",
+      "slug": "terax-ai",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/crynta/terax-ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "terax-ai",
+        "terax-ai",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ecc",
+      "name": "ECC",
+      "slug": "ecc",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/affaan-m/ECC",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "ECC",
+        "ecc",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "context7-skill",
+      "name": "context7-skill",
+      "slug": "context7-skill",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/netresearch/context7-skill",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "context7-skill",
+        "context7-skill",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "science-skills",
+      "name": "science-skills",
+      "slug": "science-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/google-deepmind/science-skills",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "science-skills",
+        "science-skills",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "skillspector",
+      "name": "skillspector",
+      "slug": "skillspector",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/nvidia/skillspector",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "skillspector",
+        "skillspector",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "openlogi",
+      "name": "OpenLogi",
+      "slug": "openlogi",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "OpenLogi",
+        "openlogi",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "epicstaff",
+      "name": "EpicStaff",
+      "slug": "epicstaff",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/EpicStaff/EpicStaff",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "EpicStaff",
+        "epicstaff",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "motion-diffusion-model",
+      "name": "motion-diffusion-model",
+      "slug": "motion-diffusion-model",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/GuyTevet/motion-diffusion-model",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "motion-diffusion-model",
+        "motion-diffusion-model",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "graph-r1",
+      "name": "Graph-R1",
+      "slug": "graph-r1",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/LHRLAB/Graph-R1",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Graph-R1",
+        "graph-r1",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "claude-howto",
+      "name": "claude-howto",
+      "slug": "claude-howto",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "claude-howto",
+        "claude-howto",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-claude-skills",
+      "name": "awesome-claude-skills",
+      "slug": "awesome-claude-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/travisvn/awesome-claude-skills",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "awesome-claude-skills",
+        "awesome-claude-skills",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "understand-anything",
+      "name": "Understand-Anything",
+      "slug": "understand-anything",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Understand-Anything",
+        "understand-anything",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "trek",
+      "name": "TREK",
+      "slug": "trek",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/mauriceboe/TREK",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "TREK",
+        "trek",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "kwipu",
+      "name": "Kwipu",
+      "slug": "kwipu",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/benmaster82/Kwipu",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Kwipu",
+        "kwipu",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "thuki",
+      "name": "thuki",
+      "slug": "thuki",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/quiet-node/thuki",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "thuki",
+        "thuki",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "agentic-ai-apis",
+      "name": "agentic-ai-apis",
+      "slug": "agentic-ai-apis",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/cporter202/agentic-ai-apis",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "agentic-ai-apis",
+        "agentic-ai-apis",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "atlas-agents",
+      "name": "atlas-agents",
+      "slug": "atlas-agents",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/agulli/atlas-agents",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "atlas-agents",
+        "atlas-agents",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "huggingface-co-7",
+      "name": "huggingface-co-7",
+      "slug": "huggingface-co-7",
+      "description": "Recurso técnico",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-VL-450M-Extract",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "huggingface-co-7",
+        "huggingface-co-7",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "deepseek-desktop",
+      "name": "deepseek-desktop",
+      "slug": "deepseek-desktop",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/doxdk/deepseek-desktop",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "deepseek-desktop",
+        "deepseek-desktop",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "espectre",
+      "name": "espectre",
+      "slug": "espectre",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/francescopace/espectre",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "espectre",
+        "espectre",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "geo-seo-claude",
+      "name": "geo-seo-claude",
+      "slug": "geo-seo-claude",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/zubair-trabzada/geo-seo-claude",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "geo-seo-claude",
+        "geo-seo-claude",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "deepscientist",
+      "name": "DeepScientist",
+      "slug": "deepscientist",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ResearAI/DeepScientist",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "DeepScientist",
+        "deepscientist",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "everyonesllm",
+      "name": "EveryonesLLM",
+      "slug": "everyonesllm",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/HayatoHongo/EveryonesLLM",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "EveryonesLLM",
+        "everyonesllm",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "shannon",
+      "name": "Shannon",
+      "slug": "shannon",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Kocoro-lab/Shannon",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Shannon",
+        "shannon",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "opencode-mem",
+      "name": "opencode-mem",
+      "slug": "opencode-mem",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/tickernelz/opencode-mem",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "opencode-mem",
+        "opencode-mem",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "agentic-context-engine",
+      "name": "agentic-context-engine",
+      "slug": "agentic-context-engine",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/kayba-ai/agentic-context-engine",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "agentic-context-engine",
+        "agentic-context-engine",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "last30days-skill",
+      "name": "last30days-skill",
+      "slug": "last30days-skill",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "last30days-skill",
+        "last30days-skill",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "videos",
+      "name": "videos",
+      "slug": "videos",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/3b1b/videos",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "videos",
+        "videos",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "statistics-books",
+      "name": "Statistics-Books",
+      "slug": "statistics-books",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/HamdaanMohideen/Statistics-Books.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Statistics-Books",
+        "statistics-books",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "huggingface-co-8",
+      "name": "huggingface-co-8",
+      "slug": "huggingface-co-8",
+      "description": "Recurso técnico",
+      "url": "https://huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "huggingface-co-8",
+        "huggingface-co-8",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "guppylm",
+      "name": "guppylm",
+      "slug": "guppylm",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/arman-bd/guppylm",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "guppylm",
+        "guppylm",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "openclaw-medical-skills",
+      "name": "OpenClaw-Medical-Skills",
+      "slug": "openclaw-medical-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "OpenClaw-Medical-Skills",
+        "openclaw-medical-skills",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "fireworks-tech-graph",
+      "name": "fireworks-tech-graph",
+      "slug": "fireworks-tech-graph",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "fireworks-tech-graph",
+        "fireworks-tech-graph",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "claude-seo",
+      "name": "claude-seo",
+      "slug": "claude-seo",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "claude-seo",
+        "claude-seo",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "mnemosyne",
+      "name": "mnemosyne",
+      "slug": "mnemosyne",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/28naem-del/mnemosyne",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "mnemosyne",
+        "mnemosyne",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "openclaw-rl",
+      "name": "OpenClaw-RL",
+      "slug": "openclaw-rl",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Gen-Verse/OpenClaw-RL",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "OpenClaw-RL",
+        "openclaw-rl",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "opensquilla",
+      "name": "opensquilla",
+      "slug": "opensquilla",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/opensquilla/opensquilla/tree/integration/dev-rollup-20260528",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "opensquilla",
+        "opensquilla",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "hands-on-modern-rl",
+      "name": "hands-on-modern-rl",
+      "slug": "hands-on-modern-rl",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/walkinglabs/hands-on-modern-rl",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "hands-on-modern-rl",
+        "hands-on-modern-rl",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "luxtts",
+      "name": "LuxTTS",
+      "slug": "luxtts",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ysharma3501/LuxTTS",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "LuxTTS",
+        "luxtts",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "httpmemes",
+      "name": "httpmemes",
+      "slug": "httpmemes",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/keijeizei/httpmemes.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "httpmemes",
+        "httpmemes",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "web-quality-skills",
+      "name": "web-quality-skills",
+      "slug": "web-quality-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/addyosmani/web-quality-skills",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "web-quality-skills",
+        "web-quality-skills",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "dflash",
+      "name": "dflash",
+      "slug": "dflash",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/z-lab/dflash",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "dflash",
+        "dflash",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "dllm",
+      "name": "dllm",
+      "slug": "dllm",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ZHZisZZ/dllm",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "dllm",
+        "dllm",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "webclaw",
+      "name": "webclaw",
+      "slug": "webclaw",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/0xMassi/webclaw",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "webclaw",
+        "webclaw",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "claude-code-video-toolkit",
+      "name": "claude-code-video-toolkit",
+      "slug": "claude-code-video-toolkit",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/digitalsamba/claude-code-video-toolkit",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "claude-code-video-toolkit",
+        "claude-code-video-toolkit",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "antigravity-awesome-skills",
+      "name": "antigravity-awesome-skills",
+      "slug": "antigravity-awesome-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/sickn33/antigravity-awesome-skills",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "antigravity-awesome-skills",
+        "antigravity-awesome-skills",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "llms-local",
+      "name": "LLMs-local",
+      "slug": "llms-local",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/0xSojalSec/LLMs-local",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "LLMs-local",
+        "llms-local",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "video2x",
+      "name": "video2x",
+      "slug": "video2x",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/k4yt3x/video2x",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "video2x",
+        "video2x",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "memento-skills",
+      "name": "Memento-Skills",
+      "slug": "memento-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Memento-Teams/Memento-Skills",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Memento-Skills",
+        "memento-skills",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "viper",
+      "name": "Viper",
+      "slug": "viper",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/FunnyWolf/Viper",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Viper",
+        "viper",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "cuda-course",
+      "name": "cuda-course",
+      "slug": "cuda-course",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Infatoshi/cuda-course",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "cuda-course",
+        "cuda-course",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ai-engineering-interview-questions",
+      "name": "ai-engineering-interview-questions",
+      "slug": "ai-engineering-interview-questions",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "ai-engineering-interview-questions",
+        "ai-engineering-interview-questions",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-agent-skills",
+      "name": "awesome-agent-skills",
+      "slug": "awesome-agent-skills",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/heilcheng/awesome-agent-skills",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "awesome-agent-skills",
+        "awesome-agent-skills",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "easy-agent",
+      "name": "easy-agent",
+      "slug": "easy-agent",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ConardLi/easy-agent",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "easy-agent",
+        "easy-agent",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "computer-science",
+      "name": "computer-science",
+      "slug": "computer-science",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ossu/computer-science",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "computer-science",
+        "computer-science",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ane",
+      "name": "ANE",
+      "slug": "ane",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/maderix/ANE",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "ANE",
+        "ane",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "tradememory-protocol",
+      "name": "tradememory-protocol",
+      "slug": "tradememory-protocol",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/mnemox-ai/tradememory-protocol",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "tradememory-protocol",
+        "tradememory-protocol",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "huggingface-co-9",
+      "name": "huggingface-co-9",
+      "slug": "huggingface-co-9",
+      "description": "Recurso técnico",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "huggingface-co-9",
+        "huggingface-co-9",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "huggingface-co-10",
+      "name": "huggingface-co-10",
+      "slug": "huggingface-co-10",
+      "description": "Recurso técnico",
+      "url": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "huggingface-co-10",
+        "huggingface-co-10",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "omnilingual-asr",
+      "name": "omnilingual-asr",
+      "slug": "omnilingual-asr",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/facebookresearch/omnilingual-asr",
+      "status": "active",
+      "tags": [
+        "ai",
+        "video",
+        "audio",
+        "github",
+        "development"
+      ],
+      "searchIndex": [
+        "omnilingual-asr",
+        "omnilingual-asr",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "video",
+        "audio",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "quantaalpha",
+      "name": "QuantaAlpha",
+      "slug": "quantaalpha",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/QuantaAlpha/QuantaAlpha",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "QuantaAlpha",
+        "quantaalpha",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "huggingface-co-11",
+      "name": "huggingface-co-11",
+      "slug": "huggingface-co-11",
+      "description": "Recurso técnico",
+      "url": "https://huggingface.co/datasets/Glint-Research/Fable-5-traces",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "huggingface-co-11",
+        "huggingface-co-11",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "opendev",
+      "name": "opendev",
+      "slug": "opendev",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/opendev-to/opendev",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "opendev",
+        "opendev",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "viewer",
+      "name": "viewer",
+      "slug": "viewer",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/zetane/viewer",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "viewer",
+        "viewer",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesomeaiagents",
+      "name": "awesomeaiagents",
+      "slug": "awesomeaiagents",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/jim-schwoebel/awesome_ai_agents",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "awesomeaiagents",
+        "awesomeaiagents",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "knowledge-catalog",
+      "name": "knowledge-catalog",
+      "slug": "knowledge-catalog",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "knowledge-catalog",
+        "knowledge-catalog",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "drawio-skill",
+      "name": "drawio-skill",
+      "slug": "drawio-skill",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Agents365-ai/drawio-skill",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "drawio-skill",
+        "drawio-skill",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "cua",
+      "name": "cua",
+      "slug": "cua",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/trycua/cua",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "cua",
+        "cua",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "coursebook",
+      "name": "coursebook",
+      "slug": "coursebook",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/illinois-cs241/coursebook",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "coursebook",
+        "coursebook",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ponytail",
+      "name": "ponytail",
+      "slug": "ponytail",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "ponytail",
+        "ponytail",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "learn-harness-engineering",
+      "name": "learn-harness-engineering",
+      "slug": "learn-harness-engineering",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/walkinglabs/learn-harness-engineering",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "learn-harness-engineering",
+        "learn-harness-engineering",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "gist-github-com",
+      "name": "gist-github-com",
+      "slug": "gist-github-com",
+      "description": "Recurso técnico",
+      "url": "https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "gist-github-com",
+        "gist-github-com",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "fusion-fable",
+      "name": "fusion-fable",
+      "slug": "fusion-fable",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/duolahypercho/fusion-fable",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "fusion-fable",
+        "fusion-fable",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "watercrawl",
+      "name": "WaterCrawl",
+      "slug": "watercrawl",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/watercrawl/WaterCrawl",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "WaterCrawl",
+        "watercrawl",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "narrator-ai-cli-skill",
+      "name": "narrator-ai-cli-skill",
+      "slug": "narrator-ai-cli-skill",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "narrator-ai-cli-skill",
+        "narrator-ai-cli-skill",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "neolabh",
+      "name": "NeoLabH",
+      "slug": "neolabh",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/NeoLabH",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "NeoLabH",
+        "neolabh",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "meta-harness",
+      "name": "meta-harness",
+      "slug": "meta-harness",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/stanford-iris-lab/meta-harness",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "meta-harness",
+        "meta-harness",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "generative-ai",
+      "name": "generative-ai",
+      "slug": "generative-ai",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/genieincodebottle/generative-ai",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "generative-ai",
+        "generative-ai",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "harness-100",
+      "name": "harness-100",
+      "slug": "harness-100",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/revfactory/harness-100",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "harness-100",
+        "harness-100",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "praisonai",
+      "name": "PraisonAI",
+      "slug": "praisonai",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/MervinPraison/PraisonAI",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "PraisonAI",
+        "praisonai",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "swe-af",
+      "name": "SWE-AF",
+      "slug": "swe-af",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/Agent-Field/SWE-AF",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "SWE-AF",
+        "swe-af",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "mnemory",
+      "name": "mnemory",
+      "slug": "mnemory",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/fpytloun/mnemory",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "mnemory",
+        "mnemory",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "gortex",
+      "name": "gortex",
+      "slug": "gortex",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/zzet/gortex",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "gortex",
+        "gortex",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "future-agi",
+      "name": "future-agi",
+      "slug": "future-agi",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/future-agi/future-agi",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "future-agi",
+        "future-agi",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "claude-supermemory",
+      "name": "claude-supermemory",
+      "slug": "claude-supermemory",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/supermemoryai/claude-supermemory",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "claude-supermemory",
+        "claude-supermemory",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "zvec",
+      "name": "zvec",
+      "slug": "zvec",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/alibaba/zvec",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "zvec",
+        "zvec",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "priompt",
+      "name": "priompt",
+      "slug": "priompt",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/anysphere/priompt",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "priompt",
+        "priompt",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "twenty",
+      "name": "twenty",
+      "slug": "twenty",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/twentyhq/twenty",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "twenty",
+        "twenty",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "litellm-agent-control-plane",
+      "name": "litellm-agent-control-plane",
+      "slug": "litellm-agent-control-plane",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/LiteLLM-Labs/litellm-agent-control-plane",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "litellm-agent-control-plane",
+        "litellm-agent-control-plane",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "dograh",
+      "name": "dograh",
+      "slug": "dograh",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/dograh-hq/dograh",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "dograh",
+        "dograh",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "product-mode",
+      "name": "product-mode",
+      "slug": "product-mode",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/sohaibt/product-mode",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "product-mode",
+        "product-mode",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "governor",
+      "name": "governor",
+      "slug": "governor",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/0xhimanshu/governor",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "governor",
+        "governor",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "huggingface-co-12",
+      "name": "huggingface-co-12",
+      "slug": "huggingface-co-12",
+      "description": "Recurso técnico",
+      "url": "https://huggingface.co/Mia-AiLab/Gemmable-4-12B-MTP-GGUF",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "huggingface-co-12",
+        "huggingface-co-12",
+        "Recurso técnico",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "vllm",
+      "name": "vllm",
+      "slug": "vllm",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/vllm-project/vllm.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "vllm",
+        "vllm",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "sileo",
+      "name": "sileo",
+      "slug": "sileo",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/hiaaryan/sileo",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "sileo",
+        "sileo",
+        "Repositorio GitHub",
+        "ai",
+        "development",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "kimi-k2-gguf",
+      "name": "kimi-k2-gguf",
+      "slug": "kimi-k2-gguf",
+      "description": "Modelo Kimi K2.7 Code GGUF",
+      "url": "https://huggingface.co/unsloth/Kimi-K2.7-Code-GGUF",
+      "status": "active",
+      "tags": [
+        "ai",
+        "model",
+        "huggingface",
+        "open-source",
+        "development"
+      ],
+      "searchIndex": [
+        "kimi-k2-gguf",
+        "kimi-k2-gguf",
+        "Modelo Kimi K2.7 Code GGUF",
+        "ai",
+        "development",
+        "ai",
+        "model",
+        "huggingface",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
     }
   ]
 }

@@ -16,7 +16,7 @@
       "description": "Etiqueta agent"
     },
     "ai": {
-      "count": 38,
+      "count": 234,
       "color": "#dc2626",
       "description": "Etiqueta ai"
     },
@@ -136,7 +136,7 @@
       "description": "Etiqueta design"
     },
     "development": {
-      "count": 1,
+      "count": 197,
       "color": "#65a30d",
       "description": "Etiqueta development"
     },
@@ -176,7 +176,7 @@
       "description": "Etiqueta generation"
     },
     "github": {
-      "count": 1,
+      "count": 184,
       "color": "#d97706",
       "description": "Etiqueta github"
     },
@@ -226,7 +226,7 @@
       "description": "Etiqueta microsoft"
     },
     "model": {
-      "count": 3,
+      "count": 16,
       "color": "#ea580c",
       "description": "Etiqueta model"
     },
@@ -261,7 +261,7 @@
       "description": "Etiqueta offers"
     },
     "open-source": {
-      "count": 4,
+      "count": 17,
       "color": "#4f46e5",
       "description": "Etiqueta open-source"
     },
@@ -326,7 +326,7 @@
       "description": "Etiqueta typography"
     },
     "video": {
-      "count": 7,
+      "count": 21,
       "color": "#0891b2",
       "description": "Etiqueta video"
     },
@@ -349,6 +349,16 @@
       "count": 1,
       "color": "#2563eb",
       "description": "Etiqueta zhipu"
+    },
+    "audio": {
+      "count": 14,
+      "color": "#dc2626",
+      "description": "Etiqueta audio"
+    },
+    "huggingface": {
+      "count": 13,
+      "color": "#2563eb",
+      "description": "Etiqueta huggingface"
     }
   },
   "searchIndex": {
@@ -387,539 +397,4590 @@
     "entries": [
       {
         "id": "adobe-firefly",
+        "name": "Adobe Firefly",
         "slug": "adobe-firefly",
-        "terms": [
-          "Adobe Firefly",
-          "adobe-firefly",
-          "Seguro uso comercial, edición pro",
+        "description": "Seguro uso comercial, edición pro",
+        "category": "ai",
+        "subcategory": "image-generation",
+        "tags": [
           "ai",
-          "image-generation",
           "image",
           "adobe",
           "commercial",
           "freemium"
-        ]
+        ],
+        "url": "https://firefly.adobe.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "adobe firefly adobe-firefly seguro uso comercial, edición pro ai image-generation ai image adobe commercial freemium"
       },
       {
         "id": "ai-face-swap",
+        "name": "AIFaceSwap",
         "slug": "aifaceswap",
-        "terms": [
-          "AIFaceSwap",
-          "aifaceswap",
-          "Face Swap IA",
+        "description": "Face Swap IA",
+        "category": "ai",
+        "subcategory": "china",
+        "tags": [
           "ai",
-          "china",
           "face-swap",
           "image",
           "editing"
-        ]
+        ],
+        "url": "https://aifaceswap.io",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "aifaceswap aifaceswap face swap ia ai china ai face-swap image editing"
       },
       {
         "id": "antigravity",
+        "name": "Antigravity",
         "slug": "antigravity",
-        "terms": [
-          "Antigravity",
-          "antigravity",
-          "Herramienta de desarrollo IA",
+        "description": "Herramienta de desarrollo IA",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
           "ai",
           "development",
           "tool"
-        ]
+        ],
+        "url": "https://antigravity.ai",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "antigravity antigravity herramienta de desarrollo ia ai development ai development tool"
       },
       {
         "id": "apob-ai",
+        "name": "Apob AI",
         "slug": "apob-ai",
-        "terms": [
-          "Apob AI",
-          "apob-ai",
-          "Influencer IA monetizar",
+        "description": "Influencer IA monetizar",
+        "category": "ai",
+        "subcategory": "china",
+        "tags": [
           "ai",
-          "china",
           "influencer",
           "monetization"
-        ]
+        ],
+        "url": "https://app.apob.ai",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "apob ai apob-ai influencer ia monetizar ai china ai influencer monetization"
       },
       {
         "id": "arena-ai",
+        "name": "Arena AI",
         "slug": "arena-ai",
-        "terms": [
-          "Arena AI",
-          "arena-ai",
-          "Comparador modelos IA",
+        "description": "Comparador modelos IA",
+        "category": "ai",
+        "subcategory": "china",
+        "tags": [
           "ai",
-          "china",
           "comparison",
           "models",
           "benchmark"
-        ]
+        ],
+        "url": "https://arena.ai",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "arena ai arena-ai comparador modelos ia ai china ai comparison models benchmark"
       },
       {
         "id": "chatgpt",
+        "name": "ChatGPT",
         "slug": "chatgpt",
-        "terms": [
-          "ChatGPT",
-          "chatgpt",
-          "Asistente IA general de OpenAI",
+        "description": "Asistente IA general de OpenAI",
+        "category": "ai",
+        "subcategory": "assistants",
+        "tags": [
           "ai",
-          "assistants",
           "openai",
           "chatbot",
           "llm",
           "general"
-        ]
+        ],
+        "url": "https://chatgpt.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "chatgpt chatgpt asistente ia general de openai ai assistants ai openai chatbot llm general"
       },
       {
         "id": "claude",
+        "name": "Claude",
         "slug": "claude",
-        "terms": [
-          "Claude",
-          "claude",
-          "Asistente conversacional avanzado Anthropic",
+        "description": "Asistente conversacional avanzado Anthro",
+        "category": "ai",
+        "subcategory": "assistants",
+        "tags": [
           "ai",
-          "assistants",
           "chatbot",
           "anthropic",
           "llm",
           "conversation",
           "coding"
-        ]
+        ],
+        "url": "https://claude.ai",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "claude claude asistente conversacional avanzado anthro ai assistants ai chatbot anthropic llm conversation coding"
       },
       {
         "id": "copilot",
+        "name": "Copilot",
         "slug": "copilot",
-        "terms": [
-          "Copilot",
-          "copilot",
-          "Asistente de IA de Microsoft integrado",
+        "description": "Asistente de IA de Microsoft integrado",
+        "category": "ai",
+        "subcategory": "assistants",
+        "tags": [
           "ai",
-          "assistants",
           "microsoft",
           "assistant",
           "integrated"
-        ]
+        ],
+        "url": "https://copilot.microsoft.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "copilot copilot asistente de ia de microsoft integrado ai assistants ai microsoft assistant integrated"
       },
       {
         "id": "deepseek",
+        "name": "DeepSeek",
         "slug": "deepseek",
-        "terms": [
-          "DeepSeek",
-          "deepseek",
-          "Modelo IA chino competitivo",
+        "description": "Modelo IA chino competitivo",
+        "category": "ai",
+        "subcategory": "assistants",
+        "tags": [
           "ai",
-          "assistants",
           "china",
           "llm",
           "competitive"
-        ]
+        ],
+        "url": "https://chat.deepseek.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "deepseek deepseek modelo ia chino competitivo ai assistants ai china llm competitive"
       },
       {
         "id": "ernie-5-0",
+        "name": "Ernie 5.0",
         "slug": "ernie-5-0",
-        "terms": [
-          "Ernie 5.0",
-          "ernie-5-0",
-          "Modelo de Baidu avanzado",
+        "description": "Modelo de Baidu avanzado",
+        "category": "ai",
+        "subcategory": "china",
+        "tags": [
           "ai",
-          "china",
           "baidu",
+          "china",
           "model"
-        ]
+        ],
+        "url": "https://ernie.baidu.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "ernie 5.0 ernie-5-0 modelo de baidu avanzado ai china ai baidu china model"
       },
       {
         "id": "gemini",
+        "name": "Gemini",
         "slug": "gemini",
-        "terms": [
-          "Gemini",
-          "gemini",
-          "Modelo multimodal de Google con integración",
+        "description": "Modelo multimodal de Google con integrac",
+        "category": "ai",
+        "subcategory": "assistants",
+        "tags": [
           "ai",
-          "assistants",
           "google",
           "multimodal",
           "llm",
           "integration"
-        ]
+        ],
+        "url": "https://gemini.google.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "gemini gemini modelo multimodal de google con integrac ai assistants ai google multimodal llm integration"
       },
       {
         "id": "github-copilot",
+        "name": "GitHub Copilot",
         "slug": "github-copilot",
-        "terms": [
-          "GitHub Copilot",
-          "github-copilot",
-          "Asistente IA para programar en VS Code",
+        "description": "Asistente IA para programar en VS Code",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
           "ai",
-          "development",
           "github",
           "copilot",
           "vscode",
           "coding"
-        ]
+        ],
+        "url": "https://github.com/features/copilot",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "github copilot github-copilot asistente ia para programar en vs code ai development ai github copilot vscode coding"
       },
       {
         "id": "glm-5",
+        "name": "GLM 5",
         "slug": "glm-5",
-        "terms": [
-          "GLM 5",
-          "glm-5",
-          "Modelo de Zhipu AI",
+        "description": "Modelo de Zhipu AI",
+        "category": "ai",
+        "subcategory": "china",
+        "tags": [
           "ai",
-          "china",
           "zhipu",
+          "china",
           "model"
-        ]
+        ],
+        "url": "https://chat.z.ai",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "glm 5 glm-5 modelo de zhipu ai ai china ai zhipu china model"
       },
       {
         "id": "goose",
+        "name": "Goose",
         "slug": "goose",
-        "terms": [
-          "Goose",
-          "goose",
-          "Alternativa Copilot chat open source",
+        "description": "Alternativa Copilot chat open source",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
           "ai",
-          "development",
           "open-source",
           "copilot",
           "alternative"
-        ]
+        ],
+        "url": "https://github.com/block/goose",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "goose goose alternativa copilot chat open source ai development ai open-source copilot alternative"
       },
       {
         "id": "grok",
+        "name": "Grok",
         "slug": "grok",
-        "terms": [
-          "Grok",
-          "grok",
-          "IA conversacional de xAI en tiempo real",
+        "description": "IA conversacional de xAI en tiempo real",
+        "category": "ai",
+        "subcategory": "assistants",
+        "tags": [
           "ai",
-          "assistants",
           "xai",
           "realtime",
           "conversation"
-        ]
+        ],
+        "url": "https://grok.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "grok grok ia conversacional de xai en tiempo real ai assistants ai xai realtime conversation"
       },
       {
         "id": "heygaia",
+        "name": "HeyGaia",
         "slug": "heygaia",
-        "terms": [
-          "HeyGaia",
-          "heygaia",
-          "Agente IA autómata open-source",
+        "description": "Agente IA autómata open-source",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
           "ai",
-          "development",
           "agent",
           "open-source",
           "automaton"
-        ]
+        ],
+        "url": "https://heygaia.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "heygaia heygaia agente ia autómata open-source ai development ai agent open-source automaton"
       },
       {
         "id": "hunyuan",
+        "name": "Hunyuan",
         "slug": "hunyuan",
-        "terms": [
-          "Hunyuan",
-          "hunyuan",
-          "Modelo gratuito de Tencent",
+        "description": "Modelo gratuito de Tencent",
+        "category": "ai",
+        "subcategory": "china",
+        "tags": [
           "ai",
-          "china",
           "tencent",
+          "china",
           "free",
           "model"
-        ]
+        ],
+        "url": "https://hunyuan.tencent.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "hunyuan hunyuan modelo gratuito de tencent ai china ai tencent china free model"
       },
       {
         "id": "hunyuan-image-3",
+        "name": "Hunyuan Image 3.0",
         "slug": "hunyuan-image-3-0",
-        "terms": [
-          "Hunyuan Image 3.0",
-          "hunyuan-image-3-0",
-          "Tencent Open source, texto chino",
+        "description": "Tencent Open source, texto chino",
+        "category": "ai",
+        "subcategory": "image-generation",
+        "tags": [
           "ai",
-          "image-generation",
           "image",
           "tencent",
           "open-source",
           "freemium"
-        ]
+        ],
+        "url": "https://huggingface.co/Tencent-Hunyuan",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "hunyuan image 3.0 hunyuan-image-3-0 tencent open source, texto chino ai image-generation ai image tencent open-source freemium"
       },
       {
         "id": "ideogram",
+        "name": "Ideogram",
         "slug": "ideogram",
-        "terms": [
-          "Ideogram",
-          "ideogram",
-          "El mejor generando texto en imágenes",
+        "description": "El mejor generando texto en imágenes",
+        "category": "ai",
+        "subcategory": "image-generation",
+        "tags": [
           "ai",
-          "image-generation",
           "image",
           "text",
           "typography",
           "freemium"
-        ]
+        ],
+        "url": "https://ideogram.ai",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "ideogram ideogram el mejor generando texto en imágenes ai image-generation ai image text typography freemium"
       },
       {
         "id": "kimi",
+        "name": "Kimi",
         "slug": "kimi",
-        "terms": [
-          "Kimi",
-          "kimi",
-          "Modelo IA conversacional chino",
+        "description": "Modelo IA conversacional chino",
+        "category": "ai",
+        "subcategory": "assistants",
+        "tags": [
           "ai",
-          "assistants",
           "china",
           "chatbot",
           "moonshot"
-        ]
+        ],
+        "url": "https://www.kimi.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "kimi kimi modelo ia conversacional chino ai assistants ai china chatbot moonshot"
       },
       {
         "id": "kling-ai",
+        "name": "Kling AI",
         "slug": "kling-ai",
-        "terms": [
-          "Kling AI",
-          "kling-ai",
-          "Imagen y vídeo, calidad profesional",
+        "description": "Imagen y vídeo, calidad profesional",
+        "category": "ai",
+        "subcategory": "image-generation",
+        "tags": [
           "ai",
-          "image-generation",
           "image",
           "video",
           "professional",
           "freemium"
-        ]
+        ],
+        "url": "https://kling.kuaishou.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "kling ai kling-ai imagen y vídeo, calidad profesional ai image-generation ai image video professional freemium"
       },
       {
         "id": "manus",
+        "name": "Manus",
         "slug": "manus",
-        "terms": [
-          "Manus",
-          "manus",
-          "Multiagente IA completo autónomo",
+        "description": "Multiagente IA completo autónomo",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
           "ai",
-          "development",
           "multi-agent",
           "autonomous",
           "complete"
-        ]
+        ],
+        "url": "https://manus.im",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "manus manus multiagente ia completo autónomo ai development ai multi-agent autonomous complete"
       },
       {
         "id": "meshy",
+        "name": "Meshy",
         "slug": "meshy",
-        "terms": [
-          "Meshy",
-          "meshy",
-          "IA creación 3D modelos",
+        "description": "IA creación 3D modelos",
+        "category": "ai",
+        "subcategory": "image-generation",
+        "tags": [
           "ai",
-          "image-generation",
           "3d",
           "models",
           "freemium"
-        ]
+        ],
+        "url": "https://www.meshy.ai",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "meshy meshy ia creación 3d modelos ai image-generation ai 3d models freemium"
       },
       {
         "id": "midjourney",
+        "name": "Midjourney",
         "slug": "midjourney",
-        "terms": [
-          "Midjourney",
-          "midjourney",
-          "Generador de imágenes realistas",
+        "description": "Generador de imágenes realistas",
+        "category": "ai",
+        "subcategory": "image-generation",
+        "tags": [
           "ai",
-          "image-generation",
           "image",
           "realistic",
           "premium"
-        ]
+        ],
+        "url": "https://midjourney.com",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "midjourney midjourney generador de imágenes realistas ai image-generation ai image realistic premium"
       },
       {
         "id": "multica",
+        "name": "Multica",
         "slug": "multica",
-        "terms": [
-          "Multica",
-          "multica",
-          "Multi-agentes IA programación",
+        "description": "Multi-agentes IA programación",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
           "ai",
-          "development",
           "multi-agent",
           "programming"
-        ]
+        ],
+        "url": "https://multica.ai",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "multica multica multi-agentes ia programación ai development ai multi-agent programming"
       },
       {
         "id": "page-agent",
+        "name": "Page Agent",
         "slug": "page-agent",
-        "terms": [
-          "Page Agent",
-          "page-agent",
-          "Agente IA de web en GitHub",
+        "description": "Agente IA de web en GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
           "ai",
-          "development",
           "agent",
           "web",
           "alibaba"
-        ]
+        ],
+        "url": "https://github.com/alibaba/page-agent",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "page agent page-agent agente ia de web en github ai development ai agent web alibaba"
       },
       {
         "id": "pi",
+        "name": "Pi",
         "slug": "pi",
-        "terms": [
-          "Pi",
-          "pi",
-          "Plataforma IA conversacional personal",
+        "description": "Plataforma IA conversacional personal",
+        "category": "ai",
+        "subcategory": "assistants",
+        "tags": [
           "ai",
-          "assistants",
           "personal",
           "conversation",
           "inflection"
-        ]
+        ],
+        "url": "https://pi.dev",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pi pi plataforma ia conversacional personal ai assistants ai personal conversation inflection"
       },
       {
         "id": "pika-labs",
+        "name": "Pika Labs",
         "slug": "pika-labs",
-        "terms": [
-          "Pika Labs",
-          "pika-labs",
-          "Generación y animación de video",
+        "description": "Generación y animación de video",
+        "category": "ai",
+        "subcategory": "image-generation",
+        "tags": [
           "ai",
-          "image-generation",
           "video",
           "animation",
           "premium"
-        ]
+        ],
+        "url": "https://pika.art",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pika labs pika-labs generación y animación de video ai image-generation ai video animation premium"
       },
       {
         "id": "qwen",
+        "name": "Qwen",
         "slug": "qwen",
-        "terms": [
-          "Qwen",
-          "qwen",
-          "Modelo IA de Alibaba open source",
+        "description": "Modelo IA de Alibaba open source",
+        "category": "ai",
+        "subcategory": "assistants",
+        "tags": [
           "ai",
-          "assistants",
           "alibaba",
           "open-source",
           "llm"
-        ]
+        ],
+        "url": "https://chat.qwen.ai",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "qwen qwen modelo ia de alibaba open source ai assistants ai alibaba open-source llm"
       },
       {
         "id": "roybot",
+        "name": "Roybot",
         "slug": "roybot",
-        "terms": [
-          "Roybot",
-          "roybot",
-          "Agente IA oferta negocios",
+        "description": "Agente IA oferta negocios",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
           "ai",
-          "development",
           "agent",
           "business",
           "offers"
-        ]
+        ],
+        "url": "https://www.roybot.ai",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "roybot roybot agente ia oferta negocios ai development ai agent business offers"
       },
       {
         "id": "runway",
+        "name": "Runway",
         "slug": "runway",
-        "terms": [
-          "Runway",
-          "runway",
-          "Edición y generación de video",
+        "description": "Edición y generación de video",
+        "category": "ai",
+        "subcategory": "image-generation",
+        "tags": [
           "ai",
-          "image-generation",
           "video",
           "editing",
           "premium"
-        ]
+        ],
+        "url": "https://runwayml.com",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "runway runway edición y generación de video ai image-generation ai video editing premium"
       },
       {
         "id": "scrapling",
+        "name": "Scrapling",
         "slug": "scrapling",
-        "terms": [
-          "Scrapling",
-          "scrapling",
-          "Agente IA para hacer scraping",
+        "description": "Agente IA para hacer scraping",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
           "ai",
-          "development",
           "scraping",
           "agent",
           "data"
-        ]
+        ],
+        "url": "https://github.com/D4Vinci/Scrapling",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "scrapling scrapling agente ia para hacer scraping ai development ai scraping agent data"
       },
       {
         "id": "seedance-2-0",
+        "name": "Seedance 2.0",
         "slug": "seedance-2-0",
-        "terms": [
-          "Seedance 2.0",
-          "seedance-2-0",
-          "Generación video Bytedance",
+        "description": "Generación video Bytedance",
+        "category": "ai",
+        "subcategory": "china",
+        "tags": [
           "ai",
-          "china",
           "video",
-          "bytedance"
-        ]
+          "bytedance",
+          "china"
+        ],
+        "url": "https://seed.bytedance.com/en/seedance",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "seedance 2.0 seedance-2-0 generación video bytedance ai china ai video bytedance china"
       },
       {
         "id": "seedream",
+        "name": "Seedream",
         "slug": "seedream",
-        "terms": [
-          "Seedream",
-          "seedream",
-          "Imágenes, videos, retoque IA",
+        "description": "Imágenes, videos, retoque IA",
+        "category": "ai",
+        "subcategory": "china",
+        "tags": [
           "ai",
-          "china",
           "image",
           "video",
-          "editing"
-        ]
+          "editing",
+          "china"
+        ],
+        "url": "https://dreamina.capcut.com/es-es",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "seedream seedream imágenes, videos, retoque ia ai china ai image video editing china"
       },
       {
         "id": "sora",
+        "name": "Sora",
         "slug": "sora",
-        "terms": [
-          "Sora",
-          "sora",
-          "Generación de video hiperrealista OpenAI",
+        "description": "Generación de video hiperrealista OpenA",
+        "category": "ai",
+        "subcategory": "image-generation",
+        "tags": [
           "ai",
-          "image-generation",
           "video",
           "openai",
           "hyperrealistic",
           "premium"
-        ]
+        ],
+        "url": "https://openai.com/sora",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "sora sora generación de video hiperrealista opena ai image-generation ai video openai hyperrealistic premium"
       },
       {
         "id": "spline",
+        "name": "Spline",
         "slug": "spline",
-        "terms": [
-          "Spline",
-          "spline",
-          "IA builder design and 3D",
+        "description": "IA builder design and 3D",
+        "category": "ai",
+        "subcategory": "image-generation",
+        "tags": [
           "ai",
-          "image-generation",
           "3d",
           "design",
           "builder",
           "freemium"
-        ]
+        ],
+        "url": "https://spline.design",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "spline spline ia builder design and 3d ai image-generation ai 3d design builder freemium"
       },
       {
         "id": "wan-2-6",
+        "name": "Wan 2.6",
         "slug": "wan-2-6",
-        "terms": [
-          "Wan 2.6",
-          "wan-2-6",
-          "Generación de video IA",
+        "description": "Generación de video IA",
+        "category": "ai",
+        "subcategory": "china",
+        "tags": [
           "ai",
-          "china",
           "video",
+          "china",
           "generation"
-        ]
+        ],
+        "url": "https://wan.video",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "wan 2.6 wan-2-6 generación de video ia ai china ai video china generation"
       },
       {
         "id": "z-image-turbo",
+        "name": "Z-Image Turbo",
         "slug": "z-image-turbo",
-        "terms": [
-          "Z-Image Turbo",
-          "z-image-turbo",
-          "Alibaba Ultra-rápido, bilingüe",
+        "description": "Alibaba Ultra-rápido, bilingüe",
+        "category": "ai",
+        "subcategory": "image-generation",
+        "tags": [
           "ai",
-          "image-generation",
           "image",
           "alibaba",
           "fast",
           "freemium"
-        ]
+        ],
+        "url": "https://zimage.run",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "z-image turbo z-image-turbo alibaba ultra-rápido, bilingüe ai image-generation ai image alibaba fast freemium"
+      },
+      {
+        "id": "odysseus",
+        "name": "odysseus",
+        "slug": "odysseus",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/pewdiepie-archdaemon/odysseus.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "odysseus odysseus repositorio github ai development ai development github"
+      },
+      {
+        "id": "claude-mem",
+        "name": "claude-mem",
+        "slug": "claude-mem",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/thedotmack/claude-mem",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "claude-mem claude-mem repositorio github ai development ai development github"
+      },
+      {
+        "id": "songgeneration",
+        "name": "SongGeneration",
+        "slug": "songgeneration",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/tencent-ailab/SongGeneration",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "songgeneration songgeneration repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "hy-motion-1-0",
+        "name": "HY-Motion-1.0",
+        "slug": "hy-motion-1-0",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "hy-motion-1.0 hy-motion-1-0 repositorio github ai development ai development github"
+      },
+      {
+        "id": "agentcore-samples",
+        "name": "agentcore-samples",
+        "slug": "agentcore-samples",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/awslabs/agentcore-samples",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "agentcore-samples agentcore-samples repositorio github ai development ai development github"
+      },
+      {
+        "id": "opendataloader-pdf",
+        "name": "opendataloader-pdf",
+        "slug": "opendataloader-pdf",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "opendataloader-pdf opendataloader-pdf repositorio github ai development ai development github"
+      },
+      {
+        "id": "ppt-master",
+        "name": "ppt-master",
+        "slug": "ppt-master",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/hugohe3/ppt-master",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ppt-master ppt-master repositorio github ai development ai development github"
+      },
+      {
+        "id": "claude-code-from-sources",
+        "name": "claude-code-from-sources",
+        "slug": "claude-code-from-sources",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/alejandrobalderas/claude-code-from-sources",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "claude-code-from-sources claude-code-from-sources repositorio github ai development ai development github"
+      },
+      {
+        "id": "30-days-of-python",
+        "name": "30-Days-Of-Python",
+        "slug": "30-days-of-python",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "30-days-of-python 30-days-of-python repositorio github ai development ai development github"
+      },
+      {
+        "id": "ml-for-beginners",
+        "name": "ML-For-Beginners",
+        "slug": "ml-for-beginners",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/microsoft/ML-For-Beginners",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ml-for-beginners ml-for-beginners repositorio github ai development ai development github"
+      },
+      {
+        "id": "scibot",
+        "name": "SciBot",
+        "slug": "scibot",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/CFN-softbio/SciBot",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "scibot scibot repositorio github ai development ai development github"
+      },
+      {
+        "id": "huggingface-co-2",
+        "name": "huggingface-co-2",
+        "slug": "huggingface-co-2",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-VL-450M",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "huggingface-co-2 huggingface-co-2 recurso técnico ai development ai model huggingface open-source development"
+      },
+      {
+        "id": "scarf",
+        "name": "scarf",
+        "slug": "scarf",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/awizemann/scarf",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "scarf scarf repositorio github ai development ai development github"
+      },
+      {
+        "id": "open-notebook",
+        "name": "open-notebook",
+        "slug": "open-notebook",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/lfnovo/open-notebook.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "open-notebook open-notebook repositorio github ai development ai development github"
+      },
+      {
+        "id": "huggingface-co-3",
+        "name": "huggingface-co-3",
+        "slug": "huggingface-co-3",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "huggingface-co-3 huggingface-co-3 recurso técnico ai development ai model huggingface open-source development"
+      },
+      {
+        "id": "gpt-image2-skill",
+        "name": "GPT-Image2-Skill",
+        "slug": "gpt-image2-skill",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "gpt-image2-skill gpt-image2-skill repositorio github ai development ai development github"
+      },
+      {
+        "id": "vibe-coding",
+        "name": "vibe-coding",
+        "slug": "vibe-coding",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/EnzeD/vibe-coding",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "vibe-coding vibe-coding repositorio github ai development ai development github"
+      },
+      {
+        "id": "nn-zero-to-hero",
+        "name": "nn-zero-to-hero",
+        "slug": "nn-zero-to-hero",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/karpathy/nn-zero-to-hero",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "nn-zero-to-hero nn-zero-to-hero repositorio github ai development ai development github"
+      },
+      {
+        "id": "audiobookmaker",
+        "name": "audiobookmaker",
+        "slug": "audiobookmaker",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/JarodMica/audiobook_maker",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "audiobookmaker audiobookmaker repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "agentic-ai-landscape",
+        "name": "agentic-ai-landscape",
+        "slug": "agentic-ai-landscape",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/antgroup/agentic-ai-landscape",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "agentic-ai-landscape agentic-ai-landscape repositorio github ai development ai development github"
+      },
+      {
+        "id": "clypra",
+        "name": "Clypra",
+        "slug": "clypra",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/AIEraDev/Clypra",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "clypra clypra repositorio github ai development ai development github"
+      },
+      {
+        "id": "biniou",
+        "name": "biniou",
+        "slug": "biniou",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Woolverine94/biniou",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "biniou biniou repositorio github ai development ai development github"
+      },
+      {
+        "id": "huggingface-co-4",
+        "name": "huggingface-co-4",
+        "slug": "huggingface-co-4",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "huggingface-co-4 huggingface-co-4 recurso técnico ai development ai model huggingface open-source development"
+      },
+      {
+        "id": "hermes-webui",
+        "name": "hermes-webui",
+        "slug": "hermes-webui",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/nesquena/hermes-webui",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "hermes-webui hermes-webui repositorio github ai development ai development github"
+      },
+      {
+        "id": "kvarn",
+        "name": "KVarN",
+        "slug": "kvarn",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/huawei-csl/KVarN",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "kvarn kvarn repositorio github ai development ai development github"
+      },
+      {
+        "id": "huggingface-co-5",
+        "name": "huggingface-co-5",
+        "slug": "huggingface-co-5",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "huggingface-co-5 huggingface-co-5 recurso técnico ai development ai model huggingface open-source development"
+      },
+      {
+        "id": "visionary",
+        "name": "visionary",
+        "slug": "visionary",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Visionary-Laboratory/visionary",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "visionary visionary repositorio github ai development ai development github"
+      },
+      {
+        "id": "claude-red",
+        "name": "Claude-Red",
+        "slug": "claude-red",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/SnailSploit/Claude-Red",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "claude-red claude-red repositorio github ai development ai development github"
+      },
+      {
+        "id": "stirrup",
+        "name": "Stirrup",
+        "slug": "stirrup",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ArtificialAnalysis/Stirrup",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "stirrup stirrup repositorio github ai development ai development github"
+      },
+      {
+        "id": "ai-hub-models",
+        "name": "ai-hub-models",
+        "slug": "ai-hub-models",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/qualcomm/ai-hub-models",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ai-hub-models ai-hub-models repositorio github ai development ai development github"
+      },
+      {
+        "id": "memanto",
+        "name": "memanto",
+        "slug": "memanto",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/moorcheh-ai/memanto",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "memanto memanto repositorio github ai development ai development github"
+      },
+      {
+        "id": "huggingface-co-6",
+        "name": "huggingface-co-6",
+        "slug": "huggingface-co-6",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/collections/unsloth/gemma-4-qat",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "huggingface-co-6 huggingface-co-6 recurso técnico ai development ai model huggingface open-source development"
+      },
+      {
+        "id": "freetube",
+        "name": "FreeTube",
+        "slug": "freetube",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/FreeTubeApp/FreeTube",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "freetube freetube repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "dify",
+        "name": "dify",
+        "slug": "dify",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/langgenius/dify",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "dify dify repositorio github ai development ai development github"
+      },
+      {
+        "id": "gaianet-node",
+        "name": "gaianet-node",
+        "slug": "gaianet-node",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/GaiaNet-AI/gaianet-node",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "gaianet-node gaianet-node repositorio github ai development ai development github"
+      },
+      {
+        "id": "financial-machine-learning",
+        "name": "financial-machine-learning",
+        "slug": "financial-machine-learning",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/firmai/financial-machine-learning",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "financial-machine-learning financial-machine-learning repositorio github ai development ai development github"
+      },
+      {
+        "id": "codeflow",
+        "name": "codeflow",
+        "slug": "codeflow",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/braedonsaunders/codeflow",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "codeflow codeflow repositorio github ai development ai development github"
+      },
+      {
+        "id": "droidspaces-oss",
+        "name": "Droidspaces-OSS",
+        "slug": "droidspaces-oss",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ravindu644/Droidspaces-OSS",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "droidspaces-oss droidspaces-oss repositorio github ai development ai development github"
+      },
+      {
+        "id": "codex-plugin-cc",
+        "name": "codex-plugin-cc",
+        "slug": "codex-plugin-cc",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/openai/codex-plugin-cc",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "codex-plugin-cc codex-plugin-cc repositorio github ai development ai development github"
+      },
+      {
+        "id": "voice-pro",
+        "name": "voice-pro",
+        "slug": "voice-pro",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/abus-aikorea/voice-pro",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "voice-pro voice-pro repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "hermes-desktop",
+        "name": "hermes-desktop",
+        "slug": "hermes-desktop",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/fathah/hermes-desktop",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "hermes-desktop hermes-desktop repositorio github ai development ai development github"
+      },
+      {
+        "id": "webwright",
+        "name": "Webwright",
+        "slug": "webwright",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/microsoft/Webwright.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "webwright webwright repositorio github ai development ai development github"
+      },
+      {
+        "id": "ai-infra-engineer-learning",
+        "name": "ai-infra-engineer-learning",
+        "slug": "ai-infra-engineer-learning",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ai-infra-curriculum/ai-infra-engineer-learning",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ai-infra-engineer-learning ai-infra-engineer-learning repositorio github ai development ai development github"
+      },
+      {
+        "id": "ai-infra-curriculum",
+        "name": "ai-infra-curriculum",
+        "slug": "ai-infra-curriculum",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ai-infra-curriculum",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ai-infra-curriculum ai-infra-curriculum repositorio github ai development ai development github"
+      },
+      {
+        "id": "automaton",
+        "name": "automaton",
+        "slug": "automaton",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ConwayResearch/automaton",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "automaton automaton repositorio github ai development ai development github"
+      },
+      {
+        "id": "automaton-2",
+        "name": "automaton-2",
+        "slug": "automaton-2",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Conway-Research/automaton",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "automaton-2 automaton-2 repositorio github ai development ai development github"
+      },
+      {
+        "id": "notebooklm-py",
+        "name": "notebooklm-py",
+        "slug": "notebooklm-py",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/teng-lin/notebooklm-py",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "notebooklm-py notebooklm-py repositorio github ai development ai development github"
+      },
+      {
+        "id": "aicodeguide",
+        "name": "aicodeguide",
+        "slug": "aicodeguide",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/automata/aicodeguide",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "aicodeguide aicodeguide repositorio github ai development ai development github"
+      },
+      {
+        "id": "falcon-perception",
+        "name": "Falcon-Perception",
+        "slug": "falcon-perception",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/tiiuae/Falcon-Perception",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "falcon-perception falcon-perception repositorio github ai development ai development github"
+      },
+      {
+        "id": "machine-learning-refined",
+        "name": "machine-learning-refined",
+        "slug": "machine-learning-refined",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/neonwatty/machine-learning-refined",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "machine-learning-refined machine-learning-refined repositorio github ai development ai development github"
+      },
+      {
+        "id": "open-claude-code",
+        "name": "open-claude-code",
+        "slug": "open-claude-code",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ruvnet/open-claude-code",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "open-claude-code open-claude-code repositorio github ai development ai development github"
+      },
+      {
+        "id": "agent-rules-books",
+        "name": "agent-rules-books",
+        "slug": "agent-rules-books",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ciembor/agent-rules-books",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "agent-rules-books agent-rules-books repositorio github ai development ai development github"
+      },
+      {
+        "id": "mercury-agent-skills",
+        "name": "mercury-agent-skills",
+        "slug": "mercury-agent-skills",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "mercury-agent-skills mercury-agent-skills repositorio github ai development ai development github"
+      },
+      {
+        "id": "learn-claude-code",
+        "name": "learn-claude-code",
+        "slug": "learn-claude-code",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/shareAI-lab/learn-claude-code",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "learn-claude-code learn-claude-code repositorio github ai development ai development github"
+      },
+      {
+        "id": "council-of-high-intelligence",
+        "name": "council-of-high-intelligence",
+        "slug": "council-of-high-intelligence",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/0xNyk/council-of-high-intelligence",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "council-of-high-intelligence council-of-high-intelligence repositorio github ai development ai development github"
+      },
+      {
+        "id": "bmad-module-creative-intelligence-suite",
+        "name": "bmad-module-creative-intelligence-suite",
+        "slug": "bmad-module-creative-intelligence-suite",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/bmad-code-org/bmad-module-creative-intelligence-suite",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "bmad-module-creative-intelligence-suite bmad-module-creative-intelligence-suite repositorio github ai development ai development github"
+      },
+      {
+        "id": "x-voice",
+        "name": "X-Voice",
+        "slug": "x-voice",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/sunnyxrxrx/X-Voice",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "x-voice x-voice repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "make-pages-interactive",
+        "name": "make-pages-interactive",
+        "slug": "make-pages-interactive",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/paraschopra/make-pages-interactive",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "make-pages-interactive make-pages-interactive repositorio github ai development ai development github"
+      },
+      {
+        "id": "facex",
+        "name": "facex",
+        "slug": "facex",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/facex-engine/facex",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "facex facex repositorio github ai development ai development github"
+      },
+      {
+        "id": "server",
+        "name": "server",
+        "slug": "server",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Sync-in/server",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "server server repositorio github ai development ai development github"
+      },
+      {
+        "id": "defending-code-reference-harness",
+        "name": "defending-code-reference-harness",
+        "slug": "defending-code-reference-harness",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/anthropics/defending-code-reference-harness",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "defending-code-reference-harness defending-code-reference-harness repositorio github ai development ai development github"
+      },
+      {
+        "id": "openvid",
+        "name": "openvid",
+        "slug": "openvid",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/CristianOlivera1/openvid",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "openvid openvid repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "awesome-harness-engineering",
+        "name": "awesome-harness-engineering",
+        "slug": "awesome-harness-engineering",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ai-boost/awesome-harness-engineering",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "awesome-harness-engineering awesome-harness-engineering repositorio github ai development ai development github"
+      },
+      {
+        "id": "awesome-roadmaps",
+        "name": "awesome-roadmaps",
+        "slug": "awesome-roadmaps",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/liuchong/awesome-roadmaps",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "awesome-roadmaps awesome-roadmaps repositorio github ai development ai development github"
+      },
+      {
+        "id": "freephdlabor",
+        "name": "freephdlabor",
+        "slug": "freephdlabor",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ltjed/freephdlabor",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "freephdlabor freephdlabor repositorio github ai development ai development github"
+      },
+      {
+        "id": "vinci-clips",
+        "name": "vinci-clips",
+        "slug": "vinci-clips",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/tryvinci/vinci-clips",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "vinci-clips vinci-clips repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "claude-code-hooks",
+        "name": "claude-code-hooks",
+        "slug": "claude-code-hooks",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/shanraisshan/claude-code-hooks",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "claude-code-hooks claude-code-hooks repositorio github ai development ai development github"
+      },
+      {
+        "id": "sadtalker",
+        "name": "SadTalker",
+        "slug": "sadtalker",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/OpenTalker/SadTalker",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "sadtalker sadtalker repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "whisper",
+        "name": "whisper",
+        "slug": "whisper",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/openai/whisper",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "whisper whisper repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "skyvern",
+        "name": "skyvern",
+        "slug": "skyvern",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Skyvern-AI/skyvern",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "skyvern skyvern repositorio github ai development ai development github"
+      },
+      {
+        "id": "roborev",
+        "name": "roborev",
+        "slug": "roborev",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/kenn-io/roborev",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "roborev roborev repositorio github ai development ai development github"
+      },
+      {
+        "id": "parallel-code",
+        "name": "parallel-code",
+        "slug": "parallel-code",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/johannesjo/parallel-code",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "parallel-code parallel-code repositorio github ai development ai development github"
+      },
+      {
+        "id": "awesome-agent-orchestrators",
+        "name": "awesome-agent-orchestrators",
+        "slug": "awesome-agent-orchestrators",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/andyrewlee/awesome-agent-orchestrators",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "awesome-agent-orchestrators awesome-agent-orchestrators repositorio github ai development ai development github"
+      },
+      {
+        "id": "awesome-lm-ssp",
+        "name": "Awesome-LM-SSP",
+        "slug": "awesome-lm-ssp",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/CryptoAILab/Awesome-LM-SSP",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "awesome-lm-ssp awesome-lm-ssp repositorio github ai development ai development github"
+      },
+      {
+        "id": "logans-guide",
+        "name": "logans-guide",
+        "slug": "logans-guide",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/loganthorneloe/logans-guide",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "logans-guide logans-guide repositorio github ai development ai development github"
+      },
+      {
+        "id": "alphaclaw",
+        "name": "alphaclaw",
+        "slug": "alphaclaw",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/chrysb/alphaclaw",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "alphaclaw alphaclaw repositorio github ai development ai development github"
+      },
+      {
+        "id": "alook",
+        "name": "alook",
+        "slug": "alook",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/alookai/alook",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "alook alook repositorio github ai development ai development github"
+      },
+      {
+        "id": "sia",
+        "name": "sia",
+        "slug": "sia",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/hexo-ai/sia",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "sia sia repositorio github ai development ai development github"
+      },
+      {
+        "id": "openclaw-android",
+        "name": "openclaw-android",
+        "slug": "openclaw-android",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/AidanPark/openclaw-android",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "openclaw-android openclaw-android repositorio github ai development ai development github"
+      },
+      {
+        "id": "cookbook",
+        "name": "cookbook",
+        "slug": "cookbook",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Liquid4All/cookbook/tree/main/examples/browser-control",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "cookbook cookbook repositorio github ai development ai development github"
+      },
+      {
+        "id": "minicpm",
+        "name": "MiniCPM",
+        "slug": "minicpm",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/OpenBMB/MiniCPM",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "minicpm minicpm repositorio github ai development ai development github"
+      },
+      {
+        "id": "tegaki",
+        "name": "tegaki",
+        "slug": "tegaki",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/KurtGokhan/tegaki.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "tegaki tegaki repositorio github ai development ai development github"
+      },
+      {
+        "id": "hallmark",
+        "name": "hallmark",
+        "slug": "hallmark",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Nutlope/hallmark",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "hallmark hallmark repositorio github ai development ai development github"
+      },
+      {
+        "id": "scale-agentex",
+        "name": "scale-agentex",
+        "slug": "scale-agentex",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/scaleapi/scale-agentex",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "scale-agentex scale-agentex repositorio github ai development ai development github"
+      },
+      {
+        "id": "ghost-ai",
+        "name": "ghost-ai",
+        "slug": "ghost-ai",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/adrianhajdin/ghost-ai",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ghost-ai ghost-ai repositorio github ai development ai development github"
+      },
+      {
+        "id": "transformers-the-definitive-guide",
+        "name": "transformers-the-definitive-guide",
+        "slug": "transformers-the-definitive-guide",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Nicolepcx/transformers-the-definitive-guide",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "transformers-the-definitive-guide transformers-the-definitive-guide repositorio github ai development ai development github"
+      },
+      {
+        "id": "memmachine",
+        "name": "MemMachine",
+        "slug": "memmachine",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/MemMachine/MemMachine",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "memmachine memmachine repositorio github ai development ai development github"
+      },
+      {
+        "id": "openpi",
+        "name": "openpi",
+        "slug": "openpi",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Physical-Intelligence/openpi",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "openpi openpi repositorio github ai development ai development github"
+      },
+      {
+        "id": "fara",
+        "name": "fara",
+        "slug": "fara",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/microsoft/fara",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "fara fara repositorio github ai development ai development github"
+      },
+      {
+        "id": "agentlaboratory",
+        "name": "AgentLaboratory",
+        "slug": "agentlaboratory",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/SamuelSchmidgall/AgentLaboratory",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "agentlaboratory agentlaboratory repositorio github ai development ai development github"
+      },
+      {
+        "id": "best-of-ml-python",
+        "name": "best-of-ml-python",
+        "slug": "best-of-ml-python",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/lukasmasuch/best-of-ml-python",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "best-of-ml-python best-of-ml-python repositorio github ai development ai development github"
+      },
+      {
+        "id": "huggingface-co",
+        "name": "huggingface-co",
+        "slug": "huggingface-co",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/datalab-to/surya-ocr-2",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "huggingface-co huggingface-co recurso técnico ai development ai model huggingface open-source development"
+      },
+      {
+        "id": "skillopt",
+        "name": "SkillOpt",
+        "slug": "skillopt",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/microsoft/SkillOpt",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "skillopt skillopt repositorio github ai development ai development github"
+      },
+      {
+        "id": "codexguide",
+        "name": "CodexGuide",
+        "slug": "codexguide",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/freestylefly/CodexGuide",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "codexguide codexguide repositorio github ai development ai development github"
+      },
+      {
+        "id": "agenvoy",
+        "name": "Agenvoy",
+        "slug": "agenvoy",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/pardnchiu/Agenvoy",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "agenvoy agenvoy repositorio github ai development ai development github"
+      },
+      {
+        "id": "skillnet",
+        "name": "SkillNet",
+        "slug": "skillnet",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/zjunlp/SkillNet",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "skillnet skillnet repositorio github ai development ai development github"
+      },
+      {
+        "id": "agentwasp",
+        "name": "agentwasp",
+        "slug": "agentwasp",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/agentwasp/agentwasp",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "agentwasp agentwasp repositorio github ai development ai development github"
+      },
+      {
+        "id": "seo-geo-claude-skills",
+        "name": "seo-geo-claude-skills",
+        "slug": "seo-geo-claude-skills",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "seo-geo-claude-skills seo-geo-claude-skills repositorio github ai development ai development github"
+      },
+      {
+        "id": "project-nomad",
+        "name": "project-nomad",
+        "slug": "project-nomad",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "project-nomad project-nomad repositorio github ai development ai development github"
+      },
+      {
+        "id": "plugins",
+        "name": "plugins",
+        "slug": "plugins",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/cursor/plugins",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "plugins plugins repositorio github ai development ai development github"
+      },
+      {
+        "id": "terax-ai",
+        "name": "terax-ai",
+        "slug": "terax-ai",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/crynta/terax-ai",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "terax-ai terax-ai repositorio github ai development ai development github"
+      },
+      {
+        "id": "ecc",
+        "name": "ECC",
+        "slug": "ecc",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/affaan-m/ECC",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ecc ecc repositorio github ai development ai development github"
+      },
+      {
+        "id": "context7-skill",
+        "name": "context7-skill",
+        "slug": "context7-skill",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/netresearch/context7-skill",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "context7-skill context7-skill repositorio github ai development ai development github"
+      },
+      {
+        "id": "science-skills",
+        "name": "science-skills",
+        "slug": "science-skills",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/google-deepmind/science-skills",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "science-skills science-skills repositorio github ai development ai development github"
+      },
+      {
+        "id": "skillspector",
+        "name": "skillspector",
+        "slug": "skillspector",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/nvidia/skillspector",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "skillspector skillspector repositorio github ai development ai development github"
+      },
+      {
+        "id": "openlogi",
+        "name": "OpenLogi",
+        "slug": "openlogi",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/AprilNEA/OpenLogi",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "openlogi openlogi repositorio github ai development ai development github"
+      },
+      {
+        "id": "epicstaff",
+        "name": "EpicStaff",
+        "slug": "epicstaff",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/EpicStaff/EpicStaff",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "epicstaff epicstaff repositorio github ai development ai development github"
+      },
+      {
+        "id": "motion-diffusion-model",
+        "name": "motion-diffusion-model",
+        "slug": "motion-diffusion-model",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/GuyTevet/motion-diffusion-model",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "motion-diffusion-model motion-diffusion-model repositorio github ai development ai development github"
+      },
+      {
+        "id": "graph-r1",
+        "name": "Graph-R1",
+        "slug": "graph-r1",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/LHRLAB/Graph-R1",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "graph-r1 graph-r1 repositorio github ai development ai development github"
+      },
+      {
+        "id": "claude-howto",
+        "name": "claude-howto",
+        "slug": "claude-howto",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/luongnv89/claude-howto",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "claude-howto claude-howto repositorio github ai development ai development github"
+      },
+      {
+        "id": "awesome-claude-skills",
+        "name": "awesome-claude-skills",
+        "slug": "awesome-claude-skills",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/travisvn/awesome-claude-skills",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "awesome-claude-skills awesome-claude-skills repositorio github ai development ai development github"
+      },
+      {
+        "id": "understand-anything",
+        "name": "Understand-Anything",
+        "slug": "understand-anything",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Lum1104/Understand-Anything",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "understand-anything understand-anything repositorio github ai development ai development github"
+      },
+      {
+        "id": "trek",
+        "name": "TREK",
+        "slug": "trek",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/mauriceboe/TREK",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "trek trek repositorio github ai development ai development github"
+      },
+      {
+        "id": "kwipu",
+        "name": "Kwipu",
+        "slug": "kwipu",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/benmaster82/Kwipu",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "kwipu kwipu repositorio github ai development ai development github"
+      },
+      {
+        "id": "thuki",
+        "name": "thuki",
+        "slug": "thuki",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/quiet-node/thuki",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "thuki thuki repositorio github ai development ai development github"
+      },
+      {
+        "id": "agentic-ai-apis",
+        "name": "agentic-ai-apis",
+        "slug": "agentic-ai-apis",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/cporter202/agentic-ai-apis",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "agentic-ai-apis agentic-ai-apis repositorio github ai development ai development github"
+      },
+      {
+        "id": "atlas-agents",
+        "name": "atlas-agents",
+        "slug": "atlas-agents",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/agulli/atlas-agents",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "atlas-agents atlas-agents repositorio github ai development ai development github"
+      },
+      {
+        "id": "huggingface-co-7",
+        "name": "huggingface-co-7",
+        "slug": "huggingface-co-7",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-VL-450M-Extract",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "huggingface-co-7 huggingface-co-7 recurso técnico ai development ai model huggingface open-source development"
+      },
+      {
+        "id": "deepseek-desktop",
+        "name": "deepseek-desktop",
+        "slug": "deepseek-desktop",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/doxdk/deepseek-desktop",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "deepseek-desktop deepseek-desktop repositorio github ai development ai development github"
+      },
+      {
+        "id": "espectre",
+        "name": "espectre",
+        "slug": "espectre",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/francescopace/espectre",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "espectre espectre repositorio github ai development ai development github"
+      },
+      {
+        "id": "geo-seo-claude",
+        "name": "geo-seo-claude",
+        "slug": "geo-seo-claude",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/zubair-trabzada/geo-seo-claude",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "geo-seo-claude geo-seo-claude repositorio github ai development ai development github"
+      },
+      {
+        "id": "deepscientist",
+        "name": "DeepScientist",
+        "slug": "deepscientist",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ResearAI/DeepScientist",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "deepscientist deepscientist repositorio github ai development ai development github"
+      },
+      {
+        "id": "everyonesllm",
+        "name": "EveryonesLLM",
+        "slug": "everyonesllm",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/HayatoHongo/EveryonesLLM",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "everyonesllm everyonesllm repositorio github ai development ai development github"
+      },
+      {
+        "id": "shannon",
+        "name": "Shannon",
+        "slug": "shannon",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Kocoro-lab/Shannon",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "shannon shannon repositorio github ai development ai development github"
+      },
+      {
+        "id": "opencode-mem",
+        "name": "opencode-mem",
+        "slug": "opencode-mem",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/tickernelz/opencode-mem",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "opencode-mem opencode-mem repositorio github ai development ai development github"
+      },
+      {
+        "id": "agentic-context-engine",
+        "name": "agentic-context-engine",
+        "slug": "agentic-context-engine",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/kayba-ai/agentic-context-engine",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "agentic-context-engine agentic-context-engine repositorio github ai development ai development github"
+      },
+      {
+        "id": "last30days-skill",
+        "name": "last30days-skill",
+        "slug": "last30days-skill",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "last30days-skill last30days-skill repositorio github ai development ai development github"
+      },
+      {
+        "id": "videos",
+        "name": "videos",
+        "slug": "videos",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/3b1b/videos",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "videos videos repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "statistics-books",
+        "name": "Statistics-Books",
+        "slug": "statistics-books",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/HamdaanMohideen/Statistics-Books.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "statistics-books statistics-books repositorio github ai development ai development github"
+      },
+      {
+        "id": "huggingface-co-8",
+        "name": "huggingface-co-8",
+        "slug": "huggingface-co-8",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "huggingface-co-8 huggingface-co-8 recurso técnico ai development ai model huggingface open-source development"
+      },
+      {
+        "id": "guppylm",
+        "name": "guppylm",
+        "slug": "guppylm",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/arman-bd/guppylm",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "guppylm guppylm repositorio github ai development ai development github"
+      },
+      {
+        "id": "openclaw-medical-skills",
+        "name": "OpenClaw-Medical-Skills",
+        "slug": "openclaw-medical-skills",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "openclaw-medical-skills openclaw-medical-skills repositorio github ai development ai development github"
+      },
+      {
+        "id": "fireworks-tech-graph",
+        "name": "fireworks-tech-graph",
+        "slug": "fireworks-tech-graph",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "fireworks-tech-graph fireworks-tech-graph repositorio github ai development ai development github"
+      },
+      {
+        "id": "claude-seo",
+        "name": "claude-seo",
+        "slug": "claude-seo",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/AgriciDaniel/claude-seo",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "claude-seo claude-seo repositorio github ai development ai development github"
+      },
+      {
+        "id": "mnemosyne",
+        "name": "mnemosyne",
+        "slug": "mnemosyne",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/28naem-del/mnemosyne",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "mnemosyne mnemosyne repositorio github ai development ai development github"
+      },
+      {
+        "id": "openclaw-rl",
+        "name": "OpenClaw-RL",
+        "slug": "openclaw-rl",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Gen-Verse/OpenClaw-RL",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "openclaw-rl openclaw-rl repositorio github ai development ai development github"
+      },
+      {
+        "id": "opensquilla",
+        "name": "opensquilla",
+        "slug": "opensquilla",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/opensquilla/opensquilla/tree/integration/dev-rollup-20260528",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "opensquilla opensquilla repositorio github ai development ai development github"
+      },
+      {
+        "id": "hands-on-modern-rl",
+        "name": "hands-on-modern-rl",
+        "slug": "hands-on-modern-rl",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/walkinglabs/hands-on-modern-rl",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "hands-on-modern-rl hands-on-modern-rl repositorio github ai development ai development github"
+      },
+      {
+        "id": "luxtts",
+        "name": "LuxTTS",
+        "slug": "luxtts",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/ysharma3501/LuxTTS",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "luxtts luxtts repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "httpmemes",
+        "name": "httpmemes",
+        "slug": "httpmemes",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/keijeizei/httpmemes.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "httpmemes httpmemes repositorio github ai development ai development github"
+      },
+      {
+        "id": "web-quality-skills",
+        "name": "web-quality-skills",
+        "slug": "web-quality-skills",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/addyosmani/web-quality-skills",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "web-quality-skills web-quality-skills repositorio github ai development ai development github"
+      },
+      {
+        "id": "dflash",
+        "name": "dflash",
+        "slug": "dflash",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/z-lab/dflash",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "dflash dflash repositorio github ai development ai development github"
+      },
+      {
+        "id": "dllm",
+        "name": "dllm",
+        "slug": "dllm",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ZHZisZZ/dllm",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "dllm dllm repositorio github ai development ai development github"
+      },
+      {
+        "id": "webclaw",
+        "name": "webclaw",
+        "slug": "webclaw",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/0xMassi/webclaw",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "webclaw webclaw repositorio github ai development ai development github"
+      },
+      {
+        "id": "claude-code-video-toolkit",
+        "name": "claude-code-video-toolkit",
+        "slug": "claude-code-video-toolkit",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/digitalsamba/claude-code-video-toolkit",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "claude-code-video-toolkit claude-code-video-toolkit repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "antigravity-awesome-skills",
+        "name": "antigravity-awesome-skills",
+        "slug": "antigravity-awesome-skills",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/sickn33/antigravity-awesome-skills",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "antigravity-awesome-skills antigravity-awesome-skills repositorio github ai development ai development github"
+      },
+      {
+        "id": "llms-local",
+        "name": "LLMs-local",
+        "slug": "llms-local",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/0xSojalSec/LLMs-local",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "llms-local llms-local repositorio github ai development ai development github"
+      },
+      {
+        "id": "video2x",
+        "name": "video2x",
+        "slug": "video2x",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/k4yt3x/video2x",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "video2x video2x repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "memento-skills",
+        "name": "Memento-Skills",
+        "slug": "memento-skills",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Memento-Teams/Memento-Skills",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "memento-skills memento-skills repositorio github ai development ai development github"
+      },
+      {
+        "id": "viper",
+        "name": "Viper",
+        "slug": "viper",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/FunnyWolf/Viper",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "viper viper repositorio github ai development ai development github"
+      },
+      {
+        "id": "cuda-course",
+        "name": "cuda-course",
+        "slug": "cuda-course",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Infatoshi/cuda-course",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "cuda-course cuda-course repositorio github ai development ai development github"
+      },
+      {
+        "id": "ai-engineering-interview-questions",
+        "name": "ai-engineering-interview-questions",
+        "slug": "ai-engineering-interview-questions",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ai-engineering-interview-questions ai-engineering-interview-questions repositorio github ai development ai development github"
+      },
+      {
+        "id": "awesome-agent-skills",
+        "name": "awesome-agent-skills",
+        "slug": "awesome-agent-skills",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/heilcheng/awesome-agent-skills",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "awesome-agent-skills awesome-agent-skills repositorio github ai development ai development github"
+      },
+      {
+        "id": "easy-agent",
+        "name": "easy-agent",
+        "slug": "easy-agent",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ConardLi/easy-agent",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "easy-agent easy-agent repositorio github ai development ai development github"
+      },
+      {
+        "id": "computer-science",
+        "name": "computer-science",
+        "slug": "computer-science",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/ossu/computer-science",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "computer-science computer-science repositorio github ai development ai development github"
+      },
+      {
+        "id": "ane",
+        "name": "ANE",
+        "slug": "ane",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/maderix/ANE",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ane ane repositorio github ai development ai development github"
+      },
+      {
+        "id": "tradememory-protocol",
+        "name": "tradememory-protocol",
+        "slug": "tradememory-protocol",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/mnemox-ai/tradememory-protocol",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "tradememory-protocol tradememory-protocol repositorio github ai development ai development github"
+      },
+      {
+        "id": "huggingface-co-9",
+        "name": "huggingface-co-9",
+        "slug": "huggingface-co-9",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "huggingface-co-9 huggingface-co-9 recurso técnico ai development ai model huggingface open-source development"
+      },
+      {
+        "id": "huggingface-co-10",
+        "name": "huggingface-co-10",
+        "slug": "huggingface-co-10",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "huggingface-co-10 huggingface-co-10 recurso técnico ai development ai model huggingface open-source development"
+      },
+      {
+        "id": "omnilingual-asr",
+        "name": "omnilingual-asr",
+        "slug": "omnilingual-asr",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "video",
+          "audio",
+          "github",
+          "development"
+        ],
+        "url": "https://github.com/facebookresearch/omnilingual-asr",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "omnilingual-asr omnilingual-asr repositorio github ai development ai video audio github development"
+      },
+      {
+        "id": "quantaalpha",
+        "name": "QuantaAlpha",
+        "slug": "quantaalpha",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/QuantaAlpha/QuantaAlpha",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "quantaalpha quantaalpha repositorio github ai development ai development github"
+      },
+      {
+        "id": "huggingface-co-11",
+        "name": "huggingface-co-11",
+        "slug": "huggingface-co-11",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/datasets/Glint-Research/Fable-5-traces",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "huggingface-co-11 huggingface-co-11 recurso técnico ai development ai model huggingface open-source development"
+      },
+      {
+        "id": "opendev",
+        "name": "opendev",
+        "slug": "opendev",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/opendev-to/opendev",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "opendev opendev repositorio github ai development ai development github"
+      },
+      {
+        "id": "viewer",
+        "name": "viewer",
+        "slug": "viewer",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/zetane/viewer",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "viewer viewer repositorio github ai development ai development github"
+      },
+      {
+        "id": "awesomeaiagents",
+        "name": "awesomeaiagents",
+        "slug": "awesomeaiagents",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/jim-schwoebel/awesome_ai_agents",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "awesomeaiagents awesomeaiagents repositorio github ai development ai development github"
+      },
+      {
+        "id": "knowledge-catalog",
+        "name": "knowledge-catalog",
+        "slug": "knowledge-catalog",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "knowledge-catalog knowledge-catalog repositorio github ai development ai development github"
+      },
+      {
+        "id": "drawio-skill",
+        "name": "drawio-skill",
+        "slug": "drawio-skill",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Agents365-ai/drawio-skill",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "drawio-skill drawio-skill repositorio github ai development ai development github"
+      },
+      {
+        "id": "cua",
+        "name": "cua",
+        "slug": "cua",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/trycua/cua",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "cua cua repositorio github ai development ai development github"
+      },
+      {
+        "id": "coursebook",
+        "name": "coursebook",
+        "slug": "coursebook",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/illinois-cs241/coursebook",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "coursebook coursebook repositorio github ai development ai development github"
+      },
+      {
+        "id": "ponytail",
+        "name": "ponytail",
+        "slug": "ponytail",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ponytail ponytail repositorio github ai development ai development github"
+      },
+      {
+        "id": "learn-harness-engineering",
+        "name": "learn-harness-engineering",
+        "slug": "learn-harness-engineering",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/walkinglabs/learn-harness-engineering",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "learn-harness-engineering learn-harness-engineering repositorio github ai development ai development github"
+      },
+      {
+        "id": "gist-github-com",
+        "name": "gist-github-com",
+        "slug": "gist-github-com",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "gist-github-com gist-github-com recurso técnico ai development ai development github"
+      },
+      {
+        "id": "fusion-fable",
+        "name": "fusion-fable",
+        "slug": "fusion-fable",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/duolahypercho/fusion-fable",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "fusion-fable fusion-fable repositorio github ai development ai development github"
+      },
+      {
+        "id": "watercrawl",
+        "name": "WaterCrawl",
+        "slug": "watercrawl",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/watercrawl/WaterCrawl",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "watercrawl watercrawl repositorio github ai development ai development github"
+      },
+      {
+        "id": "narrator-ai-cli-skill",
+        "name": "narrator-ai-cli-skill",
+        "slug": "narrator-ai-cli-skill",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "narrator-ai-cli-skill narrator-ai-cli-skill repositorio github ai development ai development github"
+      },
+      {
+        "id": "neolabh",
+        "name": "NeoLabH",
+        "slug": "neolabh",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/NeoLabH",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "neolabh neolabh repositorio github ai development ai development github"
+      },
+      {
+        "id": "meta-harness",
+        "name": "meta-harness",
+        "slug": "meta-harness",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/stanford-iris-lab/meta-harness",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "meta-harness meta-harness repositorio github ai development ai development github"
+      },
+      {
+        "id": "generative-ai",
+        "name": "generative-ai",
+        "slug": "generative-ai",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/genieincodebottle/generative-ai",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "generative-ai generative-ai repositorio github ai development ai development github"
+      },
+      {
+        "id": "harness-100",
+        "name": "harness-100",
+        "slug": "harness-100",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/revfactory/harness-100",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "harness-100 harness-100 repositorio github ai development ai development github"
+      },
+      {
+        "id": "praisonai",
+        "name": "PraisonAI",
+        "slug": "praisonai",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/MervinPraison/PraisonAI",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "praisonai praisonai repositorio github ai development ai development github"
+      },
+      {
+        "id": "swe-af",
+        "name": "SWE-AF",
+        "slug": "swe-af",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/Agent-Field/SWE-AF",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "swe-af swe-af repositorio github ai development ai development github"
+      },
+      {
+        "id": "mnemory",
+        "name": "mnemory",
+        "slug": "mnemory",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/fpytloun/mnemory",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "mnemory mnemory repositorio github ai development ai development github"
+      },
+      {
+        "id": "gortex",
+        "name": "gortex",
+        "slug": "gortex",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/zzet/gortex",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "gortex gortex repositorio github ai development ai development github"
+      },
+      {
+        "id": "future-agi",
+        "name": "future-agi",
+        "slug": "future-agi",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/future-agi/future-agi",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "future-agi future-agi repositorio github ai development ai development github"
+      },
+      {
+        "id": "claude-supermemory",
+        "name": "claude-supermemory",
+        "slug": "claude-supermemory",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/supermemoryai/claude-supermemory",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "claude-supermemory claude-supermemory repositorio github ai development ai development github"
+      },
+      {
+        "id": "zvec",
+        "name": "zvec",
+        "slug": "zvec",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/alibaba/zvec",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "zvec zvec repositorio github ai development ai development github"
+      },
+      {
+        "id": "priompt",
+        "name": "priompt",
+        "slug": "priompt",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/anysphere/priompt",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "priompt priompt repositorio github ai development ai development github"
+      },
+      {
+        "id": "twenty",
+        "name": "twenty",
+        "slug": "twenty",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/twentyhq/twenty",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "twenty twenty repositorio github ai development ai development github"
+      },
+      {
+        "id": "litellm-agent-control-plane",
+        "name": "litellm-agent-control-plane",
+        "slug": "litellm-agent-control-plane",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/LiteLLM-Labs/litellm-agent-control-plane",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "litellm-agent-control-plane litellm-agent-control-plane repositorio github ai development ai development github"
+      },
+      {
+        "id": "dograh",
+        "name": "dograh",
+        "slug": "dograh",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/dograh-hq/dograh",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "dograh dograh repositorio github ai development ai development github"
+      },
+      {
+        "id": "product-mode",
+        "name": "product-mode",
+        "slug": "product-mode",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/sohaibt/product-mode",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "product-mode product-mode repositorio github ai development ai development github"
+      },
+      {
+        "id": "governor",
+        "name": "governor",
+        "slug": "governor",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/0xhimanshu/governor",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "governor governor repositorio github ai development ai development github"
+      },
+      {
+        "id": "huggingface-co-12",
+        "name": "huggingface-co-12",
+        "slug": "huggingface-co-12",
+        "description": "Recurso técnico",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/Mia-AiLab/Gemmable-4-12B-MTP-GGUF",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "huggingface-co-12 huggingface-co-12 recurso técnico ai development ai model huggingface open-source development"
+      },
+      {
+        "id": "vllm",
+        "name": "vllm",
+        "slug": "vllm",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/vllm-project/vllm.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "vllm vllm repositorio github ai development ai development github"
+      },
+      {
+        "id": "sileo",
+        "name": "sileo",
+        "slug": "sileo",
+        "description": "Repositorio GitHub",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "development",
+          "github"
+        ],
+        "url": "https://github.com/hiaaryan/sileo",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "sileo sileo repositorio github ai development ai development github"
+      },
+      {
+        "id": "kimi-k2-gguf",
+        "name": "kimi-k2-gguf",
+        "slug": "kimi-k2-gguf",
+        "description": "Modelo Kimi K2.7 Code GGUF",
+        "category": "ai",
+        "subcategory": "development",
+        "tags": [
+          "ai",
+          "model",
+          "huggingface",
+          "open-source",
+          "development"
+        ],
+        "url": "https://huggingface.co/unsloth/Kimi-K2.7-Code-GGUF",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "kimi-k2-gguf kimi-k2-gguf modelo kimi k2.7 code gguf ai development ai model huggingface open-source development"
       }
     ]
   },
@@ -943,19 +5004,23 @@
       "es"
     ],
     "status": [
-      "active"
+      "active",
+      "warning",
+      "deprecated"
     ],
     "verified": [
-      true
+      true,
+      false
     ],
     "noCreditCard": [
+      true,
       false
     ]
   },
   "ui": {
     "dataset": "ia_asistentes-desarrollo-china-imagen_1",
-    "title": "🤖 Inteligencia Artificial",
-    "description": "@{totalResources=48; bySubcategory=; byPricing=; averagePopularity=88.5}",
-    "resourceCount": 38
+    "title": "AI Resources - DevResources 2026",
+    "description": "Recursos de AI para desarrolladores",
+    "resourceCount": 234
   }
 }

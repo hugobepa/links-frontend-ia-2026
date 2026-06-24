@@ -4,7 +4,7 @@
       "id": "devops",
       "name": "Devops",
       "slug": "devops",
-      "resourceCount": 13,
+      "resourceCount": 14,
       "status": "active"
     },
     {
@@ -68,7 +68,7 @@
       "name": "Tools",
       "slug": "tools",
       "category": "translation",
-      "resourceCount": 2,
+      "resourceCount": 3,
       "status": "active"
     }
   ],
@@ -1283,6 +1283,38 @@
       "limits": "Completamente gratis, open source",
       "added": "2026-01-10",
       "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "container",
+      "name": "container",
+      "slug": "container",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/apple/container.git",
+      "status": "active",
+      "tags": [
+        "devops",
+        "github",
+        "tools"
+      ],
+      "searchIndex": [
+        "container",
+        "container",
+        "Repositorio GitHub",
+        "devops",
+        "tools",
+        "devops",
+        "github"
+      ],
+      "category": "devops",
+      "subcategory": "tools",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
       "noCreditCard": true
     }
   ]

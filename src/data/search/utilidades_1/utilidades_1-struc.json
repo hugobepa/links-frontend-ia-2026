@@ -386,7 +386,7 @@
       "description": "Etiqueta productividad"
     },
     "productivity": {
-      "count": 28,
+      "count": 42,
       "color": "#7c3aed",
       "description": "Etiqueta productivity"
     },
@@ -536,7 +536,7 @@
       "description": "Etiqueta utilidades-herramientas"
     },
     "utilities": {
-      "count": 11,
+      "count": 25,
       "color": "#db2777",
       "description": "Etiqueta utilities"
     },
@@ -599,6 +599,16 @@
       "count": 10,
       "color": "#db2777",
       "description": "Etiqueta y-utilidades-herramientas"
+    },
+    "tools": {
+      "count": 13,
+      "color": "#dc2626",
+      "description": "Etiqueta tools"
+    },
+    "github": {
+      "count": 13,
+      "color": "#2563eb",
+      "description": "Etiqueta github"
     }
   },
   "searchIndex": {
@@ -637,826 +647,1514 @@
     "entries": [
       {
         "id": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
+        "name": "1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
         "slug": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
-        "terms": [
-          "1-UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
-          "1-ur7kns9v3viuyppp0dtgbkdd1jozupx",
-          "Recurso tecnico",
+        "description": "Recurso tecnico",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "utilities",
           "productivity",
           "y-utilidades-herramientas",
-          "almacenamiento-archivos"
-        ]
+          "almacenamiento-archivos",
+          "1-ur7kns9v3viuyppp0dtgbkdd1jozupx"
+        ],
+        "url": "https://drive.google.com/drive/mobile/folders/1_UR7Kns9v3vIUyPPP0dTGBKdD1JOZupx",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "1-ur7kns9v3viuyppp0dtgbkdd1jozupx 1-ur7kns9v3viuyppp0dtgbkdd1jozupx recurso tecnico utilities productivity utilities productivity y-utilidades-herramientas almacenamiento-archivos 1-ur7kns9v3viuyppp0dtgbkdd1jozupx"
       },
       {
         "id": "airtable",
+        "name": "Airtable",
         "slug": "airtable",
-        "terms": [
-          "Airtable",
-          "airtable",
-          "Bases de datos visuales con 1k records gratis",
-          "utilities",
+        "description": "Bases de datos visuales con 1k records g",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "database",
           "spreadsheet",
           "collaboration"
-        ]
+        ],
+        "url": "https://airtable.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "airtable airtable bases de datos visuales con 1k records g utilities productivity productivity database spreadsheet collaboration"
       },
       {
         "id": "appflowy",
+        "name": "AppFlowy",
         "slug": "appflowy",
-        "terms": [
-          "AppFlowy",
-          "appflowy",
-          "Alternativa Notion open source",
-          "utilities",
+        "description": "Alternativa Notion open source",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "open-source",
           "notion-alternative",
           "self-hosted"
-        ]
+        ],
+        "url": "https://github.com/AppFlowy-IO/AppFlowy",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "appflowy appflowy alternativa notion open source utilities productivity productivity open-source notion-alternative self-hosted"
       },
       {
         "id": "atlasos",
+        "name": "AtlasOS",
         "slug": "atlasos",
-        "terms": [
-          "AtlasOS",
-          "atlasos",
-          "Optimización Windows open source",
+        "description": "Optimización Windows open source",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "utilities",
           "productivity",
           "y-utilidades-herramientas",
-          "productividad"
-        ]
+          "productividad",
+          "atlasos"
+        ],
+        "url": "https://atlasos.dev",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "atlasos atlasos optimización windows open source utilities productivity utilities productivity y-utilidades-herramientas productividad atlasos"
       },
       {
         "id": "bishoy-bishai-blog",
+        "name": "bishoy-bishai-blog",
         "slug": "bishoy-bishai-blog",
-        "terms": [
-          "bishoy-bishai-blog",
-          "Blog portfolio desarrollador",
+        "description": "Blog portfolio desarrollador",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "utilities",
           "productivity",
           "y-utilidades-herramientas",
-          "y-recursos-generales"
-        ]
+          "y-recursos-generales",
+          "bishoy-bishai-blog"
+        ],
+        "url": "https://bishoy-bishai.github.io/portfolio/blog/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "bishoy-bishai-blog bishoy-bishai-blog blog portfolio desarrollador utilities productivity utilities productivity y-utilidades-herramientas y-recursos-generales bishoy-bishai-blog"
       },
       {
         "id": "blind-text-generator",
+        "name": "Blind Text Generator",
         "slug": "blind-text-generator",
-        "terms": [
-          "Blind Text Generator",
-          "blind-text-generator",
-          "Texto dummy en múltiples idiomas",
-          "utilities",
+        "description": "Texto dummy en múltiples idiomas",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "multi-language",
           "text",
           "dummy",
           "placeholder"
-        ]
+        ],
+        "url": "https://www.blindtextgenerator.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "blind text generator blind-text-generator texto dummy en múltiples idiomas utilities fake-data fake-data multi-language text dummy placeholder"
       },
       {
         "id": "burst-shopify",
+        "name": "Burst (Shopify)",
         "slug": "burst-shopify",
-        "terms": [
-          "Burst (Shopify)",
-          "burst-shopify",
-          "Fotos para e-commerce libres derechos",
-          "utilities",
-          "images-placeholders",
+        "description": "Fotos para e-commerce libres derechos",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "images",
           "ecommerce",
           "free",
           "business",
           "shopify"
-        ]
+        ],
+        "url": "https://burst.shopify.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "burst (shopify) burst-shopify fotos para e-commerce libres derechos utilities images-placeholders images ecommerce free business shopify"
       },
       {
         "id": "calendly",
+        "name": "Calendly",
         "slug": "calendly",
-        "terms": [
-          "Calendly",
-          "calendly",
-          "Agenda reuniones con 1 tipo de evento gratis",
-          "utilities",
+        "description": "Agenda reuniones con 1 tipo de evento gr",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "scheduling",
           "meetings",
           "calendar"
-        ]
+        ],
+        "url": "https://calendly.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "calendly calendly agenda reuniones con 1 tipo de evento gr utilities productivity productivity scheduling meetings calendar"
       },
       {
         "id": "carrd",
+        "name": "Carrd",
         "slug": "carrd",
-        "terms": [
-          "Carrd",
-          "carrd",
-          "Websites de una página con 3 sitios gratis",
-          "utilities",
+        "description": "Websites de una página con 3 sitios gra",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "website",
           "landing-page",
           "one-page"
-        ]
+        ],
+        "url": "https://carrd.co",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "carrd carrd websites de una página con 3 sitios gra utilities productivity productivity website landing-page one-page"
       },
       {
         "id": "chance-js",
+        "name": "Chance.js",
         "slug": "chance-js",
-        "terms": [
-          "Chance.js",
-          "chance-js",
-          "Generador ligero de datos aleatorios JS",
-          "utilities",
+        "description": "Generador ligero de datos aleatorios JS",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "javascript",
           "lightweight",
           "random",
           "generator"
-        ]
+        ],
+        "url": "https://chancejs.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "chance.js chance-js generador ligero de datos aleatorios js utilities fake-data fake-data javascript lightweight random generator"
       },
       {
         "id": "dicebear",
+        "name": "DiceBear",
         "slug": "dicebear",
-        "terms": [
-          "DiceBear",
-          "dicebear",
-          "Generador de avatares SVG únicos",
-          "utilities",
-          "images-placeholders",
+        "description": "Generador de avatares SVG únicos",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "avatars",
           "svg",
           "generator",
           "unique",
           "free"
-        ]
+        ],
+        "url": "https://www.dicebear.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "dicebear dicebear generador de avatares svg únicos utilities images-placeholders avatars svg generator unique free"
       },
       {
         "id": "fake-name-gen-es",
+        "name": "Fake Name Gen ES",
         "slug": "fake-name-gen-es",
-        "terms": [
-          "Fake Name Gen ES",
-          "fake-name-gen-es",
-          "Perfiles completos DNI, dirección, teléfono ES",
-          "utilities",
+        "description": "Perfiles completos DNI, dirección, tel�",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "spain",
           "profiles",
           "complete",
           "spanish"
-        ]
+        ],
+        "url": "https://www.fakenamegenerator.com/gen-random-sp-sp.php",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "fake name gen es fake-name-gen-es perfiles completos dni, dirección, tel� utilities fake-data fake-data spain profiles complete spanish"
       },
       {
         "id": "faker-js",
+        "name": "Faker.js",
         "slug": "faker-js",
-        "terms": [
-          "Faker.js",
-          "faker-js",
-          "Librería JS generar datos falsos masivos",
-          "utilities",
+        "description": "Librería JS generar datos falsos masivo",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "javascript",
           "library",
           "generator",
           "npm"
-        ]
+        ],
+        "url": "https://fakerjs.dev",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "faker.js faker-js librería js generar datos falsos masivo utilities fake-data fake-data javascript library generator npm"
       },
       {
         "id": "files-sdk",
+        "name": "files-sdk",
         "slug": "files-sdk",
-        "terms": [
-          "files-sdk",
-          "Repositorio GitHub",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "utilities",
           "productivity",
           "y-utilidades-herramientas",
-          "almacenamiento-archivos"
-        ]
+          "almacenamiento-archivos",
+          "files-sdk"
+        ],
+        "url": "https://github.com/haydenbleasel/files-sdk",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "files-sdk files-sdk repositorio github utilities productivity utilities productivity y-utilidades-herramientas almacenamiento-archivos files-sdk"
       },
       {
         "id": "files-sdk-dev",
+        "name": "files-sdk-dev",
         "slug": "files-sdk-dev",
-        "terms": [
-          "files-sdk-dev",
-          "Herramienta de desarrollo",
+        "description": "Herramienta de desarrollo",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "utilities",
           "productivity",
           "y-utilidades-herramientas",
-          "almacenamiento-archivos"
-        ]
+          "almacenamiento-archivos",
+          "files-sdk-dev"
+        ],
+        "url": "https://files-sdk.dev",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "files-sdk-dev files-sdk-dev herramienta de desarrollo utilities productivity utilities productivity y-utilidades-herramientas almacenamiento-archivos files-sdk-dev"
       },
       {
         "id": "fillerama",
+        "name": "Fillerama",
         "slug": "fillerama",
-        "terms": [
-          "Fillerama",
-          "fillerama",
-          "Placeholder con estilo de series TV",
-          "utilities",
+        "description": "Placeholder con estilo de series TV",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "tv-shows",
           "fun",
           "placeholder",
           "creative"
-        ]
+        ],
+        "url": "https://fillerama.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "fillerama fillerama placeholder con estilo de series tv utilities fake-data fake-data tv-shows fun placeholder creative"
       },
       {
         "id": "foodiesfeed",
+        "name": "FoodiesFeed",
         "slug": "foodiesfeed",
-        "terms": [
-          "FoodiesFeed",
-          "foodiesfeed",
-          "Fotos de comida HD para proyectos food",
-          "utilities",
-          "images-placeholders",
+        "description": "Fotos de comida HD para proyectos food",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "images",
           "food",
           "hd",
           "free",
           "niche"
-        ]
+        ],
+        "url": "https://www.foodiesfeed.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "foodiesfeed foodiesfeed fotos de comida hd para proyectos food utilities images-placeholders images food hd free niche"
       },
       {
         "id": "freeography",
+        "name": "FREEography",
         "slug": "freeography",
-        "terms": [
-          "FREEography",
-          "freeography",
-          "Imágenes divertidas y únicas, uso libre",
-          "utilities",
-          "images-placeholders",
+        "description": "Imágenes divertidas y únicas, uso libr",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "images",
           "unique",
           "fun",
           "free",
           "creative"
-        ]
+        ],
+        "url": "https://FREEography.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "freeography freeography imágenes divertidas y únicas, uso libr utilities images-placeholders images unique fun free creative"
       },
       {
         "id": "freepik",
+        "name": "Freepik",
         "slug": "freepik",
-        "terms": [
-          "Freepik",
-          "freepik",
-          "Vectores, PSD y fotos atribución free",
-          "utilities",
-          "images-placeholders",
+        "description": "Vectores, PSD y fotos atribución free",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "vectors",
           "psd",
           "photos",
           "free",
           "attribution"
-        ]
+        ],
+        "url": "https://www.freepik.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "freepik freepik vectores, psd y fotos atribución free utilities images-placeholders vectors psd photos free attribution"
       },
       {
         "id": "gamma",
+        "name": "Gamma",
         "slug": "gamma",
-        "terms": [
-          "Gamma",
-          "gamma",
-          "Creación de presentaciones con IA",
-          "utilities",
+        "description": "Creación de presentaciones con IA",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "presentations",
           "ai",
           "slides"
-        ]
+        ],
+        "url": "https://gamma.app",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "gamma gamma creación de presentaciones con ia utilities productivity productivity presentations ai slides"
       },
       {
         "id": "generador-dni-api",
+        "name": "GeneradorDNI API",
         "slug": "generadordni-api",
-        "terms": [
-          "GeneradorDNI API",
-          "generadordni-api",
-          "API para generar y validar DNI españoles",
-          "utilities",
+        "description": "API para generar y validar DNI españole",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "api",
           "spain",
           "dni",
           "validation"
-        ]
+        ],
+        "url": "https://publicapi.dev/generador-dni-api",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "generadordni api generadordni-api api para generar y validar dni españole utilities fake-data fake-data api spain dni validation"
       },
       {
         "id": "gentools-io",
+        "name": "GenTools.io",
         "slug": "gentools-io",
-        "terms": [
-          "GenTools.io",
-          "gentools-io",
-          "Genera DNI/NIE españoles válidos",
-          "utilities",
+        "description": "Genera DNI/NIE españoles válidos",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "spain",
           "dni",
           "nie",
           "validator"
-        ]
+        ],
+        "url": "https://gentools.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "gentools.io gentools-io genera dni/nie españoles válidos utilities fake-data fake-data spain dni nie validator"
       },
       {
         "id": "google-forms",
+        "name": "Google Forms",
         "slug": "google-forms",
-        "terms": [
-          "Google Forms",
-          "google-forms",
-          "Formularios gratuitos ilimitados",
-          "utilities",
+        "description": "Formularios gratuitos ilimitados",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "forms",
           "google",
           "free",
           "unlimited"
-        ]
+        ],
+        "url": "https://forms.google.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "google forms google-forms formularios gratuitos ilimitados utilities productivity productivity forms google free unlimited"
       },
       {
         "id": "grammarly",
+        "name": "Grammarly",
         "slug": "grammarly",
-        "terms": [
-          "Grammarly",
-          "grammarly",
-          "Asistente de escritura y gramática",
-          "utilities",
+        "description": "Asistente de escritura y gramática",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "writing",
           "grammar",
           "editing"
-        ]
+        ],
+        "url": "https://grammarly.com",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "grammarly grammarly asistente de escritura y gramática utilities productivity productivity writing grammar editing"
       },
       {
         "id": "granola",
+        "name": "Granola",
         "slug": "granola",
-        "terms": [
-          "Granola",
-          "granola",
-          "Notas de reuniones automáticas con IA",
-          "utilities",
+        "description": "Notas de reuniones automáticas con IA",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "meetings",
           "ai"
-        ]
+        ],
+        "url": "https://granola.so",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "granola granola notas de reuniones automáticas con ia utilities productivity productivity meetings ai"
       },
       {
         "id": "grounded",
+        "name": "Grounded",
         "slug": "grounded",
-        "terms": [
-          "Grounded",
-          "grounded",
-          "Generador de datos reales y fiables",
+        "description": "Generador de datos reales y fiables",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "utilities",
           "productivity",
           "y-utilidades-herramientas",
-          "datos-falsos-fake-data"
-        ]
+          "datos-falsos-fake-data",
+          "grounded"
+        ],
+        "url": "https://github.com/grounded-data/grounded",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "grounded grounded generador de datos reales y fiables utilities productivity utilities productivity y-utilidades-herramientas datos-falsos-fake-data grounded"
       },
       {
         "id": "hacker-news",
+        "name": "Hacker News",
         "slug": "hacker-news",
-        "terms": [
-          "Hacker News",
-          "hacker-news",
-          "Comunidad noticias y debates tecnología",
+        "description": "Comunidad noticias y debates tecnología",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "utilities",
           "productivity",
           "y-utilidades-herramientas",
-          "y-recursos-generales"
-        ]
+          "y-recursos-generales",
+          "hacker-news"
+        ],
+        "url": "https://news.ycombinator.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "hacker news hacker-news comunidad noticias y debates tecnología utilities productivity utilities productivity y-utilidades-herramientas y-recursos-generales hacker-news"
       },
       {
         "id": "linktree",
+        "name": "Linktree",
         "slug": "linktree",
-        "terms": [
-          "Linktree",
-          "linktree",
-          "Página de enlaces gratis básico",
-          "utilities",
+        "description": "Página de enlaces gratis básico",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "links",
           "social-media",
           "bio"
-        ]
+        ],
+        "url": "https://linktr.ee",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "linktree linktree página de enlaces gratis básico utilities productivity productivity links social-media bio"
       },
       {
         "id": "linkwarden",
+        "name": "linkwarden",
         "slug": "linkwarden",
-        "terms": [
-          "linkwarden",
-          "Gestor self-hosted de marcadores",
+        "description": "Gestor self-hosted de marcadores",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "utilities",
           "productivity",
           "utilidades-herramientas",
-          "productividad"
-        ]
+          "productividad",
+          "linkwarden"
+        ],
+        "url": "https://github.com/linkwarden/linkwarden",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "linkwarden linkwarden gestor self-hosted de marcadores utilities productivity utilities productivity utilidades-herramientas productividad linkwarden"
       },
       {
         "id": "logseq",
+        "name": "Logseq",
         "slug": "logseq",
-        "terms": [
-          "Logseq",
-          "logseq",
-          "Notas y conocimiento open source con grafos",
-          "utilities",
+        "description": "Notas y conocimiento open source con gra",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "open-source",
           "knowledge-graph",
           "privacy"
-        ]
+        ],
+        "url": "https://logseq.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "logseq logseq notas y conocimiento open source con gra utilities productivity productivity open-source knowledge-graph privacy"
       },
       {
         "id": "lorem-ipsum-gen",
+        "name": "Lorem Ipsum Gen",
         "slug": "lorem-ipsum-gen",
-        "terms": [
-          "Lorem Ipsum Gen",
-          "lorem-ipsum-gen",
-          "Generador clásico de texto placeholder",
-          "utilities",
+        "description": "Generador clásico de texto placeholder",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "lorem-ipsum",
           "text",
           "placeholder",
           "classic"
-        ]
+        ],
+        "url": "https://www.loremipsum.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "lorem ipsum gen lorem-ipsum-gen generador clásico de texto placeholder utilities fake-data fake-data lorem-ipsum text placeholder classic"
       },
       {
         "id": "loremgenius",
+        "name": "LoremGenius",
         "slug": "loremgenius",
-        "terms": [
-          "LoremGenius",
-          "loremgenius",
-          "Generador creativo con formatos flexibles",
-          "utilities",
+        "description": "Generador creativo con formatos flexible",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "creative",
           "flexible",
           "text",
           "generator"
-        ]
+        ],
+        "url": "https://www.loremgenius.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "loremgenius loremgenius generador creativo con formatos flexible utilities fake-data fake-data creative flexible text generator"
       },
       {
         "id": "mimesis",
+        "name": "Mimesis",
         "slug": "mimesis",
-        "terms": [
-          "Mimesis",
-          "mimesis",
-          "Generador de datos fake en Python",
-          "utilities",
+        "description": "Generador de datos fake en Python",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "python",
           "generator",
           "multi-language",
           "open-source"
-        ]
+        ],
+        "url": "https://mimesis.name",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "mimesis mimesis generador de datos fake en python utilities fake-data fake-data python generator multi-language open-source"
       },
       {
         "id": "mockaroo",
+        "name": "Mockaroo",
         "slug": "mockaroo",
-        "terms": [
-          "Mockaroo",
-          "mockaroo",
-          "Genera CSV, JSON, SQL con datos por país",
-          "utilities",
+        "description": "Genera CSV, JSON, SQL con datos por paí",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "generator",
           "csv",
           "json",
           "sql",
           "countries"
-        ]
+        ],
+        "url": "https://www.mockaroo.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "mockaroo mockaroo genera csv, json, sql con datos por paí utilities fake-data fake-data generator csv json sql countries"
       },
       {
         "id": "new-old-stock",
+        "name": "New Old Stock",
         "slug": "new-old-stock",
-        "terms": [
-          "New Old Stock",
-          "new-old-stock",
-          "Fotos vintage de dominio público",
-          "utilities",
-          "images-placeholders",
+        "description": "Fotos vintage de dominio público",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "images",
           "vintage",
           "public-domain",
           "free"
-        ]
+        ],
+        "url": "https://nos.twnsnd.co",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "new old stock new-old-stock fotos vintage de dominio público utilities images-placeholders images vintage public-domain free"
       },
       {
         "id": "notion",
+        "name": "Notion",
         "slug": "notion",
-        "terms": [
-          "Notion",
-          "notion",
-          "Workspace todo-en-uno gratis personal",
-          "utilities",
+        "description": "Workspace todo-en-uno gratis personal",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "workspace",
           "collaboration",
           "free-tier"
-        ]
+        ],
+        "url": "https://www.notion.so",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "notion notion workspace todo-en-uno gratis personal utilities productivity productivity workspace collaboration free-tier"
       },
       {
         "id": "npm-alternatives",
+        "name": "NPM Alternatives",
         "slug": "npm-alternatives",
-        "terms": [
-          "NPM Alternatives",
-          "npm-alternatives",
-          "npms.io, npmsearch.com",
-          "utilities",
-          "productivity",
+        "description": "npms.io, npmsearch.com",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "npm",
           "search",
           "packages",
           "productivity"
-        ]
+        ],
+        "url": "https://npmsearch.com/",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "npm alternatives npm-alternatives npms.io, npmsearch.com utilities productivity npm search packages productivity"
       },
       {
         "id": "obsidian",
+        "name": "Obsidian",
         "slug": "obsidian",
-        "terms": [
-          "Obsidian",
-          "obsidian",
-          "Notas en markdown con grafos de conocimiento",
-          "utilities",
+        "description": "Notas en markdown con grafos de conocimi",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "markdown",
           "knowledge-graph",
           "open-source"
-        ]
+        ],
+        "url": "https://obsidian.md",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "obsidian obsidian notas en markdown con grafos de conocimi utilities productivity productivity markdown knowledge-graph open-source"
       },
       {
         "id": "pexels",
+        "name": "Pexels",
         "slug": "pexels",
-        "terms": [
-          "Pexels",
-          "pexels",
-          "Fotos y videos de stock gratuitos",
-          "utilities",
-          "images-placeholders",
+        "description": "Fotos y videos de stock gratuitos",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "images",
           "videos",
           "free",
           "stock",
           "photos"
-        ]
+        ],
+        "url": "https://www.pexels.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pexels pexels fotos y videos de stock gratuitos utilities images-placeholders images videos free stock photos"
       },
       {
         "id": "picsum-photos",
+        "name": "Picsum.photos",
         "slug": "picsum-photos",
-        "terms": [
-          "Picsum.photos",
-          "picsum-photos",
-          "Generador de imágenes de relleno",
-          "utilities",
-          "images-placeholders",
+        "description": "Generador de imágenes de relleno",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "images",
           "placeholder",
           "generator",
           "lorem-ipsum"
-        ]
+        ],
+        "url": "https://picsum.photos",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "picsum.photos picsum-photos generador de imágenes de relleno utilities images-placeholders images placeholder generator lorem-ipsum"
       },
       {
         "id": "pixabay",
+        "name": "Pixabay",
         "slug": "pixabay",
-        "terms": [
-          "Pixabay",
-          "pixabay",
-          "+4M imágenes, vectores y vídeos libres",
-          "utilities",
-          "images-placeholders",
+        "description": "+4M imágenes, vectores y vídeos libres",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "images",
           "vectors",
           "videos",
           "free",
           "4m"
-        ]
+        ],
+        "url": "https://pixabay.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "pixabay pixabay +4m imágenes, vectores y vídeos libres utilities images-placeholders images vectors videos free 4m"
       },
       {
         "id": "placehold-co",
+        "name": "Placehold.co",
         "slug": "placehold-co",
-        "terms": [
-          "Placehold.co",
-          "placehold-co",
-          "Crea imágenes placeholder personalizadas",
-          "utilities",
-          "images-placeholders",
+        "description": "Crea imágenes placeholder personalizada",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "images",
           "placeholder",
           "custom",
           "generator"
-        ]
+        ],
+        "url": "https://placehold.co",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "placehold.co placehold-co crea imágenes placeholder personalizada utilities images-placeholders images placeholder custom generator"
       },
       {
         "id": "placeholdertext",
+        "name": "Placeholdertext",
         "slug": "placeholdertext",
-        "terms": [
-          "Placeholdertext",
-          "placeholdertext",
-          "Placeholder simple y rápido para web",
-          "utilities",
+        "description": "Placeholder simple y rápido para web",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "simple",
           "fast",
           "web",
           "placeholder"
-        ]
+        ],
+        "url": "https://placeholdertext.org",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "placeholdertext placeholdertext placeholder simple y rápido para web utilities fake-data fake-data simple fast web placeholder"
       },
       {
         "id": "public-domain-pictures",
+        "name": "Public Domain Pictures",
         "slug": "public-domain-pictures",
-        "terms": [
-          "Public Domain Pictures",
-          "public-domain-pictures",
-          "Banco imágenes dominio público",
-          "utilities",
-          "images-placeholders",
+        "description": "Banco imágenes dominio público",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "images",
           "public-domain",
           "free",
           "stock",
           "vintage"
-        ]
+        ],
+        "url": "https://www.publicdomainpictures.net",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "public domain pictures public-domain-pictures banco imágenes dominio público utilities images-placeholders images public-domain free stock vintage"
       },
       {
         "id": "quickmocker",
+        "name": "QuickMocker",
         "slug": "quickmocker",
-        "terms": [
-          "QuickMocker",
-          "quickmocker",
-          "Mock API contextual respuestas dinámicas",
-          "utilities",
+        "description": "Mock API contextual respuestas dinámica",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "mock",
           "api",
           "dynamic",
           "contextual"
-        ]
+        ],
+        "url": "https://quickmocker.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "quickmocker quickmocker mock api contextual respuestas dinámica utilities fake-data fake-data mock api dynamic contextual"
       },
       {
         "id": "random-user-gen",
+        "name": "Random User Gen",
         "slug": "random-user-gen",
-        "terms": [
-          "Random User Gen",
-          "random-user-gen",
-          "API libre para usuarios aleatorios",
-          "utilities",
+        "description": "API libre para usuarios aleatorios",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "api",
           "users",
           "random",
           "free"
-        ]
+        ],
+        "url": "https://randomuser.me",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "random user gen random-user-gen api libre para usuarios aleatorios utilities fake-data fake-data api users random free"
       },
       {
         "id": "randomuser-us",
+        "name": "RandomUser US",
         "slug": "randomuser-us",
-        "terms": [
-          "RandomUser US",
-          "randomuser-us",
-          "Usuarios aleatorios SSN, direcciÃ³n, tel",
+        "description": "Usuarios aleatorios SSN, direcciÃ³n, tel",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "utilities",
           "productivity",
           "y-utilidades-herramientas",
-          "datos-falsos-fake-data"
-        ]
+          "datos-falsos-fake-data",
+          "randomuser-us"
+        ],
+        "url": "https://randomuser.me/?results=10&nat=us",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "randomuser us randomuser-us usuarios aleatorios ssn, direcciã³n, tel utilities productivity utilities productivity y-utilidades-herramientas datos-falsos-fake-data randomuser-us"
       },
       {
         "id": "reccloud",
+        "name": "RecCloud",
         "slug": "reccloud",
-        "terms": [
-          "RecCloud",
-          "reccloud",
-          "Resumir videos YouTube con IA",
+        "description": "Resumir videos YouTube con IA",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "utilities",
           "productivity",
           "y-utilidades-herramientas",
-          "productividad"
-        ]
+          "productividad",
+          "reccloud"
+        ],
+        "url": "https://reccloud.com",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "reccloud reccloud resumir videos youtube con ia utilities productivity utilities productivity y-utilidades-herramientas productividad reccloud"
       },
       {
         "id": "rndgen",
+        "name": "RNDGen",
         "slug": "rndgen",
-        "terms": [
-          "RNDGen",
-          "rndgen",
-          "Generador de datos aleatorios múltiples formatos",
-          "utilities",
+        "description": "Generador de datos aleatorios múltiples",
+        "category": "utilities",
+        "subcategory": "fake-data",
+        "tags": [
           "fake-data",
           "generator",
           "random",
           "multiple-formats"
-        ]
+        ],
+        "url": "https://www.rndgen.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "rndgen rndgen generador de datos aleatorios múltiples utilities fake-data fake-data generator random multiple-formats"
       },
       {
         "id": "roam-research",
+        "name": "Roam Research",
         "slug": "roam-research",
-        "terms": [
-          "Roam Research",
-          "roam-research",
-          "Notas interconectadas con 2 grafos gratis",
-          "utilities",
+        "description": "Notas interconectadas con 2 grafos grati",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "knowledge-graph",
           "research"
-        ]
+        ],
+        "url": "https://roamresearch.com",
+        "pricing": "premium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "roam research roam-research notas interconectadas con 2 grafos grati utilities productivity productivity knowledge-graph research"
       },
       {
         "id": "spoki",
+        "name": "Spoki",
         "slug": "spoki",
-        "terms": [
-          "Spoki",
-          "spoki",
-          "Marketing WhatsApp Business API",
+        "description": "Marketing WhatsApp Business API",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "utilities",
           "productivity",
           "y-utilidades-herramientas",
-          "productividad"
-        ]
+          "productividad",
+          "spoki"
+        ],
+        "url": "https://spoki.com/en",
+        "pricing": "free",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "spoki spoki marketing whatsapp business api utilities productivity utilities productivity y-utilidades-herramientas productividad spoki"
       },
       {
         "id": "stocksnap-io",
+        "name": "StockSnap.io",
         "slug": "stocksnap-io",
-        "terms": [
-          "StockSnap.io",
-          "stocksnap-io",
-          "Fotos CC0 sin registro descarga directa",
-          "utilities",
-          "images-placeholders",
+        "description": "Fotos CC0 sin registro descarga directa",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "images",
           "cc0",
           "free",
           "no-registration",
           "stock"
-        ]
+        ],
+        "url": "https://stocksnap.io",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "stocksnap.io stocksnap-io fotos cc0 sin registro descarga directa utilities images-placeholders images cc0 free no-registration stock"
       },
       {
         "id": "superhuman",
+        "name": "Superhuman",
         "slug": "superhuman",
-        "terms": [
-          "Superhuman",
-          "superhuman",
-          "Cliente de correo rápido con IA",
-          "utilities",
+        "description": "Cliente de correo rápido con IA",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "email",
           "ai",
           "fast"
-        ]
+        ],
+        "url": "https://superhuman.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "superhuman superhuman cliente de correo rápido con ia utilities productivity productivity email ai fast"
       },
       {
         "id": "typeform",
+        "name": "Typeform",
         "slug": "typeform",
-        "terms": [
-          "Typeform",
-          "typeform",
-          "Formularios interactivos con 10/mes gratis",
-          "utilities",
+        "description": "Formularios interactivos con 10/mes grat",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "forms",
           "surveys",
           "interactive"
-        ]
+        ],
+        "url": "https://www.typeform.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "typeform typeform formularios interactivos con 10/mes grat utilities productivity productivity forms surveys interactive"
       },
       {
         "id": "unsplash",
+        "name": "Unsplash",
         "slug": "unsplash",
-        "terms": [
-          "Unsplash",
-          "unsplash",
-          "Banco de imágenes alta resolución gratis",
-          "utilities",
-          "images-placeholders",
+        "description": "Banco de imágenes alta resolución grat",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "images",
           "photos",
           "free",
           "high-resolution",
           "stock"
-        ]
+        ],
+        "url": "https://unsplash.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "unsplash unsplash banco de imágenes alta resolución grat utilities images-placeholders images photos free high-resolution stock"
       },
       {
         "id": "vecteezy",
+        "name": "Vecteezy",
         "slug": "vecteezy",
-        "terms": [
-          "Vecteezy",
-          "vecteezy",
-          "Vectores y fotos con licencia flexible",
-          "utilities",
-          "images-placeholders",
+        "description": "Vectores y fotos con licencia flexible",
+        "category": "utilities",
+        "subcategory": "images-placeholders",
+        "tags": [
           "vectors",
           "photos",
           "flexible",
           "license",
           "free"
-        ]
+        ],
+        "url": "https://www.vecteezy.com",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "vecteezy vecteezy vectores y fotos con licencia flexible utilities images-placeholders vectors photos flexible license free"
       },
       {
         "id": "wispr-flow",
+        "name": "Wispr Flow",
         "slug": "wispr-flow",
-        "terms": [
-          "Wispr Flow",
-          "wispr-flow",
-          "Dictado por voz con IA",
-          "utilities",
+        "description": "Dictado por voz con IA",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
           "productivity",
           "voice",
           "dictation",
           "ai"
-        ]
+        ],
+        "url": "https://flow.wispr.ai",
+        "pricing": "freemium",
+        "languages": [
+          "es",
+          "en"
+        ],
+        "searchText": "wispr flow wispr-flow dictado por voz con ia utilities productivity productivity voice dictation ai"
+      },
+      {
+        "id": "openclaw-windows-node",
+        "name": "openclaw-windows-node",
+        "slug": "openclaw-windows-node",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/openclaw/openclaw-windows-node.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "openclaw-windows-node openclaw-windows-node repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "browserai",
+        "name": "BrowserAI",
+        "slug": "browserai",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/sauravpanda/BrowserAI",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "browserai browserai repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "awesome-free-apps",
+        "name": "awesome-free-apps",
+        "slug": "awesome-free-apps",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/Axorax/awesome-free-apps",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "awesome-free-apps awesome-free-apps repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "awesome-ai-tools",
+        "name": "awesome-ai-tools",
+        "slug": "awesome-ai-tools",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/eudk/awesome-ai-tools",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "awesome-ai-tools awesome-ai-tools repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "get-it",
+        "name": "get-it",
+        "slug": "get-it",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/beltromatti/get-it",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "get-it get-it repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "skales",
+        "name": "skales",
+        "slug": "skales",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/skalesapp/skales",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "skales skales repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "windowsdeveloperconfig",
+        "name": "WindowsDeveloperConfig",
+        "slug": "windowsdeveloperconfig",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/microsoft/WindowsDeveloperConfig.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "windowsdeveloperconfig windowsdeveloperconfig repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "clone-wars",
+        "name": "Clone-Wars",
+        "slug": "clone-wars",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/GorvGoyl/Clone-Wars",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "clone-wars clone-wars repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "every-programmer-should-know",
+        "name": "every-programmer-should-know",
+        "slug": "every-programmer-should-know",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/mtdvio/every-programmer-should-know",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "every-programmer-should-know every-programmer-should-know repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "portable-ai-usb",
+        "name": "Portable-AI-USB",
+        "slug": "portable-ai-usb",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/techjarves/Portable-AI-USB",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "portable-ai-usb portable-ai-usb repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "opentabs",
+        "name": "opentabs",
+        "slug": "opentabs",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/opentabs-dev/opentabs",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "opentabs opentabs repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "win11debloat",
+        "name": "Win11Debloat",
+        "slug": "win11debloat",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/Raphire/Win11Debloat",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "win11debloat win11debloat repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "all-in-one-free-seo-tool",
+        "name": "All-In-One-Free-SEO-Tool",
+        "slug": "all-in-one-free-seo-tool",
+        "description": "Repositorio GitHub",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "utilities",
+          "tools",
+          "github",
+          "productivity"
+        ],
+        "url": "https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "all-in-one-free-seo-tool all-in-one-free-seo-tool repositorio github utilities productivity utilities tools github productivity"
+      },
+      {
+        "id": "fmhy",
+        "name": "fmhy",
+        "slug": "fmhy",
+        "description": "Free media and tools megathread",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "productivity",
+          "utilities"
+        ],
+        "url": "https://fmhy.net/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "fmhy fmhy free media and tools megathread utilities productivity productivity utilities"
       }
     ]
   },
@@ -1479,20 +2177,23 @@
       "es"
     ],
     "status": [
-      "active"
+      "active",
+      "warning",
+      "deprecated"
     ],
     "verified": [
-      true
+      true,
+      false
     ],
     "noCreditCard": [
-      false,
-      true
+      true,
+      false
     ]
   },
   "ui": {
     "dataset": "utilidades_1",
-    "title": "DevResources - Recursos Gratuitos para Desarrolladores 2025-2026",
-    "description": "Knowledge base completa con ~950 recursos gratuitos para desarrolladores: cloud, APIs, IA, diseño, bases de datos y más",
-    "resourceCount": 57
+    "title": "Utilities Resources - DevResources 2026",
+    "description": "Recursos de Utilities para desarrolladores",
+    "resourceCount": 71
   }
 }

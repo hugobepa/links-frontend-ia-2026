@@ -4,7 +4,7 @@
       "id": "design",
       "name": "Design",
       "slug": "design",
-      "resourceCount": 136,
+      "resourceCount": 148,
       "status": "active"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Components",
       "slug": "components",
       "category": "design",
-      "resourceCount": 18,
+      "resourceCount": 26,
       "status": "active"
     },
     {
@@ -93,7 +93,7 @@
       "name": "Templates",
       "slug": "templates",
       "category": "design",
-      "resourceCount": 16,
+      "resourceCount": 20,
       "status": "active"
     },
     {
@@ -1343,9 +1343,9 @@
       "noCreditCard": false
     },
     {
-      "id": "andrej-karpathy-skills",
+      "id": "andrej-karpathy-skills-2",
       "name": "andrej-karpathy-skills",
-      "slug": "andrej-karpathy-skills",
+      "slug": "andrej-karpathy-skills-2",
       "description": "Repositorio GitHub",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "status": "active",
@@ -1357,7 +1357,7 @@
         "andrej-karpathy-skills"
       ],
       "searchIndex": [
-        "andrej-karpathy-skills",
+        "andrej-karpathy-skills-2",
         "Repositorio GitHub",
         "development",
         "tools",
@@ -1516,9 +1516,9 @@
       "noCreditCard": false
     },
     {
-      "id": "animate-text",
+      "id": "animate-text-2",
       "name": "animate-text",
-      "slug": "animate-text",
+      "slug": "animate-text-2",
       "description": "N/A",
       "url": "https://pixelpoint.io/skills/animate-text",
       "status": "active",
@@ -1530,7 +1530,7 @@
         "animate-text"
       ],
       "searchIndex": [
-        "animate-text",
+        "animate-text-2",
         "N/A",
         "design",
         "components",
@@ -4768,9 +4768,9 @@
       "noCreditCard": false
     },
     {
-      "id": "deepseek-tui",
+      "id": "deepseek-tui-2",
       "name": "DeepSeek-TUI",
-      "slug": "deepseek-tui",
+      "slug": "deepseek-tui-2",
       "description": "Interface TUI terminal API DeepSeek",
       "url": "https://github.com/Hmbown/DeepSeek-TUI.git",
       "status": "active",
@@ -4783,7 +4783,7 @@
       ],
       "searchIndex": [
         "DeepSeek-TUI",
-        "deepseek-tui",
+        "deepseek-tui-2",
         "Interface TUI terminal API DeepSeek",
         "development",
         "tools",
@@ -8124,9 +8124,9 @@
       "noCreditCard": false
     },
     {
-      "id": "heygen-hyperframes",
+      "id": "heygen-hyperframes-2",
       "name": "HeyGen Hyperframes",
-      "slug": "heygen-hyperframes",
+      "slug": "heygen-hyperframes-2",
       "description": "Framework open source creación video HT",
       "url": "https://github.com/heygen-com/hyperframes",
       "status": "active",
@@ -8139,7 +8139,7 @@
       ],
       "searchIndex": [
         "HeyGen Hyperframes",
-        "heygen-hyperframes",
+        "heygen-hyperframes-2",
         "Framework open source creación video HT",
         "development",
         "ide",
@@ -18126,6 +18126,402 @@
       "added": "2026-01-10",
       "verified": true,
       "noCreditCard": false
+    },
+    {
+      "id": "system-design-101",
+      "name": "system-design-101",
+      "slug": "system-design-101",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "status": "active",
+      "tags": [
+        "design",
+        "ui",
+        "github",
+        "components"
+      ],
+      "searchIndex": [
+        "system-design-101",
+        "system-design-101",
+        "Repositorio GitHub",
+        "design",
+        "components",
+        "design",
+        "ui",
+        "github"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "template0-com",
+      "name": "template0-com",
+      "slug": "template0-com",
+      "description": "Recurso técnico",
+      "url": "https://template0.com/",
+      "status": "active",
+      "tags": [
+        "design",
+        "templates"
+      ],
+      "searchIndex": [
+        "template0-com",
+        "template0-com",
+        "Recurso técnico",
+        "design",
+        "templates",
+        "design",
+        "templates"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "template0-com-2",
+      "name": "template0-com-2",
+      "slug": "template0-com-2",
+      "description": "Recurso técnico",
+      "url": "https://template0.com/item/shipfree",
+      "status": "active",
+      "tags": [
+        "design",
+        "templates"
+      ],
+      "searchIndex": [
+        "template0-com-2",
+        "template0-com-2",
+        "Recurso técnico",
+        "design",
+        "templates",
+        "design",
+        "templates"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "fullstack-start-template",
+      "name": "fullstack-start-template",
+      "slug": "fullstack-start-template",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/CarlosZiegler/fullstack-start-template",
+      "status": "active",
+      "tags": [
+        "design",
+        "ui",
+        "github",
+        "components"
+      ],
+      "searchIndex": [
+        "fullstack-start-template",
+        "fullstack-start-template",
+        "Repositorio GitHub",
+        "design",
+        "components",
+        "design",
+        "ui",
+        "github"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "convex-dev",
+      "name": "convex-dev",
+      "slug": "convex-dev",
+      "description": "Recurso técnico",
+      "url": "https://www.convex.dev/templates",
+      "status": "active",
+      "tags": [
+        "design",
+        "templates"
+      ],
+      "searchIndex": [
+        "convex-dev",
+        "convex-dev",
+        "Recurso técnico",
+        "design",
+        "templates",
+        "design",
+        "templates"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "astro-build",
+      "name": "astro-build",
+      "slug": "astro-build",
+      "description": "Recurso técnico",
+      "url": "https://astro.build/themes/details/astroship/",
+      "status": "active",
+      "tags": [
+        "design",
+        "templates"
+      ],
+      "searchIndex": [
+        "astro-build",
+        "astro-build",
+        "Recurso técnico",
+        "design",
+        "templates",
+        "design",
+        "templates"
+      ],
+      "category": "design",
+      "subcategory": "templates",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "npxskillui",
+      "name": "npxskillui",
+      "slug": "npxskillui",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/amaancoderx/npxskillui",
+      "status": "active",
+      "tags": [
+        "design",
+        "ui",
+        "github",
+        "components"
+      ],
+      "searchIndex": [
+        "npxskillui",
+        "npxskillui",
+        "Repositorio GitHub",
+        "design",
+        "components",
+        "design",
+        "ui",
+        "github"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "blossom-carousel",
+      "name": "blossom-carousel",
+      "slug": "blossom-carousel",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/jespervos/blossom-carousel.git",
+      "status": "active",
+      "tags": [
+        "design",
+        "ui",
+        "github",
+        "components"
+      ],
+      "searchIndex": [
+        "blossom-carousel",
+        "blossom-carousel",
+        "Repositorio GitHub",
+        "design",
+        "components",
+        "design",
+        "ui",
+        "github"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "full-stack-ai-agent-template",
+      "name": "full-stack-ai-agent-template",
+      "slug": "full-stack-ai-agent-template",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/vstorm-co/full-stack-ai-agent-template",
+      "status": "active",
+      "tags": [
+        "design",
+        "ui",
+        "github",
+        "components"
+      ],
+      "searchIndex": [
+        "full-stack-ai-agent-template",
+        "full-stack-ai-agent-template",
+        "Repositorio GitHub",
+        "design",
+        "components",
+        "design",
+        "ui",
+        "github"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "designing-multiagent-systems",
+      "name": "designing-multiagent-systems",
+      "slug": "designing-multiagent-systems",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/victordibia/designing-multiagent-systems",
+      "status": "active",
+      "tags": [
+        "design",
+        "ui",
+        "github",
+        "components"
+      ],
+      "searchIndex": [
+        "designing-multiagent-systems",
+        "designing-multiagent-systems",
+        "Repositorio GitHub",
+        "design",
+        "components",
+        "design",
+        "ui",
+        "github"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "flowkit",
+      "name": "flowkit",
+      "slug": "flowkit",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/crisng95/flowkit",
+      "status": "active",
+      "tags": [
+        "design",
+        "ui",
+        "github",
+        "components"
+      ],
+      "searchIndex": [
+        "flowkit",
+        "flowkit",
+        "Repositorio GitHub",
+        "design",
+        "components",
+        "design",
+        "ui",
+        "github"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "headroom",
+      "name": "headroom",
+      "slug": "headroom",
+      "description": "Repositorio GitHub",
+      "url": "https://github.com/chopratejas/headroom",
+      "status": "active",
+      "tags": [
+        "design",
+        "ui",
+        "github",
+        "components"
+      ],
+      "searchIndex": [
+        "headroom",
+        "headroom",
+        "Repositorio GitHub",
+        "design",
+        "components",
+        "design",
+        "ui",
+        "github"
+      ],
+      "category": "design",
+      "subcategory": "components",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-06-24",
+      "verified": false,
+      "noCreditCard": true
     }
   ]
 }
