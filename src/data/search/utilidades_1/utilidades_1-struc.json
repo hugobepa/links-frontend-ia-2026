@@ -386,7 +386,7 @@
       "description": "Etiqueta productividad"
     },
     "productivity": {
-      "count": 42,
+      "count": 44,
       "color": "#7c3aed",
       "description": "Etiqueta productivity"
     },
@@ -536,7 +536,7 @@
       "description": "Etiqueta utilidades-herramientas"
     },
     "utilities": {
-      "count": 25,
+      "count": 27,
       "color": "#db2777",
       "description": "Etiqueta utilities"
     },
@@ -596,17 +596,17 @@
       "description": "Etiqueta y-recursos-generales"
     },
     "y-utilidades-herramientas": {
-      "count": 10,
+      "count": 12,
       "color": "#db2777",
       "description": "Etiqueta y-utilidades-herramientas"
     },
     "tools": {
-      "count": 13,
+      "count": 14,
       "color": "#dc2626",
       "description": "Etiqueta tools"
     },
     "github": {
-      "count": 13,
+      "count": 14,
       "color": "#2563eb",
       "description": "Etiqueta github"
     }
@@ -2155,6 +2155,46 @@
           "en"
         ],
         "searchText": "fmhy fmhy free media and tools megathread utilities productivity productivity utilities"
+      },
+      {
+        "id": "perthirtysix-qr",
+        "name": "perthirtysix-qr",
+        "slug": "perthirtysix-qr",
+        "description": "Como funcionan los codigos QR",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "productivity",
+          "utilities",
+          "y-utilidades-herramientas",
+          "tools"
+        ],
+        "url": "https://perthirtysix.com/how-the-heck-do-qr-codes-work",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "perthirtysix-qr perthirtysix-qr como funcionan los codigos qr utilities productivity productivity utilities y-utilidades-herramientas tools"
+      },
+      {
+        "id": "reicon-gh",
+        "name": "reicon-gh",
+        "slug": "reicon-gh",
+        "description": "Reconstruye iconos Windows rotos",
+        "category": "utilities",
+        "subcategory": "productivity",
+        "tags": [
+          "productivity",
+          "utilities",
+          "y-utilidades-herramientas",
+          "github"
+        ],
+        "url": "https://github.com/dqev/reicon.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "reicon-gh reicon-gh reconstruye iconos windows rotos utilities productivity productivity utilities y-utilidades-herramientas github"
       }
     ]
   },
@@ -2194,6 +2234,6 @@
     "dataset": "utilidades_1",
     "title": "Utilities Resources - DevResources 2026",
     "description": "Recursos de Utilities para desarrolladores",
-    "resourceCount": 71
+    "resourceCount": 73
   }
 }

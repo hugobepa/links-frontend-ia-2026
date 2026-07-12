@@ -18,7 +18,7 @@
       "id": "payments",
       "name": "Payments",
       "slug": "payments",
-      "resourceCount": 98,
+      "resourceCount": 99,
       "status": "active"
     }
   ],
@@ -44,7 +44,7 @@
       "name": "Jobs",
       "slug": "jobs",
       "category": "payments",
-      "resourceCount": 96,
+      "resourceCount": 97,
       "status": "active"
     },
     {
@@ -4486,6 +4486,39 @@
       "limits": "no-limits",
       "added": "2026-06-24",
       "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "ai-job-search-gh",
+      "name": "ai-job-search-gh",
+      "slug": "ai-job-search-gh",
+      "description": "Busqueda empleo automatizada con IA",
+      "url": "https://github.com/MadsLorentzen/ai-job-search.git",
+      "status": "active",
+      "tags": [
+        "jobs",
+        "monetizacion-empleo",
+        "github",
+        "ai"
+      ],
+      "searchIndex": [
+        "ai-job-search-gh",
+        "Busqueda empleo automatizada con IA",
+        "jobs",
+        "monetizacion-empleo",
+        "github",
+        "ai",
+        "payments"
+      ],
+      "category": "payments",
+      "subcategory": "jobs",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
       "noCreditCard": true
     }
   ]

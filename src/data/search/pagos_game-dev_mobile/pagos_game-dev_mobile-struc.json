@@ -46,7 +46,7 @@
       "description": "Etiqueta aggregator"
     },
     "ai": {
-      "count": 4,
+      "count": 5,
       "color": "#dc2626",
       "description": "Etiqueta ai"
     },
@@ -346,7 +346,7 @@
       "description": "Etiqueta javascript"
     },
     "jobs": {
-      "count": 95,
+      "count": 96,
       "color": "#2563eb",
       "description": "Etiqueta jobs"
     },
@@ -426,7 +426,7 @@
       "description": "Etiqueta mobile"
     },
     "monetizacion-empleo": {
-      "count": 50,
+      "count": 51,
       "color": "#d97706",
       "description": "Etiqueta monetizacion-empleo"
     },
@@ -721,7 +721,7 @@
       "description": "Etiqueta zero-commission"
     },
     "github": {
-      "count": 36,
+      "count": 37,
       "color": "#dc2626",
       "description": "Etiqueta github"
     },
@@ -3489,6 +3489,26 @@
           "en"
         ],
         "searchText": "michiganrobotics michiganrobotics organización michigan robotics github game-dev engines game-dev 3d github engines"
+      },
+      {
+        "id": "ai-job-search-gh",
+        "name": "ai-job-search-gh",
+        "slug": "ai-job-search-gh",
+        "description": "Busqueda empleo automatizada con IA",
+        "category": "payments",
+        "subcategory": "jobs",
+        "tags": [
+          "jobs",
+          "monetizacion-empleo",
+          "github",
+          "ai"
+        ],
+        "url": "https://github.com/MadsLorentzen/ai-job-search.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ai-job-search-gh ai-job-search-gh busqueda empleo automatizada con ia payments jobs jobs monetizacion-empleo github ai"
       }
     ]
   },
@@ -3531,6 +3551,6 @@
     "dataset": "pagos_game-dev_mobile",
     "title": "Game Dev Resources - DevResources 2026",
     "description": "Recursos de Game Dev para desarrolladores",
-    "resourceCount": 132
+    "resourceCount": 133
   }
 }

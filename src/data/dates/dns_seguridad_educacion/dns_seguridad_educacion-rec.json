@@ -11,14 +11,14 @@
       "id": "education-learning",
       "name": "Education Learning",
       "slug": "education-learning",
-      "resourceCount": 647,
+      "resourceCount": 651,
       "status": "active"
     },
     {
       "id": "security-vpn",
       "name": "Security Vpn",
       "slug": "security-vpn",
-      "resourceCount": 53,
+      "resourceCount": 56,
       "status": "active"
     }
   ],
@@ -52,7 +52,7 @@
       "name": "Programming Courses",
       "slug": "programming-courses",
       "category": "education-learning",
-      "resourceCount": 647,
+      "resourceCount": 651,
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
       "name": "Security Auth",
       "slug": "security-auth",
       "category": "security-vpn",
-      "resourceCount": 40,
+      "resourceCount": 43,
       "status": "active"
     },
     {
@@ -24135,6 +24135,243 @@
       "limits": "no-limits",
       "added": "2026-06-24",
       "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "how-computers-work-eth",
+      "name": "How-Computers-Work-ETH",
+      "slug": "how-computers-work-eth",
+      "description": "How Computers Work ETH Zurich Onur Mutlu",
+      "url": "https://youtube.com/playlist?list=PL5Q2soXY2Zi-NVn779PBtYziKiW-zdW5i&si=XPHT--oNLuOgKwaJ",
+      "status": "active",
+      "tags": [
+        "programming-courses",
+        "education-learning",
+        "youtube",
+        "video",
+        "learning",
+        "ai"
+      ],
+      "searchIndex": [
+        "How-Computers-Work-ETH",
+        "how-computers-work-eth",
+        "How Computers Work ETH Zurich Onur Mutlu",
+        "programming-courses",
+        "education-learning",
+        "youtube",
+        "video",
+        "learning",
+        "ai"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "cs-stanford",
+      "name": "cs-stanford",
+      "slug": "cs-stanford",
+      "description": "Stanford Computer Science portal",
+      "url": "https://www.cs.stanford.edu/",
+      "status": "active",
+      "tags": [
+        "programming-courses",
+        "education-learning",
+        "cursos-programacion",
+        "resource",
+        "education"
+      ],
+      "searchIndex": [
+        "cs-stanford",
+        "Stanford Computer Science portal",
+        "programming-courses",
+        "education-learning",
+        "cursos-programacion",
+        "resource",
+        "education"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "ocw-mit-60002",
+      "name": "ocw-mit-60002",
+      "slug": "ocw-mit-60002",
+      "description": "MIT 6.0002 Computational Thinking",
+      "url": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016",
+      "status": "active",
+      "tags": [
+        "programming-courses",
+        "education-learning",
+        "cursos-programacion",
+        "learning",
+        "education"
+      ],
+      "searchIndex": [
+        "ocw-mit-60002",
+        "MIT 6.0002 Computational Thinking",
+        "programming-courses",
+        "education-learning",
+        "cursos-programacion",
+        "learning",
+        "education"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "openstax-cs",
+      "name": "openstax-cs",
+      "slug": "openstax-cs",
+      "description": "Libros CS gratuitos OpenStax",
+      "url": "https://openstax.org/subjects/computer-science",
+      "status": "active",
+      "tags": [
+        "programming-courses",
+        "education-learning",
+        "resource",
+        "education",
+        "learning"
+      ],
+      "searchIndex": [
+        "openstax-cs",
+        "Libros CS gratuitos OpenStax",
+        "programming-courses",
+        "education-learning",
+        "resource",
+        "education",
+        "learning"
+      ],
+      "category": "education-learning",
+      "subcategory": "programming-courses",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "obscura-web",
+      "name": "obscura-web",
+      "slug": "obscura-web",
+      "description": "Privacidad y seguridad online anonima",
+      "url": "https://obscura.sh/",
+      "status": "active",
+      "tags": [
+        "security-auth",
+        "security-vpn",
+        "seguridad-auth",
+        "y-seguridad-vpn"
+      ],
+      "searchIndex": [
+        "obscura-web",
+        "Privacidad y seguridad online anonima",
+        "security-auth",
+        "security-vpn",
+        "seguridad-auth",
+        "y-seguridad-vpn"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "obscura-gh",
+      "name": "obscura-gh",
+      "slug": "obscura-gh",
+      "description": "Herramienta privacidad open source",
+      "url": "https://github.com/h4ckf0r0day/obscura",
+      "status": "active",
+      "tags": [
+        "security-auth",
+        "security-vpn",
+        "seguridad-auth",
+        "github"
+      ],
+      "searchIndex": [
+        "obscura-gh",
+        "Herramienta privacidad open source",
+        "security-auth",
+        "security-vpn",
+        "seguridad-auth",
+        "github"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "linux-server-secure-gh",
+      "name": "linux-server-secure-gh",
+      "slug": "linux-server-secure-gh",
+      "description": "Guia completa asegurar servidor Linux",
+      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server.git",
+      "status": "active",
+      "tags": [
+        "security-auth",
+        "security-vpn",
+        "seguridad-auth",
+        "github",
+        "tutorial"
+      ],
+      "searchIndex": [
+        "linux-server-secure-gh",
+        "Guia completa asegurar servidor Linux",
+        "security-auth",
+        "security-vpn",
+        "seguridad-auth",
+        "github",
+        "tutorial"
+      ],
+      "category": "security-vpn",
+      "subcategory": "security-auth",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
       "noCreditCard": true
     }
   ]

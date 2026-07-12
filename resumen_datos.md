@@ -342,6 +342,58 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 
 ---
 
+## ES - Actualizacion v13 (12/07/2026)
+
+- Fuente procesada: `preproyecto/links-insertados.md`.
+- Candidatos: 78 URLs.
+- Duplicados detectados y omitidos en insercion: 1.
+- Altas nuevas en `src/data`: 77.
+- Verificacion final: los 77 enlaces del lote existen en el dataset global.
+
+### Cambios aplicados v13
+
+| Dataset                                   | Antes | Nuevos | Total |
+| ----------------------------------------- | ----- | ------ | ----- |
+| `dns_seguridad_educacion`                 | 709   | +7     | 716   |
+| `ia_asistentes-desarrollo-china-imagen_1` | 234   | +47    | 281   |
+| `diseno-ui-ux_desarrollo_ide`             | 527   | +20    | 547   |
+| `utilidades_1`                            | 71    | +2     | 73    |
+| `pagos_game-dev_mobile`                   | 132   | +1     | 133   |
+
+### Cobertura tecnica v13
+
+- Se actualizaron `*-rec.json` con recursos, `resourceCount` y `searchIndex`.
+- Se regeneraron `*-struc.json` con `tags`, `filters`, `searchIndex.entries` y `ui.resourceCount`.
+- Se regeneraron `nombre-links.json` con nombres unicos ordenados.
+- YouTube (3), arXiv/papers (3), universidades (3) → `education-learning/programming-courses`.
+- GitHub AI/agents/skills (33), HuggingFace (2), otros AI (11) → `ia_asistentes-desarrollo-china-imagen_1/development`.
+- Dev tools (20) → `diseno-ui-ux_desarrollo_ide`.
+- Security (3) → `dns_seguridad_educacion/security-vpn/security-auth`.
+- Empleo (1) → `pagos_game-dev_mobile/payments/jobs`.
+- Total actual de recursos en `src/data/dates`: **2150**.
+
+## EN - v13 Update (2026-07-12)
+
+- Processed source: `preproyecto/links-insertados.md`.
+- Candidates: 78 URLs.
+- Duplicates skipped for insertion: 1.
+- New inserts in `src/data`: 77.
+- Final validation: all 77 links from this batch are present globally.
+
+### Technical coverage v13
+
+- Updated `*-rec.json` with resources, counters, and `searchIndex`.
+- Regenerated `*-struc.json` with `tags`, `filters`, `searchIndex.entries`, and `ui.resourceCount`.
+- Regenerated `nombre-links.json` with sorted unique names.
+- YouTube (3), arXiv/papers (3), university resources (3) → `education-learning/programming-courses`.
+- GitHub AI/agents/skills (33), HuggingFace (2), other AI (11) → `ia_asistentes-desarrollo-china-imagen_1/development`.
+- Dev tools (20) → `diseno-ui-ux_desarrollo_ide`.
+- Security (3) → `dns_seguridad_educacion/security-vpn/security-auth`.
+- Employment (1) → `pagos_game-dev_mobile/payments/jobs`.
+- Current total resources in `src/data/dates`: **2150**.
+
+---
+
 ## LINKS
 
 <!-- markdownlint-disable MD060 -->
@@ -428,3 +480,4 @@ The `xxxx` label does not mean a functional category. It only represents the rea
 | _10_      | **Fase 4** | Insercion y sync de 39 enlaces  | Inserted and synced 39 links  | 19:09 - 18/05/2026 |
 | _11_      | **Fase 4** | Insercion y sync de 287 enlaces | Inserted and synced 287 links | 17:52 - 25/05/2026 |
 | _12_      | **Fase 4** | Insercion y sync de 488 enlaces | Inserted and synced 488 links | 18:35 - 24/06/2026 |
+| _13_      | **Fase 4** | Insercion y sync de 77 enlaces  | Inserted and synced 77 links  | 14:00 - 12/07/2026 |

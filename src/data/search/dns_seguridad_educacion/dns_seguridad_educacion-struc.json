@@ -71,7 +71,7 @@
       "description": "Etiqueta aggregator"
     },
     "ai": {
-      "count": 21,
+      "count": 22,
       "color": "#dc2626",
       "description": "Etiqueta ai"
     },
@@ -896,7 +896,7 @@
       "description": "Etiqueta cursos-programacia-n"
     },
     "cursos-programacion": {
-      "count": 34,
+      "count": 36,
       "color": "#db2777",
       "description": "Etiqueta cursos-programacion"
     },
@@ -1136,12 +1136,12 @@
       "description": "Etiqueta educacion-aprendizaje"
     },
     "education": {
-      "count": 35,
+      "count": 38,
       "color": "#4f46e5",
       "description": "Etiqueta education"
     },
     "education-learning": {
-      "count": 324,
+      "count": 328,
       "color": "#ea580c",
       "description": "Etiqueta education-learning"
     },
@@ -1306,7 +1306,7 @@
       "description": "Etiqueta ghostscan"
     },
     "github": {
-      "count": 16,
+      "count": 18,
       "color": "#d97706",
       "description": "Etiqueta github"
     },
@@ -1621,7 +1621,7 @@
       "description": "Etiqueta learn-ai-engineering"
     },
     "learning": {
-      "count": 215,
+      "count": 218,
       "color": "#db2777",
       "description": "Etiqueta learning"
     },
@@ -2246,7 +2246,7 @@
       "description": "Etiqueta programming"
     },
     "programming-courses": {
-      "count": 528,
+      "count": 532,
       "color": "#7c3aed",
       "description": "Etiqueta programming-courses"
     },
@@ -2431,12 +2431,12 @@
       "description": "Etiqueta security"
     },
     "security-auth": {
-      "count": 36,
+      "count": 39,
       "color": "#65a30d",
       "description": "Etiqueta security-auth"
     },
     "security-vpn": {
-      "count": 33,
+      "count": 36,
       "color": "#d97706",
       "description": "Etiqueta security-vpn"
     },
@@ -2451,7 +2451,7 @@
       "description": "Etiqueta seeker-ngrok"
     },
     "seguridad-auth": {
-      "count": 31,
+      "count": 34,
       "color": "#059669",
       "description": "Etiqueta seguridad-auth"
     },
@@ -2751,7 +2751,7 @@
       "description": "Etiqueta turbovec"
     },
     "tutorial": {
-      "count": 123,
+      "count": 124,
       "color": "#7c3aed",
       "description": "Etiqueta tutorial"
     },
@@ -2811,7 +2811,7 @@
       "description": "Etiqueta vercel-com"
     },
     "video": {
-      "count": 86,
+      "count": 87,
       "color": "#0891b2",
       "description": "Etiqueta video"
     },
@@ -2961,12 +2961,12 @@
       "description": "Etiqueta y-s-educacia-n-aprendizaje"
     },
     "y-seguridad-vpn": {
-      "count": 31,
+      "count": 32,
       "color": "#d97706",
       "description": "Etiqueta y-seguridad-vpn"
     },
     "youtube": {
-      "count": 113,
+      "count": 114,
       "color": "#059669",
       "description": "Etiqueta youtube"
     },
@@ -3016,7 +3016,7 @@
       "description": "Etiqueta yt-short-clipper"
     },
     "resource": {
-      "count": 66,
+      "count": 68,
       "color": "#dc2626",
       "description": "Etiqueta resource"
     },
@@ -17891,6 +17891,152 @@
           "es"
         ],
         "searchText": "sql-easy sql-easy sql fácil en español paso a paso education-learning programming-courses sql database learning tutorial programming-courses"
+      },
+      {
+        "id": "how-computers-work-eth",
+        "name": "How-Computers-Work-ETH",
+        "slug": "how-computers-work-eth",
+        "description": "How Computers Work ETH Zurich Onur Mutlu",
+        "category": "education-learning",
+        "subcategory": "programming-courses",
+        "tags": [
+          "programming-courses",
+          "education-learning",
+          "youtube",
+          "video",
+          "learning",
+          "ai"
+        ],
+        "url": "https://youtube.com/playlist?list=PL5Q2soXY2Zi-NVn779PBtYziKiW-zdW5i&si=XPHT--oNLuOgKwaJ",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "how-computers-work-eth how-computers-work-eth how computers work eth zurich onur mutlu education-learning programming-courses programming-courses education-learning youtube video learning ai"
+      },
+      {
+        "id": "cs-stanford",
+        "name": "cs-stanford",
+        "slug": "cs-stanford",
+        "description": "Stanford Computer Science portal",
+        "category": "education-learning",
+        "subcategory": "programming-courses",
+        "tags": [
+          "programming-courses",
+          "education-learning",
+          "cursos-programacion",
+          "resource",
+          "education"
+        ],
+        "url": "https://www.cs.stanford.edu/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "cs-stanford cs-stanford stanford computer science portal education-learning programming-courses programming-courses education-learning cursos-programacion resource education"
+      },
+      {
+        "id": "ocw-mit-60002",
+        "name": "ocw-mit-60002",
+        "slug": "ocw-mit-60002",
+        "description": "MIT 6.0002 Computational Thinking",
+        "category": "education-learning",
+        "subcategory": "programming-courses",
+        "tags": [
+          "programming-courses",
+          "education-learning",
+          "cursos-programacion",
+          "learning",
+          "education"
+        ],
+        "url": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "ocw-mit-60002 ocw-mit-60002 mit 6.0002 computational thinking education-learning programming-courses programming-courses education-learning cursos-programacion learning education"
+      },
+      {
+        "id": "openstax-cs",
+        "name": "openstax-cs",
+        "slug": "openstax-cs",
+        "description": "Libros CS gratuitos OpenStax",
+        "category": "education-learning",
+        "subcategory": "programming-courses",
+        "tags": [
+          "programming-courses",
+          "education-learning",
+          "resource",
+          "education",
+          "learning"
+        ],
+        "url": "https://openstax.org/subjects/computer-science",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "openstax-cs openstax-cs libros cs gratuitos openstax education-learning programming-courses programming-courses education-learning resource education learning"
+      },
+      {
+        "id": "obscura-web",
+        "name": "obscura-web",
+        "slug": "obscura-web",
+        "description": "Privacidad y seguridad online anonima",
+        "category": "security-vpn",
+        "subcategory": "security-auth",
+        "tags": [
+          "security-auth",
+          "security-vpn",
+          "seguridad-auth",
+          "y-seguridad-vpn"
+        ],
+        "url": "https://obscura.sh/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "obscura-web obscura-web privacidad y seguridad online anonima security-vpn security-auth security-auth security-vpn seguridad-auth y-seguridad-vpn"
+      },
+      {
+        "id": "obscura-gh",
+        "name": "obscura-gh",
+        "slug": "obscura-gh",
+        "description": "Herramienta privacidad open source",
+        "category": "security-vpn",
+        "subcategory": "security-auth",
+        "tags": [
+          "security-auth",
+          "security-vpn",
+          "seguridad-auth",
+          "github"
+        ],
+        "url": "https://github.com/h4ckf0r0day/obscura",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "obscura-gh obscura-gh herramienta privacidad open source security-vpn security-auth security-auth security-vpn seguridad-auth github"
+      },
+      {
+        "id": "linux-server-secure-gh",
+        "name": "linux-server-secure-gh",
+        "slug": "linux-server-secure-gh",
+        "description": "Guia completa asegurar servidor Linux",
+        "category": "security-vpn",
+        "subcategory": "security-auth",
+        "tags": [
+          "security-auth",
+          "security-vpn",
+          "seguridad-auth",
+          "github",
+          "tutorial"
+        ],
+        "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server.git",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "linux-server-secure-gh linux-server-secure-gh guia completa asegurar servidor linux security-vpn security-auth security-auth security-vpn seguridad-auth github tutorial"
       }
     ]
   },
@@ -17935,6 +18081,6 @@
     "dataset": "dns_seguridad_educacion",
     "title": "DNS & Domain Resources - DevResources 2026",
     "description": "Recursos de DNS & Domain para desarrolladores",
-    "resourceCount": 709
+    "resourceCount": 716
   }
 }

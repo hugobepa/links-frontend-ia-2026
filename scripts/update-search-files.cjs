@@ -6,7 +6,7 @@ const { readFileSync, writeFileSync, existsSync } = require("fs");
 const { join } = require("path");
 
 const ROOT =
-  "c:/Users/User/Documents/programacion2025/repositorio/proyectos/links-frontend-ia-2026";
+  "c:/Users/User/Documents/programacion2025/prog_repositorio/proyectos/links-frontend-ia-2026";
 const DATES = join(ROOT, "src", "data", "dates");
 const SEARCH = join(ROOT, "src", "data", "search");
 

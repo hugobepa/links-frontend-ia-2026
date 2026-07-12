@@ -1,4 +1,4 @@
-﻿# ðŸ“š Knowledge Base Completa - Recursos Desarrolladores 2025-2026 (VERSIÃ“N FINAL)
+# ðŸ“š Knowledge Base Completa - Recursos Desarrolladores 2025-2026 (VERSIÃ“N FINAL)
 
 > **Fuentes:** `linksDev.md` + `linkGeneral.md` + `linkNuevo.md` + `linkNueva3.md` + `aÃ±adir_links_01052026.md` + `link_nuevos.md` + `link_nuevos_14052026.md`  
 > **Total recursos:** ~1207 Ãºnicos | **Sin duplicados** | **Descripciones â‰¤40 chars**  
@@ -961,6 +961,8 @@
 | **www-beautiful-ai**                  | Recurso de diseno                                      | Gratis            | [www.beautiful.ai](https://www.beautiful.ai)                                                                 |
 | **presenton**                         | Repositorio GitHub                                     | Recurso de diseno | Gratis                                                                                                       | [github.com](https://github.com/presenton/presenton) |
 
+| **subframe** | Diseno UI con IA a codigo real | [subframe.com](https://www.subframe.com/) |
+| **builder-io** | Headless CMS visual con IA integrada | [builder.io](https://www.builder.io/) |
 ### **Color & DiseÃ±o Visual**
 
 | **Nombre**            | **DescripciÃ³n**                                         | **Enlace**                                                                                       |
@@ -1029,6 +1031,7 @@
 | **Hono**         | Framework      | Framework web ultraligero para edge        | [hono.dev](https://hono.dev)                                     |
 | **Gstack**       | Framework      | Stack full-stack moderna development       | [github.com/garrytan/gstack](https://github.com/garrytan/gstack) |
 
+| **tinyrouter-gh** | Router HTTP minimalista y rapido | [github.com](https://github.com/harrrshall/tinyrouter) |
 ### **React Stack Libraries** â­ **NUEVA SUBCATEGORÃA**
 
 | **Nombre**                        | **CategorÃ­a**  | **DescripciÃ³n**                                       | **Enlace**                                                                   |
@@ -1063,6 +1066,8 @@
 | **notistack**                     | Notificaciones  | Snackbars avanzados, integrado con MUI                 | [notistack.com](https://notistack.com/)                                      |
 | **react-doctor-ref**              | Herramienta Dev | Paquete npm para diagnÃ³stico React                    | [npmjs.com/package/react-doctor](https://www.npmjs.com/package/react-doctor) |
 
+| **react-doctor-web** | Diagnostico y optimizacion React | [webreactiva.com](https://www.webreactiva.com/blog/react-doctor) |
+| **react-doctor-gh** | Herramienta diagnostico React apps | [github.com](https://github.com/millionco/react-doctor) |
 ### **IDE & Editores**
 
 | **Nombre**          | **DescripciÃ³n**                                          | **Enlace**                                                                       |
@@ -1136,6 +1141,22 @@
 | **skills-sh**               | CatÃ¡logo de skills para devs                             | [www.skills.sh/](https://www.skills.sh/)                                                                                                                                                    |
 | **winpodx**                 | Contenedores Linux ligeros en Windows                     | [github.com/kernalix7/winpodx](https://github.com/kernalix7/winpodx)                                                                                                                        |
 
+| **aider-web** | Asistente coding AI CLI pair programming | [aider.chat](https://aider.chat/) |
+| **aider-guia** | Guia completa Aider AI en espanol | [apidog.com](https://apidog.com/es/blog/aider-ai-2/) |
+| **aider-gh** | Repo oficial Aider AI coding agent | [github.com](https://github.com/aider-ai/aider) |
+| **repomix-web** | Empaqueta repos en un solo archivo AI | [repomix.com](https://repomix.com/) |
+| **repomix-guide** | Guia Repomix en espanol | [repomix.com](https://repomix.com/es/guide/) |
+| **repomix-dev-article** | Articulo Repopack tool Node.js | [dev.to](https://dev.to/yamadashy/repopack-a-simple-nodejs-tool-for-combining-repository-files-4o0d) |
+| **repomix-issue-325** | Issue #325 Repomix GitHub tracker | [github.com](https://github.com/yamadashy/repomix/issues/325) |
+| **nvm-windows-gh** | Node Version Manager para Windows | [github.com](https://github.com/coreybutler/nvm-windows) |
+| **nvm-guide** | Guia descarga e instalacion NVM | [nvmnode.com](https://www.nvmnode.com/es/guide/download.html) |
+| **volta** | Gestor versiones JS rapido y portable | [volta.sh](https://volta.sh/) |
+| **docusaurus** | Generador sitios documentacion React | [docusaurus.io](https://docusaurus.io/) |
+| **vitepress** | Generador docs estatico con Vite | [vitepress.dev](https://vitepress.dev/) |
+| **mintlify-docs-gen** | Auto-generar docs desde repositorios | [mintlify.com](https://www.mintlify.com/blog/auto-generate-docs-from-repos) |
+| **deepwiki** | Wiki automatica desde codigo fuente | [deepwiki.directory](https://deepwiki.directory/) |
+| **gitfut** | Visualizacion futurista actividad Git | [gitfut.com](https://gitfut.com/) |
+| **reicon-gh** | Reconstruye iconos Windows rotos | [github.com](https://github.com/dqev/reicon.git) |
 ### **Asistentes IA Generales**
 
 | **Nombre**      | **DescripciÃ³n**                             | **Enlace**                                                           | **Estado** |
@@ -1378,6 +1399,19 @@
 | **financial-services**        | Repositorio GitHub                                | Recurso de IA                                                                                                      | [github.com](https://github.com/anthropics/financial-services)                                           | âœ… Nuevo |
 | **claude-quickstarts**        | Repositorio GitHub                                | Recurso de IA                                                                                                      | [github.com](https://github.com/anthropics/claude-quickstarts)                                           | âœ… Nuevo |
 
+| **semantica-gh** | Framework agentes IA semanticos | [github.com](https://github.com/semantica-agi/semantica) |
+| **swarms-gh** | Orquestacion multi-agente escalable | [github.com](https://github.com/kyegomez/swarms) |
+| **agentUniverse-gh** | Framework multi-agente empresarial | [github.com](https://github.com/agentuniverse-ai/agentUniverse) |
+| **agent-framework-gh** | Microsoft Agent Framework oficial | [github.com](https://github.com/microsoft/agent-framework) |
+| **langchain-gh** | Framework LLM apps con cadenas y agentes | [github.com](https://github.com/langchain-ai/langchain) |
+| **openwiki-gh** | Wiki abierta colaborativa LangChain | [github.com](https://github.com/langchain-ai/openwiki.git) |
+| **muxi-gh** | Multi-agente ligero extensible | [github.com](https://github.com/ranaroussi/muxi) |
+| **cmux-gh** | Multi-agente con contexto compartido | [github.com](https://github.com/manaflow-ai/cmux.git) |
+| **meetily-gh** | Agente IA para reuniones y notas | [github.com](https://github.com/Zackriya-Solutions/meetily) |
+| **Fugu-gh** | Agentes IA Sakana AI Fugu | [github.com](https://github.com/SakanaAI/Fugu) |
+| **OpenFugu-gh** | Implementacion abierta Fugu agentes | [github.com](https://github.com/trotsky1997/OpenFugu) |
+| **limen-gh** | Plataforma agentes IA Limes Labs | [github.com](https://github.com/Limes-Labs/limen) |
+| **clawcodex-gh** | Agente coding autonomo avanzado | [github.com](https://github.com/agentforce314/clawcodex) |
 ### **UI con IA**
 
 | **Nombre**                  | **DescripciÃ³n**                                           | **Enlace**                                                                                             |
@@ -1489,6 +1523,27 @@
 | **claude-design-complete-guide-yt**   | GuÃ­a completa de Claude Design                 | [youtube.com/watch?v=eXlSgQmz02E](https://www.youtube.com/watch?v=eXlSgQmz02E)                                                             | âœ… Activo |
 | **andrew-ng-ai-agents-build-2024-yt** | Andrew Ng sobre agentes IA                      | [youtube.com/watch?v=KrRD7r7y7NY](https://www.youtube.com/watch?v=KrRD7r7y7NY)                                                             | âœ… Activo |
 
+| **Deep-Learning-Hardware-Dally** | Directions in Deep Learning Hardware - Bill Dally 01:27 | [youtu.be](https://youtu.be/gofI47kfD28?is=-KXXL9xwQ_5_j7qs) |
+| **RL-Keras-Full-Workshop** | Full Workshop Reinforcement Learning, Keras 02:43 | [youtu.be](https://youtu.be/OkEGJ5G3foU?is=glNlZwZJJL2Neztt) |
+| **arxiv-org** | Repositorio papers cientificos abierto | [arxiv.org](https://arxiv.org/) |
+| **arxiv-paper-2606** | Paper arXiv 2606.24937 investigacion IA | [arxiv.org](https://arxiv.org/abs/2606.24937) |
+| **arxiv-paper-1512** | Paper arXiv 1512.06808 deep learning | [arxiv.org](https://arxiv.org/abs/1512.06808) |
+| **openai-agents-guide** | Guia practica construir agentes OpenAI | [cdn.openai.com](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) |
+| **math-deep-pdf** | Math for Deep Learning (UPenn) PDF | [cis.upenn.edu](https://www.cis.upenn.edu/~jean/math-deep.pdf) |
+| **neural-networks-dkriesel** | Redes neuronales libro interactivo | [dkriesel.com](https://dkriesel.com/en/science/neural_networks) |
+| **neuronalenetze-pdf** | Neural Networks PDF libro Kriesel | [dkriesel.com](https://dkriesel.com/_media/science/neuronalenetze-en-zeta2-1col-dkrieselcom.pdf) |
+| **spinningup-openai** | RL profundo educativo OpenAI SpinningUp | [spinningup.openai.com](https://spinningup.openai.com/en/latest) |
+| **davidstarsilver** | David Silver teaching RL resources | [davidstarsilver.wordpress.com](https://davidstarsilver.wordpress.com/teaching) |
+| **AI-For-Beginners-gh** | Curso IA Microsoft 24 lecciones | [github.com](https://github.com/microsoft/AI-For-Beginners.git) |
+| **awesome-deep-learning-gh** | Lista curada recursos deep learning | [github.com](https://github.com/ChristosChristofidis/awesome-deep-learning) |
+| **Deep-Learning-Papers-Roadmap-gh** | Roadmap lectura papers DL ordenado | [github.com](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) |
+| **sutskever-reading-gh** | Lecturas recomendadas Ilya Sutskever | [github.com](https://github.com/dzyim/ilya-sutskever-recommended-reading) |
+| **exercises-dataset-gh** | Dataset ejercicios programacion ML | [github.com](https://github.com/hasaneyldrm/exercises-dataset) |
+| **awesome-gpu-engineering-gh** | Recursos ingenieria GPU y CUDA | [github.com](https://github.com/goabiaryan/awesome-gpu-engineering) |
+| **dl-acm-paper** | Paper ACM digital library DL 2025 | [dl.acm.org](https://dl.acm.org/doi/epdf/10.1145/3736227.3736235) |
+| **onnxruntime** | Inferencia ML cross-platform ONNX | [onnxruntime.ai](https://onnxruntime.ai/) |
+| **tensorflow-js** | ML en navegador y Node.js con TF.js | [tensorflow.org](https://www.tensorflow.org/js?hl=es) |
+| **LeetCUDA-gh** | Ejercicios CUDA estilo LeetCode | [github.com](https://github.com/xlite-dev/LeetCUDA) |
 ### **IA Herramientas Especializadas**
 
 | **Nombre**              | **DescripciÃ³n**                                    | **Enlace**                                                                                                                     | **Estado** |
@@ -1540,6 +1595,19 @@
 | **DeepSeek-TUI**        | Interface TUI terminal API DeepSeek                 | [github.com/Hmbown/DeepSeek-TUI.git](https://github.com/Hmbown/DeepSeek-TUI.git)                                               | âœ… Activo |
 | **kimi-k2-gguf** | Modelo Kimi K2.7 Code GGUF | [huggingface.co/unsloth/Kimi-K2.7-Code-GGUF](https://huggingface.co/unsloth/Kimi-K2.7-Code-GGUF) |
 
+| **LlamaFactory-gh** | Fine-tuning LLMs unificado y eficiente | [github.com](https://github.com/hiyouga/LlamaFactory) |
+| **axolotl-gh** | Fine-tuning LLMs simplificado cloud-native | [github.com](https://github.com/axolotl-ai-cloud/axolotl) |
+| **Unsloth-Studio-Colab** | Fine-tuning y studio Unsloth en Colab | [colab.research.google.com](https://colab.research.google.com/github/unslothai/unsloth/blob/main/studio/Unsloth_Studio_Colab.ipynb) |
+| **unsloth-start-doc** | Guia inicio rapido Unsloth Studio | [unsloth.ai](https://unsloth.ai/docs/new/studio/start) |
+| **unsloth-install-doc** | Guia instalacion Unsloth Studio | [unsloth.ai](https://unsloth.ai/docs/new/studio/install) |
+| **Unlimited-OCR-gh** | OCR avanzado sin limites Baidu | [github.com](https://github.com/baidu/Unlimited-OCR) |
+| **Tesseract-OCR-gh** | Motor OCR open source clasico | [github.com](https://github.com/tesseract-ocr/tesseract) |
+| **LiteRT-JS-gh** | Inferencia ML LiteRT en browser JS | [github.com](https://github.com/google-ai-edge/LiteRT/tree/main/litert/js) |
+| **Qwen3.6-NVFP4-hf** | Qwen 3.6 27B cuantizado NVFP4 | [huggingface.co](https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4) |
+| **fugusashi-router-hf** | Router LLM Fugusashi open source | [huggingface.co](https://huggingface.co/eulogik/fugusashi-router) |
+| **pollo-ai** | Generacion video IA en un clic | [pollo.ai](https://pollo.ai/invitation-landing) |
+| **loop-library** | Biblioteca loops y samples audio IA | [signals.forwardfuture.com](https://signals.forwardfuture.com/loop-library/) |
+| **hiraki-gh** | Plataforma agentes IA descentralizada | [github.com](https://github.com/ddoemonn/hiraki.git) |
 ---
 
 ---
@@ -1665,6 +1733,7 @@
 | **Vibe-Trading**                | Trading algorÃ­tmico con IA              | [github.com/HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)                                                                                                                             |
 | **ycombinator-rfs**             | Solicitudes de startups YC               | [ycombinator.com/rfs](https://www.ycombinator.com/rfs)                                                                                                                                             |
 
+| **ai-job-search-gh** | Busqueda empleo automatizada con IA | [github.com](https://github.com/MadsLorentzen/ai-job-search.git) |
 ---
 
 ## ðŸŽ® Game Dev
@@ -1775,6 +1844,9 @@
 | **www-echothrust-com**         | Recurso tecnico                                          | [www.echothrust.com](https://www.echothrust.com)                                                                                                       |
 | **pentesterlab-com**           | Recurso tecnico                                          | [pentesterlab.com](https://pentesterlab.com)                                                                                                           |
 
+| **obscura-web** | Privacidad y seguridad online anonima | [obscura.sh](https://obscura.sh/) |
+| **obscura-gh** | Herramienta privacidad open source | [github.com](https://github.com/h4ckf0r0day/obscura) |
+| **linux-server-secure-gh** | Guia completa asegurar servidor Linux | [github.com](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server.git) |
 ---
 
 ## ðŸ“š EducaciÃ³n & Aprendizaje
@@ -1888,6 +1960,9 @@
 | **sql-mystery** | Juego detectivesco SQL Knight Lab | [mystery.knightlab.com/](https://mystery.knightlab.com/) |
 | **sql-easy** | SQL fácil en español paso a paso | [sql-easy.com/es/](https://sql-easy.com/es/) |
 
+| **cs-stanford** | Stanford Computer Science portal | [cs.stanford.edu](https://www.cs.stanford.edu/) |
+| **ocw-mit** | MIT OpenCourseWare cursos gratuitos | [ocw.mit.edu](https://ocw.mit.edu/) |
+| **ocw-mit-60002** | MIT 6.0002 Computational Thinking | [ocw.mit.edu](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016) |
 ### **ArtÃ­culos CSS & Web**
 
 | **Nombre**                       | **DescripciÃ³n**                                  | **Enlace**                                                                                                                                                                  | **Estado** |
@@ -2002,6 +2077,7 @@
 | **Jelou AI**              | Canal YouTube oficial de Jelou AI | [youtube.com/@jelouai](https://www.youtube.com/@jelouai)                           |
 | **youtube-video** | Video educativo IA | [www.youtube.com/@BettaTech](https://www.youtube.com/@BettaTech) |
 
+| **How-Computers-Work-ETH** | How Computers Work (ETH Zurich, Onur Mutlu) | [youtube.com](https://youtube.com/playlist?list=PL5Q2soXY2Zi-NVn779PBtYziKiW-zdW5i&si=XPHT--oNLuOgKwaJ) |
 ### **Aprendizaje de InglÃ©s**
 
 | **Nombre**               | **DescripciÃ³n**                  | **Enlace**                                                         |
@@ -2181,6 +2257,7 @@
 | **bishoy-bishai-blog**         | Blog portfolio desarrollador                       | [bishoy-bishai.github.io/portfolio/blog](https://bishoy-bishai.github.io/portfolio/blog/)                                                                                            |
 | **Grounded**                   | Generador de datos reales y fiables                | [github.com/grounded-data/grounded](https://github.com/grounded-data/grounded)                                                                                                       |
 
+| **perthirtysix-qr** | Como funcionan los codigos QR | [perthirtysix.com](https://perthirtysix.com/how-the-heck-do-qr-codes-work) |
 ---
 
 ## ðŸ“‹ CMS & Content
@@ -2325,6 +2402,7 @@
 | **VersiÃ³n** | **Fecha**  | **Links Totales** | **Links AÃ±adidos** | **DescripciÃ³n**                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------ | ---------- | ----------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **v18**      | 24/06/2026 | 1904              | 5                 | Añadidos 5 enlaces: SQL(7), Libros(10), más |
+| **v19**      | 12/07/2026 | ~1982              | 78                 | Añadidos 78 enlaces: IA(58), Dev(18), Educ(7), Seg(3), UI(2), Util(2), Empleo(1) |
 | **v17**      | 24/06/2026 | 1899              | 5                 | Añadidos 5 enlaces: SQL(7), Libros(10), más |
 | **v16**      | 24/06/2026 | 1899              | 6                 | Añadidos 6 enlaces: SQL(7), Libros(10), más |
 | **v15**      | 24/06/2026 | 1898              | 6                 | Añadidos 6 enlaces: SQL(7), Libros(10), más |
@@ -2348,7 +2426,7 @@
 ### ðŸŒ³ Estructura de CategorÃ­as
 
 ```
-ðŸ“š Knowledge Base (~2069 recursos)
+ðŸ“š Knowledge Base (~2147 recursos)
 â”œâ”€â”€ â˜ï¸  Cloud & Hosting (~19)
 â”‚   â”œâ”€â”€ Proveedores Cloud Gratuitos (7)
 â”‚   â”œâ”€â”€ Hosting & Deploy (7)
@@ -2371,10 +2449,10 @@
 â”‚   â”œâ”€â”€ Referencias CSS/HTML (12)
 â”œâ”€â”€ ðŸ’» Desarrollo & IDE (~108)
 â”‚   â”œâ”€â”€ Frameworks & LibrerÃ­as (31)
-â”‚   â”œâ”€â”€ React Stack Libraries (31)
+â”‚   â”œâ”€â”€ React Stack Libraries (33)
 â”‚   â”œâ”€â”€ IDE & Editores (9)
 â”‚   â”œâ”€â”€ IDE Extensions & Tools (8)
-â”‚   â””â”€â”€ Herramientas Dev Varias (28)
+â”‚   â””â”€â”€ Herramientas Dev Varias (43)
 â”œâ”€â”€ ðŸ—„ï¸  Bases de Datos (~39)
 â”‚   â”œâ”€â”€ Managed Databases (14)
 â”‚   â”œâ”€â”€ Herramientas Database (20)
@@ -2388,8 +2466,8 @@
 â”‚   â”œâ”€â”€ IA Agentes & AutomatizaciÃ³n (58)
 â”‚   â”œâ”€â”€ UI con IA (17)
 â”‚   â”œâ”€â”€ Colecciones Prompts (11)
-â”‚   â”œâ”€â”€ IA Cursos & Aprendizaje (62)
-â”‚   â”œâ”€â”€ IA Herramientas Especializadas (48)
+â”‚   â”œâ”€â”€ IA Cursos & Aprendizaje (83)
+â”‚   â”œâ”€â”€ IA Herramientas Especializadas (61)
 â”‚   â””â”€â”€ IA Web APIs (10)
 â”œâ”€â”€ ðŸ“Š Analytics & Monitoring (~23)
 â”œâ”€â”€ ðŸ“§ Email & ComunicaciÃ³n (~28)
@@ -2399,7 +2477,7 @@
 â”‚   â””â”€â”€ Email Templates (1)
 â”œâ”€â”€ ðŸ’³ Pagos & MonetizaciÃ³n (~30)
 â”‚   â”œâ”€â”€ Procesadores de Pago (5)
-â”‚   â””â”€â”€ Monetización & Empleo (162)
+â”‚   â””â”€â”€ Monetización & Empleo (163)
 â”œâ”€â”€ ðŸŽ® Game Dev (~8)
 â”œâ”€â”€ ðŸ“± Mobile & PWA (~7)
 â”œâ”€â”€ ðŸŒ DNS & Domain (~9)
@@ -2408,11 +2486,12 @@
 â”‚   â””â”€â”€ Hosting Alternativo (2)
 â”œâ”€â”€ ðŸ” Seguridad & VPN (~33)
 â”‚   â”œâ”€â”€ VPN (7)
-â”‚   â””â”€â”€ Seguridad & Auth (23)
+â”‚   â””â”€â”€ Seguridad & Auth (26)
 â”œâ”€â”€ ðŸ“š EducaciÃ³n & Aprendizaje (~173)
-â”‚   â”œâ”€â”€ Cursos Programación (212)
+â”‚   â”œâ”€â”€ Cursos Programación (215)
 â”‚   â”œâ”€â”€ Libros & DocumentaciÃ³n (44)
-â”‚   â”œâ”€â”€ Canales YouTube (31)
+| **openstax-cs** | Libros CS gratuitos OpenStax | [openstax.org](https://openstax.org/subjects/computer-science) |
+â”‚   â”œâ”€â”€ Canales YouTube (32)
 â”‚   â”œâ”€â”€ Aprendizaje de InglÃ©s (7)
 â”‚   â”œâ”€â”€ Tutoriales JavaScript (9)
 â”‚   â”œâ”€â”€ Tutoriales CSS (5)
@@ -2428,8 +2507,8 @@
 â”‚   â”œâ”€â”€ Datos Falsos (15)
 â”‚   â”œâ”€â”€ Almacenamiento & Archivos (12)
 â”‚   â”œâ”€â”€ SEO & Scraping (13)
-â”‚   â”œâ”€â”€ Herramientas Dev (35)
-â”‚   â””â”€â”€ Recursos Generales (12)
+â”‚   â”œâ”€â”€ Herramientas Dev (36)
+â”‚   â””â”€â”€ Recursos Generales (13)
 â”œâ”€â”€ ðŸ“‹ CMS & Content (~10)
 â”‚   â”œâ”€â”€ CMS Headless (9)
 â”‚   â””â”€â”€ Otros CMS (1)

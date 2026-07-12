@@ -866,7 +866,7 @@
       "description": "Etiqueta dependencies"
     },
     "desarrollo-ide": {
-      "count": 42,
+      "count": 46,
       "color": "#2563eb",
       "description": "Etiqueta desarrollo-ide"
     },
@@ -876,7 +876,7 @@
       "description": "Etiqueta descript"
     },
     "design": {
-      "count": 57,
+      "count": 59,
       "color": "#7c3aed",
       "description": "Etiqueta design"
     },
@@ -896,7 +896,7 @@
       "description": "Etiqueta developer"
     },
     "development": {
-      "count": 311,
+      "count": 329,
       "color": "#65a30d",
       "description": "Etiqueta development"
     },
@@ -1551,7 +1551,7 @@
       "description": "Etiqueta ia-herramientas-especializadas"
     },
     "ia-para-desarrollo": {
-      "count": 39,
+      "count": 41,
       "color": "#059669",
       "description": "Etiqueta ia-para-desarrollo"
     },
@@ -1566,7 +1566,7 @@
       "description": "Etiqueta icons"
     },
     "ide": {
-      "count": 36,
+      "count": 40,
       "color": "#4f46e5",
       "description": "Etiqueta ide"
     },
@@ -1611,7 +1611,7 @@
       "description": "Etiqueta inspiracia-n-disea-o-ui-ux"
     },
     "inspiration": {
-      "count": 23,
+      "count": 25,
       "color": "#2563eb",
       "description": "Etiqueta inspiration"
     },
@@ -2506,7 +2506,7 @@
       "description": "Etiqueta ranking"
     },
     "react": {
-      "count": 21,
+      "count": 24,
       "color": "#65a30d",
       "description": "Etiqueta react"
     },
@@ -2971,7 +2971,7 @@
       "description": "Etiqueta toolbar"
     },
     "tools": {
-      "count": 277,
+      "count": 292,
       "color": "#059669",
       "description": "Etiqueta tools"
     },
@@ -3051,7 +3051,7 @@
       "description": "Etiqueta typescript"
     },
     "ui": {
-      "count": 40,
+      "count": 42,
       "color": "#dc2626",
       "description": "Etiqueta ui"
     },
@@ -3316,7 +3316,7 @@
       "description": "Etiqueta y-colecciones-prompts"
     },
     "y-desarrollo-ide": {
-      "count": 264,
+      "count": 281,
       "color": "#4f46e5",
       "description": "Etiqueta y-desarrollo-ide"
     },
@@ -3336,7 +3336,7 @@
       "description": "Etiqueta yue-gh"
     },
     "yz-disea-o-ui-ux": {
-      "count": 45,
+      "count": 47,
       "color": "#059669",
       "description": "Etiqueta yz-disea-o-ui-ux"
     },
@@ -14803,6 +14803,397 @@
           "en"
         ],
         "searchText": "headroom headroom repositorio github design components design ui github components"
+      },
+      {
+        "id": "aider-web",
+        "name": "aider-web",
+        "slug": "aider-web",
+        "description": "Asistente coding AI CLI pair programming",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "ide",
+          "y-desarrollo-ide"
+        ],
+        "url": "https://aider.chat/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "aider-web aider-web asistente coding ai cli pair programming development tools development tools ide y-desarrollo-ide"
+      },
+      {
+        "id": "aider-guia",
+        "name": "aider-guia",
+        "slug": "aider-guia",
+        "description": "Guia completa Aider AI en espanol",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "desarrollo-ide"
+        ],
+        "url": "https://apidog.com/es/blog/aider-ai-2/",
+        "pricing": "free",
+        "languages": [
+          "es"
+        ],
+        "searchText": "aider-guia aider-guia guia completa aider ai en espanol development tools development tools y-desarrollo-ide desarrollo-ide"
+      },
+      {
+        "id": "aider-gh",
+        "name": "aider-gh",
+        "slug": "aider-gh",
+        "description": "Repo oficial Aider AI coding agent",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "ide",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ],
+        "url": "https://github.com/aider-ai/aider",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "aider-gh aider-gh repo oficial aider ai coding agent development tools development tools ide y-desarrollo-ide ia-para-desarrollo"
+      },
+      {
+        "id": "repomix-web",
+        "name": "repomix-web",
+        "slug": "repomix-web",
+        "description": "Empaqueta repos en un solo archivo AI",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "ia-para-desarrollo"
+        ],
+        "url": "https://repomix.com/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "repomix-web repomix-web empaqueta repos en un solo archivo ai development tools development tools y-desarrollo-ide ia-para-desarrollo"
+      },
+      {
+        "id": "repomix-guide",
+        "name": "repomix-guide",
+        "slug": "repomix-guide",
+        "description": "Guia Repomix en espanol",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "desarrollo-ide"
+        ],
+        "url": "https://repomix.com/es/guide/",
+        "pricing": "free",
+        "languages": [
+          "es"
+        ],
+        "searchText": "repomix-guide repomix-guide guia repomix en espanol development tools development tools y-desarrollo-ide desarrollo-ide"
+      },
+      {
+        "id": "repomix-dev-article",
+        "name": "repomix-dev-article",
+        "slug": "repomix-dev-article",
+        "description": "Articulo Repopack tool Node.js",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "y-desarrollo-ide"
+        ],
+        "url": "https://dev.to/yamadashy/repopack-a-simple-nodejs-tool-for-combining-repository-files-4o0d",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "repomix-dev-article repomix-dev-article articulo repopack tool node.js development tools development tools y-desarrollo-ide"
+      },
+      {
+        "id": "repomix-issue-325",
+        "name": "repomix-issue-325",
+        "slug": "repomix-issue-325",
+        "description": "Issue #325 Repomix GitHub tracker",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "y-desarrollo-ide"
+        ],
+        "url": "https://github.com/yamadashy/repomix/issues/325",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "repomix-issue-325 repomix-issue-325 issue #325 repomix github tracker development tools development tools y-desarrollo-ide"
+      },
+      {
+        "id": "nvm-windows-gh",
+        "name": "nvm-windows-gh",
+        "slug": "nvm-windows-gh",
+        "description": "Node Version Manager para Windows",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "ide",
+          "y-desarrollo-ide"
+        ],
+        "url": "https://github.com/coreybutler/nvm-windows",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "nvm-windows-gh nvm-windows-gh node version manager para windows development tools development tools ide y-desarrollo-ide"
+      },
+      {
+        "id": "nvm-guide",
+        "name": "nvm-guide",
+        "slug": "nvm-guide",
+        "description": "Guia descarga e instalacion NVM",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "desarrollo-ide"
+        ],
+        "url": "https://www.nvmnode.com/es/guide/download.html",
+        "pricing": "free",
+        "languages": [
+          "es"
+        ],
+        "searchText": "nvm-guide nvm-guide guia descarga e instalacion nvm development tools development tools desarrollo-ide"
+      },
+      {
+        "id": "volta",
+        "name": "volta",
+        "slug": "volta",
+        "description": "Gestor versiones JS rapido y portable",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "ide",
+          "y-desarrollo-ide"
+        ],
+        "url": "https://volta.sh/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "volta volta gestor versiones js rapido y portable development tools development tools ide y-desarrollo-ide"
+      },
+      {
+        "id": "docusaurus",
+        "name": "docusaurus",
+        "slug": "docusaurus",
+        "description": "Generador sitios documentacion React",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "y-desarrollo-ide",
+          "react"
+        ],
+        "url": "https://docusaurus.io/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "docusaurus docusaurus generador sitios documentacion react development tools development tools y-desarrollo-ide react"
+      },
+      {
+        "id": "vitepress",
+        "name": "vitepress",
+        "slug": "vitepress",
+        "description": "Generador docs estatico con Vite",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "y-desarrollo-ide"
+        ],
+        "url": "https://vitepress.dev/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "vitepress vitepress generador docs estatico con vite development tools development tools y-desarrollo-ide"
+      },
+      {
+        "id": "mintlify-docs-gen",
+        "name": "mintlify-docs-gen",
+        "slug": "mintlify-docs-gen",
+        "description": "Auto-generar docs desde repositorios",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "y-desarrollo-ide"
+        ],
+        "url": "https://www.mintlify.com/blog/auto-generate-docs-from-repos",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "mintlify-docs-gen mintlify-docs-gen auto-generar docs desde repositorios development tools development tools y-desarrollo-ide"
+      },
+      {
+        "id": "deepwiki",
+        "name": "deepwiki",
+        "slug": "deepwiki",
+        "description": "Wiki automatica desde codigo fuente",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "y-desarrollo-ide"
+        ],
+        "url": "https://deepwiki.directory/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "deepwiki deepwiki wiki automatica desde codigo fuente development tools development tools y-desarrollo-ide"
+      },
+      {
+        "id": "gitfut",
+        "name": "gitfut",
+        "slug": "gitfut",
+        "description": "Visualizacion futurista actividad Git",
+        "category": "development",
+        "subcategory": "tools",
+        "tags": [
+          "development",
+          "tools",
+          "y-desarrollo-ide"
+        ],
+        "url": "https://gitfut.com/",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "gitfut gitfut visualizacion futurista actividad git development tools development tools y-desarrollo-ide"
+      },
+      {
+        "id": "react-doctor-web",
+        "name": "react-doctor-web",
+        "slug": "react-doctor-web",
+        "description": "Diagnostico y optimizacion React",
+        "category": "development",
+        "subcategory": "react-stack",
+        "tags": [
+          "development",
+          "react",
+          "y-desarrollo-ide",
+          "desarrollo-ide"
+        ],
+        "url": "https://www.webreactiva.com/blog/react-doctor",
+        "pricing": "free",
+        "languages": [
+          "es"
+        ],
+        "searchText": "react-doctor-web react-doctor-web diagnostico y optimizacion react development react-stack development react y-desarrollo-ide desarrollo-ide"
+      },
+      {
+        "id": "react-doctor-gh",
+        "name": "react-doctor-gh",
+        "slug": "react-doctor-gh",
+        "description": "Herramienta diagnostico React apps",
+        "category": "development",
+        "subcategory": "react-stack",
+        "tags": [
+          "development",
+          "react",
+          "y-desarrollo-ide"
+        ],
+        "url": "https://github.com/millionco/react-doctor",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "react-doctor-gh react-doctor-gh herramienta diagnostico react apps development react-stack development react y-desarrollo-ide"
+      },
+      {
+        "id": "tinyrouter-gh",
+        "name": "tinyrouter-gh",
+        "slug": "tinyrouter-gh",
+        "description": "Router HTTP minimalista y rapido",
+        "category": "development",
+        "subcategory": "frameworks",
+        "tags": [
+          "development",
+          "y-desarrollo-ide"
+        ],
+        "url": "https://github.com/harrrshall/tinyrouter",
+        "pricing": "free",
+        "languages": [
+          "en"
+        ],
+        "searchText": "tinyrouter-gh tinyrouter-gh router http minimalista y rapido development frameworks development y-desarrollo-ide"
+      },
+      {
+        "id": "subframe",
+        "name": "subframe",
+        "slug": "subframe",
+        "description": "Diseno UI con IA a codigo real",
+        "category": "design",
+        "subcategory": "inspiration",
+        "tags": [
+          "design",
+          "inspiration",
+          "yz-disea-o-ui-ux",
+          "ui"
+        ],
+        "url": "https://www.subframe.com/",
+        "pricing": "freemium",
+        "languages": [
+          "en"
+        ],
+        "searchText": "subframe subframe diseno ui con ia a codigo real design inspiration design inspiration yz-disea-o-ui-ux ui"
+      },
+      {
+        "id": "builder-io",
+        "name": "builder-io",
+        "slug": "builder-io",
+        "description": "Headless CMS visual con IA integrada",
+        "category": "design",
+        "subcategory": "inspiration",
+        "tags": [
+          "design",
+          "inspiration",
+          "yz-disea-o-ui-ux",
+          "ui"
+        ],
+        "url": "https://www.builder.io/",
+        "pricing": "freemium",
+        "languages": [
+          "en"
+        ],
+        "searchText": "builder-io builder-io headless cms visual con ia integrada design inspiration design inspiration yz-disea-o-ui-ux ui"
       }
     ]
   },
@@ -14852,6 +15243,6 @@
     "dataset": "diseno-ui-ux_desarrollo_ide",
     "title": "Design Resources - DevResources 2026",
     "description": "Recursos de Design para desarrolladores",
-    "resourceCount": 527
+    "resourceCount": 547
   }
 }

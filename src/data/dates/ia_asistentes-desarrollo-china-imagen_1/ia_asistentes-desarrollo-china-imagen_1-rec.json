@@ -3,7 +3,7 @@
     "id": "ai",
     "name": "Ai",
     "slug": "ai",
-    "resourceCount": 234,
+    "resourceCount": 281,
     "status": "active"
   },
   "subcategories": [
@@ -28,7 +28,7 @@
       "name": "Development",
       "slug": "development",
       "category": "ai",
-      "resourceCount": 205,
+      "resourceCount": 252,
       "status": "active"
     },
     {
@@ -7933,6 +7933,1497 @@
       "limits": "no-limits",
       "added": "2026-06-24",
       "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "deep-learning-hardware-dally",
+      "name": "Deep-Learning-Hardware-Dally",
+      "slug": "deep-learning-hardware-dally",
+      "description": "Directions in Deep Learning Hardware Dally",
+      "url": "https://youtu.be/gofI47kfD28?is=-KXXL9xwQ_5_j7qs",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "video"
+      ],
+      "searchIndex": [
+        "Deep-Learning-Hardware-Dally",
+        "deep-learning-hardware-dally",
+        "Directions in Deep Learning Hardware Dally",
+        "ai",
+        "development",
+        "video"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "rl-keras-full-workshop",
+      "name": "RL-Keras-Full-Workshop",
+      "slug": "rl-keras-full-workshop",
+      "description": "Full Workshop Reinforcement Learning Keras",
+      "url": "https://youtu.be/OkEGJ5G3foU?is=glNlZwZJJL2Neztt",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "video"
+      ],
+      "searchIndex": [
+        "RL-Keras-Full-Workshop",
+        "rl-keras-full-workshop",
+        "Full Workshop Reinforcement Learning Keras",
+        "ai",
+        "development",
+        "video"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-org",
+      "name": "arxiv-org",
+      "slug": "arxiv-org",
+      "description": "Repositorio papers cientificos abierto",
+      "url": "https://arxiv.org/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "arxiv-org",
+        "Repositorio papers cientificos abierto",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-paper-2606",
+      "name": "arxiv-paper-2606",
+      "slug": "arxiv-paper-2606",
+      "description": "Paper arXiv 2606.24937 investigacion IA",
+      "url": "https://arxiv.org/abs/2606.24937",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development"
+      ],
+      "searchIndex": [
+        "arxiv-paper-2606",
+        "Paper arXiv 2606.24937 investigacion IA",
+        "ai",
+        "development"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "arxiv-paper-1512",
+      "name": "arxiv-paper-1512",
+      "slug": "arxiv-paper-1512",
+      "description": "Paper arXiv 1512.06808 deep learning",
+      "url": "https://arxiv.org/abs/1512.06808",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development"
+      ],
+      "searchIndex": [
+        "arxiv-paper-1512",
+        "Paper arXiv 1512.06808 deep learning",
+        "ai",
+        "development"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "openai-agents-guide",
+      "name": "openai-agents-guide",
+      "slug": "openai-agents-guide",
+      "description": "Guia practica construir agentes OpenAI",
+      "url": "https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "agent"
+      ],
+      "searchIndex": [
+        "openai-agents-guide",
+        "Guia practica construir agentes OpenAI",
+        "ai",
+        "development",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "math-deep-pdf",
+      "name": "math-deep-pdf",
+      "slug": "math-deep-pdf",
+      "description": "Math for Deep Learning UPenn PDF",
+      "url": "https://www.cis.upenn.edu/~jean/math-deep.pdf",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "model"
+      ],
+      "searchIndex": [
+        "math-deep-pdf",
+        "Math for Deep Learning UPenn PDF",
+        "ai",
+        "development",
+        "model"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "neural-networks-dkriesel",
+      "name": "neural-networks-dkriesel",
+      "slug": "neural-networks-dkriesel",
+      "description": "Redes neuronales libro interactivo",
+      "url": "https://dkriesel.com/en/science/neural_networks",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "model"
+      ],
+      "searchIndex": [
+        "neural-networks-dkriesel",
+        "Redes neuronales libro interactivo",
+        "ai",
+        "development",
+        "model"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "neuronalenetze-pdf",
+      "name": "neuronalenetze-pdf",
+      "slug": "neuronalenetze-pdf",
+      "description": "Neural Networks PDF libro Kriesel",
+      "url": "https://dkriesel.com/_media/science/neuronalenetze-en-zeta2-1col-dkrieselcom.pdf",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "model"
+      ],
+      "searchIndex": [
+        "neuronalenetze-pdf",
+        "Neural Networks PDF libro Kriesel",
+        "ai",
+        "development",
+        "model"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "spinningup-openai",
+      "name": "spinningup-openai",
+      "slug": "spinningup-openai",
+      "description": "RL profundo educativo OpenAI SpinningUp",
+      "url": "https://spinningup.openai.com/en/latest",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "open-source"
+      ],
+      "searchIndex": [
+        "spinningup-openai",
+        "RL profundo educativo OpenAI SpinningUp",
+        "ai",
+        "development",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "davidstarsilver",
+      "name": "davidstarsilver",
+      "slug": "davidstarsilver",
+      "description": "David Silver teaching RL resources",
+      "url": "https://davidstarsilver.wordpress.com/teaching",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "video"
+      ],
+      "searchIndex": [
+        "davidstarsilver",
+        "David Silver teaching RL resources",
+        "ai",
+        "development",
+        "video"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "ai-for-beginners-gh",
+      "name": "AI-For-Beginners-gh",
+      "slug": "ai-for-beginners-gh",
+      "description": "Curso IA Microsoft 24 lecciones",
+      "url": "https://github.com/microsoft/AI-For-Beginners.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "llm"
+      ],
+      "searchIndex": [
+        "AI-For-Beginners-gh",
+        "ai-for-beginners-gh",
+        "Curso IA Microsoft 24 lecciones",
+        "ai",
+        "development",
+        "github",
+        "llm"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-deep-learning-gh",
+      "name": "awesome-deep-learning-gh",
+      "slug": "awesome-deep-learning-gh",
+      "description": "Lista curada recursos deep learning",
+      "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "awesome-deep-learning-gh",
+        "Lista curada recursos deep learning",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "deep-learning-papers-roadmap-gh",
+      "name": "Deep-Learning-Papers-Roadmap-gh",
+      "slug": "deep-learning-papers-roadmap-gh",
+      "description": "Roadmap lectura papers DL ordenado",
+      "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "Deep-Learning-Papers-Roadmap-gh",
+        "deep-learning-papers-roadmap-gh",
+        "Roadmap lectura papers DL ordenado",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "sutskever-reading-gh",
+      "name": "sutskever-reading-gh",
+      "slug": "sutskever-reading-gh",
+      "description": "Lecturas recomendadas Ilya Sutskever",
+      "url": "https://github.com/dzyim/ilya-sutskever-recommended-reading",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "model"
+      ],
+      "searchIndex": [
+        "sutskever-reading-gh",
+        "Lecturas recomendadas Ilya Sutskever",
+        "ai",
+        "development",
+        "github",
+        "model"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "exercises-dataset-gh",
+      "name": "exercises-dataset-gh",
+      "slug": "exercises-dataset-gh",
+      "description": "Dataset ejercicios programacion ML",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "exercises-dataset-gh",
+        "Dataset ejercicios programacion ML",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "awesome-gpu-engineering-gh",
+      "name": "awesome-gpu-engineering-gh",
+      "slug": "awesome-gpu-engineering-gh",
+      "description": "Recursos ingenieria GPU y CUDA",
+      "url": "https://github.com/goabiaryan/awesome-gpu-engineering",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "awesome-gpu-engineering-gh",
+        "Recursos ingenieria GPU y CUDA",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "dl-acm-paper",
+      "name": "dl-acm-paper",
+      "slug": "dl-acm-paper",
+      "description": "Paper ACM digital library DL 2025",
+      "url": "https://dl.acm.org/doi/epdf/10.1145/3736227.3736235",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "model"
+      ],
+      "searchIndex": [
+        "dl-acm-paper",
+        "Paper ACM digital library DL 2025",
+        "ai",
+        "development",
+        "model"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "onnxruntime",
+      "name": "onnxruntime",
+      "slug": "onnxruntime",
+      "description": "Inferencia ML cross-platform ONNX",
+      "url": "https://onnxruntime.ai/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "model",
+        "open-source"
+      ],
+      "searchIndex": [
+        "onnxruntime",
+        "Inferencia ML cross-platform ONNX",
+        "ai",
+        "development",
+        "model",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "tensorflow-js",
+      "name": "tensorflow-js",
+      "slug": "tensorflow-js",
+      "description": "ML en navegador y Node.js con TF.js",
+      "url": "https://www.tensorflow.org/js?hl=es",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "model",
+        "open-source"
+      ],
+      "searchIndex": [
+        "tensorflow-js",
+        "ML en navegador y Node.js con TF.js",
+        "ai",
+        "development",
+        "model",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "leetcuda-gh",
+      "name": "LeetCUDA-gh",
+      "slug": "leetcuda-gh",
+      "description": "Ejercicios CUDA estilo LeetCode",
+      "url": "https://github.com/xlite-dev/LeetCUDA",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github"
+      ],
+      "searchIndex": [
+        "LeetCUDA-gh",
+        "leetcuda-gh",
+        "Ejercicios CUDA estilo LeetCode",
+        "ai",
+        "development",
+        "github"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "llamafactory-gh",
+      "name": "LlamaFactory-gh",
+      "slug": "llamafactory-gh",
+      "description": "Fine-tuning LLMs unificado y eficiente",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "llm",
+        "open-source"
+      ],
+      "searchIndex": [
+        "LlamaFactory-gh",
+        "llamafactory-gh",
+        "Fine-tuning LLMs unificado y eficiente",
+        "ai",
+        "development",
+        "github",
+        "llm",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "axolotl-gh",
+      "name": "axolotl-gh",
+      "slug": "axolotl-gh",
+      "description": "Fine-tuning LLMs simplificado cloud-native",
+      "url": "https://github.com/axolotl-ai-cloud/axolotl",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "llm"
+      ],
+      "searchIndex": [
+        "axolotl-gh",
+        "Fine-tuning LLMs simplificado cloud-native",
+        "ai",
+        "development",
+        "github",
+        "llm"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "unsloth-studio-colab",
+      "name": "Unsloth-Studio-Colab",
+      "slug": "unsloth-studio-colab",
+      "description": "Fine-tuning y studio Unsloth en Colab",
+      "url": "https://colab.research.google.com/github/unslothai/unsloth/blob/main/studio/Unsloth_Studio_Colab.ipynb",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "llm",
+        "freemium"
+      ],
+      "searchIndex": [
+        "Unsloth-Studio-Colab",
+        "unsloth-studio-colab",
+        "Fine-tuning y studio Unsloth en Colab",
+        "ai",
+        "development",
+        "llm",
+        "freemium"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "unsloth-start-doc",
+      "name": "unsloth-start-doc",
+      "slug": "unsloth-start-doc",
+      "description": "Guia inicio rapido Unsloth Studio",
+      "url": "https://unsloth.ai/docs/new/studio/start",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "llm",
+        "freemium"
+      ],
+      "searchIndex": [
+        "unsloth-start-doc",
+        "Guia inicio rapido Unsloth Studio",
+        "ai",
+        "development",
+        "llm",
+        "freemium"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "freemium",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "unsloth-install-doc",
+      "name": "unsloth-install-doc",
+      "slug": "unsloth-install-doc",
+      "description": "Guia instalacion Unsloth Studio",
+      "url": "https://unsloth.ai/docs/new/studio/install",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "llm",
+        "freemium"
+      ],
+      "searchIndex": [
+        "unsloth-install-doc",
+        "Guia instalacion Unsloth Studio",
+        "ai",
+        "development",
+        "llm",
+        "freemium"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "freemium",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "unlimited-ocr-gh",
+      "name": "Unlimited-OCR-gh",
+      "slug": "unlimited-ocr-gh",
+      "description": "OCR avanzado sin limites Baidu",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "china"
+      ],
+      "searchIndex": [
+        "Unlimited-OCR-gh",
+        "unlimited-ocr-gh",
+        "OCR avanzado sin limites Baidu",
+        "ai",
+        "development",
+        "github",
+        "china"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "tesseract-ocr-gh",
+      "name": "Tesseract-OCR-gh",
+      "slug": "tesseract-ocr-gh",
+      "description": "Motor OCR open source clasico",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "searchIndex": [
+        "Tesseract-OCR-gh",
+        "tesseract-ocr-gh",
+        "Motor OCR open source clasico",
+        "ai",
+        "development",
+        "github",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "litert-js-gh",
+      "name": "LiteRT-JS-gh",
+      "slug": "litert-js-gh",
+      "description": "Inferencia ML LiteRT en browser JS",
+      "url": "https://github.com/google-ai-edge/LiteRT/tree/main/litert/js",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "model"
+      ],
+      "searchIndex": [
+        "LiteRT-JS-gh",
+        "litert-js-gh",
+        "Inferencia ML LiteRT en browser JS",
+        "ai",
+        "development",
+        "github",
+        "model"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "qwen36-nvfp4-hf",
+      "name": "Qwen3.6-NVFP4-hf",
+      "slug": "qwen36-nvfp4-hf",
+      "description": "Qwen 3.6 27B cuantizado NVFP4",
+      "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "huggingface",
+        "model",
+        "llm"
+      ],
+      "searchIndex": [
+        "Qwen3.6-NVFP4-hf",
+        "qwen36-nvfp4-hf",
+        "Qwen 3.6 27B cuantizado NVFP4",
+        "ai",
+        "development",
+        "huggingface",
+        "model",
+        "llm"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "fugusashi-router-hf",
+      "name": "fugusashi-router-hf",
+      "slug": "fugusashi-router-hf",
+      "description": "Router LLM Fugusashi open source",
+      "url": "https://huggingface.co/eulogik/fugusashi-router",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "huggingface",
+        "llm"
+      ],
+      "searchIndex": [
+        "fugusashi-router-hf",
+        "Router LLM Fugusashi open source",
+        "ai",
+        "development",
+        "huggingface",
+        "llm"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "pollo-ai",
+      "name": "pollo-ai",
+      "slug": "pollo-ai",
+      "description": "Generacion video IA en un clic",
+      "url": "https://pollo.ai/invitation-landing",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "video",
+        "freemium"
+      ],
+      "searchIndex": [
+        "pollo-ai",
+        "Generacion video IA en un clic",
+        "ai",
+        "development",
+        "video",
+        "freemium"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "freemium",
+      "languages": [
+        "en"
+      ],
+      "limits": "freemium",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": false
+    },
+    {
+      "id": "loop-library",
+      "name": "loop-library",
+      "slug": "loop-library",
+      "description": "Biblioteca loops y samples audio IA",
+      "url": "https://signals.forwardfuture.com/loop-library/",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "audio"
+      ],
+      "searchIndex": [
+        "loop-library",
+        "Biblioteca loops y samples audio IA",
+        "ai",
+        "development",
+        "audio"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "hiraki-gh",
+      "name": "hiraki-gh",
+      "slug": "hiraki-gh",
+      "description": "Plataforma agentes IA descentralizada",
+      "url": "https://github.com/ddoemonn/hiraki.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "searchIndex": [
+        "hiraki-gh",
+        "Plataforma agentes IA descentralizada",
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "semantica-gh",
+      "name": "semantica-gh",
+      "slug": "semantica-gh",
+      "description": "Framework agentes IA semanticos",
+      "url": "https://github.com/semantica-agi/semantica",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "searchIndex": [
+        "semantica-gh",
+        "Framework agentes IA semanticos",
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "swarms-gh",
+      "name": "swarms-gh",
+      "slug": "swarms-gh",
+      "description": "Orquestacion multi-agente escalable",
+      "url": "https://github.com/kyegomez/swarms",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "searchIndex": [
+        "swarms-gh",
+        "Orquestacion multi-agente escalable",
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "agentuniverse-gh",
+      "name": "agentUniverse-gh",
+      "slug": "agentuniverse-gh",
+      "description": "Framework multi-agente empresarial",
+      "url": "https://github.com/agentuniverse-ai/agentUniverse",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "searchIndex": [
+        "agentUniverse-gh",
+        "agentuniverse-gh",
+        "Framework multi-agente empresarial",
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "agent-framework-gh",
+      "name": "agent-framework-gh",
+      "slug": "agent-framework-gh",
+      "description": "Microsoft Agent Framework oficial",
+      "url": "https://github.com/microsoft/agent-framework",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "searchIndex": [
+        "agent-framework-gh",
+        "Microsoft Agent Framework oficial",
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "langchain-gh",
+      "name": "langchain-gh",
+      "slug": "langchain-gh",
+      "description": "Framework LLM apps con cadenas y agentes",
+      "url": "https://github.com/langchain-ai/langchain",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent",
+        "llm",
+        "open-source"
+      ],
+      "searchIndex": [
+        "langchain-gh",
+        "Framework LLM apps con cadenas y agentes",
+        "ai",
+        "development",
+        "github",
+        "agent",
+        "llm",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "openwiki-gh",
+      "name": "openwiki-gh",
+      "slug": "openwiki-gh",
+      "description": "Wiki abierta colaborativa LangChain",
+      "url": "https://github.com/langchain-ai/openwiki.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "searchIndex": [
+        "openwiki-gh",
+        "Wiki abierta colaborativa LangChain",
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "muxi-gh",
+      "name": "muxi-gh",
+      "slug": "muxi-gh",
+      "description": "Multi-agente ligero extensible",
+      "url": "https://github.com/ranaroussi/muxi",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "searchIndex": [
+        "muxi-gh",
+        "Multi-agente ligero extensible",
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "cmux-gh",
+      "name": "cmux-gh",
+      "slug": "cmux-gh",
+      "description": "Multi-agente con contexto compartido",
+      "url": "https://github.com/manaflow-ai/cmux.git",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "searchIndex": [
+        "cmux-gh",
+        "Multi-agente con contexto compartido",
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "meetily-gh",
+      "name": "meetily-gh",
+      "slug": "meetily-gh",
+      "description": "Agente IA para reuniones y notas",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "searchIndex": [
+        "meetily-gh",
+        "Agente IA para reuniones y notas",
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "fugu-gh",
+      "name": "Fugu-gh",
+      "slug": "fugu-gh",
+      "description": "Agentes IA Sakana AI Fugu",
+      "url": "https://github.com/SakanaAI/Fugu",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "searchIndex": [
+        "Fugu-gh",
+        "fugu-gh",
+        "Agentes IA Sakana AI Fugu",
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "openfugu-gh",
+      "name": "OpenFugu-gh",
+      "slug": "openfugu-gh",
+      "description": "Implementacion abierta Fugu agentes",
+      "url": "https://github.com/trotsky1997/OpenFugu",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent",
+        "open-source"
+      ],
+      "searchIndex": [
+        "OpenFugu-gh",
+        "openfugu-gh",
+        "Implementacion abierta Fugu agentes",
+        "ai",
+        "development",
+        "github",
+        "agent",
+        "open-source"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "limen-gh",
+      "name": "limen-gh",
+      "slug": "limen-gh",
+      "description": "Plataforma agentes IA Limes Labs",
+      "url": "https://github.com/Limes-Labs/limen",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "searchIndex": [
+        "limen-gh",
+        "Plataforma agentes IA Limes Labs",
+        "ai",
+        "development",
+        "github",
+        "agent"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "clawcodex-gh",
+      "name": "clawcodex-gh",
+      "slug": "clawcodex-gh",
+      "description": "Agente coding autonomo avanzado",
+      "url": "https://github.com/agentforce314/clawcodex",
+      "status": "active",
+      "tags": [
+        "ai",
+        "development",
+        "github",
+        "agent",
+        "coding"
+      ],
+      "searchIndex": [
+        "clawcodex-gh",
+        "Agente coding autonomo avanzado",
+        "ai",
+        "development",
+        "github",
+        "agent",
+        "coding"
+      ],
+      "category": "ai",
+      "subcategory": "development",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
       "noCreditCard": true
     }
   ]

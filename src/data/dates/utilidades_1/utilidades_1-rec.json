@@ -3,7 +3,7 @@
     "id": "utilities",
     "name": "Utilities",
     "slug": "utilities",
-    "resourceCount": 71,
+    "resourceCount": 73,
     "status": "active"
   },
   "subcategories": [
@@ -28,7 +28,7 @@
       "name": "Productivity",
       "slug": "productivity",
       "category": "utilities",
-      "resourceCount": 42,
+      "resourceCount": 44,
       "status": "active"
     }
   ],
@@ -2560,6 +2560,70 @@
       "limits": "no-limits",
       "added": "2026-06-24",
       "verified": false,
+      "noCreditCard": true
+    },
+    {
+      "id": "perthirtysix-qr",
+      "name": "perthirtysix-qr",
+      "slug": "perthirtysix-qr",
+      "description": "Como funcionan los codigos QR",
+      "url": "https://perthirtysix.com/how-the-heck-do-qr-codes-work",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "utilities",
+        "y-utilidades-herramientas",
+        "tools"
+      ],
+      "searchIndex": [
+        "perthirtysix-qr",
+        "Como funcionan los codigos QR",
+        "productivity",
+        "utilities",
+        "y-utilidades-herramientas",
+        "tools"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
+      "noCreditCard": true
+    },
+    {
+      "id": "reicon-gh",
+      "name": "reicon-gh",
+      "slug": "reicon-gh",
+      "description": "Reconstruye iconos Windows rotos",
+      "url": "https://github.com/dqev/reicon.git",
+      "status": "active",
+      "tags": [
+        "productivity",
+        "utilities",
+        "y-utilidades-herramientas",
+        "github"
+      ],
+      "searchIndex": [
+        "reicon-gh",
+        "Reconstruye iconos Windows rotos",
+        "productivity",
+        "utilities",
+        "y-utilidades-herramientas",
+        "github"
+      ],
+      "category": "utilities",
+      "subcategory": "productivity",
+      "pricing": "free",
+      "languages": [
+        "en"
+      ],
+      "limits": "no-limits",
+      "added": "2026-07-12",
+      "verified": true,
       "noCreditCard": true
     }
   ]
